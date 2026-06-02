@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IELTS Writing Mock Test 01 | Saola</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../../assets/css/saola-base.css">
+  <link rel="stylesheet" href="../../../assets/css/writing-test.css">
+</head>
+<body class="writing-test-page"
+  data-test-id="writing_mock_test_01"
+  data-gas-url="https://script.google.com/macros/s/AKfycbz6mSuAhOl6yIEfuYYLPUvi4LAjTOTwA0t3ik5MBi515I7twRBsWNLR-2apjRwqQgPbFw/exec">
+
+  <div class="start-overlay" id="startOverlay">
+    <div class="start-card">
+      <section class="start-info">
+        <div class="brand-lockup">
+          <img src="../../../assets/images/ducthangbui-logo-rect.png" alt="Saola" class="start-logo">
+        </div>
+        <span class="test-kicker">IELTS Writing Mock Test</span>
+        <h1>Writing Mock Test 01</h1>
+        <p class="start-lead">60 phút làm bài trong điều kiện nghiêm túc. Hệ thống ghi nhận bài viết, word count và các tín hiệu anti-cheat của học viên đã đăng nhập.</p>
+
+        <div class="anti-cheat-box">
+          <h2>Cảnh báo anti-cheat / Anti-cheat warning</h2>
+          <p>Trong chế độ đăng nhập, hệ thống ghi nhận các hành vi sau và gửi về giáo viên phụ trách để đối chiếu khi chấm.</p>
+          <ul class="anti-cheat-list">
+            <li><span>Đổi tab hoặc rời khỏi trang</span><small>Switching tabs or leaving the test page</small></li>
+            <li><span>Thoát toàn màn hình</span><small>Exiting fullscreen mode</small></li>
+            <li><span>Cửa sổ bài thi mất focus</span><small>The test window loses focus</small></li>
+            <li><span>Dán/sao chép/cắt nội dung</span><small>Paste/copy/cut content</small></li>
+            <li><span>Click chuột phải</span><small>Right click</small></li>
+            <li><span>Đóng hoặc tải lại trang</span><small>Closing or reloading the page</small></li>
+          </ul>
+        </div>
+
+        <div class="rules-box">
+          <h2>Quy định khi làm bài</h2>
+          <ul class="rules-list">
+            <li>Làm bài trên máy tính/laptop.</li>
+            <li>Khi bắt đầu, trang chuyển sang fullscreen.</li>
+            <li>Không paste nội dung từ bên ngoài.</li>
+            <li>Vượt quá 5 vi phạm, bài có thể tự nộp.</li>
+            <li>Hết 60 phút, hệ thống tự nộp bài.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="start-auth">
+        <div class="auth-heading">
+          <span class="mode-badge">Proctored</span>
+          <h2>Đăng nhập học viên</h2>
+          <p>Chỉ học viên có trạng thái “Đang học” trong hệ thống Saola mới được lưu kết quả bài test.</p>
+        </div>
+
+        <p class="auth-note">Bạn có thể làm mock test mà không cần đăng nhập, nhưng kết quả sẽ không được ghi lại và gửi tới giáo viên phụ trách.</p>
+
+        <label class="field-label" for="studentEmail">Email học viên</label>
+        <input id="studentEmail" class="field-input" type="email" autocomplete="email" placeholder="name@example.com">
+
+        <label class="field-label" for="studentPassword">Mật khẩu</label>
+        <input id="studentPassword" class="field-input" type="password" autocomplete="current-password" placeholder="Nhập mật khẩu tài khoản học viên">
+
+        <p id="startError" class="start-error" role="alert"></p>
+        <div class="auth-actions">
+          <button id="startBtn" class="primary-btn">Đăng nhập và bắt đầu</button>
+          <button id="guestBtn" class="ghost-btn" type="button">Guest Mode</button>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <header class="test-header">
+    <div class="header-left">
+      <a href="index.html" class="test-logo-link" aria-label="Back to start screen">
+        <img src="../../../assets/images/ducthangbui-logo-rect.png" alt="Saola" class="test-logo">
+      </a>
+      <div>
+        <strong>Writing Mock Test 01</strong>
+        <span id="attemptLabel">Chưa bắt đầu</span>
+      </div>
+    </div>
+    <div class="header-center">
+      <span class="mode-badge">Proctored</span>
+      <span id="saveStatus" class="save-status">Not saved</span>
+      <span id="violationBadge" class="violation-badge">Violations 0/5</span>
+    </div>
+    <div class="header-right">
+      <span id="timerDisplay" class="timer-display">60:00</span>
+      <button id="submitTopBtn" class="submit-btn" disabled>Submit</button>
+    </div>
+  </header>
+
+  <main id="writingShell" class="writing-shell" aria-live="polite">
+    <section class="prompt-panel">
+      <div class="task-switch">
+        <button class="task-switch-btn active" data-task-target="1">Task 1</button>
+        <button class="task-switch-btn" data-task-target="2">Task 2</button>
+      </div>
+
+      <article id="promptTask1" class="prompt-section active">
+        <div class="part-card">
+          <h1>Part 1</h1>
+          <p>You should spend about 20 minutes on this task. Write at least 150 words.</p>
+        </div>
+        <div class="task-text-block">
+          <p class="task-prompt">The pie charts below show the percentage of five kinds of books sold by a bookseller between 1972 and 2012.</p>
+          <p class="task-instruction">Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</p>
+        </div>
+
+        <div class="chart-board" aria-label="Pie charts of five kinds of books sold by a bookseller in 1972, 1992 and 2012">
+          <div class="pie-card">
+            <div class="pie pie-1972"></div>
+            <h2>1972</h2>
+            <ul class="legend-list">
+              <li><span class="dot adult"></span>Adult fiction 20%</li>
+              <li><span class="dot children"></span>Children's fiction 20%</li>
+              <li><span class="dot biography"></span>Biography 20%</li>
+              <li><span class="dot travel"></span>Travel 15%</li>
+              <li><span class="dot others"></span>Others 25%</li>
+            </ul>
+          </div>
+          <div class="pie-card">
+            <div class="pie pie-1992"></div>
+            <h2>1992</h2>
+            <ul class="legend-list">
+              <li><span class="dot adult"></span>Adult fiction 25%</li>
+              <li><span class="dot children"></span>Children's fiction 22%</li>
+              <li><span class="dot biography"></span>Biography 15%</li>
+              <li><span class="dot travel"></span>Travel 18%</li>
+              <li><span class="dot others"></span>Others 20%</li>
+            </ul>
+          </div>
+          <div class="pie-card wide">
+            <div class="pie pie-2012"></div>
+            <h2>2012</h2>
+            <ul class="legend-list">
+              <li><span class="dot adult"></span>Adult fiction 45%</li>
+              <li><span class="dot children"></span>Children's fiction 25%</li>
+              <li><span class="dot biography"></span>Biography 8%</li>
+              <li><span class="dot travel"></span>Travel 10%</li>
+              <li><span class="dot others"></span>Others 12%</li>
+            </ul>
+          </div>
+        </div>
+      </article>
+
+      <article id="promptTask2" class="prompt-section">
+        <div class="part-card">
+          <h1>Part 2</h1>
+          <p>You should spend about 40 minutes on this task. Write at least 250 words.</p>
+        </div>
+        <div class="task2-prompt-block">
+          <p>Write about the following topic:</p>
+          <p class="task-prompt">It is right that top sports people should be paid a lot of money. To what extent do you agree or disagree?</p>
+          <p>Give reasons for your answer and include any relevant examples from your own knowledge or experience.</p>
+        </div>
+      </article>
+    </section>
+
+    <div id="splitHandle" class="split-handle" role="separator" aria-label="Resize writing panels" aria-orientation="vertical" tabindex="0">
+      <span>↔</span>
+    </div>
+
+    <section class="editor-panel">
+      <div class="editor-tabs">
+        <button class="editor-tab active" data-editor-target="1">
+          Task 1 <span id="wcTab1">0 words</span>
+        </button>
+        <button class="editor-tab" data-editor-target="2">
+          Task 2 <span id="wcTab2">0 words</span>
+        </button>
+      </div>
+
+      <div id="editorTask1" class="editor-section active">
+        <label for="task1Text">Your Task 1 answer</label>
+        <textarea id="task1Text" spellcheck="false" placeholder="Write your Task 1 response here..."></textarea>
+        <div class="editor-footer">
+          <span id="wc1">0 words</span>
+          <span id="min1" class="word-warning">Minimum 150 words</span>
+        </div>
+      </div>
+
+      <div id="editorTask2" class="editor-section">
+        <label for="task2Text">Your Task 2 answer</label>
+        <textarea id="task2Text" spellcheck="false" placeholder="Write your Task 2 essay here..."></textarea>
+        <div class="editor-footer">
+          <span id="wc2">0 words</span>
+          <span id="min2" class="word-warning">Minimum 250 words</span>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="warningToast" class="warning-toast" role="status"></div>
+  <div id="finishSoundHost" class="finish-sound-host" aria-hidden="true"></div>
+
+  <div id="violationModal" class="modal-overlay violation-modal" aria-hidden="true">
+    <div class="modal-card violation-card">
+      <span class="modal-kicker">Anti-cheat warning</span>
+      <h2>Cảnh báo vi phạm / Violation warning</h2>
+      <p id="violationMessage"></p>
+      <p id="violationCountText" class="violation-count-text"></p>
+      <button id="ackViolationBtn" class="primary-btn" type="button">Tôi đã hiểu, tiếp tục làm bài</button>
+    </div>
+  </div>
+
+  <div id="submitModal" class="modal-overlay" aria-hidden="true">
+    <div class="modal-card">
+      <h2>Submit Writing Test?</h2>
+      <p id="submitSummary"></p>
+      <div class="modal-actions">
+        <button id="cancelSubmitBtn" class="secondary-btn">Back to test</button>
+        <button id="confirmSubmitBtn" class="primary-btn">Submit anyway</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="receiptModal" class="modal-overlay" aria-hidden="true">
+    <div class="modal-card receipt-card">
+      <h2>Submission received</h2>
+      <div id="receiptContent"></div>
+      <a class="primary-link" href="index.html">Back to Writing test</a>
+    </div>
+  </div>
+
+  <script src="../../../assets/js/writing-test.js"></script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+{
+  "test_id": "writing_mock_test_01",
+  "test_type": "writing",
+  "title": "IELTS Writing Mock Test 01",
+  "duration_seconds": 3600,
+  "mode": "proctored",
+  "gas_webapp_url": "https://script.google.com/macros/s/AKfycbz6mSuAhOl6yIEfuYYLPUvi4LAjTOTwA0t3ik5MBi515I7twRBsWNLR-2apjRwqQgPbFw/exec",
+  "required_student_fields": ["email", "password"],
+  "auth": {
+    "enabled": true,
+    "student_sheet": "Student_List",
+    "email_column": "B",
+    "active_status_column": "F",
+    "active_status_value": "Đang học",
+    "password_column": "G",
+    "password_transport": "sha256_hash_with_legacy_fallback",
+    "auth_token_for_submissions": true,
+    "guest_mode_allowed": true,
+    "guest_mode_saves_to_sheet": false
+  },
+  "ui": {
+    "font": "Roboto",
+    "resizable_split_pane": true,
+    "prompt_visual_max_height": "viewport",
+    "hide_attempt_id_from_student": true,
+    "show_test_code_in_receipt": true
+  },
+  "timer": {
+    "twenty_minute_flash": true,
+    "end_sound_youtube_id": "Qt02LiZdEAg"
+  },
+  "proctoring": {
+    "enabled": true,
+    "require_desktop": true,
+    "require_fullscreen": true,
+    "block_paste": true,
+    "auto_submit_violation_threshold": 5
+  },
+  "tasks": [
+    {
+      "task_id": 1,
+      "title": "Writing Task 1",
+      "minimum_words": 150,
+      "recommended_minutes": 20,
+      "task_type": "academic_pie_charts",
+      "prompt": "The pie charts below show the percentage of five kinds of books sold by a bookseller between 1972 and 2012. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "chart_data": {
+        "1972": {
+          "Adult fiction": 20,
+          "Children's fiction": 20,
+          "Biography": 20,
+          "Travel": 15,
+          "Others": 25
+        },
+        "1992": {
+          "Adult fiction": 25,
+          "Children's fiction": 22,
+          "Biography": 15,
+          "Travel": 18,
+          "Others": 20
+        },
+        "2012": {
+          "Adult fiction": 45,
+          "Children's fiction": 25,
+          "Biography": 8,
+          "Travel": 10,
+          "Others": 12
+        }
+      }
+    },
+    {
+      "task_id": 2,
+      "title": "Writing Task 2",
+      "minimum_words": 250,
+      "recommended_minutes": 40,
+      "task_type": "essay_agree_disagree",
+      "prompt": "It is right that top sports people should be paid a lot of money. To what extent do you agree or disagree?"
+    }
+  ]
+}

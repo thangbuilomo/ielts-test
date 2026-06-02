@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Writing Mock Test 01 - Project Log</title>
+  <style>
+    body { margin: 0; background: #f6f7f9; color: #17202a; font: 16px/1.6 Arial, sans-serif; }
+    main { max-width: 980px; margin: 0 auto; padding: 34px 22px 70px; }
+    h1 { font-size: 34px; margin: 0 0 8px; }
+    h2 { margin-top: 30px; border-top: 1px solid #d9dee7; padding-top: 18px; }
+    code { background: #eef1f5; padding: 2px 6px; border-radius: 5px; }
+    ul, ol { padding-left: 24px; }
+    .card { background: #fff; border: 1px solid #d9dee7; border-radius: 10px; padding: 18px 20px; margin: 18px 0; }
+    .muted { color: #667085; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Writing Mock Test 01 - Project Log</h1>
+  <p class="muted">Cap nhat ngay 2026-06-02. File nay dung de mo lai va hieu trang Writing Mock Test dang lam den dau.</p>
+
+  <div class="card">
+    <p><strong>Module:</strong> <code>saola-tests-static/mock/writing/test-01/</code></p>
+    <p><strong>Repo Pages:</strong> <code>https://github.com/thangbuilomo/ielts-test</code></p>
+    <p><strong>Ma de:</strong> <code>writing_mock_test_01</code></p>
+  </div>
+
+  <h2>Muc tieu MVP</h2>
+  <p>Lam trang IELTS Writing Mock Test chay bang GitHub Pages, cho hoc vien dang nhap, lam bai 60 phut, ghi bai lam va anti-cheat log ve Google Sheet thong qua GAS Web App.</p>
+
+  <h2>Cau truc static site</h2>
+  <ul>
+    <li><code>index.html</code>: trang chon module test.</li>
+    <li><code>mock/index.html</code>: danh sach mock test.</li>
+    <li><code>mock/writing/index.html</code>: danh sach Writing mock test.</li>
+    <li><code>mock/writing/test-01/index.html</code>: trang lam bai.</li>
+    <li><code>assets/css/writing-test.css</code>: style rieng Writing.</li>
+    <li><code>assets/js/writing-test.js</code>: timer, auth, autosave, submit, anti-cheat.</li>
+    <li><code>assets/images/ducthangbui-logo-rect.png</code>: logo overlay va header.</li>
+  </ul>
+  <p>Khong day <code>google-apps-script/</code> len GitHub public vi co backend/GAS va token secret.</p>
+
+  <h2>Giao dien hien tai</h2>
+  <ul>
+    <li>Font Roboto.</li>
+    <li>Overlay 2 cot ngang: thong tin test va form dang nhap.</li>
+    <li>Anti-cheat tren overlay song ngu Viet/Anh.</li>
+    <li>Trang test co split pane keo ngang.</li>
+    <li>Part 1/Part 2 theo format IELTS.</li>
+    <li>Chart Task 1 gioi han theo viewport de giam viec keo de bai.</li>
+    <li>Receipt an Attempt ID va thong tin Google Sheet.</li>
+  </ul>
+
+  <h2>Chuc nang hien co</h2>
+  <ul>
+    <li>Dang nhap bang email/mat khau trong <code>Student_List</code>.</li>
+    <li>Guest Mode khong ghi sheet.</li>
+    <li>Timer 60 phut, canh bao 20/40/55 phut.</li>
+    <li>Het gio tu dong nop bai va phat nhac hieu YouTube <code>Qt02LiZdEAg</code>.</li>
+    <li>Autosave localStorage, word count Task 1/2.</li>
+    <li>Submit thu cong, auto submit het gio, auto submit khi du 5 vi pham.</li>
+  </ul>
+
+  <h2>Anti-cheat</h2>
+  <p>Ghi nhan: fullscreen exit, tab switch, window blur, paste/copy/cut, right click, page unload. Khi vi pham hien modal giua man hinh, blur nen, song ngu. Du 5 lan thi tu dong nop bai voi ly do: <code>Tu dong nop bai do vi pham noi quy 5 lan</code>.</p>
+
+  <h2>Google Sheet va GAS</h2>
+  <ul>
+    <li><code>Student_List</code>: cot A ho ten, cot B email, cot F tinh trang, cot G mat khau.</li>
+    <li><code>Writing_Answer</code>: email, ho ten, Task 1, Task 2, ma de, ly do nop, Attempt ID.</li>
+    <li><code>Cheat_Writing</code>: log anti-cheat.</li>
+  </ul>
+  <p>Can redeploy GAS moi de co <code>auth_token</code>, <code>version</code> trong health, va cac cot moi.</p>
+
+  <h2>Attempt ID</h2>
+  <p>Attempt ID la ma duy nhat cua mot luot lam bai, khong phai ma de. Dung de noi bai nop voi cheat log, dedupe submit va audit noi bo. Khong hien cho hoc sinh.</p>
+
+  <h2>Chong spam</h2>
+  <p>Dang co: Student_List, Guest Mode khong ghi sheet, auth token trong GAS moi, dedupe Attempt ID. Sau nay can them session server-side, rate limit, password hash trong database va captcha nhe neu can.</p>
+
+  <h2>Can lam tiep</h2>
+  <ol>
+    <li>Redeploy Apps Script ban moi.</li>
+    <li>Kiem tra health endpoint co <code>version</code>.</li>
+    <li>Test dang nhap hoc vien that.</li>
+    <li>Test submit thu cong, het gio, va 5 vi pham.</li>
+    <li>Kiem tra Google Sheet nhan dung cot moi.</li>
+    <li>Bat GitHub Pages cho repo sau khi push.</li>
+  </ol>
+</main>
+</body>
+</html>
