@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Writing Mock Test Design Playbook</title>
+  <style>
+    body { margin: 0; background: #f6f7f9; color: #17202a; font: 16px/1.65 Arial, sans-serif; }
+    main { max-width: 1040px; margin: 0 auto; padding: 36px 22px 80px; }
+    h1 { margin: 0 0 8px; font-size: 34px; line-height: 1.15; }
+    h2 { margin-top: 34px; border-top: 1px solid #d9dee7; padding-top: 18px; }
+    h3 { margin-top: 24px; }
+    code, pre { background: #eef1f5; border-radius: 6px; }
+    code { padding: 2px 6px; }
+    pre { padding: 14px; overflow: auto; }
+    ul, ol { padding-left: 24px; }
+    li { margin: 5px 0; }
+    .lead { color: #667085; margin-top: 0; }
+    .card { background: #fff; border: 1px solid #d9dee7; border-radius: 10px; padding: 18px 20px; margin: 18px 0; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Writing Mock Test Design Playbook</h1>
+  <p class="lead">Tom tat kinh nghiem tu Writing Mock Test 01 de lan sau tao mock test Writing moi nhanh va dong bo.</p>
+
+  <div class="card">
+    <p><strong>Nguyen tac:</strong> Trang test la noi lam bai that, khong phai landing page. Giao dien can ro rang, it trang tri, uu tien prompt, bai viet, timer, word count va anti-cheat.</p>
+    <p><strong>Ma de mau:</strong> <code>writing_mock_test_01</code></p>
+  </div>
+
+  <h2>1. Cau truc nen dung</h2>
+  <pre><code>saola-tests-static/
+  index.html
+  mock/
+    writing/
+      test-01/
+        index.html
+        test.json
+  assets/
+    css/saola-base.css
+    css/writing-test.css
+    js/writing-test.js
+    images/ducthangbui-logo-rect.png</code></pre>
+  <p>Khi tao test moi, copy <code>test-01</code> thanh <code>test-xx</code>, doi <code>data-test-id</code>, prompt va metadata.</p>
+
+  <h2>2. Overlay bat dau bai</h2>
+  <ul>
+    <li>2 cot ngang: cot trai thong tin/quy dinh, cot phai dang nhap.</li>
+    <li>Khong bold qua nhieu; chi bold heading, label va nut chinh.</li>
+    <li>Anti-cheat nen song ngu Viet/Anh.</li>
+    <li>Guest Mode phai noi ro: lam duoc nhung khong gui ket qua ve giao vien.</li>
+    <li>Logo lay tu folder <code>Logos</code>, copy vao <code>assets/images</code>.</li>
+  </ul>
+
+  <h2>3. Layout bai test</h2>
+  <ul>
+    <li>Header tren cung: logo, save status, violation count, timer, submit.</li>
+    <li>Ben trai: de bai. Ben phai: textarea.</li>
+    <li>O giua co thanh keo chia be ngang, gioi han khoang 34%-66%.</li>
+    <li>Visual Task 1 gioi han theo chieu cao viewport de hoc sinh it phai scroll prompt.</li>
+  </ul>
+
+  <h2>4. Format Part 1/Part 2</h2>
+  <h3>Part 1</h3>
+  <pre><code>Part 1
+You should spend about 20 minutes on this task. Write at least 150 words.
+
+[Task prompt]
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</code></pre>
+  <h3>Part 2</h3>
+  <pre><code>Part 2
+You should spend about 40 minutes on this task. Write at least 250 words.
+
+Write about the following topic:
+
+[Essay question]
+
+Give reasons for your answer and include any relevant examples from your own knowledge or experience.</code></pre>
+
+  <h2>5. Timer va submit</h2>
+  <ul>
+    <li>60 phut tong thoi gian.</li>
+    <li>20 phut: timer nhap nhay va beep.</li>
+    <li>40/55 phut: canh bao thoi gian.</li>
+    <li>60 phut: auto submit.</li>
+    <li>Het gio hien tai nhung YouTube sound <code>Qt02LiZdEAg</code>, sau nen thay bang mp3 local.</li>
+  </ul>
+
+  <h2>6. Anti-cheat UX</h2>
+  <p>Ghi nhan fullscreen exit, tab switch, window blur, paste/copy/cut, right click, page unload. Moi vi pham hien modal giua man hinh, blur nen, song ngu. Du 5 lan thi auto submit voi ly do:</p>
+  <pre><code>Tu dong nop bai do vi pham noi quy 5 lan</code></pre>
+
+  <h2>7. Receipt va payload</h2>
+  <ul>
+    <li>Receipt hien: Ma de, ho ten, email, ly do nop, word count, so vi pham.</li>
+    <li>Khong hien Attempt ID va Google Sheet status cho hoc sinh.</li>
+    <li>Back button tro ve <code>index.html</code> cua chinh test de hien overlay ban dau.</li>
+  </ul>
+
+  <h2>8. Google Sheet</h2>
+  <ul>
+    <li><code>Student_List</code>: cot A ho ten, B email, F tinh trang, G mat khau.</li>
+    <li><code>Writing_Answer</code>: email, ho ten, Task 1, Task 2, Ma de, Ly do nop bai, Attempt ID.</li>
+    <li><code>Cheat_Writing</code>: email, loai cheat, ngay/gio, ma de, Attempt ID, elapsed, chi tiet.</li>
+  </ul>
+
+  <h2>9. Attempt ID va ma de</h2>
+  <p><strong>Ma de</strong> la <code>test_id/test_code</code>, vi du <code>writing_mock_test_01</code>. <strong>Attempt ID</strong> la ma duy nhat cua mot luot lam bai, dung de noi bai voi cheat log va dedupe; khong hien cho hoc sinh.</p>
+
+  <h2>10. Checklist tao test moi</h2>
+  <ol>
+    <li>Copy <code>test-01</code> thanh <code>test-xx</code>.</li>
+    <li>Doi <code>data-test-id</code>, <code>test_id</code>, title.</li>
+    <li>Doi Task 1 prompt/image/chart.</li>
+    <li>Doi Task 2 prompt.</li>
+    <li>Kiem tra format Part 1/Part 2.</li>
+    <li>Test Guest Mode, login, word count, submit thu cong.</li>
+    <li>Test auto submit het gio va auto submit 5 vi pham.</li>
+    <li>Kiem tra Google Sheet ghi dung.</li>
+    <li>Push GitHub va test GitHub Pages.</li>
+  </ol>
+</main>
+</body>
+</html>
