@@ -1,0 +1,161 @@
+{
+  "test_id": "idp_reading_matching_headings_traffic_ai",
+  "test_type": "reading",
+  "title": "Academic Reading - Matching Headings",
+  "source_markdown": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Reading/Free_practice_test_-_Academic_Reading_-_Matching_Headings_Task_-_Sample_Task__-_Global.md",
+  "duration_seconds": null,
+  "passages": [
+    {
+      "passage_id": "p1",
+      "title": "The Physics of Traffic Behavior",
+      "sections": [
+        {
+          "section_id": "A",
+          "text": "Some years ago, when several theoretical physicists, principally Dirk Helbing and Boris Kerner of Stuttgart, Germany, began publishing papers on traffic flow in publications normally read by traffic engineers, they were clearly working outside their usual sphere of investigation. They had noticed that if they simulated the movement of vehicles on a highway, using the equations that describe how the molecules of a gas move, some very strange results emerged. Of course, vehicles do not behave exactly like gas molecules: for example, drivers try to avoid collisions by slowing down when they get too near another vehicle, whereas gas molecules have no such concern. However, the physicists modified the equations to take the differences into account and the overall description of traffic as a flowing gas has proved to be a very good one; the moving-gas model of traffic reproduces many phenomena seen in real-world traffic. The strangest thing that came out of these equations, however, was the implication that congestion can arise completely spontaneously; no external causes are necessary. Vehicles can be flowing freely along, at a density still well below what the road can handle, and then suddenly gel into a slow-moving ooze. Under the right conditions a brief and local fluctuation in the speed or the distance between vehicles is all it takes to trigger a system-wide breakdown that persists for hours. In fact, the physicists' analysis suggested such spontaneous breakdowns in traffic flow probably occur quite frequently on highways."
+        },
+        {
+          "section_id": "B",
+          "text": "Though a decidedly unsettling discovery, this showed striking similarities to the phenomena popularized as 'chaos theory'. This theory has arisen from the understanding that in any complex interacting system which is made of many parts, each part affects the others. Consequently, tiny variations in one part of a complex system can grow in huge but unpredictable ways. This type of dramatic change from one state to another is similar to what happens when a chemical substance changes from a vapor to a liquid. It often happens that water in a cloud remains as a gas even after its temperature and density have reached the point where it could condense into water droplets. However, if the vapor encounters a solid surface, even something as small as a speck of dust, condensation can take place and the transition from vapor to liquid finally occurs. Helbing and Kerner see traffic as a complex interacting system. They found that a small fluctuation in traffic density can act as the 'speck of dust' causing a sudden change from freely moving traffic to synchronized traffic, when vehicles in all lanes abruptly slow down and start moving at the same speed, making passing impossible."
+        },
+        {
+          "section_id": "C",
+          "text": "The physicists have challenged proposals to set a maximum capacity for vehicles on highways. They argue that it may not be enough simply to limit the rate at which vehicles are allowed to enter a highway, rather, it may be necessary to time each vehicle's entry onto a highway precisely to coincide with a temporary drop in the density of vehicles along the road. The aim of doing this would be to smooth out any possible fluctuations in the road conditions that can trigger a change in traffic behavior and result in congestion. They further suggest that preventing breakdowns in the flow of traffic could ultimately require implementing the radical idea that has been suggested from time to time: directly regulating the speed and spacing of individual cars along a highway with central computers and sensors that communicate with each car's engine and brake controls."
+        },
+        {
+          "section_id": "D",
+          "text": "However, research into traffic control is generally centered in civil engineering departments and here the theories of the physicists have been greeted with some skepticism. Civil engineers favor a practical approach to problems and believe traffic congestion is the result of poor road construction, such as two lanes becoming one lane or dangerous curves, which constricts the flow of traffic. Engineers questioned how well the physicists' theoretical results relate to traffic in the real world. Indeed, some engineering researchers questioned whether elaborate chaos-theory interpretations are needed at all, since at least some of the traffic phenomena the physicists' theories predicted seemed to be similar to observations that had been appearing in traffic engineering literature under other names for years; observations which had straightforward cause-and-effect explanations."
+        },
+        {
+          "section_id": "E",
+          "text": "James Banks, a professor of civil and environmental engineering at San Diego State University in the US, suggested that a sudden slowdown in traffic may have less to do with chaos theory than with driver psychology. As traffic gets heavier and the passing lane gets more crowded, aggressive drivers move to other lanes to try to pass, which also tends to even out the speed between lanes. He also felt that another leveling force is that when a driver in a fast lane brakes a little to maintain a safe distance between vehicles, the shock wave travels back much more rapidly than it would in the other slower lanes, because each following driver has to react more quickly. Consequently, as a road becomes congested, the faster moving traffic is the first to slow down."
+        }
+      ]
+    }
+  ],
+  "parts": [
+    {
+      "part_id": 1,
+      "label": "Reading Passage 1",
+      "groups": [
+        {
+          "group_id": "rhead_g1",
+          "type": "matching_headings",
+          "skill_tag": "rd_match_headings",
+          "instruction": "Choose the correct heading for each section from the list of headings below. Section B is given as an example.",
+          "options": [
+            {
+              "label": "i",
+              "text": "Dramatic effects can result from small changes in traffic just as in nature"
+            },
+            {
+              "label": "ii",
+              "text": "How a maths experiment actually reduced traffic congestion"
+            },
+            {
+              "label": "iii",
+              "text": "How a concept from one field of study was applied in another"
+            },
+            {
+              "label": "iv",
+              "text": "A lack of investment in driver training"
+            },
+            {
+              "label": "v",
+              "text": "Areas of doubt and disagreement between experts"
+            },
+            {
+              "label": "vi",
+              "text": "How different countries have dealt with traffic congestion"
+            },
+            {
+              "label": "vii",
+              "text": "The impact of driver behaviour on traffic speed"
+            },
+            {
+              "label": "viii",
+              "text": "A proposal to take control away from the driver"
+            }
+          ],
+          "examples": [
+            {
+              "section": "B",
+              "answer": "i"
+            }
+          ],
+          "items": [
+            {
+              "id": "q1",
+              "number": 1,
+              "prompt_html": "Section A",
+              "answer": [
+                "iii"
+              ]
+            },
+            {
+              "id": "q2",
+              "number": 2,
+              "prompt_html": "Section C",
+              "answer": [
+                "viii"
+              ]
+            },
+            {
+              "id": "q3",
+              "number": 3,
+              "prompt_html": "Section D",
+              "answer": [
+                "v"
+              ]
+            },
+            {
+              "id": "q4",
+              "number": 4,
+              "prompt_html": "Section E",
+              "answer": [
+                "vii"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answer_key": {
+    "q1": {
+      "accepted": [
+        "iii"
+      ],
+      "explanation": "Section A introduces physicists applying equations for gas molecules to traffic flow.",
+      "evidence": "simulated the movement of vehicles ... using the equations that describe how the molecules of a gas move",
+      "skill_tag": "rd_match_headings",
+      "pitfall": "Heading i is the example for Section B, where small fluctuations and chaos theory are developed."
+    },
+    "q2": {
+      "accepted": [
+        "viii"
+      ],
+      "explanation": "Section C ends with a proposal for computers and sensors to regulate car speed and spacing directly.",
+      "evidence": "directly regulating the speed and spacing of individual cars ... with central computers and sensors",
+      "skill_tag": "rd_match_headings",
+      "pitfall": "This is a proposal, not a completed maths experiment."
+    },
+    "q3": {
+      "accepted": [
+        "v"
+      ],
+      "explanation": "Section D focuses on civil engineers' skepticism and disagreement with the physicists' theories.",
+      "evidence": "the theories of the physicists have been greeted with some skepticism ... Engineers questioned how well the physicists' theoretical results relate to traffic in the real world.",
+      "skill_tag": "rd_match_headings",
+      "pitfall": "Driver behaviour is discussed in Section E, not Section D."
+    },
+    "q4": {
+      "accepted": [
+        "vii"
+      ],
+      "explanation": "Section E explains how aggressive lane changes and braking behaviour affect traffic speed.",
+      "evidence": "driver psychology ... aggressive drivers move to other lanes ... when a driver in a fast lane brakes",
+      "skill_tag": "rd_match_headings",
+      "pitfall": "The section is not mainly about expert disagreement; it explains a driver-behaviour mechanism."
+    }
+  }
+}

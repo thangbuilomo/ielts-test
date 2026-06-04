@@ -1,0 +1,14 @@
+{
+  "test_id": "idp_writing_task1_ai",
+  "test_type": "writing",
+  "title": "Writing Sample Task - Task 1 (Further Education)",
+  "duration_seconds": 1200,
+  "parts": [
+    {
+      "part_id": 1,
+      "label": "Task 1",
+      "instruction": "You should spend about 20 minutes on this task. Write at least 150 words.",
+      "prompt_html": "<p class=\"task-prompt\">The chart below shows the number of men and women in further education in Britain in three periods and whether they were studying full-time or part-time.</p><p class=\"task-instruction\">Summarise the information by selecting and reporting the main features, and make comparisons where relevant.</p><div class=\"chart-container\"><img src=\"academic-writing-sampletask1_chart.png\" alt=\"Further education in Britain by gender and study mode\"></div>"
+    }
+  ]
+}

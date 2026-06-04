@@ -1,0 +1,105 @@
+{
+  "test_id": "idp_listening_sentence_completion_ai",
+  "test_type": "listening",
+  "title": "Listening Sample Task - Sentence Completion",
+  "source_markdown": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Listening_Sample_Task_Sentence_Completion.md",
+  "duration_seconds": null,
+  "audio": {
+    "src": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Audio_-_Free_practice_test_-_Listening_-_Sentence_completion.mp3"
+  },
+  "parts": [
+    {
+      "part_id": 3,
+      "label": "PART 3",
+      "context": "Rachel and Paul discuss studying with the Open University.",
+      "transcript_text": "Rachel says studying with the Open University required a high level of motivation because students mostly study alone. Combining study with a full-time job made her good at time management. The degree is easier because it is made up of modules, so students can take breaks between them. She also enjoyed summer schools because she met other students there.",
+      "groups": [
+        {
+          "group_id": "lsent_g1",
+          "type": "sentence_completion",
+          "skill_tag": "ls_comp_sentence",
+          "instruction": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer.",
+          "prompt_html": "<ol><li>Studying with the Open University demanded a great deal of <blank data-qid=\"q27\"/>.</li><li>Studying and working at the same time improved Rachel's <blank data-qid=\"q28\"/> skills.</li><li>It was helpful that the course was structured in <blank data-qid=\"q29\"/>.</li><li>She enjoyed meeting other students at <blank data-qid=\"q30\"/>.</li></ol>",
+          "items": [
+            {
+              "id": "q27",
+              "number": 27,
+              "prompt_html": "Studying with the Open University demanded a great deal of <blank/>.",
+              "answer": [
+                "motivation"
+              ]
+            },
+            {
+              "id": "q28",
+              "number": 28,
+              "prompt_html": "Studying and working at the same time improved Rachel's <blank/> skills.",
+              "answer": [
+                "time management",
+                "time-management",
+                "timemanagement"
+              ]
+            },
+            {
+              "id": "q29",
+              "number": 29,
+              "prompt_html": "It was helpful that the course was structured in <blank/>.",
+              "answer": [
+                "modules"
+              ]
+            },
+            {
+              "id": "q30",
+              "number": 30,
+              "prompt_html": "She enjoyed meeting other students at <blank/>.",
+              "answer": [
+                "summer schools",
+                "summer school"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answer_key": {
+    "q27": {
+      "accepted": [
+        "motivation"
+      ],
+      "explanation": "Rachel says she needed to maintain a high level of motivation when studying mostly on her own.",
+      "evidence": "I found I needed to maintain a high level of motivation.",
+      "skill_tag": "ls_comp_sentence",
+      "pitfall": "Do not write high level because the sentence already says a great deal of."
+    },
+    "q28": {
+      "accepted": [
+        "time management",
+        "time-management",
+        "timemanagement"
+      ],
+      "explanation": "Studying around a full-time job improved her time-management skills.",
+      "evidence": "I got very good at time-management because I had to fit time for studying round a full-time job.",
+      "skill_tag": "ls_comp_sentence",
+      "pitfall": "Use no more than two words; skills is already in the prompt."
+    },
+    "q29": {
+      "accepted": [
+        "modules"
+      ],
+      "explanation": "Rachel says the degree is made up of modules, which allows breaks between them.",
+      "evidence": "The degree is made up of modules.",
+      "skill_tag": "ls_comp_sentence",
+      "pitfall": "Do not write course; the required structure unit is modules."
+    },
+    "q30": {
+      "accepted": [
+        "summer schools",
+        "summer school"
+      ],
+      "explanation": "Rachel enjoyed meeting other students at summer schools.",
+      "evidence": "There are summer schools. ... They're great, because you meet all the other people.",
+      "skill_tag": "ls_comp_sentence",
+      "pitfall": "Tutors are mentioned, but the meeting with other students happens at summer schools."
+    }
+  }
+}

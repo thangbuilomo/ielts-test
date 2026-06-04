@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IELTS Writing Sample Test | Saola</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/saola-base.css">
+  <link rel="stylesheet" href="assets/css/test-engine.css">
+</head>
+<body class="test-engine-theme">
+
+  <!-- Start Gate Overlay -->
+  <div id="startGate" class="start-gate-overlay">
+    <div class="start-gate-card">
+      <span class="card-kicker">Practice Mode</span>
+      <h1 id="startTestTitle">IELTS Writing</h1>
+      <p id="startTestDesc">Bài luyện tập kiểm tra kỹ năng IELTS Writing dựa trên các đề thi chính thức từ IDP.</p>
+      
+      <ul class="feature-intro-list">
+        <li><strong>Đếm từ thời gian thực:</strong> Trình soạn thảo sẽ tự động đếm số từ của bạn khi gõ.</li>
+        <li><strong>Tự động lưu bài:</strong> Bài làm tự động sao lưu vào trình duyệt của bạn phòng trường hợp mất mạng.</li>
+        <li><strong>Xem lại bài viết:</strong> Hệ thống lưu bài viết để phục vụ giáo viên nhận xét hoặc xuất bài.</li>
+      </ul>
+
+      <button id="startTestBtn" class="start-test-btn">Bắt đầu làm bài</button>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <header class="test-header">
+    <div class="header-left">
+      <a href="../" class="brand-logo-link" style="text-decoration: none; margin-right: 8px;">
+        <img src="../assets/images/logo icon.png" alt="Saola" style="height: 36px; width: auto;">
+      </a>
+      <div>
+        <h2 id="testTitleHeader">IELTS Writing Test</h2>
+        <p id="testTypeHeader">Official Sample</p>
+      </div>
+    </div>
+    <div class="header-right">
+      <span id="timerDisplay" class="timer-box">40:00</span>
+      <button id="submitBtn" class="submit-btn">Nộp bài (Submit)</button>
+    </div>
+  </header>
+
+  <!-- Main Split Panel -->
+  <main class="split-container" id="splitContainer" style="height: calc(100vh - 70px);">
+    <!-- Left panel (Prompt) -->
+    <section class="left-panel" id="leftPanel" style="width: 50%;">
+      <div class="passage-content active" id="writingPrompt">
+        <!-- Prompt will be loaded dynamically -->
+      </div>
+    </section>
+
+    <!-- Resizer -->
+    <div class="resizer" id="resizer"></div>
+
+    <!-- Right panel (Editor) -->
+    <section class="right-panel" id="rightPanel" style="width: 50%;">
+      <div class="editor-container" id="editorContainer">
+        <!-- Autosave and editor title pushed above textarea -->
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+          <span style="font-family: var(--display-font); font-weight: 700; font-size: 1.1rem; color: var(--text-main);">Your Answer Sheet</span>
+          <span id="autosaveStatus" style="font-size: 0.8rem; color: var(--text-secondary); background: #f1f5f9; padding: 4px 10px; border-radius: 6px; border: 1px solid var(--border-color);">Draft autosaved locally.</span>
+        </div>
+        
+        <textarea class="editor-textarea" id="writingEditor" placeholder="Type your response here..." spellcheck="false" autocomplete="off" autocorrect="off" autocapitalize="off"></textarea>
+        <div class="editor-footer">
+          <span id="wordCountDisplay">0 words</span>
+          <span id="minWordWarning" class="word-count-warning">Under minimum limit</span>
+        </div>
+      </div>
+      
+      <!-- Submission receipt screen -->
+      <div id="resultsContainer" style="display: none; text-align: center; padding: 40px 0;">
+        <h2>Nộp bài thành công!</h2>
+        <p style="color: var(--text-secondary); margin-bottom: 30px;">Bài viết của bạn đã được ghi nhận thành công.</p>
+        <div style="background-color: #f8fafc; border: 1px solid var(--border-color); border-radius: 12px; padding: 24px; text-align: left; max-width: 600px; margin: 0 auto; line-height: 1.6;">
+          <h3 style="margin-top: 0; color: var(--text-main);">Bài viết đã lưu:</h3>
+          <p id="savedEssayText" style="white-space: pre-wrap; font-family: monospace; font-size: 0.95rem; color: var(--text-main);"></p>
+        </div>
+        <a href="index.html" class="submit-btn" style="display: inline-block; margin-top: 30px; text-decoration: none;">Về Trang Chủ</a>
+      </div>
+    </section>
+  </main>
+
+  <!-- Desktop warning on resize -->
+  <div id="mobileWarning" class="start-gate-overlay" style="display: none; z-index: 9999;">
+    <div class="start-gate-card" style="text-align: center; border-color: rgba(239, 68, 68, 0.3);">
+      <h2 style="color: #ef4444; font-family: 'Outfit';">Thiết bị không hỗ trợ</h2>
+      <p>Vui lòng sử dụng máy tính để hoàn thành bài thi này.</p>
+    </div>
+  </div>
+
+  <script src="assets/js/writing-engine.js"></script>
+</body>
+</html>

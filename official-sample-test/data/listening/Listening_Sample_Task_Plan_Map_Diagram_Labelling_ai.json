@@ -1,0 +1,163 @@
+{
+  "test_id": "idp_listening_plan_map_diagram_labelling_ai",
+  "test_type": "listening",
+  "title": "Listening Sample Task - Plan Map Diagram Labelling",
+  "source_markdown": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Listening_Sample_Task_Plan_Map_Diagram_Labelling.md",
+  "duration_seconds": null,
+  "audio": {
+    "src": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Audio_-_Free_practice_test_-_Listening_-_Plan__map__diagram__labelling.mp3"
+  },
+  "media": {
+    "images": [
+      {
+        "id": "town_library_plan",
+        "src": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Listening_Sample_Task_Plan_Map_Diagram_Labelling_page_1_plan.png",
+        "alt": "Town library plan for questions 11-15"
+      }
+    ]
+  },
+  "parts": [
+    {
+      "part_id": 2,
+      "label": "PART 2",
+      "context": "A chief librarian explains the layout of a new town library to visitors.",
+      "transcript_text": "Starting at the entrance, the librarian's desk is on the right. Opposite it, the first room on the left has reference books. Beyond the desk on the right is the periodicals room. Straight ahead is the main library area; local history books are on the far wall. Past the fiction shelves is a seminar room, with the children's library next door. A large room to the right of the library area contains the multimedia collection.",
+      "groups": [
+        {
+          "group_id": "lplan_g1",
+          "type": "plan_labeling",
+          "skill_tag": "ls_label_plan",
+          "instruction": "Label the plan below. Choose FIVE answers from the box and write the correct letters A-I next to questions 11-15.",
+          "prompt_html": "<figure><img src=\"H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Listening_Sample_Task_Plan_Map_Diagram_Labelling_page_1_plan.png\" alt=\"Town library plan for questions 11-15\"/></figure>",
+          "options": [
+            {
+              "label": "A",
+              "text": "Art collection"
+            },
+            {
+              "label": "B",
+              "text": "Children's books"
+            },
+            {
+              "label": "C",
+              "text": "Computers"
+            },
+            {
+              "label": "D",
+              "text": "Local history collection"
+            },
+            {
+              "label": "E",
+              "text": "Meeting room"
+            },
+            {
+              "label": "F",
+              "text": "Multimedia"
+            },
+            {
+              "label": "G",
+              "text": "Periodicals"
+            },
+            {
+              "label": "H",
+              "text": "Reference books"
+            },
+            {
+              "label": "I",
+              "text": "Tourist information"
+            }
+          ],
+          "items": [
+            {
+              "id": "q11",
+              "number": 11,
+              "prompt_html": "Plan label 11",
+              "answer": [
+                "H"
+              ]
+            },
+            {
+              "id": "q12",
+              "number": 12,
+              "prompt_html": "Plan label 12",
+              "answer": [
+                "G"
+              ]
+            },
+            {
+              "id": "q13",
+              "number": 13,
+              "prompt_html": "Plan label 13",
+              "answer": [
+                "D"
+              ]
+            },
+            {
+              "id": "q14",
+              "number": 14,
+              "prompt_html": "Plan label 14",
+              "answer": [
+                "B"
+              ]
+            },
+            {
+              "id": "q15",
+              "number": 15,
+              "prompt_html": "Plan label 15",
+              "answer": [
+                "F"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answer_key": {
+    "q11": {
+      "accepted": [
+        "H"
+      ],
+      "explanation": "Label 11 is the first room on the left opposite the librarian's desk, which contains reference books.",
+      "evidence": "Opposite this the first room on your left has an excellent collection of reference books.",
+      "skill_tag": "ls_label_plan",
+      "pitfall": "Follow the speaker's route from the entrance; do not use the office on the left of the desk."
+    },
+    "q12": {
+      "accepted": [
+        "G"
+      ],
+      "explanation": "Label 12 is beyond the librarian's desk on the right, where the periodicals are kept.",
+      "evidence": "Just beyond the librarian's desk on the right is a room where we have up to date periodicals.",
+      "skill_tag": "ls_label_plan",
+      "pitfall": "Newspapers and magazines paraphrase periodicals."
+    },
+    "q13": {
+      "accepted": [
+        "D"
+      ],
+      "explanation": "Label 13 is on the far wall of the main library area, where the local history collection is located.",
+      "evidence": "On the shelves on the far wall there is an excellent collection of books relating to local history.",
+      "skill_tag": "ls_label_plan",
+      "pitfall": "Tourist information is only a future plan, not the current location."
+    },
+    "q14": {
+      "accepted": [
+        "B"
+      ],
+      "explanation": "Label 14 is next door to the seminar room and contains children's books.",
+      "evidence": "Next door to that is the children's library, which has a good collection of stories and picture books.",
+      "skill_tag": "ls_label_plan",
+      "pitfall": "Meeting room is paraphrased by seminar room, but the labelled space is the next room."
+    },
+    "q15": {
+      "accepted": [
+        "F"
+      ],
+      "explanation": "Label 15 is the large room to the right of the library area, used for the multimedia collection.",
+      "evidence": "There's a large room to the right of the library area - that's the multimedia collection.",
+      "skill_tag": "ls_label_plan",
+      "pitfall": "Art collection is a distractor because it used to be there but was moved."
+    }
+  }
+}

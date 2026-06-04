@@ -1,0 +1,129 @@
+{
+  "test_id": "idp_listening_matching_1_ai",
+  "test_type": "listening",
+  "title": "Listening Sample Task - Matching 1",
+  "source_markdown": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Listening_Sample_Task_Matching_1.md",
+  "duration_seconds": null,
+  "audio": {
+    "src": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Audio_-_Free_practice_test_-_Listening_-_Matching_-_Sample_1.mp3"
+  },
+  "parts": [
+    {
+      "part_id": 3,
+      "label": "PART 3",
+      "context": "A Communication Studies student talks to his tutor about optional courses.",
+      "transcript_text": "Jack discusses five optional courses with Dr Ray. He rejects Media Studies because it overlaps with a core module, chooses Women and Power after learning Dr Steed teaches it, is undecided about Culture and Society, may wait on Identity and Popular Culture until he knows who teaches it, and rejects Introduction to Cultural Theory because it overlaps with Communications 102.",
+      "groups": [
+        {
+          "group_id": "lmatch1_g1",
+          "type": "matching",
+          "skill_tag": "ls_matching",
+          "instruction": "What does Jack tell his tutor about each course option? Write the correct letter A, B or C next to questions 21-25. You may choose any letter more than once.",
+          "options": [
+            {
+              "label": "A",
+              "text": "He'll definitely do it."
+            },
+            {
+              "label": "B",
+              "text": "He may or may not do it."
+            },
+            {
+              "label": "C",
+              "text": "He won't do it."
+            }
+          ],
+          "items": [
+            {
+              "id": "q21",
+              "number": 21,
+              "prompt_html": "Media Studies",
+              "answer": [
+                "C"
+              ]
+            },
+            {
+              "id": "q22",
+              "number": 22,
+              "prompt_html": "Women and Power",
+              "answer": [
+                "A"
+              ]
+            },
+            {
+              "id": "q23",
+              "number": 23,
+              "prompt_html": "Culture and Society",
+              "answer": [
+                "B"
+              ]
+            },
+            {
+              "id": "q24",
+              "number": 24,
+              "prompt_html": "Identity and Popular Culture",
+              "answer": [
+                "B"
+              ]
+            },
+            {
+              "id": "q25",
+              "number": 25,
+              "prompt_html": "Introduction to Cultural Theory",
+              "answer": [
+                "C"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answer_key": {
+    "q21": {
+      "accepted": [
+        "C"
+      ],
+      "explanation": "Jack says Media Studies overlaps with what he has already studied, and he wants something completely new.",
+      "evidence": "Media Studies ... cover quite a lot of the same area ... I've decided I'd rather do something completely new.",
+      "skill_tag": "ls_matching",
+      "pitfall": "Interesting does not mean he chooses it; the later decision is negative."
+    },
+    "q22": {
+      "accepted": [
+        "A"
+      ],
+      "explanation": "After hearing that Dr Steed teaches Women and Power, Jack says he will sign up for it.",
+      "evidence": "It's taught by Dr Steed. ... I'll sign up for that, then.",
+      "skill_tag": "ls_matching",
+      "pitfall": "His earlier uncertainty about specialising in women's studies is overridden by the final decision."
+    },
+    "q23": {
+      "accepted": [
+        "B"
+      ],
+      "explanation": "For Culture and Society, Jack says he will think about it, so he has not decided.",
+      "evidence": "Anyway I'll think about that one.",
+      "skill_tag": "ls_matching",
+      "pitfall": "Do not mark C just because he is not keen on history; he does not finally reject it."
+    },
+    "q24": {
+      "accepted": [
+        "B"
+      ],
+      "explanation": "Identity and Popular Culture sounds interesting, but Jack wants to wait until he knows who will teach it.",
+      "evidence": "That sounds interesting. ... I might wait until then to decide.",
+      "skill_tag": "ls_matching",
+      "pitfall": "Sounds interesting is positive, but the answer is still undecided."
+    },
+    "q25": {
+      "accepted": [
+        "C"
+      ],
+      "explanation": "Jack rejects Introduction to Cultural Theory because much of it is already covered in his major.",
+      "evidence": "You'll have covered a lot of that already in Communications 102. ... I'll forget about that one, then.",
+      "skill_tag": "ls_matching",
+      "pitfall": "Another student's positive opinion is a distractor before the tutor explains the overlap."
+    }
+  }
+}

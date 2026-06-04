@@ -1,0 +1,97 @@
+{
+  "test_id": "idp_reading_flowchart_completion_ai",
+  "test_type": "reading",
+  "title": "Academic Reading - Flow-chart Completion",
+  "source_markdown": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Reading/Academic_20Reading_20Sample_20Task_20Flowchart_20Completion_20selecting_20words_20from_20the_20text_20_20Task.md",
+  "duration_seconds": null,
+  "media": {
+    "images": [
+      {
+        "id": "caloric_restriction_flowchart",
+        "src": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Reading/Academic_Reading_Flowchart_Completion_page_2_flowchart.png",
+        "alt": "Caloric-restriction mimetic flowchart for questions 1-3"
+      }
+    ]
+  },
+  "passages": [
+    {
+      "passage_id": "p1",
+      "title": "Caloric Restriction Mimetics",
+      "paragraphs": [
+        "No treatment on the market today has been proved to slow human aging. But one intervention, consumption of a low-calorie yet nutritionally balanced diet, works incredibly well in a broad range of animals, increasing longevity and prolonging good health. Those findings suggest that caloric restriction could delay aging and increase longevity in humans, too. But what if someone could create a pill that mimicked the physiological effects of eating less without actually forcing people to eat less, a 'caloric-restriction mimetic'?",
+        "The best-studied candidate for a caloric-restriction mimetic, 2DG (2-deoxy-D-glucose), works by interfering with the way cells process glucose. It has proved toxic at some doses in animals and so cannot be used in humans. But it has demonstrated that chemicals can replicate the effects of caloric restriction; the trick is finding the right one.",
+        "Cells use the glucose from food to generate ATP (adenosine triphosphate), the molecule that powers many activities in the body. By limiting food intake, caloric restriction minimizes the amount of glucose entering cells and decreases ATP generation. When 2DG is administered to animals that eat normally, glucose reaches cells in abundance but the drug prevents most of it from being processed and thus reduces ATP synthesis. Researchers have proposed several explanations for why interruption of glucose processing and ATP production might retard aging. One possibility relates to the ATP-making machinery's emission of free radicals, which are thought to contribute to aging and to such age-related diseases as cancer by damaging cells. Reduced operation of the machinery should limit their production and thereby constrain the damage. Another hypothesis suggests that decreased processing of glucose could indicate to cells that food is scarce, even if it isn't, and induce them to shift into an anti-aging mode that emphasizes preservation of the organism over such 'luxuries' as growth and reproduction."
+      ]
+    }
+  ],
+  "parts": [
+    {
+      "part_id": 1,
+      "label": "Reading Passage 1",
+      "groups": [
+        {
+          "group_id": "rflow_g1",
+          "type": "flowchart_completion",
+          "skill_tag": "rd_comp_flowchart",
+          "instruction": "Complete the flow-chart below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "prompt_html": "<figure><img src=\"H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Reading/Academic_Reading_Flowchart_Completion_page_2_flowchart.png\" alt=\"Caloric-restriction mimetic flowchart for questions 1-3\"/></figure><ol><li>CR mimetic: less <blank data-qid=\"q1\"/> is processed.</li><li>Theory 1: cells are less damaged because fewer <blank data-qid=\"q2\"/> are emitted.</li><li>Theory 2: cells focus on <blank data-qid=\"q3\"/> because food is in short supply.</li></ol>",
+          "items": [
+            {
+              "id": "q1",
+              "number": 1,
+              "prompt_html": "CR mimetic: less <blank/> is processed.",
+              "answer": [
+                "glucose"
+              ]
+            },
+            {
+              "id": "q2",
+              "number": 2,
+              "prompt_html": "Cells are less damaged because fewer <blank/> are emitted.",
+              "answer": [
+                "free radicals"
+              ]
+            },
+            {
+              "id": "q3",
+              "number": 3,
+              "prompt_html": "Cells focus on <blank/> because food is in short supply.",
+              "answer": [
+                "preservation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answer_key": {
+    "q1": {
+      "accepted": [
+        "glucose"
+      ],
+      "explanation": "2DG prevents most glucose from being processed.",
+      "evidence": "glucose reaches cells in abundance but the drug prevents most of it from being processed",
+      "skill_tag": "rd_comp_flowchart",
+      "pitfall": "It refers back to glucose, not food or ATP."
+    },
+    "q2": {
+      "accepted": [
+        "free radicals"
+      ],
+      "explanation": "Reduced ATP machinery operation limits emission of free radicals, which damage cells.",
+      "evidence": "the ATP-making machinery's emission of free radicals ... by damaging cells",
+      "skill_tag": "rd_comp_flowchart",
+      "pitfall": "ATP production is reduced, but free radicals are what are emitted."
+    },
+    "q3": {
+      "accepted": [
+        "preservation"
+      ],
+      "explanation": "Cells shift into a mode that emphasizes preservation when food seems scarce.",
+      "evidence": "shift into an anti-aging mode that emphasizes preservation",
+      "skill_tag": "rd_comp_flowchart",
+      "pitfall": "Growth and reproduction are described as luxuries, not the focus."
+    }
+  }
+}

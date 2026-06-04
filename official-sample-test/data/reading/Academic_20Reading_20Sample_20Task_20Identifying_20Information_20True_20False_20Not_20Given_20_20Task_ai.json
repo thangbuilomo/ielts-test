@@ -1,0 +1,101 @@
+{
+  "test_id": "idp_reading_tfng_marie_curie_ai",
+  "test_type": "reading",
+  "title": "Academic Reading - Identifying Information True False Not Given",
+  "source_markdown": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Reading/Academic_20Reading_20Sample_20Task_20Identifying_20Information_20True_20False_20Not_20Given_20_20Task.md",
+  "duration_seconds": null,
+  "passages": [
+    {
+      "passage_id": "p1",
+      "title": "The Life and Work of Marie Curie",
+      "paragraphs": [
+        "Marie Curie is probably the most famous woman scientist who has ever lived. Born Maria Sklodowska in Poland in 1867, she is famous for her work on radioactivity, and was twice a winner of the Nobel Prize. With her husband, Pierre Curie, and Henri Becquerel, she was awarded the 1903 Nobel Prize for Physics, and was then sole winner of the 1911 Nobel Prize for Chemistry. She was the first woman to win a Nobel Prize.",
+        "From childhood, Marie was remarkable for her prodigious memory, and at the age of 16 won a gold medal on completion of her secondary education. Because her father lost his savings through bad investment, she then had to take work as a teacher. From her earnings she was able to finance her sister Bronia's medical studies in Paris, on the understanding that Bronia would, in turn, later help her to get an education.",
+        "In 1891 this promise was fulfilled and Marie went to Paris and began to study at the Sorbonne (the University of Paris). She often worked far into the night and lived on little more than bread and butter and tea. She came first in the examination in the physical sciences in 1893, and in 1894 was placed second in the examination in mathematical sciences. It was not until the spring of that year that she was introduced to Pierre Curie."
+      ]
+    }
+  ],
+  "parts": [
+    {
+      "part_id": 1,
+      "label": "Reading Passage 1",
+      "groups": [
+        {
+          "group_id": "rtfng_g1",
+          "type": "tfng",
+          "skill_tag": "rd_tfng",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE, FALSE or NOT GIVEN.",
+          "options": [
+            {
+              "label": "TRUE",
+              "text": "if the statement agrees with the information"
+            },
+            {
+              "label": "FALSE",
+              "text": "if the statement contradicts the information"
+            },
+            {
+              "label": "NOT GIVEN",
+              "text": "if there is no information on this"
+            }
+          ],
+          "items": [
+            {
+              "id": "q1",
+              "number": 1,
+              "prompt_html": "Marie Curie's husband was a joint winner of both Marie's Nobel Prizes.",
+              "answer": [
+                "FALSE"
+              ]
+            },
+            {
+              "id": "q2",
+              "number": 2,
+              "prompt_html": "Marie became interested in science when she was a child.",
+              "answer": [
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "id": "q3",
+              "number": 3,
+              "prompt_html": "Marie was able to attend the Sorbonne because of her sister's financial contribution.",
+              "answer": [
+                "TRUE"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answer_key": {
+    "q1": {
+      "accepted": [
+        "FALSE"
+      ],
+      "explanation": "Pierre Curie was a joint winner of the 1903 prize, but Marie was the sole winner in 1911.",
+      "evidence": "With her husband ... awarded the 1903 Nobel Prize ... sole winner of the 1911 Nobel Prize.",
+      "skill_tag": "rd_tfng",
+      "pitfall": "Both is the key trap; the statement is only true for one prize."
+    },
+    "q2": {
+      "accepted": [
+        "NOT GIVEN"
+      ],
+      "explanation": "The passage mentions her memory and school success as a child, but not whether she was interested in science then.",
+      "evidence": "From childhood, Marie was remarkable for her prodigious memory ... won a gold medal.",
+      "skill_tag": "rd_tfng",
+      "pitfall": "Do not infer interest in science from being a strong student."
+    },
+    "q3": {
+      "accepted": [
+        "TRUE"
+      ],
+      "explanation": "Marie funded Bronia first, and Bronia later helped Marie get an education; the promise was fulfilled when Marie went to the Sorbonne.",
+      "evidence": "Bronia would, in turn, later help her to get an education. In 1891 this promise was fulfilled and Marie went to Paris and began to study at the Sorbonne.",
+      "skill_tag": "rd_tfng",
+      "pitfall": "The father's lost savings explain why Marie had to work, not how she later attended the Sorbonne."
+    }
+  }
+}

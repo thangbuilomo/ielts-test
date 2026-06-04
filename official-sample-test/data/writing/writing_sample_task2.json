@@ -1,0 +1,14 @@
+{
+  "test_id": "idp_writing_task2_ai",
+  "test_type": "writing",
+  "title": "Writing Sample Task - Task 2 (Car Ownership)",
+  "duration_seconds": 2400,
+  "parts": [
+    {
+      "part_id": 2,
+      "label": "Task 2",
+      "instruction": "You should spend about 40 minutes on this task. Write about the following topic.",
+      "prompt_html": "<div class=\"prompt-box\"><p>The first car appeared on British roads in 1888. By the year 2000 there may be as many as 29 million vehicles on British roads.</p><p>Alternative forms of transport should be encouraged and international laws introduced to control car ownership and use.</p><p><strong>To what extent do you agree or disagree?</strong></p></div><p class=\"task-instruction\">Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.</p>"
+    }
+  ]
+}

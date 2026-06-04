@@ -1,0 +1,166 @@
+{
+  "test_id": "idp_listening_short_answer_1_ai",
+  "test_type": "listening",
+  "title": "Listening Sample Task - Short Answer Questions 1",
+  "source_markdown": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Listening_Sample_Task_Short_Answer_1.md",
+  "duration_seconds": null,
+  "audio": {
+    "src": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Audio_-_Free_practice_test_-_Listening_-_Short_answer_questions_-_Sample_1.mp3"
+  },
+  "parts": [
+    {
+      "part_id": 2,
+      "label": "PART 2",
+      "context": "A British Council talk for people who are going to stay in the UK.",
+      "transcript_text": "The speaker says social contact in a foreign country can be difficult because of language and different customs. He recommends joining local community groups such as theatre groups, music groups and local history groups. Information about community activities can be found at the town hall or public library.",
+      "groups": [
+        {
+          "group_id": "lshort_g1",
+          "type": "short_answer",
+          "skill_tag": "ls_short_answer",
+          "instruction": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "items": [
+            {
+              "id": "q11",
+              "number": 11,
+              "prompt_html": "What TWO factors can make social contact in a foreign country difficult? Factor 1: <blank/>",
+              "answer": [
+                "language",
+                "customs"
+              ],
+              "any_order_group": "factors_11_12"
+            },
+            {
+              "id": "q12",
+              "number": 12,
+              "prompt_html": "What TWO factors can make social contact in a foreign country difficult? Factor 2: <blank/>",
+              "answer": [
+                "language",
+                "customs"
+              ],
+              "any_order_group": "factors_11_12"
+            },
+            {
+              "id": "q13",
+              "number": 13,
+              "prompt_html": "Which types of community group does the speaker give examples of? theatre, <blank/>",
+              "answer": [
+                "music groups",
+                "music"
+              ],
+              "any_order_group": "groups_13_14"
+            },
+            {
+              "id": "q14",
+              "number": 14,
+              "prompt_html": "Which types of community group does the speaker give examples of? <blank/>",
+              "answer": [
+                "local history groups",
+                "local history"
+              ],
+              "any_order_group": "groups_13_14"
+            },
+            {
+              "id": "q15",
+              "number": 15,
+              "prompt_html": "In which TWO places can information about community activities be found? Place 1: <blank/>",
+              "answer": [
+                "town hall",
+                "the town hall",
+                "public library",
+                "the public library",
+                "library",
+                "libraries"
+              ],
+              "any_order_group": "places_15_16"
+            },
+            {
+              "id": "q16",
+              "number": 16,
+              "prompt_html": "In which TWO places can information about community activities be found? Place 2: <blank/>",
+              "answer": [
+                "town hall",
+                "the town hall",
+                "public library",
+                "the public library",
+                "library",
+                "libraries"
+              ],
+              "any_order_group": "places_15_16"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answer_key": {
+    "q11": {
+      "accepted": [
+        "language",
+        "customs"
+      ],
+      "explanation": "The speaker gives language and customs as the two factors that make social contact difficult. Questions 11 and 12 can be in either order.",
+      "evidence": "Not just because of the language, but because customs may be different.",
+      "skill_tag": "ls_short_answer",
+      "pitfall": "Foreign country is context, not an answer."
+    },
+    "q12": {
+      "accepted": [
+        "language",
+        "customs"
+      ],
+      "explanation": "The speaker gives language and customs as the two factors that make social contact difficult. Questions 11 and 12 can be in either order.",
+      "evidence": "Not just because of the language, but because customs may be different.",
+      "skill_tag": "ls_short_answer",
+      "pitfall": "This answer is paired with question 11 in any order."
+    },
+    "q13": {
+      "accepted": [
+        "music groups",
+        "music"
+      ],
+      "explanation": "After theatre groups, the speaker says people who play instruments could join music groups.",
+      "evidence": "If you play an instrument you could join music groups in your area.",
+      "skill_tag": "ls_short_answer",
+      "pitfall": "Do not include actors or set designers; they describe theatre group roles."
+    },
+    "q14": {
+      "accepted": [
+        "local history groups",
+        "local history"
+      ],
+      "explanation": "The second example after theatre is a group for local history.",
+      "evidence": "If you like the idea of finding out about local history there'll be a group for that too.",
+      "skill_tag": "ls_short_answer",
+      "pitfall": "The answer can omit groups because the prompt already asks for types of group."
+    },
+    "q15": {
+      "accepted": [
+        "town hall",
+        "the town hall",
+        "public library",
+        "the public library",
+        "library",
+        "libraries"
+      ],
+      "explanation": "Information can be found at the town hall or public library. Questions 15 and 16 can be in either order.",
+      "evidence": "The best places to get information ... are either the town hall or the public library.",
+      "skill_tag": "ls_short_answer",
+      "pitfall": "Libraries are mentioned broadly, but the place in the answer key is the public library."
+    },
+    "q16": {
+      "accepted": [
+        "town hall",
+        "the town hall",
+        "public library",
+        "the public library",
+        "library",
+        "libraries"
+      ],
+      "explanation": "Information can be found at the town hall or public library. Questions 15 and 16 can be in either order.",
+      "evidence": "The best places to get information ... are either the town hall or the public library.",
+      "skill_tag": "ls_short_answer",
+      "pitfall": "This answer is paired with question 15 in any order."
+    }
+  }
+}

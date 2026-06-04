@@ -1,0 +1,182 @@
+{
+  "test_id": "idp_reading_mcq_multi_ai",
+  "test_type": "reading",
+  "title": "Academic Reading - Multiple Choice More Than One Answer",
+  "source_markdown": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Reading/Academic_Reading_Sample_Task_Multiple_Choice_more_than_one_answer__Task.md",
+  "duration_seconds": null,
+  "passages": [
+    {
+      "passage_id": "p1",
+      "title": "Older People in the Workforce",
+      "note": "Extract from a Part 1 text about older people in the workforce.",
+      "paragraphs": [
+        "Clearly, when older people do heavy physical work, their age may affect their productivity. But other skills may increase with age, including many that are crucial for good management, such as an ability to handle people diplomatically, to run a meeting or to spot a problem before it blows up. Peter Hicks, who co-ordinates OECD work on the policy implications of ageing, says that plenty of research suggests older people are paid more because they are worth more.",
+        "And the virtues of the young may be exaggerated. 'The few companies that have kept on older workers find they have good judgement and their productivity is good,' says Peter Peterson, author of a recent book on the impact of ageing. 'Besides, their education standards are much better than those of today's young high-school graduates.' Companies may say that older workers are not worth training because they are reaching the end of their working lives; in fact, young people tend to switch jobs so frequently that they offer the worst returns on training. The median age for employer-driven training is the late 40s and early 50s, and this training goes mainly to managers."
+      ]
+    }
+  ],
+  "parts": [
+    {
+      "part_id": 1,
+      "label": "Reading Passage 1",
+      "groups": [
+        {
+          "group_id": "rmcqm_g1",
+          "type": "mcq_multi",
+          "skill_tag": "rd_mcq_multi",
+          "instruction": "Choose TWO letters, A-G. The list below gives some advantages of employing older workers. Which TWO advantages are mentioned by the writer?",
+          "selection_limit": 2,
+          "options": [
+            {
+              "label": "A",
+              "text": "They are less likely to be involved in careless accidents."
+            },
+            {
+              "label": "B",
+              "text": "They can predict areas that may cause trouble in the future."
+            },
+            {
+              "label": "C",
+              "text": "They are able to train younger workers."
+            },
+            {
+              "label": "D",
+              "text": "They can deal with unexpected problems."
+            },
+            {
+              "label": "E",
+              "text": "They are more conscientious."
+            },
+            {
+              "label": "F",
+              "text": "They are prepared to work for lower salaries."
+            },
+            {
+              "label": "G",
+              "text": "They are more skilled in personal relationships."
+            }
+          ],
+          "items": [
+            {
+              "id": "q1",
+              "number": 1,
+              "prompt_html": "Advantage of employing older workers - answer 1",
+              "answer": [
+                "B",
+                "G"
+              ],
+              "any_order_group": "advantages_1_2"
+            },
+            {
+              "id": "q2",
+              "number": 2,
+              "prompt_html": "Advantage of employing older workers - answer 2",
+              "answer": [
+                "B",
+                "G"
+              ],
+              "any_order_group": "advantages_1_2"
+            }
+          ]
+        },
+        {
+          "group_id": "rmcqm_g2",
+          "type": "mcq_multi",
+          "skill_tag": "rd_mcq_multi",
+          "instruction": "Choose TWO letters, A-F. The list below gives some disadvantages of employing younger workers. Which TWO disadvantages are mentioned by the writer?",
+          "selection_limit": 2,
+          "options": [
+            {
+              "label": "A",
+              "text": "They are too confident of their own skills."
+            },
+            {
+              "label": "B",
+              "text": "They may injure themselves."
+            },
+            {
+              "label": "C",
+              "text": "They do not stay with the same company for very long."
+            },
+            {
+              "label": "D",
+              "text": "Their training has been too theoretical."
+            },
+            {
+              "label": "E",
+              "text": "They are not as well educated as older workers."
+            },
+            {
+              "label": "F",
+              "text": "They demand higher salaries."
+            }
+          ],
+          "items": [
+            {
+              "id": "q3",
+              "number": 3,
+              "prompt_html": "Disadvantage of employing younger workers - answer 1",
+              "answer": [
+                "C",
+                "E"
+              ],
+              "any_order_group": "disadvantages_3_4"
+            },
+            {
+              "id": "q4",
+              "number": 4,
+              "prompt_html": "Disadvantage of employing younger workers - answer 2",
+              "answer": [
+                "C",
+                "E"
+              ],
+              "any_order_group": "disadvantages_3_4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answer_key": {
+    "q1": {
+      "accepted": [
+        "B",
+        "G"
+      ],
+      "explanation": "The two stated advantages are spotting problems before they become serious and handling people diplomatically.",
+      "evidence": "handle people diplomatically ... spot a problem before it blows up",
+      "skill_tag": "rd_mcq_multi",
+      "pitfall": "This pair can be written in either order across questions 1 and 2."
+    },
+    "q2": {
+      "accepted": [
+        "B",
+        "G"
+      ],
+      "explanation": "The two stated advantages are spotting problems before they become serious and handling people diplomatically.",
+      "evidence": "handle people diplomatically ... spot a problem before it blows up",
+      "skill_tag": "rd_mcq_multi",
+      "pitfall": "Do not choose D; the passage is about predicting trouble, not reacting to unexpected trouble."
+    },
+    "q3": {
+      "accepted": [
+        "C",
+        "E"
+      ],
+      "explanation": "The disadvantages of younger workers are frequent job switching and weaker education standards compared with older workers.",
+      "evidence": "young people tend to switch jobs so frequently ... their education standards are much better than those of today's young high-school graduates",
+      "skill_tag": "rd_mcq_multi",
+      "pitfall": "This pair can be written in either order across questions 3 and 4."
+    },
+    "q4": {
+      "accepted": [
+        "C",
+        "E"
+      ],
+      "explanation": "The disadvantages of younger workers are frequent job switching and weaker education standards compared with older workers.",
+      "evidence": "young people tend to switch jobs so frequently ... their education standards are much better than those of today's young high-school graduates",
+      "skill_tag": "rd_mcq_multi",
+      "pitfall": "The passage says nothing about younger workers demanding higher salaries."
+    }
+  }
+}

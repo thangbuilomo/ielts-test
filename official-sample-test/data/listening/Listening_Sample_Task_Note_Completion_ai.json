@@ -1,0 +1,232 @@
+{
+  "test_id": "idp_listening_note_completion_ai",
+  "test_type": "listening",
+  "title": "Listening Sample Task - Note Completion",
+  "source_markdown": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Listening_Sample_Task_Note_Completion.md",
+  "duration_seconds": null,
+  "audio": {
+    "src": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Audio_-_Free_practice_test_-_Listening_-_Note_completion.mp3"
+  },
+  "parts": [
+    {
+      "part_id": 2,
+      "label": "PART 2",
+      "context": "A talk about the National Arts Centre and its events programme.",
+      "transcript_text": "The speaker says the National Arts Centre is well known for classical music concerts. The complex includes concert rooms, theatres, cinemas, art galleries, a public library, restaurants and a bookshop. The area was destroyed by bombs in 1940; the centre was planned in the 1960s, built in the 1970s and opened to the public in 1983. It is managed by the City Council and opens 363 days a year. The Magic Flute is in the Garden Hall with tickets from 8 pounds. The Canadian film Three Lives is shown in Cinema 2 and costs 4.50 pounds. At the weekend, the art exhibition Faces of China is in Gallery 1 and is free.",
+      "groups": [
+        {
+          "group_id": "lnote_g1",
+          "type": "note_completion",
+          "skill_tag": "ls_comp_note",
+          "instruction": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "prompt_html": "<section><h3>THE NATIONAL ARTS CENTRE</h3><p>Well known for: <blank data-qid=\"q11\"/></p><p>Complex consists of: concert rooms, theatres, cinemas, art galleries, a public library, restaurants and <blank data-qid=\"q12\"/></p><p>Historical background: 1940 - area destroyed by bombs; 1960s - Centre was <blank data-qid=\"q13\"/>; In <blank data-qid=\"q14\"/> - opened to public</p><p>Managed by: <blank data-qid=\"q15\"/></p><p>Open: <blank data-qid=\"q16\"/> days per year</p></section>",
+          "items": [
+            {
+              "id": "q11",
+              "number": 11,
+              "prompt_html": "Well known for: <blank/>",
+              "answer": [
+                "classical music",
+                "classical music concerts",
+                "music concerts"
+              ]
+            },
+            {
+              "id": "q12",
+              "number": 12,
+              "prompt_html": "Complex consists of: concert rooms, theatres, cinemas, art galleries, a public library, restaurants and <blank/>",
+              "answer": [
+                "bookshop",
+                "bookstore",
+                "a bookshop",
+                "a bookstore"
+              ]
+            },
+            {
+              "id": "q13",
+              "number": 13,
+              "prompt_html": "1960s - Centre was <blank/>",
+              "answer": [
+                "planned"
+              ]
+            },
+            {
+              "id": "q14",
+              "number": 14,
+              "prompt_html": "In <blank/> - opened to public",
+              "answer": [
+                "1983",
+                "the 1980s",
+                "1980s"
+              ]
+            },
+            {
+              "id": "q15",
+              "number": 15,
+              "prompt_html": "Managed by: <blank/>",
+              "answer": [
+                "City Council",
+                "the City Council"
+              ]
+            },
+            {
+              "id": "q16",
+              "number": 16,
+              "prompt_html": "Open: <blank/> days per year",
+              "answer": [
+                "363"
+              ]
+            }
+          ]
+        },
+        {
+          "group_id": "lnote_g2",
+          "type": "table_completion",
+          "skill_tag": "ls_comp_table",
+          "instruction": "Complete the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "prompt_html": "<table><thead><tr><th>Day</th><th>Time</th><th>Event</th><th>Venue</th><th>Ticket price</th></tr></thead><tbody><tr><td>Monday and Tuesday</td><td>7.30 p.m.</td><td>The Magic Flute</td><td><blank data-qid=\"q17\"/></td><td>from 8.00 pounds</td></tr><tr><td>Wednesday</td><td>8.00 p.m.</td><td><blank data-qid=\"q18\"/> (Canadian film)</td><td>Cinema 2</td><td><blank data-qid=\"q19\"/></td></tr><tr><td>Saturday and Sunday</td><td>11 a.m. to 10 p.m.</td><td><blank data-qid=\"q20\"/> (art exhibition)</td><td>Gallery 1</td><td>free</td></tr></tbody></table>",
+          "items": [
+            {
+              "id": "q17",
+              "number": 17,
+              "prompt_html": "Venue for The Magic Flute: <blank/>",
+              "answer": [
+                "Garden Hall",
+                "the Garden Hall"
+              ]
+            },
+            {
+              "id": "q18",
+              "number": 18,
+              "prompt_html": "Canadian film: <blank/>",
+              "answer": [
+                "Three Lives"
+              ]
+            },
+            {
+              "id": "q19",
+              "number": 19,
+              "prompt_html": "Ticket price for the Canadian film: <blank/>",
+              "answer": [
+                "\u00a34.50",
+                "4.50",
+                "GBP 4.50"
+              ]
+            },
+            {
+              "id": "q20",
+              "number": 20,
+              "prompt_html": "Art exhibition: <blank/>",
+              "answer": [
+                "Faces of China"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answer_key": {
+    "q11": {
+      "accepted": [
+        "classical music",
+        "classical music concerts",
+        "music concerts"
+      ],
+      "explanation": "The speaker identifies the centre as a major venue for classical music.",
+      "evidence": "major venues for classical music",
+      "skill_tag": "ls_comp_note",
+      "pitfall": "Music alone is too broad; classical music is the specific answer."
+    },
+    "q12": {
+      "accepted": [
+        "bookshop",
+        "bookstore",
+        "a bookshop",
+        "a bookstore"
+      ],
+      "explanation": "In the list of facilities, the missing item after restaurants is a bookshop.",
+      "evidence": "restaurants and a bookshop",
+      "skill_tag": "ls_comp_note",
+      "pitfall": "Restaurants appears near the answer but is not the blank."
+    },
+    "q13": {
+      "accepted": [
+        "planned"
+      ],
+      "explanation": "The 1960s keyword points to the statement that the centre was planned in that decade.",
+      "evidence": "planned in the 60s",
+      "skill_tag": "ls_comp_note",
+      "pitfall": "Built belongs to the 1970s, not the 1960s."
+    },
+    "q14": {
+      "accepted": [
+        "1983",
+        "the 1980s",
+        "1980s"
+      ],
+      "explanation": "The centre opened to the public in 1983.",
+      "evidence": "opened to the public in 1983",
+      "skill_tag": "ls_comp_note",
+      "pitfall": "1970s refers to construction, not public opening."
+    },
+    "q15": {
+      "accepted": [
+        "City Council",
+        "the City Council"
+      ],
+      "explanation": "Managed by is paraphrased as run by the City Council.",
+      "evidence": "run by the City Council",
+      "skill_tag": "ls_comp_note",
+      "pitfall": "Public hands is too general for the answer blank."
+    },
+    "q16": {
+      "accepted": [
+        "363"
+      ],
+      "explanation": "The centre is open 363 days each year.",
+      "evidence": "opened 363 days of the year",
+      "skill_tag": "ls_comp_note",
+      "pitfall": "Do not add days if the prompt already has days per year."
+    },
+    "q17": {
+      "accepted": [
+        "Garden Hall",
+        "the Garden Hall"
+      ],
+      "explanation": "The Magic Flute is performed in the Garden Hall.",
+      "evidence": "The Magic Flute ... in the Garden Hall",
+      "skill_tag": "ls_comp_table",
+      "pitfall": "The National Arts Centre is the whole complex, not the venue for this event."
+    },
+    "q18": {
+      "accepted": [
+        "Three Lives"
+      ],
+      "explanation": "The Canadian film title is Three Lives.",
+      "evidence": "Canadian film called Three Lives",
+      "skill_tag": "ls_comp_table",
+      "pitfall": "Cinema 2 is the venue, not the film title."
+    },
+    "q19": {
+      "accepted": [
+        "\u00a34.50",
+        "4.50",
+        "GBP 4.50"
+      ],
+      "explanation": "The ticket price for the film is 4.50 pounds.",
+      "evidence": "tickets cost just 4.50",
+      "skill_tag": "ls_comp_table",
+      "pitfall": "5.50 is a distractor because it is the usual price before the reduction."
+    },
+    "q20": {
+      "accepted": [
+        "Faces of China"
+      ],
+      "explanation": "The weekend art exhibition is called Faces of China.",
+      "evidence": "Chinese art called Faces of China",
+      "skill_tag": "ls_comp_table",
+      "pitfall": "Gallery 1 is the venue, not the exhibition name."
+    }
+  }
+}

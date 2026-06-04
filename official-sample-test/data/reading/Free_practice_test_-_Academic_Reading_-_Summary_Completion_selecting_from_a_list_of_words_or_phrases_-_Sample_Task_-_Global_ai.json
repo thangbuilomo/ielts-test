@@ -1,0 +1,134 @@
+{
+  "test_id": "idp_reading_summary_completion_language_list_ai",
+  "test_type": "reading",
+  "title": "Academic Reading - Summary Completion Selecting From A List",
+  "source_markdown": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Reading/Free_practice_test_-_Academic_Reading_-_Summary_Completion_selecting_from_a_list_of_words_or_phrases_-_Sample_Task_-_Global.md",
+  "duration_seconds": null,
+  "passages": [
+    {
+      "passage_id": "p1",
+      "title": "This Marvellous Invention",
+      "paragraphs": [
+        "Of all mankind's manifold creations, language must take pride of place. Other inventions - the wheel, agriculture, sliced bread - may have transformed our material existence, but the advent of language is what made us human. Compared to language, all other inventions pale in significance, since everything we have ever achieved depends on language and originates from it. Without language, we could never have embarked on our ascent to unparalleled power over all other animals, and even over nature itself.",
+        "But language is foremost not just because it came first. In its own right it is a tool of extraordinary sophistication, yet based on an idea of ingenious simplicity: 'this marvellous invention of composing out of twenty-five or thirty sounds that infinite variety of expressions which, whilst having in themselves no likeness to what is in our mind, allow us to disclose to others its whole secret, and to make known to those who cannot penetrate it all that we imagine, and all the various stirrings of our soul'. This was how, in 1660, the renowned French grammarians of the Port-Royal abbey near Versailles distilled the essence of language, and no one since has celebrated more eloquently the magnitude of its achievement. Even so, there is just one flaw in all these hymns of praise, for the homage to language's unique accomplishment conceals a simple yet critical incongruity. Language is mankind's greatest invention - except, of course, that it was never invented. This apparent paradox is at the core of our fascination with language, and it holds many of its secrets."
+      ]
+    }
+  ],
+  "parts": [
+    {
+      "part_id": 1,
+      "label": "Reading Passage 1",
+      "groups": [
+        {
+          "group_id": "rsumlist_g1",
+          "type": "summary_completion_list",
+          "skill_tag": "rd_comp_summary",
+          "instruction": "Complete the summary using the list of words, A-G, below.",
+          "prompt_html": "<h3>The importance of language</h3><p>The wheel is one invention that has had a major impact on <blank data-qid=\"q1\"/> aspects of life, but no impact has been as <blank data-qid=\"q2\"/> as that of language. Language is very <blank data-qid=\"q3\"/>, yet composed of just a small number of sounds. Language appears to be <blank data-qid=\"q4\"/> to use. However, its sophistication is often overlooked.</p>",
+          "options": [
+            {
+              "label": "A",
+              "text": "difficult"
+            },
+            {
+              "label": "B",
+              "text": "complex"
+            },
+            {
+              "label": "C",
+              "text": "original"
+            },
+            {
+              "label": "D",
+              "text": "admired"
+            },
+            {
+              "label": "E",
+              "text": "material"
+            },
+            {
+              "label": "F",
+              "text": "easy"
+            },
+            {
+              "label": "G",
+              "text": "fundamental"
+            }
+          ],
+          "items": [
+            {
+              "id": "q1",
+              "number": 1,
+              "prompt_html": "The wheel has had a major impact on <blank/> aspects of life.",
+              "answer": [
+                "E"
+              ]
+            },
+            {
+              "id": "q2",
+              "number": 2,
+              "prompt_html": "No impact has been as <blank/> as that of language.",
+              "answer": [
+                "G"
+              ]
+            },
+            {
+              "id": "q3",
+              "number": 3,
+              "prompt_html": "Language is very <blank/>, yet composed of just a small number of sounds.",
+              "answer": [
+                "B"
+              ]
+            },
+            {
+              "id": "q4",
+              "number": 4,
+              "prompt_html": "Language appears to be <blank/> to use.",
+              "answer": [
+                "F"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answer_key": {
+    "q1": {
+      "accepted": [
+        "E"
+      ],
+      "explanation": "The passage says inventions like the wheel transformed our material existence.",
+      "evidence": "may have transformed our material existence",
+      "skill_tag": "rd_comp_summary",
+      "pitfall": "Fundamental does not collocate with 'aspects of life' here as directly as material."
+    },
+    "q2": {
+      "accepted": [
+        "G"
+      ],
+      "explanation": "Language is presented as foundational to being human and to all achievements, so its impact is fundamental.",
+      "evidence": "everything we have ever achieved depends on language and originates from it",
+      "skill_tag": "rd_comp_summary",
+      "pitfall": "Original refers to firstness, but the sentence asks about degree of impact."
+    },
+    "q3": {
+      "accepted": [
+        "B"
+      ],
+      "explanation": "Extraordinary sophistication is paraphrased by complex.",
+      "evidence": "a tool of extraordinary sophistication",
+      "skill_tag": "rd_comp_summary",
+      "pitfall": "Difficult would mean hard to use, not structurally sophisticated."
+    },
+    "q4": {
+      "accepted": [
+        "F"
+      ],
+      "explanation": "The passage contrasts sophistication with ingenious simplicity, so language appears easy to use.",
+      "evidence": "based on an idea of ingenious simplicity",
+      "skill_tag": "rd_comp_summary",
+      "pitfall": "The word must fit 'appears to be ___ to use'."
+    }
+  }
+}

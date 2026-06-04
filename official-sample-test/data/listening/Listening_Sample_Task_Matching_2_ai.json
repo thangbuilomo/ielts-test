@@ -1,0 +1,120 @@
+{
+  "test_id": "idp_listening_matching_2_ai",
+  "test_type": "listening",
+  "title": "Listening Sample Task - Matching 2",
+  "source_markdown": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Listening_Sample_Task_Matching_2.md",
+  "duration_seconds": null,
+  "audio": {
+    "src": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Audio_-_Free_practice_test_-_Listening_-_Matching_-_Sample_2.mp3"
+  },
+  "parts": [
+    {
+      "part_id": 1,
+      "label": "PART 1",
+      "context": "A man asks an official at a tourist information office about four- or five-star hotels.",
+      "transcript_text": "The official describes five hotels. The Royal Oak is out in the country; Carlton House has only recently taken its first guests; the Imperial has meeting rooms and is used for conferences and corporate events; the Bridge Hotel is the only one with an indoor swimming pool.",
+      "groups": [
+        {
+          "group_id": "lmatch2_g1",
+          "type": "matching",
+          "skill_tag": "ls_matching",
+          "instruction": "Which hotel matches each description? Choose your answers from the box and write the correct letter A-E next to questions 1-4.",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Bridge Hotel"
+            },
+            {
+              "label": "B",
+              "text": "Carlton House"
+            },
+            {
+              "label": "C",
+              "text": "The Imperial"
+            },
+            {
+              "label": "D",
+              "text": "The Majestic"
+            },
+            {
+              "label": "E",
+              "text": "The Royal Oak"
+            }
+          ],
+          "items": [
+            {
+              "id": "q1",
+              "number": 1,
+              "prompt_html": "is in a rural area",
+              "answer": [
+                "E"
+              ]
+            },
+            {
+              "id": "q2",
+              "number": 2,
+              "prompt_html": "only opened recently",
+              "answer": [
+                "B"
+              ]
+            },
+            {
+              "id": "q3",
+              "number": 3,
+              "prompt_html": "offers facilities for business functions",
+              "answer": [
+                "C"
+              ]
+            },
+            {
+              "id": "q4",
+              "number": 4,
+              "prompt_html": "has an indoor swimming pool",
+              "answer": [
+                "A"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answer_key": {
+    "q1": {
+      "accepted": [
+        "E"
+      ],
+      "explanation": "The Royal Oak is described as being out in the country, which matches a rural area.",
+      "evidence": "The Royal Oak - that's out in the country, about ten kilometres away.",
+      "skill_tag": "ls_matching",
+      "pitfall": "Airport road is outside the centre, but not necessarily rural."
+    },
+    "q2": {
+      "accepted": [
+        "B"
+      ],
+      "explanation": "Carlton House took its first guests only a few months ago.",
+      "evidence": "They took their first guests just a few months ago.",
+      "skill_tag": "ls_matching",
+      "pitfall": "Old building is not the same as old hotel operation; it was recently refurbished and opened."
+    },
+    "q3": {
+      "accepted": [
+        "C"
+      ],
+      "explanation": "The Imperial has meeting rooms and hosts conferences and corporate events.",
+      "evidence": "It also has internet connection and meeting rooms - it's used for conferences and corporate events.",
+      "skill_tag": "ls_matching",
+      "pitfall": "A gym is not a business function facility."
+    },
+    "q4": {
+      "accepted": [
+        "A"
+      ],
+      "explanation": "The Bridge Hotel is the only hotel with an indoor pool.",
+      "evidence": "The only hotel with an indoor pool is the Bridge Hotel.",
+      "skill_tag": "ls_matching",
+      "pitfall": "The Royal Oak has an outdoor pool; the Majestic pool is only planned."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "test_id": "idp_listening_multiple_choice_ai",
+  "test_type": "listening",
+  "title": "Listening Sample Task - Multiple Choice",
+  "source_markdown": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Listening_Sample_Task_Multiple_Choice.md",
+  "duration_seconds": null,
+  "audio": {
+    "src": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Audio_-_Free_practice_test_-_Listening_-_Mutliple_choice.mp3"
+  },
+  "parts": [
+    {
+      "part_id": 1,
+      "label": "PART 1",
+      "context": "The last part of a conversation between a customer and a shipping agent.",
+      "transcript_text": "The agent explains three insurance levels: Premium is the highest comprehensive cover, Standard is the middle level, and Economy only covers second-hand value. The customer chooses the highest. The agent then asks whether the goods should be delivered to home, a depot, or the nearest port. The customer says the port is fine because he has transport at that end.",
+      "groups": [
+        {
+          "group_id": "lmc_g1",
+          "type": "mcq_single",
+          "skill_tag": "ls_mcq_single",
+          "instruction": "Choose the correct letter, A, B or C.",
+          "items": [
+            {
+              "id": "q9",
+              "number": 9,
+              "prompt_html": "Type of insurance chosen",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "Economy"
+                },
+                {
+                  "label": "B",
+                  "text": "Standard"
+                },
+                {
+                  "label": "C",
+                  "text": "Premium"
+                }
+              ],
+              "answer": [
+                "C"
+              ]
+            },
+            {
+              "id": "q10",
+              "number": 10,
+              "prompt_html": "Customer wants goods delivered to",
+              "options": [
+                {
+                  "label": "A",
+                  "text": "port"
+                },
+                {
+                  "label": "B",
+                  "text": "home"
+                },
+                {
+                  "label": "C",
+                  "text": "depot"
+                }
+              ],
+              "answer": [
+                "A"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answer_key": {
+    "q9": {
+      "accepted": [
+        "C"
+      ],
+      "explanation": "Premium is described as the highest comprehensive cover, and the customer says he will go for the highest.",
+      "evidence": "There's the highest comprehensive cover which is Premium rate. ... I'll go for the highest.",
+      "skill_tag": "ls_mcq_single",
+      "pitfall": "The customer mentions Economy only to reject it because of a bad previous experience."
+    },
+    "q10": {
+      "accepted": [
+        "A"
+      ],
+      "explanation": "The customer accepts pickup at the nearest port.",
+      "evidence": "Would you want home delivery or to a local depot or would you want to pick it up at the nearest port? The port'd be fine.",
+      "skill_tag": "ls_mcq_single",
+      "pitfall": "Home and depot are only options in the agent's question, not the customer's choice."
+    }
+  }
+}

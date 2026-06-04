@@ -1,0 +1,197 @@
+{
+  "test_id": "idp_listening_form_completion_ai",
+  "test_type": "listening",
+  "title": "Listening Sample Task - Form Completion",
+  "source_markdown": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Listening_Sample_Task_Form_Completion.md",
+  "duration_seconds": null,
+  "audio": {
+    "src": "H:/Code/Docling GitHub/File resource/Sample Questions from IDP/Listening/Audio_-_Free_practice_test_-_Listening_-_Form_completion.mp3"
+  },
+  "parts": [
+    {
+      "part_id": 1,
+      "label": "PART 1",
+      "context": "A telephone conversation between a customer and an agent at Packham's Shipping Agency.",
+      "transcript_text": "The customer, Jacob Mkere, asks about sending a large box to Kenya. The agent asks for his name, collection address, postcode, container dimensions, contents and estimated value. The answers are given in order: surname Mkere, Westall College, BS8 9PU, 0.75m wide, 0.5m high or deep, books, toys and a total value of 1700.",
+      "groups": [
+        {
+          "group_id": "lfc_g1",
+          "type": "form_completion",
+          "skill_tag": "ls_comp_form",
+          "instruction": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+          "prompt_html": "<section><h3>PACKHAM'S SHIPPING AGENCY - customer quotation form</h3><p>Name: Jacob <blank data-qid=\"q1\"/></p><p>Address to be collected from: <blank data-qid=\"q2\"/> College, Downlands Rd</p><p>Town: Bristol</p><p>Postcode: <blank data-qid=\"q3\"/></p><p>Size of container: Length 1.5m; Width <blank data-qid=\"q4\"/>; Height <blank data-qid=\"q5\"/></p><p>Contents: clothes; <blank data-qid=\"q6\"/>; <blank data-qid=\"q7\"/></p><p>Total estimated value: <blank data-qid=\"q8\"/></p></section>",
+          "items": [
+            {
+              "id": "q1",
+              "number": 1,
+              "prompt_html": "Name: Jacob <blank/>",
+              "answer": [
+                "Mkere"
+              ]
+            },
+            {
+              "id": "q2",
+              "number": 2,
+              "prompt_html": "Address to be collected from: <blank/> College, Downlands Rd",
+              "answer": [
+                "Westall"
+              ]
+            },
+            {
+              "id": "q3",
+              "number": 3,
+              "prompt_html": "Postcode: <blank/>",
+              "answer": [
+                "BS8 9PU",
+                "BS89PU"
+              ]
+            },
+            {
+              "id": "q4",
+              "number": 4,
+              "prompt_html": "Size of container - Width: <blank/>",
+              "answer": [
+                "0.75 m",
+                "0.75m",
+                "75 cm",
+                "75cm",
+                "three quarters of a metre",
+                "three quarters of a meter"
+              ]
+            },
+            {
+              "id": "q5",
+              "number": 5,
+              "prompt_html": "Size of container - Height: <blank/>",
+              "answer": [
+                "0.5 m",
+                "0.5m",
+                "50 cm",
+                "50cm",
+                "half a metre",
+                "half a meter"
+              ]
+            },
+            {
+              "id": "q6",
+              "number": 6,
+              "prompt_html": "Contents item 1: <blank/>",
+              "answer": [
+                "books",
+                "toys"
+              ],
+              "any_order_group": "contents_6_7"
+            },
+            {
+              "id": "q7",
+              "number": 7,
+              "prompt_html": "Contents item 2: <blank/>",
+              "answer": [
+                "books",
+                "toys"
+              ],
+              "any_order_group": "contents_6_7"
+            },
+            {
+              "id": "q8",
+              "number": 8,
+              "prompt_html": "Total estimated value: <blank/>",
+              "answer": [
+                "1700",
+                "1,700"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "answer_key": {
+    "q1": {
+      "accepted": [
+        "Mkere"
+      ],
+      "explanation": "The agent asks the customer to spell his surname after the first name Jacob. The spelling is M-K-E-R-E.",
+      "evidence": "It's Jacob Mkere. ... Can you spell your surname, please? ... M-K-E-R-E.",
+      "skill_tag": "ls_comp_form",
+      "pitfall": "Do not write Jacob because the form already gives the first name."
+    },
+    "q2": {
+      "accepted": [
+        "Westall"
+      ],
+      "explanation": "The pickup address is Westall College, so only Westall fills the blank before College.",
+      "evidence": "It's Westall College.",
+      "skill_tag": "ls_comp_form",
+      "pitfall": "Do not include College if the prompt already has College after the blank."
+    },
+    "q3": {
+      "accepted": [
+        "BS8 9PU",
+        "BS89PU"
+      ],
+      "explanation": "The postcode is dictated directly after the Bristol address.",
+      "evidence": "And the postcode? It's BS8 9PU.",
+      "skill_tag": "ls_comp_form",
+      "pitfall": "Keep the letter-number order exactly."
+    },
+    "q4": {
+      "accepted": [
+        "0.75 m",
+        "0.75m",
+        "75 cm",
+        "75cm",
+        "three quarters of a metre",
+        "three quarters of a meter"
+      ],
+      "explanation": "The width is stated after the length: 0.75m wide.",
+      "evidence": "I've measured it carefully and it's 1.5m long ... 0.75m wide.",
+      "skill_tag": "ls_comp_form",
+      "pitfall": "Do not confuse width with the following height/depth measurement."
+    },
+    "q5": {
+      "accepted": [
+        "0.5 m",
+        "0.5m",
+        "50 cm",
+        "50cm",
+        "half a metre",
+        "half a meter"
+      ],
+      "explanation": "The height or depth is given as 0.5m.",
+      "evidence": "And it's 0.5m high or deep.",
+      "skill_tag": "ls_comp_form",
+      "pitfall": "The words high or deep are optional; the value is the important part."
+    },
+    "q6": {
+      "accepted": [
+        "books",
+        "toys"
+      ],
+      "explanation": "After clothes, the customer adds books and toys as the other contents. Questions 6 and 7 can be in either order.",
+      "evidence": "There's mostly clothes. ... And there's some books. ... there's also some toys.",
+      "skill_tag": "ls_comp_form",
+      "pitfall": "This is an any-order pair with question 7."
+    },
+    "q7": {
+      "accepted": [
+        "books",
+        "toys"
+      ],
+      "explanation": "After clothes, the customer adds books and toys as the other contents. Questions 6 and 7 can be in either order.",
+      "evidence": "There's mostly clothes. ... And there's some books. ... there's also some toys.",
+      "skill_tag": "ls_comp_form",
+      "pitfall": "This is an any-order pair with question 6."
+    },
+    "q8": {
+      "accepted": [
+        "1700",
+        "1,700"
+      ],
+      "explanation": "The clothes and books are about 1500, and the toys are another 200, so the total is 1700.",
+      "evidence": "They'll be about 1500 but then the toys are about another two hundred - so I'd put down 1700.",
+      "skill_tag": "ls_comp_form",
+      "pitfall": "Do not choose 1500 because that excludes the toys."
+    }
+  }
+}
