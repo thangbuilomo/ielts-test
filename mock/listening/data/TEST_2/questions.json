@@ -1,0 +1,491 @@
+{
+  "schema_version": "saola.questions.v1",
+  "test_id": "vol_09_t2_ls",
+  "module": "listening",
+  "question_count": 40,
+  "question_groups": [
+    {
+      "group_id": "ls_t2_p1_g1",
+      "part_id": "l1",
+      "question_range": [
+        1,
+        5
+      ],
+      "question_type": "note_completion",
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ],
+      "instruction": "Complete the notes below. Write **ONE WORD ONLY** for each answer.",
+      "prompt_html": "<p><strong>Questions 1–5</strong></p><p>Complete the notes below.</p><p>Write <strong>ONE WORD ONLY</strong> for each answer.</p><p><strong>Poppy Reserve</strong></p><p>Almond Valley Poppy Reserve is a nature reserve<br/>• The poppies will be at their best at the end of the 1 …………..   .<br/>• The poppies on the hills are 2 …………. in colour.<br/>The reserve is located to the 3 …………….  of Lakeside.<br/>• The best time for photography is mid-afternoon.<br/>• Wear 4 ……….. because of rattlesnakes.<br/>• The reserve is a 5 …………. park.</p>",
+      "items": [
+        {
+          "question_id": "q1",
+          "number": 1,
+          "prompt_html": "<p>• The poppies will be at their best at the end of the 1 …………..   .</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q2",
+          "number": 2,
+          "prompt_html": "<p>• The poppies on the hills are 2 …………. in colour.</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q3",
+          "number": 3,
+          "prompt_html": "<p>The reserve is located to the 3 …………….  of Lakeside.</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q4",
+          "number": 4,
+          "prompt_html": "<p>• Wear 4 ……….. because of rattlesnakes.</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q5",
+          "number": 5,
+          "prompt_html": "<p>• The reserve is a 5 …………. park.</p>",
+          "response_type": "text"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t2_p1_g2",
+      "part_id": "l1",
+      "question_range": [
+        6,
+        10
+      ],
+      "question_type": "table_completion",
+      "skill_tags": [
+        "ls_comp_table",
+        "ls_detail"
+      ],
+      "instruction": "Complete the table below. Write **ONE WORD AND/OR A NUMBER** for each answer.",
+      "prompt_html": "<p><strong>Questions 6–10</strong></p><p>Complete the table below.</p><p>Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.</p><table><tr><th><strong>Tour</strong></th><th><strong>Start time</strong></th><th><strong>Duration</strong></th><th><strong>Highlights</strong></th><th><strong>Photography</strong></th></tr><tr><td>The 6 …….. tour</td><td>Every hour from 7:30 a.m.</td><td>30 minutes</td><td>Viewpoints, film and the  7 ……...</td><td>Panoramic pictures</td></tr><tr><td>The wildflower tour</td><td>Every two hours from 8:00 a.m.</td><td>8 ………</td><td>Poppy, cream cup, and stage</td><td>Close- up tips</td></tr><tr><td>The wildlife tour</td><td>9 ……… a.m. or 7:00 p.m.</td><td>1.5 hours</td><td>Coyote, quail, roadrunners</td><td>Bring tripod and a 10 …….. lens</td></tr></table>",
+      "items": [
+        {
+          "question_id": "q6",
+          "number": 6,
+          "prompt_html": "<table><tr><th>The 6 …….. tour</th><th>Every hour from 7:30 a.m.</th><th>30 minutes</th><th>Viewpoints, film and the  7 ……...</th><th>Panoramic pictures</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q7",
+          "number": 7,
+          "prompt_html": "<table><tr><th>The 6 …….. tour</th><th>Every hour from 7:30 a.m.</th><th>30 minutes</th><th>Viewpoints, film and the  7 ……...</th><th>Panoramic pictures</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q8",
+          "number": 8,
+          "prompt_html": "<table><tr><th>The wildflower tour</th><th>Every two hours from 8:00 a.m.</th><th>8 ………</th><th>Poppy, cream cup, and stage</th><th>Close- up tips</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q9",
+          "number": 9,
+          "prompt_html": "<table><tr><th>The wildlife tour</th><th>9 ……… a.m. or 7:00 p.m.</th><th>1.5 hours</th><th>Coyote, quail, roadrunners</th><th>Bring tripod and a 10 …….. lens</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q10",
+          "number": 10,
+          "prompt_html": "<table><tr><th>The wildlife tour</th><th>9 ……… a.m. or 7:00 p.m.</th><th>1.5 hours</th><th>Coyote, quail, roadrunners</th><th>Bring tripod and a 10 …….. lens</th></tr></table>",
+          "response_type": "text"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t2_p2_g1",
+      "part_id": "l2",
+      "question_range": [
+        11,
+        15
+      ],
+      "question_type": "mcq_single",
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ],
+      "instruction": "Choose the correct answer.",
+      "prompt_html": "<p><strong>Questions 11–15</strong></p><p>Choose the correct answer.</p><p><strong>Re-creating life in an Iron Age village</strong></p><p><strong>11 Jim says that in the Iron Age village</strong></p><p>A he is sometimes cold at night.</p><p>B he always gets up early.</p><p>C he has time to himself.</p><p><strong>12 What does Jim say about the food they eat in the village?</strong></p><p>A It takes time to prepare.</p><p>B It is difficult to get used to.</p><p>C It has to be eaten quickly.</p><p><strong>13 Jim says that at the evening meal</strong></p><p>A they are sometimes too tired to eat.</p><p>B they mainly have fruit and berries.</p><p>C they talk about what they've done.</p><p><strong>14 The most important job for the blacksmiths is</strong></p><p>A to mend broken tools and implements.</p><p>B to maintain a good source of heat.</p><p>C to collect sufficient firewood.</p><p><strong>15 Jim likes the fact that in the village, people</strong></p><p>A do varied activities.</p><p>B share their knowledge.</p><p>C get a lot of exercise.</p>",
+      "items": [
+        {
+          "question_id": "q11",
+          "number": 11,
+          "prompt_html": "<p><strong>11 Jim says that in the Iron Age village</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "he is sometimes cold at night."
+            },
+            {
+              "label": "B",
+              "text": "he always gets up early."
+            },
+            {
+              "label": "C",
+              "text": "he has time to himself."
+            }
+          ]
+        },
+        {
+          "question_id": "q12",
+          "number": 12,
+          "prompt_html": "<p><strong>12 What does Jim say about the food they eat in the village?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "It takes time to prepare."
+            },
+            {
+              "label": "B",
+              "text": "It is difficult to get used to."
+            },
+            {
+              "label": "C",
+              "text": "It has to be eaten quickly."
+            }
+          ]
+        },
+        {
+          "question_id": "q13",
+          "number": 13,
+          "prompt_html": "<p><strong>13 Jim says that at the evening meal</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "they are sometimes too tired to eat."
+            },
+            {
+              "label": "B",
+              "text": "they mainly have fruit and berries."
+            },
+            {
+              "label": "C",
+              "text": "they talk about what they've done."
+            }
+          ]
+        },
+        {
+          "question_id": "q14",
+          "number": 14,
+          "prompt_html": "<p><strong>14 The most important job for the blacksmiths is</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "to mend broken tools and implements."
+            },
+            {
+              "label": "B",
+              "text": "to maintain a good source of heat."
+            },
+            {
+              "label": "C",
+              "text": "to collect sufficient firewood."
+            }
+          ]
+        },
+        {
+          "question_id": "q15",
+          "number": 15,
+          "prompt_html": "<p><strong>15 Jim likes the fact that in the village, people</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "do varied activities."
+            },
+            {
+              "label": "B",
+              "text": "share their knowledge."
+            },
+            {
+              "label": "C",
+              "text": "get a lot of exercise."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t2_p2_g2",
+      "part_id": "l2",
+      "question_range": [
+        16,
+        20
+      ],
+      "question_type": "flowchart_completion",
+      "skill_tags": [
+        "ls_comp_flowchart"
+      ],
+      "instruction": "Complete the flow-chart below. Choose **FIVE** correct answers from the box, **A-I** , next to questions **16-20** .",
+      "prompt_html": "<p><strong>Questions 16–20</strong></p><p>Complete the flow-chart below.</p><p>Choose <strong>FIVE</strong> correct answers from the box, <strong>A-I</strong> , next to questions <strong>16-20</strong> .</p><p><strong>MAKING AN IRON AGE ROUNDHOUSE</strong></p><p>Mark centre of planned house with a 16 …………</p><p>↓</p><p>Mark out circle for outer boundary</p><p>↓</p><p>Dig ground using tools made from 17 ………..</p><p>↓</p><p>Insert wall posts (Iron Age builders preferred wood from oak trees)</p><p>↓</p><p>Slot more stakes into upright posts</p><p>↓</p><p>Insert centre post and build a wooden 18 …………  around it</p><p>↓</p><p>Add main supporting beams and ring beams</p><p>↓</p><p>Complete roof framework using 19 …………  wood rods</p><p>↓</p><p>Cover roof with reed bundles of 20 ………… lengths</p><p>↓</p><p>Daub with mixture of clay, dung and straw</p><p><strong>A  bone</strong></p><p><strong>B  different</strong></p><p><strong>C  equal</strong></p><p><strong>D  elm</strong></p><p><strong>E  hazel</strong></p><p><strong>F  iron</strong></p><p><strong>G  peg</strong></p><p><strong>H  roof</strong></p><p><strong>I  scaffold</strong></p>",
+      "items": [
+        {
+          "question_id": "q16",
+          "number": 16,
+          "prompt_html": "<p>Choose <strong>FIVE</strong> correct answers from the box, <strong>A-I</strong> , next to questions <strong>16-20</strong> .</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q17",
+          "number": 17,
+          "prompt_html": "<p>Dig ground using tools made from 17 ………..</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q18",
+          "number": 18,
+          "prompt_html": "<p>Insert centre post and build a wooden 18 …………  around it</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q19",
+          "number": 19,
+          "prompt_html": "<p>Complete roof framework using 19 …………  wood rods</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q20",
+          "number": 20,
+          "prompt_html": "<p>Choose <strong>FIVE</strong> correct answers from the box, <strong>A-I</strong> , next to questions <strong>16-20</strong> .</p>",
+          "response_type": "text"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t2_p3_g1",
+      "part_id": "l3",
+      "question_range": [
+        21,
+        24
+      ],
+      "question_type": "mcq_single",
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ],
+      "instruction": "Choose the correct answer.",
+      "prompt_html": "<p><strong>Questions 21–24</strong></p><p>Choose the correct answer.</p><p><strong>Presentation on how jobs might change in the future</strong></p><p><strong>21 What do the students find surprising about the way that complaints were dealt with at the call centre?</strong></p><p>A the way that customers responded to it</p><p>B the employees’s lack of enthusiasm for it</p><p>C the kind of questions employees were obliged to ask</p><p><strong>22 What does Emma say about the report by Jerry Kaplan?</strong></p><p>A It shows how machines will respond to human needs.</p><p>B It emphasises the variety of roles that machines will have.</p><p>C It explains the limitations of machines.</p><p><strong>23 What is Nick's reaction to the article The Human Cloud?</strong></p><p>A He agrees that companies should focus on making savings.</p><p>B He supports the concept of greater flexibility for employees.</p><p>C He approves of businesses spending more on recruiting experts.</p><p><strong>24 What do the students agree about the use of technology to collect information about employees?</strong></p><p>A Cameras are an effective means of maintaining security.</p><p>B Sometimes productivity is more important than individual privacy.</p><p>C Employees may object to certain types of monitoring.</p>",
+      "items": [
+        {
+          "question_id": "q21",
+          "number": 21,
+          "prompt_html": "<p><strong>21 What do the students find surprising about the way that complaints were dealt with at the call centre?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "the way that customers responded to it"
+            },
+            {
+              "label": "B",
+              "text": "the employees’s lack of enthusiasm for it"
+            },
+            {
+              "label": "C",
+              "text": "the kind of questions employees were obliged to ask"
+            }
+          ]
+        },
+        {
+          "question_id": "q22",
+          "number": 22,
+          "prompt_html": "<p><strong>22 What does Emma say about the report by Jerry Kaplan?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "It shows how machines will respond to human needs."
+            },
+            {
+              "label": "B",
+              "text": "It emphasises the variety of roles that machines will have."
+            },
+            {
+              "label": "C",
+              "text": "It explains the limitations of machines."
+            }
+          ]
+        },
+        {
+          "question_id": "q23",
+          "number": 23,
+          "prompt_html": "<p><strong>23 What is Nick's reaction to the article The Human Cloud?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "He agrees that companies should focus on making savings."
+            },
+            {
+              "label": "B",
+              "text": "He supports the concept of greater flexibility for employees."
+            },
+            {
+              "label": "C",
+              "text": "He approves of businesses spending more on recruiting experts."
+            }
+          ]
+        },
+        {
+          "question_id": "q24",
+          "number": 24,
+          "prompt_html": "<p><strong>24 What do the students agree about the use of technology to collect information about employees?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cameras are an effective means of maintaining security."
+            },
+            {
+              "label": "B",
+              "text": "Sometimes productivity is more important than individual privacy."
+            },
+            {
+              "label": "C",
+              "text": "Employees may object to certain types of monitoring."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t2_p3_g2",
+      "part_id": "l3",
+      "question_range": [
+        25,
+        30
+      ],
+      "question_type": "matching",
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ],
+      "instruction": "What issue do Emma and Nick discuss for each aspect of the presentation? Choose SIX correct answers, **A-H** , next to questions **25-30** .",
+      "prompt_html": "<p><strong>Questions 25–30</strong></p><p><em>What issue do Emma and Nick discuss for each aspect of the presentation?</em></p><p>Choose SIX correct answers, <strong>A-H</strong> , next to questions <strong>25-30</strong> .</p><p>Issues</p><p>Aspects of the presentation</p><p>Introduction 25 …………..<br/>Researcher profiles 26 ………….<br/>Section on automation 27 …………<br/>Section on workplace structure 28 ………….<br/>Section on tracking technology 29 …………..<br/>Interview with company manager 30 …………</p><p><strong>A  at which point of the presentation it should come</strong></p><p><strong>B  whether it should be removed completely</strong></p><p><strong>C whether it is clear enough</strong></p><p><strong>D  if it needs to be completely re-written</strong></p><p><strong>E  if visuals will help or not</strong></p><p><strong>F  if the information needs to be checked</strong></p><p><strong>G  which further examples should be included</strong></p><p><strong>H  which of them will present it</strong></p>",
+      "items": [
+        {
+          "question_id": "q25",
+          "number": 25,
+          "prompt_html": "<p>Choose SIX correct answers, <strong>A-H</strong> , next to questions <strong>25-30</strong> .</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q26",
+          "number": 26,
+          "prompt_html": "<p>Researcher profiles 26 ………….</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q27",
+          "number": 27,
+          "prompt_html": "<p>Section on automation 27 …………</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q28",
+          "number": 28,
+          "prompt_html": "<p>Section on workplace structure 28 ………….</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q29",
+          "number": 29,
+          "prompt_html": "<p>Section on tracking technology 29 …………..</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q30",
+          "number": 30,
+          "prompt_html": "<p>Choose SIX correct answers, <strong>A-H</strong> , next to questions <strong>25-30</strong> .</p>",
+          "response_type": "select"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t2_p4_g1",
+      "part_id": "l4",
+      "question_range": [
+        31,
+        40
+      ],
+      "question_type": "note_completion",
+      "skill_tags": [
+        "ls_comp_note"
+      ],
+      "instruction": "Complete the notes below. Write **NO MORE THAN THREE WORDS** for each answer.",
+      "prompt_html": "<p><strong>Questions 31–40</strong></p><p>Complete the notes below.</p><p>Write <strong>NO MORE THAN THREE WORDS</strong> for each answer.</p><p><strong>HEALTH ON THE NIGHT SHIFT</strong></p><p><strong>Background:</strong> •    in number of night workers because of 31 …………. 24-hour shopping/services<br/>•    need to examine effects of changing work and sleep habits US and British research found these lead to health problems</p><p><strong>Main Causes:</strong> <em><strong>A</strong></em> 32 …………<br/>•    regulates daily life<br/>•    connected to behavioural patterns and cycles of 33 …………<br/>•    programmes us to be awake and asleep at certain times</p><p><em><strong>B    Sleep Debt</strong></em> •    impossible to get enough sleep during daytime</p><p><em><strong>C</strong></em> 34 ………….<br/>•    different working/sleeping times, ‘dislocation’</p><p><strong>Effects:</strong> <em><strong>A    Physical</strong></em> •    higher incidence of heart and  35 ………………  problems<br/>•    more minor illnesses, suggesting that immunity of shift workers is affected</p><p><em><strong>B    Psychological</strong></em> •    most common: 36 …………….<br/>•    37 ……………… affected, e.g. decision-making, planning, which regulate our 38 …………...</p><p>***C    Social<br/>Night shift work can lead to:*** •    destruction of  39 …………. and other relationships, e.g. 40 …………..<br/>•    eventually, for individuals: social isolation</p>",
+      "items": [
+        {
+          "question_id": "q31",
+          "number": 31,
+          "prompt_html": "<p><strong>Background:</strong> •    in number of night workers because of 31 …………. 24-hour shopping/services</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q32",
+          "number": 32,
+          "prompt_html": "<p><strong>Main Causes:</strong> <em><strong>A</strong></em> 32 …………</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q33",
+          "number": 33,
+          "prompt_html": "<p>•    connected to behavioural patterns and cycles of 33 …………</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q34",
+          "number": 34,
+          "prompt_html": "<p><em><strong>C</strong></em> 34 ………….</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q35",
+          "number": 35,
+          "prompt_html": "<p><strong>Effects:</strong> <em><strong>A    Physical</strong></em> •    higher incidence of heart and  35 ………………  problems</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q36",
+          "number": 36,
+          "prompt_html": "<p><em><strong>B    Psychological</strong></em> •    most common: 36 …………….</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q37",
+          "number": 37,
+          "prompt_html": "<p>•    37 ……………… affected, e.g. decision-making, planning, which regulate our 38 …………...</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q38",
+          "number": 38,
+          "prompt_html": "<p>•    37 ……………… affected, e.g. decision-making, planning, which regulate our 38 …………...</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q39",
+          "number": 39,
+          "prompt_html": "<p>Night shift work can lead to:*** •    destruction of  39 …………. and other relationships, e.g. 40 …………..</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q40",
+          "number": 40,
+          "prompt_html": "<p>Night shift work can lead to:*** •    destruction of  39 …………. and other relationships, e.g. 40 …………..</p>",
+          "response_type": "text"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "schema_version": "saola.questions.v1",
+  "test_id": "vol_09_t7_ls",
+  "module": "listening",
+  "question_count": 40,
+  "question_groups": [
+    {
+      "group_id": "ls_t7_p1_g1",
+      "part_id": "l1",
+      "question_range": [
+        1,
+        10
+      ],
+      "question_type": "form_completion",
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ],
+      "instruction": "Complete the form below. Write **ONE WORD AND/OR A NUMBER** for each answer.",
+      "prompt_html": "<p><strong>Questions 1–10</strong></p><p>Complete the form below.</p><p>Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.</p><table><tr><th><em><strong>Car Servicing</strong></em></th></tr><tr><td><em><strong>Example</strong></em>  Customer name:  <strong>Ian Croft</strong></td></tr><tr><td><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</td></tr></table>",
+      "items": [
+        {
+          "question_id": "q1",
+          "number": 1,
+          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q2",
+          "number": 2,
+          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q3",
+          "number": 3,
+          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q4",
+          "number": 4,
+          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q5",
+          "number": 5,
+          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q6",
+          "number": 6,
+          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q7",
+          "number": 7,
+          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q8",
+          "number": 8,
+          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q9",
+          "number": 9,
+          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q10",
+          "number": 10,
+          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "response_type": "text"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t7_p2_g1",
+      "part_id": "l2",
+      "question_range": [
+        11,
+        15
+      ],
+      "question_type": "mcq_single",
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ],
+      "instruction": "Choose the correct answer.",
+      "prompt_html": "<p><strong>Questions 11–15</strong></p><p>Choose the correct answer.</p><p><strong>11 Why David Laws leading the meeting instead of Penny Williams today?</strong></p><p>A Penny Williams is not well recently</p><p>B David Laws is the director now</p><p>C The meeting will be postponed</p><p><strong>12 What does David say has been a problem with guest speaker talks?</strong></p><p>A expensive tickets</p><p>B lack of publicity</p><p>C inconvenient time</p><p><strong>13 What did the man say about break-in at library?</strong></p><p>A the building was destroyed to some damage</p><p>B some valuable items were stolen</p><p>C the thieves had a good preparation</p><p><strong>14 Why they want to make an extension of the library?</strong></p><p>A it has no renovation since founded</p><p>B it need to double the number of computers</p><p>C increased number of visiting people</p><p><strong>15 The investment from the city council will be deployed for</strong></p><p>A extra staff recruitment</p><p>B buy more computers</p><p>C improve the lighting</p>",
+      "items": [
+        {
+          "question_id": "q11",
+          "number": 11,
+          "prompt_html": "<p><strong>11 Why David Laws leading the meeting instead of Penny Williams today?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "Penny Williams is not well recently"
+            },
+            {
+              "label": "B",
+              "text": "David Laws is the director now"
+            },
+            {
+              "label": "C",
+              "text": "The meeting will be postponed"
+            }
+          ]
+        },
+        {
+          "question_id": "q12",
+          "number": 12,
+          "prompt_html": "<p><strong>12 What does David say has been a problem with guest speaker talks?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "expensive tickets"
+            },
+            {
+              "label": "B",
+              "text": "lack of publicity"
+            },
+            {
+              "label": "C",
+              "text": "inconvenient time"
+            }
+          ]
+        },
+        {
+          "question_id": "q13",
+          "number": 13,
+          "prompt_html": "<p><strong>13 What did the man say about break-in at library?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "the building was destroyed to some damage"
+            },
+            {
+              "label": "B",
+              "text": "some valuable items were stolen"
+            },
+            {
+              "label": "C",
+              "text": "the thieves had a good preparation"
+            }
+          ]
+        },
+        {
+          "question_id": "q14",
+          "number": 14,
+          "prompt_html": "<p><strong>14 Why they want to make an extension of the library?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "it has no renovation since founded"
+            },
+            {
+              "label": "B",
+              "text": "it need to double the number of computers"
+            },
+            {
+              "label": "C",
+              "text": "increased number of visiting people"
+            }
+          ]
+        },
+        {
+          "question_id": "q15",
+          "number": 15,
+          "prompt_html": "<p><strong>15 The investment from the city council will be deployed for</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "extra staff recruitment"
+            },
+            {
+              "label": "B",
+              "text": "buy more computers"
+            },
+            {
+              "label": "C",
+              "text": "improve the lighting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t7_p2_g2",
+      "part_id": "l2",
+      "question_range": [
+        16,
+        20
+      ],
+      "question_type": "map_labeling",
+      "skill_tags": [
+        "ls_label_map"
+      ],
+      "instruction": "Label the map below Choose **FIVE** correct letters from the map, **A-H** , next to the questions **16-20** .",
+      "prompt_html": "<p><strong>Questions 16–20</strong></p><p>Label the map below</p><p>Choose <strong>FIVE</strong> correct letters from the map, <strong>A-H</strong> , next to the questions <strong>16-20</strong> .</p><p><strong>Rosedale Library</strong></p><figure class=\"question-media\"><img src=\"assets/test_7_section_2.png\" alt=\"Image\" /></figure><table><tr><th><strong>A</strong></th><th><strong>B</strong></th><th><strong>C</strong></th><th><strong>D</strong></th><th><strong>E</strong></th><th><strong>F</strong></th><th><strong>G</strong></th><th><strong>H</strong></th><th></th></tr><tr><td><strong>16 Children’s room</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>17 Community room</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>18 Café</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>19 Academic study room</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>20 Multimedia room</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+      "items": [
+        {
+          "question_id": "q16",
+          "number": 16,
+          "prompt_html": "<p>Choose <strong>FIVE</strong> correct letters from the map, <strong>A-H</strong> , next to the questions <strong>16-20</strong> .</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q17",
+          "number": 17,
+          "prompt_html": "<table><tr><th><strong>17 Community room</strong></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></table>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q18",
+          "number": 18,
+          "prompt_html": "<table><tr><th><strong>18 Café</strong></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></table>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q19",
+          "number": 19,
+          "prompt_html": "<table><tr><th><strong>19 Academic study room</strong></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></table>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q20",
+          "number": 20,
+          "prompt_html": "<p>Choose <strong>FIVE</strong> correct letters from the map, <strong>A-H</strong> , next to the questions <strong>16-20</strong> .</p>",
+          "response_type": "select"
+        }
+      ],
+      "media": [
+        {
+          "media_id": "test_7_section_2",
+          "type": "image",
+          "src": "assets/test_7_section_2.png",
+          "alt": "Listening Test 7 visual for questions 16-20"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t7_p3_g1",
+      "part_id": "l3",
+      "question_range": [
+        21,
+        25
+      ],
+      "question_type": "mcq_single",
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ],
+      "instruction": "Choose the correct answer.",
+      "prompt_html": "<p><strong>Questions 21–25</strong></p><p>Choose the correct answer.</p><p><strong>The artist Samuel Prout</strong></p><p><strong>21 According to Jack, why did Samuel Prout never become very famous?</strong></p><p>A His output was very limited.</p><p>B He has seen as out-fashioned.</p><p>C His work never had a major exhibition.</p><p><strong>22 Dr Rubin and Jack agree that many of Prout’s problems were caused by</strong></p><p>A poor health.</p><p>B jealous colleagues.</p><p>C an unhappy marriage.</p><p><strong>23 How did Prout learn painting?</strong></p><p>A His father taught him.</p><p>B He went to art galleries.</p><p>C He copied pictures.</p><p><strong>24 What point does Jack make about Prout’s style?</strong></p><p>A Prout used different styles simultaneously.</p><p>B Many other artists had a similar style.</p><p>C Prout’s style developed throughout his career.</p><p><strong>25 What did John Ruskin admire about Prout’s paintings?</strong></p><p>A their realism</p><p>B their presentation of buildings</p><p>C their wide range of subject matters</p>",
+      "items": [
+        {
+          "question_id": "q21",
+          "number": 21,
+          "prompt_html": "<p><strong>21 According to Jack, why did Samuel Prout never become very famous?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "His output was very limited."
+            },
+            {
+              "label": "B",
+              "text": "He has seen as out-fashioned."
+            },
+            {
+              "label": "C",
+              "text": "His work never had a major exhibition."
+            }
+          ]
+        },
+        {
+          "question_id": "q22",
+          "number": 22,
+          "prompt_html": "<p><strong>22 Dr Rubin and Jack agree that many of Prout’s problems were caused by</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "poor health."
+            },
+            {
+              "label": "B",
+              "text": "jealous colleagues."
+            },
+            {
+              "label": "C",
+              "text": "an unhappy marriage."
+            }
+          ]
+        },
+        {
+          "question_id": "q23",
+          "number": 23,
+          "prompt_html": "<p><strong>23 How did Prout learn painting?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "His father taught him."
+            },
+            {
+              "label": "B",
+              "text": "He went to art galleries."
+            },
+            {
+              "label": "C",
+              "text": "He copied pictures."
+            }
+          ]
+        },
+        {
+          "question_id": "q24",
+          "number": 24,
+          "prompt_html": "<p><strong>24 What point does Jack make about Prout’s style?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "Prout used different styles simultaneously."
+            },
+            {
+              "label": "B",
+              "text": "Many other artists had a similar style."
+            },
+            {
+              "label": "C",
+              "text": "Prout’s style developed throughout his career."
+            }
+          ]
+        },
+        {
+          "question_id": "q25",
+          "number": 25,
+          "prompt_html": "<p><strong>25 What did John Ruskin admire about Prout’s paintings?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "their realism"
+            },
+            {
+              "label": "B",
+              "text": "their presentation of buildings"
+            },
+            {
+              "label": "C",
+              "text": "their wide range of subject matters"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t7_p3_g2",
+      "part_id": "l3",
+      "question_range": [
+        26,
+        30
+      ],
+      "question_type": "matching",
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ],
+      "instruction": "Choose **FIVE** corect answers, **A-G** , next to questions **26-30** .",
+      "prompt_html": "<p><strong>Questions 26–30</strong></p><p><em>What information do the speakers give about each of the following pictures?</em></p><p>Choose <strong>FIVE</strong> corect answers, <strong>A-G</strong> , next to questions <strong>26-30</strong> .</p><p>Information</p><p>Pictures</p><p>A view in Germany: at Wurzburg 26 …………<br/>Bridge on the Ouse, near York 27 …………….<br/>Wooden scene 28 …………<br/>Venice 29 ……………<br/>Entrance to a harbor 30 ………….</p><p>A  one of several paintings of the same view</p><p>B  probably an inaccurate title</p><p>C  may not be genuine</p><p>D  was never finished</p><p>E  typical subject matter for Prout</p><p>F  skillful painting of light and dark</p><p>G  shows an event that never took place</p>",
+      "items": [
+        {
+          "question_id": "q26",
+          "number": 26,
+          "prompt_html": "<p>Choose <strong>FIVE</strong> corect answers, <strong>A-G</strong> , next to questions <strong>26-30</strong> .</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q27",
+          "number": 27,
+          "prompt_html": "<p>Bridge on the Ouse, near York 27 …………….</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q28",
+          "number": 28,
+          "prompt_html": "<p>Wooden scene 28 …………</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q29",
+          "number": 29,
+          "prompt_html": "<p>Venice 29 ……………</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q30",
+          "number": 30,
+          "prompt_html": "<p>Choose <strong>FIVE</strong> corect answers, <strong>A-G</strong> , next to questions <strong>26-30</strong> .</p>",
+          "response_type": "select"
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "view in Germany: at Wurzburg 26 …………"
+        },
+        {
+          "label": "A",
+          "text": "one of several paintings of the same view"
+        },
+        {
+          "label": "B",
+          "text": "probably an inaccurate title"
+        },
+        {
+          "label": "C",
+          "text": "may not be genuine"
+        },
+        {
+          "label": "D",
+          "text": "was never finished"
+        },
+        {
+          "label": "E",
+          "text": "typical subject matter for Prout"
+        },
+        {
+          "label": "F",
+          "text": "skillful painting of light and dark"
+        },
+        {
+          "label": "G",
+          "text": "shows an event that never took place"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t7_p4_g1",
+      "part_id": "l4",
+      "question_range": [
+        31,
+        40
+      ],
+      "question_type": "note_completion",
+      "skill_tags": [
+        "ls_comp_note"
+      ],
+      "instruction": "Complete the notes below Write **ONE WORD ONLY** for each answer. •    They decided to apply the idea to chocolate, and allow clients to decide which ingredients they wanted.",
+      "prompt_html": "<p><strong>Questions 31–40</strong></p><p>Complete the notes below</p><p>Write <strong>ONE WORD ONLY</strong> for each answer.</p><p><strong>Case Study: Chocozine’s difficult decision</strong></p><p><strong>Background</strong> •    Smith and his colleagues noticed the spread of mass-customisation in many US 31 ………….<br/>•    They decided to apply the idea to chocolate, and allow clients to decide which ingredients they wanted.<br/>•    They called their company’s ‘Chocozine’.</p><p><strong>The email order</strong> •    A European retailer wanted 15,000 chocolate bars to use as a 32 ……….. for customers.<br/>•    The deal could improve their sales and provide 33 …………..   .</p><p><strong>But there were risks:</strong> •    They might not have sufficient time for the job.<br/>•    If they failed, it could affect their finances and their 34 …………..<br/>•    They only had three 35 ……….. , which was not enough.</p><p><strong>They attempt to subcontract</strong> •    At first they couldn’t find a subcontract with the right 36 ……….<br/>•    A Harvard professor invited Smith to speak to students.<br/>•    Many students said it would be a 37 …….. to do the deal.<br/>•    One student had a 38 ………. in the chocolate industry.<br/>•    But this subcontract had trouble with the unusual  39 ……… of the chocolate bar.<br/>•    Chocozine finally declined the order, but their sales improved anyway.</p><p><strong>Comment</strong> •    Accepting 40 ………… orders has created severe problems for many new businesses.</p>",
+      "items": [
+        {
+          "question_id": "q31",
+          "number": 31,
+          "prompt_html": "<p><strong>Background</strong> •    Smith and his colleagues noticed the spread of mass-customisation in many US 31 ………….</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q32",
+          "number": 32,
+          "prompt_html": "<p><strong>The email order</strong> •    A European retailer wanted 15,000 chocolate bars to use as a 32 ……….. for customers.</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q33",
+          "number": 33,
+          "prompt_html": "<p>•    The deal could improve their sales and provide 33 …………..   .</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q34",
+          "number": 34,
+          "prompt_html": "<p>•    If they failed, it could affect their finances and their 34 …………..</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q35",
+          "number": 35,
+          "prompt_html": "<p>•    They only had three 35 ……….. , which was not enough.</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q36",
+          "number": 36,
+          "prompt_html": "<p><strong>They attempt to subcontract</strong> •    At first they couldn’t find a subcontract with the right 36 ……….</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q37",
+          "number": 37,
+          "prompt_html": "<p>•    Many students said it would be a 37 …….. to do the deal.</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q38",
+          "number": 38,
+          "prompt_html": "<p>•    One student had a 38 ………. in the chocolate industry.</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q39",
+          "number": 39,
+          "prompt_html": "<p>•    But this subcontract had trouble with the unusual  39 ……… of the chocolate bar.</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q40",
+          "number": 40,
+          "prompt_html": "<p><strong>Comment</strong> •    Accepting 40 ………… orders has created severe problems for many new businesses.</p>",
+          "response_type": "text"
+        }
+      ]
+    }
+  ]
+}

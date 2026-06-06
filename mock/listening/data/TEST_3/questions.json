@@ -1,0 +1,365 @@
+{
+  "schema_version": "saola.questions.v1",
+  "test_id": "vol_09_t3_ls",
+  "module": "listening",
+  "question_count": 40,
+  "question_groups": [
+    {
+      "group_id": "ls_t3_p1_g1",
+      "part_id": "l1",
+      "question_range": [
+        1,
+        8
+      ],
+      "question_type": "mcq_single",
+      "skill_tags": [
+        "ls_detail",
+        "ls_mcq_single"
+      ],
+      "instruction": "",
+      "prompt_html": "<p><strong>Questions 1–8</strong> Choose the correct answer.</p><p>Example</p><p>The man wants to visit the centre with</p><p>1. a friends<br/>2. relative<br/>3. colleagues</p><p><strong>1 The centre has enough accommodation for</strong></p><p>1. 18 people.<br/>2. 20 people.<br/>3. 38 people.</p><p><strong>2 The meeting room is currently</strong></p><p>1. unavailable.<br/>2. flooded.<br/>3. booked.</p><p><strong>3 Visitors must tell the centre in advance if they want to</strong></p><p>1. use the centre’s kitchen.<br/>2. have meals cooked for them.<br/>3. eat at restaurants outside.</p><p><strong>4 All visitors on the of the farm can</strong></p><p>1. get information about organic farming.<br/>2. help to feed the animals.<br/>3. watch a tractor demonstration.</p><p><strong>5 On the survival course, people have to</strong></p><p>1. learn to use map.<br/>2. find their own food.<br/>3. run through woodland.</p><p><strong>6 From the centre, it is easy to walk to</strong></p><p>1. Exmoor National Park.<br/>2. the beach.<br/>3. a cycling rout.</p><p><strong>7 If the weather is bad visitors can go to a</strong></p><p>1. cinema.<br/>2. theatre.<br/>3. museum.</p><p><strong>8 Groups who wish to stay at the centre must pay</strong></p><p>1. part of the cost in advance.<br/>2. all of the cost in advance.<br/>3. all of the cost on arrival.</p>",
+      "items": [
+        {
+          "question_id": "q1",
+          "number": 1,
+          "prompt_html": "<p>1. a friends</p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q2",
+          "number": 2,
+          "prompt_html": "<p>2. relative</p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q3",
+          "number": 3,
+          "prompt_html": "<p>3. colleagues</p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q4",
+          "number": 4,
+          "prompt_html": "<p><strong>4 All visitors on the of the farm can</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q5",
+          "number": 5,
+          "prompt_html": "<p><strong>5 On the survival course, people have to</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q6",
+          "number": 6,
+          "prompt_html": "<p><strong>6 From the centre, it is easy to walk to</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q7",
+          "number": 7,
+          "prompt_html": "<p><strong>7 If the weather is bad visitors can go to a</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q8",
+          "number": 8,
+          "prompt_html": "<p><strong>8 Groups who wish to stay at the centre must pay</strong></p>",
+          "response_type": "radio"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t3_p1_g2",
+      "part_id": "l1",
+      "question_range": [
+        9,
+        10
+      ],
+      "question_type": "note_completion",
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ],
+      "instruction": "Complete the notes below. Write **ONE WORD AND/ OR NUMBERS** for each answer.",
+      "prompt_html": "<p><strong>Questions 9–10</strong></p><p>Complete the notes below.</p><p>Write <strong>ONE WORD AND/ OR NUMBERS</strong> for each answer.</p><p>Address:        Winsham Farm<br/>Rd <strong>9</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>near Sherbone <strong>10</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+      "items": [
+        {
+          "question_id": "q9",
+          "number": 9,
+          "prompt_html": "<p>Rd <strong>9</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q10",
+          "number": 10,
+          "prompt_html": "<p>near Sherbone <strong>10</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "text"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t3_p2_g1",
+      "part_id": "l2",
+      "question_range": [
+        11,
+        16
+      ],
+      "question_type": "table_completion",
+      "skill_tags": [
+        "ls_comp_table"
+      ],
+      "instruction": "Write **NO MORE THAN THREE WORDS AND/ OR A NUMBER** for each answer. | Office work          | air-conditioning                     | **13**  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ | choose a  **14**  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ |",
+      "prompt_html": "<p><strong>Questions 11–16</strong> Complete the table below.<br/>Write <strong>NO MORE THAN THREE WORDS AND/ OR A NUMBER</strong> for each answer.</p><table><tr><th>Vacation Job</th><th>Main Advantage</th><th>Main Disadvantage</th><th>Recommendation</th></tr><tr><td>Stocktaking</td><td><strong>11</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</td><td>tiring</td><td><strong>12</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</td></tr><tr><td>Office work</td><td>air-conditioning</td><td><strong>13</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</td><td>choose a  <strong>14</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</td></tr><tr><td>theme park attendant</td><td><strong>15</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</td><td>rude customers</td><td><strong>16</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</td></tr></table>",
+      "items": [
+        {
+          "question_id": "q11",
+          "number": 11,
+          "prompt_html": "<table><tr><th>Stocktaking</th><th><strong>11</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th><th>tiring</th><th><strong>12</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q12",
+          "number": 12,
+          "prompt_html": "<table><tr><th>Stocktaking</th><th><strong>11</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th><th>tiring</th><th><strong>12</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q13",
+          "number": 13,
+          "prompt_html": "<table><tr><th>Office work</th><th>air-conditioning</th><th><strong>13</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th><th>choose a  <strong>14</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q14",
+          "number": 14,
+          "prompt_html": "<table><tr><th>Office work</th><th>air-conditioning</th><th><strong>13</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th><th>choose a  <strong>14</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q15",
+          "number": 15,
+          "prompt_html": "<table><tr><th>theme park attendant</th><th><strong>15</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th><th>rude customers</th><th><strong>16</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q16",
+          "number": 16,
+          "prompt_html": "<table><tr><th>theme park attendant</th><th><strong>15</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th><th>rude customers</th><th><strong>16</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th></tr></table>",
+          "response_type": "text"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t3_p2_g2",
+      "part_id": "l2",
+      "question_range": [
+        17,
+        20
+      ],
+      "question_type": "mcq_single",
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ],
+      "instruction": "Choose the correct answer.",
+      "prompt_html": "<p><strong>Questions 17–20</strong></p><p>Choose the correct answer.</p><p><strong>17 Peter learned about the job</strong></p><p>1. from a college friend.<br/>2. on the computer.<br/>3. from a student job centre.</p><p><strong>18 Peter mainly enjoyed the job because it was</strong></p><p>1. easy.<br/>2. challenging.<br/>3. unusual.</p><p><strong>19 The job’s most interesting aspect was</strong></p><p>1. learning about the environment.<br/>2. working with children.<br/>3. caring for the animals.</p><p><strong>20 Peter has decided that next vacation he</strong></p><p>1. won’t take a job.<br/>2. will work at the zoo.<br/>3. will work elsewhere.</p>",
+      "items": [
+        {
+          "question_id": "q17",
+          "number": 17,
+          "prompt_html": "<p><strong>17 Peter learned about the job</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q18",
+          "number": 18,
+          "prompt_html": "<p><strong>18 Peter mainly enjoyed the job because it was</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q19",
+          "number": 19,
+          "prompt_html": "<p><strong>19 The job’s most interesting aspect was</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q20",
+          "number": 20,
+          "prompt_html": "<p><strong>20 Peter has decided that next vacation he</strong></p>",
+          "response_type": "radio"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t3_p3_g1",
+      "part_id": "l3",
+      "question_range": [
+        21,
+        26
+      ],
+      "question_type": "mcq_single",
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ],
+      "instruction": "Choose the correct answer. 22 According to Fiona, the seating pattern that Ed chooses",
+      "prompt_html": "<p><strong>Questions 21–26</strong></p><p>Choose the correct answer.</p><p>Voice training for drama students</p><p><strong>21 Ed is giving the voice coaching workshop in order to get</strong></p><p>1. a new job.<br/>2. a qualification.<br/>3. a promotion.</p><p><strong>22 According to Fiona, the seating pattern that Ed chooses</strong></p><p>1. should be illustrated visually.<br/>2. has to be explained in detail.<br/>3. is not particularly important.</p><p><strong>23 Fiona and Ed agree that in the first activity, the students</strong></p><p>1. may feel uncomfortable.<br/>2. like to make group contact.<br/>3. must focus on themselves.</p><p><strong>24 Fiona and Ed agree that in the second activity, Ed should</strong></p><p>1. insist which students work together.<br/>2. tell students to prepare a speech.<br/>3. include a focus on breath control.</p><p><strong>25 What does Fiona suggest about working in a big space?</strong></p><p>1. It could be outside or inside.<br/>2. It is best to go to somewhere like a park.<br/>3. It is useful for getting actors to shout.</p><p><strong>26 What does Fiona think of Ed's selection of texts?</strong></p><p>1. It should include more classical texts.<br/>2. It needs to focus on a single emotion.<br/>3. It has to cover a wider range.</p>",
+      "items": [
+        {
+          "question_id": "q21",
+          "number": 21,
+          "prompt_html": "<p><strong>21 Ed is giving the voice coaching workshop in order to get</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q22",
+          "number": 22,
+          "prompt_html": "<p><strong>22 According to Fiona, the seating pattern that Ed chooses</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q23",
+          "number": 23,
+          "prompt_html": "<p><strong>23 Fiona and Ed agree that in the first activity, the students</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q24",
+          "number": 24,
+          "prompt_html": "<p><strong>24 Fiona and Ed agree that in the second activity, Ed should</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q25",
+          "number": 25,
+          "prompt_html": "<p><strong>25 What does Fiona suggest about working in a big space?</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q26",
+          "number": 26,
+          "prompt_html": "<p><strong>26 What does Fiona think of Ed's selection of texts?</strong></p>",
+          "response_type": "radio"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t3_p3_g2",
+      "part_id": "l3",
+      "question_range": [
+        27,
+        30
+      ],
+      "question_type": "matching",
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ],
+      "instruction": "Choose **FOUR** correct answers, **A-G** , next to questions **27-30** .",
+      "prompt_html": "<p><strong>Questions 27–30</strong></p><p>What disadvantage do the speakers identify for each of the following textbooks?</p><p>Choose <strong>FOUR</strong> correct answers, <strong>A-G</strong> , next to questions <strong>27-30</strong> .</p><p><strong>Disadvantages</strong></p><p><strong>A</strong> too expensive</p><p><strong>B</strong> too limited</p><p><strong>C</strong> prejudiced</p><p><strong>D</strong> unrealistic</p><p><strong>E</strong> out of date</p><p><strong>F</strong> too detailed</p><p><strong>G</strong> unavailable</p><p><strong>Textbooks</strong> Vocal Instruction <strong>27</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Improve Your Accent <strong>28</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Actors' Handbook <strong>29</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Confident Voice Delivery <strong>30</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+      "items": [
+        {
+          "question_id": "q27",
+          "number": 27,
+          "prompt_html": "<p>Choose <strong>FOUR</strong> correct answers, <strong>A-G</strong> , next to questions <strong>27-30</strong> .</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q28",
+          "number": 28,
+          "prompt_html": "<p>Improve Your Accent <strong>28</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q29",
+          "number": 29,
+          "prompt_html": "<p>Actors' Handbook <strong>29</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q30",
+          "number": 30,
+          "prompt_html": "<p>Choose <strong>FOUR</strong> correct answers, <strong>A-G</strong> , next to questions <strong>27-30</strong> .</p>",
+          "response_type": "select"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t3_p4_g1",
+      "part_id": "l4",
+      "question_range": [
+        31,
+        40
+      ],
+      "question_type": "note_completion",
+      "skill_tags": [
+        "ls_comp_note"
+      ],
+      "instruction": "Write **ONE WORD ONLY** for each answer.",
+      "prompt_html": "<p><strong>Questions 31–40</strong> Complete the notes below.<br/>Write <strong>ONE WORD ONLY</strong> for each answer.</p><p>Food Safety Standards</p><p><strong>Risk assessment</strong> Scientists have to consider potential problems with:<br/>• the product's <strong>31</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ (could they attract harmful bacteria?)<br/>• method of preparation (will it eliminate harmful micro-organisms?)<br/>• how products are <strong>32</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_and distributed<br/>• supermarkets (e.g. changes in <strong>33</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ affecting the condition of frozen food<br/>• end-users (how is food usually handled in the home?) <strong>Factors affecting food consumption</strong> LegislationConsumer attitudes• e.g. dislike of additives → growth of the <strong>34</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ food market in Australia <strong>The food industry</strong> • supermarkets may use price or <strong>35</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ as their selling strategy (but the main concern is profitability) <strong>The mass media</strong> • now the main source of <strong>36</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_for many<br/>• negative effect because not objective:<br/>concern for <strong>37</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>news is now a form of <strong>38</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ which can mislead the public<br/>• few programmes deal with food safety or <strong>39</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ <strong>Personal opinion</strong> Importance of education: as with benefits of exercise, many children can influence their <strong>40</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+      "items": [
+        {
+          "question_id": "q31",
+          "number": 31,
+          "prompt_html": "<p>• the product's <strong>31</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ (could they attract harmful bacteria?)</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q32",
+          "number": 32,
+          "prompt_html": "<p>• how products are <strong>32</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_and distributed</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q33",
+          "number": 33,
+          "prompt_html": "<p>• supermarkets (e.g. changes in <strong>33</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ affecting the condition of frozen food</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q34",
+          "number": 34,
+          "prompt_html": "<p>• end-users (how is food usually handled in the home?) <strong>Factors affecting food consumption</strong> LegislationConsumer attitudes• e.g. dislike of additives → growth of the <strong>34</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ food market in Australia <strong>The food industry</strong> • supermarkets may use price or <strong>35</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ as their selling strategy (but the main concern is profitability) <strong>The mass media</strong> • now the main source of <strong>36</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_for many</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q35",
+          "number": 35,
+          "prompt_html": "<p>• end-users (how is food usually handled in the home?) <strong>Factors affecting food consumption</strong> LegislationConsumer attitudes• e.g. dislike of additives → growth of the <strong>34</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ food market in Australia <strong>The food industry</strong> • supermarkets may use price or <strong>35</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ as their selling strategy (but the main concern is profitability) <strong>The mass media</strong> • now the main source of <strong>36</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_for many</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q36",
+          "number": 36,
+          "prompt_html": "<p>• end-users (how is food usually handled in the home?) <strong>Factors affecting food consumption</strong> LegislationConsumer attitudes• e.g. dislike of additives → growth of the <strong>34</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ food market in Australia <strong>The food industry</strong> • supermarkets may use price or <strong>35</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ as their selling strategy (but the main concern is profitability) <strong>The mass media</strong> • now the main source of <strong>36</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_for many</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q37",
+          "number": 37,
+          "prompt_html": "<p>concern for <strong>37</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q38",
+          "number": 38,
+          "prompt_html": "<p>news is now a form of <strong>38</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ which can mislead the public</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q39",
+          "number": 39,
+          "prompt_html": "<p>• few programmes deal with food safety or <strong>39</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ <strong>Personal opinion</strong> Importance of education: as with benefits of exercise, many children can influence their <strong>40</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q40",
+          "number": 40,
+          "prompt_html": "<p>• few programmes deal with food safety or <strong>39</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ <strong>Personal opinion</strong> Importance of education: as with benefits of exercise, many children can influence their <strong>40</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "text"
+        }
+      ]
+    }
+  ]
+}

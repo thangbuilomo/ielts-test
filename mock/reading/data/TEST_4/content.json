@@ -1,0 +1,129 @@
+{
+  "schema_version": "saola.reading_content.v1",
+  "test_id": "vol_09_t4_rd",
+  "module": "reading",
+  "title": "Vol 9 Reading Test 4",
+  "passages": [
+    {
+      "passage_id": "p1",
+      "passage_number": 1,
+      "title": "Traditional Farming in Zambia's Luapula Province",
+      "sections": [
+        {
+          "section_id": "A",
+          "content_html": "<p>By tradition, land in Luapula Province is not owned by individuals but, as in many other parts of Africa, is allocated by the headman or headwoman of a village to people of either sex according to need. Since land is generally prepared by hand, a single family group cannot take on a very large area, so land has not been a limiting resource over large parts of the province. However, that situation has already changed near the main towns, and there has long been a scarcity of land for cultivation in the river valley. In both these areas, registered ownership patterns are becoming prevalent.</p>"
+        },
+        {
+          "section_id": "B",
+          "content_html": "<p>Most of the traditional cropping in Luapula Province is based on citemene, a system whereby crops are grown on the ashes of tree branches. As a rule, entire trees are pollarded (pollarding: removing the tops of tree branches) rather than felled, so that they can regenerate. Branches are cut over an area of land of varying size early in the dry season and then stacked to dry out. The wood is fired before the onset of the rains, and in the first year, the area is planted with the African cereal called finger millet. The grain of this crop is used to brew local drinks such as cipumu, which contributes several vitamins of the B complex to people&#x27;s diets. Cipumu is also used in cementing reciprocal working relationships (Pottier 1985).</p>"
+        },
+        {
+          "section_id": "C",
+          "content_html": "<p>During the second year, and possibly for a few years more, the area is planted with various combinations of annuals such as maize, pumpkins, sweet potatoes, groundnuts, beans, and various leafy vegetables, grown with a certain amount of rotation. The diverse sequence ends with the vegetable cassava, which is often planted next to the last but one crop before this is harvested.</p>"
+        },
+        {
+          "section_id": "D",
+          "content_html": "<p>Richards (1969) observed that the practice of cilemene entails a definite division of labour; men and women perform different tasks. The men stake out plots in an unobtrusive manner, since it is considered provocative towards one&#x27;s neighbours to mark boundaries in an explicit way. The dangerous work of felling branches is also the men&#x27;s province: Branches are then stacked by women and fired by men. Women and men cooperate in the planting work, but the harvesting is always done by women.</p>"
+        },
+        {
+          "section_id": "E",
+          "content_html": "<p>At the beginning of the citemene cycle, little weeding is necessary, since the firing of the branches effectively destroys weeds, but as the cycle progresses, weeds increase, and nutrients eventually become depleted to a point where further effort with annual crops is not worthwhile. At this point, cassava is planted, since it can produce a crop on soil that is almost exhausted. Thereafter, the plot is abandoned, and a new area is pollarded for the next cycle.</p>"
+        },
+        {
+          "section_id": "F",
+          "content_html": "<p>When forest is not available, a situation which is increasingly the case nowadays, a series of ridges is built, in which combinations of maize, beans, groundnuts, and sweet potatoes are then planted, usually followed by cassava. These plots are normally tended by women and provide subsistence.</p>"
+        },
+        {
+          "section_id": "G",
+          "content_html": "<p>Where their roots have year-round access to water, mango, guava, and oil-palm trees are often grown around houses, forming a traditional agro-forestry system, and some of the fruit from these is sold by the roadside or in local markets. In addition, local varieties of rice are sometimes planted in waterlogged ground during the rainy season.</p>"
+        },
+        {
+          "section_id": "H",
+          "content_html": "<p>Fishing has always been a far more remunerative activity in Luapula than crop husbandry. It provides a much-needed protein supplement to the diet, as well as being the one substantial source of cash. Mueh fish is dried for sale to areas away from the main waterways. The Mweru and Bangweulu Lake Basins are the main areas of Year-round fishing, but the Luapula River is also exploited during the latter part of the dry season. Several previously abundant and desirable species have all but disappeared from Lake Mweru, apparently due to overfishing (Huckaby 1979).</p>"
+        },
+        {
+          "section_id": "I",
+          "content_html": "<p>Regarding animal husbandry, only small numbers of cattle or oxen are kept in the province owing to the prevalence of the tsetse fly. The resulting absence of animal power for pulling machinery greatly limits people&#x27;s ability to plough and cultivate land: a married couple can rarely manage to prepare an area of more than half a hectare by hand-hoeing. However, most people keep freely roaming chickens and goats. These act as a reserve for bartering, but may also be occasionally slaughtered for ceremonies or for entertaining important visitors. These animals are not a standard part of most people&#x27;s diet.</p>"
+        },
+        {
+          "section_id": "J",
+          "content_html": "<p>Until recently, citemene has been an ingenious system for providing seasonal, high-quality cereals and vegetables in regions of acidic, heavily leached soils. Nutritionally, the most serious deficiency has been that of protein. However, this could be alleviated when fish were available, provided that cultivators lived near the valley or could find a source of dried fish. The citemene/fishing system was well adapted to the ecology of the woodland regions and sustainable for long periods, but only as long as human population densities stayed at low levels.</p>"
+        },
+        {
+          "section_id": "K",
+          "content_html": "<p>Although population densities are still much lower today than in many other parts of the world, neither the fisheries nor the woodlands of Luapula are capable, with unmodified traditional practices, of supporting the expanding population in a sustainable manner. For instance, even in a normal season, diets suffer from a lack of energy, protein, vitamins, and minerals. It will therefore be necessary in the future to intensify and diversify productive systems.</p>"
+        }
+      ]
+    },
+    {
+      "passage_id": "p2",
+      "passage_number": 2,
+      "title": "Babies cry in their mother tongue",
+      "sections": [
+        {
+          "section_id": "A",
+          "content_html": "<p>It is already known that human foetuses become attentive listeners in the final trimester of pregnancy. &#x27;The mother&#x27;s voice in particular is sensed early on,&#x27; explains Professor Amelia Finlayson of the Institute for Human Cognitive and Brain Sciences in Leipzig. &#x27;Human foetuses perceive information filtered at around 400 hertz, but they cannot hear the actual words. It is a bit like holding your head under water when someone is talking next to the bath.&#x27;</p>"
+        },
+        {
+          "section_id": "B",
+          "content_html": "<p>Finlayson&#x27;s research indicates that newborn babies probably cannot distinguish between the accents of Welsh and Northern Scottish people or between Low German and Upper Bavarian, but they can recognise major differences in the intonation patterns of their respective mother tongues. The Leipzig researchers showed that in an earlier experiment, by means of physiological studies of babies of three to four months of age. For that study, the babies had hoods with electrodes put on their heads, and had recordings of different intonation patterns played to them. The children&#x27;s brainwaves reacted to the differences even when they were asleep.</p>"
+        },
+        {
+          "section_id": "C",
+          "content_html": "<p>At the same time, Doctor Katya Williams of the University of Wurzburg first suggested in her PhD thesis that babies&#x27; crying might be a stage in their linguistic development. Said Williams: &#x27;It used to be thought that a baby&#x27;s cry was just a signal of alarm to call its mother. This assumption was corrected when we noticed that the cries are not the same from week to week. What biological purpose would that have? If a fire siren sounded different every day, we would not even recognise it!&#x27;</p>"
+        },
+        {
+          "section_id": "D",
+          "content_html": "<p>The question thus presented itself as to whether babies&#x27; cries already showed the intonation patterns of their different mother tongues. To study this, the Leipzig brain researchers and the &#x27;screaming researchers&#x27; of the University of Wurzburg worked in collaboration with their colleagues at the Laboratory of Cognitive Sciences and Linguistics, at the Ecole Normale Superieure in Paris, to devise a new experiment. German and French babies were selected for the comparison because the differences in the intonation shapes of these two mother tongues are particularly pronounced. For example, the German word Papa is Papa in French.</p>"
+        },
+        {
+          "section_id": "E",
+          "content_html": "<p>These three research groups made a comparison of recordings of 60 healthy newborns aged between two and five days old: 30 infants born into French-speaking families and 30 born into German-speaking families. Whenever the babies were hungry or thirsty or simply wanted their mothers and announced the fact by crying, the researchers were at the ready with their microphones and recorded their complaints. More than 20 hours of recordings of babies&#x27; crying were then fed into a computer for the purpose of analysis.</p>"
+        },
+        {
+          "section_id": "F",
+          "content_html": "<p>The amazing result, published in the journal Modern Biology, is that just a few days after birth, babies use the acoustic input they perceive in the uterus to adapt their linguistic production to their target mother tongue. The melody of the German babies&#x27; screams usually began loudly and at a high pitch and then followed a downward curve, while the French babies more often screamed with a rising melody contour. Thus, they reproduce precisely the intonation patterns that are characteristic of their respective mother tongues. This proves, says the team of researchers, that babies&#x27; cries are attempts to communicate specifically with their mothers. &#x27;Newborns are probably highly motivated to imitate their mother&#x27;s behaviour in order to attract her and foster bonding and therefore physical nourishment,&#x27; they wrote. &#x27;Because melody contour may be the only aspect of their mother&#x27;s speech that newborns are able to imitate, this might explain why we found melody contour imitation at that early age.&#x27; This finding is interesting because it suggests that babies are producing sounds they have heard in the womb, meaning that this is learning rather than an innate behaviour.</p>"
+        },
+        {
+          "section_id": "G",
+          "content_html": "<p>Furthermore, the findings are consistent with the hypothesis that linguistic development does not just begin from the age of nine to ten months, with the first babbling resembling language such as &#x27;mam- mam-mam&#x27; or &#x27;ba-ba-ba&#x27;, but with the very first sounds that babies produce. &#x27;We are born to learn language. And that starts right away,&#x27; says Dr Katya Williams. Dr Williams&#x27; colleague, Mr Walter Meade, discovered that this initial sensitivity to the melodic features of language assists infants to subsequently learn their mother tongue. &#x27;The melodic patterns practised in crying are building blocks for eventual sound production, such as gurgling and babbling, right up to the first words and sentences,&#x27; says Meade.</p>"
+        },
+        {
+          "section_id": "H",
+          "content_html": "<p>The results also demonstrated once again how language distinguishes human infants from all other primates. According to Williams, among baby chimpanzees, the &#x27;crying melody&#x27; is closely associated with the build-up and reduction of pressure in the lungs, and is not generated by a mental process. &#x27;In comparison with the sounds of other primates, the cries of a newborn human baby display a fantastic repertoire of melodic and rhythmic variations,&#x27; she adds. &#x27;Our babies are expert vocalists in comparison with all the other animals. Could that offer some small consolation for nerve-wracked parents?&#x27;</p>"
+        }
+      ]
+    },
+    {
+      "passage_id": "p3",
+      "passage_number": 3,
+      "title": "Ancient Rome",
+      "sections": [
+        {
+          "section_id": "A",
+          "content_html": "<p>From ancient times to the present, historians have asked the question: How and why did an ordinary little town in central Italy grow so much bigger than any other in the ancient Mediterranean and come to control such a huge empire?’ During the first century BCE, Roman writers themselves began systematically to study the earlier centuries of their city and their empire. Yet these historians had little more direct evidence of the earliest phases of Rome&#x27;s history than modern writers have, and in some ways perhaps not as much, as there were no surviving documents or archives. Their &#x27;histories&#x27; about the foundation of ancient Rome tell us a good deal about how the Romans saw their city, their values, and their failings. However, they tell us very little indeed about what they claim to inform us about: that is, what earliest Rome was actually like. One fact is obvious. Rome was already a very old city by 63 BCE, the birth date of its first emperor. But how exactly are we to access reliable information about the origins of Rome?</p>"
+        },
+        {
+          "section_id": "B",
+          "content_html": "<p>One way of doing this is by turning away from the histories of Roman writers and seeking out clues in the Latin language, or in later Roman institutions that might point back to features of earliest Rome. Much more tangible, however, is the evidence of archaeology. Dig down deep in the city of Rome, below the visible ancient monuments, and a few traces of a much earlier settlement or settlements remain. Beneath the Forum itself (an ancient marketplace at the centre of the city) lie the remains of an early cemetery, which caused tremendous excitement when they were first unearthed at the start of the 20th century. Cemeteries imply the existence of a community, and traces of that are presumably to be found in the groups of huts whose faint outlines have been detected under various parts of the later city, including on the Palatine (the centremost of the seven hills on which Rome is built). We have little idea of the nature of these huts beyond their construction in wood, clay, and thatch, and still less of the lifestyle they supported. But we can fill in some of the gaps if we look just outside Rome. One of the best preserved and most carefully excavated of these early structures was found at Fidenae, a few miles north of the city, in the 1980s. It is a rectangular building, some six by five metres, made of wood and rammed earth - a construction method still utilised up to the present day - with a simple porch around it, formed by the overhanging roof. Inside was a central hearth, some large pottery storage jars, and traces of predictable foodstuffs and domestic animals.</p>"
+        },
+        {
+          "section_id": "C",
+          "content_html": "<p>There are vivid glimpses of human and other life here; the question is, what do those glimpses add up to? The archaeological remains certainly demonstrate that there is a long and rich prehistory behind the ancient Rome we can still see, but quite how long that prehistory is is another matter.</p>"
+        },
+        {
+          "section_id": "D",
+          "content_html": "<p>Part of the problem is the conditions of excavation in the city itself. The site of Rome has been so intensively built on for centuries that we find these traces of early occupation only in spots that happen not to have been disturbed. The foundations dug in the first and second centuries CE for the vast marble temples of the forum obliterated much of what then lay beneath the surface; the cellars of grand Renaissance houses cut through even more ancient remains in other parts of the city. So we have tiny snapshots, never the big picture. This is archaeology at its most difficult, and - although new fragments of evidence emerge all the time - its interpretation, and reinterpretation is almost always contested and often controversial. For example, there is an ongoing debate about whether the small pieces of wattle and daub found in excavations in the Forum in the mid-20th century indicate that there was an early hut settlement there too, or whether they were inadvertently introduced as part of the rubble used a few centuries later to provide a new raised surface for the area. It has to be said that this place, though fine for a cemetery, would have been rather damp and marshy for a village.</p>"
+        },
+        {
+          "section_id": "E",
+          "content_html": "<p>Precise dating is even more contentious. It cannot be stressed enough that there is no certain independent date for any of the archaeological material from earliest Rome or the area around, and that arguments still rage about the age of almost every major find. It has taken decades of work over the past century or so - using such diagnostics as the existence of wheel-made pottery (assumed to be later than handmade), the occasional presence on graves of Greek ceramics (whose dating is better, but still not perfectly understood) and careful comparison from site to site - to produce a rough chronological scheme covering the period from around 1000 to 600 BCE.</p>"
+        },
+        {
+          "section_id": "F",
+          "content_html": "<p>On that basis, the earliest burials in Rome would have been around 1000 BCE, and the earliest known settlements around 750-700 BCE. But even these dates are far from certain. Recent scientific methods - including radiocarbon dating, which calculates the age of any organic material - have suggested that they are all too &#x27;young&#x27;, by as much as a hundred years. The building at Fidenae, for example, was dated around the middle of the eighth century BCE according to traditional archaeological criteria, but that is pushed back to around the end of the ninth century BCE if we follow radiocarbon analysis. If anything, Rome appears to be getting older.</p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "schema_version": "saola.questions.v1",
+  "test_id": "vol_09_t7_rd",
+  "module": "reading",
+  "question_count": 40,
+  "question_groups": [
+    {
+      "group_id": "vol_09_t7_rd_p1_g1",
+      "passage_id": "p1",
+      "question_range": [
+        1,
+        5
+      ],
+      "question_type": "tfng",
+      "skill_tags": [
+        "rd_tfng"
+      ],
+      "instruction": "Questions 1–5 Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+      "items": [
+        {
+          "question_id": "q1",
+          "number": 1,
+          "prompt_html": "Seaweed has been used to feed animals on some Scottish islands for thousands of years."
+        },
+        {
+          "question_id": "q2",
+          "number": 2,
+          "prompt_html": "In the 8th century in Japan, eating seaweed was reserved for special occasions."
+        },
+        {
+          "question_id": "q3",
+          "number": 3,
+          "prompt_html": "The findings at Monte Verde revealed new information about the significance of women’s roles in prehistoric times."
+        },
+        {
+          "question_id": "q4",
+          "number": 4,
+          "prompt_html": "Potash was Norway’s largest export in the 1800s."
+        },
+        {
+          "question_id": "q5",
+          "number": 5,
+          "prompt_html": "Dr Kathleen Drew-Banker is more famous in Japan than she is in the UK."
+        }
+      ],
+      "options": [
+        {
+          "label": "TRUE",
+          "text": "if the statement agrees with the information"
+        },
+        {
+          "label": "FALSE",
+          "text": "if the statement contradicts the information"
+        },
+        {
+          "label": "NOT GIVEN",
+          "text": "if there is no information on this"
+        }
+      ],
+      "prompt_html": "<p>Choose <strong>TRUE</strong> if the statement agrees with the information given in the text, choose <strong>FALSE</strong> if the statement contradicts the information, or choose <strong>NOT GIVEN</strong> if there is no information on this.</p><p><strong>1</strong> Seaweed has been used to feed animals on some Scottish islands for thousands of years.</p><p><strong>2</strong> In the 8th century in Japan, eating seaweed was reserved for special occasions.</p><p><strong>3</strong> The findings at Monte Verde revealed new information about the significance of women’s roles in prehistoric times.</p><p><strong>4</strong> Potash was Norway’s largest export in the 1800s.</p><p><strong>5</strong> Dr Kathleen Drew-Banker is more famous in Japan than she is in the UK.</p>"
+    },
+    {
+      "group_id": "vol_09_t7_rd_p1_g2",
+      "passage_id": "p1",
+      "question_range": [
+        6,
+        13
+      ],
+      "question_type": "table_completion",
+      "skill_tags": [
+        "rd_comp_table"
+      ],
+      "instruction": "Questions 6–13 Complete the table below. Write ONE WORD ONLY from the passage for each answer. Japanese seaweed industry • was destroyed by pollution and 6 ___________ in 1948",
+      "items": [
+        {
+          "question_id": "q6",
+          "number": 6,
+          "prompt_html": "Question 6"
+        },
+        {
+          "question_id": "q7",
+          "number": 7,
+          "prompt_html": "Question 7"
+        },
+        {
+          "question_id": "q8",
+          "number": 8,
+          "prompt_html": "Question 8"
+        },
+        {
+          "question_id": "q9",
+          "number": 9,
+          "prompt_html": "Question 9"
+        },
+        {
+          "question_id": "q10",
+          "number": 10,
+          "prompt_html": "Question 10"
+        },
+        {
+          "question_id": "q11",
+          "number": 11,
+          "prompt_html": "Question 11"
+        },
+        {
+          "question_id": "q12",
+          "number": 12,
+          "prompt_html": "Question 12"
+        },
+        {
+          "question_id": "q13",
+          "number": 13,
+          "prompt_html": "Question 13"
+        }
+      ],
+      "prompt_html": "<p>Complete the table below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p><strong>Japanese seaweed industry</strong></p><p>•    was destroyed by pollution and &lt;blank data-qid=&quot;q6&quot;/&gt;in 1948</p><p>•    recovered as a result of Kathleen Drew-Baker’s research into &lt;blank data-qid=&quot;q7&quot;/&gt;a seaweed species similar to nori</p><p><strong><em>Seaweed farming in the USA</strong></em> •    new methods have resulted in the type of seaweed called &lt;blank data-qid=&quot;q8&quot;/&gt;becoming a successful crop</p><p>•    has provided an alternative source of income for &lt;blank data-qid=&quot;q9&quot;/&gt;<strong><em>Seaweed production in the future</strong></em> •    may be used to minimise the harmful effects of various &lt;blank data-qid=&quot;q10&quot;/&gt;produced by different industries</p><p>•    the cost of production and shortage of &lt;blank data-qid=&quot;q11&quot;/&gt;may be preventing growth of the industry in Europe</p><p>•    could create very large numbers of new &lt;blank data-qid=&quot;q12&quot;/&gt;•    could be used instead of oil to power a small percentage of &lt;blank data-qid=&quot;q13&quot;/&gt;</p>"
+    },
+    {
+      "group_id": "vol_09_t7_rd_p2_g1",
+      "passage_id": "p2",
+      "question_range": [
+        14,
+        18
+      ],
+      "question_type": "matching_information",
+      "skill_tags": [
+        "rd_match_information",
+        "rd_scanning"
+      ],
+      "instruction": "Questions 14–18 Reading Passage 2 has seven paragraphs, A-G . Which paragraph contains the following information? Choose the correct letter, A-G , in boxes 14-19 .",
+      "items": [
+        {
+          "question_id": "q14",
+          "number": 14,
+          "prompt_html": "a difference of opinion about where a group of languages originated"
+        },
+        {
+          "question_id": "q15",
+          "number": 15,
+          "prompt_html": "a reference to a mythological figure"
+        },
+        {
+          "question_id": "q16",
+          "number": 16,
+          "prompt_html": "an expression of one person&#x27;s doubt about a particular method of analysing scientific data"
+        },
+        {
+          "question_id": "q17",
+          "number": 17,
+          "prompt_html": "an explanation of how one particular Celtic language spread due to the movement of people"
+        },
+        {
+          "question_id": "q18",
+          "number": 18,
+          "prompt_html": "the reason why some language experts distrust language trees"
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Paragraph A"
+        },
+        {
+          "label": "B",
+          "text": "Paragraph B"
+        },
+        {
+          "label": "C",
+          "text": "Paragraph C"
+        },
+        {
+          "label": "D",
+          "text": "Paragraph D"
+        },
+        {
+          "label": "E",
+          "text": "Paragraph E"
+        },
+        {
+          "label": "F",
+          "text": "Paragraph F"
+        },
+        {
+          "label": "G",
+          "text": "Paragraph G"
+        }
+      ],
+      "prompt_html": "<p>Reading Passage 2 has seven paragraphs, <strong>A-G</strong> .</p><p><em>Which paragraph contains the following information?</em></p><p>Choose the correct letter, <strong>A-G</strong> , in boxes <strong>14-19</strong> .</p><p><strong>14</strong> a difference of opinion about where a group of languages originated</p><p><strong>15</strong> a reference to a mythological figure</p><p><strong>16</strong> an expression of one person&#x27;s doubt about a particular method of analysing scientific data</p><p><strong>17</strong> an explanation of how one particular Celtic language spread due to the movement of people</p><p><strong>18</strong> the reason why some language experts distrust language trees</p>"
+    },
+    {
+      "group_id": "vol_09_t7_rd_p2_g2",
+      "passage_id": "p2",
+      "question_range": [
+        19,
+        22
+      ],
+      "question_type": "matching_features",
+      "skill_tags": [
+        "rd_match_features",
+        "rd_detail"
+      ],
+      "instruction": "Questions 19–22 Look at the following statements ( Questions 19-22 ) and the list of people below. Match each statement with the correct researcher or researchers, A, B, C or D. Choose the correct letter, A , B , C or D , in boxes 19-22 . NB You may use any letter more than once.",
+      "items": [
+        {
+          "question_id": "q19",
+          "number": 19,
+          "prompt_html": "An approach commonly used in language research has too narrow a focus."
+        },
+        {
+          "question_id": "q20",
+          "number": 20,
+          "prompt_html": "The number of people who use a language has an effect on the modifications the language undergoes."
+        },
+        {
+          "question_id": "q21",
+          "number": 21,
+          "prompt_html": "The Celtic language has been a distinct language for longer than experts previously thought."
+        },
+        {
+          "question_id": "q22",
+          "number": 22,
+          "prompt_html": "The use of one family of languages may have become more extensive due to farming practices."
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Dr Peter Forster &amp; Dr Alfred Toth"
+        },
+        {
+          "label": "B",
+          "text": "Dr Merritt Ruhlen"
+        },
+        {
+          "label": "C",
+          "text": "Dr Colin Renfrew"
+        },
+        {
+          "label": "D",
+          "text": "Dr April McMahon"
+        }
+      ],
+      "prompt_html": "<p>Look at the following statements ( <strong>Questions 19-22</strong> ) and the list of people below.</p><p>Match each statement with the correct researcher or researchers, A, B, C or D.</p><p>Choose the correct letter, <strong>A</strong> , <strong>B</strong> , <strong>C</strong> or <strong>D</strong> , in boxes <strong>19-22</strong> .</p><p><strong><em>NB  You may use any letter more than once.</strong></em></p><p><strong>List of Researchers</strong></p><p><strong>A</strong> Dr Peter Forster &amp;amp; Dr Alfred Toth</p><p><strong>B</strong> Dr Merritt Ruhlen</p><p><strong>C</strong> Dr Colin Renfrew</p><p><strong>D</strong> Dr April McMahon</p><p><strong>19</strong> An approach commonly used in language research has too narrow a focus.</p><p><strong>20</strong> The number of people who use a language has an effect on the modifications the language undergoes.</p><p><strong>21</strong> The Celtic language has been a distinct language for longer than experts previously thought.</p><p><strong>22</strong> The use of one family of languages may have become more extensive due to farming practices.</p>"
+    },
+    {
+      "group_id": "vol_09_t7_rd_p2_g3",
+      "passage_id": "p2",
+      "question_range": [
+        23,
+        26
+      ],
+      "question_type": "sentence_completion",
+      "skill_tags": [
+        "rd_comp_sentence"
+      ],
+      "instruction": "Questions 23–26 Complete the sentence below. Write ONE WORD ONLY from the passage for each answer. The script on the bronze tablet discovered in Coligny in France was written in a form of Celtic called 23 ___________ After the success of the Roman Empire in conquering many parts of Europe, 24 ___________ and its related languages became the predominant languages.",
+      "items": [
+        {
+          "question_id": "q23",
+          "number": 23,
+          "prompt_html": "Question 23"
+        },
+        {
+          "question_id": "q24",
+          "number": 24,
+          "prompt_html": "Question 24"
+        },
+        {
+          "question_id": "q25",
+          "number": 25,
+          "prompt_html": "___________ is known to have occurred among the various versions of the Gaelic language around 3200 BC."
+        },
+        {
+          "question_id": "q26",
+          "number": 26,
+          "prompt_html": "Question 26"
+        }
+      ],
+      "prompt_html": "<p>Complete the sentence below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p>The script on the bronze tablet discovered in Coligny in France was written in a form of Celtic called &lt;blank data-qid=&quot;q23&quot;/&gt;After the success of the Roman Empire in conquering many parts of Europe, &lt;blank data-qid=&quot;q24&quot;/&gt;and its related languages became the predominant languages.</p><p>&lt;blank data-qid=&quot;q25&quot;/&gt;is known to have occurred among the various versions of the Gaelic language around 3200 BC.</p><p>For social reasons, developments in languages are &lt;blank data-qid=&quot;q26&quot;/&gt;</p>"
+    },
+    {
+      "group_id": "vol_09_t7_rd_p3_g1",
+      "passage_id": "p3",
+      "question_range": [
+        27,
+        32
+      ],
+      "question_type": "mcq_single",
+      "skill_tags": [
+        "rd_mcq_single",
+        "rd_detail"
+      ],
+      "instruction": "Questions 27–32 Choose the correct answer.",
+      "items": [
+        {
+          "question_id": "q27",
+          "number": 27,
+          "prompt_html": "In the first paragraph, what are we told about the current US marketplace?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Almost half of all businesses that added new products collapse."
+            },
+            {
+              "label": "B",
+              "text": "Innovations in packaged goods have the greatest chance of success."
+            },
+            {
+              "label": "C",
+              "text": "It is a waste of money to invent new versions of products that already work well."
+            },
+            {
+              "label": "D",
+              "text": "The least successful companies are those that concentrate on existing products."
+            }
+          ]
+        },
+        {
+          "question_id": "q28",
+          "number": 28,
+          "prompt_html": "In the second paragraph, what does the writer say about unsuccessful innovations?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Companies should take advice from the experts."
+            },
+            {
+              "label": "B",
+              "text": "Innovations fail if companies lack business experience."
+            },
+            {
+              "label": "C",
+              "text": "The failure of many innovations can be predicted from the beginning."
+            },
+            {
+              "label": "D",
+              "text": "The reasons for product failure are more complex than is commonly thought."
+            }
+          ]
+        },
+        {
+          "question_id": "q29",
+          "number": 29,
+          "prompt_html": "According to the characteristics described by Kahneman and Tversky, consumers",
+          "options": [
+            {
+              "label": "A",
+              "text": "compare new products with things they have bought previously."
+            },
+            {
+              "label": "B",
+              "text": "value new products more than ones they currently own."
+            },
+            {
+              "label": "C",
+              "text": "give up what they already have quite willingly."
+            },
+            {
+              "label": "D",
+              "text": "consider price more than any other factor."
+            }
+          ]
+        },
+        {
+          "question_id": "q30",
+          "number": 30,
+          "prompt_html": "What are we told about the experiment conducted by Richard Thaler and his colleagues?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Choosers had to guess the correct price of the coffee mug."
+            },
+            {
+              "label": "B",
+              "text": "The Sellers valued their coffee mugs more than the Choosers did."
+            },
+            {
+              "label": "C",
+              "text": "The Sellers had to persuade the Choosers to buy their coffee mugs."
+            },
+            {
+              "label": "D",
+              "text": "The Choosers paid less money for their coffee mugs than the Sellers."
+            }
+          ]
+        },
+        {
+          "question_id": "q31",
+          "number": 31,
+          "prompt_html": "In Jack Knetsch&#x27;s demonstration, the second group of students were:",
+          "options": [
+            {
+              "label": "A",
+              "text": "given a choice of several different products at the beginning."
+            },
+            {
+              "label": "B",
+              "text": "asked to choose between what they had and a new product."
+            },
+            {
+              "label": "C",
+              "text": "allowed to keep both of the products they were shown."
+            },
+            {
+              "label": "D",
+              "text": "forced to give back the first product they had been given."
+            }
+          ]
+        },
+        {
+          "question_id": "q32",
+          "number": 32,
+          "prompt_html": "What was the end result of Knetsch&#x27;s demonstration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The majority of students reacted in a logical way."
+            },
+            {
+              "label": "B",
+              "text": "Most of the students preferred chocolate bars to coffee mugs."
+            },
+            {
+              "label": "C",
+              "text": "Almost all of the students were unwilling to swap their products."
+            },
+            {
+              "label": "D",
+              "text": "Half of the students with coffee mugs swapped them for chocolate bars."
+            }
+          ]
+        }
+      ],
+      "prompt_html": "<p>Choose the correct answer.</p><p><strong>27 In the first paragraph, what are we told about the current US marketplace?</strong></p><p>1. Almost half of all businesses that added new products collapse.</p><p>2. Innovations in packaged goods have the greatest chance of success.</p><p>3. It is a waste of money to invent new versions of products that already work well.</p><p>4. The least successful companies are those that concentrate on existing products.</p><p><strong>28 In the second paragraph, what does the writer say about unsuccessful innovations?</strong></p><p>1. Companies should take advice from the experts.</p><p>2. Innovations fail if companies lack business experience.</p><p>3. The failure of many innovations can be predicted from the beginning.</p><p>4. The reasons for product failure are more complex than is commonly thought.</p><p><strong>29 According to the characteristics described by Kahneman and Tversky, consumers</strong></p><p>1. compare new products with things they have bought previously.</p><p>2. value new products more than ones they currently own.</p><p>3. give up what they already have quite willingly.</p><p>4. consider price more than any other factor.</p><p><strong>30 What are we told about the experiment conducted by Richard Thaler and his colleagues?</strong></p><p>1. The Choosers had to guess the correct price of the coffee mug.</p><p>2. The Sellers valued their coffee mugs more than the Choosers did.</p><p>3. The Sellers had to persuade the Choosers to buy their coffee mugs.</p><p>4. The Choosers paid less money for their coffee mugs than the Sellers.</p><p><strong>31 In Jack Knetsch&#x27;s demonstration, the second group of students were:</strong></p><p>1. given a choice of several different products at the beginning.</p><p>2. asked to choose between what they had and a new product.</p><p>3. allowed to keep both of the products they were shown.</p><p>4. forced to give back the first product they had been given.</p><p><strong>32 What was the end result of Knetsch&#x27;s demonstration?</strong></p><p>1. The majority of students reacted in a logical way.</p><p>2. Most of the students preferred chocolate bars to coffee mugs.</p><p>3. Almost all of the students were unwilling to swap their products.</p><p>4. Half of the students with coffee mugs swapped them for chocolate bars.</p>"
+    },
+    {
+      "group_id": "vol_09_t7_rd_p3_g2",
+      "passage_id": "p3",
+      "question_range": [
+        33,
+        35
+      ],
+      "question_type": "matching_sentence_endings",
+      "skill_tags": [
+        "rd_match_sentence_endings",
+        "rd_cohesion"
+      ],
+      "instruction": "Questions 33–35 Complete each sentence with the correct ending, A-F , below. A consumers do not follow expected purchasing patterns. B people will always buy products that are better than those they already own. C the \"status quo bias\" is purely theoretical.",
+      "items": [
+        {
+          "question_id": "q33",
+          "number": 33,
+          "prompt_html": "Question 33"
+        },
+        {
+          "question_id": "q34",
+          "number": 34,
+          "prompt_html": "Question 34"
+        },
+        {
+          "question_id": "q35",
+          "number": 35,
+          "prompt_html": "Question 35"
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "consumers do not follow expected purchasing patterns."
+        },
+        {
+          "label": "B",
+          "text": "people will always buy products that are better than those they already own."
+        },
+        {
+          "label": "C",
+          "text": "the \"status quo bias\" is purely theoretical."
+        },
+        {
+          "label": "D",
+          "text": "consumers have their own idea of the value of a product."
+        },
+        {
+          "label": "E",
+          "text": "innovations require expensive marketing campaigns."
+        },
+        {
+          "label": "F",
+          "text": "\"loss aversion\" can be measured."
+        }
+      ],
+      "prompt_html": "<p>Complete each sentence with the correct ending, <strong>A-F</strong> , below.</p><p><strong>A consumers do not follow expected purchasing patterns.</strong></p><p><strong>B people will always buy products that are better than those they already own.</strong></p><p><strong>C the &quot;status quo bias&quot; is purely theoretical.</strong></p><p><strong>D consumers have their own idea of the value of a product.</strong></p><p><strong>E innovations require expensive marketing campaigns.</strong></p><p><strong>F &quot;loss aversion&quot; can be measured.</strong></p><p>The theory of relative advantage is based on the assumption that <strong>33</strong> ___________</p><p>The 2002 Nobel Prize for economics was awarded for a study that explained why <strong>34</strong> __________</p><p>According to the first characteristic described by Kahneman and Tversky, <strong>35</strong> __________</p>"
+    },
+    {
+      "group_id": "vol_09_t7_rd_p3_g3",
+      "passage_id": "p3",
+      "question_range": [
+        36,
+        40
+      ],
+      "question_type": "ynng",
+      "skill_tags": [
+        "rd_ynng"
+      ],
+      "instruction": "Questions 36–40 Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "items": [
+        {
+          "question_id": "q36",
+          "number": 36,
+          "prompt_html": "Everett Rogers&#x27; theory explains the psychology behind the choices consumers make."
+        },
+        {
+          "question_id": "q37",
+          "number": 37,
+          "prompt_html": "&quot;Loss aversion&quot; helps to explain why people fail to buy new products."
+        },
+        {
+          "question_id": "q38",
+          "number": 38,
+          "prompt_html": "Developers always believe their latest product will be a success."
+        },
+        {
+          "question_id": "q39",
+          "number": 39,
+          "prompt_html": "Developers waste too much time perfecting new products."
+        },
+        {
+          "question_id": "q40",
+          "number": 40,
+          "prompt_html": "A product champion is a person who develops a best-selling new product ."
+        }
+      ],
+      "options": [
+        {
+          "label": "YES",
+          "text": "if the statement agrees with the writer's claims or views"
+        },
+        {
+          "label": "NO",
+          "text": "if the statement contradicts the writer's claims or views"
+        },
+        {
+          "label": "NOT GIVEN",
+          "text": "if it is impossible to say from the passage"
+        }
+      ],
+      "prompt_html": "<p>Choose <strong>YES</strong> if the statement agrees with the claims of the writer, choose <strong>NO</strong> if the statement contradicts the claims of the writer, or <strong>NOT GIVEN</strong> if it is impossible to say what the writer thinks about this.</p><p><strong>36</strong> Everett Rogers&#x27; theory explains the psychology behind the choices consumers make.</p><p><strong>37</strong> &quot;Loss aversion&quot; helps to explain why people fail to buy new products.</p><p><strong>38</strong> Developers always believe their latest product will be a success.</p><p><strong>39</strong> Developers waste too much time perfecting new products.</p><p><strong>40</strong> A product champion is a person who develops a best-selling new product <strong>.</strong></p>"
+    }
+  ]
+}

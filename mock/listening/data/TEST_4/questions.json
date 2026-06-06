@@ -1,0 +1,395 @@
+{
+  "schema_version": "saola.questions.v1",
+  "test_id": "vol_09_t4_ls",
+  "module": "listening",
+  "question_count": 40,
+  "question_groups": [
+    {
+      "group_id": "ls_t4_p1_g1",
+      "part_id": "l1",
+      "question_range": [
+        1,
+        10
+      ],
+      "question_type": "form_completion",
+      "skill_tags": [
+        "ls_comp_form",
+        "ls_detail"
+      ],
+      "instruction": "Write **ONE WORD AND/OR A NUMBER** for each answer.",
+      "prompt_html": "<p><strong>Questions 1–10</strong> Complete the form below.<br/>Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.</p><p>Weekend Course Booking</p><p>Booking for: a guitar workshop<br/>Start date: <strong>1</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Course code: <strong>2</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Previous course attended: Editing <strong>3</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Name: Nick <strong>4</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Address: 27 Hawthorn <strong>5</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Bristol, BS4 2QG<br/>Contact number: 07707 438 297<br/>Age: 26<br/>Occupation: <strong>6</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Dietary requests: no <strong>7</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>One-to-one lesson selected: <strong>8</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ guitar<br/>First heard about us from: a <strong>9</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Additional request: would like <strong>10</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ if possible</p>",
+      "items": [
+        {
+          "question_id": "q1",
+          "number": 1,
+          "prompt_html": "<p>Start date: <strong>1</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q2",
+          "number": 2,
+          "prompt_html": "<p>Course code: <strong>2</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q3",
+          "number": 3,
+          "prompt_html": "<p>Previous course attended: Editing <strong>3</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q4",
+          "number": 4,
+          "prompt_html": "<p>Name: Nick <strong>4</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q5",
+          "number": 5,
+          "prompt_html": "<p>Address: 27 Hawthorn <strong>5</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Bristol, BS4 2QG</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q6",
+          "number": 6,
+          "prompt_html": "<p>Occupation: <strong>6</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q7",
+          "number": 7,
+          "prompt_html": "<p>Dietary requests: no <strong>7</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q8",
+          "number": 8,
+          "prompt_html": "<p>One-to-one lesson selected: <strong>8</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ guitar</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q9",
+          "number": 9,
+          "prompt_html": "<p>First heard about us from: a <strong>9</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q10",
+          "number": 10,
+          "prompt_html": "<p>Additional request: would like <strong>10</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ if possible</p>",
+          "response_type": "text"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t4_p2_g1",
+      "part_id": "l2",
+      "question_range": [
+        11,
+        15
+      ],
+      "question_type": "matching",
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ],
+      "instruction": "",
+      "prompt_html": "<p><strong>Questions 11–15</strong> <em>What is the main attraction in each of the following areas of the festival?</em> Choose <strong>FIVE</strong> correct answers, <strong>A-G</strong> , next to questions <strong>11-15</strong> .</p><p><strong>Attractions</strong></p><p>A talks about gardening</p><p>B live music</p><p>C an art exhibition</p><p>D a children's playground</p><p>E evening entertainment</p><p>F a competition for adults</p><p>G vegetable market</p><p><strong>Areas of the festival</strong> Bridge Street <strong>11</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>King's Park <strong>12</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Oakvale School <strong>13</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Green Road <strong>14</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Sun Lane <strong>15</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+      "items": [
+        {
+          "question_id": "q11",
+          "number": 11,
+          "prompt_html": "<p><strong>Areas of the festival</strong> Bridge Street <strong>11</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q12",
+          "number": 12,
+          "prompt_html": "<p>King's Park <strong>12</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q13",
+          "number": 13,
+          "prompt_html": "<p>Oakvale School <strong>13</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q14",
+          "number": 14,
+          "prompt_html": "<p>Green Road <strong>14</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q15",
+          "number": 15,
+          "prompt_html": "<p>Sun Lane <strong>15</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "select"
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "talks about gardening"
+        },
+        {
+          "label": "B",
+          "text": "live music"
+        },
+        {
+          "label": "C",
+          "text": "an art exhibition"
+        },
+        {
+          "label": "D",
+          "text": "a children's playground"
+        },
+        {
+          "label": "E",
+          "text": "evening entertainment"
+        },
+        {
+          "label": "F",
+          "text": "a competition for adults"
+        },
+        {
+          "label": "G",
+          "text": "vegetable market"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t4_p2_g2",
+      "part_id": "l2",
+      "question_range": [
+        16,
+        20
+      ],
+      "question_type": "mcq_single",
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ],
+      "instruction": "Choose the correct answer.",
+      "prompt_html": "<p><strong>Questions 16–20</strong></p><p>Choose the correct answer.</p><p>Denford Festival</p><p><strong>16 What does Sam say about the festival tickets?</strong></p><p>1. They allow you to get into all the festival events.<br/>2. They are more expensive to buy on the day.<br/>3. They have nearly all been sold.</p><p><strong>17 On the last night of the festival, visitors will be able to</strong></p><p>1. take part in a dance.<br/>2. go to a theatre performance.<br/>3. watch some fireworks.</p><p><strong>18 What will be provided for international visitors?</strong></p><p>1. discounts on accommodation.<br/>2. tours of the local area.<br/>3. a guide written in different languages.</p><p><strong>19 What information is given about car park A?</strong></p><p>1. It is bigger than car park B.<br/>2. It is closer to town than car park B.<br/>3. It will close earlier than car park B.</p><p><strong>20 What change have the organisers made to the programme this year?</strong></p><p>1. replacing the programme with an app<br/>2. reducing the number of programmes printed<br/>3. introducing a charge for the programmes</p>",
+      "items": [
+        {
+          "question_id": "q16",
+          "number": 16,
+          "prompt_html": "<p><strong>16 What does Sam say about the festival tickets?</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q17",
+          "number": 17,
+          "prompt_html": "<p><strong>17 On the last night of the festival, visitors will be able to</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q18",
+          "number": 18,
+          "prompt_html": "<p><strong>18 What will be provided for international visitors?</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q19",
+          "number": 19,
+          "prompt_html": "<p><strong>19 What information is given about car park A?</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q20",
+          "number": 20,
+          "prompt_html": "<p><strong>20 What change have the organisers made to the programme this year?</strong></p>",
+          "response_type": "radio"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t4_p3_g1",
+      "part_id": "l3",
+      "question_range": [
+        21,
+        23
+      ],
+      "question_type": "table_completion",
+      "skill_tags": [
+        "ls_comp_table"
+      ],
+      "instruction": "Write **NO MORE THAN TWO WORDS** for each answer.",
+      "prompt_html": "<p><strong>Questions 21–23</strong> Complete the tables below.<br/>Write <strong>NO MORE THAN TWO WORDS</strong> for each answer.</p><p>Action Research Course for Practising Teachers</p><p>Course leader: Alan Cumner<br/>(get his recent book called <strong>'21</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_')<br/>Course objectives: to develop skills in:<br/>●    using different research techniques<br/>●    researching as part of a <strong>22</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>● <strong>23</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ (in a collaborative culture)</p>",
+      "items": [
+        {
+          "question_id": "q21",
+          "number": 21,
+          "prompt_html": "<p>(get his recent book called <strong>'21</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_')</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q22",
+          "number": 22,
+          "prompt_html": "<p>●    researching as part of a <strong>22</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q23",
+          "number": 23,
+          "prompt_html": "<p>● <strong>23</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ (in a collaborative culture)</p>",
+          "response_type": "text"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t4_p3_g2",
+      "part_id": "l3",
+      "question_range": [
+        24,
+        30
+      ],
+      "question_type": "table_completion",
+      "skill_tags": [
+        "ls_comp_table"
+      ],
+      "instruction": "Complete the tables below. Write **NO MORE THAN TWO WORDS** for each answer.",
+      "prompt_html": "<p><strong>Questions 24–30</strong></p><p>Complete the tables below.</p><p>Write <strong>NO MORE THAN TWO WORDS</strong> for each answer.</p><p>Course Components</p><table><tr><th>Observational techniques</th><th>Additional information</th></tr><tr><td>Using observation checklists</td><td>To record aspects of lesson, e.g.  <strong>24</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ of pupils</td></tr><tr><td>Writing a  <strong>25</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</td><td>Used to improve skill of reflection</td></tr><tr><td><strong>26</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</td><td>Try out on fellow students (in classroom  <strong>27</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_)</td></tr></table><table><tr><th>Non-observational techniques</th><th>Additional information</th></tr><tr><td>Analysing  <strong>28</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</td><td>Use statistics based on own students</td></tr><tr><td>Using questionnaires</td><td>Use the  <strong>29</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ to find respondents</td></tr><tr><td>Using  <strong>30</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</td><td>Own choice of respondents</td></tr></table>",
+      "items": [
+        {
+          "question_id": "q24",
+          "number": 24,
+          "prompt_html": "<table><tr><th>Using observation checklists</th><th>To record aspects of lesson, e.g.  <strong>24</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ of pupils</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q25",
+          "number": 25,
+          "prompt_html": "<table><tr><th>Writing a  <strong>25</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th><th>Used to improve skill of reflection</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q26",
+          "number": 26,
+          "prompt_html": "<table><tr><th><strong>26</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th><th>Try out on fellow students (in classroom  <strong>27</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_)</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q27",
+          "number": 27,
+          "prompt_html": "<table><tr><th><strong>26</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th><th>Try out on fellow students (in classroom  <strong>27</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_)</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q28",
+          "number": 28,
+          "prompt_html": "<table><tr><th>Analysing  <strong>28</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th><th>Use statistics based on own students</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q29",
+          "number": 29,
+          "prompt_html": "<table><tr><th>Using questionnaires</th><th>Use the  <strong>29</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ to find respondents</th></tr></table>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q30",
+          "number": 30,
+          "prompt_html": "<table><tr><th>Using  <strong>30</strong>  \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</th><th>Own choice of respondents</th></tr></table>",
+          "response_type": "text"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t4_p4_g1",
+      "part_id": "l4",
+      "question_range": [
+        31,
+        33
+      ],
+      "question_type": "mcq_single",
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ],
+      "instruction": "Choose the correct answer.",
+      "prompt_html": "<p><strong>Questions 31–33</strong></p><p>Choose the correct answer.</p><p><strong>31 What impact does Marc Prensky believe that digital technology has had on young people?</strong></p><p>1. It has altered their thinking patterns.<br/>2. It has harmed their physical development.<br/>3. It has limited their brain capacity.</p><p><strong>32 Digital immigrants tend to access computers</strong></p><p>1. using their native language.<br/>2. less efficiently than young people.<br/>3. for less important information.</p><p><strong>33 What example is given of having a 'digital accent'?</strong></p><p>1. having less effective typing skills<br/>2. doing things the old-fashioned way<br/>3. being unable to understand instructions</p>",
+      "items": [
+        {
+          "question_id": "q31",
+          "number": 31,
+          "prompt_html": "<p><strong>31 What impact does Marc Prensky believe that digital technology has had on young people?</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q32",
+          "number": 32,
+          "prompt_html": "<p><strong>32 Digital immigrants tend to access computers</strong></p>",
+          "response_type": "radio"
+        },
+        {
+          "question_id": "q33",
+          "number": 33,
+          "prompt_html": "<p><strong>33 What example is given of having a 'digital accent'?</strong></p>",
+          "response_type": "radio"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t4_p4_g2",
+      "part_id": "l4",
+      "question_range": [
+        34,
+        40
+      ],
+      "question_type": "matching",
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ],
+      "instruction": "Which theorist makes each of the following points? Choose the correct letter, **A** , **B** or **C** , next to questions **34-40** .",
+      "prompt_html": "<p><strong>Questions 34–40</strong></p><p>Which theorist makes each of the following points?</p><p>Choose the correct letter, <strong>A</strong> , <strong>B</strong> or <strong>C</strong> , next to questions <strong>34-40</strong> .</p><p>Theorists</p><p><strong>A</strong> Allen</p><p><strong>B</strong> James</p><p><strong>C</strong> Vander</p><p><strong>Points made</strong></p><p><strong>34</strong> Current teaching methods don't work.</p><p><strong>35</strong> Many students don't understand computers.</p><p><strong>36</strong> Computer technology doesn't interest all students.</p><p><strong>37</strong> Students can still learn the traditional way.</p><p><strong>38</strong> Students still need to learn research skills.</p><p><strong>39</strong> We should use computer games to teach.</p><p><strong>40</strong> Computers can't replace educators.</p>",
+      "items": [
+        {
+          "question_id": "q34",
+          "number": 34,
+          "prompt_html": "<p>Choose the correct letter, <strong>A</strong> , <strong>B</strong> or <strong>C</strong> , next to questions <strong>34-40</strong> .</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q35",
+          "number": 35,
+          "prompt_html": "<p><strong>35</strong> Many students don't understand computers.</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q36",
+          "number": 36,
+          "prompt_html": "<p><strong>36</strong> Computer technology doesn't interest all students.</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q37",
+          "number": 37,
+          "prompt_html": "<p><strong>37</strong> Students can still learn the traditional way.</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q38",
+          "number": 38,
+          "prompt_html": "<p><strong>38</strong> Students still need to learn research skills.</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q39",
+          "number": 39,
+          "prompt_html": "<p><strong>39</strong> We should use computer games to teach.</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q40",
+          "number": 40,
+          "prompt_html": "<p>Choose the correct letter, <strong>A</strong> , <strong>B</strong> or <strong>C</strong> , next to questions <strong>34-40</strong> .</p>",
+          "response_type": "select"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "schema_version": "saola.questions.v1",
+  "test_id": "vol_09_t1_rd",
+  "module": "reading",
+  "question_count": 40,
+  "question_groups": [
+    {
+      "group_id": "vol_09_t1_rd_p1_g1",
+      "passage_id": "p1",
+      "question_range": [
+        1,
+        6
+      ],
+      "question_type": "tfng",
+      "skill_tags": [
+        "rd_tfng"
+      ],
+      "instruction": "Questions 1–6 Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+      "items": [
+        {
+          "question_id": "q1",
+          "number": 1,
+          "prompt_html": "All of the baobab species found on Madagascar are unique to the island."
+        },
+        {
+          "question_id": "q2",
+          "number": 2,
+          "prompt_html": "Adanson and Grandidier were the first foreign botanists to visit Madagascar."
+        },
+        {
+          "question_id": "q3",
+          "number": 3,
+          "prompt_html": "The baobab can be found in most areas of Madagascar."
+        },
+        {
+          "question_id": "q4",
+          "number": 4,
+          "prompt_html": "The landscape around the Avenue des Baobabs is the result of agricultural development."
+        },
+        {
+          "question_id": "q5",
+          "number": 5,
+          "prompt_html": "The baobab provides useful products for the local people."
+        },
+        {
+          "question_id": "q6",
+          "number": 6,
+          "prompt_html": "There is general agreement about the reasons for baobabs falling down."
+        }
+      ],
+      "options": [
+        {
+          "label": "TRUE",
+          "text": "if the statement agrees with the information"
+        },
+        {
+          "label": "FALSE",
+          "text": "if the statement contradicts the information"
+        },
+        {
+          "label": "NOT GIVEN",
+          "text": "if there is no information on this"
+        }
+      ],
+      "prompt_html": "<p>Choose <strong>TRUE</strong> if the statement agrees with the information given in the text, choose <strong>FALSE</strong> if the statement contradicts the information, or choose <strong>NOT GIVEN</strong> if there is no information on this.</p><p><strong>1 All of the baobab species found on Madagascar are unique to the island.</strong></p><p><strong>2 Adanson and Grandidier were the first foreign botanists to visit Madagascar.</strong></p><p><strong>3 The baobab can be found in most areas of Madagascar.</strong></p><p><strong>4 The landscape around the Avenue des Baobabs is the result of agricultural development.</strong></p><p><strong>5 The baobab provides useful products for the local people.</strong></p><p><strong>6 There is general agreement about the reasons for baobabs falling down.</strong></p>"
+    },
+    {
+      "group_id": "vol_09_t1_rd_p1_g2",
+      "passage_id": "p1",
+      "question_range": [
+        7,
+        13
+      ],
+      "question_type": "note_completion",
+      "skill_tags": [
+        "rd_comp_notes"
+      ],
+      "instruction": "Questions 7–13 Complete the notes below. Write ONE WORD ONLY from the passage for each answer. Baobabs under threat Reasons why Madagascar's baobabs are declining in number:",
+      "items": [
+        {
+          "question_id": "q7",
+          "number": 7,
+          "prompt_html": "Question 7"
+        },
+        {
+          "question_id": "q8",
+          "number": 8,
+          "prompt_html": "Question 8"
+        },
+        {
+          "question_id": "q9",
+          "number": 9,
+          "prompt_html": "Question 9"
+        },
+        {
+          "question_id": "q10",
+          "number": 10,
+          "prompt_html": "Question 10"
+        },
+        {
+          "question_id": "q11",
+          "number": 11,
+          "prompt_html": "Question 11"
+        },
+        {
+          "question_id": "q12",
+          "number": 12,
+          "prompt_html": "Question 12"
+        },
+        {
+          "question_id": "q13",
+          "number": 13,
+          "prompt_html": "Question 13"
+        }
+      ],
+      "prompt_html": "<p>Complete the notes below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p><strong>Baobabs under threat</strong></p><p>Reasons why Madagascar&#x27;s baobabs are declining in number:</p><p>•    Morondava area</p><p>-     trees may be falling down because of &lt;blank data-qid=&quot;q7&quot;/&gt;  from nearby fields</p><p>-     lone trees are at risk from &lt;blank data-qid=&quot;q8&quot;/&gt;</p><p>•    Forest areas</p><p>-    land clearance: mainly by burning carried out to create space for &lt;blank data-qid=&quot;q9&quot;/&gt; activity</p><p>-     practice of &lt;blank data-qid=&quot;q10&quot;/&gt; makes seed germination difficult</p><p>-     disappearance of certain &lt;blank data-qid=&quot;q11&quot;/&gt; which dispersed baobab seeds</p><p>Jim Bond’s efforts to record information about the baobab:</p><p>-     making &lt;blank data-qid=&quot;q12&quot;/&gt; of areas of relatively undamaged baobab forest</p><p>-     producing a &lt;blank data-qid=&quot;q13&quot;/&gt; showing importance of baobab in local culture</p>"
+    },
+    {
+      "group_id": "vol_09_t1_rd_p2_g1",
+      "passage_id": "p2",
+      "question_range": [
+        14,
+        20
+      ],
+      "question_type": "matching_headings",
+      "skill_tags": [
+        "rd_match_headings",
+        "rd_main_idea"
+      ],
+      "instruction": "Questions 14–20 Reading Passage 2 has seven paragraphs. Choose the correct heading for each paragraph from the list of headings below. List of Headings i Training coin makers",
+      "items": [
+        {
+          "question_id": "q14",
+          "number": 14,
+          "prompt_html": "Paragraph A"
+        },
+        {
+          "question_id": "q15",
+          "number": 15,
+          "prompt_html": "Paragraph B"
+        },
+        {
+          "question_id": "q16",
+          "number": 16,
+          "prompt_html": "Paragraph C"
+        },
+        {
+          "question_id": "q17",
+          "number": 17,
+          "prompt_html": "Paragraph D"
+        },
+        {
+          "question_id": "q18",
+          "number": 18,
+          "prompt_html": "Paragraph E"
+        },
+        {
+          "question_id": "q19",
+          "number": 19,
+          "prompt_html": "Paragraph F"
+        },
+        {
+          "question_id": "q20",
+          "number": 20,
+          "prompt_html": "Paragraph G"
+        }
+      ],
+      "options": [
+        {
+          "label": "i",
+          "text": "Training coin makers"
+        },
+        {
+          "label": "ii",
+          "text": "A form of regional promotion"
+        },
+        {
+          "label": "iii",
+          "text": "More gold than silver in Greece"
+        },
+        {
+          "label": "iv",
+          "text": "Calculating what a coin was worth"
+        },
+        {
+          "label": "v",
+          "text": "A simpler, more efficient way of trading"
+        },
+        {
+          "label": "vi",
+          "text": "Putting a face to famous historical names"
+        },
+        {
+          "label": "vii",
+          "text": "An uncertain future"
+        },
+        {
+          "label": "viii",
+          "text": "Careless workmanship caused breakages"
+        },
+        {
+          "label": "ix",
+          "text": "Unchanging coins signalled trustworthiness"
+        },
+        {
+          "label": "x",
+          "text": "Reading the writing on coins"
+        },
+        {
+          "label": "xi",
+          "text": "Significant records of past societies"
+        }
+      ],
+      "prompt_html": "<p>Reading Passage 2 has seven paragraphs.</p><p>Choose the correct heading for each paragraph from the list of headings below.</p><p><strong>List of Headings</strong></p><p><strong>i  Training coin makers</strong></p><p><strong>ii  A form of regional promotion</strong></p><p><strong>iii  More gold than silver in Greece</strong></p><p><strong>iv  Calculating what a coin was worth</strong></p><p><strong>v  A simpler, more efficient way of trading</strong></p><p><strong>vi  Putting a face to famous historical names</strong></p><p><strong>vii  An uncertain future</strong></p><p><strong>viii  Careless workmanship caused breakages</strong></p><p><strong>ix  Unchanging coins signalled trustworthiness</strong></p><p><strong>x  Reading the writing on coins</strong></p><p><strong>xi  Significant records of past societies</strong></p>"
+    },
+    {
+      "group_id": "vol_09_t1_rd_p2_g2",
+      "passage_id": "p2",
+      "question_range": [
+        21,
+        22
+      ],
+      "question_type": "mcq_multi",
+      "skill_tags": [
+        "rd_mcq_multi",
+        "rd_detail"
+      ],
+      "instruction": "Questions 21–22 Choose TWO correct answers.",
+      "items": [
+        {
+          "question_id": "q21",
+          "number": 21,
+          "prompt_html": "Selected answer 1"
+        },
+        {
+          "question_id": "q22",
+          "number": 22,
+          "prompt_html": "Selected answer 2"
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "There is no record of the names of the coin makers."
+        },
+        {
+          "label": "B",
+          "text": "Coins were not popular as payment for traded objects."
+        },
+        {
+          "label": "C",
+          "text": "Coins with the same design often looked quite different."
+        },
+        {
+          "label": "D",
+          "text": "Greek coins were more beautiful in design than Roman coins."
+        },
+        {
+          "label": "E",
+          "text": "At times, too many coins were produced in Greece."
+        }
+      ],
+      "prompt_html": "<p>Choose <strong>TWO</strong> correct answers.</p><p><strong>21-22 Which TWO of these comments about ancient coins are made by the writer of the text?</strong></p><p>A There is no record of the names of the coin makers.</p><p>B Coins were not popular as payment for traded objects.</p><p>C Coins with the same design often looked quite different.</p><p>D Greek coins were more beautiful in design than Roman coins.</p><p>E At times, too many coins were produced in Greece.</p>",
+      "selection_group": {
+        "selection_group_id": "rd_q21_22",
+        "question_ids": [
+          "q21",
+          "q22"
+        ],
+        "max_select": 2,
+        "order_matters": false
+      }
+    },
+    {
+      "group_id": "vol_09_t1_rd_p2_g3",
+      "passage_id": "p2",
+      "question_range": [
+        23,
+        26
+      ],
+      "question_type": "summary_completion",
+      "skill_tags": [
+        "rd_comp_summary"
+      ],
+      "instruction": "Questions 23–26 Complete the summary below. Write ONE WORD ONLY from the passage for each answer. Greek traders and coins The ancient Greek 23 ……… was made up of many city-states which were spread over a large area. Many Greeks were seafarers who travelled the seas trading. Before coins, they had to do this through 24 ……….. . This meant that, whenever they set out, they had to carry a lot of goods, which could get damaged on the voyages. The Greeks liked coins; they were made of metal, and the weather and sea had little effect on them. The Greeks had a plentiful supply of 25 ……….. which they mined themselves, but were able to avoid the problem of 26 ………. which the Spanish encountered much later, after they allowed too much gold from the New World to enter their economy.",
+      "items": [
+        {
+          "question_id": "q23",
+          "number": 23,
+          "prompt_html": "Question 23"
+        },
+        {
+          "question_id": "q24",
+          "number": 24,
+          "prompt_html": "Question 24"
+        },
+        {
+          "question_id": "q25",
+          "number": 25,
+          "prompt_html": "Question 25"
+        },
+        {
+          "question_id": "q26",
+          "number": 26,
+          "prompt_html": "Question 26"
+        }
+      ],
+      "prompt_html": "<p>Complete the summary below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p><strong>Greek traders and coins</strong></p><p>The ancient Greek &lt;blank data-qid=&quot;q23&quot;/&gt; was made up of many city-states which were spread over a large area. Many Greeks were seafarers who travelled the seas trading. Before coins, they had to do this through  &lt;blank data-qid=&quot;q24&quot;/&gt; . This meant that, whenever they set out, they had to carry a lot of goods, which could get damaged on the voyages. The Greeks liked coins; they were made of metal, and the weather and sea had little effect on them. The Greeks had a plentiful supply of &lt;blank data-qid=&quot;q25&quot;/&gt;     which they mined themselves, but were able to avoid the problem of &lt;blank data-qid=&quot;q26&quot;/&gt;  which the Spanish encountered much later, after they allowed too much gold from the New World to enter their economy.</p>"
+    },
+    {
+      "group_id": "vol_09_t1_rd_p3_g1",
+      "passage_id": "p3",
+      "question_range": [
+        27,
+        33
+      ],
+      "question_type": "matching_information",
+      "skill_tags": [
+        "rd_match_information",
+        "rd_scanning"
+      ],
+      "instruction": "Questions 27–33 Reading Passage 3 has nine paragraphs, A-I. Which paragraph contains the following information? Choose the correct letter, A-I , in boxes 27-33 . NB You may use any letter more than once.",
+      "items": [
+        {
+          "question_id": "q27",
+          "number": 27,
+          "prompt_html": "details of an experiment in taste comparison"
+        },
+        {
+          "question_id": "q28",
+          "number": 28,
+          "prompt_html": "examples of medications that could be improved using compounds that remove bitterness"
+        },
+        {
+          "question_id": "q29",
+          "number": 29,
+          "prompt_html": "a biological reason why some people don&#x27;t like bitter-tasting foods"
+        },
+        {
+          "question_id": "q30",
+          "number": 30,
+          "prompt_html": "an explanation of how the taste process works"
+        },
+        {
+          "question_id": "q31",
+          "number": 31,
+          "prompt_html": "why bitterness is more interesting commercially than other tastes"
+        },
+        {
+          "question_id": "q32",
+          "number": 32,
+          "prompt_html": "an example of how compounds that remove bitterness could indirectly benefit health"
+        },
+        {
+          "question_id": "q33",
+          "number": 33,
+          "prompt_html": "a reason why people have different taste preferences from animals"
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Paragraph A"
+        },
+        {
+          "label": "B",
+          "text": "Paragraph B"
+        },
+        {
+          "label": "C",
+          "text": "Paragraph C"
+        },
+        {
+          "label": "D",
+          "text": "Paragraph D"
+        },
+        {
+          "label": "E",
+          "text": "Paragraph E"
+        },
+        {
+          "label": "F",
+          "text": "Paragraph F"
+        },
+        {
+          "label": "G",
+          "text": "Paragraph G"
+        },
+        {
+          "label": "H",
+          "text": "Paragraph H"
+        },
+        {
+          "label": "I",
+          "text": "Paragraph I"
+        }
+      ],
+      "prompt_html": "<p>Reading Passage 3 has nine paragraphs, A-I.</p><p><em>Which paragraph contains the following information?</em></p><p>Choose the correct letter, <strong>A-I</strong> , in boxes <strong>27-33</strong> .</p><p><strong><em>NB  You may use any letter more than once.</strong></em></p><table><thead><tr><th></th><th><strong>A</strong></th><th><strong>B</strong></th><th><strong>C</strong></th><th><strong>D</strong></th><th><strong>E</strong></th><th><strong>F</strong></th><th><strong>G</strong></th><th><strong>H</strong></th><th><strong>I</strong></th></tr></thead><tbody><tr><td><strong>27 details of an experiment in taste comparison</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>28 examples of medications that could be improved using compounds that remove bitterness</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>29 a biological reason why some people don&#x27;t like bitter-tasting foods</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>30 an explanation of how the taste process works</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>31 why bitterness is more interesting commercially than other tastes</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>32 an example of how compounds that remove bitterness could indirectly benefit health</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>33 a reason why people have different taste preferences from animals</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>"
+    },
+    {
+      "group_id": "vol_09_t1_rd_p3_g2",
+      "passage_id": "p3",
+      "question_range": [
+        34,
+        38
+      ],
+      "question_type": "sentence_completion",
+      "skill_tags": [
+        "rd_comp_sentence"
+      ],
+      "instruction": "Questions 34–38 Complete the sentences below. Write NO MORE THAN TWO WORDS from the passage for each answer. The grapefruit used to make drinks is chosen because it contains a smaller amount of a substance called 34 ………… Animals associate a bitter taste with 35 ………… plants.",
+      "items": [
+        {
+          "question_id": "q34",
+          "number": 34,
+          "prompt_html": "Question 34"
+        },
+        {
+          "question_id": "q35",
+          "number": 35,
+          "prompt_html": "Question 35"
+        },
+        {
+          "question_id": "q36",
+          "number": 36,
+          "prompt_html": "Question 36"
+        },
+        {
+          "question_id": "q37",
+          "number": 37,
+          "prompt_html": "Question 37"
+        },
+        {
+          "question_id": "q38",
+          "number": 38,
+          "prompt_html": "Question 38"
+        }
+      ],
+      "prompt_html": "<p>Complete the sentences below.</p><p>Write <strong>NO MORE THAN TWO WORDS</strong> from the passage for each answer.</p><p>The grapefruit used to make drinks is chosen because it contains a smaller amount of a substance called &lt;blank data-qid=&quot;q34&quot;/&gt;</p><p>Animals associate a bitter taste with &lt;blank data-qid=&quot;q35&quot;/&gt; plants.</p><p>Our varying degree of sensitivity to bitter tastes is thought to be  &lt;blank data-qid=&quot;q36&quot;/&gt;</p><p>People who are extremely aware of bitter tastes are called &lt;blank data-qid=&quot;q37&quot;/&gt;</p><p>Receptors inside the &lt;blank data-qid=&quot;q38&quot;/&gt;  on the tongue detect the taste of food and drink.</p>"
+    },
+    {
+      "group_id": "vol_09_t1_rd_p3_g3",
+      "passage_id": "p3",
+      "question_range": [
+        39,
+        40
+      ],
+      "question_type": "mcq_single",
+      "skill_tags": [
+        "rd_mcq_single",
+        "rd_detail"
+      ],
+      "instruction": "Questions 39–40 Choose the correct answer.",
+      "items": [
+        {
+          "question_id": "q39",
+          "number": 39,
+          "prompt_html": "The G protein identified by Robert Margolskee",
+          "options": [
+            {
+              "label": "A",
+              "text": "is responsible for transmitting bitter tastes."
+            },
+            {
+              "label": "B",
+              "text": "causes dangerous reactions in the cells of the tongue."
+            },
+            {
+              "label": "C",
+              "text": "has a similar function to sight and smell receptors."
+            },
+            {
+              "label": "D",
+              "text": "can be found only in sweetness and umami."
+            }
+          ]
+        },
+        {
+          "question_id": "q40",
+          "number": 40,
+          "prompt_html": "AMP is an organic compound which is",
+          "options": [
+            {
+              "label": "A",
+              "text": "found only in breast milk."
+            },
+            {
+              "label": "B",
+              "text": "bitter-tasting when added to food"
+            },
+            {
+              "label": "C",
+              "text": "able to reduce some bitter tastes"
+            },
+            {
+              "label": "D",
+              "text": "found in bitter taste receptors"
+            }
+          ]
+        }
+      ],
+      "prompt_html": "<p>Choose the correct answer.</p><p><strong>39 The G protein identified by Robert Margolskee</strong></p><p>B A is responsible for transmitting bitter tastes.</p><p>C causes dangerous reactions in the cells of the tongue.</p><p>D has a similar function to sight and smell receptors.</p><p>E can be found only in sweetness and umami.</p><p><strong>40 AMP is an organic compound which is</strong></p><p>A found only in breast milk.</p><p>B bitter-tasting when added to food</p><p>C able to reduce some bitter tastes</p><p>D found in bitter taste receptors</p>"
+    }
+  ]
+}
