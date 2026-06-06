@@ -21,6 +21,7 @@ const state = {
   
   // Answers: map of qid -> string or array
   answers: {},
+  reviews: {},
   
   // Graded results
   gradedResult: null,
@@ -207,81 +208,106 @@ function renderQuestions() {
   const container = document.getElementById('questionsContainer');
   container.innerHTML = '';
   
-  state.questions.parts.forEach(part => {
-    part.groups.forEach(group => {
-      const card = document.createElement('div');
-      card.className = 'question-group-card';
-      
-      let html = `<h3>Questions ${group.start_question} - ${group.end_question}</h3>`;
-      if (group.instructions) {
-        html += `<div class="instruction-box">${group.instructions}</div>`;
-      }
-      if (group.prompt) {
-        html += `<div class="prompt-box">${group.prompt}</div>`;
-      }
-      
-      const groupBody = document.createElement('div');
-      groupBody.innerHTML = html;
-      
-      // Render specific question types
-      group.questions.forEach(q => {
+  if (!state.questions.question_groups) {
+    console.error('No question_groups found in state.questions');
+    return;
+  }
+  
+  state.questions.question_groups.forEach(group => {
+    const card = document.createElement('div');
+    card.className = 'question-group-card';
+    
+    let html = `<h3>Questions ${group.question_range ? group.question_range.join(' - ') : ''}</h3>`;
+    if (group.instruction) {
+      html += `<div class="instruction-box">${group.instruction}</div>`;
+    }
+    
+    // Process <blank> tags in prompt_html
+    if (group.prompt_html) {
+      let processedPrompt = group.prompt_html;
+      // Handle escaped and unescaped blank tags
+      processedPrompt = processedPrompt.replace(/&lt;blank data-qid=&quot;([^&"]+)&quot;\/?&gt;/g, '<input type="text" class="blank-input input-element" data-qid="$1" onkeyup="saveAnswer(\'$1\', this.value)">');
+      processedPrompt = processedPrompt.replace(/<blank data-qid="([^"]+)"\s*\/>/g, '<input type="text" class="blank-input input-element" data-qid="$1" onkeyup="saveAnswer(\'$1\', this.value)">');
+      html += `<div class="prompt-box">${processedPrompt}</div>`;
+    }
+    
+    const groupBody = document.createElement('div');
+    groupBody.innerHTML = html;
+    
+    // Render specific question types from items
+    if (group.items && group.items.length > 0) {
+      group.items.forEach(q => {
+        const qid = q.question_id || q.id;
         const qDiv = document.createElement('div');
-        qDiv.id = `question-container-${q.id}`;
+        qDiv.id = `question-container-${qid}`;
         qDiv.style.marginBottom = '20px';
+        qDiv.style.padding = '10px';
+        qDiv.style.background = '#f8fafc';
+        qDiv.style.borderRadius = '8px';
         
         let qHtml = `<strong>${q.number}.</strong> `;
         
-        if (q.type === 'tfng' || q.type === 'yes_no_not_given') {
-          qHtml += `${q.text} <br><select class="matching-select input-element" data-qid="${q.id}" onchange="saveAnswer('${q.id}', this.value)">
-            <option value="">-- Select --</option>
-            <option value="TRUE">TRUE</option>
-            <option value="FALSE">FALSE</option>
-            <option value="NOT GIVEN">NOT GIVEN</option>
-            <option value="YES">YES</option>
-            <option value="NO">NO</option>
-          </select>`;
+        // If it's a completion type, the blank is usually in prompt_html, so we don't need to render much here,
+        // EXCEPT if the item itself has a prompt_html that needs a blank.
+        let itemText = q.prompt_html || q.text || '';
+        itemText = itemText.replace(/&lt;blank data-qid=&quot;([^&"]+)&quot;\/?&gt;/g, '<input type="text" class="blank-input input-element" data-qid="$1" onkeyup="saveAnswer(\'$1\', this.value)">');
+        itemText = itemText.replace(/<blank data-qid="([^"]+)"\s*\/>/g, '<input type="text" class="blank-input input-element" data-qid="$1" onkeyup="saveAnswer(\'$1\', this.value)">');
+        
+        const qType = group.question_type || q.type || '';
+        
+        if (qType.includes('tfng') || qType.includes('ynng') || qType === 'yes_no_not_given') {
+          qHtml += `${itemText} <br><div style="margin-top: 8px;">
+            <label class="mcq-option"><input type="radio" name="q_${qid}" value="${qType.includes('tfng') ? 'TRUE' : 'YES'}" class="input-element" onchange="saveAnswer('${qid}', this.value)"> <span>${qType.includes('tfng') ? 'TRUE' : 'YES'}</span></label>
+            <label class="mcq-option"><input type="radio" name="q_${qid}" value="${qType.includes('tfng') ? 'FALSE' : 'NO'}" class="input-element" onchange="saveAnswer('${qid}', this.value)"> <span>${qType.includes('tfng') ? 'FALSE' : 'NO'}</span></label>
+            <label class="mcq-option"><input type="radio" name="q_${qid}" value="NOT GIVEN" class="input-element" onchange="saveAnswer('${qid}', this.value)"> <span>NOT GIVEN</span></label>
+          </div>`;
         } 
-        else if (q.type === 'matching_headings' || q.type === 'matching_features' || q.type === 'matching_information') {
+        else if (qType.includes('matching')) {
           let optionsHtml = '<option value="">-- Select --</option>';
-          group.choices.forEach(c => {
-             optionsHtml += `<option value="${c.label}">${c.label} - ${c.text.substring(0,20)}...</option>`;
+          const opts = group.options || group.choices || [];
+          opts.forEach(c => {
+             optionsHtml += `<option value="${c.label}">${c.label} - ${c.text.substring(0,30)}...</option>`;
           });
-          qHtml += `${q.text} <br><select class="matching-select input-element" data-qid="${q.id}" onchange="saveAnswer('${q.id}', this.value)">${optionsHtml}</select>`;
+          qHtml += `${itemText} <br><select style="margin-top: 8px;" class="matching-select input-element" data-qid="${qid}" onchange="saveAnswer('${qid}', this.value)">${optionsHtml}</select>`;
         }
-        else if (q.type === 'multiple_choice' || q.type === 'mcq_single') {
-          qHtml += `${q.text}<div style="margin-top: 10px;">`;
-          q.options.forEach(opt => {
-            qHtml += `<label class="mcq-option" id="opt-${q.id}-${opt.label}">
-              <input type="radio" name="q_${q.id}" value="${opt.label}" class="input-element" onchange="saveAnswer('${q.id}', this.value)">
+        else if (qType.includes('mcq')) {
+          qHtml += `${itemText}<div style="margin-top: 10px;">`;
+          const opts = q.options || group.options || [];
+          opts.forEach(opt => {
+            qHtml += `<label class="mcq-option" id="opt-${qid}-${opt.label}">
+              <input type="${qType.includes('multi') ? 'checkbox' : 'radio'}" name="q_${qid}" value="${opt.label}" class="input-element" onchange="saveAnswer('${qid}', this.value)">
               <span><strong>${opt.label}</strong>. ${opt.text}</span>
             </label>`;
           });
           qHtml += `</div>`;
         }
-        else if (q.type === 'completion') {
-           // Replace [BLANK] with input
-           let text = q.text.replace(/\[BLANK\]/g, `<input type="text" class="blank-input input-element" data-qid="${q.id}" onkeyup="saveAnswer('${q.id}', this.value)">`);
-           qHtml += text;
+        else if (qType.includes('completion') || qType.includes('short_answer')) {
+           // For completion, if there is item text without blanks, we can append an input box
+           if (!itemText.includes('<input')) {
+             qHtml += `${itemText} <br><input type="text" style="margin-top: 8px;" class="blank-input input-element" data-qid="${qid}" onkeyup="saveAnswer('${qid}', this.value)">`;
+           } else {
+             qHtml += itemText;
+           }
         }
         else {
            // fallback text input
-           qHtml += `${q.text} <br><input type="text" class="blank-input input-element" data-qid="${q.id}" onkeyup="saveAnswer('${q.id}', this.value)">`;
+           qHtml += `${itemText} <br><input type="text" style="margin-top: 8px;" class="blank-input input-element" data-qid="${qid}" onkeyup="saveAnswer('${qid}', this.value)">`;
         }
         
         qDiv.innerHTML = qHtml;
         
         // Add Explanation Container (Hidden initially)
         const expDiv = document.createElement('div');
-        expDiv.id = `explanation-${q.id}`;
+        expDiv.id = `explanation-${qid}`;
         expDiv.style.display = 'none';
         qDiv.appendChild(expDiv);
         
         groupBody.appendChild(qDiv);
       });
-      
-      card.appendChild(groupBody);
-      container.appendChild(card);
-    });
+    }
+    
+    card.appendChild(groupBody);
+    container.appendChild(card);
   });
   
   // Add submit confirm button
@@ -305,33 +331,38 @@ function setupNavigation() {
   nav.innerHTML = '';
   
   let qNum = 1;
-  state.questions.parts.forEach(part => {
-    part.groups.forEach(group => {
-      group.questions.forEach(q => {
+  if (!state.questions.question_groups) return;
+  state.questions.question_groups.forEach(group => {
+    if (group.items) {
+      group.items.forEach(q => {
+        const qid = q.question_id || q.id;
         const dot = document.createElement('div');
         dot.className = 'nav-dot';
         dot.textContent = q.number || qNum++;
-        dot.id = `nav-dot-${q.id}`;
+        dot.id = `nav-dot-${qid}`;
         dot.onclick = () => {
-          document.getElementById(`question-container-${q.id}`).scrollIntoView({behavior: 'smooth', block: 'center'});
+          // Toggle review state
+          state.reviews[qid] = !state.reviews[qid];
+          updateNavDots();
+          const el = document.getElementById(`question-container-${qid}`);
+          if (el) el.scrollIntoView({behavior: 'smooth', block: 'center'});
         };
         nav.appendChild(dot);
       });
-    });
+    }
   });
 }
 
 function updateNavDots() {
-  for (let qid in state.answers) {
-    const dot = document.getElementById(`nav-dot-${qid}`);
-    if (dot) {
-      if (state.answers[qid] && state.answers[qid].length > 0) {
-        dot.classList.add('answered');
-      } else {
-        dot.classList.remove('answered');
-      }
+  document.querySelectorAll('.nav-dot').forEach(dot => {
+    const qid = dot.id.replace('nav-dot-', '');
+    dot.className = 'nav-dot'; // Reset classes
+    if (state.reviews[qid]) {
+      dot.classList.add('review');
+    } else if (state.answers[qid] && state.answers[qid].length > 0) {
+      dot.classList.add('answered');
     }
-  }
+  });
 }
 
 // --- Timer ---
@@ -407,10 +438,17 @@ function checkUnanswered() {
   let total = 0;
   let answered = 0;
   
-  state.questions.parts.forEach(p => p.groups.forEach(g => g.questions.forEach(q => {
-    total++;
-    if (state.answers[q.id] && state.answers[q.id].trim() !== '') answered++;
-  })));
+  if (state.questions.question_groups) {
+    state.questions.question_groups.forEach(g => {
+      if (g.items) {
+        g.items.forEach(q => {
+          const qid = q.question_id || q.id;
+          total++;
+          if (state.answers[qid] && state.answers[qid].trim() !== '') answered++;
+        });
+      }
+    });
+  }
   
   const un = total - answered;
   if (un > 0) {
@@ -584,9 +622,11 @@ function setupResizer() {
 
   resizer.addEventListener('mousedown', (e) => {
     isResizing = true;
+    document.body.style.userSelect = 'none';
     document.addEventListener('mousemove', handleMouseMove);
     document.addEventListener('mouseup', () => {
       isResizing = false;
+      document.body.style.userSelect = '';
       document.removeEventListener('mousemove', handleMouseMove);
     }, { once: true });
   });
@@ -597,8 +637,8 @@ function setupResizer() {
     // Don't let it go too far left or right
     if (e.clientX > 300 && e.clientX < containerWidth - 300) {
       const leftWidth = (e.clientX / containerWidth) * 100;
-      leftSide.style.width = `${leftWidth}%`;
-      rightSide.style.width = `${100 - leftWidth}%`;
+      leftSide.style.flex = `0 0 ${leftWidth}%`;
+      rightSide.style.flex = `0 0 ${100 - leftWidth}%`;
     }
   }
 }

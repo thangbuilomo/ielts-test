@@ -386,18 +386,21 @@ select.matching-select.incorrect {
 }
 
 .feature-intro-list li {
-  display: flex;
-  align-items: flex-start;
-  gap: 12px;
+  position: relative;
+  padding-left: 20px;
   margin-bottom: 14px;
   font-size: 0.95rem;
   color: var(--text-main);
+  line-height: 1.5;
 }
 
 .feature-intro-list li::before {
   content: "✦";
   color: var(--accent-color);
   font-weight: bold;
+  position: absolute;
+  left: 0;
+  top: 0;
 }
 
 .start-test-btn {
