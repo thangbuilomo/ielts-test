@@ -6,8 +6,8 @@
   <title>Listening Mock Test - Saola</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="../assets/css/test-engine.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/test-engine.css?v=20260607-1">
 </head>
 <body class="test-engine-theme">
 
@@ -41,25 +41,23 @@
   <!-- Header -->
   <header class="test-header">
     <div class="header-left">
+      <a class="saola-logo" href="../" title="Back to Mock Test">Saola</a>
       <h2 id="headerTestTitle">Listening Test</h2>
       <p id="studentNameDisplay">Guest</p>
     </div>
     <div class="header-right">
+      <button class="help-icon-btn" id="openHelpBtn" type="button" title="Help">?</button>
+      <div class="audio-player-container header-audio time-only">
+        <button class="play-pause-btn" id="audioPlayBtn">â–¶</button>
+        <div class="audio-progress-bar">
+          <div class="audio-progress-fill" id="audioProgressFill"></div>
+        </div>
+        <div id="audioTimeDisplay" style="font-size: 0.85rem; font-family: monospace;">00:00 / 00:00</div>
+      </div>
       <div class="timer-box" id="timerDisplay">Wait...</div>
       <button class="submit-btn" id="headerSubmitBtn">Nộp Bài</button>
     </div>
   </header>
-
-  <!-- Audio Bar -->
-  <div class="audio-bar">
-    <div class="audio-player-container">
-      <button class="play-pause-btn" id="audioPlayBtn">▶</button>
-      <div class="audio-progress-bar">
-        <div class="audio-progress-fill" id="audioProgressFill"></div>
-      </div>
-      <div id="audioTimeDisplay" style="font-size: 0.85rem; font-family: monospace;">00:00 / 00:00</div>
-    </div>
-  </div>
 
   <!-- Main Layout -->
   <div class="split-container" id="splitContainer">
@@ -119,6 +117,6 @@
     </div>
   </div>
 
-  <script src="test-runner.js"></script>
+  <script src="test-runner.js?v=20260607-1"></script>
 </body>
 </html>

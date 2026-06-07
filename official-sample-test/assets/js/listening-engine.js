@@ -467,9 +467,6 @@ function submitTest() {
           <div class="review-answer-key">Câu ${item.number}: Đáp án đúng: "${correctAnswers}"</div>
           <div style="font-size: 0.9rem; margin-top: 4px;">Câu trả lời của bạn: "${uAns}"</div>
           
-          <div class="review-meta">
-            <span>Skill Tag: <code>${review.skill_tag || 'N/A'}</code></span>
-          </div>
           ${review.explanation ? `<div class="explanation-text"><strong>Giải thích:</strong> ${review.explanation}</div>` : ''}
           ${review.evidence ? `<div class="evidence-text"><strong>Minh chứng (Evidence):</strong> "${review.evidence}"</div>` : ''}
           ${review.pitfall ? `<div class="pitfall-text"><strong>Bẫy cần tránh (Pitfall):</strong> ${review.pitfall}</div>` : ''}

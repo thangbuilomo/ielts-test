@@ -16,8 +16,8 @@
         "ls_comp_form",
         "ls_detail"
       ],
-      "instruction": "Write **ONE WORD AND/OR A NUMBER** for each answer.",
-      "prompt_html": "<p><strong>Questions 1–10</strong> Complete the form below.<br/>Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.</p><p>Weekend Course Booking</p><p>Booking for: a guitar workshop<br/>Start date: <strong>1</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Course code: <strong>2</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Previous course attended: Editing <strong>3</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Name: Nick <strong>4</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Address: 27 Hawthorn <strong>5</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Bristol, BS4 2QG<br/>Contact number: 07707 438 297<br/>Age: 26<br/>Occupation: <strong>6</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Dietary requests: no <strong>7</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>One-to-one lesson selected: <strong>8</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ guitar<br/>First heard about us from: a <strong>9</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Additional request: would like <strong>10</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ if possible</p>",
+      "instruction": "Complete the form below.<br/>Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.",
+      "prompt_html": "<p><strong>Questions 1–10</strong></p><p>Complete the form below.<br/>Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.</p><p>Weekend Course Booking</p><p>Booking for: a guitar workshop<br/>Start date: <strong>1</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Course code: <strong>2</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Previous course attended: Editing <strong>3</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Name: Nick <strong>4</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Address: 27 Hawthorn <strong>5</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Bristol, BS4 2QG<br/>Contact number: 07707 438 297<br/>Age: 26<br/>Occupation: <strong>6</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Dietary requests: no <strong>7</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>One-to-one lesson selected: <strong>8</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ guitar<br/>First heard about us from: a <strong>9</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Additional request: would like <strong>10</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ if possible</p>",
       "items": [
         {
           "question_id": "q1",
@@ -93,8 +93,8 @@
         "ls_matching",
         "ls_detail"
       ],
-      "instruction": "",
-      "prompt_html": "<p><strong>Questions 11–15</strong> <em>What is the main attraction in each of the following areas of the festival?</em> Choose <strong>FIVE</strong> correct answers, <strong>A-G</strong> , next to questions <strong>11-15</strong> .</p><p><strong>Attractions</strong></p><p>A talks about gardening</p><p>B live music</p><p>C an art exhibition</p><p>D a children's playground</p><p>E evening entertainment</p><p>F a competition for adults</p><p>G vegetable market</p><p><strong>Areas of the festival</strong> Bridge Street <strong>11</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>King's Park <strong>12</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Oakvale School <strong>13</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Green Road <strong>14</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Sun Lane <strong>15</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+      "instruction": "What is the main attraction in each of the following areas of the festival?<br/>Choose the correct answer from the box.",
+      "prompt_html": "<p><strong>Questions 11–15</strong></p><p>What is the main attraction in each of the following areas of the festival?<br/>Choose the correct answer from the box.</p><p><strong>Attractions</strong></p><p>A talks about gardening</p><p>B live music</p><p>C an art exhibition</p><p>D a children's playground</p><p>E evening entertainment</p><p>F a competition for adults</p><p>G vegetable market</p><p><strong>Areas of the festival</strong> Bridge Street <strong>11</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>King's Park <strong>12</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Oakvale School <strong>13</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Green Road <strong>14</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Sun Lane <strong>15</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
       "items": [
         {
           "question_id": "q11",
@@ -170,8 +170,8 @@
         "ls_mcq_single",
         "ls_detail"
       ],
-      "instruction": "Choose the correct answer.",
-      "prompt_html": "<p><strong>Questions 16–20</strong></p><p>Choose the correct answer.</p><p>Denford Festival</p><p><strong>16 What does Sam say about the festival tickets?</strong></p><p>1. They allow you to get into all the festival events.<br/>2. They are more expensive to buy on the day.<br/>3. They have nearly all been sold.</p><p><strong>17 On the last night of the festival, visitors will be able to</strong></p><p>1. take part in a dance.<br/>2. go to a theatre performance.<br/>3. watch some fireworks.</p><p><strong>18 What will be provided for international visitors?</strong></p><p>1. discounts on accommodation.<br/>2. tours of the local area.<br/>3. a guide written in different languages.</p><p><strong>19 What information is given about car park A?</strong></p><p>1. It is bigger than car park B.<br/>2. It is closer to town than car park B.<br/>3. It will close earlier than car park B.</p><p><strong>20 What change have the organisers made to the programme this year?</strong></p><p>1. replacing the programme with an app<br/>2. reducing the number of programmes printed<br/>3. introducing a charge for the programmes</p>",
+      "instruction": "Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>.",
+      "prompt_html": "<p><strong>Questions 16–20</strong></p><p>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>.</p><p>Denford Festival</p><p><strong>16 What does Sam say about the festival tickets?</strong></p><p>1. They allow you to get into all the festival events.<br/>2. They are more expensive to buy on the day.<br/>3. They have nearly all been sold.</p><p><strong>17 On the last night of the festival, visitors will be able to</strong></p><p>1. take part in a dance.<br/>2. go to a theatre performance.<br/>3. watch some fireworks.</p><p><strong>18 What will be provided for international visitors?</strong></p><p>1. discounts on accommodation.<br/>2. tours of the local area.<br/>3. a guide written in different languages.</p><p><strong>19 What information is given about car park A?</strong></p><p>1. It is bigger than car park B.<br/>2. It is closer to town than car park B.<br/>3. It will close earlier than car park B.</p><p><strong>20 What change have the organisers made to the programme this year?</strong></p><p>1. replacing the programme with an app<br/>2. reducing the number of programmes printed<br/>3. introducing a charge for the programmes</p>",
       "items": [
         {
           "question_id": "q16",
@@ -216,8 +216,8 @@
       "skill_tags": [
         "ls_comp_table"
       ],
-      "instruction": "Write **NO MORE THAN TWO WORDS** for each answer.",
-      "prompt_html": "<p><strong>Questions 21–23</strong> Complete the tables below.<br/>Write <strong>NO MORE THAN TWO WORDS</strong> for each answer.</p><p>Action Research Course for Practising Teachers</p><p>Course leader: Alan Cumner<br/>(get his recent book called <strong>'21</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_')<br/>Course objectives: to develop skills in:<br/>●    using different research techniques<br/>●    researching as part of a <strong>22</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>● <strong>23</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ (in a collaborative culture)</p>",
+      "instruction": "Complete the notes below.<br/>Write <strong>NO MORE THAN TWO WORDS</strong> for each answer.",
+      "prompt_html": "<p><strong>Questions 21–23</strong></p><p>Complete the notes below.<br/>Write <strong>NO MORE THAN TWO WORDS</strong> for each answer.</p><p>Action Research Course for Practising Teachers</p><p>Course leader: Alan Cumner<br/>(get his recent book called <strong>'21</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_')<br/>Course objectives: to develop skills in:<br/>●    using different research techniques<br/>●    researching as part of a <strong>22</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>● <strong>23</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ (in a collaborative culture)</p>",
       "items": [
         {
           "question_id": "q21",
@@ -309,8 +309,8 @@
         "ls_mcq_single",
         "ls_detail"
       ],
-      "instruction": "Choose the correct answer.",
-      "prompt_html": "<p><strong>Questions 31–33</strong></p><p>Choose the correct answer.</p><p><strong>31 What impact does Marc Prensky believe that digital technology has had on young people?</strong></p><p>1. It has altered their thinking patterns.<br/>2. It has harmed their physical development.<br/>3. It has limited their brain capacity.</p><p><strong>32 Digital immigrants tend to access computers</strong></p><p>1. using their native language.<br/>2. less efficiently than young people.<br/>3. for less important information.</p><p><strong>33 What example is given of having a 'digital accent'?</strong></p><p>1. having less effective typing skills<br/>2. doing things the old-fashioned way<br/>3. being unable to understand instructions</p>",
+      "instruction": "Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>.",
+      "prompt_html": "<p><strong>Questions 31–33</strong></p><p>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>.</p><p><strong>31 What impact does Marc Prensky believe that digital technology has had on young people?</strong></p><p>1. It has altered their thinking patterns.<br/>2. It has harmed their physical development.<br/>3. It has limited their brain capacity.</p><p><strong>32 Digital immigrants tend to access computers</strong></p><p>1. using their native language.<br/>2. less efficiently than young people.<br/>3. for less important information.</p><p><strong>33 What example is given of having a 'digital accent'?</strong></p><p>1. having less effective typing skills<br/>2. doing things the old-fashioned way<br/>3. being unable to understand instructions</p>",
       "items": [
         {
           "question_id": "q31",
@@ -344,8 +344,8 @@
         "ls_matching",
         "ls_detail"
       ],
-      "instruction": "Which theorist makes each of the following points? Choose the correct letter, **A** , **B** or **C** , next to questions **34-40** .",
-      "prompt_html": "<p><strong>Questions 34–40</strong></p><p>Which theorist makes each of the following points?</p><p>Choose the correct letter, <strong>A</strong> , <strong>B</strong> or <strong>C</strong> , next to questions <strong>34-40</strong> .</p><p>Theorists</p><p><strong>A</strong> Allen</p><p><strong>B</strong> James</p><p><strong>C</strong> Vander</p><p><strong>Points made</strong></p><p><strong>34</strong> Current teaching methods don't work.</p><p><strong>35</strong> Many students don't understand computers.</p><p><strong>36</strong> Computer technology doesn't interest all students.</p><p><strong>37</strong> Students can still learn the traditional way.</p><p><strong>38</strong> Students still need to learn research skills.</p><p><strong>39</strong> We should use computer games to teach.</p><p><strong>40</strong> Computers can't replace educators.</p>",
+      "instruction": "Which theorist makes each of the following points?<br/>Choose the correct group: <strong>A</strong> (Allen), <strong>B</strong> (James) or <strong>C</strong> (Vander). You may choose any group more than once.",
+      "prompt_html": "<p><strong>Questions 34–40</strong></p><p>Which theorist makes each of the following points?<br/>Choose the correct group: <strong>A</strong> (Allen), <strong>B</strong> (James) or <strong>C</strong> (Vander). You may choose any group more than once.</p><p>Theorists</p><p><strong>A</strong> Allen</p><p><strong>B</strong> James</p><p><strong>C</strong> Vander</p><p><strong>Points made</strong></p><p><strong>34</strong> Current teaching methods don't work.</p><p><strong>35</strong> Many students don't understand computers.</p><p><strong>36</strong> Computer technology doesn't interest all students.</p><p><strong>37</strong> Students can still learn the traditional way.</p><p><strong>38</strong> Students still need to learn research skills.</p><p><strong>39</strong> We should use computer games to teach.</p><p><strong>40</strong> Computers can't replace educators.</p>",
       "items": [
         {
           "question_id": "q34",
