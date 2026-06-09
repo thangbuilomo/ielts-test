@@ -1,4 +1,6 @@
 const GAS_URL = 'https://script.google.com/macros/s/AKfycbz6mSuAhOl6yIEfuYYLPUvi4LAjTOTwA0t3ik5MBi515I7twRBsWNLR-2apjRwqQgPbFw/exec';
+const POST_SUBMIT_DB_URL = 'https://raw.githubusercontent.com/thangbuilomo/audio-ielts/main/vault-9/explanation_key_database.json';
+const POST_SUBMIT_RAW_BASE = 'https://raw.githubusercontent.com/thangbuilomo/audio-ielts/main/vault-9';
 
 const state = {
   testId: '',
@@ -54,6 +56,95 @@ async function fetchJson(path) {
     throw new Error(`${path} (${response.status})`);
   }
   return response.json();
+}
+
+async function fetchJsonQuiet(path) {
+  try {
+    return await fetchJson(path);
+  } catch (error) {
+    console.warn(`Unable to load ${path}`, error);
+    return {};
+  }
+}
+
+function normalizeDbId(value) {
+  return String(value || '').trim().toLowerCase().replace(/[\s-]+/g, '_');
+}
+
+function hasAnswerKeyData(feedback) {
+  const root = feedback && feedback.json_key ? feedback.json_key : {};
+  const answerKey = root.answer_key || root;
+  const answerGroups = root.answer_groups || {};
+  return Object.keys(answerKey || {}).some(qid => /^q\d+/i.test(qid)) || Object.keys(answerGroups || {}).length > 0;
+}
+
+async function loadLocalPostSubmitFeedback(basePath) {
+  const [answerKey, explanations, highlights] = await Promise.all([
+    fetchJsonQuiet(basePath + 'answer_key.json'),
+    state.mode === 'student' ? fetchJsonQuiet(basePath + 'explanations.json') : Promise.resolve({}),
+    fetchJsonQuiet(basePath + 'source_annotations.json')
+  ]);
+
+  return {
+    json_key: answerKey,
+    explanation_json: explanations,
+    highlight_json: highlights
+  };
+}
+
+async function loadRemotePostSubmitEntry() {
+  const db = await fetchJsonQuiet(POST_SUBMIT_DB_URL);
+  const rows = Array.isArray(db.rows) ? db.rows : [];
+  const testId = normalizeDbId(backendTestId());
+  const canonicalTestId = normalizeDbId(state.questions && state.questions.test_id);
+  const moduleName = MODULE_NAME.toLowerCase();
+
+  return rows.find(row => {
+    const rowTestId = normalizeDbId(row.test_id);
+    const rowCanonicalId = normalizeDbId(row.canonical_test_id);
+    const rowModule = String(row.module || row.skill || '').trim().toLowerCase();
+    const testMatches = rowTestId === testId || rowCanonicalId === testId || (canonicalTestId && rowCanonicalId === canonicalTestId);
+    const moduleMatches = rowModule === moduleName || rowModule === MODULE_NAME.toLowerCase();
+    return testMatches && moduleMatches;
+  }) || null;
+}
+
+function fallbackRemotePostSubmitUrls() {
+  const moduleSlug = MODULE_NAME.toLowerCase();
+  const testSlug = `test-${testNumber()}`;
+  const baseUrl = `${POST_SUBMIT_RAW_BASE}/${moduleSlug}/${testSlug}`;
+  return {
+    answer_key_url: `${baseUrl}/answer_key.json`,
+    annotated_url: `${baseUrl}/source_annotations.json`,
+    explanations_url: `${baseUrl}/explanations.json`
+  };
+}
+
+async function loadRemotePostSubmitFeedback() {
+  const entry = await loadRemotePostSubmitEntry();
+  const urls = entry || fallbackRemotePostSubmitUrls();
+
+  const [answerKey, highlights, explanations] = await Promise.all([
+    fetchJsonQuiet(urls.answer_key_url),
+    fetchJsonQuiet(urls.annotated_url),
+    state.mode === 'student' ? fetchJsonQuiet(urls.explanations_url) : Promise.resolve({})
+  ]);
+
+  return {
+    json_key: answerKey,
+    explanation_json: explanations,
+    highlight_json: highlights
+  };
+}
+
+async function loadPostSubmitFeedback(basePath) {
+  const localFeedback = await loadLocalPostSubmitFeedback(basePath);
+  if (hasAnswerKeyData(localFeedback)) return localFeedback;
+
+  const remoteFeedback = await loadRemotePostSubmitFeedback();
+  if (hasAnswerKeyData(remoteFeedback)) return remoteFeedback;
+
+  return localFeedback;
 }
 
 function getQuestionGroups() {
@@ -872,21 +963,7 @@ async function submitTest() {
 
   try {
     const basePath = `data/${state.testId}/`;
-    
-    // Fetch local files
-    const [answerKey, explanations, highlights] = await Promise.all([
-      fetchJson(basePath + 'answer_key.json').catch(e => { console.error(e); return {}; }),
-      state.mode === 'student' 
-        ? fetchJson(basePath + 'explanations.json').catch(e => { console.error(e); return {}; })
-        : Promise.resolve({}),
-      fetchJson(basePath + 'source_annotations.json').catch(e => { console.error(e); return {}; })
-    ]);
-
-    const feedback = {
-      json_key: answerKey,
-      explanation_json: explanations,
-      highlight_json: highlights
-    };
+    const feedback = await loadPostSubmitFeedback(basePath);
 
     processFeedbackV2(feedback);
   } catch(e) {
