@@ -25,6 +25,8 @@ const state = {
   answers: {},
   reviews: {},
   selectionGroups: {},
+  activePassageIndex: 0,
+  postSubmitFeedback: null,
 
   // Graded results
   gradedResult: null,
@@ -151,6 +153,41 @@ function getQuestionGroups() {
   return Array.isArray(state.questions && state.questions.question_groups)
     ? state.questions.question_groups
     : [];
+}
+
+function getPassages() {
+  return Array.isArray(state.content && state.content.passages)
+    ? state.content.passages
+    : [];
+}
+
+function getPassageIndexForGroup(group) {
+  const groupPassageId = String(group && group.passage_id || '').trim();
+  const passages = getPassages();
+  if (groupPassageId && passages.length) {
+    const foundIndex = passages.findIndex(passage => passage.passage_id === groupPassageId);
+    if (foundIndex !== -1) return foundIndex;
+  }
+
+  const fallbackMatch = groupPassageId.match(/p(\d+)/i);
+  if (fallbackMatch) return Math.max(0, Number(fallbackMatch[1]) - 1);
+
+  const rangeStart = Array.isArray(group && group.question_range) ? Number(group.question_range[0]) : 0;
+  if (rangeStart >= 1 && rangeStart <= 13) return 0;
+  if (rangeStart >= 14 && rangeStart <= 26) return 1;
+  if (rangeStart >= 27) return 2;
+  return 0;
+}
+
+function getVisibleQuestionGroups() {
+  return getQuestionGroups().filter(group => getPassageIndexForGroup(group) === state.activePassageIndex);
+}
+
+function getPassageIndexForQuestion(qid) {
+  const group = getQuestionGroups().find(candidate => {
+    return (candidate.items || []).some(question => getQuestionId(question) === qid);
+  });
+  return group ? getPassageIndexForGroup(group) : state.activePassageIndex;
 }
 
 function getQuestionId(question) {
@@ -316,8 +353,8 @@ function setupHelpUi() {
 
 function setupPassageFontControls() {
   const leftPanel = document.getElementById('leftPanel');
-  const tabs = document.getElementById('passageTabsContainer');
-  if (!leftPanel || !tabs || document.getElementById('passageToolbar')) return;
+  const content = document.getElementById('passagesContentContainer');
+  if (!leftPanel || !content || document.getElementById('passageToolbar')) return;
 
   let size = 1.04;
   const toolbar = document.createElement('div');
@@ -331,7 +368,7 @@ function setupPassageFontControls() {
       <button class="passage-font-btn" type="button" id="fontLargerBtn" title="Larger text">A+</button>
     </div>
   `;
-  leftPanel.insertBefore(toolbar, tabs);
+  leftPanel.insertBefore(toolbar, content);
 
   const applySize = () => {
     document.documentElement.style.setProperty('--passage-font-size', `${size.toFixed(2)}rem`);
@@ -537,6 +574,8 @@ async function startTest() {
     state.manifest = manifest;
     state.content = content;
     state.questions = questions;
+    state.activePassageIndex = 0;
+    state.postSubmitFeedback = null;
 
     document.getElementById('headerTestTitle').textContent = displayTestTitle();
 
@@ -572,14 +611,15 @@ function renderPassages() {
   tabsContainer.innerHTML = '';
   contentContainer.innerHTML = '';
 
-  const passages = Array.isArray(state.content && state.content.passages)
-    ? state.content.passages
-    : [];
+  const passages = getPassages();
 
   passages.forEach((p, idx) => {
+    const isActive = idx === state.activePassageIndex;
+
     // Tab
     const btn = document.createElement('button');
-    btn.className = `passage-tab-btn ${idx === 0 ? 'active' : ''}`;
+    btn.type = 'button';
+    btn.className = `passage-tab-btn ${isActive ? 'active' : ''}`;
     btn.textContent = `Passage ${idx + 1}`;
     btn.dataset.target = `passage-${idx}`;
     btn.addEventListener('click', () => switchPassage(idx));
@@ -587,7 +627,7 @@ function renderPassages() {
 
     // Content
     const div = document.createElement('div');
-    div.className = `passage-content ${idx === 0 ? 'active' : ''}`;
+    div.className = `passage-content ${isActive ? 'active' : ''}`;
     div.id = `passage-${idx}`;
 
     let html = `<h2>${escapeHtml(p.title || `Passage ${idx + 1}`)}</h2>`;
@@ -614,13 +654,34 @@ function renderPassages() {
   });
 }
 
-function switchPassage(idx) {
+function switchPassage(idx, options = {}) {
+  const passages = getPassages();
+  const maxIndex = Math.max(0, passages.length - 1);
+  const nextIndex = Math.min(Math.max(Number(idx) || 0, 0), maxIndex);
+  state.activePassageIndex = nextIndex;
+
   document.querySelectorAll('.passage-tab-btn').forEach((b, i) => {
-    b.classList.toggle('active', i === idx);
+    b.classList.toggle('active', i === nextIndex);
   });
   document.querySelectorAll('.passage-content').forEach((c, i) => {
-    c.classList.toggle('active', i === idx);
+    c.classList.toggle('active', i === nextIndex);
   });
+
+  renderQuestions();
+  if (state.isSubmitted && state.postSubmitFeedback) {
+    processFeedbackV2(state.postSubmitFeedback);
+  } else {
+    updateNavDots();
+  }
+
+  if (options.scrollQid) {
+    requestAnimationFrame(() => scrollToQuestion(options.scrollQid));
+  } else if (!options.keepScroll) {
+    const rightPanel = document.getElementById('rightPanel');
+    const leftPanel = document.getElementById('leftPanel');
+    if (rightPanel) rightPanel.scrollTop = 0;
+    if (leftPanel) leftPanel.scrollTop = 0;
+  }
 }
 
 // --- Rendering Questions ---
@@ -629,9 +690,9 @@ function renderQuestions() {
   const container = document.getElementById('questionsContainer');
   container.innerHTML = '';
 
-  const groups = getQuestionGroups();
+  const groups = getVisibleQuestionGroups();
   if (!groups.length) {
-    console.error('No question_groups found in state.questions');
+    console.error('No visible question_groups found for active passage');
     return;
   }
 
@@ -738,6 +799,13 @@ function renderQuestions() {
   submitBtn.style.marginTop = '20px';
   submitBtn.onclick = checkUnanswered;
   container.appendChild(submitBtn);
+
+  restoreRenderedAnswers();
+  if (state.isSubmitted) {
+    document.querySelectorAll('#questionsContainer .input-element').forEach(el => {
+      el.disabled = true;
+    });
+  }
 }
 
 function renderSelectionGroup(group, groupBody) {
@@ -801,6 +869,25 @@ function syncAnswerControls(qid, value, sourceEl) {
   });
 }
 
+function restoreRenderedAnswers() {
+  Object.entries(state.answers || {}).forEach(([qid, value]) => {
+    const textValue = answerToString(value);
+    syncAnswerControls(qid, textValue, null);
+    document.querySelectorAll(`input[name="q_${qid}"]`).forEach(control => {
+      control.checked = control.value === textValue;
+    });
+  });
+
+  Object.entries(state.selectionGroups || {}).forEach(([groupId, group]) => {
+    const selectedValues = (group.questionIds || [])
+      .map(qid => answerToString(state.answers[qid]))
+      .filter(Boolean);
+    document.querySelectorAll(`input[data-selection-group="${groupId}"]`).forEach(control => {
+      control.checked = selectedValues.includes(control.value);
+    });
+  });
+}
+
 window.saveSelectionGroup = function(groupId, changedInput) {
   if (state.isSubmitted) return;
   const group = state.selectionGroups[groupId];
@@ -832,13 +919,17 @@ function setupNavigation() {
         dot.className = 'nav-dot';
         dot.textContent = q.number || qNum++;
         dot.id = `nav-dot-${qid}`;
+        dot.dataset.passageIndex = String(getPassageIndexForQuestion(qid));
         dot.onclick = () => {
           // Toggle review state
           state.reviews[qid] = !state.reviews[qid];
           updateNavDots();
-          const inlineControl = document.querySelector(`[data-qid="${qid}"]`);
-          const el = inlineControl ? (inlineControl.closest('.inline-answer-anchor') || inlineControl) : document.getElementById(`question-container-${qid}`);
-          if (el) el.scrollIntoView({behavior: 'smooth', block: 'center'});
+          const targetPassageIndex = getPassageIndexForQuestion(qid);
+          if (targetPassageIndex !== state.activePassageIndex) {
+            switchPassage(targetPassageIndex, { scrollQid: qid, keepScroll: true });
+          } else {
+            scrollToQuestion(qid);
+          }
         };
         nav.appendChild(dot);
       });
@@ -856,6 +947,14 @@ function updateNavDots() {
       dot.classList.add('answered');
     }
   });
+}
+
+function scrollToQuestion(qid) {
+  const inlineControl = document.querySelector(`[data-qid="${qid}"]`);
+  const el = inlineControl
+    ? (inlineControl.closest('.inline-answer-anchor') || inlineControl.closest('.question-item') || inlineControl)
+    : document.getElementById(`question-container-${qid}`);
+  if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
 }
 
 // --- Timer ---
@@ -965,6 +1064,7 @@ async function submitTest() {
     const basePath = `data/${state.testId}/`;
     const feedback = await loadPostSubmitFeedback(basePath);
 
+    state.postSubmitFeedback = feedback;
     processFeedbackV2(feedback);
   } catch(e) {
     alert("Lỗi hiển thị đáp án và giải thích local: " + e.message);

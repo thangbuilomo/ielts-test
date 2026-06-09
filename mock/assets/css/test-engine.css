@@ -37,6 +37,7 @@ body.test-engine-theme {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 16px;
   padding: 0 24px;
   z-index: 100;
 }
@@ -47,8 +48,20 @@ body.test-engine-theme {
   gap: 16px;
 }
 
+.header-left {
+  flex: 0 1 auto;
+  min-width: 0;
+}
+
 .header-right {
   flex-shrink: 0;
+}
+
+.header-title-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
 }
 
 .saola-logo {
@@ -79,6 +92,10 @@ body.test-engine-theme {
   font-size: 1.25rem;
   margin: 0;
   color: var(--text-main);
+  max-width: min(34vw, 430px);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .header-left p {
@@ -181,6 +198,16 @@ body.test-engine-theme {
   margin-bottom: 24px;
 }
 
+.header-passage-tabs {
+  flex: 1 1 auto;
+  justify-content: center;
+  align-items: center;
+  min-width: 220px;
+  margin: 0;
+  overflow-x: auto;
+  scrollbar-width: thin;
+}
+
 .passage-toolbar {
   display: flex;
   justify-content: space-between;
@@ -230,6 +257,7 @@ body.test-engine-theme {
   cursor: pointer;
   font-weight: 600;
   transition: all 0.2s;
+  white-space: nowrap;
 }
 
 .passage-tab-btn.active {
@@ -1274,6 +1302,17 @@ select.inline-answer-select {
   .header-right {
     flex-wrap: wrap;
     justify-content: flex-end;
+  }
+
+  .header-passage-tabs {
+    order: 3;
+    flex-basis: 100%;
+    justify-content: flex-start;
+    min-width: 0;
+  }
+
+  .header-left h2 {
+    max-width: calc(100vw - 170px);
   }
 
   .listening-navigation-bar {
