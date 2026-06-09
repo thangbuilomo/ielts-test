@@ -15,7 +15,7 @@
       "skill_tags": [
         "rd_tfng"
       ],
-      "instruction": "Questions 1–7 Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+      "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
       "items": [
         {
           "question_id": "q1",
@@ -67,7 +67,7 @@
           "text": "if there is no information on this"
         }
       ],
-      "prompt_html": "<p>Choose <strong>TRUE</strong> if the statement agrees with the information given in the text, choose <strong>FALSE</strong> if the statement contradicts the information, or choose <strong>NOT GIVEN</strong> if there is no information on this.</p><p><strong>1</strong> The amount of research on giraffes in their natural environment has increased lately.</p><p><strong>2</strong> Megan Strauss disapproves of keeping giraffes in zoos.</p><p><strong>3</strong> The number of giraffes in Africa has nearly doubled.</p><p><strong>4</strong> Female giraffes tend to live longer than males.</p><p><strong>5</strong> Mother giraffes sometimes use their legs to defend their young.</p><p><strong>6</strong> Younger bulls hold their necks higher in the presence of more powerful males.</p><p><strong>7</strong> Male giraffes have been observed fighting.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t3_rd_p1_g2",
@@ -80,7 +80,7 @@
       "skill_tags": [
         "rd_comp_table"
       ],
-      "instruction": "Questions 8–13 Complete the table below.",
+      "instruction": "Complete the table below.",
       "items": [
         {
           "question_id": "q8",
@@ -113,7 +113,7 @@
           "prompt_html": "Question 13"
         }
       ],
-      "prompt_html": "<p>Complete the table below.</p><table><thead><tr><th><strong>Physical features</strong></th><th><strong>Study findings</strong></th></tr></thead><tbody><tr><td>Skin/Coat</td><td>Provides  &lt;blank data-qid=&quot;q8&quot;/&gt;when standing near trees</td></tr><tr><td>Eyes</td><td>Let them look out for lions</td></tr><tr><td>Mouth</td><td>Can be used like  &lt;blank data-qid=&quot;q9&quot;/&gt;to get leaves</td></tr><tr><td>Neck</td><td>About equal in length to the legs  Length develops in childhood to provide an easier  &lt;blank data-qid=&quot;q10&quot;/&gt;for mothers</td></tr><tr><td>Cardiovascular system</td><td>Extra strong  &lt;blank data-qid=&quot;q11&quot;/&gt;keep blood from spilling into other tissue</td></tr><tr><td>&lt;blank data-qid=&quot;q12&quot;/&gt;</td><td>Normal size for such a large animal</td></tr><tr><td>Nerves</td><td>Slower reaction time because  &lt;blank data-qid=&quot;q13&quot;/&gt;need to go farther to the brain</td></tr></tbody></table><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p>"
+      "prompt_html": "<p>Complete the table below.</p><table><thead><tr><th><strong>Physical features</strong></th><th><strong>Study findings</strong></th></tr></thead><tbody><tr><td>Skin/Coat</td><td>Provides  &lt;blank data-qid=&quot;q8&quot;/&gt; when standing near trees</td></tr><tr><td>Eyes</td><td>Let them look out for lions</td></tr><tr><td>Mouth</td><td>Can be used like  &lt;blank data-qid=&quot;q9&quot;/&gt; to get leaves</td></tr><tr><td>Neck</td><td>About equal in length to the legs  Length develops in childhood to provide an easier  &lt;blank data-qid=&quot;q10&quot;/&gt; for mothers</td></tr><tr><td>Cardiovascular system</td><td>Extra strong  &lt;blank data-qid=&quot;q11&quot;/&gt; keep blood from spilling into other tissue</td></tr><tr><td>&lt;blank data-qid=&quot;q12&quot;/&gt;</td><td>Normal size for such a large animal</td></tr><tr><td>Nerves</td><td>Slower reaction time because  &lt;blank data-qid=&quot;q13&quot;/&gt; need to go farther to the brain</td></tr></tbody></table><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p>"
     },
     {
       "group_id": "vol_09_t3_rd_p2_g1",
@@ -127,7 +127,7 @@
         "rd_match_headings",
         "rd_main_idea"
       ],
-      "instruction": "Questions 14–19 Reading Passage 2 has seven paragraphs. Choose the correct heading for each paragraph from the list of headings below. List of Headings i. The effects of a new environmentally friendly building on the people who work there",
+      "instruction": "Reading Passage 2 has seven paragraphs.<br/>Choose the correct heading for each paragraph from the list of headings below.",
       "items": [
         {
           "question_id": "q14",
@@ -194,7 +194,7 @@
           "text": "The financial benefits of efficient workplaces"
         }
       ],
-      "prompt_html": "<p>Reading Passage 2 has seven paragraphs.</p><p>Choose the correct heading for each paragraph from the list of headings below.</p><p><strong>List of Headings</strong></p><p><strong>i.</strong> The effects of a new environmentally friendly building on the people who work there</p><p><strong>ii.</strong> The ability of well – designed workplaces to attract the best staff</p><p><strong>iii.</strong> The assessment of workplaces in several locations</p><p><strong>iv.</strong> The low priority given to making buildings healthy for users</p><p><strong>v.</strong> Achieving design efficiency by involving a range of specialists</p><p><strong>vi.</strong> Workers were assessed outside of their usual workplaces</p><p><strong>vii.</strong> Workplace changes based on worker feeback</p><p><strong>viii.</strong> The financial benefits of efficient workplaces</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t3_rd_p2_g2",
@@ -208,7 +208,7 @@
         "rd_match_features",
         "rd_detail"
       ],
-      "instruction": "Questions 20–23 Look at the following statements (Questions 20-23) and the list of researchers below. Match each statement with the correct researcher, A, B, C, or D. Choose the correct letter, A, B, C, or D , in boxes 20-23 . NB You may use any letter more than once.",
+      "instruction": "Look at the following statements and the list of researchers below.<br/>Match each statement with the correct researcher, A, B, C, or D.<br/>Choose the correct letter, A, B, C, or D , in boxes 20-23 .<br/>NB You may use any letter more than once.<br/><br/>List of Researchers<br/>A Joseph Allen<br/>B Craig Zimring<br/>C Piers MacNaughton<br/>D Amy Eyler",
       "items": [
         {
           "question_id": "q20",
@@ -249,7 +249,7 @@
           "text": "Amy Eyler"
         }
       ],
-      "prompt_html": "<p>Look at the following statements (Questions 20-23) and the list of researchers below.</p><p>Match each statement with the correct researcher, A, B, C, or D.</p><p>Choose the correct letter, <strong>A, B, C,</strong> or <strong>D</strong> , in boxes <strong>20-23</strong> .</p><p><strong><em>NB    You may use any letter more than once.</strong></em></p><p><strong>List of Researchers</strong></p><p><strong>A</strong> Joseph Allen</p><p><strong>B</strong> Craig Zimring</p><p><strong>C</strong> Piers MacNaughton</p><p><strong>D</strong> Amy Eyler</p><p><strong>20</strong> Further investigations will result in improved wellbeing and efficiency.</p><p><strong>21</strong> A person&#x27;s opinion of their workspace may influence how well they perform at work.</p><p><strong>22</strong> The design of a workplace can have an impact on how much staff work with their colleagues.</p><p><strong>23</strong> A worker&#x27;s mental capacity may be considerably reduced due to their working environment.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t3_rd_p2_g3",
@@ -262,7 +262,7 @@
       "skill_tags": [
         "rd_comp_summary"
       ],
-      "instruction": "Questions 24–26 Complete the summary below. Write ONE WORD ONLY from the passage for each answer. Harvard study published in Environmental Health Perspectives Allen's first study was done at the Syracuse Center, which focuses on researching 24 ____________. In this study, a complex ventilation system was used to control the airflow in the simulated workplace. All staff carried out normal duties during the day without much . Later in the day participants were assessed as they 25 ____________ performed tasks which required them to play a role, for example acting as 26 ____________ while dealing with practical problems.",
+      "instruction": "Complete the summary below.<br/>Write ONE WORD ONLY from the passage for each answer.",
       "items": [
         {
           "question_id": "q24",
@@ -280,7 +280,7 @@
           "prompt_html": "Question 26"
         }
       ],
-      "prompt_html": "<p>Complete the summary below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p><strong>Harvard study published in Environmental Health Perspectives</strong></p><p>Allen&#x27;s first study was done at the Syracuse Center, which focuses on researching &lt;blank data-qid=&quot;q24&quot;/&gt;. In this study, a complex ventilation system was used to control the airflow in the simulated workplace. All staff carried out normal duties during the day without much    . Later in the day participants were assessed as they &lt;blank data-qid=&quot;q25&quot;/&gt;performed tasks which required them to play a role, for example acting as &lt;blank data-qid=&quot;q26&quot;/&gt;while dealing with practical problems.</p>"
+      "prompt_html": "<p>Complete the summary below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p><strong>Harvard study published in Environmental Health Perspectives</strong></p><p>Allen&#x27;s first study was done at the Syracuse Center, which focuses on researching &lt;blank data-qid=&quot;q24&quot;/&gt;. In this study, a complex ventilation system was used to control the airflow in the simulated workplace. All staff carried out normal duties during the day without much    . Later in the day participants were assessed as they &lt;blank data-qid=&quot;q25&quot;/&gt; performed tasks which required them to play a role, for example acting as &lt;blank data-qid=&quot;q26&quot;/&gt; while dealing with practical problems.</p>"
     },
     {
       "group_id": "vol_09_t3_rd_p3_g1",
@@ -294,7 +294,7 @@
         "rd_match_information",
         "rd_scanning"
       ],
-      "instruction": "Questions 27–31 Reading Passage 3 has eight paragraphs, A–H . Which paragraph contains the following information? Choose the correct letter, A–H , in boxes 27–31 .",
+      "instruction": "Reading Passage 3 has eight paragraphs, A–H .<br/>Which paragraph contains the following information?<br/>Choose the correct letter, A–H , in boxes 27–31 .",
       "items": [
         {
           "question_id": "q27",
@@ -356,7 +356,7 @@
           "text": "Paragraph H"
         }
       ],
-      "prompt_html": "<p>Reading Passage 3 has eight paragraphs, <strong>A–H</strong> .</p><p><em>Which paragraph contains the following information?</em></p><p>Choose the correct letter, <strong>A–H</strong> , in boxes <strong>27–31</strong> .</p><p><strong>27</strong> economic evidence for play in medieval England</p><p><strong>28</strong> an example of how children created their own toys</p><p><strong>29</strong> an example of warlike play approved by grown-ups</p><p><strong>30</strong> a political event mirrored in children’s play</p><p><strong>31</strong> the origin of an academic debate about medieval life</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t3_rd_p3_g2",
@@ -370,7 +370,7 @@
         "rd_match_features",
         "rd_detail"
       ],
-      "instruction": "Questions 32–35 Look at the following dates (Questions 32–35) and the list of events below. Match each date with the correct event, A–J. Choose the correct letter, A–J , in boxes 32–35 . List of Events",
+      "instruction": "Look at the following dates and the list of events below.<br/>Match each date with the correct event, A–J.<br/>Choose the correct letter, A–J , in boxes 32–35 .<br/><br/>List of Events<br/>A invention of cricket<br/>B children picking grapes<br/>C poem about value of games<br/>D early toy manufacturing in England<br/>E puppets first imported into England<br/>F dolls taxed in England<br/>G death of Adam of Usk<br/>H children playing tennis<br/>I children’s gang warfare<br/>J a description of seasonal activities",
       "items": [
         {
           "question_id": "q32",
@@ -435,7 +435,7 @@
           "text": "a description of seasonal activities"
         }
       ],
-      "prompt_html": "<p>Look at the following dates (Questions 32–35) and the list of events below.</p><p>Match each date with the correct event, A–J.</p><p>Choose the correct letter, <strong>A–J</strong> , in boxes <strong>32–35</strong> .</p><p><strong>List of Events</strong></p><p><strong>A</strong> invention of cricket</p><p><strong>B</strong> children picking grapes</p><p><strong>C</strong> poem about value of games</p><p><strong>D</strong> early toy manufacturing in England</p><p><strong>E</strong> puppets first imported into England</p><p><strong>F</strong> dolls taxed in England</p><p><strong>G</strong> death of Adam of Usk</p><p><strong>H</strong> children playing tennis</p><p><strong>I</strong> children’s gang warfare</p><p><strong>J</strong> a description of seasonal activities</p><p><strong>32</strong> 1400:_________</p><p><strong>33</strong> 1518:_________</p><p><strong>34</strong> 1582:_________</p><p><strong>35</strong> 1908:_________</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t3_rd_p3_g3",
@@ -448,7 +448,7 @@
       "skill_tags": [
         "rd_ynng"
       ],
-      "instruction": "Questions 36–40 Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
       "items": [
         {
           "question_id": "q36",
@@ -490,7 +490,7 @@
           "text": "if it is impossible to say from the passage"
         }
       ],
-      "prompt_html": "<p>Choose <strong>YES</strong> if the statement agrees with the claims of the writer, choose <strong>NO</strong> if the statement contradicts the claims of the writer, or <strong>NOT GIVEN</strong> if it is impossible to say what the writer thinks about this.</p><p><strong>36</strong> Little is known about adult attitudes to children’s play in the Middle Ages.</p><p><strong>37</strong> Most toys were imported into England before 1300.</p><p><strong>38</strong> Medieval children celebrated the seasons in their own ways.</p><p><strong>39</strong> Medieval children made presents for their parents on special occasions.</p><p><strong>40</strong> Parents and children in the Middle Ages behaved much as they do today.</p>"
+      "prompt_html": ""
     }
   ]
 }

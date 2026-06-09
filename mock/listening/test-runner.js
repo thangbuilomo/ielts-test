@@ -309,9 +309,10 @@ function isHighlightContext(event) {
 function isPromptDrivenGroup(group) {
   const qType = group.question_type || '';
   if (!group.prompt_html || qType.includes('mcq')) return false;
-  return qType.includes('completion')
-    || qType.includes('matching')
-    || qType.includes('labeling');
+  if (qType.includes('matching')) {
+    return /(?:<blank|\b\d+\s*(?:[.\u2026_]{2,}))/i.test(group.prompt_html);
+  }
+  return qType.includes('completion') || qType.includes('labeling');
 }
 
 function usesSelectAnswers(group) {
@@ -358,13 +359,13 @@ function makeInlineControl(qid, number, options) {
   if (options.length) {
     return `<span class="inline-answer-anchor" id="question-container-${qid}">
       ${badge}<select class="matching-select inline-answer-select input-element" data-qid="${qid}" aria-label="Question ${label}" onchange="saveAnswer('${qid}', this.value, this)">
-        <option value="">${label}</option>${buildOptionsHtml(options)}
+        <option value="">Select</option>${buildOptionsHtml(options)}
       </select>
     </span>`;
   }
 
   return `<span class="inline-answer-anchor" id="question-container-${qid}">
-    ${badge}<input type="text" class="blank-input inline-answer-input input-element" data-qid="${qid}" aria-label="Question ${label}" placeholder="Question ${label}" oninput="saveAnswer('${qid}', this.value, this)">
+    ${badge}<input type="text" style="min-width: 130px;" class="blank-input inline-answer-input input-element" data-qid="${qid}" aria-label="Question ${label}" placeholder="Question ${label}" oninput="saveAnswer('${qid}', this.value, this)">
   </span>`;
 }
 
@@ -380,11 +381,11 @@ function replaceNumberedGaps(html, group, options) {
 
   if (!numbers.length) return html;
 
-  const gapPattern = new RegExp(`\\b(${numbers.join('|')})\\s*(?:[.\\u2026_·]{2,})`, 'g');
+  const gapPattern = new RegExp(`\\b(${numbers.join('|')})\\s*(?:[.\\u2026_\\u00b7]{2,})`, 'g');
   return html.replace(gapPattern, (match, number) => {
     const item = itemsByNumber.get(number);
     const qid = getQuestionId(item);
-    return `${number} ${makeInlineControl(qid, number, options)}`;
+    return makeInlineControl(qid, number, options);
   });
 }
 
@@ -406,7 +407,7 @@ function replaceStrongNumberedGaps(html, group, options) {
   return html.replace(strongGapPattern, (match, number) => {
     const item = itemsByNumber.get(number);
     const qid = getQuestionId(item);
-    return `<strong>${number}</strong> ${makeInlineControl(qid, number, options)}`;
+    return makeInlineControl(qid, number, options);
   });
 }
 
@@ -638,7 +639,8 @@ function renderPromptDrivenGroup(group, groupBody) {
   decoratePromptContent(promptBlock, group);
   groupBody.appendChild(promptBlock);
 
-  if (options.length) {
+  const hasInlineOptionBank = Boolean(promptBlock.querySelector('.option-bank'));
+  if (options.length && !hasInlineOptionBank) {
     const bank = document.createElement('div');
     bank.className = 'option-bank';
     bank.innerHTML = options.map(option => (
@@ -691,12 +693,23 @@ function setupStartGate() {
     errDiv.style.display = 'none';
 
     try {
-      const response = await jsonpFetch(GAS_URL, {
-        action: 'auth_student',
-        email: email,
-        password: password,
-        test_id: backendTestId()
-      });
+      let response;
+      if (window.location.protocol === 'file:' || window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+        // Local bypass: login always succeeds offline/locally for testing explanations
+        response = {
+          ok: true,
+          student_name: email.split('@')[0] || "Local Student",
+          email: email,
+          auth_token: "local_bypass_token"
+        };
+      } else {
+        response = await jsonpFetch(GAS_URL, {
+          action: 'auth_student',
+          email: email,
+          password: password,
+          test_id: backendTestId()
+        });
+      }
 
       if (response && response.ok) {
         state.mode = 'student';
@@ -712,7 +725,7 @@ function setupStartGate() {
       errDiv.textContent = "Lỗi kết nối máy chủ. Vui lòng thử lại.";
       errDiv.style.display = 'block';
     } finally {
-      loginBtn.textContent = 'Đang nhập & Bắt đầu';
+      loginBtn.textContent = 'Đăng nhập & Bắt đầu';
       loginBtn.disabled = false;
     }
   });
@@ -1010,9 +1023,9 @@ function renderQuestions() {
           </div>`;
         }
         else if (q.response_type === 'select' || qType.includes('matching') || qType.includes('labeling')) {
-          let optionsHtml = '<option value="">-- Select --</option>';
+          let optionsHtml = '<option value="">Select</option>';
           optionsHtml += buildOptionsHtml(q.options || group.options || group.choices || []);
-          qHtml += `${itemText} <br><select style="margin-top: 8px;" class="matching-select input-element" data-qid="${qid}" onchange="saveAnswer('${qid}', this.value, this)">${optionsHtml}</select>`;
+          qHtml += `${itemText} <select style="margin-left: 8px;" class="matching-select input-element" data-qid="${qid}" onchange="saveAnswer('${qid}', this.value, this)">${optionsHtml}</select>`;
         }
         else if (qType.includes('mcq')) {
           const fallbackMcq = getFallbackMcqData(group, q.number);
@@ -1302,36 +1315,27 @@ async function submitTest() {
   document.getElementById('loadingModal').style.display = 'flex';
   document.querySelectorAll('.input-element').forEach(el => el.disabled = true);
 
-  const payload = {
-    type: 'listening_submit',
-    guest_mode: state.mode === 'guest',
-    email: state.studentData ? state.studentData.email : 'guest@local',
-    student_name: state.studentData ? state.studentData.student_name : 'Guest',
-    auth_token: state.studentData ? state.studentData.auth_token : '',
-    test_id: backendTestId(),
-    attempt_id: 'atm_' + Date.now() + '_' + Math.floor(Math.random()*1000),
-    submitted_at: new Date().toISOString(),
-    answers_json: state.answers,
-    violation_count: state.violationCount,
-    anti_cheat_events: state.events
-  };
-
   try {
-    const res = await fetch(GAS_URL, {
-      method: 'POST',
-      body: JSON.stringify(payload),
-      headers: { 'Content-Type': 'text/plain;charset=utf-8' }
-    });
+    const basePath = `data/${state.testId}/`;
+    
+    // Fetch local files
+    const [answerKey, explanations, highlights] = await Promise.all([
+      fetchJson(basePath + 'answer_key.json').catch(e => { console.error(e); return {}; }),
+      state.mode === 'student' 
+        ? fetchJson(basePath + 'explanations.json').catch(e => { console.error(e); return {}; })
+        : Promise.resolve({}),
+      fetchJson(basePath + 'source_annotations.json').catch(e => { console.error(e); return {}; })
+    ]);
 
-    const result = await res.json();
+    const feedback = {
+      json_key: answerKey,
+      explanation_json: explanations,
+      highlight_json: highlights
+    };
 
-    if (result.ok && result.result && result.result.feedback) {
-      processFeedbackV2(result.result.feedback);
-    } else {
-      alert("Nộp bài thành công nhưng không lấy được đáp án từ máy chủ.");
-    }
+    processFeedbackV2(feedback);
   } catch(e) {
-    alert("Nộp bài thành công (hoặc lỗi mạng). " + e.message);
+    alert("Lỗi hiển thị đáp án và giải thích local: " + e.message);
     console.error(e);
   } finally {
     document.getElementById('loadingModal').style.display = 'none';

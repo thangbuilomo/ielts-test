@@ -17,12 +17,12 @@
         "ls_detail"
       ],
       "instruction": "Complete the notes below.<br/>Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.",
-      "prompt_html": "<p><strong>Questions 1–10</strong></p><p>Complete the notes below.<br/>Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.</p><p><strong>How to become a teataster</strong></p><p><strong>What the training involves</strong> •    A trainee tea taster mainly works in the company's 1 …………..<br/>•    He/she learns how to:<br/>-    taste the tea using a 2 ……………..<br/>-    give a 3 …………… to samples of tea according to their quality<br/>-    select the right size of leaves for teabags<br/>-    remember the 4 …………….. of different kinds of tea.<br/>•    He/she only qualifies after 5 …………….. of training.</p><p><strong>What the tea company is looking for in new staff</strong> •    a degree ( 6  …………… is an advantage)<br/>•    able to do 7  ………….. quickly<br/>•    ability to distinguish different kinds of 8 ……………… accurately<br/>•    effective 9 ………….. skills in different situations<br/>•    being prepared to  10 ……………….</p>",
+      "prompt_html": "<p><strong>Questions 1–10</strong></p><p>Complete the notes below.<br/>Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.</p><p><strong>How to become a teataster</strong></p><p><strong>What the training involves</strong> <br>•    A trainee tea taster mainly works in the company's 1 …………..<br/><br>•    He/she learns how to:<br/>-    taste the tea using a 2 ……………..<br/>-    give a 3 …………… to samples of tea according to their quality<br/>-    select the right size of leaves for teabags<br/>-    remember the 4 …………….. of different kinds of tea.<br/><br>•    He/she only qualifies after 5 …………….. of training.</p><p><strong>What the tea company is looking for in new staff</strong> <br>•    a degree ( 6  …………… is an advantage)<br/><br>•    able to do 7  ………….. quickly<br/><br>•    ability to distinguish different kinds of 8 ……………… accurately<br/><br>•    effective 9 ………….. skills in different situations<br/><br>•    being prepared to  10 ……………….</p>",
       "items": [
         {
           "question_id": "q1",
           "number": 1,
-          "prompt_html": "<p><strong>What the training involves</strong> •    A trainee tea taster mainly works in the company's 1 …………..</p>",
+          "prompt_html": "<p><strong>What the training involves</strong> <br>•    A trainee tea taster mainly works in the company's 1 …………..</p>",
           "response_type": "text"
         },
         {
@@ -46,37 +46,37 @@
         {
           "question_id": "q5",
           "number": 5,
-          "prompt_html": "<p>•    He/she only qualifies after 5 …………….. of training.</p>",
+          "prompt_html": "<p><br>•    He/she only qualifies after 5 …………….. of training.</p>",
           "response_type": "text"
         },
         {
           "question_id": "q6",
           "number": 6,
-          "prompt_html": "<p><strong>What the tea company is looking for in new staff</strong> •    a degree ( 6  …………… is an advantage)</p>",
+          "prompt_html": "<p><strong>What the tea company is looking for in new staff</strong> <br>•    a degree ( 6  …………… is an advantage)</p>",
           "response_type": "text"
         },
         {
           "question_id": "q7",
           "number": 7,
-          "prompt_html": "<p>•    able to do 7  ………….. quickly</p>",
+          "prompt_html": "<p><br>•    able to do 7  ………….. quickly</p>",
           "response_type": "text"
         },
         {
           "question_id": "q8",
           "number": 8,
-          "prompt_html": "<p>•    ability to distinguish different kinds of 8 ……………… accurately</p>",
+          "prompt_html": "<p><br>•    ability to distinguish different kinds of 8 ……………… accurately</p>",
           "response_type": "text"
         },
         {
           "question_id": "q9",
           "number": 9,
-          "prompt_html": "<p>•    effective 9 ………….. skills in different situations</p>",
+          "prompt_html": "<p><br>•    effective 9 ………….. skills in different situations</p>",
           "response_type": "text"
         },
         {
           "question_id": "q10",
           "number": 10,
-          "prompt_html": "<p>•    being prepared to  10 ……………….</p>",
+          "prompt_html": "<p><br>•    being prepared to  10 ……………….</p>",
           "response_type": "text"
         }
       ]
@@ -307,42 +307,42 @@
         "ls_detail"
       ],
       "instruction": "What advice do Ryan and Annie agree should be given about each of the following types of waste?<br/>Choose the correct answer from the box.",
-      "prompt_html": "<p><strong>Questions 25–30</strong></p><p>What advice do Ryan and Annie agree should be given about each of the following types of waste?<br/>Choose the correct answer from the box.</p><p><strong>Advice</strong></p><p><strong>Types of waste</strong> paint 25 …………..</p><p>batteries 26 …………</p><p>some medicines 27 ……….</p><p>pesticides 28 …………</p><p>tyres 29 ………….</p><p>fridges 30 …………..</p><p>A  should be disposed of more regularly</p><p>B  should have better labelling</p><p>C  should normally be used up completely</p><p>D  should be saved for later disposal</p><p>E  should be made available for others' use</p><p>F  should be repaired rather than thrown away</p><p>G  should be further modified to be made less harmful</p><p>H  should be retained and used for different purposes</p>",
+      "prompt_html": "<p><strong>Questions 25–30</strong></p><p><strong>Advice</strong><br/><strong>A</strong> should be disposed of more regularly<br/><strong>B</strong> should have better labelling<br/><strong>C</strong> should normally be used up completely<br/><strong>D</strong> should be saved for later disposal<br/><strong>E</strong> should be made available for others' use<br/><strong>F</strong> should be repaired rather than thrown away<br/><strong>G</strong> should be further modified to be made less harmful<br/><strong>H</strong> should be retained and used for different purposes</p>",
       "items": [
         {
           "question_id": "q25",
           "number": 25,
-          "prompt_html": "<p>Choose <strong>SIX</strong> correct answers, <strong>A-H</strong> , next to questions <strong>25-30</strong> .</p>",
+          "prompt_html": "<p><strong>25</strong> paint</p>",
           "response_type": "select"
         },
         {
           "question_id": "q26",
           "number": 26,
-          "prompt_html": "<p>batteries 26 …………</p>",
+          "prompt_html": "<p><strong>26</strong> batteries</p>",
           "response_type": "select"
         },
         {
           "question_id": "q27",
           "number": 27,
-          "prompt_html": "<p>some medicines 27 ……….</p>",
+          "prompt_html": "<p><strong>27</strong> some medicines</p>",
           "response_type": "select"
         },
         {
           "question_id": "q28",
           "number": 28,
-          "prompt_html": "<p>pesticides 28 …………</p>",
+          "prompt_html": "<p><strong>28</strong> pesticides</p>",
           "response_type": "select"
         },
         {
           "question_id": "q29",
           "number": 29,
-          "prompt_html": "<p>tyres 29 ………….</p>",
+          "prompt_html": "<p><strong>29</strong> tyres</p>",
           "response_type": "select"
         },
         {
           "question_id": "q30",
           "number": 30,
-          "prompt_html": "<p>Choose <strong>SIX</strong> correct answers, <strong>A-H</strong> , next to questions <strong>25-30</strong> .</p>",
+          "prompt_html": "<p><strong>30</strong> fridges</p>",
           "response_type": "select"
         }
       ],
@@ -393,7 +393,7 @@
         "ls_comp_note"
       ],
       "instruction": "Complete the notes below.<br/>Write <strong>ONE WORD ONLY</strong> for each answer.",
-      "prompt_html": "<p><strong>Questions 31–40</strong></p><p>Complete the notes below.<br/>Write <strong>ONE WORD ONLY</strong> for each answer.</p><p><strong>Whale Shark Conservation Field Trip</strong></p><p><strong>Background</strong> •    Whale sharks are the world's biggest fish.<br/>•    Comparison with whales:<br/>-    Similarities: They're large and they feed on plankton and krill.<br/>-    Differences: They stay near the 31 …………  and they lack any actual 32 ………….   .<br/>•    A large number head to the waters off Ningaloo, Western Australia, each year.<br/>•    The coral reef, where the whale sharks feed, is unusually close to the 33 ………….   .</p><p><strong>Research centre activities</strong> •    Existing methods of monitoring whale sharks are imperfect:<br/>-    tracking devices attached to the whale shark's 34 …………  (these are expensive and unreliable)<br/>-    from a 35 …………  (this is imprecise)<br/>•    New research project on whale shark feeding habits:<br/>-    Analysis of plankton shows different amounts of 36 ……… varieties.<br/>-    Researchers are comparing plankton data using special maps.<br/>•    Study on the impact of humans on whale shark behaviour: noise caused whale sharks to 37 ………….<br/>•    Community outreach programme - The whale shark race:<br/>-    A mature whale is tagged and assigned to a 38 ……….. to follow.<br/>-    Results are displayed on the research centre website.</p><p><strong>Conservation and management</strong> •    Record any 39 ……. to whale sharks in photo-identification libraries.<br/>•    Ban scuba activities as whale sharks are affected by the 40 …………… the activities produce.</p>",
+      "prompt_html": "<p><strong>Questions 31–40</strong></p><p>Complete the notes below.<br/>Write <strong>ONE WORD ONLY</strong> for each answer.</p><p><strong>Whale Shark Conservation Field Trip</strong></p><p><strong>Background</strong> <br>•    Whale sharks are the world's biggest fish.<br/><br>•    Comparison with whales:<br/>-    Similarities: They're large and they feed on plankton and krill.<br/>-    Differences: They stay near the 31 …………  and they lack any actual 32 ………….   .<br/><br>•    A large number head to the waters off Ningaloo, Western Australia, each year.<br/><br>•    The coral reef, where the whale sharks feed, is unusually close to the 33 ………….   .</p><p><strong>Research centre activities</strong> <br>•    Existing methods of monitoring whale sharks are imperfect:<br/>-    tracking devices attached to the whale shark's 34 …………  (these are expensive and unreliable)<br/>-    from a 35 …………  (this is imprecise)<br/><br>•    New research project on whale shark feeding habits:<br/>-    Analysis of plankton shows different amounts of 36 ……… varieties.<br/>-    Researchers are comparing plankton data using special maps.<br/><br>•    Study on the impact of humans on whale shark behaviour: noise caused whale sharks to 37 ………….<br/><br>•    Community outreach programme - The whale shark race:<br/>-    A mature whale is tagged and assigned to a 38 ……….. to follow.<br/>-    Results are displayed on the research centre website.</p><p><strong>Conservation and management</strong> <br>•    Record any 39 ……. to whale sharks in photo-identification libraries.<br/><br>•    Ban scuba activities as whale sharks are affected by the 40 …………… the activities produce.</p>",
       "items": [
         {
           "question_id": "q31",
@@ -410,7 +410,7 @@
         {
           "question_id": "q33",
           "number": 33,
-          "prompt_html": "<p>•    The coral reef, where the whale sharks feed, is unusually close to the 33 ………….   .</p>",
+          "prompt_html": "<p><br>•    The coral reef, where the whale sharks feed, is unusually close to the 33 ………….   .</p>",
           "response_type": "text"
         },
         {
@@ -434,7 +434,7 @@
         {
           "question_id": "q37",
           "number": 37,
-          "prompt_html": "<p>•    Study on the impact of humans on whale shark behaviour: noise caused whale sharks to 37 ………….</p>",
+          "prompt_html": "<p><br>•    Study on the impact of humans on whale shark behaviour: noise caused whale sharks to 37 ………….</p>",
           "response_type": "text"
         },
         {
@@ -446,13 +446,13 @@
         {
           "question_id": "q39",
           "number": 39,
-          "prompt_html": "<p><strong>Conservation and management</strong> •    Record any 39 ……. to whale sharks in photo-identification libraries.</p>",
+          "prompt_html": "<p><strong>Conservation and management</strong> <br>•    Record any 39 ……. to whale sharks in photo-identification libraries.</p>",
           "response_type": "text"
         },
         {
           "question_id": "q40",
           "number": 40,
-          "prompt_html": "<p>•    Ban scuba activities as whale sharks are affected by the 40 …………… the activities produce.</p>",
+          "prompt_html": "<p><br>•    Ban scuba activities as whale sharks are affected by the 40 …………… the activities produce.</p>",
           "response_type": "text"
         }
       ]

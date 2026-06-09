@@ -315,26 +315,56 @@
         25,
         26
       ],
-      "question_type": "note_completion",
+      "question_type": "mcq_multi",
       "skill_tags": [
-        "ls_comp_note"
+        "ls_mcq_multi",
+        "ls_detail"
       ],
-      "instruction": "Choose <strong>TWO</strong> correct answers.<br/>Which <strong>TWO</strong> books do Jen and Rob decide to get from the library?",
-      "prompt_html": "<p><strong>Questions 25–26</strong></p><p>Choose <strong>TWO</strong> correct answers.<br/>Which <strong>TWO</strong> books do Jen and Rob decide to get from the library?</p><p><strong>25-26 Which TWO books do Jen and Rob decide to get from the library?</strong></p><p>A Voice Identification</p><p>B Modern Forensic Techniques</p><p>C Language and Crime</p><p>D Forensics Today</p><p>E Research Methods in Forensic Linguistics</p>",
+      "instruction": "Choose <strong>TWO</strong> correct answers.",
       "items": [
         {
           "question_id": "q25",
           "number": 25,
-          "prompt_html": "<p><strong>25-26 Which TWO books do Jen and Rob decide to get from the library?</strong></p>",
-          "response_type": "text"
+          "prompt_html": "Selected book 1"
         },
         {
           "question_id": "q26",
           "number": 26,
-          "prompt_html": "<p><strong>25-26 Which TWO books do Jen and Rob decide to get from the library?</strong></p>",
-          "response_type": "text"
+          "prompt_html": "Selected book 2"
         }
-      ]
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Voice Identification"
+        },
+        {
+          "label": "B",
+          "text": "Modern Forensic Techniques"
+        },
+        {
+          "label": "C",
+          "text": "Language and Crime"
+        },
+        {
+          "label": "D",
+          "text": "Forensics Today"
+        },
+        {
+          "label": "E",
+          "text": "Research Methods in Forensic Linguistics"
+        }
+      ],
+      "prompt_html": "<p>Which <strong>TWO</strong> books do Jen and Rob decide to get from the library?</p>",
+      "selection_group": {
+        "selection_group_id": "ls_q25_26",
+        "question_ids": [
+          "q25",
+          "q26"
+        ],
+        "max_select": 2,
+        "order_matters": false
+      }
     },
     {
       "group_id": "ls_t1_p3_g3",
@@ -343,26 +373,56 @@
         27,
         28
       ],
-      "question_type": "note_completion",
+      "question_type": "mcq_multi",
       "skill_tags": [
-        "ls_comp_note"
+        "ls_mcq_multi",
+        "ls_detail"
       ],
-      "instruction": "Choose <strong>TWO</strong> correct answers.<br/>Which <strong>TWO</strong> practical considerations are both Jen and Rob concerned about?",
-      "prompt_html": "<p><strong>Questions 27–28</strong></p><p>Choose <strong>TWO</strong> correct answers.<br/>Which <strong>TWO</strong> practical considerations are both Jen and Rob concerned about?</p><p><strong>27-28 Which TWO practical considerations are both Jen and Rob concerned about?</strong></p><p>A how much time they have for writing up the project</p><p>B being able to do enough research</p><p>C only speaking to the 'suspect' once</p><p>D using recording equipment</p><p>E how easy it will be to contact the 'suspect'</p>",
+      "instruction": "Choose <strong>TWO</strong> correct answers.",
       "items": [
         {
           "question_id": "q27",
           "number": 27,
-          "prompt_html": "<p><strong>27-28 Which TWO practical considerations are both Jen and Rob concerned about?</strong></p>",
-          "response_type": "text"
+          "prompt_html": "Selected consideration 1"
         },
         {
           "question_id": "q28",
           "number": 28,
-          "prompt_html": "<p><strong>27-28 Which TWO practical considerations are both Jen and Rob concerned about?</strong></p>",
-          "response_type": "text"
+          "prompt_html": "Selected consideration 2"
         }
-      ]
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "how much time they have for writing up the project"
+        },
+        {
+          "label": "B",
+          "text": "being able to do enough research"
+        },
+        {
+          "label": "C",
+          "text": "only speaking to the 'suspect' once"
+        },
+        {
+          "label": "D",
+          "text": "using recording equipment"
+        },
+        {
+          "label": "E",
+          "text": "how easy it will be to contact the 'suspect'"
+        }
+      ],
+      "prompt_html": "<p>Which <strong>TWO</strong> practical considerations are both Jen and Rob concerned about?</p>",
+      "selection_group": {
+        "selection_group_id": "ls_q27_28",
+        "question_ids": [
+          "q27",
+          "q28"
+        ],
+        "max_select": 2,
+        "order_matters": false
+      }
     },
     {
       "group_id": "ls_t1_p3_g4",
@@ -371,26 +431,56 @@
         29,
         30
       ],
-      "question_type": "note_completion",
+      "question_type": "mcq_multi",
       "skill_tags": [
-        "ls_comp_note"
+        "ls_mcq_multi",
+        "ls_detail"
       ],
-      "instruction": "Choose <strong>TWO</strong> correct answers.<br/>Which <strong>TWO</strong> sections of the project will Rob write alone?",
-      "prompt_html": "<p><strong>Questions 29–30</strong></p><p>Choose <strong>TWO</strong> correct answers.<br/>Which <strong>TWO</strong> sections of the project will Rob write alone?</p><p><strong>29-30 Which TWO sections of the project will Rob write alone?</strong></p><p>A Methodology</p><p>B Literature review</p><p>C Introduction</p><p>D Analysis</p><p>E Discussion and conclusions</p>",
+      "instruction": "Choose <strong>TWO</strong> correct answers.",
       "items": [
         {
           "question_id": "q29",
           "number": 29,
-          "prompt_html": "<p><strong>29-30 Which TWO sections of the project will Rob write alone?</strong></p>",
-          "response_type": "text"
+          "prompt_html": "Selected section 1"
         },
         {
           "question_id": "q30",
           "number": 30,
-          "prompt_html": "<p><strong>29-30 Which TWO sections of the project will Rob write alone?</strong></p>",
-          "response_type": "text"
+          "prompt_html": "Selected section 2"
         }
-      ]
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Methodology"
+        },
+        {
+          "label": "B",
+          "text": "Literature review"
+        },
+        {
+          "label": "C",
+          "text": "Introduction"
+        },
+        {
+          "label": "D",
+          "text": "Analysis"
+        },
+        {
+          "label": "E",
+          "text": "Discussion and conclusions"
+        }
+      ],
+      "prompt_html": "<p>Which <strong>TWO</strong> sections of the project will Rob write alone?</p>",
+      "selection_group": {
+        "selection_group_id": "ls_q29_30",
+        "question_ids": [
+          "q29",
+          "q30"
+        ],
+        "max_select": 2,
+        "order_matters": false
+      }
     },
     {
       "group_id": "ls_t1_p4_g1",

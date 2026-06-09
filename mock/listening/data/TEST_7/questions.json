@@ -17,66 +17,66 @@
         "ls_detail"
       ],
       "instruction": "Complete the form below.<br/>Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.",
-      "prompt_html": "<p><strong>Questions 1–10</strong></p><p>Complete the form below.<br/>Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.</p><table><tr><th><em><strong>Car Servicing</strong></em></th></tr><tr><td><em><strong>Example</strong></em>  Customer name:  <strong>Ian Croft</strong></td></tr><tr><td><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</td></tr></table>",
+      "prompt_html": "<p><strong>Questions 1–10</strong></p><p>Complete the form below.<br/>Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.</p><table><tr><th><em><strong>Car Servicing</strong></em></th></tr><tr><td><em><strong>Example</strong></em>  Customer name:  <strong>Ian Croft</strong></td></tr><tr><td><strong>Cars details</strong><br/>Registration number: 1 ……………….<br/>Make and model:           Vida (4-door saloon)<br/>Date of manufacture:      2001<br/>Number of miles 2 …………….<br/><br/><strong>Problems</strong><br/><br>•   needs two new 3 …………..<br/><br>•   the inside 4 ………….. needs fixing<br/><br>•   one passenger seat 5 ………… is stuck<br/><br>•   the 6 ……………. needs replacing<br/><br>•   the 7 ………… brakes of the car need attention<br/><br>•   needs a spare 8 ………………<br/><br/><strong>Service arrangements</strong><br/>Date/Time: Tuesday 5 October 8.00 a.m.<br/>Courtesy car? 9 ………… Yes, preferably<br/><br/><strong>Customer details</strong><br/>Address: 361 College Road, Norwich<br/>Phone: 10 ……………….</td></tr></table>",
       "items": [
         {
           "question_id": "q1",
           "number": 1,
-          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "prompt_html": "<p>Registration number: 1 ……………….</p>",
           "response_type": "text"
         },
         {
           "question_id": "q2",
           "number": 2,
-          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "prompt_html": "<p>Number of miles 2 …………….</p>",
           "response_type": "text"
         },
         {
           "question_id": "q3",
           "number": 3,
-          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "prompt_html": "<p>Problems - needs two new 3 …………..</p>",
           "response_type": "text"
         },
         {
           "question_id": "q4",
           "number": 4,
-          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "prompt_html": "<p>Problems - the inside 4 ………….. needs fixing</p>",
           "response_type": "text"
         },
         {
           "question_id": "q5",
           "number": 5,
-          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "prompt_html": "<p>Problems - one passenger seat 5 ………… is stuck</p>",
           "response_type": "text"
         },
         {
           "question_id": "q6",
           "number": 6,
-          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "prompt_html": "<p>Problems - the 6 ……………. needs replacing</p>",
           "response_type": "text"
         },
         {
           "question_id": "q7",
           "number": 7,
-          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "prompt_html": "<p>Problems - the 7 ………… brakes of the car need attention</p>",
           "response_type": "text"
         },
         {
           "question_id": "q8",
           "number": 8,
-          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "prompt_html": "<p>Problems - needs a spare 8 ………………</p>",
           "response_type": "text"
         },
         {
           "question_id": "q9",
           "number": 9,
-          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "prompt_html": "<p>Courtesy car? 9 ………… Yes, preferably</p>",
           "response_type": "text"
         },
         {
           "question_id": "q10",
           "number": 10,
-          "prompt_html": "<table><tr><th><strong>Cars details</strong>  Registration number: 1 ……………….  Make and model:           Vida (4-door saloon)  Date of manufacture:      2001  Number of miles 2 …………….  <strong>Problems</strong>  ·   needs two new 3 …………..  ·   the inside 4 ………….. needs fixing  ·   one passage seat 5 ………… is stuck  ·   the 6 ……………. needs replacing  ·   the 7 ………… brakes of the car need attention  ·   needs a spare 8 ………………  <strong>Service arrangements</strong>  Date/Time: Tuesday 5 October 8.00 a.m.  Courtesy car? 9 ………… Yes, preferably  <strong>Customer details</strong>  Address: 361 College Road, Norwich  Phone: 10 ……………….</th></tr></table>",
+          "prompt_html": "<p>Phone: 10 ……………….</p>",
           "response_type": "text"
         }
       ]
@@ -381,45 +381,41 @@
         "ls_matching",
         "ls_detail"
       ],
-      "instruction": "What information do the speakers give about each of the following pictures?<br/>Choose <strong>FIVE</strong> correct answers, <strong>A–G</strong>, next to questions 26–30.",
-      "prompt_html": "<p><strong>Questions 26–30</strong></p><p>What information do the speakers give about each of the following pictures?<br/>Choose <strong>FIVE</strong> correct answers, <strong>A–G</strong>, next to questions 26–30.</p><p>Information</p><p>Pictures</p><p>A view in Germany: at Wurzburg 26 …………<br/>Bridge on the Ouse, near York 27 …………….<br/>Wooden scene 28 …………<br/>Venice 29 ……………<br/>Entrance to a harbor 30 ………….</p><p>A  one of several paintings of the same view</p><p>B  probably an inaccurate title</p><p>C  may not be genuine</p><p>D  was never finished</p><p>E  typical subject matter for Prout</p><p>F  skillful painting of light and dark</p><p>G  shows an event that never took place</p>",
+      "instruction": "What information do the speakers give about each of the following pictures?<br/>Choose <strong>FIVE</strong> correct answers, <strong>A-G</strong>, next to questions 26-30.",
+      "prompt_html": "<p><strong>Questions 26–30</strong></p><p><strong>Information</strong><br/><strong>A</strong> one of several paintings of the same view<br/><strong>B</strong> probably an inaccurate title<br/><strong>C</strong> may not be genuine<br/><strong>D</strong> was never finished<br/><strong>E</strong> typical subject matter for Prout<br/><strong>F</strong> skillful painting of light and dark<br/><strong>G</strong> shows an event that never took place</p>",
       "items": [
         {
           "question_id": "q26",
           "number": 26,
-          "prompt_html": "<p>Choose <strong>FIVE</strong> corect answers, <strong>A-G</strong> , next to questions <strong>26-30</strong> .</p>",
+          "prompt_html": "<p><strong>26</strong> A view in Germany: at Wurzburg</p>",
           "response_type": "select"
         },
         {
           "question_id": "q27",
           "number": 27,
-          "prompt_html": "<p>Bridge on the Ouse, near York 27 …………….</p>",
+          "prompt_html": "<p><strong>27</strong> Bridge on the Ouse, near York</p>",
           "response_type": "select"
         },
         {
           "question_id": "q28",
           "number": 28,
-          "prompt_html": "<p>Wooden scene 28 …………</p>",
+          "prompt_html": "<p><strong>28</strong> Wooden scene</p>",
           "response_type": "select"
         },
         {
           "question_id": "q29",
           "number": 29,
-          "prompt_html": "<p>Venice 29 ……………</p>",
+          "prompt_html": "<p><strong>29</strong> Venice</p>",
           "response_type": "select"
         },
         {
           "question_id": "q30",
           "number": 30,
-          "prompt_html": "<p>Choose <strong>FIVE</strong> corect answers, <strong>A-G</strong> , next to questions <strong>26-30</strong> .</p>",
+          "prompt_html": "<p><strong>30</strong> Entrance to a harbor</p>",
           "response_type": "select"
         }
       ],
       "options": [
-        {
-          "label": "A",
-          "text": "view in Germany: at Wurzburg 26 …………"
-        },
         {
           "label": "A",
           "text": "one of several paintings of the same view"
@@ -462,66 +458,66 @@
         "ls_comp_note"
       ],
       "instruction": "Complete the notes below.<br/>Write <strong>ONE WORD ONLY</strong> for each answer.",
-      "prompt_html": "<p><strong>Questions 31–40</strong></p><p>Complete the notes below.<br/>Write <strong>ONE WORD ONLY</strong> for each answer.</p><p><strong>Case Study: Chocozine’s difficult decision</strong></p><p><strong>Background</strong> •    Smith and his colleagues noticed the spread of mass-customisation in many US 31 ………….<br/>•    They decided to apply the idea to chocolate, and allow clients to decide which ingredients they wanted.<br/>•    They called their company’s ‘Chocozine’.</p><p><strong>The email order</strong> •    A European retailer wanted 15,000 chocolate bars to use as a 32 ……….. for customers.<br/>•    The deal could improve their sales and provide 33 …………..   .</p><p><strong>But there were risks:</strong> •    They might not have sufficient time for the job.<br/>•    If they failed, it could affect their finances and their 34 …………..<br/>•    They only had three 35 ……….. , which was not enough.</p><p><strong>They attempt to subcontract</strong> •    At first they couldn’t find a subcontract with the right 36 ……….<br/>•    A Harvard professor invited Smith to speak to students.<br/>•    Many students said it would be a 37 …….. to do the deal.<br/>•    One student had a 38 ………. in the chocolate industry.<br/>•    But this subcontract had trouble with the unusual  39 ……… of the chocolate bar.<br/>•    Chocozine finally declined the order, but their sales improved anyway.</p><p><strong>Comment</strong> •    Accepting 40 ………… orders has created severe problems for many new businesses.</p>",
+      "prompt_html": "<p><strong>Questions 31–40</strong></p><p>Complete the notes below.<br/>Write <strong>ONE WORD ONLY</strong> for each answer.</p><p><strong>Case Study: Chocozine’s difficult decision</strong></p><p><strong>Background</strong> <br>•    Smith and his colleagues noticed the spread of mass-customisation in many US 31 ………….<br/><br>•    They decided to apply the idea to chocolate, and allow clients to decide which ingredients they wanted.<br/><br>•    They called their company’s ‘Chocozine’.</p><p><strong>The email order</strong> <br>•    A European retailer wanted 15,000 chocolate bars to use as a 32 ……….. for customers.<br/><br>•    The deal could improve their sales and provide 33 …………..   .</p><p><strong>But there were risks:</strong> <br>•    They might not have sufficient time for the job.<br/><br>•    If they failed, it could affect their finances and their 34 …………..<br/><br>•    They only had three 35 ……….. , which was not enough.</p><p><strong>They attempt to subcontract</strong> <br>•    At first they couldn’t find a subcontract with the right 36 ……….<br/><br>•    A Harvard professor invited Smith to speak to students.<br/><br>•    Many students said it would be a 37 …….. to do the deal.<br/><br>•    One student had a 38 ………. in the chocolate industry.<br/><br>•    But this subcontract had trouble with the unusual  39 ……… of the chocolate bar.<br/><br>•    Chocozine finally declined the order, but their sales improved anyway.</p><p><strong>Comment</strong> <br>•    Accepting 40 ………… orders has created severe problems for many new businesses.</p>",
       "items": [
         {
           "question_id": "q31",
           "number": 31,
-          "prompt_html": "<p><strong>Background</strong> •    Smith and his colleagues noticed the spread of mass-customisation in many US 31 ………….</p>",
+          "prompt_html": "<p><strong>Background</strong> <br>•    Smith and his colleagues noticed the spread of mass-customisation in many US 31 ………….</p>",
           "response_type": "text"
         },
         {
           "question_id": "q32",
           "number": 32,
-          "prompt_html": "<p><strong>The email order</strong> •    A European retailer wanted 15,000 chocolate bars to use as a 32 ……….. for customers.</p>",
+          "prompt_html": "<p><strong>The email order</strong> <br>•    A European retailer wanted 15,000 chocolate bars to use as a 32 ……….. for customers.</p>",
           "response_type": "text"
         },
         {
           "question_id": "q33",
           "number": 33,
-          "prompt_html": "<p>•    The deal could improve their sales and provide 33 …………..   .</p>",
+          "prompt_html": "<p><br>•    The deal could improve their sales and provide 33 …………..   .</p>",
           "response_type": "text"
         },
         {
           "question_id": "q34",
           "number": 34,
-          "prompt_html": "<p>•    If they failed, it could affect their finances and their 34 …………..</p>",
+          "prompt_html": "<p><br>•    If they failed, it could affect their finances and their 34 …………..</p>",
           "response_type": "text"
         },
         {
           "question_id": "q35",
           "number": 35,
-          "prompt_html": "<p>•    They only had three 35 ……….. , which was not enough.</p>",
+          "prompt_html": "<p><br>•    They only had three 35 ……….. , which was not enough.</p>",
           "response_type": "text"
         },
         {
           "question_id": "q36",
           "number": 36,
-          "prompt_html": "<p><strong>They attempt to subcontract</strong> •    At first they couldn’t find a subcontract with the right 36 ……….</p>",
+          "prompt_html": "<p><strong>They attempt to subcontract</strong> <br>•    At first they couldn’t find a subcontract with the right 36 ……….</p>",
           "response_type": "text"
         },
         {
           "question_id": "q37",
           "number": 37,
-          "prompt_html": "<p>•    Many students said it would be a 37 …….. to do the deal.</p>",
+          "prompt_html": "<p><br>•    Many students said it would be a 37 …….. to do the deal.</p>",
           "response_type": "text"
         },
         {
           "question_id": "q38",
           "number": 38,
-          "prompt_html": "<p>•    One student had a 38 ………. in the chocolate industry.</p>",
+          "prompt_html": "<p><br>•    One student had a 38 ………. in the chocolate industry.</p>",
           "response_type": "text"
         },
         {
           "question_id": "q39",
           "number": 39,
-          "prompt_html": "<p>•    But this subcontract had trouble with the unusual  39 ……… of the chocolate bar.</p>",
+          "prompt_html": "<p><br>•    But this subcontract had trouble with the unusual  39 ……… of the chocolate bar.</p>",
           "response_type": "text"
         },
         {
           "question_id": "q40",
           "number": 40,
-          "prompt_html": "<p><strong>Comment</strong> •    Accepting 40 ………… orders has created severe problems for many new businesses.</p>",
+          "prompt_html": "<p><strong>Comment</strong> <br>•    Accepting 40 ………… orders has created severe problems for many new businesses.</p>",
           "response_type": "text"
         }
       ]

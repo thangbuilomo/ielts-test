@@ -15,7 +15,7 @@
       "skill_tags": [
         "rd_tfng"
       ],
-      "instruction": "Questions 1–4 Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+      "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
       "items": [
         {
           "question_id": "q1",
@@ -52,7 +52,7 @@
           "text": "if there is no information on this"
         }
       ],
-      "prompt_html": "<p>Choose <strong>TRUE</strong> if the statement agrees with the information given in the text, choose <strong>FALSE</strong> if the statement contradicts the information, or choose <strong>NOT GIVEN</strong> if there is no information on this.</p><p><strong>1</strong> Dr Engel has spent ten years gathering evidence for the notion that animals treat their own illnesses.</p><p><strong>2</strong> Animal behaviourists have always believed that animals know how to heal themselves.</p><p><strong>3</strong> Dr Karesh enlisted the help of a medical team during his research.</p><p><strong>4</strong> Wild animals taken into captivity tend to experience a decline in health.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t6_rd_p1_g2",
@@ -65,7 +65,7 @@
       "skill_tags": [
         "rd_comp_table"
       ],
-      "instruction": "Questions 5–9 Complete the table below.",
+      "instruction": "Complete the table below.",
       "items": [
         {
           "question_id": "q5",
@@ -93,7 +93,7 @@
           "prompt_html": "Question 9"
         }
       ],
-      "prompt_html": "<p>Complete the table below.</p><table><thead><tr><th><strong>Researchers</strong></th><th><strong>Subjects</strong></th><th><strong>Self-treatment</strong></th><th><strong>Findings</strong></th><th><strong>Other observations</strong></th></tr></thead><tbody><tr><td>Micheal Huffman &amp; Mohamedi Seifu 1987</td><td>Chimps with worms</td><td>Eat  &lt;blank data-qid=&quot;q5&quot;/&gt;of Veronia plant</td><td>Plant contains toxins known as  &lt;blank data-qid=&quot;q6&quot;/&gt;that kill parasites.</td><td>Remedy also used by people</td></tr><tr><td>James Gilardi 1999</td><td>Macaws that consume poison-bearing seeds</td><td>Eat clay</td><td>Clay leads to reduction in level of  &lt;blank data-qid=&quot;q7&quot;/&gt;in blood</td><td></td></tr><tr><td>Richard Wrangham</td><td>Chimps with gut parasites</td><td>Eat Aspilia leaves</td><td>Undigested leaves wrongly believed to contain a  &lt;blank data-qid=&quot;q8&quot;/&gt;</td><td>Chimps indicate leaves have an  &lt;blank data-qid=&quot;q9&quot;/&gt;taste</td></tr></tbody></table><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p>"
+      "prompt_html": "<p>Complete the table below.</p><table><thead><tr><th><strong>Researchers</strong></th><th><strong>Subjects</strong></th><th><strong>Self-treatment</strong></th><th><strong>Findings</strong></th><th><strong>Other observations</strong></th></tr></thead><tbody><tr><td>Micheal Huffman &amp; Mohamedi Seifu 1987</td><td>Chimps with worms</td><td>Eat  &lt;blank data-qid=&quot;q5&quot;/&gt; of Veronia plant</td><td>Plant contains toxins known as  &lt;blank data-qid=&quot;q6&quot;/&gt; that kill parasites.</td><td>Remedy also used by people</td></tr><tr><td>James Gilardi 1999</td><td>Macaws that consume poison-bearing seeds</td><td>Eat clay</td><td>Clay leads to reduction in level of  &lt;blank data-qid=&quot;q7&quot;/&gt; in blood</td><td></td></tr><tr><td>Richard Wrangham</td><td>Chimps with gut parasites</td><td>Eat Aspilia leaves</td><td>Undigested leaves wrongly believed to contain a  &lt;blank data-qid=&quot;q8&quot;/&gt;</td><td>Chimps indicate leaves have an  &lt;blank data-qid=&quot;q9&quot;/&gt; taste</td></tr></tbody></table><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p>"
     },
     {
       "group_id": "vol_09_t6_rd_p1_g3",
@@ -106,7 +106,7 @@
       "skill_tags": [
         "rd_comp_summary"
       ],
-      "instruction": "Questions 10–13 Complete the summary below. Write ONE WORD ONLY from the passage for each answer. Soil as medication The consumption of soil for medicinal reasons is called 10 ___________ .Initially, people believed that animals ate dirt to get 11 ___________ and other minerals. They then realised that the soil eaten in some areas did not contain a lot of minerals, and that in other areas plants were a better mineral source. Many people believe that the clay in soil can 12 ___________ poisons. Indeed, clay- based 13 ___________ are sold in African markets to treat a range of illnesses.",
+      "instruction": "Complete the summary below.<br/>Write ONE WORD ONLY from the passage for each answer.",
       "items": [
         {
           "question_id": "q10",
@@ -129,7 +129,7 @@
           "prompt_html": "Question 13"
         }
       ],
-      "prompt_html": "<p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p><strong>Soil as medication</strong></p><p>The consumption of soil for medicinal reasons is called &lt;blank data-qid=&quot;q10&quot;/&gt;.Initially, people believed that animals ate dirt to get &lt;blank data-qid=&quot;q11&quot;/&gt;and other minerals. They then realised that the soil eaten in some areas did not contain a lot of minerals, and that in other areas plants were a better mineral source. Many people believe that the clay in soil can &lt;blank data-qid=&quot;q12&quot;/&gt;poisons. Indeed, clay- based &lt;blank data-qid=&quot;q13&quot;/&gt;are sold in African markets to treat a range of illnesses.</p>"
+      "prompt_html": "<p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p><strong>Soil as medication</strong></p><p>The consumption of soil for medicinal reasons is called &lt;blank data-qid=&quot;q10&quot;/&gt;.Initially, people believed that animals ate dirt to get &lt;blank data-qid=&quot;q11&quot;/&gt; and other minerals. They then realised that the soil eaten in some areas did not contain a lot of minerals, and that in other areas plants were a better mineral source. Many people believe that the clay in soil can &lt;blank data-qid=&quot;q12&quot;/&gt; poisons. Indeed, clay- based &lt;blank data-qid=&quot;q13&quot;/&gt; are sold in African markets to treat a range of illnesses.</p>"
     },
     {
       "group_id": "vol_09_t6_rd_p2_g1",
@@ -143,7 +143,7 @@
         "rd_match_headings",
         "rd_main_idea"
       ],
-      "instruction": "Questions 14–19 Reading Passage 2 has six paragraphs. Choose the correct heading for each paragraph from the list of headings below. Choose the correct number, i-ix , in boxes 14-19 . List of Headings",
+      "instruction": "Reading Passage 2 has six paragraphs.<br/>Choose the correct heading for each paragraph from the list of headings below.<br/>Choose the correct number, i-ix , in boxes 14-19 .",
       "items": [
         {
           "question_id": "q14",
@@ -214,7 +214,7 @@
           "text": "A range of common situations that were enhanced by small talk"
         }
       ],
-      "prompt_html": "<p>Reading Passage 2 has six paragraphs.</p><p>Choose the correct heading for each paragraph from the list of headings below.</p><p>Choose the correct number, <strong>i-ix</strong> , in boxes <strong>14-19</strong> .</p><p><strong>List of Headings</strong></p><p><strong>i</strong> How sounds and physical contact strengthen social connections</p><p><strong>ii</strong> A cross-cultural study of superficial interaction</p><p><strong>iii</strong> An experiment that led to surprising results</p><p><strong>iv</strong> A study that categorised types of spoken exchanges</p><p><strong>v</strong> The personality types that find small talk more difficult</p><p><strong>vi</strong> The effect of social media on conversation skills</p><p><strong>vii</strong> Some occupations involve little or no interesting conversation</p><p><strong>viii</strong> A campaign to improve interaction in the workplace</p><p><strong>ix</strong> A range of common situations that were enhanced by small talk</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t6_rd_p2_g2",
@@ -228,7 +228,7 @@
         "rd_match_features",
         "rd_detail"
       ],
-      "instruction": "Questions 20–23 Look at the following statements ( Questions 20-23 ) and the list of people below. Match each statement with the correct person, A-E . Choose the correct letter, A-E , in boxes 20-23 . NB: You may use any letter more than once.",
+      "instruction": "Look at the following statements and the list of people below.<br/>Match each statement with the correct person, A-E .<br/>Choose the correct letter, A-E , in boxes 20-23 .<br/>NB: You may use any letter more than once.<br/><br/>List of Researchers<br/>A Matthias R. Mehl and Simine Vazire<br/>B Ipek Kulahci<br/>C Nicholas Epley and Juliana Schroeder<br/>D Gillian Sandstrom and Elizabeth Dunn<br/>E Todd Kashdan",
       "items": [
         {
           "question_id": "q20",
@@ -273,7 +273,7 @@
           "text": "Todd Kashdan"
         }
       ],
-      "prompt_html": "<p>Look at the following statements ( <strong>Questions 20-23</strong> ) and the list of people below.</p><p>Match each statement with the correct person, <strong>A-E</strong> .</p><p>Choose the correct letter, <strong>A-E</strong> , in boxes <strong>20-23</strong> .</p><p><strong><em>NB: You may use any letter more than once.</strong></em></p><p><strong>List of Researchers</strong></p><p><strong>A</strong> . Matthias R. Mehl and Simine Vazire</p><p><strong>B</strong> . Ipek Kulahci</p><p><strong>C</strong> . Nicholas Epley and Juliana Schroeder</p><p><strong>D</strong> . Gillian Sandstrom and Elizabeth Dunn</p><p><strong>E</strong> . Todd Kashdan</p><p><strong>20</strong> Interacting socially is preferable to hurrying through a transaction.</p><p><strong>21</strong> People whose conversations are mainly of a personal and meaningful nature are more satisfied with their lives.</p><p><strong>22</strong> There is more than one species whose members communicate for social reasons.</p><p><strong>23</strong> Some people find it easier than others to change the subject of a conversation.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t6_rd_p2_g3",
@@ -286,7 +286,7 @@
       "skill_tags": [
         "rd_comp_sentence"
       ],
-      "instruction": "Questions 24–26 Complete the sentences below. Write ONE WORD ONLY from the passage for each answer. In a study that took place on a train, volunteers approached people who were regular 24 _______. In an experiment in an art gallery, people related more to the 25 ___________ when they were drawn into a conversation. Introverted people found it helpful to be given 26 ____________ which could use to start a conversation.",
+      "instruction": "Complete the sentences below.<br/>Write ONE WORD ONLY from the passage for each answer.",
       "items": [
         {
           "question_id": "q24",
@@ -304,7 +304,7 @@
           "prompt_html": "Question 26"
         }
       ],
-      "prompt_html": "<p>Complete the sentences below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p>In a study that took place on a train, volunteers approached people who were regular &lt;blank data-qid=&quot;q24&quot;/&gt;. In an experiment in an art gallery, people related more to the &lt;blank data-qid=&quot;q25&quot;/&gt;when they were drawn into a conversation. Introverted people found it helpful to be given &lt;blank data-qid=&quot;q26&quot;/&gt;which could use to start a conversation.</p>"
+      "prompt_html": "<p>Complete the sentences below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p>In a study that took place on a train, volunteers approached people who were regular &lt;blank data-qid=&quot;q24&quot;/&gt;. In an experiment in an art gallery, people related more to the &lt;blank data-qid=&quot;q25&quot;/&gt; when they were drawn into a conversation. Introverted people found it helpful to be given &lt;blank data-qid=&quot;q26&quot;/&gt; which could use to start a conversation.</p>"
     },
     {
       "group_id": "vol_09_t6_rd_p3_g1",
@@ -318,7 +318,7 @@
         "rd_match_headings",
         "rd_main_idea"
       ],
-      "instruction": "Questions 27–34 Reading Passage 3 has nine paragraph, A – I Choose the correct heading for each paragraph from the list of headings below. Choose the correct number, i-xi , in boxes 27-34 . Example: Paragraph 3 iii",
+      "instruction": "Reading Passage 3 has nine paragraph, A – I<br/>Choose the correct heading for each paragraph from the list of headings below.<br/>Choose the correct number, i-xi , in boxes 27-34 .<br/>",
       "items": [
         {
           "question_id": "q27",
@@ -407,7 +407,7 @@
           "text": "Pros and cons of the continuous working week"
         }
       ],
-      "prompt_html": "<p>Reading Passage 3 has nine paragraph, <strong>A – I</strong></p><p>Choose the correct heading for each paragraph from the list of headings below.</p><p>Choose the correct number, <strong>i-xi</strong> , in boxes <strong>27-34</strong> .</p><p><em>Example:</em> <strong><em>Paragraph 3   iii</strong></em></p><p><strong>List of Headings</strong></p><p><strong>i</strong> a decision for factories to operate seven days a week</p><p><strong>ii</strong> the end of two short-lived schemes</p><p><strong>iii</strong> an attempt to create better working conditions?</p><p><strong>iv</strong> not consistently introduced everywhere</p><p><strong>v</strong> success in replacing foreign goods</p><p><strong>vi</strong> how the continuous working week was organised</p><p><strong>vii</strong> inspiration from abroad</p><p><strong>viii</strong> a proposal by factory workers</p><p><strong>ix</strong> optimism about transforming the country</p><p><strong>x</strong> the failure of factories to achieve expected improvements</p><p><strong>xi</strong> Pros and cons of the continuous working week</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t6_rd_p3_g2",
@@ -421,7 +421,7 @@
         "rd_mcq_single",
         "rd_detail"
       ],
-      "instruction": "Questions 35–37 Choose the correct answer.",
+      "instruction": "Choose the correct answer.",
       "items": [
         {
           "question_id": "q35",
@@ -493,7 +493,7 @@
           ]
         }
       ],
-      "prompt_html": "<p>Choose the correct answer.</p><p><strong>35 Which aspect of American business was admired?</strong></p><p>1. the high level of employment</p><p>2. the variety of products available</p><p>3. the methods of increasing productivity</p><p>4. the quality of the goods that were produced</p><p><strong>36 The continuous working week was intended to ensure that</strong></p><p>1. each worker&#x27;s productivity increased.</p><p>2. machinery was in continuous use.</p><p>3. workers had more days off.</p><p>4. factories could afford to buy efficient machines.</p><p><strong>37 Which of the following was thought unlikely to improve as a result of the continuous working week?</strong></p><p>1. family life</p><p>2. leisure facilities</p><p>3. employment levels</p><p>4. shopping opportunities</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t6_rd_p3_g3",
@@ -507,25 +507,25 @@
         "rd_short_answer",
         "rd_detail"
       ],
-      "instruction": "Questions 38–40 Answer the questions below. Write NO MORE THAN THREE WORDS from the passage for each answer. What was the name of the person whose theories inspired efforts to increase efficiency? 38 ____________ What was the name of the person with proposed the continuous working week? 39 ____________",
+      "instruction": "Answer the questions below.<br/>Write <b>NO MORE THAN THREE WORDS</b> from the passage for each answer.",
       "items": [
         {
           "question_id": "q38",
           "number": 38,
-          "prompt_html": "Question 38"
+          "prompt_html": "What was the name of the person whose theories inspired efforts to increase efficiency?"
         },
         {
           "question_id": "q39",
           "number": 39,
-          "prompt_html": "Question 39"
+          "prompt_html": "What was the name of the person who proposed the continuous working week?"
         },
         {
           "question_id": "q40",
           "number": 40,
-          "prompt_html": "Question 40"
+          "prompt_html": "In calendars of the continuous working week, what system was used to identify different groups of workers?"
         }
       ],
-      "prompt_html": "<p>Answer the questions below.</p><p>Write <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p><p>What was the name of the person whose theories inspired efforts to increase efficiency? &lt;blank data-qid=&quot;q38&quot;/&gt;What was the name of the person with proposed the continuous working week? &lt;blank data-qid=&quot;q39&quot;/&gt;In calendars of the continuous working week, what system was used to identify different groups of workers? &lt;blank data-qid=&quot;q40&quot;/&gt;</p>"
+      "prompt_html": "<p>Answer the questions below.<br/>Write <b>NO MORE THAN THREE WORDS</b> from the passage for each answer.</p>"
     }
   ]
 }

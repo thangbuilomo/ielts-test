@@ -94,36 +94,36 @@
         "ls_detail"
       ],
       "instruction": "What is the main attraction in each of the following areas of the festival?<br/>Choose the correct answer from the box.",
-      "prompt_html": "<p><strong>Questions 11–15</strong></p><p>What is the main attraction in each of the following areas of the festival?<br/>Choose the correct answer from the box.</p><p><strong>Attractions</strong></p><p>A talks about gardening</p><p>B live music</p><p>C an art exhibition</p><p>D a children's playground</p><p>E evening entertainment</p><p>F a competition for adults</p><p>G vegetable market</p><p><strong>Areas of the festival</strong> Bridge Street <strong>11</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>King's Park <strong>12</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Oakvale School <strong>13</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Green Road <strong>14</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Sun Lane <strong>15</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+      "prompt_html": "<p><strong>Questions 11–15</strong></p><p><strong>Attractions</strong><br/><strong>A</strong> talks about gardening<br/><strong>B</strong> live music<br/><strong>C</strong> an art exhibition<br/><strong>D</strong> a children's playground<br/><strong>E</strong> evening entertainment<br/><strong>F</strong> a competition for adults<br/><strong>G</strong> vegetable market</p>",
       "items": [
         {
           "question_id": "q11",
           "number": 11,
-          "prompt_html": "<p><strong>Areas of the festival</strong> Bridge Street <strong>11</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "prompt_html": "<p><strong>11</strong> Bridge Street</p>",
           "response_type": "select"
         },
         {
           "question_id": "q12",
           "number": 12,
-          "prompt_html": "<p>King's Park <strong>12</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "prompt_html": "<p><strong>12</strong> King's Park</p>",
           "response_type": "select"
         },
         {
           "question_id": "q13",
           "number": 13,
-          "prompt_html": "<p>Oakvale School <strong>13</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "prompt_html": "<p><strong>13</strong> Oakvale School</p>",
           "response_type": "select"
         },
         {
           "question_id": "q14",
           "number": 14,
-          "prompt_html": "<p>Green Road <strong>14</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "prompt_html": "<p><strong>14</strong> Green Road</p>",
           "response_type": "select"
         },
         {
           "question_id": "q15",
           "number": 15,
-          "prompt_html": "<p>Sun Lane <strong>15</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "prompt_html": "<p><strong>15</strong> Sun Lane</p>",
           "response_type": "select"
         }
       ],
@@ -345,12 +345,12 @@
         "ls_detail"
       ],
       "instruction": "Which theorist makes each of the following points?<br/>Choose the correct group: <strong>A</strong> (Allen), <strong>B</strong> (James) or <strong>C</strong> (Vander). You may choose any group more than once.",
-      "prompt_html": "<p><strong>Questions 34–40</strong></p><p>Which theorist makes each of the following points?<br/>Choose the correct group: <strong>A</strong> (Allen), <strong>B</strong> (James) or <strong>C</strong> (Vander). You may choose any group more than once.</p><p>Theorists</p><p><strong>A</strong> Allen</p><p><strong>B</strong> James</p><p><strong>C</strong> Vander</p><p><strong>Points made</strong></p><p><strong>34</strong> Current teaching methods don't work.</p><p><strong>35</strong> Many students don't understand computers.</p><p><strong>36</strong> Computer technology doesn't interest all students.</p><p><strong>37</strong> Students can still learn the traditional way.</p><p><strong>38</strong> Students still need to learn research skills.</p><p><strong>39</strong> We should use computer games to teach.</p><p><strong>40</strong> Computers can't replace educators.</p>",
+      "prompt_html": "<p><strong>Questions 34–40</strong></p><p><strong>Theorists</strong><br/><strong>A</strong> Allen<br/><strong>B</strong> James<br/><strong>C</strong> Vander</p>",
       "items": [
         {
           "question_id": "q34",
           "number": 34,
-          "prompt_html": "<p>Choose the correct letter, <strong>A</strong> , <strong>B</strong> or <strong>C</strong> , next to questions <strong>34-40</strong> .</p>",
+          "prompt_html": "<p><strong>34</strong> Current teaching methods don't work.</p>",
           "response_type": "select"
         },
         {
@@ -386,8 +386,22 @@
         {
           "question_id": "q40",
           "number": 40,
-          "prompt_html": "<p>Choose the correct letter, <strong>A</strong> , <strong>B</strong> or <strong>C</strong> , next to questions <strong>34-40</strong> .</p>",
+          "prompt_html": "<p><strong>40</strong> Computers can't replace educators.</p>",
           "response_type": "select"
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Allen"
+        },
+        {
+          "label": "B",
+          "text": "James"
+        },
+        {
+          "label": "C",
+          "text": "Vander"
         }
       ]
     }

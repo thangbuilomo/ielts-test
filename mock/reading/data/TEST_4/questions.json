@@ -15,7 +15,7 @@
       "skill_tags": [
         "rd_comp_sentence"
       ],
-      "instruction": "Questions 1–5 Complete the sentences below. Write NO MORE THAN THREE WORDS from the passage for each answer. In Luapula Province, land has traditionally been given to people on the basis of 1 _____________. The citemene system involves planting crops in the 2 _____________ of wood.",
+      "instruction": "Complete the sentences below.<br/>Write NO MORE THAN THREE WORDS from the passage for each answer.",
       "items": [
         {
           "question_id": "q1",
@@ -43,7 +43,7 @@
           "prompt_html": "Question 5"
         }
       ],
-      "prompt_html": "<p>Complete the sentences below.</p><p>Write <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p><p>In Luapula Province, land has traditionally been given to people on the basis of &lt;blank data-qid=&quot;q1&quot;/&gt;.</p><p>The citemene system involves planting crops in the &lt;blank data-qid=&quot;q2&quot;/&gt;of wood.</p><p>In the citemene system &lt;blank data-qid=&quot;q3&quot;/&gt;is the last crop to be planted.</p><p>In Areas without trees, crops are planted in a &lt;blank data-qid=&quot;q4&quot;/&gt;.</p><p>If conditions are right, fruit trees may be planted near &lt;blank data-qid=&quot;q5&quot;/&gt;.</p>"
+      "prompt_html": "<p>Complete the sentences below.</p><p>Write <strong>NO MORE THAN THREE WORDS</strong> from the passage for each answer.</p><p>In Luapula Province, land has traditionally been given to people on the basis of &lt;blank data-qid=&quot;q1&quot;/&gt;.</p><p>The citemene system involves planting crops in the &lt;blank data-qid=&quot;q2&quot;/&gt; of wood.</p><p>In the citemene system &lt;blank data-qid=&quot;q3&quot;/&gt; is the last crop to be planted.</p><p>In Areas without trees, crops are planted in a &lt;blank data-qid=&quot;q4&quot;/&gt;.</p><p>If conditions are right, fruit trees may be planted near &lt;blank data-qid=&quot;q5&quot;/&gt;.</p>"
     },
     {
       "group_id": "vol_09_t4_rd_p1_g2",
@@ -57,7 +57,7 @@
         "rd_match_features",
         "rd_detail"
       ],
-      "instruction": "Questions 6–9 Look at the following statements (Questions 6-9) and the list of animals below. Match each statement with the correct animal, A, B or C. Choose the correct letter, A, B or C , in boxes 6-9 . NB You may use any letter more than once.",
+      "instruction": "Look at the following statements and the list of animals below.<br/>Match each statement with the correct animal, A, B or C.<br/>Choose the correct letter, A, B or C , in boxes 6-9 .<br/>NB You may use any letter more than once.<br/><br/>List of Animals<br/>A fish<br/>B goats<br/>C oxen",
       "items": [
         {
           "question_id": "q6",
@@ -94,7 +94,7 @@
           "text": "oxen"
         }
       ],
-      "prompt_html": "<p>Look at the following statements (Questions 6-9) and the list of animals below.</p><p>Match each statement with the correct animal, A, B or C.</p><p>Choose the correct letter, <strong>A, B</strong> or <strong>C</strong> , in boxes <strong>6-9</strong> .</p><p><strong><em>NB   You may use any letter more than once.</strong></em></p><p><strong>List of Animals</strong></p><p><strong>A</strong> . fish</p><p><strong>B</strong> . goats</p><p><strong>C</strong> . oxen</p><p><strong>6</strong> They yield the biggest profits for farmers.</p><p><strong>7</strong> They may be consumed on special occasions.</p><p><strong>8</strong> Because of insect pests they do not thrive.</p><p><strong>9</strong> They are often preserved and sold outside the local area.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t4_rd_p1_g3",
@@ -107,7 +107,7 @@
       "skill_tags": [
         "rd_tfng"
       ],
-      "instruction": "Questions 10–12 Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+      "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
       "items": [
         {
           "question_id": "q10",
@@ -139,7 +139,7 @@
           "text": "if there is no information on this"
         }
       ],
-      "prompt_html": "<p>Choose <strong>TRUE</strong> if the statement agrees with the information given in the text, choose <strong>FALSE</strong> if the statement contradicts the information, or choose <strong>NOT GIVEN</strong> if there is no information on this.</p><p><strong>10</strong> Agricultural land is usually prepared without the help of oxen.</p><p><strong>11</strong> Children are a source of extra labour during busy periods.</p><p><strong>12</strong> The people of Luapula Province eat chicken on a regular basis.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t4_rd_p1_g4",
@@ -153,7 +153,7 @@
         "rd_mcq_single",
         "rd_detail"
       ],
-      "instruction": "Questions 13 Choose the correct answer.",
+      "instruction": "Choose the correct answer.",
       "items": [
         {
           "question_id": "q13",
@@ -179,7 +179,7 @@
           ]
         }
       ],
-      "prompt_html": "<p>Choose the correct answer.</p><p><strong>13 What is the writer&#x27;s opinion about traditional farming methods in Luapula Province?</strong></p><p>1. They meet all the dietary needs of the local population.</p><p>2. The region&#x27;s natural resources have not been fully exploited.</p><p>3. They will be inadequate to support a growing population.</p><p>4. A larger labour force will be required for maximum efficiency.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t4_rd_p2_g1",
@@ -193,7 +193,7 @@
         "rd_match_information",
         "rd_scanning"
       ],
-      "instruction": "Questions 14–19 Reading Passage 2 has eight paragraphs, A-H . Which paragraph contains the following information? Choose the correct letter, A-H , in boxes 14-19 . NB You may use any letter more than once.",
+      "instruction": "Reading Passage 2 has eight paragraphs, A-H .<br/>Which paragraph contains the following information?<br/>Choose the correct letter, A-H , in boxes 14-19 .<br/>NB You may use any letter more than once.",
       "items": [
         {
           "question_id": "q14",
@@ -260,7 +260,7 @@
           "text": "Paragraph H"
         }
       ],
-      "prompt_html": "<p>Reading Passage 2 has eight paragraphs, <strong>A-H</strong> . <em>Which paragraph contains the following information?</em> Choose the correct letter, <strong>A-H</strong> , in boxes <strong>14-19</strong> .</p><p><strong><em>NB   You may use any letter more than once.</strong></em></p><p><strong>14</strong> a description of the methodology of an experiment carried out by several research institutes</p><p><strong>15</strong> the rationale for choosing the participants of an experiment</p><p><strong>16</strong> a suggestion that babies are driven to copy their mothers to gain food</p><p><strong>17</strong> an account of the methodology of a past experiment carried out by the Leipzig researchers</p><p><strong>18</strong> an illustration of the limitation of babies&#x27; ability to hear inside the womb</p><p><strong>19</strong> an assertion that babies of different nationalities cry with different intonation</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t4_rd_p2_g2",
@@ -274,7 +274,7 @@
         "rd_match_features",
         "rd_detail"
       ],
-      "instruction": "Questions 20–23 Look at the following statements (Questions 20-23) and the list of researchers below. Match each statement with the correct researcher, A, B, or C. Choose the correct letter, A , B , or C , in boxes 20-23 . NB You may use any letter more than once. Lists of reseachers",
+      "instruction": "Look at the following statements and the list of researchers below.<br/>Match each statement with the correct researcher, A, B, or C.<br/>Choose the correct letter, A , B , or C , in boxes 20-23 .<br/>NB You may use any letter more than once.<br/><br/>Lists of reseachers<br/>A Professor Amelia Finlayson<br/>B Doctor Katya Williams<br/>C Mr Walter Meade",
       "items": [
         {
           "question_id": "q20",
@@ -311,7 +311,7 @@
           "text": "Mr Walter Meade"
         }
       ],
-      "prompt_html": "<p>Match each statement with the correct researcher, A, B, or C.</p><p>Choose the correct letter, <strong>A</strong> , <strong>B</strong> , or <strong>C</strong> , in boxes <strong>20-23</strong> .</p><p><strong><em>NB  You may use any letter more than once.</strong></em></p><p><strong>Lists of reseachers</strong></p><p><strong>A</strong> . Professor Amelia Finlayson</p><p><strong>B</strong> . Doctor Katya Williams</p><p><strong>C</strong> . Mr Walter Meade</p><p><strong>20</strong> Important everyday sounds must remain consistent in order to be understood.</p><p><strong>21</strong> The different tones used in crying help babies to learn language later on.</p><p><strong>22</strong> The tune of young primates’ cries is created by their breathing, not their brain.</p><p><strong>23</strong> Unborn babies in the womb are focused on the voice of one specific person.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t4_rd_p2_g3",
@@ -324,7 +324,7 @@
       "skill_tags": [
         "rd_comp_sentence"
       ],
-      "instruction": "Questions 24–26 Complete the sentences below. Write ONE WORD ONLY from the passage for each answer. Professor Amelia Finlayson doubts unborn babies can recognise different 24 ___________. In the first Leipzig experiment, the 25 ___________ of babies changed upon hearing different intonation patterns. Early scientists believed that babies cried for no other reason than as a 26 ___________ that they wanted their parents.",
+      "instruction": "Complete the sentences below.<br/>Write ONE WORD ONLY from the passage for each answer.",
       "items": [
         {
           "question_id": "q24",
@@ -342,7 +342,7 @@
           "prompt_html": "Question 26"
         }
       ],
-      "prompt_html": "<p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p>Professor Amelia Finlayson doubts unborn babies can recognise different &lt;blank data-qid=&quot;q24&quot;/&gt;.</p><p>In the first Leipzig experiment, the &lt;blank data-qid=&quot;q25&quot;/&gt;of babies changed upon hearing different intonation patterns.</p><p>Early scientists believed that babies cried for no other reason than as a &lt;blank data-qid=&quot;q26&quot;/&gt;that they wanted their parents.</p>"
+      "prompt_html": "<p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p>Professor Amelia Finlayson doubts unborn babies can recognise different &lt;blank data-qid=&quot;q24&quot;/&gt;.</p><p>In the first Leipzig experiment, the &lt;blank data-qid=&quot;q25&quot;/&gt; of babies changed upon hearing different intonation patterns.</p><p>Early scientists believed that babies cried for no other reason than as a &lt;blank data-qid=&quot;q26&quot;/&gt; that they wanted their parents.</p>"
     },
     {
       "group_id": "vol_09_t4_rd_p3_g1",
@@ -355,7 +355,7 @@
       "skill_tags": [
         "rd_ynng"
       ],
-      "instruction": "Questions 27–32 Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
       "items": [
         {
           "question_id": "q27",
@@ -402,7 +402,7 @@
           "text": "if it is impossible to say from the passage"
         }
       ],
-      "prompt_html": "<p>Choose <strong>YES</strong> if the statement agrees with the claims of the writer, choose <strong>NO</strong> if the statement contradicts the claims of the writer, or <strong>NOT GIVEN</strong> if it is impossible to say what the writer thinks about this.</p><p><strong>27</strong> Historians have expressed little curiosity about the rise of the Roman Empire.</p><p><strong>28</strong> Accounts from the first century BCE of Rome&#x27;s origins may be less reliable than 21st-century accounts.</p><p><strong>29</strong> Most Roman historians viewed their ancient capital in an unrealistically positive light.</p><p><strong>30</strong> The accounts by early Roman historians about the founding of Rome provide a full description of life at that time.</p><p><strong>31</strong> It is certain that the city of Rome was in existence long before 63 BCE.</p><p><strong>32</strong> Some people oppose archaeological excavations in Rome because they can damage the ancient monuments.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t4_rd_p3_g2",
@@ -416,7 +416,7 @@
         "rd_mcq_single",
         "rd_detail"
       ],
-      "instruction": "Questions 33–36 Choose the correct answer.",
+      "instruction": "Choose the correct answer.",
       "items": [
         {
           "question_id": "q33",
@@ -511,7 +511,7 @@
           ]
         }
       ],
-      "prompt_html": "<p>Choose the correct answer.</p><p><strong>33 According to the writer, why were the archaeological remains found at Fidenae important?</strong></p><p>1. They shed some light on the way of life of ancient Romans.</p><p>2. They were the first evidence of an ancient Roman settlement in the area.</p><p>3. They overturned common assumptions about the diet of ancient Romans.</p><p>4. They showed how sophisticated domestic Roman architecture could be.</p><p><strong>34 What did Rome&#x27;s marble temples and Renaissance houses have in common?</strong></p><p>1. They were the most enduring buildings of their respective eras.</p><p>2. They were evidence of Rome&#x27;s enormous wealth.</p><p>3. They were built on previously unoccupied sites.</p><p>4. Their construction destroyed evidence of earlier buildings.</p><p><strong>35 What does the writer say in the fifth paragraph about the dating of excavated remains?</strong></p><p>1. Only the age of a proportion of remains can be agreed upon.</p><p>2. Only an approximate sequence of eras can be established.</p><p>3. Serious attempts at dating began only a few decades ago.</p><p>4. More thorough investigations will result in reliable dates.</p><p><strong>36 In the final paragraph, the writer makes the point that</strong></p><p>1. traditional archaeological methods of dating have been discredited.</p><p>2. many archaeologists are reluctant to abandon traditional methods of dating.</p><p>3. radiocarbon dating is more accurate than archaeological methods.</p><p>4. the findings of traditional archaeology and radiocarbon dating differ.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t4_rd_p3_g3",
@@ -525,27 +525,27 @@
         "rd_match_sentence_endings",
         "rd_cohesion"
       ],
-      "instruction": "Questions 37–40 Complete each sentence with the corect ending, A-F , below. A. composed of organic materials which are in use in the 21 st century. B. referred to in popular legends about the origins of Rome. C. constructed on the site of an earlier burial ground.",
+      "instruction": "Complete each sentence with the corect ending, A-F , below.<br/><br/>List of endings<br/>A composed of organic materials which are in use in the 21 st century.<br/>B referred to in popular legends about the origins of Rome.<br/>C constructed on the site of an earlier burial ground.<br/>D used to determine the relative dates of various Roman artefacts.<br/>E chosen as the area for the greatest number of archaeological excavations.<br/>F expected to shed some light on what Rome was originally like.",
       "items": [
         {
           "question_id": "q37",
           "number": 37,
-          "prompt_html": "Question 37"
+          "prompt_html": "The Latin language can be ..."
         },
         {
           "question_id": "q38",
           "number": 38,
-          "prompt_html": "Question 38"
+          "prompt_html": "The Roman Forum was ..."
         },
         {
           "question_id": "q39",
           "number": 39,
-          "prompt_html": "Question 39"
+          "prompt_html": "The recently discovered building at Fidenae was ..."
         },
         {
           "question_id": "q40",
           "number": 40,
-          "prompt_html": "Question 40"
+          "prompt_html": "Ancient Greek pottery is sometimes ..."
         }
       ],
       "options": [
@@ -574,7 +574,7 @@
           "text": "expected to shed some light on what Rome was originally like."
         }
       ],
-      "prompt_html": "<p>Complete each sentence with the corect ending, <strong>A-F</strong> , below.</p><p><strong>A. composed of organic materials which are in use in the 21</strong> <strong>st</strong> <strong>century.</strong></p><p><strong>B. referred to in popular legends about the origins of Rome.</strong></p><p><strong>C. constructed on the site of an earlier burial ground.</strong></p><p><strong>D. used to determine the relative dates of various Roman artefacts.</strong></p><p><strong>E. chosen as the area for the greatest number of archaeological excavations.</strong></p><p><strong>F. expected to shed some light on what Rome was originally like.</strong></p><p>The Latin language can be <strong>37</strong> ____________</p><p>The Roman Forum was <strong>38</strong> ____________</p><p>The recently discovered building at Fidenae was <strong>39</strong> ____________</p><p>Ancient Greek pottery is sometimes <strong>40</strong> ____________</p>"
+      "prompt_html": ""
     }
   ]
 }

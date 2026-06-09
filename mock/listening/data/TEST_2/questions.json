@@ -370,44 +370,78 @@
         "ls_matching",
         "ls_detail"
       ],
-      "instruction": "What issue do Emma and Nick discuss for each aspect of the presentation? Choose SIX correct answers, **A-H** , next to questions **25-30** .",
-      "prompt_html": "<p><strong>Questions 25–30</strong></p><p><em>What issue do Emma and Nick discuss for each aspect of the presentation?</em></p><p>Choose SIX correct answers, <strong>A-H</strong> , next to questions <strong>25-30</strong> .</p><p>Issues</p><p>Aspects of the presentation</p><p>Introduction 25 …………..<br/>Researcher profiles 26 ………….<br/>Section on automation 27 …………<br/>Section on workplace structure 28 ………….<br/>Section on tracking technology 29 …………..<br/>Interview with company manager 30 …………</p><p><strong>A  at which point of the presentation it should come</strong></p><p><strong>B  whether it should be removed completely</strong></p><p><strong>C whether it is clear enough</strong></p><p><strong>D  if it needs to be completely re-written</strong></p><p><strong>E  if visuals will help or not</strong></p><p><strong>F  if the information needs to be checked</strong></p><p><strong>G  which further examples should be included</strong></p><p><strong>H  which of them will present it</strong></p>",
+      "instruction": "What issue do Emma and Nick discuss for each aspect of the presentation?<br/>Choose <strong>SIX</strong> correct answers, <strong>A-H</strong>, next to questions 25-30.",
+      "prompt_html": "<p><strong>Questions 25–30</strong></p><p><strong>Issues</strong><br/><strong>A</strong> at which point of the presentation it should come<br/><strong>B</strong> whether it should be removed completely<br/><strong>C</strong> whether it is clear enough<br/><strong>D</strong> if it needs to be completely re-written<br/><strong>E</strong> if visuals will help or not<br/><strong>F</strong> if the information needs to be checked<br/><strong>G</strong> which further examples should be included<br/><strong>H</strong> which of them will present it</p>",
       "items": [
         {
           "question_id": "q25",
           "number": 25,
-          "prompt_html": "<p>Choose SIX correct answers, <strong>A-H</strong> , next to questions <strong>25-30</strong> .</p>",
+          "prompt_html": "<p><strong>25</strong> Introduction</p>",
           "response_type": "select"
         },
         {
           "question_id": "q26",
           "number": 26,
-          "prompt_html": "<p>Researcher profiles 26 ………….</p>",
+          "prompt_html": "<p><strong>26</strong> Researcher profiles</p>",
           "response_type": "select"
         },
         {
           "question_id": "q27",
           "number": 27,
-          "prompt_html": "<p>Section on automation 27 …………</p>",
+          "prompt_html": "<p><strong>27</strong> Section on automation</p>",
           "response_type": "select"
         },
         {
           "question_id": "q28",
           "number": 28,
-          "prompt_html": "<p>Section on workplace structure 28 ………….</p>",
+          "prompt_html": "<p><strong>28</strong> Section on workplace structure</p>",
           "response_type": "select"
         },
         {
           "question_id": "q29",
           "number": 29,
-          "prompt_html": "<p>Section on tracking technology 29 …………..</p>",
+          "prompt_html": "<p><strong>29</strong> Section on tracking technology</p>",
           "response_type": "select"
         },
         {
           "question_id": "q30",
           "number": 30,
-          "prompt_html": "<p>Choose SIX correct answers, <strong>A-H</strong> , next to questions <strong>25-30</strong> .</p>",
+          "prompt_html": "<p><strong>30</strong> Interview with company manager</p>",
           "response_type": "select"
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "at which point of the presentation it should come"
+        },
+        {
+          "label": "B",
+          "text": "whether it should be removed completely"
+        },
+        {
+          "label": "C",
+          "text": "whether it is clear enough"
+        },
+        {
+          "label": "D",
+          "text": "if it needs to be completely re-written"
+        },
+        {
+          "label": "E",
+          "text": "if visuals will help or not"
+        },
+        {
+          "label": "F",
+          "text": "if the information needs to be checked"
+        },
+        {
+          "label": "G",
+          "text": "which further examples should be included"
+        },
+        {
+          "label": "H",
+          "text": "which of them will present it"
         }
       ]
     },
@@ -423,66 +457,66 @@
         "ls_comp_note"
       ],
       "instruction": "Complete the notes below.<br/>Write <strong>ONE WORD ONLY</strong> for each answer.",
-      "prompt_html": "<p><strong>Questions 31–40</strong></p><p>Complete the notes below.<br/>Write <strong>ONE WORD ONLY</strong> for each answer.</p><p><strong>HEALTH ON THE NIGHT SHIFT</strong></p><p><strong>Background:</strong> •    in number of night workers because of 31 …………. 24-hour shopping/services<br/>•    need to examine effects of changing work and sleep habits US and British research found these lead to health problems</p><p><strong>Main Causes:</strong> <em><strong>A</strong></em> 32 …………<br/>•    regulates daily life<br/>•    connected to behavioural patterns and cycles of 33 …………<br/>•    programmes us to be awake and asleep at certain times</p><p><em><strong>B    Sleep Debt</strong></em> •    impossible to get enough sleep during daytime</p><p><em><strong>C</strong></em> 34 ………….<br/>•    different working/sleeping times, ‘dislocation’</p><p><strong>Effects:</strong> <em><strong>A    Physical</strong></em> •    higher incidence of heart and  35 ………………  problems<br/>•    more minor illnesses, suggesting that immunity of shift workers is affected</p><p><em><strong>B    Psychological</strong></em> •    most common: 36 …………….<br/>•    37 ……………… affected, e.g. decision-making, planning, which regulate our 38 …………...</p><p>***C    Social<br/>Night shift work can lead to:*** •    destruction of  39 …………. and other relationships, e.g. 40 …………..<br/>•    eventually, for individuals: social isolation</p>",
+      "prompt_html": "<p><strong>Questions 31–40</strong></p><p>Complete the notes below.<br/>Write <strong>ONE WORD ONLY</strong> for each answer.</p><p><strong>HEALTH ON THE NIGHT SHIFT</strong></p><p><strong>Background:</strong><br/>•    in number of night workers because of 31 …………. 24-hour shopping/services<br/>•    need to examine effects of changing work and sleep habits<br/>•    US and British research found these lead to health problems</p><p><strong>Main Causes:</strong><br/><strong>A</strong> 32 …………<br/>•    regulates daily life<br/>•    connected to behavioural patterns and cycles of 33 …………<br/>•    programmes us to be awake and asleep at certain times<br/><br/><strong>B    Sleep Debt</strong><br/>•    impossible to get enough sleep during daytime<br/><br/><strong>C</strong> 34 ………….<br/>•    different working/sleeping times, ‘dislocation’</p><p><strong>Effects:</strong><br/><strong>A    Physical</strong><br/>•    higher incidence of heart and  35 …………      problems<br/>•    more minor illnesses, suggesting that immunity of shift workers is affected<br/><br/><strong>B    Psychological</strong><br/>•    most common: 36 …………….<br/>•    37 …………      affected, e.g. decision-making, planning, which regulate our 38 …………...<br/><br/><strong>C    Social</strong><br/>Night shift work can lead to:<br/>•    destruction of  39 …………. and other relationships, e.g. 40 …………..<br/>•    eventually, for individuals: social isolation</p>",
       "items": [
         {
           "question_id": "q31",
           "number": 31,
-          "prompt_html": "<p><strong>Background:</strong> •    in number of night workers because of 31 …………. 24-hour shopping/services</p>",
+          "prompt_html": "<p>• in number of night workers because of 31 …………. 24-hour shopping/services</p>",
           "response_type": "text"
         },
         {
           "question_id": "q32",
           "number": 32,
-          "prompt_html": "<p><strong>Main Causes:</strong> <em><strong>A</strong></em> 32 …………</p>",
+          "prompt_html": "<p>Main Causes: A 32 …………</p>",
           "response_type": "text"
         },
         {
           "question_id": "q33",
           "number": 33,
-          "prompt_html": "<p>•    connected to behavioural patterns and cycles of 33 …………</p>",
+          "prompt_html": "<p>• connected to behavioural patterns and cycles of 33 …………</p>",
           "response_type": "text"
         },
         {
           "question_id": "q34",
           "number": 34,
-          "prompt_html": "<p><em><strong>C</strong></em> 34 ………….</p>",
+          "prompt_html": "<p>C 34 ………….</p>",
           "response_type": "text"
         },
         {
           "question_id": "q35",
           "number": 35,
-          "prompt_html": "<p><strong>Effects:</strong> <em><strong>A    Physical</strong></em> •    higher incidence of heart and  35 ………………  problems</p>",
+          "prompt_html": "<p>• higher incidence of heart and 35 ……………… problems</p>",
           "response_type": "text"
         },
         {
           "question_id": "q36",
           "number": 36,
-          "prompt_html": "<p><em><strong>B    Psychological</strong></em> •    most common: 36 …………….</p>",
+          "prompt_html": "<p>B Psychological - most common: 36 …………….</p>",
           "response_type": "text"
         },
         {
           "question_id": "q37",
           "number": 37,
-          "prompt_html": "<p>•    37 ……………… affected, e.g. decision-making, planning, which regulate our 38 …………...</p>",
+          "prompt_html": "<p>• 37 ……………… affected, e.g. decision-making, planning</p>",
           "response_type": "text"
         },
         {
           "question_id": "q38",
           "number": 38,
-          "prompt_html": "<p>•    37 ……………… affected, e.g. decision-making, planning, which regulate our 38 …………...</p>",
+          "prompt_html": "<p>• ... planning, which regulate our 38 …………...</p>",
           "response_type": "text"
         },
         {
           "question_id": "q39",
           "number": 39,
-          "prompt_html": "<p>Night shift work can lead to:*** •    destruction of  39 …………. and other relationships, e.g. 40 …………..</p>",
+          "prompt_html": "<p>Night shift work can lead to: • destruction of 39 …………. and other relationships</p>",
           "response_type": "text"
         },
         {
           "question_id": "q40",
           "number": 40,
-          "prompt_html": "<p>Night shift work can lead to:*** •    destruction of  39 …………. and other relationships, e.g. 40 …………..</p>",
+          "prompt_html": "<p>Night shift work can lead to: ... other relationships, e.g. 40 …………..</p>",
           "response_type": "text"
         }
       ]

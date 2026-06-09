@@ -256,32 +256,62 @@
         "ls_matching",
         "ls_detail"
       ],
-      "instruction": "Choose **FOUR** correct answers, **A-G** , next to questions **27-30** .",
-      "prompt_html": "<p><strong>Questions 27–30</strong></p><p>What disadvantage do the speakers identify for each of the following textbooks?</p><p>Choose <strong>FOUR</strong> correct answers, <strong>A-G</strong> , next to questions <strong>27-30</strong> .</p><p><strong>Disadvantages</strong></p><p><strong>A</strong> too expensive</p><p><strong>B</strong> too limited</p><p><strong>C</strong> prejudiced</p><p><strong>D</strong> unrealistic</p><p><strong>E</strong> out of date</p><p><strong>F</strong> too detailed</p><p><strong>G</strong> unavailable</p><p><strong>Textbooks</strong> Vocal Instruction <strong>27</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Improve Your Accent <strong>28</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Actors' Handbook <strong>29</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>Confident Voice Delivery <strong>30</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+      "instruction": "What disadvantage do the speakers identify for each of the following textbooks?<br/>Choose <strong>FOUR</strong> correct answers, <strong>A-G</strong>, next to questions 27-30.",
+      "prompt_html": "<p><strong>Questions 27–30</strong></p><p><strong>Disadvantages</strong><br/><strong>A</strong> too expensive<br/><strong>B</strong> too limited<br/><strong>C</strong> prejudiced<br/><strong>D</strong> unrealistic<br/><strong>E</strong> out of date<br/><strong>F</strong> too detailed<br/><strong>G</strong> unavailable</p>",
       "items": [
         {
           "question_id": "q27",
           "number": 27,
-          "prompt_html": "<p>Choose <strong>FOUR</strong> correct answers, <strong>A-G</strong> , next to questions <strong>27-30</strong> .</p>",
+          "prompt_html": "<p><strong>27</strong> Vocal Instruction</p>",
           "response_type": "select"
         },
         {
           "question_id": "q28",
           "number": 28,
-          "prompt_html": "<p>Improve Your Accent <strong>28</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "prompt_html": "<p><strong>28</strong> Improve Your Accent</p>",
           "response_type": "select"
         },
         {
           "question_id": "q29",
           "number": 29,
-          "prompt_html": "<p>Actors' Handbook <strong>29</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "prompt_html": "<p><strong>29</strong> Actors' Handbook</p>",
           "response_type": "select"
         },
         {
           "question_id": "q30",
           "number": 30,
-          "prompt_html": "<p>Choose <strong>FOUR</strong> correct answers, <strong>A-G</strong> , next to questions <strong>27-30</strong> .</p>",
+          "prompt_html": "<p><strong>30</strong> Confident Voice Delivery</p>",
           "response_type": "select"
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "too expensive"
+        },
+        {
+          "label": "B",
+          "text": "too limited"
+        },
+        {
+          "label": "C",
+          "text": "prejudiced"
+        },
+        {
+          "label": "D",
+          "text": "unrealistic"
+        },
+        {
+          "label": "E",
+          "text": "out of date"
+        },
+        {
+          "label": "F",
+          "text": "too detailed"
+        },
+        {
+          "label": "G",
+          "text": "unavailable"
         }
       ]
     },
@@ -297,66 +327,66 @@
         "ls_comp_note"
       ],
       "instruction": "Complete the notes below.<br/>Write <strong>ONE WORD ONLY</strong> for each answer.",
-      "prompt_html": "<p><strong>Questions 31–40</strong></p><p>Complete the notes below.<br/>Write <strong>ONE WORD ONLY</strong> for each answer.</p><p>Food Safety Standards</p><p><strong>Risk assessment</strong> Scientists have to consider potential problems with:<br/>• the product's <strong>31</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ (could they attract harmful bacteria?)<br/>• method of preparation (will it eliminate harmful micro-organisms?)<br/>• how products are <strong>32</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_and distributed<br/>• supermarkets (e.g. changes in <strong>33</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ affecting the condition of frozen food<br/>• end-users (how is food usually handled in the home?) <strong>Factors affecting food consumption</strong> LegislationConsumer attitudes• e.g. dislike of additives → growth of the <strong>34</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ food market in Australia <strong>The food industry</strong> • supermarkets may use price or <strong>35</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ as their selling strategy (but the main concern is profitability) <strong>The mass media</strong> • now the main source of <strong>36</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_for many<br/>• negative effect because not objective:<br/>concern for <strong>37</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>news is now a form of <strong>38</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ which can mislead the public<br/>• few programmes deal with food safety or <strong>39</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ <strong>Personal opinion</strong> Importance of education: as with benefits of exercise, many children can influence their <strong>40</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+      "prompt_html": "<p><strong>Questions 31–40</strong></p><p>Complete the notes below.<br/>Write <strong>ONE WORD ONLY</strong> for each answer.</p><p><strong>Food Safety Standards</strong></p><p><strong>Risk assessment</strong><br/>Scientists have to consider potential problems with:<br/>• the product's <strong>31</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ (could they attract harmful bacteria?)<br/>• method of preparation (will it eliminate harmful micro-organisms?)<br/>• how products are <strong>32</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ and distributed<br/>• supermarkets (e.g. changes in <strong>33</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ affecting the condition of frozen food)<br/>• end-users (how is food usually handled in the home?)</p><p><strong>Factors affecting food consumption</strong><br/>• Legislation<br/>• Consumer attitudes (e.g. dislike of additives → growth of the <strong>34</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ food market in Australia)</p><p><strong>The food industry</strong><br/>• supermarkets may use price or <strong>35</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ as their selling strategy (but the main concern is profitability)</p><p><strong>The mass media</strong><br/>• now the main source of <strong>36</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ for many<br/>• negative effect because not objective:<br/>- concern for <strong>37</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_<br/>- news is now a form of <strong>38</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ which can mislead the public<br/>• few programmes deal with food safety or <strong>39</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p><p><strong>Personal opinion</strong><br/>• Importance of education: as with benefits of exercise, many children can influence their <strong>40</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
       "items": [
         {
           "question_id": "q31",
           "number": 31,
-          "prompt_html": "<p>• the product's <strong>31</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ (could they attract harmful bacteria?)</p>",
+          "prompt_html": "<p>• the product's <strong>31</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ (could they attract harmful bacteria?)</p>",
           "response_type": "text"
         },
         {
           "question_id": "q32",
           "number": 32,
-          "prompt_html": "<p>• how products are <strong>32</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_and distributed</p>",
+          "prompt_html": "<p>• how products are <strong>32</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ and distributed</p>",
           "response_type": "text"
         },
         {
           "question_id": "q33",
           "number": 33,
-          "prompt_html": "<p>• supermarkets (e.g. changes in <strong>33</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ affecting the condition of frozen food</p>",
+          "prompt_html": "<p>• supermarkets (e.g. changes in <strong>33</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ affecting the condition of frozen food)</p>",
           "response_type": "text"
         },
         {
           "question_id": "q34",
           "number": 34,
-          "prompt_html": "<p>• end-users (how is food usually handled in the home?) <strong>Factors affecting food consumption</strong> LegislationConsumer attitudes• e.g. dislike of additives → growth of the <strong>34</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ food market in Australia <strong>The food industry</strong> • supermarkets may use price or <strong>35</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ as their selling strategy (but the main concern is profitability) <strong>The mass media</strong> • now the main source of <strong>36</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_for many</p>",
+          "prompt_html": "<p>• e.g. dislike of additives → growth of the <strong>34</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ food market in Australia</p>",
           "response_type": "text"
         },
         {
           "question_id": "q35",
           "number": 35,
-          "prompt_html": "<p>• end-users (how is food usually handled in the home?) <strong>Factors affecting food consumption</strong> LegislationConsumer attitudes• e.g. dislike of additives → growth of the <strong>34</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ food market in Australia <strong>The food industry</strong> • supermarkets may use price or <strong>35</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ as their selling strategy (but the main concern is profitability) <strong>The mass media</strong> • now the main source of <strong>36</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_for many</p>",
+          "prompt_html": "<p>• supermarkets may use price or <strong>35</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ as their selling strategy</p>",
           "response_type": "text"
         },
         {
           "question_id": "q36",
           "number": 36,
-          "prompt_html": "<p>• end-users (how is food usually handled in the home?) <strong>Factors affecting food consumption</strong> LegislationConsumer attitudes• e.g. dislike of additives → growth of the <strong>34</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ food market in Australia <strong>The food industry</strong> • supermarkets may use price or <strong>35</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ as their selling strategy (but the main concern is profitability) <strong>The mass media</strong> • now the main source of <strong>36</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_for many</p>",
+          "prompt_html": "<p>• now the main source of <strong>36</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ for many</p>",
           "response_type": "text"
         },
         {
           "question_id": "q37",
           "number": 37,
-          "prompt_html": "<p>concern for <strong>37</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "prompt_html": "<p>- concern for <strong>37</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
           "response_type": "text"
         },
         {
           "question_id": "q38",
           "number": 38,
-          "prompt_html": "<p>news is now a form of <strong>38</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ which can mislead the public</p>",
+          "prompt_html": "<p>- news is now a form of <strong>38</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ which can mislead the public</p>",
           "response_type": "text"
         },
         {
           "question_id": "q39",
           "number": 39,
-          "prompt_html": "<p>• few programmes deal with food safety or <strong>39</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ <strong>Personal opinion</strong> Importance of education: as with benefits of exercise, many children can influence their <strong>40</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "prompt_html": "<p>• few programmes deal with food safety or <strong>39</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
           "response_type": "text"
         },
         {
           "question_id": "q40",
           "number": 40,
-          "prompt_html": "<p>• few programmes deal with food safety or <strong>39</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ <strong>Personal opinion</strong> Importance of education: as with benefits of exercise, many children can influence their <strong>40</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
+          "prompt_html": "<p>• Importance of education: many children can influence their <strong>40</strong> \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_</p>",
           "response_type": "text"
         }
       ]

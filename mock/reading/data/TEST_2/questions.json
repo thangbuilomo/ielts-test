@@ -15,7 +15,7 @@
       "skill_tags": [
         "rd_comp_notes"
       ],
-      "instruction": "Questions 1–7 Complete the notes below. Write ONE WORD ONLY from the passage for each answer. Carnegie’s Life 1835-1855 • found employment in the same workplace as his 1 _____________",
+      "instruction": "Complete the notes below.<br/>Write ONE WORD ONLY from the passage for each answer.",
       "items": [
         {
           "question_id": "q1",
@@ -53,7 +53,7 @@
           "prompt_html": "Question 7"
         }
       ],
-      "prompt_html": "<p>Complete the notes below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p>Carnegie’s Life</p><p><strong><em>1835-1855</strong></em> •   found employment in the same workplace as his &lt;blank data-qid=&quot;q1&quot;/&gt;•   educated himself through books, theatrical performances and &lt;blank data-qid=&quot;q2&quot;/&gt;<strong><em>1855-1865</strong></em> •    worked in a telegraph office</p><p>•    became &lt;blank data-qid=&quot;q3&quot;/&gt;to Thomas A Scott at Pennsylvania Railroad</p><p><strong><em>1865-1870</strong></em> •    made investments in the US and England</p><p>•    realised that changing engineering needs would require a greater demand for &lt;blank data-qid=&quot;q4&quot;/&gt;<strong><em>1873</strong></em> •    managed a rail manufacturing business by:</p><p>+   reducing &lt;blank data-qid=&quot;q5&quot;/&gt;+   restructuring</p><p>+   reinvesting profit and sometimes borrowing money from &lt;blank data-qid=&quot;q6&quot;/&gt;<strong><em>1880s</strong></em> •    Frick and Carnegie became partners</p><p>•    Carnegie’s responsibilities:</p><p>+   arranging future &lt;blank data-qid=&quot;q7&quot;/&gt;and innovations for factories</p><p>•    Frick&#x27;s responsibilities: Production</p>"
+      "prompt_html": "<p>Complete the notes below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p>Carnegie’s Life</p><p><strong><em>1835-1855</strong></em> <br>•   found employment in the same workplace as his &lt;blank data-qid=&quot;q1&quot;/&gt;<br>•   educated himself through books, theatrical performances and &lt;blank data-qid=&quot;q2&quot;/&gt;<br><strong><em>1855-1865</strong></em> <br>•    worked in a telegraph office</p><p><br>•    became &lt;blank data-qid=&quot;q3&quot;/&gt; to Thomas A Scott at Pennsylvania Railroad</p><p><br><strong><em>1865-1870</strong></em> <br>•    made investments in the US and England</p><p><br>•    realised that changing engineering needs would require a greater demand for &lt;blank data-qid=&quot;q4&quot;/&gt;<br><strong><em>1873</strong></em> <br>•    managed a rail manufacturing business by:</p><p>+   reducing &lt;blank data-qid=&quot;q5&quot;/&gt;+   restructuring</p><p>+   reinvesting profit and sometimes borrowing money from &lt;blank data-qid=&quot;q6&quot;/&gt;<br><strong><em>1880s</strong></em> <br>•    Frick and Carnegie became partners</p><p><br>•    Carnegie’s responsibilities:</p><p>+   arranging future &lt;blank data-qid=&quot;q7&quot;/&gt; and innovations for factories</p><p><br>•    Frick&#x27;s responsibilities: Production</p>"
     },
     {
       "group_id": "vol_09_t2_rd_p1_g2",
@@ -66,7 +66,7 @@
       "skill_tags": [
         "rd_tfng"
       ],
-      "instruction": "Questions 8–13 Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+      "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
       "items": [
         {
           "question_id": "q8",
@@ -113,7 +113,7 @@
           "text": "if there is no information on this"
         }
       ],
-      "prompt_html": "<p>Choose <strong>TRUE</strong> if the statement agrees with the information given in the text, choose <strong>FALSE</strong> if the statement contradicts the information, or choose <strong>NOT GIVEN</strong> if there is no information on this.</p><p><strong>8</strong> Carnegie believed that the USA offered more opportunities than European countries did.</p><p><strong>9</strong> A smaller workforce was required at the Homestead factory after Carnegie took control.</p><p><strong>10</strong> Carnegie prevented his workers from joining unions.</p><p><strong>11</strong> Carnegie blamed Frick for the violent workers strike in 1892.</p><p><strong>12</strong> In the 1890s Carnegie negotiated with his competitors.</p><p><strong>13</strong> Carriage’s provision of funds for libraries was limited to those in the United States.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t2_rd_p2_g1",
@@ -127,7 +127,7 @@
         "rd_match_information",
         "rd_scanning"
       ],
-      "instruction": "Questions 14–15 Reading Passage 3 has eight paragraphs, A-H . Which paragraph contains the following information? Choose the correct letter, A-H , in boxes 14-15 .",
+      "instruction": "Reading Passage 3 has eight paragraphs, A-H .<br/>Which paragraph contains the following information?<br/>Choose the correct letter, A-H , in boxes 14-15 .",
       "items": [
         {
           "question_id": "q14",
@@ -174,7 +174,7 @@
           "text": "Paragraph H"
         }
       ],
-      "prompt_html": "<p>Reading Passage 3 has eight paragraphs, <strong>A-H</strong> .</p><p>Which paragraph contains the following information?</p><p>Choose the correct letter, <strong>A-H</strong> , in boxes <strong>14-15</strong> .</p><p><strong>14</strong> the effect that a client&#x27;s requirements have on the nature of a translation.</p><p><strong>15</strong> contrasting attitudes towards translators.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t2_rd_p2_g2",
@@ -187,7 +187,7 @@
       "skill_tags": [
         "rd_comp_summary"
       ],
-      "instruction": "Questions 16–19 Complete the summary below. Write NO MORE THAN TWO WORDS from paragraphs C, D and E for each answer. The goal of translation Translation is an attempt to create a text in the target language which displays 16 _________ with a source text It is inevitable that not all information can be conveyed, however, so translations are best judged according to their 17 _________, for example, the translator of a business letter or scientific text does not need to consider its 18 _________ aspects while someone dubbing a film may give a relatively low value to 19 _________.",
+      "instruction": "Complete the summary below.<br/>Write NO MORE THAN TWO WORDS from paragraphs C, D and E for each answer.",
       "items": [
         {
           "question_id": "q16",
@@ -210,7 +210,7 @@
           "prompt_html": "Question 19"
         }
       ],
-      "prompt_html": "<p>Complete the summary below.</p><p>Write <strong>NO MORE THAN TWO WORDS</strong> from paragraphs C, D and E for each answer.</p><p>The goal of translation</p><p>Translation is an attempt to create a text in the target language which displays &lt;blank data-qid=&quot;q16&quot;/&gt;with a source text It is inevitable that not all information can be conveyed, however, so translations are best judged according to their &lt;blank data-qid=&quot;q17&quot;/&gt;, for example, the translator of a business letter or scientific text does not need to consider its &lt;blank data-qid=&quot;q18&quot;/&gt;aspects while someone dubbing a film may give a relatively low value to &lt;blank data-qid=&quot;q19&quot;/&gt;.</p>"
+      "prompt_html": "<p>Complete the summary below.</p><p>Write <strong>NO MORE THAN TWO WORDS</strong> from paragraphs C, D and E for each answer.</p><p>The goal of translation</p><p>Translation is an attempt to create a text in the target language which displays &lt;blank data-qid=&quot;q16&quot;/&gt; with a source text It is inevitable that not all information can be conveyed, however, so translations are best judged according to their &lt;blank data-qid=&quot;q17&quot;/&gt;, for example, the translator of a business letter or scientific text does not need to consider its &lt;blank data-qid=&quot;q18&quot;/&gt; aspects while someone dubbing a film may give a relatively low value to &lt;blank data-qid=&quot;q19&quot;/&gt;.</p>"
     },
     {
       "group_id": "vol_09_t2_rd_p2_g3",
@@ -224,7 +224,7 @@
         "rd_match_features",
         "rd_detail"
       ],
-      "instruction": "Questions 20–23 Look at the following features of translating ( Questions 21-24 ) and the types of translation below. Match each feature with the correct type of translation, A-F . Choose the correct letter, A-F , in boxes 20-23 . Types of Translation",
+      "instruction": "Look at the following features of translating and the types of translation below.<br/>Match each feature with the correct type of translation, A-F .<br/>Choose the correct letter, A-F , in boxes 20-23 .<br/><br/>Types of Translation<br/>A aesthetic<br/>B ethnographic<br/>C free<br/>D literal<br/>E pragmatic<br/>F word-for-word",
       "items": [
         {
           "question_id": "q20",
@@ -273,7 +273,7 @@
           "text": "word-for-word"
         }
       ],
-      "prompt_html": "<p>Look at the following features of translating ( <strong>Questions 21-24</strong> ) and the types of translation below.</p><p>Match each feature with the correct type of translation, <strong>A-F</strong> .</p><p>Choose the correct letter, <strong>A-F</strong> , in boxes <strong>20-23</strong> .</p><p>Types of Translation</p><p><strong>A</strong> aesthetic <strong>B</strong> ethnographic <strong>C</strong> free <strong>D</strong> literal <strong>E</strong> pragmatic <strong>F</strong> word-for-word</p><p><strong>20</strong> focuses on reproducing the content accurately.</p><p><strong>21</strong> looks at important cultural aspects of language use.</p><p><strong>22</strong> follows the original grammatical structures as required by the target language.</p><p><strong>23</strong> focuses on meaning without necessarily using the original grammatical structures.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t2_rd_p2_g4",
@@ -287,7 +287,7 @@
         "rd_mcq_multi",
         "rd_detail"
       ],
-      "instruction": "Questions 24–26 Choose THREE correct answers.",
+      "instruction": "Choose THREE correct answers.",
       "items": [
         {
           "question_id": "q24",
@@ -327,7 +327,7 @@
           "text": "The skill required for translation is increasingly gaining recognition."
         }
       ],
-      "prompt_html": "<p>Choose <strong>THREE</strong> correct answers.</p><p><strong>24-26 Which THREE of the following points are mentioned by the writer of the passage?</strong></p><p>1. The objectives of translating are always clearly different from those of interpreting.</p><p>2. A translator may need to consider the culture of the target language.</p><p>3. Translation is an activity which requires professional training.</p><p>4. It is difficult to specify what constitutes a very good translation.</p><p>5. The skill required for translation is increasingly gaining recognition.</p>",
+      "prompt_html": "",
       "selection_group": {
         "selection_group_id": "rd_q24_26",
         "question_ids": [
@@ -350,7 +350,7 @@
       "skill_tags": [
         "rd_comp_summary"
       ],
-      "instruction": "Questions 27–30 Complete the summary using the list of words and phrases, A-D , below. Early European reaction to the discovery of Easter Island When Dutchman Jacob Roggeveen sailed to Easter Island in 1722, he was amazed by the stone statues he saw for a number of reasons. Firstly, it was clear that they were immensely heavy, and there was no 27 __________ around, which would have helped with their construction. Roggeveen did not think the inhabitants had any metal tools, or animals for heavy labour either. Another mystery was the poor quality of the local inhabitants' 28 __________; Roggeveen wondered how the people had managed to survive long trips. At the time of Roggeveen's visit, he observed that the people were living in 29 __________ and there was no evidence of successful 30 __________ on the island. A poverty B agriculture C boats D wood",
+      "instruction": "Complete the summary using the list of words and phrases, A-D , below.",
       "items": [
         {
           "question_id": "q27",
@@ -373,7 +373,7 @@
           "prompt_html": "Question 30"
         }
       ],
-      "prompt_html": "<p>Complete the summary using the list of words and phrases, <strong>A-D</strong> , below.</p><p>Early European reaction to the discovery of Easter Island</p><p>When Dutchman Jacob Roggeveen sailed to Easter Island in 1722, he was amazed by the stone statues he saw for a number of reasons. Firstly, it was clear that they were immensely heavy, and there was no &lt;blank data-qid=&quot;q27&quot;/&gt;around, which would have helped with their construction. Roggeveen did not think the inhabitants had any metal tools, or animals for heavy labour either. Another mystery was the poor quality of the local inhabitants&#x27; &lt;blank data-qid=&quot;q28&quot;/&gt;; Roggeveen wondered how the people had managed to survive long trips. At the time of Roggeveen&#x27;s visit, he observed that the people were living in &lt;blank data-qid=&quot;q29&quot;/&gt;and there was no evidence of successful &lt;blank data-qid=&quot;q30&quot;/&gt;on the island.</p><p><strong>A poverty    B agriculture    C boats     D wood</strong></p>"
+      "prompt_html": "<p>Complete the summary using the list of words and phrases, <strong>A-D</strong> , below.</p><p>Early European reaction to the discovery of Easter Island</p><p>When Dutchman Jacob Roggeveen sailed to Easter Island in 1722, he was amazed by the stone statues he saw for a number of reasons. Firstly, it was clear that they were immensely heavy, and there was no &lt;blank data-qid=&quot;q27&quot;/&gt; around, which would have helped with their construction. Roggeveen did not think the inhabitants had any metal tools, or animals for heavy labour either. Another mystery was the poor quality of the local inhabitants&#x27; &lt;blank data-qid=&quot;q28&quot;/&gt;; Roggeveen wondered how the people had managed to survive long trips. At the time of Roggeveen&#x27;s visit, he observed that the people were living in &lt;blank data-qid=&quot;q29&quot;/&gt; and there was no evidence of successful &lt;blank data-qid=&quot;q30&quot;/&gt; on the island.</p><p><strong>A poverty</strong></p><p><strong>B agriculture</strong></p><p><strong>C boats</strong></p><p><strong>D wood</strong></p>"
     },
     {
       "group_id": "vol_09_t2_rd_p3_g2",
@@ -386,7 +386,7 @@
       "skill_tags": [
         "rd_ynng"
       ],
-      "instruction": "Questions 31–35 Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
       "items": [
         {
           "question_id": "q31",
@@ -428,7 +428,7 @@
           "text": "if it is impossible to say from the passage"
         }
       ],
-      "prompt_html": "<p>Choose <strong>YES</strong> if the statement agrees with the claims of the writer, choose <strong>NO</strong> if the statement contradicts the claims of the writer, or <strong>NOT GIVEN</strong> if it is impossible to say what the writer thinks about this.</p><p><strong>31</strong> Erich von Däniken&#x27;s claims were briefly accepted by some sections of society.</p><p><strong>32</strong> Archaeologists removed valuable artefacts from the island.</p><p><strong>33</strong> Smallpox continued to affect Easter Island&#x27;s inhabitants for centuries.</p><p><strong>34</strong> It remains open to question whether Easter Island was once covered in forest.</p><p><strong>35</strong> The way that rats arrived on Easter Island is still to be established.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t2_rd_p3_g3",
@@ -442,7 +442,7 @@
         "rd_mcq_single",
         "rd_detail"
       ],
-      "instruction": "Questions 36–40 Choose the correct answer.",
+      "instruction": "Choose the correct answer.",
       "items": [
         {
           "question_id": "q36",
@@ -560,7 +560,7 @@
           ]
         }
       ],
-      "prompt_html": "<p>Choose the correct answer.</p><p><strong>36 What does Jared Diamond blame for the lack of vegetation on Easter Island?</strong></p><p>1. The construction of stone statues</p><p>2. Climate change over a long period</p><p>3. A method of transportation</p><p>4. The arrival of Europeans</p><p><strong>37 What do Hunt and Lipo suggest about the population of Easter Island?</strong></p><p>1. It collapsed before European contact</p><p>2. The first settlers arrived much later than is widely accepted</p><p>3. It never exceeded a few thousand inhabitants</p><p>4. It declined mainly because of disease</p><p><strong>38 What is suggested about rats on Easter Island in the fifth paragraph?</strong></p><p>1. They were a likely cause of deforestation</p><p>2. They arrived after the forests had disappeared</p><p>3. They had no effect on plant regeneration</p><p>4. They were introduced by Europeans</p><p><strong>39 Flenley responds to Hunt and Lipo’s theory by</strong></p><p>1. dismissing it</p><p>2. partially supporting it</p><p>3. expanding on their arguments</p><p>4. avoiding direct criticism</p><p><strong>40 The writer’s purpose in this article is to</strong></p><p>1. argue in favour of Diamond’s interpretation</p><p>2. provide an overview of a series of arguments</p><p>3. prove that rats were the main cause of deforestation</p><p>4. criticise modern archaeological methods</p>"
+      "prompt_html": ""
     }
   ]
 }

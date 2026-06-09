@@ -15,7 +15,7 @@
       "skill_tags": [
         "rd_tfng"
       ],
-      "instruction": "Questions 1–6 Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+      "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
       "items": [
         {
           "question_id": "q1",
@@ -62,7 +62,7 @@
           "text": "if there is no information on this"
         }
       ],
-      "prompt_html": "<p>Choose <strong>TRUE</strong> if the statement agrees with the information given in the text, choose <strong>FALSE</strong> if the statement contradicts the information, or choose <strong>NOT GIVEN</strong> if there is no information on this.</p><p><strong>1</strong> There are a few surviving documents which show that a game similar to tennis was played in the ancient world.</p><p><strong>2</strong> An early form of tennis involved players hitting a ball with just their hand.</p><p><strong>3</strong> The game of table tennis developed around the same time as tennis.</p><p><strong>4</strong> Tennis became popular with all sections of French society in the 14th and 15th centuries.</p><p><strong>5</strong> The indoor courts created in the 14th and 15th centuries were larger than the outdoor courtyards.</p><p><strong>6</strong> There were attempts to prevent French aristocrats from playing tennis.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t5_rd_p1_g2",
@@ -75,7 +75,7 @@
       "skill_tags": [
         "rd_comp_notes"
       ],
-      "instruction": "Questions 7–13 Complete the notes below. Write ONE WORD ONLY from the passage for each answer. The development of tennis in England • ‘Real tennis’ court at Hampton Court - The bail may be hit against the 7 ___________ around the court",
+      "instruction": "Complete the notes below.<br/>Write ONE WORD ONLY from the passage for each answer.",
       "items": [
         {
           "question_id": "q7",
@@ -113,7 +113,7 @@
           "prompt_html": "Question 13"
         }
       ],
-      "prompt_html": "<p>Complete the notes below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p><strong>The development of tennis in England</strong></p><p>• <strong><em>‘Real tennis’ court at Hampton Court</strong></em> -    The bail may be hit against the &lt;blank data-qid=&quot;q7&quot;/&gt;around the court</p><p>-    The &lt;blank data-qid=&quot;q8&quot;/&gt;is lower in the centre</p><p>• <strong><em>1850s</strong></em> -    Balls made out of &lt;blank data-qid=&quot;q9&quot;/&gt;started to be used</p><p>• <strong><em>1874</strong></em> -    Major Walter C. Wingfield</p><p>Published written &lt;blank data-qid=&quot;q10&quot;/&gt;for the game</p><p>Produced complete sets of tennis &lt;blank data-qid=&quot;q11&quot;/&gt;for sale</p><p>Introduced a name for the game which was never adopted</p><p>Designed an unusual &lt;blank data-qid=&quot;q12&quot;/&gt;for the court</p><p>• <strong><em>1877</strong></em> -    The first large &lt;blank data-qid=&quot;q13&quot;/&gt;was held</p>"
+      "prompt_html": "<p>Complete the notes below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p><strong>The development of tennis in England</strong></p><p>• <strong><em>‘Real tennis’ court at Hampton Court</strong></em> -    The bail may be hit against the &lt;blank data-qid=&quot;q7&quot;/&gt; around the court</p><p>-    The &lt;blank data-qid=&quot;q8&quot;/&gt; is lower in the centre</p><p>• <strong><em>1850s</strong></em> -    Balls made out of &lt;blank data-qid=&quot;q9&quot;/&gt; started to be used</p><p>• <strong><em>1874</strong></em> -    Major Walter C. Wingfield</p><p>Published written &lt;blank data-qid=&quot;q10&quot;/&gt; for the game</p><p>Produced complete sets of tennis &lt;blank data-qid=&quot;q11&quot;/&gt; for sale</p><p>Introduced a name for the game which was never adopted</p><p>Designed an unusual &lt;blank data-qid=&quot;q12&quot;/&gt; for the court</p><p>• <strong><em>1877</strong></em> -    The first large &lt;blank data-qid=&quot;q13&quot;/&gt; was held</p>"
     },
     {
       "group_id": "vol_09_t5_rd_p2_g1",
@@ -127,7 +127,7 @@
         "rd_match_headings",
         "rd_main_idea"
       ],
-      "instruction": "Questions 14–20 Reading Passage 2 has seven paragraphs. Choose the correct heading for each paragraph from the list of headings below. Choose the correct number, i–ix , in boxes 14–20 . List of Headings",
+      "instruction": "Reading Passage 2 has seven paragraphs.<br/>Choose the correct heading for each paragraph from the list of headings below.<br/>Choose the correct number, i–ix , in boxes 14–20 .",
       "items": [
         {
           "question_id": "q14",
@@ -199,7 +199,7 @@
           "text": "A description of the content of Ray’s first book"
         }
       ],
-      "prompt_html": "<p>Reading Passage 2 has seven paragraphs.</p><p>Choose the correct heading for each paragraph from the list of headings below.</p><p>Choose the correct number, <strong>i–ix</strong> , in boxes <strong>14–20</strong> .</p><p><strong>List of Headings</strong></p><p><strong>i</strong> Ray’s account of his working methods</p><p><strong>ii</strong> The botanical expert who inspired Ray</p><p><strong>iii</strong> A succession of academic achievements</p><p><strong>iv</strong> Ray’s informal tuition</p><p><strong>v</strong> Ray’s appreciation of his contemporary academic culture</p><p><strong>vi</strong> A childhood interest in plant</p><p><strong>vii</strong> Plans for a bold new project</p><p><strong>viii</strong> A description of the content of Ray’s first book</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t5_rd_p2_g2",
@@ -212,7 +212,7 @@
       "skill_tags": [
         "rd_comp_summary"
       ],
-      "instruction": "Questions 21–24 Complete the summary below. Write ONE WORD ONLY from the passage for each answer. A New Approach to Knowledge John Ray was a scholar and self-taught botanist, whose work reflected the 21 _________ that was taking place during the 17th century in people’s way of thinking about the natural world. This new approach is the basis of the modern field of 22 _________. It represented a complete break from the ideas of Aristotle, which had dominated thinking up until that time.",
+      "instruction": "Complete the summary below.<br/>Write ONE WORD ONLY from the passage for each answer.",
       "items": [
         {
           "question_id": "q21",
@@ -235,7 +235,7 @@
           "prompt_html": "Question 24"
         }
       ],
-      "prompt_html": "<p>Complete the summary below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p><strong>A New Approach to Knowledge</strong></p><p>John Ray was a scholar and self-taught botanist, whose work reflected the &lt;blank data-qid=&quot;q21&quot;/&gt;that was taking place during the 17th century in people’s way of thinking about the natural world. This new approach is the basis of the modern field of &lt;blank data-qid=&quot;q22&quot;/&gt;. It represented a complete break from the ideas of Aristotle, which had dominated thinking up until that time.</p><p>As Ray himself explained, his interest in plants was aroused after graduating, when he had to spend time outdoors after a period of &lt;blank data-qid=&quot;q23&quot;/&gt;. He taught himself, in addition to many Cambridge &lt;blank data-qid=&quot;q24&quot;/&gt;, and began compiling his catalogue of plants, which was published in 1660.</p>"
+      "prompt_html": "<p>Complete the summary below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p><strong>A New Approach to Knowledge</strong></p><p>John Ray was a scholar and self-taught botanist, whose work reflected the &lt;blank data-qid=&quot;q21&quot;/&gt; that was taking place during the 17th century in people’s way of thinking about the natural world. This new approach is the basis of the modern field of &lt;blank data-qid=&quot;q22&quot;/&gt;. It represented a complete break from the ideas of Aristotle, which had dominated thinking up until that time.</p><p>As Ray himself explained, his interest in plants was aroused after graduating, when he had to spend time outdoors after a period of &lt;blank data-qid=&quot;q23&quot;/&gt;. He taught himself, in addition to many Cambridge &lt;blank data-qid=&quot;q24&quot;/&gt;, and began compiling his catalogue of plants, which was published in 1660.</p>"
     },
     {
       "group_id": "vol_09_t5_rd_p2_g3",
@@ -249,7 +249,7 @@
         "rd_mcq_multi",
         "rd_detail"
       ],
-      "instruction": "Questions 25–26 Choose TWO correct answers.",
+      "instruction": "Choose TWO correct answers.",
       "items": [
         {
           "question_id": "q25",
@@ -284,7 +284,7 @@
           "text": "He originally planned to take up his father’s occupation."
         }
       ],
-      "prompt_html": "<p>Choose <strong>TWO</strong> correct answers.</p><p><strong>25-26 Which TWO of the following statements are true of Ray’s early life?</strong></p><p>1. His teacher recommended that he should go to university.</p><p>2. His school record was not exceptional in any way.</p><p>3. He was helped by a former student of Cambridge University.</p><p>4. His parents were both valued by the people in their local area.</p><p>5. He originally planned to take up his father’s occupation.</p>",
+      "prompt_html": "",
       "selection_group": {
         "selection_group_id": "rd_q25_26",
         "question_ids": [
@@ -307,7 +307,7 @@
         "rd_match_features",
         "rd_detail"
       ],
-      "instruction": "Questions 27–31 Look at the following events (Questions 27-31) and the list of dates below. Match each event with the correct date, A-H . Choose the correct letter, A-H , in boxes 27-31 . List of Dates",
+      "instruction": "Look at the following events and the list of dates below.<br/>Match each event with the correct date, A-H .<br/>Choose the correct letter, A-H , in boxes 27-31 .<br/><br/>List of Dates<br/>A 1806<br/>B 1814<br/>C 1816<br/>D 1823<br/>E 1837<br/>F 1843<br/>G 1852<br/>H 1870",
       "items": [
         {
           "question_id": "q27",
@@ -369,7 +369,7 @@
           "text": "1870"
         }
       ],
-      "prompt_html": "<p>Look at the following events (Questions 27-31) and the list of dates below.</p><p>Match each event with the correct date, <strong>A-H</strong> .</p><p>Choose the correct letter, <strong>A-H</strong> , in boxes <strong>27-31</strong> .</p><p><strong>List of Dates</strong></p><p><strong>A</strong> . 1806</p><p><strong>B</strong> . 1814</p><p><strong>C</strong> . 1816</p><p><strong>D</strong> . 1823</p><p><strong>E</strong> . 1837</p><p><strong>F</strong> . 1843</p><p><strong>G</strong> . 1852</p><p><strong>H</strong> . 1870</p><p><strong>27</strong> The first electric telegraph system was submitted to the Admiralty.</p><p><strong>28</strong> Ronalds received official recognition of his contribution to telegraphy.</p><p><strong>29</strong> The first electric telegraph was patented.</p><p><strong>30</strong> Ronalds began to experiment with electricity.</p><p><strong>31</strong> Ronalds informed the public about the possible uses of his telegraph.</p>"
+      "prompt_html": ""
     },
     {
       "group_id": "vol_09_t5_rd_p3_g2",
@@ -383,30 +383,30 @@
         "rd_short_answer",
         "rd_detail"
       ],
-      "instruction": "Questions 32–35 Answer the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. What was marked on the dials on Ronalds's garden telegraph? 32 ____________ What did Ronalds use to enclose the wires on his later version of the garden telegraph? 33 ____________",
+      "instruction": "Answer the questions below.<br/>Write NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
       "items": [
         {
           "question_id": "q32",
           "number": 32,
-          "prompt_html": "Question 32"
+          "prompt_html": "What was marked on the dials on Ronalds's garden telegraph?"
         },
         {
           "question_id": "q33",
           "number": 33,
-          "prompt_html": "Question 33"
+          "prompt_html": "What did Ronalds use to enclose the wires on his later version of the garden telegraph?"
         },
         {
           "question_id": "q34",
           "number": 34,
-          "prompt_html": "Question 34"
+          "prompt_html": "How far did Ronalds believe his telegraph could transmit information?"
         },
         {
           "question_id": "q35",
           "number": 35,
-          "prompt_html": "Question 35"
+          "prompt_html": "What did the communication system invented by Ralph Wedgwood use?"
         }
       ],
-      "prompt_html": "<p>Answer the questions below.</p><p>Write <strong>NO MORE THAN THREE WORDS AND/OR A NUMBER</strong> from the passage for each answer.</p><p>What was marked on the dials on Ronalds&#x27;s garden telegraph? &lt;blank data-qid=&quot;q32&quot;/&gt;What did Ronalds use to enclose the wires on his later version of the garden telegraph? &lt;blank data-qid=&quot;q33&quot;/&gt;How far did Ronalds believe his telegraph could transmit information? &lt;blank data-qid=&quot;q34&quot;/&gt;What did the communication system invented by Ralph Wedgwood use? &lt;blank data-qid=&quot;q35&quot;/&gt;</p>"
+      "prompt_html": "<p>Answer the questions below.<br/>Write <b>NO MORE THAN THREE WORDS AND/OR A NUMBER</b> from the passage for each answer.</p>"
     },
     {
       "group_id": "vol_09_t5_rd_p3_g3",
@@ -420,7 +420,7 @@
         "rd_match_information",
         "rd_scanning"
       ],
-      "instruction": "Questions 36–40 Reading Passage 3 has seven paragraphs, A-G . Which paragraph contains the following information? Choose the correct letter, A-G , in boxes 36-40 .",
+      "instruction": "Reading Passage 3 has seven paragraphs, A-G .<br/>Which paragraph contains the following information?<br/>Choose the correct letter, A-G , in boxes 36-40 .",
       "items": [
         {
           "question_id": "q36",
@@ -478,7 +478,7 @@
           "text": "Paragraph G"
         }
       ],
-      "prompt_html": "<p>Reading Passage 3 has seven paragraphs, <strong>A-G</strong> .</p><p><em>Which paragraph contains the following information?</em></p><p>Choose the correct letter, <strong>A-G</strong> , in boxes <strong>36-40</strong> .</p><p><strong>36</strong> a description of a commercial application for the electric telegraph</p><p><strong>37</strong> a rejection of Ronalds&#x27;s invention</p><p><strong>38</strong> a drawback of Ronalds&#x27;s invention</p><p><strong>39</strong> reference to the positive influence on Ronald of a fellow scientist</p><p><strong>40</strong> reference to the adoption of one of Ronalds&#x27;s procedures in preference to that of another scientist</p>"
+      "prompt_html": ""
     }
   ]
 }

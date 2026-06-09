@@ -366,12 +366,23 @@ function setupStartGate() {
     errDiv.style.display = 'none';
 
     try {
-      const response = await jsonpFetch(GAS_URL, {
-        action: 'auth_student',
-        email: email,
-        password: password,
-        test_id: backendTestId()
-      });
+      let response;
+      if (window.location.protocol === 'file:' || window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+        // Local bypass: login always succeeds offline/locally for testing explanations
+        response = {
+          ok: true,
+          student_name: email.split('@')[0] || "Local Student",
+          email: email,
+          auth_token: "local_bypass_token"
+        };
+      } else {
+        response = await jsonpFetch(GAS_URL, {
+          action: 'auth_student',
+          email: email,
+          password: password,
+          test_id: backendTestId()
+        });
+      }
 
       if (response && response.ok) {
         state.mode = 'student';
@@ -387,7 +398,7 @@ function setupStartGate() {
       errDiv.textContent = "Lỗi kết nối máy chủ. Vui lòng thử lại.";
       errDiv.style.display = 'block';
     } finally {
-      loginBtn.textContent = 'Đang nhập & Bắt đầu';
+      loginBtn.textContent = 'Đăng nhập & Bắt đầu';
       loginBtn.disabled = false;
     }
   });
@@ -859,36 +870,27 @@ async function submitTest() {
   // Disable all inputs
   document.querySelectorAll('.input-element').forEach(el => el.disabled = true);
 
-  const payload = {
-    type: 'reading_submit',
-    guest_mode: state.mode === 'guest',
-    email: state.studentData ? state.studentData.email : 'guest@local',
-    student_name: state.studentData ? state.studentData.student_name : 'Guest',
-    auth_token: state.studentData ? state.studentData.auth_token : '',
-    test_id: backendTestId(),
-    attempt_id: 'atm_' + Date.now() + '_' + Math.floor(Math.random()*1000),
-    submitted_at: new Date().toISOString(),
-    answers_json: state.answers,
-    violation_count: state.violationCount,
-    anti_cheat_events: state.events
-  };
-
   try {
-    const res = await fetch(GAS_URL, {
-      method: 'POST',
-      body: JSON.stringify(payload),
-      headers: { 'Content-Type': 'text/plain;charset=utf-8' } // text/plain to bypass CORS preflight
-    });
+    const basePath = `data/${state.testId}/`;
+    
+    // Fetch local files
+    const [answerKey, explanations, highlights] = await Promise.all([
+      fetchJson(basePath + 'answer_key.json').catch(e => { console.error(e); return {}; }),
+      state.mode === 'student' 
+        ? fetchJson(basePath + 'explanations.json').catch(e => { console.error(e); return {}; })
+        : Promise.resolve({}),
+      fetchJson(basePath + 'source_annotations.json').catch(e => { console.error(e); return {}; })
+    ]);
 
-    const result = await res.json();
+    const feedback = {
+      json_key: answerKey,
+      explanation_json: explanations,
+      highlight_json: highlights
+    };
 
-    if (result.ok && result.result && result.result.feedback) {
-      processFeedbackV2(result.result.feedback);
-    } else {
-      alert("Nộp bài thành công nhưng không lấy được đáp án từ máy chủ.");
-    }
+    processFeedbackV2(feedback);
   } catch(e) {
-    alert("Nộp bài thành công (hoặc lỗi mạng). " + e.message);
+    alert("Lỗi hiển thị đáp án và giải thích local: " + e.message);
     console.error(e);
   } finally {
     document.getElementById('loadingModal').style.display = 'none';

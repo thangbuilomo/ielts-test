@@ -17,66 +17,66 @@
         "ls_detail"
       ],
       "instruction": "Complete the notes below.<br/>Write <strong>NO MORE THAN TWO WORDS AND/OR A NUMBER</strong> for each answer.",
-      "prompt_html": "<p><strong>Questions 1–10</strong></p><p>Complete the notes below.<br/>Write <strong>NO MORE THAN TWO WORDS AND/OR A NUMBER</strong> for each answer.</p><table><tr><th><strong>Call Record Card</strong></th></tr><tr><td><em><strong>Example</strong></em>  Caller’s phone number:  <strong>03786 439251</strong></td></tr><tr><td>Caller’s name:                              Robert 1 ………….  Address:                                       27 2 ………….  Moortown  Postcode:                                      DP17 5HJ  Date of birth:                                 3 ………. ,  1975  Doctor’s name:                             Dr Craven  Doctor’s address:                          Moortown Health Centre  Reason for call:                             Pain in his 4 ………… back  Previous history:                           Similar back problem in June last year  Details of present problem:           Started 5 ………….  ago  Got worse this 6 ………….  No abdominal pain  Possible cause:                               Lifting up a heavy 7 …………  Treatment already applied:            Has applied heat  Has taken 8 …………  Advice given:                                Try using 9 …………….  Go to doctor tomorrow  Ask for information about  10 …………….</td></tr></table>",
+      "prompt_html": "<p><strong>Questions 1–10</strong></p><p>Complete the notes below.<br/>Write <strong>NO MORE THAN TWO WORDS AND/OR A NUMBER</strong> for each answer.</p><table><tr><th><strong>Call Record Card</strong></th></tr><tr><td><em><strong>Example</strong></em>  Caller’s phone number:  <strong>03786 439251</strong></td></tr><tr><td>Caller’s name: Robert 1 ………….<br/>Address: 27 2 ………… Moortown<br/>Postcode: DP17 5HJ<br/>Date of birth: 3 ……, 1975<br/>Doctor’s name: Dr Craven<br/>Doctor’s address: Moortown Health Centre<br/>Reason for call: Pain in his 4 ………… back<br/>Previous history: Similar back problem in June last year<br/>Details of present problem:<br/>• Started 5 …………. ago<br/>• Got worse this 6 ………….<br/>• No abdominal pain<br/>Possible cause: Lifting up a heavy 7 …………<br/>Treatment already applied:<br/>• Has applied heat<br/>• Has taken 8 …………<br/>Advice given:<br/>• Try using 9 …………….<br/>• Go to doctor tomorrow<br/>• Ask for information about 10 …………….</td></tr></table>",
       "items": [
         {
           "question_id": "q1",
           "number": 1,
-          "prompt_html": "<table><tr><th>Caller’s name:                              Robert 1 ………….  Address:                                       27 2 ………….  Moortown  Postcode:                                      DP17 5HJ  Date of birth:                                 3 ………. ,  1975  Doctor’s name:                             Dr Craven  Doctor’s address:                          Moortown Health Centre  Reason for call:                             Pain in his 4 ………… back  Previous history:                           Similar back problem in June last year  Details of present problem:           Started 5 ………….  ago  Got worse this 6 ………….  No abdominal pain  Possible cause:                               Lifting up a heavy 7 …………  Treatment already applied:            Has applied heat  Has taken 8 …………  Advice given:                                Try using 9 …………….  Go to doctor tomorrow  Ask for information about  10 …………….</th></tr></table>",
+          "prompt_html": "<p>Caller’s name: Robert 1 ………….</p>",
           "response_type": "text"
         },
         {
           "question_id": "q2",
           "number": 2,
-          "prompt_html": "<table><tr><th>Caller’s name:                              Robert 1 ………….  Address:                                       27 2 ………….  Moortown  Postcode:                                      DP17 5HJ  Date of birth:                                 3 ………. ,  1975  Doctor’s name:                             Dr Craven  Doctor’s address:                          Moortown Health Centre  Reason for call:                             Pain in his 4 ………… back  Previous history:                           Similar back problem in June last year  Details of present problem:           Started 5 ………….  ago  Got worse this 6 ………….  No abdominal pain  Possible cause:                               Lifting up a heavy 7 …………  Treatment already applied:            Has applied heat  Has taken 8 …………  Advice given:                                Try using 9 …………….  Go to doctor tomorrow  Ask for information about  10 …………….</th></tr></table>",
+          "prompt_html": "<p>Address: 27 2 …………. Moortown</p>",
           "response_type": "text"
         },
         {
           "question_id": "q3",
           "number": 3,
-          "prompt_html": "<table><tr><th>Caller’s name:                              Robert 1 ………….  Address:                                       27 2 ………….  Moortown  Postcode:                                      DP17 5HJ  Date of birth:                                 3 ………. ,  1975  Doctor’s name:                             Dr Craven  Doctor’s address:                          Moortown Health Centre  Reason for call:                             Pain in his 4 ………… back  Previous history:                           Similar back problem in June last year  Details of present problem:           Started 5 ………….  ago  Got worse this 6 ………….  No abdominal pain  Possible cause:                               Lifting up a heavy 7 …………  Treatment already applied:            Has applied heat  Has taken 8 …………  Advice given:                                Try using 9 …………….  Go to doctor tomorrow  Ask for information about  10 …………….</th></tr></table>",
+          "prompt_html": "<p>Date of birth: 3 ………. , 1975</p>",
           "response_type": "text"
         },
         {
           "question_id": "q4",
           "number": 4,
-          "prompt_html": "<table><tr><th>Caller’s name:                              Robert 1 ………….  Address:                                       27 2 ………….  Moortown  Postcode:                                      DP17 5HJ  Date of birth:                                 3 ………. ,  1975  Doctor’s name:                             Dr Craven  Doctor’s address:                          Moortown Health Centre  Reason for call:                             Pain in his 4 ………… back  Previous history:                           Similar back problem in June last year  Details of present problem:           Started 5 ………….  ago  Got worse this 6 ………….  No abdominal pain  Possible cause:                               Lifting up a heavy 7 …………  Treatment already applied:            Has applied heat  Has taken 8 …………  Advice given:                                Try using 9 …………….  Go to doctor tomorrow  Ask for information about  10 …………….</th></tr></table>",
+          "prompt_html": "<p>Reason for call: Pain in his 4 ………… back</p>",
           "response_type": "text"
         },
         {
           "question_id": "q5",
           "number": 5,
-          "prompt_html": "<table><tr><th>Caller’s name:                              Robert 1 ………….  Address:                                       27 2 ………….  Moortown  Postcode:                                      DP17 5HJ  Date of birth:                                 3 ………. ,  1975  Doctor’s name:                             Dr Craven  Doctor’s address:                          Moortown Health Centre  Reason for call:                             Pain in his 4 ………… back  Previous history:                           Similar back problem in June last year  Details of present problem:           Started 5 ………….  ago  Got worse this 6 ………….  No abdominal pain  Possible cause:                               Lifting up a heavy 7 …………  Treatment already applied:            Has applied heat  Has taken 8 …………  Advice given:                                Try using 9 …………….  Go to doctor tomorrow  Ask for information about  10 …………….</th></tr></table>",
+          "prompt_html": "<p>Details of present problem: Started 5 …………. ago</p>",
           "response_type": "text"
         },
         {
           "question_id": "q6",
           "number": 6,
-          "prompt_html": "<table><tr><th>Caller’s name:                              Robert 1 ………….  Address:                                       27 2 ………….  Moortown  Postcode:                                      DP17 5HJ  Date of birth:                                 3 ………. ,  1975  Doctor’s name:                             Dr Craven  Doctor’s address:                          Moortown Health Centre  Reason for call:                             Pain in his 4 ………… back  Previous history:                           Similar back problem in June last year  Details of present problem:           Started 5 ………….  ago  Got worse this 6 ………….  No abdominal pain  Possible cause:                               Lifting up a heavy 7 …………  Treatment already applied:            Has applied heat  Has taken 8 …………  Advice given:                                Try using 9 …………….  Go to doctor tomorrow  Ask for information about  10 …………….</th></tr></table>",
+          "prompt_html": "<p>Details of present problem: Got worse this 6 ………….</p>",
           "response_type": "text"
         },
         {
           "question_id": "q7",
           "number": 7,
-          "prompt_html": "<table><tr><th>Caller’s name:                              Robert 1 ………….  Address:                                       27 2 ………….  Moortown  Postcode:                                      DP17 5HJ  Date of birth:                                 3 ………. ,  1975  Doctor’s name:                             Dr Craven  Doctor’s address:                          Moortown Health Centre  Reason for call:                             Pain in his 4 ………… back  Previous history:                           Similar back problem in June last year  Details of present problem:           Started 5 ………….  ago  Got worse this 6 ………….  No abdominal pain  Possible cause:                               Lifting up a heavy 7 …………  Treatment already applied:            Has applied heat  Has taken 8 …………  Advice given:                                Try using 9 …………….  Go to doctor tomorrow  Ask for information about  10 …………….</th></tr></table>",
+          "prompt_html": "<p>Possible cause: Lifting up a heavy 7 …………</p>",
           "response_type": "text"
         },
         {
           "question_id": "q8",
           "number": 8,
-          "prompt_html": "<table><tr><th>Caller’s name:                              Robert 1 ………….  Address:                                       27 2 ………….  Moortown  Postcode:                                      DP17 5HJ  Date of birth:                                 3 ………. ,  1975  Doctor’s name:                             Dr Craven  Doctor’s address:                          Moortown Health Centre  Reason for call:                             Pain in his 4 ………… back  Previous history:                           Similar back problem in June last year  Details of present problem:           Started 5 ………….  ago  Got worse this 6 ………….  No abdominal pain  Possible cause:                               Lifting up a heavy 7 …………  Treatment already applied:            Has applied heat  Has taken 8 …………  Advice given:                                Try using 9 …………….  Go to doctor tomorrow  Ask for information about  10 …………….</th></tr></table>",
+          "prompt_html": "<p>Treatment already applied: Has taken 8 …………</p>",
           "response_type": "text"
         },
         {
           "question_id": "q9",
           "number": 9,
-          "prompt_html": "<table><tr><th>Caller’s name:                              Robert 1 ………….  Address:                                       27 2 ………….  Moortown  Postcode:                                      DP17 5HJ  Date of birth:                                 3 ………. ,  1975  Doctor’s name:                             Dr Craven  Doctor’s address:                          Moortown Health Centre  Reason for call:                             Pain in his 4 ………… back  Previous history:                           Similar back problem in June last year  Details of present problem:           Started 5 ………….  ago  Got worse this 6 ………….  No abdominal pain  Possible cause:                               Lifting up a heavy 7 …………  Treatment already applied:            Has applied heat  Has taken 8 …………  Advice given:                                Try using 9 …………….  Go to doctor tomorrow  Ask for information about  10 …………….</th></tr></table>",
+          "prompt_html": "<p>Advice given: Try using 9 …………….</p>",
           "response_type": "text"
         },
         {
           "question_id": "q10",
           "number": 10,
-          "prompt_html": "<table><tr><th>Caller’s name:                              Robert 1 ………….  Address:                                       27 2 ………….  Moortown  Postcode:                                      DP17 5HJ  Date of birth:                                 3 ………. ,  1975  Doctor’s name:                             Dr Craven  Doctor’s address:                          Moortown Health Centre  Reason for call:                             Pain in his 4 ………… back  Previous history:                           Similar back problem in June last year  Details of present problem:           Started 5 ………….  ago  Got worse this 6 ………….  No abdominal pain  Possible cause:                               Lifting up a heavy 7 …………  Treatment already applied:            Has applied heat  Has taken 8 …………  Advice given:                                Try using 9 …………….  Go to doctor tomorrow  Ask for information about  10 …………….</th></tr></table>",
+          "prompt_html": "<p>Advice given: Ask for information about 10 …………….</p>",
           "response_type": "text"
         }
       ]
@@ -376,42 +376,42 @@
         "ls_detail"
       ],
       "instruction": "What do Liz and Scott agree they must do for each of the following sections for their presentation on Stone Point?<br/>Choose <strong>SIX</strong> correct answers, <strong>A–H</strong>, next to questions 25–30.",
-      "prompt_html": "<p><strong>Questions 25–30</strong></p><p>What do Liz and Scott agree they must do for each of the following sections for their presentation on Stone Point?<br/>Choose <strong>SIX</strong> correct answers, <strong>A–H</strong>, next to questions 25–30.</p><p><strong>Things to do</strong></p><p><strong>Sections of Presentation</strong> Early Maori inhibition of Stone Point 25 ………..<br/>The use of Stone Point as a lookout point 26 …………<br/>The reconstruction of the fort 27 …………..<br/>Modernisation of the fort in the 1930s-40s 28 …………..<br/>Uses of Stone Point from 1950s to the present day 29 ………….<br/>The use of Stone Point as public park 30 ……………</p><p>A  provide further description</p><p>B  find images</p><p>C  set up an interview</p><p>D  check author’s details</p><p>E  check the exact location</p><p>F  obtain official permission</p><p>G  be more objective</p><p>H  reduce it in length</p>",
+      "prompt_html": "<p><strong>Questions 25–30</strong></p><p><strong>Things to do</strong><br/><strong>A</strong> provide further description<br/><strong>B</strong> find images<br/><strong>C</strong> set up an interview<br/><strong>D</strong> check author’s details<br/><strong>E</strong> check the exact location<br/><strong>F</strong> obtain official permission<br/><strong>G</strong> be more objective<br/><strong>H</strong> reduce it in length</p>",
       "items": [
         {
           "question_id": "q25",
           "number": 25,
-          "prompt_html": "<p><em>What do Liz and Scott agree they must do for each of the following sections for their presentation on Stone Point?</em> Choose <strong>SIX</strong> correct answers, <strong>A-G</strong> , next to questions <strong>25-30</strong> .</p>",
+          "prompt_html": "<p><strong>25</strong> Early Maori inhibition of Stone Point</p>",
           "response_type": "select"
         },
         {
           "question_id": "q26",
           "number": 26,
-          "prompt_html": "<p>The use of Stone Point as a lookout point 26 …………</p>",
+          "prompt_html": "<p><strong>26</strong> The use of Stone Point as a lookout point</p>",
           "response_type": "select"
         },
         {
           "question_id": "q27",
           "number": 27,
-          "prompt_html": "<p>The reconstruction of the fort 27 …………..</p>",
+          "prompt_html": "<p><strong>27</strong> The reconstruction of the fort</p>",
           "response_type": "select"
         },
         {
           "question_id": "q28",
           "number": 28,
-          "prompt_html": "<p>Modernisation of the fort in the 1930s-40s 28 …………..</p>",
+          "prompt_html": "<p><strong>28</strong> Modernisation of the fort in the 1930s-40s</p>",
           "response_type": "select"
         },
         {
           "question_id": "q29",
           "number": 29,
-          "prompt_html": "<p>Uses of Stone Point from 1950s to the present day 29 ………….</p>",
+          "prompt_html": "<p><strong>29</strong> Uses of Stone Point from 1950s to the present day</p>",
           "response_type": "select"
         },
         {
           "question_id": "q30",
           "number": 30,
-          "prompt_html": "<p><em>What do Liz and Scott agree they must do for each of the following sections for their presentation on Stone Point?</em> Choose <strong>SIX</strong> correct answers, <strong>A-G</strong> , next to questions <strong>25-30</strong> .</p>",
+          "prompt_html": "<p><strong>30</strong> The use of Stone Point as public park</p>",
           "response_type": "select"
         }
       ],
@@ -462,7 +462,7 @@
         "ls_comp_note"
       ],
       "instruction": "Complete the notes below.<br/>Write <strong>NO MORE THAN TWO WORDS</strong> for each answer.",
-      "prompt_html": "<p><strong>Questions 31–40</strong></p><p>Complete the notes below.<br/>Write <strong>NO MORE THAN TWO WORDS</strong> for each answer.</p><p><strong>Rural Development</strong></p><p><strong>The Berbers</strong> ●    lived in various countries in North Africa<br/>●    were driven from their homes during the 12th century<br/>●    began to lead a nomadic life, moving across 31 ……….. and mountains</p><p><strong>Different Berber Lifestyles</strong> ●    some Berbers, known as 32 …………. nomads, moved twice a year<br/>●    some Berbers were completely nomadic<br/>●    some Berbers settled by oases, producing fruit, vegetables, and  33 …………….  to  cook with<br/>●    people and belongings were carried by 34 …………<br/>●    settled Berbers lived in houses<br/>●    nomadic Berbers used tents<br/>●    settled communities organised themselves by holding regular meetings in the 35 ……………. of the village</p><p><strong>The Tuaregs</strong> ●    if goatskins were unavailable, tents were made from 36 …………… or palm-leaf mats<br/>●    Tuareg labourers were the descendants of  37 …………….<br/>●    adult men always wore a 38 ………….  veil<br/>●    some Tuaregs moved to Burkina Faso with their 39…………….</p><p><strong>Tuaregs and Timbuktu</strong> ●    Timbuktu was settled by Tuaregs around 1000 years ago<br/>●    the city built wealth on the salt and gold trades<br/>●    some Tuaregs now work as 40 ………….. for the Mallian Department of Tourism</p>",
+      "prompt_html": "<p><strong>Questions 31–40</strong></p><p>Complete the notes below.<br/>Write <strong>NO MORE THAN TWO WORDS</strong> for each answer.</p><p><strong>Rural Development</strong></p><p><strong>The Berbers</strong> <br> ●    lived in various countries in North Africa<br/>●    were driven from their homes during the 12th century<br/>●    began` to lead a nomadic life, moving across 31 ……….. and mountains</p><p><strong>Different Berber Lifestyles</strong> <br>●    some Berbers, known as 32 …………. nomads, moved twice a year<br/>●    some Berbers were completely nomadic<br/>●    some Berbers settled by oases, producing fruit, vegetables, and  33 …………….  to  cook with<br/>●    people and belongings were carried by 34 …………<br/>●    settled Berbers lived in houses<br/>●    nomadic Berbers used tents<br/>●    settled communities organised themselves by holding regular meetings in the 35 ……………. of the village</p><p><strong>The Tuaregs</strong> <br>●    if goatskins were unavailable, tents were made from 36 …………… or palm-leaf mats<br/>●    Tuareg labourers were the descendants of  37 …………….<br/>●    adult men always wore a 38 ………….  veil<br/>●    some Tuaregs moved to Burkina Faso with their 39…………….</p><p><strong>Tuaregs and Timbuktu</strong> <br>●    Timbuktu was settled by Tuaregs around 1000 years ago<br/>●    the city built wealth on the salt and gold trades<br/>●    some Tuaregs now work as 40 ………….. for the Mallian Department of Tourism</p>",
       "items": [
         {
           "question_id": "q31",
@@ -515,7 +515,7 @@
         {
           "question_id": "q39",
           "number": 39,
-          "prompt_html": "<p>Question 39</p>",
+          "prompt_html": "<p>●    some Tuaregs moved to Burkina Faso with their 39…………….</p>",
           "response_type": "text"
         },
         {
