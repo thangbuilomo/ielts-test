@@ -477,6 +477,21 @@ document.addEventListener('DOMContentLoaded', () => {
 function setupStartGate() {
   const loginBtn = document.getElementById('loginBtn');
   const guestBtn = document.getElementById('guestBtn');
+  const savedUser = window.SaolaAuth?.getSavedUser?.();
+
+  if (savedUser && window.SaolaAuth?.isLoggedIn?.()) {
+    state.mode = 'student';
+    state.studentData = {
+      ok: true,
+      student_name: savedUser.student_name || savedUser.email || 'Saola Student',
+      email: savedUser.email || '',
+      auth_token: savedUser.auth_token || 'static_local_login'
+    };
+    document.getElementById('studentNameDisplay').textContent = state.studentData.student_name;
+    document.getElementById('startOverlay').style.display = 'none';
+    startTest();
+    return;
+  }
 
   loginBtn.addEventListener('click', async () => {
     const email = document.getElementById('studentEmail').value.trim();
@@ -515,6 +530,9 @@ function setupStartGate() {
       if (response && response.ok) {
         state.mode = 'student';
         state.studentData = response;
+        window.SaolaAuth?.rememberExternalLogin?.(response, {
+          remember: Boolean(document.getElementById('rememberLogin')?.checked)
+        });
         document.getElementById('studentNameDisplay').textContent = response.student_name;
         document.getElementById('startOverlay').style.display = 'none';
         startTest();

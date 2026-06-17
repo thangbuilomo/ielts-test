@@ -1,0 +1,44 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_08",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Malaria is caused by protozoan parasites of the genus Plasmodium. Four species of Plasmodium can produce the disease in its various forms: Plasmodium falciparum, Plasmodium vivax, Plasmodium ovale and Plasmodium malaria.\". Heading v (The Bug and its Carriers) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Malaria is caused by protozoan parasites of the genus Plasmodium. Four species of Plasmodium can produce the disease in its various forms: Plasmodium falciparum, Plasmodium vivax, Plasmodium ovale and Plasmodium malaria._"
+    },
+    "q2": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Plasmodium develops in the gut of the mosquito and is passed on in the saliva of an infected insect each time it takes a new blood meal. The parasites are then carried by the blood into the victim’s liver where they invade the cells and multiply.\". Heading viii (Transmission to Humans and Effects) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Plasmodium develops in the gut of the mosquito and is passed on in the saliva of an infected insect each time it takes a new blood meal. The parasites are then carried by the blood into the victim’s liver where they invade the cells and multiply._"
+    },
+    "q3": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Malaria is diagnosed by the clinical symptoms and microscopic examination of the blood. It can normally be cured by anti-malarial drugs.\". Heading xi (Identification) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Malaria is diagnosed by the clinical symptoms and microscopic examination of the blood. It can normally be cured by anti-malarial drugs._"
+    },
+    "q4": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Malaria has been known since time immemorial, but it was centuries before the true causes were understood. Surprisingly in view of this, some ancient treatments were remarkably effective.\". Heading i (Old Remedies) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Malaria has been known since time immemorial, but it was centuries before the true causes were understood. Surprisingly in view of this, some ancient treatments were remarkably effective._"
+    },
+    "q5": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Malaria has social consequences and is a heavy burden on economic development. It is estimated that a single bout of malaria costs a sum equivalent to over 10 working days in Africa.\". Heading x (The Cost of Malaria on Society) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Malaria has social consequences and is a heavy burden on economic development. It is estimated that a single bout of malaria costs a sum equivalent to over 10 working days in Africa._"
+    },
+    "q6": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The significance of malaria as a health problem is increasing in many parts of the world. Epidemics are even occurring around traditionally endemic zones in areas where transmission had been eliminated.\". Heading iii (Further Problems Caused by Shifting Demographics) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The significance of malaria as a health problem is increasing in many parts of the world. Epidemics are even occurring around traditionally endemic zones in areas where transmission had been eliminated._"
+    },
+    "q7": {
+      "explanation": "Đoạn H tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The hope of global eradication of malaria was finally abandoned in 1969 when it was recognised that this was unlikely ever to be achieved. Ongoing control programmes remain essential in endemic areas.\". Heading vii (Tackling Malaria Today) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The hope of global eradication of malaria was finally abandoned in 1969 when it was recognised that this was unlikely ever to be achieved. Ongoing control programmes remain essential in endemic areas._"
+    }
+  }
+}

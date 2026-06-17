@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_true_false_not_given_37",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q10": {
+      "explanation": "Câu 10 khớp với thông tin ở đoạn 4. Ý chính trong bài là: \"Considering our main staple crops such as rice, wheat and maize are wind-pollinated, and therefore not reliant on insects, we need not go hungry. However, we would lose essential nutrients from fruits, vegetables, nuts and oils were they to become no longer available or scarcer, potentially resulting in poor health for many. The IPBES cite 'more than three-quarters of the leading types of food crops' require animal pollination to some degree for both yield and quality.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Considering our main staple crops such as rice, wheat and maize are wind-pollinated, and therefore not reliant on insects, we need not go hungry. However, we would lose essential nutrients from fruits, vegetables, nuts and oils were they to become no longer available or scarcer, potentially resulting in poor health for many. The IPBES cite 'more than three-quarters of the leading types of food crops' require animal pollination to some degree for both yield and quality._"
+    },
+    "q11": {
+      "explanation": "Câu 11 có một số từ khóa gần với đoạn 4, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"Economically speaking, global agricultural production reliant on bees and other insects is estimated at hundreds of billions of dollars a year. Lower yields through a dramatic reduction in pollinators would lead to higher prices for consumers and a serious dent in the profitability of the agriculture sector globally. To avoid this eventuality, research has been completed and more is underway to discover the cause of the phenomenon and possible solutions.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "Economically speaking, global agricultural production reliant on bees and other insects is estimated at hundreds of billions of dollars a year. Lower yields through a dramatic reduction in pollinators would lead to higher prices for consumers and a serious dent in the profitability of the agriculture sector globally. To avoid this eventuality, research has been completed and more is underway to discover the cause of the phenomenon and possible solutions._"
+    },
+    "q12": {
+      "explanation": "Câu 12 khớp với thông tin ở đoạn 5. Ý chính trong bài là: \"In 2016, an 18-year-long UK study concluded that some specific pesticides could be linked to 'large-scale population extinctions' of wild bees. Their use has been restricted or banned by the EU and parts of the US in response to this. Other suggested factors include a loss of habitat brought about by development of rural land, immunodeficiency in bees causing mass die-offs, GM crops, the use of antibiotics by beekeepers, and migratory beekeeping (the practice of moving hives around a country to aid pollination of crops), to mention just a few.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "In 2016, an 18-year-long UK study concluded that some specific pesticides could be linked to 'large-scale population extinctions' of wild bees. Their use has been restricted or banned by the EU and parts of the US in response to this. Other suggested factors include a loss of habitat brought about by development of rural land, immunodeficiency in bees causing mass die-offs, GM crops, the use of antibiotics by beekeepers, and migratory beekeeping (the practice of moving hives around a country to aid pollination of crops), to mention just a few._"
+    },
+    "q13": {
+      "explanation": "Câu 13 khớp với thông tin ở đoạn 4. Ý chính trong bài là: \"The consequences of a severely depleted honey bee population would be far-reaching. Considering our main staple crops such as rice, wheat and maize are wind-pollinated, and therefore not reliant on insects, we need not go hungry. However, we would lose essential nutrients from fruits, vegetables, nuts and oils were they to become no longer available or scarcer, potentially resulting in poor health for many.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "The consequences of a severely depleted honey bee population would be far-reaching. Considering our main staple crops such as rice, wheat and maize are wind-pollinated, and therefore not reliant on insects, we need not go hungry. However, we would lose essential nutrients from fruits, vegetables, nuts and oils were they to become no longer available or scarcer, potentially resulting in poor health for many._"
+    }
+  }
+}

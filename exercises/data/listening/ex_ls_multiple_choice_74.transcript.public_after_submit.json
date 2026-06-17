@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_74",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2074.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You will hear a lecturer setting up a task in a seminar for students on a public health degree course. You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Right, everybody, in a moment I'm going to ask you to work in pairs and plan a piece of action research. Present your findings to the class and write them up, OK? And the research question I want you to investigate is this: To what extent do the main sports facilities in the town contribute to the health and wellbeing of the residents? </p><p><strong>Speaker 1:</strong> I'll repeat that. To what extent do the main sports facilities in the town contribute to the health and wellbeing of the residents? OK? So, over to you. </p><p><strong>Speaker 2:</strong> All right, Lisa, shall we work together? </p><p><strong>Speaker 3:</strong> OK, George, sure. I've made a note of the research question. I knew I'd forget the wording if I didn't. </p><p><strong>Speaker 2:</strong> Me too. Thing is, though, the main sports facilities? I mean, that could mean anything. </p><p><strong>Speaker 3:</strong> True. So, it's up to us to say what it covers. We could take it as meaning just the big sports centre in town, along with the pool. </p><p><strong>Speaker 2:</strong> I suppose so, yeah. Or we could consider all the member gyms. But either way, we'll make a judgement so that we're clear on what's being included. </p><p><strong>Speaker 3:</strong> Sure. With this project, there's going to be loads to do for sure. But ironically, I think it's better that there's just two of us. You know, if there were five of us, everything would take longer because everyone wants to put their ideas forward about every single thing. </p><p><strong>Speaker 2:</strong> Yes, I see what you mean. Do you think we should look at the data about how the fitness levels have changed in recent years? </p><p><strong>Speaker 3:</strong> Well, I think that'd be a valid way to address the research question. And the tutor hasn't explicitly said if we should or not. But the thing is, I can't see where we'd find out about how healthy people were in the past compared to now. If we asked for, say, people's hospital records, it'd be confidential and we wouldn't be given access. So I'd say no. </p><p><strong>Speaker 2:</strong> Fair enough. But to find out about people's fitness, we'll need to do interviews, won't we? For example, with gym users. </p><p><strong>Speaker 3:</strong> Sure. I mean, I can't imagine they'd have anything against being interviewed for our project. They could even do it while they're on the exercise bike, so it's not like it takes up extra time. </p><p><strong>Speaker 2:</strong> But what bothers me is, don't you think people might overstate how much exercise they do or how often? Their responses might not be entirely reliable. </p><p><strong>Speaker 3:</strong> Yeah, I suppose. But I don't think that needs to bother us now. The thing is, I know you've got the skills that are needed to get a decent score on this assignment. You see, you're already looking ahead and anticipating possible difficulties, which I think shows that you're a good planner. </p><p><strong>Speaker 2:</strong> Thanks, Lisa. That's great to hear.</p>"
+    }
+  ]
+}

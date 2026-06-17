@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_06",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q14": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Perhaps the greatest encouragement to the newborn canning industry was the explosion in the number of new colonial territories. As people and goods were being transported to all parts of the world, the can industry itself was growing in new territories.\". Heading viii (Expansion of the Industry) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Perhaps the greatest encouragement to the newborn canning industry was the explosion in the number of new colonial territories. As people and goods were being transported to all parts of the world, the can industry itself was growing in new territories._"
+    },
+    "q15": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Just before the Civil War, a technical advance by canners enabled them to speed up production. Adding calcium chloride to the water in which cans were cooked raised the water temperature, so speeding up the canning process.\". Heading ii (Technological Breakthroughs) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Just before the Civil War, a technical advance by canners enabled them to speed up production. Adding calcium chloride to the water in which cans were cooked raised the water temperature, so speeding up the canning process._"
+    },
+    "q16": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"As early as 1940, can manufacturers began to explore the possibility of adapting cans to package carbonated soft drinks. The can had to be strengthened to accommodate higher internal pressures created by carbonation (especially during warm summer months), which meant increasing the thickness of the metal used in the can ends.\". Heading x (Drinks Canning) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "As early as 1940, can manufacturers began to explore the possibility of adapting cans to package carbonated soft drinks. The can had to be strengthened to accommodate higher internal pressures created by carbonation (especially during warm summer months), which meant increasing the thickness of the metal used in the can ends._"
+    },
+    "q17": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Beverage cans made of aluminium were introduced in 1965. This was an exciting innovation for the packaging industry because the aluminium can was made with only two pieces - a body and an end.\". Heading i (A Useful New Material) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Beverage cans made of aluminium were introduced in 1965. This was an exciting innovation for the packaging industry because the aluminium can was made with only two pieces - a body and an end._"
+    },
+    "q18": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Prior to 1970, can makers, customers and consumers alike were unaware of the impact that the mining and manufacturing of steel or aluminium had on the environment. The concept of natural resource preservation was not an issue of great importance and the low growth of population during these early years further de-emphasised concerns for resource depletion.\". Heading xi (Cans and the Environment) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Prior to 1970, can makers, customers and consumers alike were unaware of the impact that the mining and manufacturing of steel or aluminium had on the environment. The concept of natural resource preservation was not an issue of great importance and the low growth of population during these early years further de-emphasised concerns for resource depletion._"
+    },
+    "q19": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Advances in can manufacturing technology have also brought us lighter aluminium cans. In 1972, 1 pound of aluminium yielded only 21.75 cans.\". Heading vi (Further Manufacturing Advances) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Advances in can manufacturing technology have also brought us lighter aluminium cans. In 1972, 1 pound of aluminium yielded only 21.75 cans._"
+    }
+  }
+}

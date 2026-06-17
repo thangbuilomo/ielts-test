@@ -1,0 +1,107 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_matching_headings_15",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 7,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "matching_headings",
+  "category_id": "matching_headings",
+  "title": "Matching Headings To Paragraphs - Exercise 15",
+  "duration_seconds": 0,
+  "content": {
+    "title": "Crop Dusting in the United States",
+    "content_html": "<h1>MATCHING HEADINGS TO PARAGRAPHS 15</h1>\n<h2>Crop Dusting in the United States</h2>\n<p><strong>A\n</strong>Crop dusting is the process of dropping fertiliser or insecticide on farm fields. The first agricultural aircraft to attempt something of this nature was not actually a plane at all, but a balloon. John Chayton used the device to spread seeds over a valley floor in New Zealand which had been swamped in 1906. In 1921, the US Agriculture Department and the Army Signal Corps joined forces to develop modern crop dusting. On 3 August of that year, John Macready piloted a modified Curtiss JN-4 Jenny to spread lead arsenate to eliminate Catalpa Sphinx caterpillars near Troy, Ohio.</p>\n<p><strong>B\n</strong>Originally, crop duster planes used dry chemicals in order to treat crops, which is how they earned their name. When most people think of crop dusting, they picture a grizzled old man in an ancient biplane, flying low over a field. He appears suddenly on the horizon and disappears almost before you have the chance to register him. Because the expression “crop dusting” automatically brings to mind this image, today’s pilots generally prefer the term “aerial application\". Today’s crop dusting business is completely different, with million-dollar turbine-engine planes, intricate GPS systems for planning the low flights and triggering the sprayers, and well-trained, experienced pilots.</p>\n<p><strong>C\n</strong>Concerns have been voiced over the years about the chemicals sprayed by crop dusters. Some chemicals are detrimental to people’s health, especially if they have respiratory problems, and there have been accusations of gardens being destroyed by dispersed chemicals. In the 1970s particularly, environmental concerns about the use of agricultural planes to spread pesticides led to more stringent regulations regarding the chemicals that could be used via aerial application. Agricultural planes and various techniques used by pilots have been improved significantly over the past few decades and present-day aerial application is considered to be safe for both people and the environment.</p>\n<p><strong>D\n</strong>Aerial application is often the only, or most economical, method for timely pesticide application. It allows large and often remote areas to be treated far faster than by any other form of application. In addition, when wet soil conditions, rolling terrain or dense plant foliage prevent other methods of treating an area, aerial application may be the only remaining method of pest treatment. This is especially important, as some pests and diseases can cause significant damage in a short period and so farmers rely on agricultural planes to control such problems quickly. Aerial application is conducive to higher crop yields as, by treating from above it and not within it, the method is non-disruptive to the crop. Furthermore, this method of application does not cause soil compaction, hence preventing soil runoff. Greater harvest yields in turn result in less land being used for agricultural production. This enables the preservation of wetland and forest eco-systems that are used by threatened and endangered species.</p>\n<p><strong>E\n</strong>Even though they are known as crop dusters, agricultural planes also perform many other functions to assist farmers. Although most crop dusters are used to spray crops with pesticide, planes and helicopters are also used to seed rice and wheat, defoliate cotton prior to harvest, fight forest and grassland fires, protect forests, drop food for fish farms, melt snow and control mosquitoes that threaten public health. All of these activities are in addition to the usual function of applying herbicides, insecticides and fertilisers to fruit, vegetable and feed grain crops.</p>\n<p><strong>F\n</strong>Aerial application is one of the most demanding career choices for a flier, next to flying a jet fighter. The crop dusting planes usually fly at very low altitudes and must be manoeuvred around obstacles, as they attempt to keep seeds and chemicals contained to the fields and away from homes or roadways. The pilot must have better than average focus for the job in hand and faster than average eyes on the instruments. As the pilot descends to spray, he will be following GPS guidance instruments for accurate positioning in the field. At the same time, he will need to press a smoker button to check the wind, drop a flag to mark his place and start the spray with his left hand. During all this, as the pilot will have only a limited amount of space between him and the ground, he will need to rise and descend gently to follow the ground and watch for obstacles. All this is done at 140 miles per hour.</p>\n<p><strong>G\n</strong>At first, the planes used for aerial application were war surplus. One of the most familiar is the Second World War trainer, the open-cockpit Stearman biplane. Stearmans were plentiful and inexpensive, which gave many veterans an opportunity to get into the business. But by the 1950s, the aerial application industry began to develop planes made especially for this purpose. Today, the newest and biggest planes carry as much as 800 gallons in the hopper, are powered by turboprop engines and can cost $1 million or more.</p>\n<p><strong>H\n</strong>Clearly, an industry of this scope requires regulation, and the body that is responsible for this in the United States is the National Agriculture Aviation Association (NAAA). According to their records, aerial application operations are located in 44 states all over the country. There are approximately 1,350 businesses of this type in the United States, 94 per cent of whose owners are also pilots. An additional 1,330 pilots fly crop-dusting planes, but do not own an aerial application business.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_matching_headings_15.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_matching_headings_15.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "matching_headings",
+          "skill_tags": [
+            "rd_matching_headings"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 1 - 7</strong></p>\n<p>The text has eight paragraphs <strong>A - H</strong>. Choose the correct heading for each paragraph.Write the appropriate number (<strong>i - x</strong>).</p>\n<table>\n<tr>\n<td>*Example*</td>\n<td>*Answer*</td>\n</tr>\n<tr>\n<td>Paragraph A</td>\n<td><strong>*iv</strong>*</td>\n</tr>\n</table>\n\n<p>1 Paragraph B</p>\n<p>2 Paragraph C</p>\n<p>3 Paragraph D</p>\n<p>4 Paragraph E</p>\n<p>5 Paragraph F</p>\n<p>6 Paragraph G</p>\n<p>7 Paragraph H</p>\n<table>\n<tr>\n<td><strong>i</strong></td>\n<td>Why Do We Need Crop Dusters?</td>\n</tr>\n<tr>\n<td><strong>ii</strong></td>\n<td>Increasing Costs</td>\n</tr>\n<tr>\n<td><strong>iii</strong></td>\n<td>A Change in Terminology</td>\n</tr>\n<tr>\n<td><strong>iv</strong></td>\n<td>The Early Days</td>\n</tr>\n<tr>\n<td><strong>v</strong></td>\n<td>Plane Development</td>\n</tr>\n<tr>\n<td><strong>vi</strong></td>\n<td>Controversy around Crop Dusting</td>\n</tr>\n<tr>\n<td><strong>vii</strong></td>\n<td>Pilot Skills</td>\n</tr>\n<tr>\n<td><strong>viii</strong></td>\n<td>An Alternative to Crop Dusters</td>\n</tr>\n<tr>\n<td><strong>ix</strong></td>\n<td>Overseeing the Practice</td>\n</tr>\n<tr>\n<td><strong>x</strong></td>\n<td>Various Roles of Crop Dusters</td>\n</tr>\n</table>",
+          "items": [
+            {
+              "question_id": "q1",
+              "number": 1,
+              "prompt_html": "Paragraph B",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q2",
+              "number": 2,
+              "prompt_html": "Paragraph C",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q3",
+              "number": 3,
+              "prompt_html": "Paragraph D",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q4",
+              "number": 4,
+              "prompt_html": "Paragraph E",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q5",
+              "number": 5,
+              "prompt_html": "Paragraph F",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q6",
+              "number": 6,
+              "prompt_html": "Paragraph G",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q7",
+              "number": 7,
+              "prompt_html": "Paragraph H",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            1,
+            7
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

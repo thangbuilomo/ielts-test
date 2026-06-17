@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_38",
+  "module": "listening",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2038.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> So, what exactly is wrong with the TV? </p><p><strong>Speaker 3:</strong> Well, I bought it two days ago so I could watch TV while I was cooking for the family. That's why I just bought a nice small one. It could fit on the shelf next to the dining room door. Anyway, when I got it back and plugged it in, there was no response. Nothing at all. No lights, no sound, no buzz. </p><p><strong>Speaker 2:</strong> And there are no electrical problems in that room? </p><p><strong>Speaker 3:</strong> No, nothing. It isn't just me. My husband is very good with these things, and when he came back, he checked the plug, the fuse, the connections, everything. He couldn't work it out either. </p><p><strong>Speaker 1:</strong> Hmm. That's very strange. Right then, I'll have a look at it. I'm actually not busy right now. I can finish it in about half an hour. Do you want to wait here or come back later today or tomorrow? </p><p><strong>Speaker 3:</strong> I'll go to the supermarket across the road and get some shopping done, and I'll come back in about an hour. Is that alright? </p><p><strong>Speaker 1:</strong> Yes, I'll be able to tell you what's wrong by then.</p>"
+    }
+  ]
+}

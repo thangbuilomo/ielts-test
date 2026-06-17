@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_47",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói đang cung cấp thông tin về chi phí duy trì tài khoản tại Smartbank. Câu nói này chỉ rõ rằng sau hai tháng đầu tiên với mức phí ưu đãi là 2.50 euro, khách hàng sẽ phải trả 6 euro mỗi tháng. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"from then on, it's €6 per month,\" cho thấy mức phí sẽ tăng lên sau thời gian khuyến mãi. Paraphrase quan trọng ở đây là \"from then on\" có nghĩa là \"từ đó trở đi,\" chỉ thời điểm bắt đầu áp dụng mức phí mới. Không có bẫy trong câu này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng là 6 vì đây là mức phí chính xác mà khách hàng sẽ phải trả sau hai tháng đầu tiên.",
+      "evidence": "from then on, it's €6 per month."
+    },
+    "q2": {
+      "explanation": "Người nói đang đề cập đến các lựa chọn mà khách hàng có thể nhận được khi mở tài khoản tại Smartbank. Câu này cho biết rằng khách hàng có thể chọn giữa việc nhận vé xem phim miễn phí hoặc đăng ký một tạp chí. Thông tin giúp tìm ra đáp án là cụm từ \"subscribe to a magazine,\" cho thấy đây là một trong những lựa chọn mà khách hàng có thể nhận. Paraphrase quan trọng ở đây là \"subscribe to\" có nghĩa là \"đăng ký,\" và \"sent to your home at no charge\" có nghĩa là \"gửi đến nhà bạn miễn phí.\" Không có bẫy trong câu này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng là \"magazine\" vì đây là lựa chọn thứ hai mà khách hàng có thể chọn.",
+      "evidence": "or alternatively, you can subscribe to a magazine, which will be sent to your home at no charge."
+    },
+    "q3": {
+      "explanation": "Người nói đang nói về dịch vụ khách hàng của Smartbank, cụ thể là thời gian mà khách hàng sẽ nhận được phản hồi nếu không thể kết nối qua điện thoại. Câu này chỉ rõ rằng nếu khách hàng không thể gọi được, họ sẽ nhận được cuộc gọi lại trong vòng 90 phút. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"in no more than 90 minutes,\" cho thấy thời gian tối đa mà khách hàng phải chờ đợi. Paraphrase quan trọng là \"no more than\" có nghĩa là \"không quá,\" chỉ rõ giới hạn thời gian. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là 90 vì đây là thời gian tối đa mà khách hàng sẽ phải chờ đợi để nhận được cuộc gọi lại.",
+      "evidence": "a call handler will return your call in no more than 90 minutes."
+    },
+    "q4": {
+      "explanation": "Người nói đang đề cập đến các ưu đãi mà Smartbank cung cấp cho khách hàng của họ, đặc biệt là liên quan đến bảo hiểm. Câu này cho biết rằng ngân hàng có nhiều ưu đãi cho khách hàng với các nhà cung cấp khác nhau. Thông tin giúp tìm ra đáp án là cụm từ \"generous offers,\" cho thấy rằng ngân hàng cung cấp các ưu đãi tốt cho khách hàng. Paraphrase quan trọng ở đây là \"offers\" có thể hiểu là \"ưu đãi\" và \"providers\" có thể hiểu là \"nhà cung cấp,\" trong đó có thể bao gồm cả bảo hiểm. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là \"insurance\" vì đây là lĩnh vực mà ngân hàng đang cung cấp ưu đãi cho khách hàng.",
+      "evidence": "we have a number of generous offers for our customers with a range of providers."
+    },
+    "q5": {
+      "explanation": "Người nói đang nói về tiêu chí quan trọng mà họ tìm kiếm khi chọn ngân hàng, đó là ngân hàng phải thân thiện với môi trường. Câu này chỉ rõ rằng ngân hàng mà khách hàng muốn mở tài khoản phải có chính sách bảo vệ môi trường. Thông tin giúp tìm ra đáp án là cụm từ \"has to be green,\" cho thấy yêu cầu cụ thể của khách hàng. Paraphrase quan trọng ở đây là \"green\" có thể hiểu là \"thân thiện với môi trường.\" Không có bẫy trong câu này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng là \"green\" vì đây là tiêu chí chính mà khách hàng đặt ra khi lựa chọn ngân hàng.",
+      "evidence": "any bank that I use has to be green."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> Thank you for calling Smartbank. You're speaking to James. How can I help you?  </p><p><strong>Speaker 2:</strong> Oh, hello. I'm interested in opening a new account, and I was hoping to get some information.  </p><p><strong>Speaker 1:</strong> Certainly. Is there a monthly charge for having an account?  </p><p><strong>Speaker 2:</strong> Well, there's an introductory offer where initially it's just €2.50 a month to have an account.  </p><p><strong>Speaker 1:</strong> And does it stay at that or go up?  </p><p><strong>Speaker 2:</strong> That's just for the first and second month, and from then on, it's €6 per month. It's automatically deducted from your balance.  </p><p><strong>Speaker 1:</strong> Oh, you don't have any free accounts, then?  </p><p><strong>Speaker 2:</strong> No, but we do have a range of benefits. Our customers can either get two complementary tickets to the cinema, which you can use our banking app to book, or alternatively, you can subscribe to a magazine, which will be sent to your home at no charge.  </p><p><strong>Speaker 1:</strong> Okay, so in terms of the actual banking, what can you offer your customers?  </p><p><strong>Speaker 2:</strong> Well, we pride ourselves on first-class customer service. So if you phone us, we guarantee that if you don't get through, a call handler will return your call in no more than 90 minutes. But actually, the average wait time is only about 35 seconds.  </p><p><strong>Speaker 1:</strong> That's good. It often takes five minutes to get through to my current bank.  </p><p><strong>Speaker 2:</strong> Yes, we know how frustrating that can be. Now, I think I saw something on your website about helping get money off insurance for your customers. Is that right?  </p><p><strong>Speaker 1:</strong> That's correct. We have a number of generous offers for our customers with a range of providers.  </p><p><strong>Speaker 2:</strong> Oh, right. Well, that sounds interesting. And for me, really, any bank that I use has to be green. That's really my main consideration. So the question is, are you?  </p><p><strong>Speaker 1:</strong> Absolutely. 100%. In terms of the power for our buildings, our investment and lending policies, and so on. There's more about that on our website.  </p><p><strong>Speaker 2:</strong> Great. Well, I'll look later. So, yeah, I'd like to open an account then, please.</p>"
+}

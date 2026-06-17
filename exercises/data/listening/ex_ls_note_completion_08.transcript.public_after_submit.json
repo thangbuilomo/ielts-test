@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_08",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2008.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Now, more seriously, we must look at your personal safety. First, let's look at where you live. Again, wherever you live, you should make sure that your door is locked securely, even when you're at home, and even if you're not alone, as people can leave your house without you knowing. So, in hall, lock that door at all times, especially at night. If you're in digs, keep the front door locked at all times, and your own bedroom as well. If your bedroom has no lock, then get one put in. Get your landlord to do it. They usually will. It's a small price to pay for safety. </p><p><strong>Speaker 1:</strong> Look at the windows in your house. Again, especially the ones in your bedroom. Make sure the window fastens securely, and try to get an extra lock fitted. Keep curtains closed at night, and also during the day too, if you don't mind, so that people can't see in. Get a chain fitted to your front door too, and always have the chain on when you're at home. </p><p><strong>Speaker 1:</strong> If you see someone often hanging around near your home, then let someone know in your hall, or the welfare office in the union will be able to advise you. We, of course, at the police station, will always welcome you, and will never scoff at your worries. We won't laugh at you, and we'll take everything seriously.</p><p><strong>Speaker 1:</strong> Next, let's look at when you're away from your home, and walking about the streets. Naturally, you're more at risk at night, but even in the daytime, try to keep to busier areas which are well lit, and always try to have someone with you when you're travelling on foot. </p><p><strong>Speaker 1:</strong> At night, do the same, but be more careful about it. If you're leaving the union late at night, take advantage of the excellent minibus service that your union puts on for you for your safety. There are two minibuses available every night, leaving at regular intervals. If there isn't one available, wait in the queue until one arrives. They'll get you home safely in the end. </p><p><strong>Speaker 1:</strong> If you're not at the union, and by yourself, try to get a taxi back, rather than walk. I know it's more expensive, but it's worth the cost. I'm sure your parents would prefer you spending the extra money to make you safe. </p><p><strong>Speaker 1:</strong> Also, with taxis, always take a licensed taxi from a proper taxi rank, or call a reputable company. Keep the number of a reputable company in your wallet and saved in your mobile, then you'll always have access to a safe way home. </p><p><strong>Speaker 1:</strong> I hope I haven't panicked you. Very few people do actually get attacked, but of course it does happen. By following these basic safety rules, you vastly reduce your chances of being a victim. The cardinal rule is don't be alone. Always have a friend with you if possible.</p>"
+    }
+  ]
+}

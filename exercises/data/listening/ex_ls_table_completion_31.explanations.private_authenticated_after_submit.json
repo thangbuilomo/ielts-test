@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_31",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q27": {
+      "explanation": "Người nói đang thảo luận về cách tổ chức phần giới thiệu trong buổi thuyết trình. Họ nhấn mạnh rằng trước khi đi vào nội dung chính, cần cung cấp những thông tin cụ thể về cuốn sách, trong đó có \"ngày phát hành\". Thông tin này giúp tìm ra đáp án vì nó là một trong những chi tiết cụ thể mà họ muốn đề cập. Paraphrase quan trọng ở đây là \"concrete details\" (thông tin cụ thể) và \"release dates\" (ngày phát hành) là một phần trong đó. Không có bẫy trong câu này vì thông tin rất rõ ràng và trực tiếp. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã đề cập.",
+      "evidence": ""
+    },
+    "q28": {
+      "explanation": "Người nói đang đề cập đến việc sử dụng hình ảnh để minh họa cho các nhân vật trong cuốn sách. Họ nhấn mạnh rằng việc sử dụng \"hình minh họa\" sẽ giúp người nghe dễ hình dung hơn về các nhân vật. Thông tin giúp tìm ra đáp án là từ \"illustrations\" (hình minh họa) mà họ đề xuất sử dụng trong phần thuyết trình. Paraphrase quan trọng là \"show their appearance\" (cho thấy ngoại hình của họ) và \"illustrations\" (hình minh họa) là một cách để thực hiện điều đó. Không có bẫy trong câu này vì thông tin rất rõ ràng và liên quan trực tiếp đến nội dung thuyết trình. Đáp án đúng vì nó phản ánh chính xác ý tưởng mà người nói đã nêu ra.",
+      "evidence": ""
+    },
+    "q29": {
+      "explanation": "Người nói đang thảo luận về việc sử dụng các đoạn video để làm phong phú thêm phần thuyết trình. Họ đề xuất rằng việc sử dụng \"video clips\" sẽ giúp minh họa cho các cảnh quan trọng trong cuốn sách. Thông tin giúp tìm ra đáp án là từ \"video clips\" mà họ muốn sử dụng. Paraphrase quan trọng là \"some video clips\" (một số đoạn video) và \"key scenes\" (cảnh quan trọng) là những gì họ đang tìm kiếm. Không có bẫy trong câu này vì thông tin rất rõ ràng và liên quan trực tiếp đến nội dung thuyết trình. Đáp án đúng vì nó phản ánh chính xác ý tưởng mà người nói đã nêu ra.",
+      "evidence": ""
+    },
+    "q30": {
+      "explanation": "Người nói đang tóm tắt nội dung thuyết trình và nhấn mạnh rằng các vấn đề xã hội là một phần quan trọng trong cuộc thảo luận. Họ cho rằng những vấn đề này vẫn còn liên quan đến hiện tại, điều này cho thấy tầm quan trọng của chúng trong bối cảnh hiện nay. Thông tin giúp tìm ra đáp án là từ \"social issues\" (vấn đề xã hội) mà họ đã thảo luận. Paraphrase quan trọng là \"relevant today\" (còn liên quan đến ngày nay) và \"social issues\" là những gì họ đang đề cập đến. Không có bẫy trong câu này vì thông tin rất rõ ràng và liên quan trực tiếp đến nội dung thuyết trình. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã nêu ra.",
+      "evidence": ""
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Well, we've got to speak for 15 minutes in total. And obviously, we need to divide that time into sections between the three of us. How should we start?</p><p><strong>Speaker 2:</strong> For the introduction, I think we can do it in two stages. Before we discuss the basic plot overview, we need to provide our listener with some concrete details about the book, release dates, etc. What do you think?</p><p><strong>Speaker 3:</strong> Sounds good. And we could make a PowerPoint with some slides.</p><p><strong>Speaker 1:</strong> Great. I don't mind doing the first part. And we could put Susie down for the second.</p><p><strong>Speaker 2:</strong> Sure. Then I can begin with the main points, an explanation about the role of Matthew, followed by some of the other characters.</p><p><strong>Speaker 3:</strong> I think it would be great to show their appearance, demeanour, the settings. We could get some illustrations, source some on the internet to incorporate into the PowerPoint.</p><p><strong>Speaker 1:</strong> After that, we need to focus on the relationships between the characters.</p><p><strong>Speaker 2:</strong> Absolutely. We could pick three main ones. We spoke about some of them before.</p><p><strong>Speaker 3:</strong> Ah, and what about something audiovisual? Maybe we could get our hands on some video clips of the most famous key scenes to play in the presentation.</p><p><strong>Speaker 1:</strong> From the film? I love the idea, but I don't know. We only have 15 minutes. Might they take up too much time?</p><p><strong>Speaker 2:</strong> Maybe just one?</p><p><strong>Speaker 3:</strong> Yeah, we can source one or two short ones to use as an aid. Do you mind if I do that part?</p><p><strong>Speaker 1:</strong> Not at all. And Susie can give the last part, which I think should be about our own reactions to the book. Remember, that had to be a central point of the talk.</p><p><strong>Speaker 2:</strong> OK. And as a summary, I personally think a lot of the social issues discussed are still relevant today in some ways. Let's discuss those we've identified in this part.</p><p><strong>Speaker 3:</strong> Do you think that could work? We could use some images from the modern day that depict any similarities we pinpoint.</p><p><strong>Speaker 1:</strong> Excellent. I don't mind doing that part. Then we each have two sections to discuss.</p><p><strong>Speaker 2:</strong> Perfect.</p>"
+}

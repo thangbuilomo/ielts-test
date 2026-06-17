@@ -1,0 +1,142 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_note_completion_38",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 10,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "note_completion",
+  "category_id": "note_completion",
+  "title": "Note Completion - Exercise 38",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2038.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_note_completion_38.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_note_completion_38.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_note_completion_38.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "note_completion",
+          "skill_tags": [
+            "ls_comp_note"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>NOTE COMPLETION 38</h1><p><strong>Questions 31 - 40</strong></p><p>Complete the notes.</p><p>Use <strong>NO MORE THAN ONE WORD</strong> for each answer.</p><table><thead><tr><th>| SWOT Analysis |<br>| --- |<br><strong>What is SWOT?</strong><br>A business planning analysis framework.<br>Thought to come from Stanford Research Institute. Originally wanted an explanation for the <blank data-qid=\"q31\"/> of existing planning methods.<br>SWOT stands for Strengths, Weaknesses, Opportunities and Threats.<br><strong>Internal/External</strong><br>Internal factors - <blank data-qid=\"q32\"/> that could give it advantage or disadvantage. Strengths and weaknesses.<br>Examples: product / service / price / a company's <blank data-qid=\"q33\"/> / company’s financial situation and manufacturing capabilities.<br>External factors - things that are out of your <blank data-qid=\"q34\"/>. Could benefit you or cause problems. Opportunities and threats.<br>Examples: activities of your <blank data-qid=\"q35\"/> and changes in society.<br><strong>Uses for SWOT Analysis</strong><br>Some existing companies perform SWOT analysis every <blank data-qid=\"q36\"/> to assess the marketplace. New companies perform one as part of planning process.<br><blank data-qid=\"q37\"/> departments carry out SWOT analyses on rivals.<br>Non-profit organisations and <blank data-qid=\"q38\"/> projects also perform them to help create objectives and goals.<br><strong>Drawbacks to SWOT analysis</strong><br>Can <blank data-qid=\"q39\"/> a complex situation.<br>It is too subjective – somebody makes a judgement on what is good or bad.<br>All identified areas are identically <blank data-qid=\"q40\"/><br>.</th></tr></thead><tbody><tr><td></td></tr></tbody></table>",
+          "items": [
+            {
+              "question_id": "q31",
+              "number": 31,
+              "prompt_html": "Question 31",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q32",
+              "number": 32,
+              "prompt_html": "Question 32",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q33",
+              "number": 33,
+              "prompt_html": "Question 33",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q34",
+              "number": 34,
+              "prompt_html": "Question 34",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q35",
+              "number": 35,
+              "prompt_html": "Question 35",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q36",
+              "number": 36,
+              "prompt_html": "Question 36",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q37",
+              "number": 37,
+              "prompt_html": "Question 37",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q38",
+              "number": 38,
+              "prompt_html": "Question 38",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q39",
+              "number": 39,
+              "prompt_html": "Question 39",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q40",
+              "number": 40,
+              "prompt_html": "Question 40",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            31,
+            40
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_note_completion_38",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_note_completion_38",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

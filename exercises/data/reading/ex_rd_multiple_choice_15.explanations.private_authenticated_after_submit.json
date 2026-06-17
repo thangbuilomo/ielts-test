@@ -1,0 +1,24 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_15",
+  "module": "reading",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q12": {
+      "explanation": "Căn cứ nằm ở đoạn 7: \"Zebra finches are not only popular pets, they are also widely used in research. In fact, they have been spoken of as the avian equivalent of laboratory rats. No other finch has been studied as closely as the zebra finch.\". Phương án C (Zebra finches only sing special songs to their offspring in certain circumstances.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Zebra finches are not only popular pets, they are also widely used in research. In fact, they have been spoken of as the avian equivalent of laboratory rats. No other finch has been studied as closely as the zebra finch._"
+    },
+    "q13": {
+      "explanation": "Căn cứ nằm ở đoạn 6: \"In this way, they can drink water quickly and so spend less time at water holes where they are vulnerable to predators. Moreover, this way of drinking allows them to exploit small quantities of water such as dew drops as well as to draw water up from places that would otherwise be difficult to drink from. Zebra finches also eat the leaves of succulent plants as a means of staying hydrated when there is no water supply nearby.\". Phương án D (One feeding characteristic of the zebra finch is beneficial to them in the long-term.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "In this way, they can drink water quickly and so spend less time at water holes where they are vulnerable to predators. Moreover, this way of drinking allows them to exploit small quantities of water such as dew drops as well as to draw water up from places that would otherwise be difficult to drink from. Zebra finches also eat the leaves of succulent plants as a means of staying hydrated when there is no water supply nearby._"
+    }
+  }
+}

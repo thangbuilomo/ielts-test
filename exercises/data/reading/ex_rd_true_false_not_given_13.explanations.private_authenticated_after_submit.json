@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_true_false_not_given_13",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q8": {
+      "explanation": "Câu 8 khớp với thông tin ở đoạn 1. Ý chính trong bài là: \"Intelligence can be defined in many different ways since there are a variety of individual differences. Intelligence to a lot of people is the ability to reason and respond quickly yet accurately in all aspects of life, such as physically, emotionally and mentally. Anyone can define intelligence because it is an open-ended word that has much room for interpretation, but there are some theories that have more general acceptance than others.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Intelligence can be defined in many different ways since there are a variety of individual differences. Intelligence to a lot of people is the ability to reason and respond quickly yet accurately in all aspects of life, such as physically, emotionally and mentally. Anyone can define intelligence because it is an open-ended word that has much room for interpretation, but there are some theories that have more general acceptance than others._"
+    },
+    "q9": {
+      "explanation": "Câu 9 khớp với thông tin ở đoạn 2. Ý chính trong bài là: \"In the concrete operational stage, the child deals with abstract thinking from age 7 to 12. The final stage, called the formal operational stage, ends at age 15, and this is when the child learns to reason logically and systematically. Piaget’s theory provides a basis for human intelligence by categorising the major stages in child development and how they contribute to intelligence.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "In the concrete operational stage, the child deals with abstract thinking from age 7 to 12. The final stage, called the formal operational stage, ends at age 15, and this is when the child learns to reason logically and systematically. Piaget’s theory provides a basis for human intelligence by categorising the major stages in child development and how they contribute to intelligence._"
+    },
+    "q10": {
+      "explanation": "Câu 10 khớp với thông tin ở đoạn 2. Ý chính trong bài là: \"In the concrete operational stage, the child deals with abstract thinking from age 7 to 12. The final stage, called the formal operational stage, ends at age 15, and this is when the child learns to reason logically and systematically. Piaget’s theory provides a basis for human intelligence by categorising the major stages in child development and how they contribute to intelligence.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "In the concrete operational stage, the child deals with abstract thinking from age 7 to 12. The final stage, called the formal operational stage, ends at age 15, and this is when the child learns to reason logically and systematically. Piaget’s theory provides a basis for human intelligence by categorising the major stages in child development and how they contribute to intelligence._"
+    },
+    "q11": {
+      "explanation": "Câu 11 có một số từ khóa gần với đoạn 3, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"Howard Gardner, a psychologist at Harvard University, has formulated an even more intriguing theory. He arranged human intelligence into seven sections. First of all, Gardner characterises logical-mathematical intelligence as people who think logically and are able to transfer abstract concepts to reality.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "Howard Gardner, a psychologist at Harvard University, has formulated an even more intriguing theory. He arranged human intelligence into seven sections. First of all, Gardner characterises logical-mathematical intelligence as people who think logically and are able to transfer abstract concepts to reality._"
+    },
+    "q12": {
+      "explanation": "Câu 12 khớp với thông tin ở đoạn 10. Ý chính trong bài là: \"Gardner believes that everyone has a mixture of all the categories varying at different levels. We can see a couple of intelligence types that stand out in people we know and including ourselves. For example, a maths major’s logical-mathematical intelligence would be more predominant than his linguistic intelligence.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Gardner believes that everyone has a mixture of all the categories varying at different levels. We can see a couple of intelligence types that stand out in people we know and including ourselves. For example, a maths major’s logical-mathematical intelligence would be more predominant than his linguistic intelligence._"
+    },
+    "q13": {
+      "explanation": "Câu 13 mâu thuẫn với thông tin ở đoạn 4. Bài nêu: \"They usually have excellent storytelling skills, spelling skills, and love to play with words. They tend to be bookworms and can easily learn more than one language. This type of intelligence seems to be located in the Broca’s Area, since damage to that portion of the brain will cause a person to lose the ability to express themselves in clear grammatical sentences, though that person’s understanding of vocabulary and syntax remains intact.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "They usually have excellent storytelling skills, spelling skills, and love to play with words. They tend to be bookworms and can easily learn more than one language. This type of intelligence seems to be located in the Broca’s Area, since damage to that portion of the brain will cause a person to lose the ability to express themselves in clear grammatical sentences, though that person’s understanding of vocabulary and syntax remains intact._"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_13",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2013.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Any more questions?</p><p><strong>Speaker 2:</strong> Come on, I'm sure you must have some more. Yes, I was wondering what we do in the case of a fire here at the residence.</p><p><strong>Speaker 1:</strong> Well, the first thing to do is to raise the alarm by setting off the electric alarm system. Then, if the fire's not big, try and use the fire extinguishers that you'll find round the residence. If the fire is in any way large, just get out and go to the assembly point on the front lawn. Try not to go in the front or back car parks as that's where the fire brigade will set up their stuff. You don't need to call the fire brigade as our residence alarm is linked up with their system. Make sure you read the fire notices around so you know where the nearest fire escape is to your room. Don't panic and rush around. That gets people hurt. Just go briskly to the assembly point. Once every six months we have a fire drill which is attended by someone from the fire service to make sure we're up to scratch. One of these might be at night, so be ready.</p><p><strong>Speaker 3:</strong> Hi everyone, I just wanted to ask what time the TV room closes for the night. It's just that my room is just across from it and I don't want to be kept awake all night.</p><p><strong>Speaker 1:</strong> The usual cut off time for the TV room is 11pm, although this is extended by one hour on Fridays and Saturdays. I know that some people want to watch late night films, but then you'll just have to buy your own TVs for your rooms. If you do have a TV in your room, then please think of others and keep the volume down. We take a very dim view of people disturbing others in the residence. The same goes for the TV room itself. Just keep the volume levels down. Anything else from anybody?</p><p><strong>Speaker 2:</strong> I've got a question too, actually. I've got a job that will get me back late in the evening and I won't be always able to eat. Are there any good places nearby that deliver food?</p><p><strong>Speaker 1:</strong> The quick answer is yes, there are lots of places. There is an Indian nearby, fish and chips is sold in a shop that is, funnily enough, run by a Chinese family. There is a good Thai restaurant, a Mexican and an Italian pizzeria. They all deliver apart from the Mexican, but that's only five minutes walk away. All the telephone numbers are up on the residence notice board. The first time you order from each of them, just ask them to stick a menu into the bag and you'll build up a library in no time. Now, let me tell you about...</p>"
+    }
+  ]
+}

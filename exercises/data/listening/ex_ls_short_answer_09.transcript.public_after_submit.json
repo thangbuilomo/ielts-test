@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_short_answer_09",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/SHORT%20ANSWER%2009.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. </p><p><strong>Speaker 1:</strong> Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> So, we run three teams for boys and girls in different age groups. The youngest age groups we run here are for twelve to thirteen-year-olds. This group we call the Kestrels. The next group, known as the Hawks, are for fourteen to fifteen-year-olds. Finally, we have the group for sixteen to seventeen-year-olds and they are known as the Eagles. </p><p><strong>Speaker 1:</strong> In order to assess a child's age, we look at the age on the first of September of the year preceding the start of training. If your child is younger than these age groups, then we have an associate soccer club known as the Foxes. And I can tell you later how to get in touch with them. </p><p><strong>Speaker 1:</strong> Once a boy or girl reaches eighteen, they usually join one of the many local adults' clubs. Sometimes, children join these older clubs at a younger age, but you will have to sort out the particular insurance issues if this happens. </p><p><strong>Speaker 1:</strong> In the Kestrels, girls and boys train and play together, but for the Hawks and the Eagles, the children are separated as their physical strength and size becomes more apparent then. </p><p><strong>Speaker 1:</strong> The children need to have appropriate footwear and soccer clothing. Please make sure that they all have warmer clothes to wear in case the weather is cold or if we have to break for bad weather. </p><p><strong>Speaker 1:</strong> So, now let me tell you about our schedules. We train every Tuesday evening for the Kestrels and the boys in the Hawks and the Eagles. </p><p><strong>Speaker 1:</strong> On Wednesdays, we train the girls in the Hawks and the Eagles. Sessions start from the first Tuesday or Wednesday in September through the last Tuesday or Wednesday in April. </p><p><strong>Speaker 1:</strong> The training sessions start at 5:30 p.m. and last for an hour and a half. Children may turn up for as many or as few training sessions as they like, but of course, they will improve more quickly the more often they attend. </p><p><strong>Speaker 1:</strong> We focus on all skills of soccer, fitness and general athleticism and every training there's a short game when the kids can put their skills to use. We always start with warm-ups and finish with stretching at every training. </p><p><strong>Speaker 1:</strong> At weekends, we have matches. These are on Saturday mornings and always start at 10 a.m. All matches are traditional with two halves. </p><p><strong>Speaker 1:</strong> The matches of the Kestrels are 35 minutes each way. The Hawks matches last for 40 minutes each way. And the Eagles matches play full adult time, 45 minutes each way. </p><p><strong>Speaker 1:</strong> We encourage all players to change before and after the game.</p>"
+    }
+  ]
+}

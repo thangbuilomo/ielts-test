@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_17",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q26": {
+      "explanation": "Người nói đang nói về công ty Intern-tastic và nhấn mạnh rằng họ có khả năng sắp xếp mọi thứ cần thiết trước khi thực tập bắt đầu. Thông tin giúp tìm ra đáp án là cụm từ \"sorting out the practicalities,\" cho thấy rằng công ty này đảm nhận việc chuẩn bị cho thực tập sinh. Paraphrase quan trọng ở đây là \"sắp xếp các vấn đề thực tế,\" điều này đồng nghĩa với việc họ sẽ lo liệu mọi thứ cho thực tập sinh. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác điểm mạnh độc đáo của Intern-tastic.",
+      "evidence": "Weren't they the ones who pride themselves on sorting out the practicalities before the internship starts?"
+    },
+    "q27": {
+      "explanation": "Người nói đang thảo luận về Total Internships và nhấn mạnh rằng mức phí của họ thấp hơn so với các công ty khác. Thông tin giúp tìm ra đáp án là cụm từ \"fees aren't as high,\" cho thấy rằng đây là điểm mạnh độc đáo của công ty này. Paraphrase quan trọng là \"mức phí không cao,\" điều này đồng nghĩa với việc họ cung cấp dịch vụ với chi phí hợp lý hơn. Không có bẫy trong câu này vì thông tin rất rõ ràng và dễ hiểu. Đáp án đúng vì nó phản ánh chính xác điểm mạnh độc đáo của Total Internships.",
+      "evidence": "Yeah. And Total Internships, the one whose fees aren't as high as most of the other agencies."
+    },
+    "q28": {
+      "explanation": "Người nói đang so sánh Total Internships với IamCgroup và nhấn mạnh rằng IamCgroup có một danh tiếng rất tốt. Thông tin giúp tìm ra đáp án là cụm từ \"really highly thought of,\" cho thấy rằng IamCgroup có một danh tiếng xuất sắc. Paraphrase quan trọng là \"được đánh giá cao,\" điều này đồng nghĩa với việc họ có uy tín trong ngành. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác điểm mạnh độc đáo của IamCgroup.",
+      "evidence": "Unlike IamCgroup, they're really highly thought of, aren't they?"
+    },
+    "q29": {
+      "explanation": "Người nói đang nói về Interns International và nhấn mạnh rằng công ty này có chính sách rõ ràng về việc trả lương cho thực tập sinh. Thông tin giúp tìm ra đáp án là cụm từ \"make it a policy that interns are not just there to provide free labour,\" cho thấy rằng họ đảm bảo thực tập sinh sẽ được trả công. Paraphrase quan trọng là \"không chỉ ở đó để cung cấp lao động miễn phí,\" điều này đồng nghĩa với việc họ có trách nhiệm với thực tập sinh. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác điểm mạnh độc đáo của Interns International.",
+      "evidence": "Well, while the other organisations are vague about whether we'd get paid or not, these guys make it a policy that interns are not just there to provide free labour."
+    },
+    "q30": {
+      "explanation": "Người nói đang nói về Placements.com và nhấn mạnh rằng họ chú trọng đến việc hiểu rõ từng thực tập sinh. Thông tin giúp tìm ra đáp án là cụm từ \"pride themselves on getting to know every individual,\" cho thấy rằng họ hỗ trợ thực tập sinh trong suốt quá trình thực tập. Paraphrase quan trọng là \"hiểu biết từng cá nhân,\" điều này đồng nghĩa với việc họ chăm sóc và hỗ trợ thực tập sinh một cách tận tình. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác điểm mạnh độc đáo của Placements.com.",
+      "evidence": "Placements.com, they pride themselves on getting to know every individual who wants to find an internship."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong> (Danny): I think it would be useful to review what the tutor said about the various internship agencies.</p><p>Speaker 2 (Sarah): Yes, they've all got their unique selling points.</p><p>Speaker 1 (Danny): Sure, let's start with InternTastic. Weren't they the ones who pride themselves on sorting out the practicalities before the internship starts?</p><p>Speaker 2 (Sarah): Yes, even the airport transfer if you move somewhere. So the intern doesn't have to lift a finger until it starts.</p><p>Speaker 1 (Danny): Yeah. And Total Internships, the one whose fees aren't as high as most of the other agencies.</p><p>Speaker 2 (Sarah): Oh yes, the tutor did say, though, that we should expect to pay a substantial sum for a decent placement to be arranged.</p><p>Speaker 1 (Danny): Hmm, so perhaps Total Internships don't provide such a high standard of service and they don't seem to have such a strong reputation either.</p><p>Speaker 2 (Sarah): You may be right there. Unlike IamCgroup, they're really highly thought of, aren't they?</p><p>Speaker 1 (Danny): Definitely. Seem to be head and shoulders above the rest. Quite pricey, though.</p><p>Speaker 2 (Sarah): Well, hopefully you get what you pay for with them. What about Interns International?</p><p>Speaker 1 (Danny): Well, while the other organisations are vague about whether we'd get paid or not, these guys make it a policy that interns are not just there to provide free labour.</p><p>Speaker 2 (Sarah): Right, interns that go through Interns International might not necessarily get a salary as such, but if they don't, then they'd get a living allowance while they're working. That's the deal.</p><p>Speaker 1 (Danny): Yes, I'm not sure what the distinction is. Something with tax laws, maybe?</p><p>Speaker 2 (Sarah): Possibly. And Placements.com, they pride themselves on getting to know every individual who wants to find an internship, don't they?</p><p>Speaker 1 (Danny): Yes, matching them up with the internship they're most compatible with, and being really thorough about it.</p><p>Speaker 2 (Sarah): Yeah, that's what they say.</p>"
+}

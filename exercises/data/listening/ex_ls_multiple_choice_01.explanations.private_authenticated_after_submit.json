@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_01",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Người nói đang giải thích về yêu cầu thành viên của Liên đoàn Sinh viên để sử dụng các dịch vụ của nó. Thông tin này giúp tìm ra đáp án A, vì nó khẳng định rằng chỉ có thành viên mới có thể truy cập các cơ sở của Liên đoàn. Paraphrase quan trọng ở đây là \"must belong to\" (phải là thành viên) và \"use any of its services\" (sử dụng bất kỳ dịch vụ nào của nó). Bẫy có thể là những lựa chọn khác không nhấn mạnh về việc cần phải là thành viên. Đáp án A là đúng vì nó phản ánh chính xác yêu cầu về thành viên.",
+      "evidence": "All students must belong to the Students' Union if they wish to use any of its services."
+    },
+    "q16": {
+      "explanation": "Người nói đang mô tả các cơ sở ăn uống trong Liên đoàn Sinh viên. Thông tin này giúp tìm ra đáp án B, vì nó cho biết rằng tất cả các cơ sở ăn uống đều nằm ở tầng trệt. Paraphrase quan trọng là \"serving a wide range of fast foods and drinks\" (phục vụ nhiều loại thức ăn nhanh và đồ uống). Bẫy có thể là thông tin về các tầng khác không liên quan đến ăn uống. Đáp án B là đúng vì nó phản ánh chính xác vị trí của các cơ sở ăn uống.",
+      "evidence": "You can eat and drink at the Union. There is a Fat Phillips on the ground floor serving a wide range of fast foods and drinks."
+    },
+    "q17": {
+      "explanation": "Người nói đang khuyến khích sinh viên đến thư viện để đăng ký và tham quan. Thông tin này giúp tìm ra đáp án C, vì nó nhấn mạnh tầm quan trọng của việc đến thư viện sớm. Paraphrase quan trọng là \"urge you to get over there as soon as you can\" (khuyên bạn nên đến đó càng sớm càng tốt). Bẫy có thể là thông tin về thời gian mở cửa thư viện không liên quan đến việc tham quan. Đáp án C là đúng vì nó phản ánh chính xác sự cần thiết phải đến thư viện sớm.",
+      "evidence": "I therefore urge you to get over there as soon as you can as you have to register and then you can have a look around. During the first two weeks of the academic year, that is now, there are tours every 2 hours aimed at familiarising new students to all the services that the library offers."
+    },
+    "q18": {
+      "explanation": "Người nói đang cung cấp thông tin về giờ mở cửa của thư viện. Thông tin này giúp tìm ra đáp án E, vì nó cho biết thư viện có giờ mở cửa khác nhau vào những thời điểm nhất định trong năm. Paraphrase quan trọng là \"stays open later during final exams\" (mở cửa muộn hơn trong thời gian thi cuối kỳ). Bẫy có thể là thông tin về giờ mở cửa thông thường không thay đổi. Đáp án E là đúng vì nó phản ánh chính xác sự thay đổi giờ mở cửa.",
+      "evidence": "The library is open from 9am to 9pm though it stays open later during final exams."
+    },
+    "q19": {
+      "explanation": "Người nói đang mô tả sự phổ biến của sân thể thao trong trường. Thông tin này giúp tìm ra đáp án B, vì nó khẳng định rằng sân thể thao rất phổ biến. Paraphrase quan trọng là \"one of the most used buildings\" (một trong những tòa nhà được sử dụng nhiều nhất). Bẫy có thể là thông tin về chi phí sử dụng không liên quan đến sự phổ biến. Đáp án B là đúng vì nó phản ánh chính xác mức độ phổ biến của sân thể thao.",
+      "evidence": "The university's sports hall is one of the most used buildings at the university."
+    },
+    "q20": {
+      "explanation": "Người nói đang giải thích về yêu cầu thành viên để sử dụng các cơ sở thể thao. Thông tin này giúp tìm ra đáp án C, vì nó cho biết bạn cần phải trả thêm phí để sử dụng. Paraphrase quan trọng là \"must be a member\" (phải là thành viên). Bẫy có thể là thông tin về việc không cần phải trả thêm phí cho các dịch vụ khác. Đáp án C là đúng vì nó phản ánh chính xác yêu cầu về thành viên để sử dụng các cơ sở thể thao.",
+      "evidence": "To use the hall or the grounds, you must be a member of the athletic union which is part of the students' union."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. I'd like now to talk about a few important places on the campus. </p><p><strong>Speaker 1:</strong> All students must belong to the Students' Union if they wish to use any of its services. It is very cheap and we certainly recommend that you join. The Union provides a bookshop covering all the course books at the university plus lots of other titles for a range of interests. You can eat and drink at the Union. There is a Fat Phillips on the ground floor serving a wide range of fast foods and drinks. </p><p><strong>Speaker 1:</strong> Then there is the main Union bar up on the first floor. This is where the Union parties, dances and balls are held and there is a pizza corner where cheap and large pizzas can be served up in a few minutes. Other areas that will be of interest to students are the welfare office, the travel office and the clubs office. </p><p><strong>Speaker 1:</strong> The clubs office will get you in touch with all the clubs that are part of the Students' Union. These clubs vary from football to drama to potholing to beer drinking. There really is something for everyone. The Union opens up at 8am every day and closes at 12 midnight unless there are any functions going on later. </p><p><strong>Speaker 1:</strong> I'd like to move on to the library now. This is where a lot of you will, I hope, be spending a lot of time over the next 3 or 4 years working and doing research. Of course, this isn't as exciting as the social aspects of university life, but of course it really is the main reason that you're all here. </p><p><strong>Speaker 1:</strong> I therefore urge you to get over there as soon as you can as you have to register and then you can have a look around. During the first two weeks of the academic year, that is now, there are tours every 2 hours aimed at familiarising new students to all the services that the library offers. </p><p><strong>Speaker 1:</strong> The library is open from 9am to 9pm though it stays open later during final exams. As I said earlier, the refectory is behind the library. The refectory offers a range of cheap meals at lunchtime and in the evenings. It is open from 12 noon to 3pm for lunch and from 6pm to 8.30pm for dinner. </p><p><strong>Speaker 1:</strong> They try to offer a variety of food from favourites to healthy options to ethnic foods and there is always a choice for vegetarians and vegans. The university's sports hall is one of the most used buildings at the university. </p><p><strong>Speaker 1:</strong> To use the hall or the grounds, you must be a member of the athletic union which is part of the students' union. Again, this costs very little and will allow you to use all the university sports facilities, represent university teams and it fully insures you during your membership of the athletic union. This is really excellent value. </p><p><strong>Speaker 1:</strong> For departments and academic facilities, there isn't enough time to go through all of them, but your respective departments should furnish you with maps and information that will satisfy your needs. </p><p><strong>Speaker 1:</strong> For all services offered at the university, I recommend that you purchase a discount plus card. This card costs £50 and lasts for the academic year. It will then give you discounts on all services at the university. For instance, a £4 meal at the refectory would be reduced to £2.50. </p><p><strong>Speaker 1:</strong> It will also give free usage of the late night minibus that the university runs to places off campus which normally costs a pound.</p>"
+}

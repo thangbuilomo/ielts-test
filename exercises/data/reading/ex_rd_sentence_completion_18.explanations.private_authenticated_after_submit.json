@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_sentence_completion_18",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q9": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn A, bài viết nêu: \"Throughout the last century, numerous foods have hit the headlines as a threat to human health. In the 1920s, milk was supposedly full of dangerous bacteria; in the 80s, America was told that insecticides on apples caused cancer, and cholesterol has been hero and villain several times over. Reducing our fat intake used to be the main message of health marketing not so long ago, but many medical experts say this is trivial compared to the dangers posed by sugar.\". Cụm apples khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Throughout the last century, numerous foods have hit the headlines as a threat to human health. In the 1920s, milk was supposedly full of dangerous bacteria; in the 80s, America was told that insecticides on apples caused cancer, and cholesterol has been hero and villain several times over. Reducing our fat intake used to be the main message of health marketing not so long ago, but many medical experts say this is trivial compared to the dangers posed by sugar._"
+    },
+    "q10": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn H, bài viết nêu: \"So what can we do to reduce our sugar consumption? Healthy eating advocates say the first step is to be aware of the amounts we consume. For example, seemingly healthy orange juice could contain as much sugar as cola.\". Cụm fat khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "So what can we do to reduce our sugar consumption? Healthy eating advocates say the first step is to be aware of the amounts we consume. For example, seemingly healthy orange juice could contain as much sugar as cola._"
+    },
+    "q11": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn C, bài viết nêu: \"A UK study found nearly half of all mothers believed their children to be addicted to sugar, but the same study showed very few of those mothers were aware just how much everyday food, like cereals, or even fat-free yoghurt contained. Besides causing a number of health-related risks, constantly feeding it to children can make them dependent on it and change their perception of sweetness. Children who are used to sweet food won’t appreciate more subtle, delicate flavours; fizzy drinks and sweets may be ruining their palate.\". Cụm palate khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "A UK study found nearly half of all mothers believed their children to be addicted to sugar, but the same study showed very few of those mothers were aware just how much everyday food, like cereals, or even fat-free yoghurt contained. Besides causing a number of health-related risks, constantly feeding it to children can make them dependent on it and change their perception of sweetness. Children who are used to sweet food won’t appreciate more subtle, delicate flavours; fizzy drinks and sweets may be ruining their palate._"
+    },
+    "q12": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn F, bài viết nêu: \"Nevertheless, brushing your teeth regularly may not be the solution. Professor of dentistry at St Louis University, Glennon Engleman, warns regular brushers: “Many people think that if they indulge in their favourite sugary snacks, it won’t damage their teeth as long as they brush them straight after.” He even gives evidence that brushing may be causing more harm than good. “The bacteria’s acid weakens the enamel,so brushing will damage or remove the protective layers of your teeth.” So, what solution does Engleman propose? “Just cut out the sugar!\". Cụm brushing khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Nevertheless, brushing your teeth regularly may not be the solution. Professor of dentistry at St Louis University, Glennon Engleman, warns regular brushers: “Many people think that if they indulge in their favourite sugary snacks, it won’t damage their teeth as long as they brush them straight after.” He even gives evidence that brushing may be causing more harm than good. “The bacteria’s acid weakens the enamel,so brushing will damage or remove the protective layers of your teeth.” So, what solution does Engleman propose? “Just cut out the sugar!_"
+    },
+    "q13": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn H, bài viết nêu: \"Ingredient labels can be misleading, as sugar can be named in various ways: sucrose, fructose and corn syrup are three of the main offenders. Once you’ve determined the sources of your consumption, try to replace them with sugar-free alternatives. Avoid ready-prepared meals - these often make up more than your recommended daily allowance of sugar.\". Cụm labels khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Ingredient labels can be misleading, as sugar can be named in various ways: sucrose, fructose and corn syrup are three of the main offenders. Once you’ve determined the sources of your consumption, try to replace them with sugar-free alternatives. Avoid ready-prepared meals - these often make up more than your recommended daily allowance of sugar._"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_34",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q6": {
+      "explanation": "Người nói đang nói về thời gian có sẵn cho các cuộc hẹn của vợ Mike. Thông tin giúp tìm ra đáp án là thời gian cụ thể được đề cập: 2 giờ, 2.30 và 3.30. Paraphrase quan trọng ở đây là \"the first one\" mà Mike chọn là cuộc hẹn lúc 2 giờ 30 phút. Bẫy có thể là sự nhầm lẫn giữa các thời gian, nhưng câu hỏi rõ ràng yêu cầu thời gian đầu tiên mà Mike đặt cho vợ. Đáp án B là chính xác vì đó là thời gian mà Mike đã chọn.",
+      "evidence": "There are appointments available at two o'clock, 2.30 and 3.30."
+    },
+    "q7": {
+      "explanation": "Người nói đang cung cấp số điện thoại của phòng khám. Thông tin giúp tìm ra đáp án là câu nói trực tiếp về số điện thoại. Paraphrase quan trọng là \"số điện thoại\" được nhắc đến rõ ràng. Bẫy có thể là sự nhầm lẫn với các số điện thoại khác trong danh sách, nhưng câu hỏi yêu cầu số điện thoại cụ thể mà Mike đã nhận. Đáp án B là chính xác vì đây là số điện thoại được cung cấp.",
+      "evidence": "It's 7253 9829."
+    },
+    "q8": {
+      "explanation": "Người nói đang giới thiệu tên của mình và đề cập đến những người khác có thể làm việc cùng. Thông tin giúp tìm ra đáp án là tên \"Angela\" được nhắc đến đầu tiên. Paraphrase quan trọng là \"cô gái mà Mike đang nói chuyện\" là Angela. Bẫy có thể là sự nhầm lẫn với hai cái tên khác là Elizabeth và Rachel, nhưng câu hỏi yêu cầu tên của người mà Mike đang nói chuyện trực tiếp. Đáp án A là chính xác vì Angela là người đã nói.",
+      "evidence": "My name's Angela, but there are two other girls who might be on duty as well. Their names are Elizabeth and Rachel..."
+    },
+    "q9": {
+      "explanation": "Người nói đang cung cấp số điện thoại di động của bác sĩ trực đêm. Thông tin giúp tìm ra đáp án là câu nói trực tiếp về số điện thoại di động. Paraphrase quan trọng là \"số điện thoại di động\" được nhắc đến rõ ràng. Bẫy có thể là sự nhầm lẫn với các số điện thoại khác trong danh sách, nhưng câu hỏi yêu cầu số điện thoại cụ thể mà Mike đã nhận. Đáp án A là chính xác vì đây là số điện thoại được cung cấp.",
+      "evidence": "It's 0506 759 3856."
+    },
+    "q10": {
+      "explanation": "Người nói đang giải thích về các khoản phí liên quan đến dịch vụ y tế. Thông tin giúp tìm ra đáp án là câu nói về việc các cuộc tư vấn là miễn phí. Paraphrase quan trọng là \"không tính phí cho các cuộc tư vấn\". Bẫy có thể là sự nhầm lẫn với các dịch vụ khác như tiêm phòng du lịch và báo cáo bảo hiểm, nhưng câu hỏi yêu cầu dịch vụ không tính phí. Đáp án C là chính xác vì các cuộc tư vấn không bị tính phí.",
+      "evidence": "Consultations, though, are under the National Health Service, so they'll be free."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> I'd like to make an appointment now for my wife. She wants to come in at the end of the week. How about this Friday morning?</p><p><strong>Speaker 1:</strong> That's Friday the 21st. </p><p><strong>Speaker 2:</strong> I don't think she can make the morning. Any openings in the afternoon?</p><p><strong>Speaker 1:</strong> There are appointments available at two o'clock, 2.30 and 3.30.</p><p><strong>Speaker 2:</strong> We'll take the first one, please.</p><p><strong>Speaker 1:</strong> OK, that's done. Oh, and what shall my wife do if she wants to switch doctor?</p><p><strong>Speaker 2:</strong> She can just give us a call here. Do you want to take the number down?</p><p><strong>Speaker 1:</strong> Yes, please. </p><p><strong>Speaker 1:</strong> It's 7253 9829. Can you give me your name, please?</p><p><strong>Speaker 2:</strong> My name's Angela, but there are two other girls who might be on duty as well. Their names are Elizabeth and Rachel, but it doesn't matter who's on duty. Anyone can take care of it. </p><p><strong>Speaker 1:</strong> Now what do we do if we need to call out a doctor during the night?</p><p><strong>Speaker 2:</strong> We've got a rotation system with the doctors in the area. There's a mobile number you can call and that'll get through to the doctor who's on duty.</p><p><strong>Speaker 1:</strong> What's that number?</p><p><strong>Speaker 2:</strong> It's 0506 759 3856.</p><p><strong>Speaker 1:</strong> Got that. I didn't ask about any charges.</p><p><strong>Speaker 2:</strong> Like all Australia, prescriptions have to be paid for at the chemist at the prevailing rate. Some things like vaccinations for travel and insurance reports we make a standard charge for and I can give you a price list for those. Consultations, though, are under the National Health Service, so they'll be free.</p><p><strong>Speaker 1:</strong> Great. Well, that's all. Thanks and goodbye. </p><p><strong>Speaker 2:</strong> Goodbye.</p>"
+}

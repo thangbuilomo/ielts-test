@@ -1,0 +1,44 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_sentence_endings_07",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q27": {
+      "explanation": "Câu 27 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 4 chứa căn cứ: \"One of the reasons for this demographic shift is that the fertility rate is falling. In order to keep the population at a stable level, the birth rate needs to stay at 2.1 children per woman. The global population is still increasing due to high birth rates in Africa and some Asian countries.\". Lựa chọn F (... combine with improved life expectancy to create a demographic 'time bomb'.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "One of the reasons for this demographic shift is that the fertility rate is falling. In order to keep the population at a stable level, the birth rate needs to stay at 2.1 children per woman. The global population is still increasing due to high birth rates in Africa and some Asian countries._"
+    },
+    "q28": {
+      "explanation": "Câu 28 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 8 chứa căn cứ: \"Yet Vitor Constâncio suggests that more immigration is key to increasing economic growth and the population. However, others are less sure, with demography expert Axel Börsch-Supan suggesting that the numbers required to solve the problem would be too massive for a country to deal with. It is certainly true that for migration to be a possible solution individual governments would have to do a great deal more to integrate immigrants into society and help them to be present in all parts of the work force rather than just as unskilled workers.\". Lựa chọn J (... affects some regions more than others.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Yet Vitor Constâncio suggests that more immigration is key to increasing economic growth and the population. However, others are less sure, with demography expert Axel Börsch-Supan suggesting that the numbers required to solve the problem would be too massive for a country to deal with. It is certainly true that for migration to be a possible solution individual governments would have to do a great deal more to integrate immigrants into society and help them to be present in all parts of the work force rather than just as unskilled workers._"
+    },
+    "q29": {
+      "explanation": "Câu 29 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 7 chứa căn cứ: \"In most developed countries the retirement age is 65 and this has not changed for decades, despite the increase in life expectancy. In some countries, like New Zealand and Japan, a large proportion of those aged between 65-69 are still working. The problem with this is that not all countries have as healthy a population as these countries, which means that people are unable to continue working this long.\". Lựa chọn D (... has not kept up with the increase in life expectancy.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "In most developed countries the retirement age is 65 and this has not changed for decades, despite the increase in life expectancy. In some countries, like New Zealand and Japan, a large proportion of those aged between 65-69 are still working. The problem with this is that not all countries have as healthy a population as these countries, which means that people are unable to continue working this long._"
+    },
+    "q30": {
+      "explanation": "Câu 30 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 4 chứa căn cứ: \"The global population is still increasing due to high birth rates in Africa and some Asian countries. However, in Europe it is only Ireland that is near this target with a birth rate of 2.07, whereas the average across Europe is 1.6. This problem is even more serious in developed Asian countries like South Korea, where a focus on paying for expensive education makes many people believe that they cannot afford more than one child and the birth rate is just under 1.2 per woman.\". Lựa chọn H (... vary from country to country.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The global population is still increasing due to high birth rates in Africa and some Asian countries. However, in Europe it is only Ireland that is near this target with a birth rate of 2.07, whereas the average across Europe is 1.6. This problem is even more serious in developed Asian countries like South Korea, where a focus on paying for expensive education makes many people believe that they cannot afford more than one child and the birth rate is just under 1.2 per woman._"
+    },
+    "q31": {
+      "explanation": "Câu 31 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 5 chứa căn cứ: \"Not only are people in developed countries having fewer children, but they are also living much longer. In the UK, when the basic state pension was launched, the average life expectancy was 69. This has risen to 81 and a third of people born today are expected to live beyond 100.\". Lựa chọn A (... is likely to be more effective in some countries than others.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Not only are people in developed countries having fewer children, but they are also living much longer. In the UK, when the basic state pension was launched, the average life expectancy was 69. This has risen to 81 and a third of people born today are expected to live beyond 100._"
+    },
+    "q32": {
+      "explanation": "Câu 32 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 8 chứa căn cứ: \"Yet Vitor Constâncio suggests that more immigration is key to increasing economic growth and the population. However, others are less sure, with demography expert Axel Börsch-Supan suggesting that the numbers required to solve the problem would be too massive for a country to deal with. It is certainly true that for migration to be a possible solution individual governments would have to do a great deal more to integrate immigrants into society and help them to be present in all parts of the work force rather than just as unskilled workers.\". Lựa chọn I (... is a solution that even the experts can't agree on.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Yet Vitor Constâncio suggests that more immigration is key to increasing economic growth and the population. However, others are less sure, with demography expert Axel Börsch-Supan suggesting that the numbers required to solve the problem would be too massive for a country to deal with. It is certainly true that for migration to be a possible solution individual governments would have to do a great deal more to integrate immigrants into society and help them to be present in all parts of the work force rather than just as unskilled workers._"
+    },
+    "q33": {
+      "explanation": "Câu 33 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 4 chứa căn cứ: \"The global population is still increasing due to high birth rates in Africa and some Asian countries. However, in Europe it is only Ireland that is near this target with a birth rate of 2.07, whereas the average across Europe is 1.6. This problem is even more serious in developed Asian countries like South Korea, where a focus on paying for expensive education makes many people believe that they cannot afford more than one child and the birth rate is just under 1.2 per woman.\". Lựa chọn C (... face serious shortfalls in their national budgets.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The global population is still increasing due to high birth rates in Africa and some Asian countries. However, in Europe it is only Ireland that is near this target with a birth rate of 2.07, whereas the average across Europe is 1.6. This problem is even more serious in developed Asian countries like South Korea, where a focus on paying for expensive education makes many people believe that they cannot afford more than one child and the birth rate is just under 1.2 per woman._"
+    }
+  }
+}

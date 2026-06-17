@@ -1,0 +1,24 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_note_completion_02",
+  "module": "reading",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q25": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 8, bài viết nêu: \"Recently, the world’s largest boiling water nuclear reactor, Sweden’s Oskarshamn plant, was paralysed after a bloom of moon jellyfish clogged the plant’s cooling systems and forced it to shut down. Jellyfish have also been responsible for nuclear shut-downs due to cooling system problems in California, Florida, Israel, Scotland, India and Japan. In 1999, a jellyfish bloom clogged the cooling system of a major coal-fired plant in the Philippines, leaving 40 million people without power.\". Cụm cooling systems khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Recently, the world’s largest boiling water nuclear reactor, Sweden’s Oskarshamn plant, was paralysed after a bloom of moon jellyfish clogged the plant’s cooling systems and forced it to shut down. Jellyfish have also been responsible for nuclear shut-downs due to cooling system problems in California, Florida, Israel, Scotland, India and Japan. In 1999, a jellyfish bloom clogged the cooling system of a major coal-fired plant in the Philippines, leaving 40 million people without power._"
+    },
+    "q26": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 9, bài viết nêu: \"One possible solution that is being explored is to create robots that can seek out swarms of jellyfish using a camera and GPS. Once the jellyfish are located, the robots can set about shredding the jellies with an underwater propeller. In spite of the developers’ enthusiasm, it seems that this will not prove to be a realistic and effective long-term solution as the number of robots needed to cope with the jellyfish problem would not make the project viable.\". Cụm underwater propeller khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "One possible solution that is being explored is to create robots that can seek out swarms of jellyfish using a camera and GPS. Once the jellyfish are located, the robots can set about shredding the jellies with an underwater propeller. In spite of the developers’ enthusiasm, it seems that this will not prove to be a realistic and effective long-term solution as the number of robots needed to cope with the jellyfish problem would not make the project viable._"
+    }
+  }
+}

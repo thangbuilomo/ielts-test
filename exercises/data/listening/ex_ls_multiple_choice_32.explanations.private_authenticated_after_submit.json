@@ -1,0 +1,29 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_32",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q6": {
+      "explanation": "Người nói đang chia sẻ về sở thích đọc sách của mình. Thông tin giúp tìm ra đáp án là cụm từ \"I'm very keen on mysteries\", cho thấy sự yêu thích rõ ràng đối với thể loại sách trinh thám. Paraphrase quan trọng ở đây là \"keen on\", có nghĩa là rất thích. Không có bẫy trong câu này vì người nói đã rõ ràng nêu ra sở thích của mình. Đáp án đúng là A vì nó phản ánh chính xác thể loại sách mà người nói yêu thích.",
+      "evidence": "Well, I'm very keen on mysteries, you know, when a detective is trying to find out who did the murder."
+    },
+    "q7": {
+      "explanation": "Người nói đang tiếp tục mô tả về các thể loại sách mà họ thích. Câu này cung cấp thông tin rõ ràng về việc người nói cũng có sự quan tâm đến tiểu thuyết lịch sử. Paraphrase quan trọng là \"interest me too\", có nghĩa là \"cũng làm tôi thấy hứng thú\". Không có bẫy trong câu này vì người nói đã nêu rõ sở thích của mình. Đáp án đúng là D vì nó thể hiện chính xác một trong những thể loại sách mà người nói thích.",
+      "evidence": "Historical novels interest me too."
+    },
+    "q8": {
+      "explanation": "Người nói đang nói về sở thích của mình đối với sách về động vật, điều này giúp xác định đáp án cho câu hỏi. Thông tin quan trọng là cụm từ \"I quite like books on animals\", cho thấy sự yêu thích đối với thể loại sách này. Paraphrase quan trọng là \"quite like\", có nghĩa là \"khá thích\". Không có bẫy trong câu này vì người nói đã rõ ràng nêu ra sở thích của mình. Đáp án đúng là F vì nó phản ánh chính xác thể loại sách mà người nói thích đọc.",
+      "evidence": "I quite like books on animals, too. I get them out sometimes."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. </p><p><strong>Speaker 1:</strong> Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> OK, so what type of books do you like? </p><p><strong>Speaker 3:</strong> Well, I'm very keen on mysteries, you know, when a detective is trying to find out who did the murder. </p><p><strong>Speaker 3:</strong> Historical novels interest me too. </p><p><strong>Speaker 3:</strong> Romance? Never. My sister loves them, but they bore me to tears. </p><p><strong>Speaker 3:</strong> I quite like books on animals, too. I get them out sometimes. </p><p><strong>Speaker 3:</strong> Not science fiction either. Too weird.</p>"
+}

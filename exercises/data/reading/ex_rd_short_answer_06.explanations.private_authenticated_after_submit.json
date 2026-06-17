@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_short_answer_06",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn D, bài viết nêu: \"Though bananas can be left to ripen on the plant, they would perish too quickly. It is important that they are harvested in the green state at just the right time. If harvested too early, they would develop a floury pulp instead of a delightfully sweet flavour.\". Cụm floury pulp khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Though bananas can be left to ripen on the plant, they would perish too quickly. It is important that they are harvested in the green state at just the right time. If harvested too early, they would develop a floury pulp instead of a delightfully sweet flavour._"
+    },
+    "q12": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn E, bài viết nêu: \"Each plantation has a packing station where bananas are graded for quality. Those that are of a poor grade are used as animal feed. The next step is to cut the bananas into individual hands and wash them in a water bath to stop “bleeding\", a secretion of their natural latex or rubber substance that tends to stain the bananas as well as clothing.\". Cụm animal feed khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Each plantation has a packing station where bananas are graded for quality. Those that are of a poor grade are used as animal feed. The next step is to cut the bananas into individual hands and wash them in a water bath to stop “bleeding\", a secretion of their natural latex or rubber substance that tends to stain the bananas as well as clothing._"
+    },
+    "q13": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn F, bài viết nêu: \"Surprisingly, 80 per cent of the bananas grown throughout the world are of the cooking variety. To many tropical cultures, this 80 per cent is an important part of the daily diet and these bananas are prepared in as many ways as other cultures have devised for potatoes. Plantains may be more familiar to you as banana chips that are first dried, then fried.\". Cụm 80(per cent) khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Surprisingly, 80 per cent of the bananas grown throughout the world are of the cooking variety. To many tropical cultures, this 80 per cent is an important part of the daily diet and these bananas are prepared in as many ways as other cultures have devised for potatoes. Plantains may be more familiar to you as banana chips that are first dried, then fried._"
+    }
+  }
+}

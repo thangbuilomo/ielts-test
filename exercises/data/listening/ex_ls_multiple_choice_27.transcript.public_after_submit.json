@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_27",
+  "module": "listening",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2027.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Now King School and the other catchment area is a bit further away. It's not really an easy walk. There is, however, a school bus that picks up children from a stop about five minutes' walk from where you live and they would get dropped back there at the end of the school day. You could drive John there yourself, of course, but you know about traffic and school runs, I suppose?</p><p><strong>Speaker 2:</strong> Yes, it can be just terrible. King's School is bigger, with 200 children, boys and girls, in the same year groups. Both schools have availability and John will be able to start in either school once the paperwork is done. That should not take long.</p><p><strong>Speaker 1:</strong> Can we visit the schools before deciding?</p><p><strong>Speaker 2:</strong> Of course. I have information packs on both schools and in them you can find their telephone numbers. You can just call the school and set up a visit. In the packs is also lots of information about various aspects of the schools, including the latest quality inspections, the teaching staff, curriculum and extracurricular activities. Do you have any recommendations?</p><p><strong>Speaker 1:</strong> Well, I'm not supposed to do that, but my wife and I have both our young girls at King's School and we are very happy with the standards of teaching there. When we speak to parents who have children at the other schools, we feel that we have made the better choice in that respect. I suppose that's really more important than how many children there are and how long it takes to get there.</p><p><strong>Speaker 2:</strong> My wife and I think so. Anyway, there's the bus for you and the class sizes are pretty much the same.</p>"
+    }
+  ]
+}

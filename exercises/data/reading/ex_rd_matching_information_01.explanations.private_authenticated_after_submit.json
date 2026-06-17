@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_information_01",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Câu 1 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 6 chứa căn cứ: \"While the Port of London already collects up to 3,000 tons of solid waste from the tideway every year, Thames Water now plans to introduce a new device to capture more rubbish floating down the river. It consists of a huge cage that sits in the flow of water and gathers the passing rubbish. Moored just offshore in front of the Royal Naval College at Greenwich, southeast London, the device is expected to capture up to 20 tons of floating litter each year.\". Lựa chọn D (Thames Water) là lựa chọn khớp với chi tiết này.",
+      "evidence": "While the Port of London already collects up to 3,000 tons of solid waste from the tideway every year, Thames Water now plans to introduce a new device to capture more rubbish floating down the river. It consists of a huge cage that sits in the flow of water and gathers the passing rubbish. Moored just offshore in front of the Royal Naval College at Greenwich, southeast London, the device is expected to capture up to 20 tons of floating litter each year._"
+    },
+    "q2": {
+      "explanation": "Câu 2 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 3 chứa căn cứ: \"It is still going on, and it involves many disparate arms of government and a wide range of non-government stakeholder groups, all representing a necessary aspect of the task. Each of the urban and non-urban London boroughs that flanks the river has its own reasons to keep the river clean, and if these reasons do not hold out a sufficiently attractive carrot, the government also wields a compelling stick. The 2000 Local Government Act requires each local borough to “prepare a community strategy for promoting or improving the economic, social and environmental well-being of their area\".\". Lựa chọn F (Local boroughs) là lựa chọn khớp với chi tiết này.",
+      "evidence": "It is still going on, and it involves many disparate arms of government and a wide range of non-government stakeholder groups, all representing a necessary aspect of the task. Each of the urban and non-urban London boroughs that flanks the river has its own reasons to keep the river clean, and if these reasons do not hold out a sufficiently attractive carrot, the government also wields a compelling stick. The 2000 Local Government Act requires each local borough to “prepare a community strategy for promoting or improving the economic, social and environmental well-being of their area\"._"
+    },
+    "q3": {
+      "explanation": "Câu 3 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 7 chứa căn cứ: \"Monitoring of the cleanliness of the River Thames in the past was the responsibility of a welter of agencies - British Waterways, Port of London Authority, the Environment Agency, the Health and Safety Commission, Thames Water - as well as academic departments and national and local environment groups. If something was not right, someone was bound to call foul and hold somebody to account, whether it was the local authority, an individual polluter or any of the many public and private sector bodies that bore a share of the responsibility for maintaining the River Thames as a public amenity.\". Lựa chọn A (The Environment Agency) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Monitoring of the cleanliness of the River Thames in the past was the responsibility of a welter of agencies - British Waterways, Port of London Authority, the Environment Agency, the Health and Safety Commission, Thames Water - as well as academic departments and national and local environment groups. If something was not right, someone was bound to call foul and hold somebody to account, whether it was the local authority, an individual polluter or any of the many public and private sector bodies that bore a share of the responsibility for maintaining the River Thames as a public amenity._"
+    },
+    "q4": {
+      "explanation": "Câu 4 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 6 chứa căn cứ: \"While the Port of London already collects up to 3,000 tons of solid waste from the tideway every year, Thames Water now plans to introduce a new device to capture more rubbish floating down the river. It consists of a huge cage that sits in the flow of water and gathers the passing rubbish. Moored just offshore in front of the Royal Naval College at Greenwich, southeast London, the device is expected to capture up to 20 tons of floating litter each year.\". Lựa chọn E (Port of London) là lựa chọn khớp với chi tiết này.",
+      "evidence": "While the Port of London already collects up to 3,000 tons of solid waste from the tideway every year, Thames Water now plans to introduce a new device to capture more rubbish floating down the river. It consists of a huge cage that sits in the flow of water and gathers the passing rubbish. Moored just offshore in front of the Royal Naval College at Greenwich, southeast London, the device is expected to capture up to 20 tons of floating litter each year._"
+    },
+    "q5": {
+      "explanation": "Câu 5 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"A clean-up operation began in the 1960s. Several Parliamentary Committees and Royal Commissions were set up, and, over time, legislation has been introduced that puts the onus on polluters - effluent-producing premises and businesses - to dispose of waste responsibly. In 1964 the Greater London Council (GLC) began work on much enlarged sewage works, which were completed in 1974.\". Lựa chọn C (The Greater London Council) là lựa chọn khớp với chi tiết này.",
+      "evidence": "A clean-up operation began in the 1960s. Several Parliamentary Committees and Royal Commissions were set up, and, over time, legislation has been introduced that puts the onus on polluters - effluent-producing premises and businesses - to dispose of waste responsibly. In 1964 the Greater London Council (GLC) began work on much enlarged sewage works, which were completed in 1974._"
+    },
+    "q6": {
+      "explanation": "Câu 6 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 4 chứa căn cứ: \"The result is a wide range of bodies officially charged, in one way or another, with maintaining the Thames as a public amenity. For example, Transport for London - the agency responsible for transport in the capital - plays a role in regulating river use and river users. It is now responsible for controlling the effluents and rubbish coming from craft using the Thames.\". Lựa chọn B (Transport for London) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The result is a wide range of bodies officially charged, in one way or another, with maintaining the Thames as a public amenity. For example, Transport for London - the agency responsible for transport in the capital - plays a role in regulating river use and river users. It is now responsible for controlling the effluents and rubbish coming from craft using the Thames._"
+    }
+  }
+}

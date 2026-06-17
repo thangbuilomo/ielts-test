@@ -1,0 +1,83 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_note_completion_03",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 3,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "note_completion",
+  "category_id": "note_completion",
+  "title": "Note Completion - Exercise 3",
+  "duration_seconds": 0,
+  "content": {
+    "title": "Smart Packaging",
+    "content_html": "<h1>NOTE COMPLETION 03</h1>\n<h2>Smart Packaging</h2>\n<p><strong>A\n</strong>\"Smartness\" in packaging is a broad term that covers a number of functionalities, depending on the product being packaged. Smart packaging features can retain product integrity and actively prevent food spoilage, enhance product attributes, respond actively to changes in product or package environment and communicate product information, product history or condition to the user. Smart packaging can also assist with opening, show that packaging seals are tight, confirm product authenticity and counter theft. These are all visions of a future in which the package does more than just contain and protect its contents.</p>\n<p><strong>B\n</strong>Changes in society and consumer habits are likely to drive the adoption of smart packaging in the future. The growing need for information on packaging will mean that there has to be a change in the methods of providing this information. Consumers will increasingly need to know what ingredients or components are in the product and how the product should be stored and used. Intelligent labelling and printing, for example, will be capable of communicating directly to the customer via thin film devices that provide sound and visual information in response to touch. Voice-activated safety and disposal instructions on household and pharmaceutical products will be used to tell the consumer how they should be disposed of after consumption. This information will also be used in the recycling industry to help sort packaging materials from waste streams.</p>\n<p><strong>C\n</strong>Food labelling is one area in which smart packaging could have a huge impact. The question as to whether, for example, a chilled ready-prepared meal is safe to consume is currently answered by \"best by\" date stamping. However, this does not take into account whether the product has inadvertently been exposed to elevated temperatures during storage or transportation. In the future, microbial growth and temperature-time visual indicators based on physical, chemical or enzymatic activity in the food will give a clear, accurate and unambiguous indication of product quality, safety and shelf-life condition. Thus, it will be possible to package a product in a way that communicates that its expected quality is still present. Another smart feature that is currently under development for food labelling is that of a sensor on a self-heating or self-cooling container that can visually indicate to the consumer that the product is at the correct temperature. The most common planned use of this is a thermochromic ink dot to show that the product is at the correct serving temperature following refrigeration or microwave heating. Plastic containers of pouring syrup for pancakes labelled with dots of this type to show that the syrup is at the right temperature after being heated in a microwave oven will soon be available for purchase in the USA.</p>\n<p><strong>D\n</strong>Smart packaging concepts that improve usage could include \"dial-a-dose\" smart caps and closures that would allow the safe dispensing of exact and controlled quantities of potentially hazardous products. A prescription drug bottle with a bottle cap alarm is already available. It beeps to alert users when it is time to take the medication, and also displays how many times the bottle has been opened and the intervals between openings. The bottle can be connected via a modem to the healthcare centre for the automatic transmission of drug usage and, if necessary, to provide feedback to the patient if their consumption of the drug is not in compliance with the prescribed dose. Eventually, programmed skin patches using smart gels that rely on changes in skin properties to trigger drug delivery could replace conventional medication, such as pills and tablets.</p>\n<p><strong>E\n</strong>Although it is rare that products are tampered with after leaving the factory, occasionally consumers find unexpected substances in jars, or open packets and discover that some of the contents are missing. New packaging technologies that will alert consumers or store managers to such problems are being developed. These use optically variable films or gas sensitive dyes to produce irreversible colour alterations. Alternatively, piezoelectric polymers, which alter colour when higher than normal pressure is applied to them, might be incorporated into package construction to alert buyers to possible tampering.</p>\n<p><strong>F\n</strong>When it comes to the environment, consumer attitudes towards packaging are generally confused and contradictory. There are increasing worries about the amount of waste created by packaging, but the growth of more elaborate and attractive packaging is being driven by consumers’ desire for convenience. Ultimately, future consumers could react negatively to the perception of increased waste and lack of recyclability of disposable smart packages. The perception of extra cost and the possible mistrust or confusion over technology are other factors that might slow widespread market introduction.</p>\n<p><strong>G\n</strong>Perfect packaging exists in nature, for example the banana and the egg. Learning from nature to solve engineering problems (biomimetics) is not a new concept, and there are many research teams looking for such packaging ideas. For example, researchers are currently studying cereal starch in the search for a sustainable alternative to polystyrene, which is used extensively in the secondary packaging of consumer goods. The opening and closing of tree seed structures could give ideas to develop humidity management. A spin-off application is in the packaging and transportation of fragile goods. Animals and plants have evolved many successful structural and functional mechanisms, and increasing our study of biological materials and systems will almost certainly yield promising engineering concepts applicable to smart packaging.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_note_completion_03.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_note_completion_03.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "note_completion",
+          "skill_tags": [
+            "rd_comp_note"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 25 - 27</strong></p>\n<p>Complete the sentences below. Use <strong>NO MORE THAN ONE WORD</strong> from the text for each answer.</p>\n<ul>\n<li>To deal with unauthorised handling of packages, new packaging is being made that uses various technologies to indicate to buyers if their packages have been tampered with. Examples are permanent <blank data-qid=\"q25\"/></li>\n</ul>\n<p>change in packaging when exposed to oxygen or pressure.</p>\n<ul>\n<li>Although consumers want more convenience and better products, smart packaging might make them react badly to perceived problems of more <blank data-qid=\"q26\"/></li>\n</ul>\n<p>, increased costs, and low recycling possibilities.</p>\n<p><em>Biomimetic Possibilities</em></p>\n<ul>\n<li>\n<p>Cereal starch could replace polystyrene packaging.</p>\n</li>\n<li>\n<p>Certain plant structures could inspire developments in <blank data-qid=\"q27\"/></p>\n</li>\n</ul>\n<p>control.</p>",
+          "items": [
+            {
+              "question_id": "q25",
+              "number": 25,
+              "prompt_html": "Question 25",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q26",
+              "number": 26,
+              "prompt_html": "Question 26",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q27",
+              "number": 27,
+              "prompt_html": "Question 27",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            25,
+            27
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_flow_chart_completion_03",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/FLOW%20CHART%20COMPLETION%2003.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> So, what happens now?</p><p><strong>Speaker 1:</strong> Okay, I will process this form onto our system. Then when we find lost property items, we index them all and enter the details into our computer before we can match them up.</p><p><strong>Speaker 2:</strong> How long does that take?</p><p><strong>Speaker 1:</strong> That can take up to five days from when the item was left behind.</p><p><strong>Speaker 2:</strong> Five days? That's a long time.</p><p><strong>Speaker 1:</strong> Yes, I'm sorry, but we do have a lot of items left on our trains.</p><p><strong>Speaker 2:</strong> Okay, what happens after you've done that? Do I need to call you back or will you send me an email or something?</p><p><strong>Speaker 1:</strong> No, we will call you if we find your bag on the phone number you gave me. If you don't hear from us in the next week, then please do call for an update. But the chances are that if we don't call you, then your bag wasn't found.</p><p><strong>Speaker 2:</strong> Okay then. Will you post it to me if you find it?</p><p><strong>Speaker 1:</strong> No, you need to come and collect it from the lost property office.</p><p><strong>Speaker 2:</strong> Where's that?</p><p><strong>Speaker 1:</strong> It's behind the ticket office in Newcastle train station.</p><p><strong>Speaker 2:</strong> And do I need to bring anything with me?</p><p><strong>Speaker 1:</strong> Yes, we will need to see some ID.</p><p><strong>Speaker 2:</strong> OK, like a letter from my bank or something?</p><p><strong>Speaker 1:</strong> It will need to have something with a photo on it, like a driving license or passport or something.</p><p><strong>Speaker 2:</strong> OK, no problem. I'll wait for you to call then.</p><p><strong>Speaker 1:</strong> OK, Mrs. Flint. Thanks for your call.</p><p><strong>Speaker 2:</strong> Thanks. Bye.</p>"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_14",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q16": {
+      "explanation": "Người nói đang mô tả về buổi workshop tại trung tâm thanh thiếu niên, nhấn mạnh rằng không có chi phí nào phải trả thêm để tham gia. Thông tin này giúp tìm ra đáp án là A, vì nó khẳng định rằng workshop là miễn phí. Câu \"There is no extra cost for this\" là paraphrase quan trọng cho việc \"is free to join\". Không có bẫy trong câu này vì thông tin rõ ràng và không gây nhầm lẫn. Đáp án A là đúng vì nó phản ánh chính xác nội dung mà người nói đã truyền đạt.",
+      "evidence": "There is no extra cost for this and the workshop runs from 7 o'clock until 8:30."
+    },
+    "q17": {
+      "explanation": "Người nói đang nói về các buổi chiếu phim tại trung tâm thanh thiếu niên, cụ thể là thời gian diễn ra. Thông tin \"every second Tuesday evening\" cho thấy rằng các buổi chiếu phim diễn ra thường xuyên, giúp xác định đáp án là A. Paraphrase quan trọng ở đây là \"take place every week\" có thể gây nhầm lẫn vì thực tế là chúng diễn ra mỗi hai tuần. Bẫy ở đây là sự hiểu nhầm về tần suất diễn ra. Đáp án A là đúng vì nó phản ánh chính xác tần suất của các buổi chiếu phim.",
+      "evidence": "This takes place every second Tuesday evening."
+    },
+    "q18": {
+      "explanation": "Người nói đang mô tả về các buổi disco tại trung tâm thanh thiếu niên, nhấn mạnh rằng có một khoản phí nhỏ cho những người tham gia. Thông tin này giúp xác định đáp án là A, vì nó cho biết rằng không có chi phí bổ sung cho các thành viên của trung tâm. Paraphrase quan trọng là \"cost nothing extra for Youth Centre members\" có thể gây nhầm lẫn nếu không chú ý đến chi tiết về phí 50 xu. Bẫy ở đây là sự hiểu nhầm về việc có phí hay không. Đáp án A là đúng vì nó phản ánh chính xác thông tin về chi phí cho các thành viên.",
+      "evidence": "There's an extra charge for everyone who wants to attend these evenings, but it's only 50 cents."
+    },
+    "q19": {
+      "explanation": "Người nói đang nói về quy định xử lý khi có trẻ em cư xử không đúng mực tại trung tâm. Thông tin \"we will give you a call to explain the problem\" giúp xác định đáp án là B, vì nó cho biết rằng trung tâm sẽ liên lạc với phụ huynh. Paraphrase quan trọng là \"the Youth Centre will contact their parents\". Bẫy ở đây là có thể hiểu nhầm rằng chỉ có cảnh cáo mà không có liên lạc với phụ huynh. Đáp án B là đúng vì nó phản ánh chính xác quy trình xử lý khi có trẻ cư xử không đúng.",
+      "evidence": "If any child misbehaves in the youth centre, then he or she will be warned and we will give you a call to explain the problem."
+    },
+    "q20": {
+      "explanation": "Người nói đang cung cấp thông tin về cách tìm hiểu thêm về trung tâm thanh thiếu niên. Thông tin \"a summary of what we have talked about this evening and a list of contact details including our website\" giúp xác định đáp án là C, vì nó cho biết thông tin có thể tìm thấy cả trong tờ rơi và trên trang web. Paraphrase quan trọng là \"in both the Youth Centre's leaflets and its website\". Không có bẫy trong câu này vì thông tin rõ ràng và không gây nhầm lẫn. Đáp án C là đúng vì nó phản ánh chính xác nguồn thông tin về trung tâm.",
+      "evidence": "We have some leaflets by the door that you are welcome to take. There is a summary of what we have talked about this evening and a list of contact details including our website."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Once a week on Wednesdays, the local theatre group comes in and runs a theatre workshop. There is no extra cost for this and the workshop runs from 7 o'clock until 8:30. </p><p><strong>Speaker 1:</strong> Every now and then we put on a show, and the main hall of the youth centre can serve very well as a makeshift theatre. </p><p><strong>Speaker 1:</strong> Another one of our regular evenings is our film evening. This takes place every second Tuesday evening. We have a big screen that gets put up in the main hall and we have a variety of age-appropriate films for the children. </p><p><strong>Speaker 1:</strong> We do not offer new films as this would be too expensive, but the local video store, New Video, provides us with films free of charge for these evenings in return for some modest advertising. This allows us to offer another free-of-charge activity for our young people.</p><p><strong>Speaker 1:</strong> Twice a month, on the second and fourth Saturday, we have a disco evening. This runs from 7pm until half past 10. There's an extra charge for everyone who wants to attend these evenings, but it's only 50 cents. </p><p><strong>Speaker 1:</strong> The music for these evenings is organised and DJ'd by the children themselves. There are always two adults on duty during these evenings, but the children organise most of the fun. </p><p><strong>Speaker 1:</strong> At the end of the evenings, the children clear up after themselves. If any child misbehaves in the youth centre, then he or she will be warned and we will give you a call to explain the problem. </p><p><strong>Speaker 1:</strong> If a child gets three warnings, then the child will not be permitted to return to the youth centre for a period of one month. If any further warnings are necessary, then further action will be taken. </p><p><strong>Speaker 1:</strong> We've never had to do this before, as the children are nearly always responsible within the parameters of normal teenage behaviour, of course. </p><p><strong>Speaker 1:</strong> So that's our youth centre. We have some leaflets by the door that you are welcome to take. There is a summary of what we have talked about this evening and a list of contact details including our website. </p><p><strong>Speaker 1:</strong> There are also some of the most important terms and conditions of using the youth centre and information about our insurance and liabilities. If you're interested in further information regarding any of these things, then full details are given on our website.</p>"
+}

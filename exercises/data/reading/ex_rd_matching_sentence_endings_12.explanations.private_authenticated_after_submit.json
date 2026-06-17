@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_sentence_endings_12",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q33": {
+      "explanation": "Câu 33 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 1 chứa căn cứ: \"Despite nuclear energy generally being considered an environmentally friendly source of electricity, the radioactive waste it leaves remains hazardous to life for at least 100,000 years. What to do with this unwanted by-product and how to protect people and the environment from it is a major challenge facing the proponents of nuclear power generation. Currently, it is mostly stored in cool water, which acts as a seal for the radiation, in facilities requiring round-the-clock guarding, surveillance, and maintenance.\". Lựa chọn C (... involves storing it in cold water.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Despite nuclear energy generally being considered an environmentally friendly source of electricity, the radioactive waste it leaves remains hazardous to life for at least 100,000 years. What to do with this unwanted by-product and how to protect people and the environment from it is a major challenge facing the proponents of nuclear power generation. Currently, it is mostly stored in cool water, which acts as a seal for the radiation, in facilities requiring round-the-clock guarding, surveillance, and maintenance._"
+    },
+    "q34": {
+      "explanation": "Câu 34 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 3 chứa căn cứ: \"Onkalo means ‘hiding place’ or ‘cavity’ in Finnish, and will live up to its name. On a flat stretch of pine-tree-covered land, kilometres from the nearest town, Rauma, on Olkiluoto Island, stands an unprepossessing metal shutter set between walls of rock. From this entrance, a tunnel will snake down five kilometres, 500m into the depths of the earth, ending in tomb-like storage capsules.\". Lựa chọn A (... involves digging deep into the earth.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Onkalo means ‘hiding place’ or ‘cavity’ in Finnish, and will live up to its name. On a flat stretch of pine-tree-covered land, kilometres from the nearest town, Rauma, on Olkiluoto Island, stands an unprepossessing metal shutter set between walls of rock. From this entrance, a tunnel will snake down five kilometres, 500m into the depths of the earth, ending in tomb-like storage capsules._"
+    },
+    "q35": {
+      "explanation": "Câu 35 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"In a remote area on the west coast of Finland, there may be an answer: Onkalo. Currently under construction, this spent nuclear fuel repository located at the Olkiluoto Nuclear Power Plant in the municipality of Eurajoki is where they plan to bury this nuclear waste 500 metres below ground in the most secure and stable environment known: the bedrock. While above ground there are wars, natural disasters, the rise and fall of civilisations, the bedrock below remains unchanged for millions of years.\". Lựa chọn F (... relates to those it is designed to safeguard.) là lựa chọn khớp với chi tiết này.",
+      "evidence": ""
+    },
+    "q36": {
+      "explanation": "Câu 36 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 4 chứa căn cứ: \"While it may be possible to predict the nature of people in a hundred years, Onkalo has to consider them in 1,000, 10,000, 100,000 years. The future becomes very foggy when thinking in these timescales and so, when thinking of the future, scientists often look to the past first. Considering 100,000 years ago Neanderthals still walked the Earth, it stands to reason that in another 100,000 people will be unimaginably different from us now.\". Lựa chọn E (... calls for a retrospective view from scientists.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "While it may be possible to predict the nature of people in a hundred years, Onkalo has to consider them in 1,000, 10,000, 100,000 years. The future becomes very foggy when thinking in these timescales and so, when thinking of the future, scientists often look to the past first. Considering 100,000 years ago Neanderthals still walked the Earth, it stands to reason that in another 100,000 people will be unimaginably different from us now._"
+    },
+    "q37": {
+      "explanation": "Câu 37 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 5 chứa căn cứ: \"Again, we can connect to the past and the discovery of ancient Egyptian tombs; these were covered in warnings to leave well alone that were either not understood or completely disregarded. There is no reason to think the people of the future would be any different. This has led many scientists to conclude no markers should be left and that Onkalo should simply be sealed, covered, and forgotten.\". Lựa chọn H (... assumes the similarity of future humans to us.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Again, we can connect to the past and the discovery of ancient Egyptian tombs; these were covered in warnings to leave well alone that were either not understood or completely disregarded. There is no reason to think the people of the future would be any different. This has led many scientists to conclude no markers should be left and that Onkalo should simply be sealed, covered, and forgotten._"
+    }
+  }
+}

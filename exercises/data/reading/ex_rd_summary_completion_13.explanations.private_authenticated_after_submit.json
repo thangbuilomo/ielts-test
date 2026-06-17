@@ -1,0 +1,44 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_summary_completion_13",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q34": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"The problem with this situation is that workers will have to support a much larger number of people through their taxes. Taxpayers are expected to foot the bill for publicly funded healthcare for all sectors of a population as well as to generate money for the government to maintain and improve infrastructure, and provide national security and education systems. In addition to these demands, the money to pay pensions for an ever-increasing pool of elderly people also comes out of taxes paid by people in employment.\". Cụm pensions khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The problem with this situation is that workers will have to support a much larger number of people through their taxes. Taxpayers are expected to foot the bill for publicly funded healthcare for all sectors of a population as well as to generate money for the government to maintain and improve infrastructure, and provide national security and education systems. In addition to these demands, the money to pay pensions for an ever-increasing pool of elderly people also comes out of taxes paid by people in employment._"
+    },
+    "q35": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"The problem with this situation is that workers will have to support a much larger number of people through their taxes. Taxpayers are expected to foot the bill for publicly funded healthcare for all sectors of a population as well as to generate money for the government to maintain and improve infrastructure, and provide national security and education systems. In addition to these demands, the money to pay pensions for an ever-increasing pool of elderly people also comes out of taxes paid by people in employment.\". Cụm education khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The problem with this situation is that workers will have to support a much larger number of people through their taxes. Taxpayers are expected to foot the bill for publicly funded healthcare for all sectors of a population as well as to generate money for the government to maintain and improve infrastructure, and provide national security and education systems. In addition to these demands, the money to pay pensions for an ever-increasing pool of elderly people also comes out of taxes paid by people in employment._"
+    },
+    "q36": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 5, bài viết nêu: \"However, while people are living longer, that doesn’t mean that they’re staying in better shape. Elderly people are still much more likely to suffer from illnesses and diseases like diabetes, Alzheimer’s and cancer. Medical advances have meant that these diseases are often not terminal but may require lengthy and expensive medical treatment.\". Cụm treatment khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "However, while people are living longer, that doesn’t mean that they’re staying in better shape. Elderly people are still much more likely to suffer from illnesses and diseases like diabetes, Alzheimer’s and cancer. Medical advances have meant that these diseases are often not terminal but may require lengthy and expensive medical treatment._"
+    },
+    "q37": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"In many countries, the government is trying to support families and create incentives for people to have children. For example, in Finland, new mothers are given a gift box full of essential items like clothing and nappies. In France, the government provides tax relief and subsidised childcare, which has helped it to have one of the highest birth rates in Europe.\". Cụm incentives khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "In many countries, the government is trying to support families and create incentives for people to have children. For example, in Finland, new mothers are given a gift box full of essential items like clothing and nappies. In France, the government provides tax relief and subsidised childcare, which has helped it to have one of the highest birth rates in Europe._"
+    },
+    "q38": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"China also recently lifted its one child policy to allow families to have two children. Other Asian countries are taking more creative measures with the South Korean health ministry ordering companies to turn off lights early once a month to encourage workers to go home. However, any increase to the birth rate would only have an impact when these children join the workforce, which would not be for a generation.\". Cụm generation khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "China also recently lifted its one child policy to allow families to have two children. Other Asian countries are taking more creative measures with the South Korean health ministry ordering companies to turn off lights early once a month to encourage workers to go home. However, any increase to the birth rate would only have an impact when these children join the workforce, which would not be for a generation._"
+    },
+    "q39": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 7, bài viết nêu: \"In some countries, like New Zealand and Japan, a large proportion of those aged between 65-69 are still working. The problem with this is that not all countries have as healthy a population as these countries, which means that people are unable to continue working this long. This is especially true for those who work in manual positions.\". Cụm manual khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "In some countries, like New Zealand and Japan, a large proportion of those aged between 65-69 are still working. The problem with this is that not all countries have as healthy a population as these countries, which means that people are unable to continue working this long. This is especially true for those who work in manual positions._"
+    },
+    "q40": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 8, bài viết nêu: \"Yet Vitor Constâncio suggests that more immigration is key to increasing economic growth and the population. However, others are less sure, with demography expert Axel Börsch-Supan suggesting that the numbers required to solve the problem would be too massive for a country to deal with. It is certainly true that for migration to be a possible solution, individual governments would have to do a great deal more to integrate immigrants into society and help them to be present in all parts of the workforce rather than just as unskilled workers.\". Cụm growth khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Yet Vitor Constâncio suggests that more immigration is key to increasing economic growth and the population. However, others are less sure, with demography expert Axel Börsch-Supan suggesting that the numbers required to solve the problem would be too massive for a country to deal with. It is certainly true that for migration to be a possible solution, individual governments would have to do a great deal more to integrate immigrants into society and help them to be present in all parts of the workforce rather than just as unskilled workers._"
+    }
+  }
+}

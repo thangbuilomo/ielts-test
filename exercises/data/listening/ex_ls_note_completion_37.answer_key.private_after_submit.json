@@ -1,0 +1,48 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_ls_note_completion_37",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 5,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "East"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "13"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "1100"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "Beatrice"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "0774 0922 166"
+      ]
+    }
+  }
+}

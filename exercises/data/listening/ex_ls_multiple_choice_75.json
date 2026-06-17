@@ -1,0 +1,126 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_multiple_choice_75",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "mcq_single",
+  "category_id": "multiple_choice",
+  "title": "Multiple Choice - Exercise 75",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2075.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_multiple_choice_75.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_multiple_choice_75.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_multiple_choice_75.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "mcq_single",
+          "skill_tags": [
+            "ls_mcq_single"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>MULTIPLE CHOICE 75</h1><p><strong>Questions 21 - 25</strong></p><p>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>.</p><p>Magna Carta</p><p>21 Jess and Simon agree that King John was disliked because he</p><table><thead><tr><th><strong>A</strong>    was blamed for the loss of territory.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    was planning to start a war against France.</td><td></td></tr><tr><td><strong>C</strong>    lacked the communication skills that were expected of a monarch.</td><td></td></tr></tbody></table><p>22 According to Jess, the main purpose of Magna Carta was to</p><table><thead><tr><th><strong>A</strong>    enable England to win a war.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    resolve a conflict involving the king.</td><td></td></tr><tr><td><strong>C</strong>    improve the lives of ordinary people.</td><td></td></tr></tbody></table><p>23 What does Simon say he learned from the lecture?</p><table><thead><tr><th><strong>A</strong>    who benefited most from Magna Carta</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    how significant Magna Carta has been in other countries</td><td></td></tr><tr><td><strong>C</strong>    what made King John agree to the wording of Magna Carta</td><td></td></tr></tbody></table><p>24 Jess feels that the fact that Magna Carta was regularly updated indicates that</p><table><thead><tr><th><strong>A</strong>    it had been poorly written and needed to be made clearer.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    it enabled subsequent kings to be seen as great lawmakers.</td><td></td></tr><tr><td><strong>C</strong>    it was seen as an effective means of limiting the king’s power.</td><td></td></tr></tbody></table><p>25 Simon mentions other English kings in order to</p><table><thead><tr><th><strong>A</strong>    list people who were critical of John’s achievements.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    explain why these monarchs were more successful than John.</td><td></td></tr><tr><td><strong>C</strong>    argue that rebellions like the ones John faced were common in those times.</td><td></td></tr></tbody></table>",
+          "items": [
+            {
+              "question_id": "q21",
+              "number": 21,
+              "prompt_html": "Jess and Simon agree that King John was disliked because he",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q22",
+              "number": 22,
+              "prompt_html": "According to Jess, the main purpose of Magna Carta was to",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q23",
+              "number": 23,
+              "prompt_html": "What does Simon say he learned from the lecture?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q24",
+              "number": 24,
+              "prompt_html": "Jess feels that the fact that Magna Carta was regularly updated indicates that",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q25",
+              "number": 25,
+              "prompt_html": "Simon mentions other English kings in order to",
+              "response_type": "text"
+            }
+          ],
+          "options": [
+            {
+              "label": "A",
+              "text": "list people who were critical of John’s achievements."
+            },
+            {
+              "label": "B",
+              "text": "explain why these monarchs were more successful than John."
+            },
+            {
+              "label": "C",
+              "text": "argue that rebellions like the ones John faced were common in those times."
+            }
+          ],
+          "question_range": [
+            21,
+            25
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_multiple_choice_75",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_multiple_choice_75",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

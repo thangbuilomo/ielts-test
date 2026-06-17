@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_04",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"In the 1950s Canadian and US east coast waters provided an annual 100,000 tons in cod catches rising to 800,000 by 1970. This over-fishing led to a catch of only 300,000 tons by 1975.\". Heading viii (The Demise of the Northern Cod) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "In the 1950s Canadian and US east coast waters provided an annual 100,000 tons in cod catches rising to 800,000 by 1970. This over-fishing led to a catch of only 300,000 tons by 1975._"
+    },
+    "q2": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"This situation arose from massive investment poured into constructing huge “draggers”. Draggers haul enormous nets held open by a combination of massive steel plates and heavy chains and rollers that plough the ocean bottom.\". Heading vi (Destructive Trawling Technology) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "This situation arose from massive investment poured into constructing huge “draggers”. Draggers haul enormous nets held open by a combination of massive steel plates and heavy chains and rollers that plough the ocean bottom._"
+    },
+    "q3": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The media in Canada often cite excessive fishing by overseas fleets as the primary cause of the fishing out of the north Atlantic cod stocks. Many nations took fish off the coast of Newfoundland, all used deep-sea trawlers, and many often exceeded established catch quotas and treaty agreements blatantly.\". Heading xi (Foreign Over-fishing) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The media in Canada often cite excessive fishing by overseas fleets as the primary cause of the fishing out of the north Atlantic cod stocks. Many nations took fish off the coast of Newfoundland, all used deep-sea trawlers, and many often exceeded established catch quotas and treaty agreements blatantly._"
+    },
+    "q4": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"So, who was to blame? As the exploitation of the Newfoundland fishery was so predominantly guided by the government, it could be argued that a fishery is not a private area, as the fisher lacks management rights normally associated with property and common property.\". Heading iii (Government Mismanagement) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "So, who was to blame? As the exploitation of the Newfoundland fishery was so predominantly guided by the government, it could be argued that a fishery is not a private area, as the fisher lacks management rights normally associated with property and common property._"
+    },
+    "q5": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Following the 1992 ban on the fishing of northern cod and most other species, an estimated 30,000 people, who had already lost their jobs after the 1992 Northern Cod prohibition took effect, were joined by an additional 12,000 fishermen and plant workers. With more than 40,000 people out of work, Newfoundland became an economic disaster area, as processing plants shut down and vessels from the smallest dory to the monster draggers were made idle or sold overseas at bargain prices.\". Heading ii (The Human Cost) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Following the 1992 ban on the fishing of northern cod and most other species, an estimated 30,000 people, who had already lost their jobs after the 1992 Northern Cod prohibition took effect, were joined by an additional 12,000 fishermen and plant workers. With more than 40,000 people out of work, Newfoundland became an economic disaster area, as processing plants shut down and vessels from the smallest dory to the monster draggers were made idle or sold overseas at bargain prices._"
+    },
+    "q6": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Europeans need only look across the North Atlantic to see what could be in store for their cod fishery. In Canada they were too busy making plans, setting expansive goals and then allocating fish, and lots of it, instead of making sound business plans to match fishing with the limited availability of the resource.\". Heading vii (Lessons to be Learned) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Europeans need only look across the North Atlantic to see what could be in store for their cod fishery. In Canada they were too busy making plans, setting expansive goals and then allocating fish, and lots of it, instead of making sound business plans to match fishing with the limited availability of the resource._"
+    }
+  }
+}

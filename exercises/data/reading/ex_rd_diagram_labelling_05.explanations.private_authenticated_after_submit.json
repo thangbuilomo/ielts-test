@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_diagram_labelling_05",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"The lost water in the lake could be replenished in a controlled flow from the tunnel, and this falling water would drive turbines to generate electricity. It was calculated that the flow of water needed to balance evaporation could generate as much as 1,900 megawatts of electricity. The evaporation would also render the surrounding country much less arid, and permit permanent human settlement and agriculture.\". Cụm tunnel khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The lost water in the lake could be replenished in a controlled flow from the tunnel, and this falling water would drive turbines to generate electricity. It was calculated that the flow of water needed to balance evaporation could generate as much as 1,900 megawatts of electricity. The evaporation would also render the surrounding country much less arid, and permit permanent human settlement and agriculture._"
+    },
+    "q22": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"Over the years, the proximity of the Depression to the sea, together with its size and depth, have led to several proposals to exploit it for the production of hydroelectric power. This idea was originally put forward by Dr Ball in 1933. It was breathtakingly simple: if a tunnel were dug north to the Mediterranean Sea, gravity would make water run through the tunnel and down into the Depression, filling it and thus creating a new artificial salt lake.\". Cụm (artificial) salt khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Over the years, the proximity of the Depression to the sea, together with its size and depth, have led to several proposals to exploit it for the production of hydroelectric power. This idea was originally put forward by Dr Ball in 1933. It was breathtakingly simple: if a tunnel were dug north to the Mediterranean Sea, gravity would make water run through the tunnel and down into the Depression, filling it and thus creating a new artificial salt lake._"
+    },
+    "q23": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"The lost water in the lake could be replenished in a controlled flow from the tunnel, and this falling water would drive turbines to generate electricity. It was calculated that the flow of water needed to balance evaporation could generate as much as 1,900 megawatts of electricity. The evaporation would also render the surrounding country much less arid, and permit permanent human settlement and agriculture.\". Cụm turbines khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The lost water in the lake could be replenished in a controlled flow from the tunnel, and this falling water would drive turbines to generate electricity. It was calculated that the flow of water needed to balance evaporation could generate as much as 1,900 megawatts of electricity. The evaporation would also render the surrounding country much less arid, and permit permanent human settlement and agriculture._"
+    }
+  }
+}

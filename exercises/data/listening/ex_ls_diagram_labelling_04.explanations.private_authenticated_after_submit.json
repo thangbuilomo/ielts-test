@@ -1,0 +1,29 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_diagram_labelling_04",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q38": {
+      "explanation": "Trong đoạn hội thoại, người nói đang mô tả thiết kế của một cột chắn hiện đại, cụ thể là chiều cao của cột chắn khi nó được nâng lên. Thông tin liên quan trực tiếp đến câu hỏi là chiều cao của cột chắn, được nêu rõ là 1.2 mét. Câu này có thể được paraphrase là \"cột chắn có chiều cao 1.2 mét khi ở vị trí nâng\". Không có bẫy nào trong câu này vì thông tin được đưa ra rất rõ ràng và không có thông tin gây nhầm lẫn. Đáp án đúng là 1.2 metres vì đây là số liệu chính xác về chiều cao của cột chắn. Các khả năng khác không đúng vì không có thông tin nào khác liên quan đến chiều cao của cột chắn trong đoạn hội thoại.",
+      "evidence": "The bollard, which is made of heavy gauge materials, stands at 1.2 metres in its raised position above a foundation case of 1.5 metres depth."
+    },
+    "q39": {
+      "explanation": "Trong đoạn này, người nói đang đề cập đến độ sâu của nền móng mà cột chắn được đặt trên đó. Thông tin quan trọng cho câu hỏi là độ sâu của nền móng, được nêu rõ là 1.5 mét. Câu này có thể được paraphrase là \"nền móng có độ sâu 1.5 mét\". Không có bẫy nào trong câu này vì thông tin rất cụ thể và không có thông tin gây nhầm lẫn. Đáp án đúng là 1.5 metres vì đây là số liệu chính xác về độ sâu của nền móng. Các khả năng khác không đúng vì không có thông tin nào khác liên quan đến độ sâu của nền móng trong đoạn hội thoại.",
+      "evidence": "The bollard, which is made of heavy gauge materials, stands at 1.2 metres in its raised position above a foundation case of 1.5 metres depth."
+    },
+    "q40": {
+      "explanation": "Trong đoạn này, người nói đang giải thích về cơ chế điều khiển cột chắn, cụ thể là hệ thống thủy lực. Thông tin liên quan trực tiếp đến câu hỏi là tên của cơ chế điều khiển, được nêu rõ là \"hệ thống thủy lực\". Câu này có thể được paraphrase là \"có thể thay đổi trạng thái của cột chắn bằng cách sử dụng hệ thống thủy lực\". Không có bẫy nào trong câu này vì thông tin rất rõ ràng và không có thông tin gây nhầm lẫn. Đáp án đúng là hydraulic system vì đây là thuật ngữ chính xác mô tả cơ chế điều khiển cột chắn. Các khả năng khác không đúng vì không có thông tin nào khác liên quan đến cơ chế điều khiển trong đoạn hội thoại.",
+      "evidence": "The state of the bollard, whether up or down, can be altered when necessary by actuating a hydraulic system through the pushing of a button on the access panel."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Let's now have a look at the simple yet effective design of a modern bollard. You can see on your handout a design for a rising or retractable bollard, which can prevent or permit access to areas as desired, such as when holding a parade. The idea is fairly simple. The bollard, which is made of heavy gauge materials, stands at 1.2 metres in its raised position above a foundation case of 1.5 metres depth. The state of the bollard, whether up or down, can be altered when necessary by actuating a hydraulic system through the pushing of a button on the access panel. This controls the process which acts through a conduit running just beneath the roadway. When the button is pushed, the bollard retracts into the galvanised casing below. </p><p><strong>Speaker 1:</strong> Well, now, let's move on to look at another fascinating example of street furniture design, the humble bin.</p>"
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_01",
+  "module": "listening",
+  "question_count": 1,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2001.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. </p><p><strong>Speaker 1:</strong> Now, answer the questions on your screen.</p><p><strong>Speaker 1:</strong> Well, that's the end of this section of the lecture on cleaning up spills. This subject is an optional question for your course.</p><p><strong>Speaker 1:</strong> You'll find the reading lists and essay questions on the faculty notice boards, along with the deadline for submission.</p><p><strong>Speaker 1:</strong> If you choose it, seminars will be held at a later date.</p>"
+    }
+  ]
+}

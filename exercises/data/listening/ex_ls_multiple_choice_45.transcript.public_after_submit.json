@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_45",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2045.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> It is little known that lying under one of the United States' largest and most picturesque national parks, Yellowstone Park, is one of the largest supervolcanoes in the world. Volcanic activity began in the Yellowstone National Park region about two million years ago. </p><p><strong>Speaker 3:</strong> Magma rising from deep within the earth has produced three cataclysmic eruptions, more powerful than any in the world's recorded history. The first caldera-forming eruption occurred about 2.1 million years ago. </p><p><strong>Speaker 2:</strong> The eruptive blast removed so much magma from its subsurface storage reservoir that the ground above it collapsed into the magma chamber and left a caldera larger than the state of Rhode Island. </p><p><strong>Speaker 1:</strong> The huge caldera measured as much as 50 miles long, 40 miles wide, and hundreds of meters deep, extending from outside Yellowstone National Park into the central area of the park. </p><p><strong>Speaker 3:</strong> Scientists have revealed that Yellowstone Park has been on a regular eruption cycle of 600,000 years. The last eruption was 640,000 years ago, so the next is overdue. </p><p><strong>Speaker 2:</strong> The next eruption could be 2,500 times the size of the 1980 Mount St. Helens eruption. </p><p><strong>Speaker 1:</strong> Volcanologists have been tracking the movement of magma under the park and have calculated that in parts of Yellowstone the ground has risen over 0.7 of a meter this century. </p><p><strong>Speaker 3:</strong> This means the magma is rising. Geologists have called for a task force to be set up to consider emergency management in the event of a massive volcanic eruption or super eruption. </p><p><strong>Speaker 2:</strong> Experts say such an event would have a colossal impact on a global scale. The fallout from a super eruption could cause a volcanic winter, devastating global agriculture and causing mass starvation. </p><p><strong>Speaker 1:</strong> One past super eruption struck at Toba in Sumatra 74,000 years ago and is thought by some to have driven the human race to the edge of extinction. </p><p><strong>Speaker 3:</strong> Signs from DNA suggest human numbers could have dropped to about 10,000, probably as a result of the effects of climate change.</p>"
+    }
+  ]
+}

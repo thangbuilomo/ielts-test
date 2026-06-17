@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_67",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2067.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1 (Rachel):</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Hi, Ewan. Isn't Susie here for the book discussion yet? </p><p><strong>Speaker 2 (Ewan):</strong> It's just us so far, Rachel. Shall we make a start? The presentation is next week, you know. </p><p>Speaker 1 (Rachel): I know. It's come round really soon, so we'd better get organised. Right, so Joy Care's <em>Sunrise Lake</em>. I think we have to make some notes about the book itself, like when it was published, how it was written, and an overview of characters too.</p><p>Speaker 2 (Ewan): Yeah, and remember we have to show our thoughts and feelings on the characters, the setting, the relationships. It says here in the study guide that that's essential. In fact, more important than anything else. So that has to be our priority.</p><p>Speaker 1 (Rachel): Let's start with some facts then. Publication. It came out in a weekly periodical that Care had founded before being published as a novel in October 1961.</p><p>Speaker 2 (Ewan): And that was in...? </p><p>Speaker 1 (Rachel): December 1960, it says here. And it ran until August 1961. And it's important to note it was narrated in the first person through the point of view of the protagonist. It was Care's tenth novel, but it was only the second she had written in this way. So that's noteworthy, I think.</p><p>Speaker 2 (Ewan): I agree. Let's highlight that. Right. And if I remember correctly, the story unravels in London in the first half of the 1950s.</p><p>Speaker 1 (Rachel): Spot on, Rach. What about the characters? I mean, Matthew's the protagonist. How would you describe him?</p><p>Speaker 2 (Ewan): For me, from the beginning, the character inspires sympathy. I mean, he's so innocent and likeable, and you just want him to thrive in life.</p><p>Speaker 1 (Rachel): I don't know that I felt compassion for him from the start, but once you come to understand his terrible family situation, the reader is just rooting for him to escape that and make it. </p><p>Speaker 2 (Ewan): We can't forget Sally Baxter, of course. She and Lucy are also key characters. Personally, I loved Sally Baxter, though she was rather eccentric, to say the least. So rich, yet wearing those old wartime clothes every day, looking to wreak revenge. I found her character quite eerie, actually.</p><p>Speaker 1 (Rachel): I don't agree. I felt quite sorry for her. Remember how she ended up that way. She was just heartbroken after the war, really. Though I must admit she had a somewhat odd character and her behaviour was not exactly conventional.</p><p>Speaker 2 (Ewan): Well, let's turn to Lucy, Sally Baxter's adopted daughter. She was obviously damaged by living with her adoptive mother and Matthew is so in love with her. But would you say that he really was? Or did she just represent everything Matthew strived to be? Wealthy, cultured. His existence could be described as humble at best. In fact, this could be the impetus that makes him strive for more from life.</p><p>Speaker 1 (Rachel): I don't know about that, but I think the affection was mutual. She just didn't know how to show it. Sally Baxter's treatment of her was so unfair, wanting Lucy to be bitter like she was. But she couldn't do that to Matthew. She was too fond of him.</p><p>Speaker 2 (Ewan): Hang on, it's a message from Susie. She's missed her train so she can't get here. She says we should plan the presentation and then let her know what we want her to do. She says sorry.</p><p>Speaker 1 (Rachel): It's a shame she can't be here. Let's decide who's going to do what and then we can at least let her know.</p>"
+    }
+  ]
+}

@@ -64,6 +64,10 @@
         <label class="field-label" for="studentPassword">Mật khẩu</label>
         <input id="studentPassword" class="field-input" type="password" autocomplete="current-password" placeholder="Nhập mật khẩu tài khoản học viên">
 
+        <label style="display: flex; align-items: center; gap: 8px; margin: 12px 0; color: #475569; font-weight: 700;">
+          <input type="checkbox" id="rememberLogin" checked> Save login
+        </label>
+
         <p id="startError" class="start-error" role="alert"></p>
         <div class="auth-actions">
           <button id="startBtn" class="primary-btn">Đăng nhập và bắt đầu</button>
@@ -227,6 +231,7 @@
     </div>
   </div>
 
+  <script src="../../../assets/js/saola-auth.js" data-widget="off"></script>
   <script src="../../../assets/js/writing-test.js"></script>
 </body>
 </html>

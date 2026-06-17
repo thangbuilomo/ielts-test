@@ -1,0 +1,101 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_true_false_not_given_04",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 6,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "tfng",
+  "category_id": "true_false_not_given",
+  "title": "True False Not Given - Exercise 4",
+  "duration_seconds": 0,
+  "content": {
+    "title": "PROBLEMS WITH WATER",
+    "content_html": "<h1>TRUE - FALSE - NOT GIVEN 04</h1>\n<h2>PROBLEMS WITH WATER</h2>\n<p>Nearly half the world’s population will experience critical water shortages by 2025, according to a report by the United Nations (UN). Wars over access to water are a rising possibility and the main conflicts in Africa during the next 25 years could be over this most precious of commodities. “Potential water wars are likely in areas where rivers and lakes are shared by more than one country,” says Mark Evans, a UN worker. Evans predicts: “Population growth and economic development will lead to nearly one in two people in Africa living in countries which face water scarcity or ‘water stress’ within 25 years.” Water scarcity is defined as less than 1,000 cubic metres of water available per person per year, while water stress means less than 1,500 cubic metres of water per person per year. The UN report says that by 2025, 12 more African countries will join the 13 that already suffer from water stress or water scarcity. What makes the water issue even more urgent is that demand for water will grow increasingly fast as larger areas are used to grow crops. Evans adds: “The strong possibility that the world is experiencing climate change also adds to this urgency.”</p>\n<p>The question of how to deal with water shortages is in the forefront of the battle between environmental activists on the one hand and governments and construction firms on the other. At a recent World Summit on Sustainable Development in Johannesburg, activists mounted a campaign to halt dam construction on environmental grounds.</p>\n<p>One of the UN’s eight millennium development goals is to halve the number of people without sustainable access to safe drinking water by 2020. This had already been agreed upon at the summit, but one of the unresolved issues in the implementation plan was whether the goal on water would be extended to cover sanitation. The risks posed by water-borne diseases in the absence of sanitation facilities mean that the two goals are closely related. US negotiators have been resisting the extension of goals to include sanitation due to the financial commitment this would entail. However, Evans says the US is about to agree to this extension. This agreement could give the UN a chance to show that in one key area the world development agenda was advanced in Johannesburg.</p>\n<p>A number of projects and funding initiatives were also unveiled at the summit. However, implementation is always harder, as South Africa has experienced in its water programme. Graham Bennetts, a water official in the South African government explains: “Since the 1994 elections, the government has provided easy access to water for 7 million people, but extending this to a further 7 million and ensuring this progress is sustainable is one of South Africa’s foremost implementation challenges.” In South Africa, access to water is defined as 25 litres a person daily that can be accessed from within a distance of 200 metres from where they live. “Although South Africa’s feat far exceeds the UN millennium goal on water supply, severe constraints on local government capacity make a more rapid expansion difficult,” says Bennetts.</p>\n<p>However, according to Liane Greef of the Environmental Monitoring Group, for some people who have only recently been given ready access to water the benefits are short lived as they are unable to pay for the extra costs for water and the supply is then cut off. Greef is the programme manager for Water Justice in southern Africa. Those whose water supply is cut off also automatically forfeit their right to 6,000 free litres of water for a family a month under South Africa’s “water for all” policy. In the face of continued increases in unemployment, payment for water and other utilities has the potential to undo government’s good reputation for water delivery.</p>\n<p>The method of ensuring sufficient water supply, and its management, will increasingly become a political battleground in South Africa. Water Affairs director-general Mike Muller says South Africa is near the end of its dam-building programme. However, there are big projects proposed elsewhere in southern Africa that could possibly be halted by activists who could bring pressure on funding agencies such as the World Bank.</p>\n<p>Greef says her group will campaign against any proposed new dams in southern Africa. According to Greef, rather than rely on new dam construction, people should ensure that water is used wisely at all times, not only during dry spells. Another battleground for her group is over the privatisation of water supply; this, she insists, is best handled in the public interest by accountable government.</p>\n<p>There is increasing hope of advances in technology that will help to deal with water shortages. Agricultural production takes up about 90 per cent of water consumed for human purposes, according to the UN. In order to lower agricultural demand for water, the Sri Lanka-based International Water Management Institute is researching ways of obtaining “more crop per drop” through the development of drought-resistant crops, as well as through better water management techniques. One of the institute’s research sites is the Limpopo River basin. According to the institute’s director-general, Frank Rijsbereman, rice growers in China use a quarter of the water per ton of produce compared to those in South Africa. The institute hopes the “green revolution” in crop productivity will soon be matched by the “blue revolution” in improving water utilisation in agriculture, a solution that could also help South Africa.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_true_false_not_given_04.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_true_false_not_given_04.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "tfng",
+          "skill_tags": [
+            "rd_tfng"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 35 - 40</strong></p>\n<p>Choose <strong>TRUE</strong> if the statement agrees with the information given in the text, choose <strong>FALSE</strong> if the statement contradicts the information, or choose <strong>NOT GIVEN</strong> if there is no information on this.</p>\n<p>35 International disputes over shared natural water sources could lead to people getting killed .</p>\n<p>36 Water stress is a more serious problem than water scarcity</p>\n<p>37 Vocal environment activists were arrested at the World Summit.</p>\n<p>38 People need sanitation facilities to ensure a clean water supply is sustainable.</p>\n<p>39 The World Summit produced many good ideas, but the government of South Africa has had difficulty putting them into practice.</p>\n<p>40 Growing rice in South Africa requires significantly less water than it does in China.</p>",
+          "items": [
+            {
+              "question_id": "q35",
+              "number": 35,
+              "prompt_html": "International disputes over shared natural water sources could lead to people getting killed .",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q36",
+              "number": 36,
+              "prompt_html": "Water stress is a more serious problem than water scarcity",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q37",
+              "number": 37,
+              "prompt_html": "Vocal environment activists were arrested at the World Summit.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q38",
+              "number": 38,
+              "prompt_html": "People need sanitation facilities to ensure a clean water supply is sustainable.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q39",
+              "number": 39,
+              "prompt_html": "The World Summit produced many good ideas, but the government of South Africa has had difficulty putting them into practice.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q40",
+              "number": 40,
+              "prompt_html": "Growing rice in South Africa requires significantly less water than it does in China.",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            35,
+            40
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

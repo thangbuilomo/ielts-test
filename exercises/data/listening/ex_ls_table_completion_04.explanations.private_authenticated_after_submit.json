@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_04",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói đang cung cấp thông tin cá nhân của mình để đăng ký làm bệnh nhân mới. Thông tin giúp tìm ra đáp án là tên đầy đủ của người nói, được nhắc đến rõ ràng trong câu. Paraphrase quan trọng ở đây là \"Mike Jacobs\", không có bẫy nào trong câu này vì người nói đã phát âm rõ ràng tên của mình. Đáp án đúng là \"Jacobs\" vì đây là họ của người nói.",
+      "evidence": "It's Mike Jacobs. J-A-C-O-B-S."
+    },
+    "q2": {
+      "explanation": "Người nói đang cung cấp thông tin về con trai của mình. Thông tin giúp tìm ra đáp án là tên của cậu con trai, được nhắc đến trực tiếp. Paraphrase quan trọng là \"one little boy\", không có bẫy nào vì câu này rất rõ ràng. Đáp án đúng là \"Rod\" vì đây là tên của con trai mà người nói đã nêu.",
+      "evidence": "I have one little boy whose name is Rod."
+    },
+    "q3": {
+      "explanation": "Người nói đang cung cấp địa chỉ nơi mình sống. Thông tin giúp tìm ra đáp án là phần địa chỉ \"Highfield\", được nhắc đến ngay sau địa chỉ đường. Paraphrase quan trọng là \"Highfield\", không có bẫy nào trong câu này vì thông tin được đưa ra rất cụ thể. Đáp án đúng là \"Highfield\" vì đây là tên khu vực mà người nói đang sống.",
+      "evidence": "52 Dawson Road, Highfield, Melbourne."
+    },
+    "q4": {
+      "explanation": "Người nói đang cung cấp số thẻ sức khỏe của mình. Thông tin giúp tìm ra đáp án là phần số \"871812\", được nhắc đến trong câu. Paraphrase quan trọng là \"NH\" và \"C\" không cần thiết cho câu trả lời vì yêu cầu chỉ là hai từ hoặc số. Bẫy ở đây có thể là việc người nghe có thể bị phân tâm bởi các ký tự khác. Đáp án đúng là \"871812\" vì đây là phần số của thẻ sức khỏe mà người nói đã cung cấp.",
+      "evidence": "It's NH871812C."
+    },
+    "q5": {
+      "explanation": "Người nói đang chọn bác sĩ mà mình muốn đăng ký. Thông tin giúp tìm ra đáp án là việc người nói đã quyết định chọn bác sĩ Kevin White. Paraphrase quan trọng là \"the last one\" và \"Dr. Kevin\", không có bẫy nào vì người nói đã xác nhận rõ ràng lựa chọn của mình. Đáp án đúng là \"White\" vì đây là họ của bác sĩ mà người nói đã chọn.",
+      "evidence": "I'll go for the last one.\" \"How about Dr. Kevin?\" \"Yes, that'll be fine."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Hello, I've just moved to Melbourne for a new job and I've been advised to register with a new doctor for myself and my family. I think that this surgery is the nearest one to where I live.</p><p><strong>Speaker 1:</strong> What's the name of the road that you live in, sir?</p><p><strong>Speaker 2:</strong> Dawson Road.</p><p><strong>Speaker 1:</strong> Yes, that's in our area. Would you like to register with us now?</p><p><strong>Speaker 2:</strong> Yes, please.</p><p><strong>Speaker 1:</strong> Right, I'll just have to take some details. First of all, could you give me your name?</p><p><strong>Speaker 2:</strong> It's Mike Jacobs. J-A-C-O-B-S.</p><p><strong>Speaker 1:</strong> And your family?</p><p><strong>Speaker 2:</strong> My wife's name is Janet and I have one little boy whose name is Rod.</p><p><strong>Speaker 1:</strong> Ron?</p><p><strong>Speaker 2:</strong> No, no, Rod. R-O-D.</p><p><strong>Speaker 1:</strong> Good, that's fine. And what is your address here in Melbourne?</p><p><strong>Speaker 2:</strong> 52 Dawson Road, Highfield, Melbourne.</p><p><strong>Speaker 1:</strong> Highfield. H-I-G-H-F-I-E-L-D. Good. And I'll need to know your health card number.</p><p><strong>Speaker 2:</strong> It's NH871812C.</p><p><strong>Speaker 1:</strong> What about my family?</p><p><strong>Speaker 2:</strong> Oh, only yours for now. Do you know the name of your old doctor?</p><p><strong>Speaker 2:</strong> It was Dr. Graham Mackenzie in Perth. </p><p><strong>Speaker 1:</strong> Now, we've got four doctors here. There's Dr. Susan Larkins, Dr. Kevin White, Dr. James Nicholson and Dr. Linda Williams. Which one would you like to register with?</p><p><strong>Speaker 2:</strong> Oh, I didn't think of that. Well, I think I would like my doctor to be a man. I'll go for the last one.</p><p><strong>Speaker 1:</strong> Was that one a man?</p><p><strong>Speaker 2:</strong> No, that was Dr. Linda. How about Dr. Kevin?</p><p><strong>Speaker 2:</strong> Yes, that'll be fine.</p><p><strong>Speaker 1:</strong> Right, Dr. White it is.</p>"
+}

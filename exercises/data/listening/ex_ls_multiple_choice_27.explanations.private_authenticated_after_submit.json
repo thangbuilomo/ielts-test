@@ -1,0 +1,25 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_27",
+  "module": "listening",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q5": {
+      "explanation": "Người nói đang thảo luận về các phương thức di chuyển cho trẻ em đến trường King School vào buổi sáng. Thông tin giúp tìm ra đáp án là câu nói về chiếc xe buýt trường học, được mô tả là một lựa chọn tiện lợi cho trẻ em. Paraphrase quan trọng ở đây là \"school bus\" (xe buýt trường học) được nhắc đến như một phương thức di chuyển chính. Bẫy có thể là sự nhắc đến việc lái xe của phụ huynh, nhưng người nói đã chỉ ra rằng việc đi bộ không phải là lựa chọn dễ dàng. Đáp án B là đúng vì nó là phương thức được đề xuất rõ ràng nhất trong đoạn hội thoại.",
+      "evidence": "There is, however, a school bus that picks up children from a stop about five minutes' walk from where you live..."
+    },
+    "q6": {
+      "explanation": "Người nói đang nói về các yếu tố cần xem xét khi quyết định chọn trường cho con cái. Thông tin quan trọng giúp tìm ra đáp án là sự nhấn mạnh vào \"quality of teaching\" (chất lượng giảng dạy) mà người nói cảm thấy quan trọng hơn số lượng học sinh hoặc khoảng cách từ nhà đến trường. Paraphrase quan trọng là \"more important\" (quan trọng hơn) được nhắc đến trong bối cảnh so sánh với các yếu tố khác. Bẫy có thể là sự nhấn mạnh vào số lượng học sinh, nhưng người nói đã khẳng định rằng chất lượng là yếu tố quyết định. Đáp án C là đúng vì nó phản ánh rõ ràng quan điểm của người nói về việc lựa chọn trường học dựa trên chất lượng giáo dục.",
+      "evidence": "I suppose that's really more important than how many children there are and how long it takes to get there."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Now King School and the other catchment area is a bit further away. It's not really an easy walk. There is, however, a school bus that picks up children from a stop about five minutes' walk from where you live and they would get dropped back there at the end of the school day. You could drive John there yourself, of course, but you know about traffic and school runs, I suppose?</p><p><strong>Speaker 2:</strong> Yes, it can be just terrible. King's School is bigger, with 200 children, boys and girls, in the same year groups. Both schools have availability and John will be able to start in either school once the paperwork is done. That should not take long.</p><p><strong>Speaker 1:</strong> Can we visit the schools before deciding?</p><p><strong>Speaker 2:</strong> Of course. I have information packs on both schools and in them you can find their telephone numbers. You can just call the school and set up a visit. In the packs is also lots of information about various aspects of the schools, including the latest quality inspections, the teaching staff, curriculum and extracurricular activities. Do you have any recommendations?</p><p><strong>Speaker 1:</strong> Well, I'm not supposed to do that, but my wife and I have both our young girls at King's School and we are very happy with the standards of teaching there. When we speak to parents who have children at the other schools, we feel that we have made the better choice in that respect. I suppose that's really more important than how many children there are and how long it takes to get there.</p><p><strong>Speaker 2:</strong> My wife and I think so. Anyway, there's the bus for you and the class sizes are pretty much the same.</p>"
+}

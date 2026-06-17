@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_06",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q25": {
+      "explanation": "Căn cứ nằm ở đoạn E: \"This problem could be solved by government funding or large organisations getting involved with tidal power. In terms of long-term costs, once the construction of the barrage is complete, there are very low maintenance and running costs and the turbines only need replacing around every 30 years. The life of the plant is indefinite, and for its entire life it will receive free fuel from the tide.\". Phương án B (Low) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "This problem could be solved by government funding or large organisations getting involved with tidal power. In terms of long-term costs, once the construction of the barrage is complete, there are very low maintenance and running costs and the turbines only need replacing around every 30 years. The life of the plant is indefinite, and for its entire life it will receive free fuel from the tide._"
+    },
+    "q26": {
+      "explanation": "Căn cứ nằm ở đoạn G: \"Perhaps the largest disadvantages of tidal barrages are the ecological effects on the local area. These are very difficult to predict, as each site is different and there are not many projects that are available for study. The changes in water level and possible flooding would affect the vegetation around the coast, having an impact on the aquatic and shoreline ecosystems.\". Phương án C (Little manpower is needed to run the project) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Perhaps the largest disadvantages of tidal barrages are the ecological effects on the local area. These are very difficult to predict, as each site is different and there are not many projects that are available for study. The changes in water level and possible flooding would affect the vegetation around the coast, having an impact on the aquatic and shoreline ecosystems._"
+    },
+    "q27": {
+      "explanation": "Căn cứ nằm ở đoạn G: \"Perhaps the largest disadvantages of tidal barrages are the ecological effects on the local area. These are very difficult to predict, as each site is different and there are not many projects that are available for study. The changes in water level and possible flooding would affect the vegetation around the coast, having an impact on the aquatic and shoreline ecosystems.\". Phương án D (Local humidity could rise) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Perhaps the largest disadvantages of tidal barrages are the ecological effects on the local area. These are very difficult to predict, as each site is different and there are not many projects that are available for study. The changes in water level and possible flooding would affect the vegetation around the coast, having an impact on the aquatic and shoreline ecosystems._"
+    }
+  }
+}

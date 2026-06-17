@@ -1,0 +1,59 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_rd_sentence_completion_16",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 7,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q14": {
+      "answers": [
+        "ten minutes"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "exact measurements"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "astronomical observations",
+        "the sun"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "railroads"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "size"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "safety"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "railway companies"
+      ]
+    }
+  }
+}

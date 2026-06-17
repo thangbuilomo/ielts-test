@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_flow_chart_completion_09",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Người nói đang thảo luận về việc chuẩn bị cho một bài thuyết trình về toàn cầu hóa. Họ nhấn mạnh rằng trước khi bắt đầu, cần phải xác định một \"mục đích chính\" cho bài thuyết trình. Thông tin này giúp tìm ra đáp án là \"mục đích chính\" (main purpose) vì nó thể hiện rằng việc xác định một góc nhìn cụ thể là rất quan trọng. Paraphrase quan trọng ở đây là \"một chủ đề lớn\" có thể được hiểu là \"mục đích chính\" mà họ cần tập trung vào. Không có bẫy nào trong câu này, vì nó rất rõ ràng về việc cần phải xác định mục đích. Đáp án đúng vì nó phản ánh chính xác yêu cầu đầu tiên trong kế hoạch chuẩn bị bài thuyết trình.",
+      "evidence": "So, the impacts of globalisation, huge subject, isn't it?"
+    },
+    "q22": {
+      "explanation": "Người nói đang đề cập đến việc tham khảo các \"hướng dẫn đánh giá\" để đảm bảo rằng họ đáp ứng được các tiêu chí cần thiết trong bài thuyết trình. Thông tin này giúp tìm ra đáp án là \"hướng dẫn đánh giá\" (assessment guidelines) vì nó chỉ ra rằng họ cần phải biết rõ các tiêu chí để có thể đạt điểm cao. Paraphrase quan trọng là \"phần về việc chấm điểm\", điều này có thể được hiểu là \"hướng dẫn đánh giá\". Không có bẫy nào trong câu này, vì thông tin được trình bày rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác yêu cầu thứ hai trong kế hoạch.",
+      "evidence": "there's a section on grading in our module handbook. It says what they'll be basing our scores on."
+    },
+    "q23": {
+      "explanation": "Người nói đang nói về việc cần phải bao gồm \"thống kê\" (statistics) trong bài thuyết trình để hỗ trợ các điểm mà họ đưa ra. Thông tin này giúp tìm ra đáp án là \"thống kê\" vì nó nhấn mạnh tầm quan trọng của việc sử dụng dữ liệu cụ thể để củng cố lập luận. Paraphrase quan trọng là \"dữ liệu định lượng\", điều này có thể được hiểu là \"thống kê\". Không có bẫy nào trong câu này, vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác yêu cầu thứ ba trong kế hoạch.",
+      "evidence": "Another thing we can do is start gathering quantitative data to use in the presentation."
+    },
+    "q24": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc ghi lại \"nguồn\" (sources) của thông tin mà họ sử dụng trong bài thuyết trình. Thông tin này giúp tìm ra đáp án là \"nguồn\" vì nó chỉ ra rằng việc biết nguồn gốc thông tin là cần thiết để đảm bảo tính chính xác và đáng tin cậy. Paraphrase quan trọng là \"ghi chú lại nguồn thông tin\", điều này có thể được hiểu là \"nguồn\". Không có bẫy nào trong câu này, vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác yêu cầu thứ tư trong kế hoạch.",
+      "evidence": "we'll have to make a note of where we got our information from."
+    },
+    "q25": {
+      "explanation": "Người nói đang nói về việc cần phải đảm bảo rằng khán giả hiểu được \"cấu trúc\" (structure) của bài thuyết trình. Thông tin này giúp tìm ra đáp án là \"cấu trúc\" vì nó nhấn mạnh tầm quan trọng của việc trình bày một cách có tổ chức. Paraphrase quan trọng là \"cách mà mọi thứ sẽ được sắp xếp\", điều này có thể được hiểu là \"cấu trúc\". Không có bẫy nào trong câu này, vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác yêu cầu thứ năm trong kế hoạch.",
+      "evidence": "it's got to be clear to everyone in the room how it's all going to be sequenced."
+    },
+    "q26": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc chú ý đến \"thời gian giới hạn\" (time limit) khi thực hiện bài thuyết trình. Thông tin này giúp tìm ra đáp án là \"thời gian giới hạn\" vì nó chỉ ra rằng việc quản lý thời gian là rất quan trọng để không bị vượt quá thời gian quy định. Paraphrase quan trọng là \"kiểm tra lại thời gian\", điều này có thể được hiểu là \"thời gian giới hạn\". Không có bẫy nào trong câu này, vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác yêu cầu thứ sáu trong kế hoạch.",
+      "evidence": "double-check how long we've got and make sure we don't go over that."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong> (Tom): Hi Amy, we're presenting together next week, aren't we?  </p><p>Speaker 2 (Amy): Hi Tom, yeah. Shall we plan how to approach this task?  </p><p>Speaker 1 (Tom): Good idea. So, the impacts of globalisation, huge subject, isn't it?  </p><p>Speaker 2 (Amy): Absolutely, but the tutor told us to first find a specific angle to address.  </p><p>Speaker 1 (Tom): She did, yes, something that shows globalisation in practice, like pharmaceutical companies promoting medications across the world or whatever.  </p><p>Speaker 2 (Amy): That's one option, but we can consider others too.  </p><p>Speaker 1 (Tom): Sure, yeah. And once we've picked one, well, then as we're planning our presentation, we'll need to bear in mind what skills we need to demonstrate to get a decent mark.  </p><p>Speaker 2 (Amy): Yes, there's a section on grading in our module handbook. It says what they'll be basing our scores on. It's quite detailed actually.  </p><p>Speaker 1 (Tom): Right, worth looking at a few times then.  </p><p>Speaker 2 (Amy): Yeah. Another thing we can do is start gathering quantitative data to use in the presentation, like year-on-year increases in a particular country's gross domestic product.  </p><p>Speaker 1 (Tom): Sure, or the proportion of its food that's imported.  </p><p>Speaker 2 (Amy): Exactly. Whatever point we're making, it'll need to be backed up with figures like that.  </p><p>Speaker 1 (Tom): Right, and as soon as we've started collecting that sort of stuff, we'll have to make a note of where we got our information from.  </p><p>Speaker 2 (Amy): Obviously we can use broadcast media as well as the written word. Radio news shows, that kind of thing.  </p><p>Speaker 1 (Tom): Exactly, but we'd need to be able to provide the date of the programme we were referring to, name of the journalist and so on.  </p><p>Speaker 2 (Amy): Yes, because we're expected to include a slide with references, right?  </p><p>Speaker 1 (Tom): Yeah. And in terms of the presentation we deliver on assessment day, it's got to be clear to everyone in the room how it's all going to be sequenced, how one stage leads to another.  </p><p>Speaker 2 (Amy): We'll have to decide how to explain that to them.  </p><p>Speaker 1 (Tom): Probably best to include a slide which shows how it's going to be organised.  </p><p>Speaker 2 (Amy): Right. And once we've put the slides together, it's really essential that we allow ourselves a chance to rehearse, actually deliver the whole presentation, but in private, without an audience.  </p><p>Speaker 1 (Tom): Could maybe film ourselves.  </p><p>Speaker 2 (Amy): Good idea. And double-check how long we've got and make sure we don't go over that.  </p><p>Speaker 1 (Tom): OK, great. Well, I'm glad we've been able to agree on...</p>"
+}

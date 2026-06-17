@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_53",
+  "module": "listening",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2053.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Now, what about the content of the training course itself? Adam, could you give me a quick summary of what was covered in the workshop? </p><p><strong>Speaker 2:</strong> Sure. On the first day, we started with some warm-up activities and discussions about the nature of the relationship between the customer and the service provider. Then, after lunch, we practised dealing on the phone with customers who aren't satisfied with a company's service. The instructors showed us the best way to leave the customers feeling that they had been listened to and that solutions had been found to their problems.</p><p><strong>Speaker 1:</strong> That sounds good. And what was covered on the second day, Sarah? </p><p><strong>Speaker 3:</strong> Let me think. Uh, yes. On that day, we dealt more with face-to-face interaction with clients, such as in meetings, at conferences, or during sales visits. The main thing the instructors wanted to stress was the way that we present ourselves. We did some training on how to appear more friendly, open, and approachable.</p><p><strong>Speaker 1:</strong> Great. These are all things our staff could improve on. It seems like a useful course so far. </p><p><strong>Speaker 2:</strong> It was. Then, the first part of the final day involved a review of everything we'd learned so far on the course. After lunch, we had a session aimed at improving our knowledge of how to act around people from various countries. For example, we learned that it is normal for Spanish people to interrupt each other in meetings, but this would not happen in Japan. I found that topic especially interesting.</p>"
+    }
+  ]
+}

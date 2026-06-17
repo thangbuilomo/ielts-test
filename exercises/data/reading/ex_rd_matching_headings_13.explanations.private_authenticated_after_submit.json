@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_13",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"There are several significant threats to whale sharks’ survival. Healthy ecosystems are essential for the continuing presence of whale sharks and the destruction or spoiling of their environments directly affects whale shark populations.\". Heading ix (Habitat Damage) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "There are several significant threats to whale sharks’ survival. Healthy ecosystems are essential for the continuing presence of whale sharks and the destruction or spoiling of their environments directly affects whale shark populations._"
+    },
+    "q16": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Disturbance or harassment of individual sharks by boats and divers have an unknown impact on sharks and their migration. Furthermore, whale sharks are vulnerable to damage from being struck by boats whilst they are feeding at the surface and many whale sharks have boat scars from previous impacts.\". Heading vii (Human Interference) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Disturbance or harassment of individual sharks by boats and divers have an unknown impact on sharks and their migration. Furthermore, whale sharks are vulnerable to damage from being struck by boats whilst they are feeding at the surface and many whale sharks have boat scars from previous impacts._"
+    },
+    "q17": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Whale shark catches have greatly declined over recent years, and this is due to the underlying decline in population. All of the whale shark fisheries in India, Taiwan and the Philippines reported declines not only in catches but in the average size of sharks caught too.\". Heading ii (Numbers and Trade) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Whale shark catches have greatly declined over recent years, and this is due to the underlying decline in population. All of the whale shark fisheries in India, Taiwan and the Philippines reported declines not only in catches but in the average size of sharks caught too._"
+    },
+    "q18": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Fishing for meat and the fins of the whale shark poses a very serious threat to whale shark populations and their survival. The meat is highly valued and sells for a high price in many Asian countries with the flesh of the whale shark being consumed fresh, frozen and salted for meat.\". Heading i (Products for Human Consumption) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Fishing for meat and the fins of the whale shark poses a very serious threat to whale shark populations and their survival. The meat is highly valued and sells for a high price in many Asian countries with the flesh of the whale shark being consumed fresh, frozen and salted for meat._"
+    },
+    "q19": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The whale shark’s large size and specialised diet means this species is difficult to keep in marine zoos, and it has, as yet, not become a mainstream show species. Individuals have, however, been kept in aquaria in Japan, although scientific opinion is divided as to whether this will be able to positively affect wild populations of whale sharks.\". Heading v (The Whale Shark in Captivity) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The whale shark’s large size and specialised diet means this species is difficult to keep in marine zoos, and it has, as yet, not become a mainstream show species. Individuals have, however, been kept in aquaria in Japan, although scientific opinion is divided as to whether this will be able to positively affect wild populations of whale sharks._"
+    },
+    "q20": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The whale shark has an enormous mouth that can be more than 1.5 metres wide. Whereas other plankton-feeders swim slowly through the water, mouth agape, with the forward motion driving plankton-laden water into their mouths, the whale shark distends its jaws and actively sucks, drawing water containing microscopic, free-swimming items, such as small crustaceans, fishes and squids, into its mouth.\". Heading vi (Diet and Method of Feeding) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The whale shark has an enormous mouth that can be more than 1.5 metres wide. Whereas other plankton-feeders swim slowly through the water, mouth agape, with the forward motion driving plankton-laden water into their mouths, the whale shark distends its jaws and actively sucks, drawing water containing microscopic, free-swimming items, such as small crustaceans, fishes and squids, into its mouth._"
+    }
+  }
+}

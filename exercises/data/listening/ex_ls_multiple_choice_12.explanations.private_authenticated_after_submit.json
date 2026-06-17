@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_12",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Người nói đang giải thích các yêu cầu cần thiết để trở thành thành viên sinh viên của Trung tâm Thể thao. Thông tin giúp tìm ra đáp án là việc yêu cầu sinh viên phải có tình trạng học tập (toàn thời gian hoặc bán thời gian) và phải là thành viên của Liên minh Sinh viên. Paraphrase quan trọng ở đây là \"must be studying a course\" (phải đang theo học một khóa học) và \"be a member of the Students' Union\" (là thành viên của Liên minh Sinh viên). Bẫy có thể là thông tin về thẻ NUS, nhưng không phải là yêu cầu chính để gia nhập. Đáp án đúng vì nó nêu rõ hai điều kiện cần thiết để trở thành thành viên.",
+      "evidence": "First of all, any student who wishes to be a student member of the Wesley University Sports Centre must be studying a course at the university, part-time or full-time, and be a member of the Students' Union."
+    },
+    "q16": {
+      "explanation": "Người nói đang chỉ ra các bước cần thực hiện để gia nhập Trung tâm Thể thao. Thông tin quan trọng là việc cần phải điền vào mẫu đơn đăng ký (completed application form). Paraphrase quan trọng là \"fill out the application form\" (điền vào mẫu đơn đăng ký). Bẫy có thể là việc nghĩ rằng thẻ NUS là đủ, nhưng thực tế cần phải có mẫu đơn. Đáp án đúng vì nó chỉ ra một trong những yêu cầu cần thiết để gia nhập.",
+      "evidence": "You must present your NUS card, fill out the application form, and pay the subscription."
+    },
+    "q17": {
+      "explanation": "Người nói đang đề cập đến phí gia nhập cho các thành viên của trung tâm thể thao. Thông tin giúp tìm ra đáp án là việc không có phí gia nhập cho sinh viên. Paraphrase quan trọng là \"does not apply to student members\" (không áp dụng cho các thành viên sinh viên). Bẫy có thể là việc nghĩ rằng tất cả mọi người đều phải trả phí gia nhập. Đáp án đúng vì nó chỉ rõ rằng sinh viên không phải trả phí này.",
+      "evidence": "There is usually a joining fee of £5 to join a sports centre, but this does not apply to student members."
+    },
+    "q18": {
+      "explanation": "Người nói đang mô tả quyền lợi của các thành viên tại trung tâm thể thao. Thông tin giúp tìm ra đáp án là quyền sử dụng cơ sở vào bất kỳ thời gian nào trong giờ mở cửa. Paraphrase quan trọng là \"you have the right to use the facilities\" (bạn có quyền sử dụng các cơ sở). Bẫy có thể là thông tin về việc cần mang thẻ thành viên, nhưng điều này không ảnh hưởng đến quyền sử dụng. Đáp án đúng vì nó khẳng định quyền lợi của thành viên.",
+      "evidence": "Once you have your sports centre membership card, you have the right to use the facilities at any time that we are open."
+    },
+    "q19": {
+      "explanation": "Người nói đang thông báo về thời gian mở cửa của trung tâm thể thao. Thông tin giúp tìm ra đáp án là việc trung tâm mở cửa mỗi ngày trong tuần. Paraphrase quan trọng là \"open seven days a week\" (mở cửa bảy ngày trong tuần). Bẫy có thể là thông tin về giờ mở cửa khác nhau, nhưng điều này không làm mất đi sự thật rằng trung tâm mở cửa mỗi ngày. Đáp án đúng vì nó khẳng định rằng trung tâm luôn mở cửa cho thành viên.",
+      "evidence": "We are open seven days a week, though opening times vary."
+    },
+    "q20": {
+      "explanation": "Người nói đang cung cấp thông tin cụ thể về giờ mở cửa của trung tâm thể thao. Thông tin giúp tìm ra đáp án là giờ mở cửa khác nhau vào các ngày trong tuần. Paraphrase quan trọng là \"opening times vary\" (giờ mở cửa có thể thay đổi). Bẫy có thể là việc nghĩ rằng giờ mở cửa giống nhau cho tất cả các ngày, nhưng thực tế là khác nhau. Đáp án đúng vì nó chỉ ra sự khác biệt trong giờ mở cửa giữa các ngày trong tuần.",
+      "evidence": "Monday through to Saturday, we are open from 8 a.m. to 10 p.m., and Sunday, we are open from 9 a.m. to 6 p.m."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now, answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Now, let me tell you how to become a student member of the Sports Centre. First of all, any student who wishes to be a student member of the Wesley University Sports Centre must be studying a course at the university, part-time or full-time, and be a member of the Students' Union. </p><p><strong>Speaker 1:</strong> So, if you wish to join, you must bring your NUS card with you before we can process your application. You must come to the sports hall reception between 9 a.m. and 3.30 p.m. from Tuesday to Saturday. The membership secretary does not come in on Sundays and Mondays. </p><p><strong>Speaker 1:</strong> You must present your NUS card, fill out the application form, and pay the subscription. The student subscription for this year is £15. There is usually a joining fee of £5 to join a sports centre, but this does not apply to student members. </p><p><strong>Speaker 1:</strong> You can pay by cash or cheque, but we don't take credit cards. You used to have to bring two passport photos of yourself, but we've gone digital now, and we have a camera at reception. </p><p><strong>Speaker 1:</strong> Once you have your sports centre membership card, you have the right to use the facilities at any time that we are open. You will need to bring your membership card every time you wish to use the facilities, or you will not be allowed to enter. This is part of our insurance agreement. </p><p><strong>Speaker 1:</strong> If you need a replacement card at any time, you will be charged a replacement fee of £5, but you will not need to pay the subscription of £15 again. </p><p><strong>Speaker 1:</strong> You may book courts for sports such as squash and badminton, but you may only do this in person, not on the phone, and you will need the membership card number on your membership card, so don't forget that card. </p><p><strong>Speaker 1:</strong> We are open seven days a week, though opening times vary. Monday through to Saturday, we are open from 8 a.m. to 10 p.m., and Sunday, we are open from 9 a.m. to 6 p.m. </p><p><strong>Speaker 1:</strong> Now, any questions so far?</p>"
+}

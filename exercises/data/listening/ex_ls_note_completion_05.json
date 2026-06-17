@@ -1,0 +1,112 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_note_completion_05",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "note_completion",
+  "category_id": "note_completion",
+  "title": "Note Completion - Exercise 5",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2005.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_note_completion_05.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_note_completion_05.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_note_completion_05.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "note_completion",
+          "skill_tags": [
+            "ls_comp_note"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>NOTE COMPLETION 05</h1><p><strong>Questions 30 - 34</strong></p><p>Complete the notes.</p><p>Use <strong>NO MORE THAN THREE WORDS AND / OR A NUMBER</strong> for each answer.</p><p><strong>The Shinkansen or Bullet Train</strong></p><table><thead><tr><th><strong>     </strong>     <strong>Safety</strong></th><th></th></tr></thead><tbody><tr><td>No deaths (bar from passenger misadventure) since its launch in <blank data-qid=\"q30\"/><br>.</td><td></td></tr><tr><td><strong>     </strong>     <strong>Speed</strong></td><td></td></tr><tr><td>Holds world train record for <blank data-qid=\"q31\"/> between two stops of 261.8 kph.<br>500 series Nozomi’s fastest speed is 300 kph.</td><td></td></tr><tr><td><strong>     </strong>     <strong>Punctuality</strong></td><td></td></tr><tr><td>Punctual to within the second.<br>All bullet trains for 1 year were a total of <blank data-qid=\"q32\"/> late.</td><td></td></tr><tr><td><strong>     </strong>     <strong>History</strong></td><td></td></tr><tr><td>First used on Tokyo to Osaka route.<br>Old models have now been retired.<br>300, 500 and 700 are recent models.</td><td></td></tr><tr><td><strong>     </strong>     <strong>Services</strong></td><td></td></tr><tr><td>Nozomi trains stop at the <blank data-qid=\"q33\"/>.<br>Hikari stop more frequently.<br>Kodama trains stop at <blank data-qid=\"q34\"/>.</td><td></td></tr></tbody></table>",
+          "items": [
+            {
+              "question_id": "q30",
+              "number": 30,
+              "prompt_html": "Question 30",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q31",
+              "number": 31,
+              "prompt_html": "Question 31",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q32",
+              "number": 32,
+              "prompt_html": "Question 32",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q33",
+              "number": 33,
+              "prompt_html": "Question 33",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q34",
+              "number": 34,
+              "prompt_html": "Question 34",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            30,
+            34
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_note_completion_05",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_note_completion_05",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

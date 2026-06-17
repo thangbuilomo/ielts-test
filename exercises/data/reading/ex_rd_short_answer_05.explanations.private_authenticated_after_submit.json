@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_short_answer_05",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q24": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"Called a Slocum underwater glider, the 1.5-metre-long, 52-kilogram torpedo-shaped vehicle is under evaluation by the federal government’s Institute of Ocean Sciences (IOS). Driven entirely by a variable buoyancy system instead of a propeller, it needs no mother ship for tethering or support. The evaluation project is a formal collaboration between Fisheries and Oceans Canada and the Canadian Centre for Ocean Gliders (CCOG).\". Cụm D khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Called a Slocum underwater glider, the 1.5-metre-long, 52-kilogram torpedo-shaped vehicle is under evaluation by the federal government’s Institute of Ocean Sciences (IOS). Driven entirely by a variable buoyancy system instead of a propeller, it needs no mother ship for tethering or support. The evaluation project is a formal collaboration between Fisheries and Oceans Canada and the Canadian Centre for Ocean Gliders (CCOG)._"
+    },
+    "q25": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 2, bài viết nêu: \"Matt Russi, an aerospace and ocean engineer at Virginia Tech developing internal controls suitable for gliders, points out that: “Slocums should not disturb the environment which they are sampling. For propeller-powered underwater vehicles, this might mean avoiding stirring up sediment on the ocean floor, which happens when a vehicle uses external thrusters. With gliders there is no exhaust, no discharge and no lubricants.” A colleague of Russi, Dr Rob Kirwan, also adds that “since there are no external actuators, the vehicles are robust to corrosion.”\". Cụm H khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Matt Russi, an aerospace and ocean engineer at Virginia Tech developing internal controls suitable for gliders, points out that: “Slocums should not disturb the environment which they are sampling. For propeller-powered underwater vehicles, this might mean avoiding stirring up sediment on the ocean floor, which happens when a vehicle uses external thrusters. With gliders there is no exhaust, no discharge and no lubricants.” A colleague of Russi, Dr Rob Kirwan, also adds that “since there are no external actuators, the vehicles are robust to corrosion.”_"
+    },
+    "q26": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"Although this is cutting-edge technology, it seems nature beat human engineers to it. Marine biologists were for a long time mystified by how dolphins could cross greater distances than their muscle power and oxygen intake should allow. Many researchers attributed this to an even skin coating that would reduce water friction, but new evidence points to gliding enabled by buoyancy changes when water pressure compresses air in the respiratory system.\". Cụm B khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Although this is cutting-edge technology, it seems nature beat human engineers to it. Marine biologists were for a long time mystified by how dolphins could cross greater distances than their muscle power and oxygen intake should allow. Many researchers attributed this to an even skin coating that would reduce water friction, but new evidence points to gliding enabled by buoyancy changes when water pressure compresses air in the respiratory system._"
+    },
+    "q27": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 5, bài viết nêu: \"You’re not violating any laws of thermodynamics,” explained Peter West, the Slocum’s inventor. Inside Webb’s Slocum underwater glider is a cavity filled with an organic liquid compound that contracts when cooled and expands when warmed. When the Slocum rises to the surface, the greater heat there expands the material, pushing a spring.\". Cụm C khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "You’re not violating any laws of thermodynamics,” explained Peter West, the Slocum’s inventor. Inside Webb’s Slocum underwater glider is a cavity filled with an organic liquid compound that contracts when cooled and expands when warmed. When the Slocum rises to the surface, the greater heat there expands the material, pushing a spring._"
+    }
+  }
+}

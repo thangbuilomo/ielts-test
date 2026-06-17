@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_22",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q27": {
+      "explanation": "Người nói đang nói về việc Humboldt đã điều tra tình trạng khô hạn ở Hồ Valencia và kết luận rằng hoạt động của con người đã làm thay đổi khí hậu khu vực này. Thông tin giúp tìm ra đáp án là việc Humboldt đã \"điều tra\" và \"kết luận\" rằng con người đang làm thay đổi cảnh quan, điều này liên quan trực tiếp đến việc ông đã nhận ra rằng hoạt động của con người đang làm thay đổi thời tiết. Paraphrase quan trọng ở đây là \"altering the weather\" (thay đổi thời tiết) và \"what people were doing to the landscape\" (những gì mà con người đang làm với cảnh quan). Bẫy có thể là việc người nghe có thể nghĩ rằng ông đã phát hiện ra một loại bệnh tật nào đó, nhưng thực tế là ông đã nhận ra tác động của con người đến môi trường. Vì vậy, đáp án D là chính xác.",
+      "evidence": "So, he investigated and concluded that it was because of what people were doing to the landscape."
+    },
+    "q28": {
+      "explanation": "Người nói đang nói về việc Humboldt đã leo lên núi Chimborazo và đã phát hiện ra rằng ông bị bệnh độ cao. Thông tin giúp tìm ra đáp án là việc ông đã \"kết luận\" rằng nguyên nhân của bệnh là do \"mức oxy thấp\" ở độ cao. Paraphrase quan trọng ở đây là \"low oxygen levels at higher altitudes\" (mức oxy thấp ở độ cao hơn). Bẫy có thể là việc người nghe có thể nghĩ rằng ông đã phát hiện ra một loài thực vật mới, nhưng thực tế là ông đã nhận ra một vấn đề liên quan đến sức khỏe con người ở độ cao. Vì vậy, đáp án B là chính xác.",
+      "evidence": "But having such a keen analytical mind, he was able to conclude that it must have been due to low oxygen levels at higher altitudes."
+    },
+    "q29": {
+      "explanation": "Người nói đang nói về việc Humboldt đã nghiên cứu công nghệ và thương mại trong thời gian ở Cuba, đặc biệt là sản xuất đường. Thông tin giúp tìm ra đáp án là việc ông đã \"đưa ra những gợi ý\" về cách cải thiện sản xuất để \"có lợi nhuận hơn\". Paraphrase quan trọng ở đây là \"enhanced\" (cải thiện) và \"more profitable\" (có lợi nhuận hơn). Bẫy có thể là việc người nghe có thể nghĩ rằng ông chỉ nghiên cứu về động vật hoang dã, nhưng thực tế là ông đã có những đóng góp cho nền kinh tế. Vì vậy, đáp án C là chính xác.",
+      "evidence": "Then he made suggestions as to how it could be enhanced, so as to be more profitable."
+    },
+    "q30": {
+      "explanation": "Người nói đang nói về việc Humboldt đã tìm kiếm và xác minh sự tồn tại của một con kênh tự nhiên ở Venezuela, được gọi là kênh Casiquiare. Thông tin giúp tìm ra đáp án là việc ông đã \"tìm thấy\" và \"lập bản đồ\" cho con kênh này. Paraphrase quan trọng ở đây là \"confirmed the presence\" (xác nhận sự tồn tại) và \"mapped it\" (lập bản đồ cho nó). Bẫy có thể là việc người nghe có thể nghĩ rằng ông đã phát hiện ra một loài động vật hay thực vật mới, nhưng thực tế là ông đã xác minh một đặc điểm địa lý. Vì vậy, đáp án E là chính xác.",
+      "evidence": "Yeah, well, sure enough, he found it and mapped it."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: This recording is copyright. You will hear two students of environmental science discussing their research into an early environmentalist called Alexander von Humboldt. You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> So, in our talk, why don't we link the places Humboldt travelled to what he accomplished while he was there?</p><p><strong>Speaker 1:</strong> Good idea. I read that when Humboldt visited Lake Valencia, he was told by local residents that the area had got a whole lot drier in recent years.</p><p><strong>Speaker 2:</strong> So, he investigated and concluded that it was because of what people were doing to the landscape.</p><p><strong>Speaker 1:</strong> Right, hadn't they been cutting down loads of trees?</p><p><strong>Speaker 2:</strong> Exactly, which dried out the land, so there was less rain. So, people's interactions with their environment were actually altering the weather.</p><p><strong>Speaker 1:</strong> Which we know about now, but he worked it out 200 years ago.</p><p><strong>Speaker 2:</strong> Right, and when he climbed Mount Chimborazo, aiming to identify what plants grew at different altitudes, he developed acute mountain sickness.</p><p><strong>Speaker 1:</strong> But having such a keen analytical mind, he was able to conclude that it must have been due to low oxygen levels at higher altitudes.</p><p><strong>Speaker 2:</strong> Interesting. Again, common knowledge now. But not back then.</p><p><strong>Speaker 1:</strong> True. I read that during his time in Cuba, as well as studying the wildlife, he also analysed the technology and trade.</p><p><strong>Speaker 2:</strong> Sugar production, you mean?</p><p><strong>Speaker 1:</strong> That's right. Then he made suggestions as to how it could be enhanced, so as to be more profitable.</p><p><strong>Speaker 2:</strong> Wow. And in Venezuela, hadn't he heard rumours of a natural waterway that supposedly connected two separate river systems?</p><p><strong>Speaker 1:</strong> It's just that such things are rare and he wanted to verify if it really existed.</p><p><strong>Speaker 2:</strong> That's right, the Casiquiare canal, I think it's called.</p><p><strong>Speaker 1:</strong> Yeah, well, sure enough, he found it and mapped it.</p><p><strong>Speaker 2:</strong> Mmm, what an amazing guy.</p>"
+}

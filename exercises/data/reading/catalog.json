@@ -1,0 +1,1266 @@
+{
+  "schema_version": "saola.exercise_catalog.v1",
+  "module": "reading",
+  "categories": [
+    {
+      "category_id": "diagram_labelling",
+      "category_name": "Diagram Labelling",
+      "description": "IELTS Reading Diagram Labelling exercises.",
+      "exercises": [
+        {
+          "id": "ex_rd_diagram_labelling_01",
+          "title": "Exercise 1",
+          "type": "diagram_labelling",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_diagram_labelling_02",
+          "title": "Exercise 2",
+          "type": "diagram_labelling",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_diagram_labelling_03",
+          "title": "Exercise 3",
+          "type": "diagram_labelling",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_diagram_labelling_04",
+          "title": "Exercise 4",
+          "type": "diagram_labelling",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_diagram_labelling_05",
+          "title": "Exercise 5",
+          "type": "diagram_labelling",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_diagram_labelling_06",
+          "title": "Exercise 6",
+          "type": "diagram_labelling",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_diagram_labelling_07",
+          "title": "Exercise 7",
+          "type": "diagram_labelling",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_diagram_labelling_08",
+          "title": "Exercise 8",
+          "type": "diagram_labelling",
+          "question_count": 4
+        }
+      ]
+    },
+    {
+      "category_id": "flow_chart_completion",
+      "category_name": "Flow Chart Completion",
+      "description": "IELTS Reading Flow Chart Completion exercises.",
+      "exercises": [
+        {
+          "id": "ex_rd_flow_chart_completion_01",
+          "title": "Exercise 1",
+          "type": "flowchart_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_flow_chart_completion_02",
+          "title": "Exercise 2",
+          "type": "flowchart_completion",
+          "question_count": 2
+        },
+        {
+          "id": "ex_rd_flow_chart_completion_03",
+          "title": "Exercise 3",
+          "type": "flowchart_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_flow_chart_completion_04",
+          "title": "Exercise 4",
+          "type": "flowchart_completion",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_flow_chart_completion_05",
+          "title": "Exercise 5",
+          "type": "flowchart_completion",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_flow_chart_completion_06",
+          "title": "Exercise 6",
+          "type": "flowchart_completion",
+          "question_count": 2
+        },
+        {
+          "id": "ex_rd_flow_chart_completion_07",
+          "title": "Exercise 7",
+          "type": "flowchart_completion",
+          "question_count": 1
+        }
+      ]
+    },
+    {
+      "category_id": "matching_headings",
+      "category_name": "Matching Headings To Paragraphs",
+      "description": "IELTS Reading Matching Headings To Paragraphs exercises.",
+      "exercises": [
+        {
+          "id": "ex_rd_matching_headings_01",
+          "title": "Exercise 1",
+          "type": "matching_headings",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_headings_02",
+          "title": "Exercise 2",
+          "type": "matching_headings",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_matching_headings_03",
+          "title": "Exercise 3",
+          "type": "matching_headings",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_headings_04",
+          "title": "Exercise 4",
+          "type": "matching_headings",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_headings_05",
+          "title": "Exercise 5",
+          "type": "matching_headings",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_matching_headings_06",
+          "title": "Exercise 6",
+          "type": "matching_headings",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_headings_07",
+          "title": "Exercise 7",
+          "type": "matching_headings",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_headings_08",
+          "title": "Exercise 8",
+          "type": "matching_headings",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_matching_headings_09",
+          "title": "Exercise 9",
+          "type": "matching_headings",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_matching_headings_10",
+          "title": "Exercise 10",
+          "type": "matching_headings",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_matching_headings_11",
+          "title": "Exercise 11",
+          "type": "matching_headings",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_headings_12",
+          "title": "Exercise 12",
+          "type": "matching_headings",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_headings_13",
+          "title": "Exercise 13",
+          "type": "matching_headings",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_headings_14",
+          "title": "Exercise 14",
+          "type": "matching_headings",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_headings_15",
+          "title": "Exercise 15",
+          "type": "matching_headings",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_matching_headings_16",
+          "title": "Exercise 16",
+          "type": "matching_headings",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_headings_17",
+          "title": "Exercise 17",
+          "type": "matching_headings",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_matching_headings_18",
+          "title": "Exercise 18",
+          "type": "matching_headings",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_headings_19",
+          "title": "Exercise 19",
+          "type": "matching_headings",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_headings_20",
+          "title": "Exercise 20",
+          "type": "matching_headings",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_headings_21",
+          "title": "Exercise 21",
+          "type": "matching_headings",
+          "question_count": 5
+        }
+      ]
+    },
+    {
+      "category_id": "matching_information",
+      "category_name": "Matching Information To Categories",
+      "description": "IELTS Reading Matching Information To Categories exercises.",
+      "exercises": [
+        {
+          "id": "ex_rd_matching_information_01",
+          "title": "Exercise 1",
+          "type": "matching",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_information_02",
+          "title": "Exercise 2",
+          "type": "matching",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_information_03",
+          "title": "Exercise 3",
+          "type": "matching",
+          "question_count": 8
+        },
+        {
+          "id": "ex_rd_matching_information_04",
+          "title": "Exercise 4",
+          "type": "matching",
+          "question_count": 8
+        },
+        {
+          "id": "ex_rd_matching_information_05",
+          "title": "Exercise 5",
+          "type": "matching",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_information_06",
+          "title": "Exercise 6",
+          "type": "matching",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_matching_information_07",
+          "title": "Exercise 7",
+          "type": "matching",
+          "question_count": 8
+        },
+        {
+          "id": "ex_rd_matching_information_08",
+          "title": "Exercise 8",
+          "type": "matching",
+          "question_count": 8
+        },
+        {
+          "id": "ex_rd_matching_information_09",
+          "title": "Exercise 9",
+          "type": "matching",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_matching_information_10",
+          "title": "Exercise 10",
+          "type": "matching",
+          "question_count": 8
+        },
+        {
+          "id": "ex_rd_matching_information_11",
+          "title": "Exercise 11",
+          "type": "matching",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_information_12",
+          "title": "Exercise 12",
+          "type": "matching",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_information_13",
+          "title": "Exercise 13",
+          "type": "matching",
+          "question_count": 8
+        },
+        {
+          "id": "ex_rd_matching_information_14",
+          "title": "Exercise 14",
+          "type": "matching",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_matching_information_15",
+          "title": "Exercise 15",
+          "type": "matching",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_information_16",
+          "title": "Exercise 16",
+          "type": "matching",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_matching_information_17",
+          "title": "Exercise 17",
+          "type": "matching",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_information_18",
+          "title": "Exercise 18",
+          "type": "matching",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_matching_information_19",
+          "title": "Exercise 19",
+          "type": "matching",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_matching_information_20",
+          "title": "Exercise 20",
+          "type": "matching",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_information_21",
+          "title": "Exercise 21",
+          "type": "matching",
+          "question_count": 6
+        }
+      ]
+    },
+    {
+      "category_id": "multiple_choice",
+      "category_name": "Multiple Choice",
+      "description": "IELTS Reading Multiple Choice exercises.",
+      "exercises": [
+        {
+          "id": "ex_rd_multiple_choice_01",
+          "title": "Exercise 1",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_multiple_choice_02",
+          "title": "Exercise 2",
+          "type": "mcq_single",
+          "question_count": 2
+        },
+        {
+          "id": "ex_rd_multiple_choice_03",
+          "title": "Exercise 3",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_multiple_choice_04",
+          "title": "Exercise 4",
+          "type": "mcq_multi",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_multiple_choice_05",
+          "title": "Exercise 5",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_multiple_choice_06",
+          "title": "Exercise 6",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_multiple_choice_07",
+          "title": "Exercise 7",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_multiple_choice_08",
+          "title": "Exercise 8",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_multiple_choice_09",
+          "title": "Exercise 9",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_multiple_choice_10",
+          "title": "Exercise 10",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_multiple_choice_11",
+          "title": "Exercise 11",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_multiple_choice_12",
+          "title": "Exercise 12",
+          "type": "mcq_multi",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_multiple_choice_13",
+          "title": "Exercise 13",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_multiple_choice_14",
+          "title": "Exercise 14",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_multiple_choice_15",
+          "title": "Exercise 15",
+          "type": "mcq_single",
+          "question_count": 2
+        },
+        {
+          "id": "ex_rd_multiple_choice_16",
+          "title": "Exercise 16",
+          "type": "mcq_multi",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_multiple_choice_17",
+          "title": "Exercise 17",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_multiple_choice_18",
+          "title": "Exercise 18",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_multiple_choice_19",
+          "title": "Exercise 19",
+          "type": "mcq_single",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_multiple_choice_20",
+          "title": "Exercise 20",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_multiple_choice_21",
+          "title": "Exercise 21",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_multiple_choice_22",
+          "title": "Exercise 22",
+          "type": "mcq_multi",
+          "question_count": 3
+        }
+      ]
+    },
+    {
+      "category_id": "note_completion",
+      "category_name": "Note Completion",
+      "description": "IELTS Reading Note Completion exercises.",
+      "exercises": [
+        {
+          "id": "ex_rd_note_completion_01",
+          "title": "Exercise 1",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_note_completion_02",
+          "title": "Exercise 2",
+          "type": "note_completion",
+          "question_count": 2
+        },
+        {
+          "id": "ex_rd_note_completion_03",
+          "title": "Exercise 3",
+          "type": "note_completion",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_note_completion_04",
+          "title": "Exercise 4",
+          "type": "note_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_note_completion_05",
+          "title": "Exercise 5",
+          "type": "note_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_note_completion_06",
+          "title": "Exercise 6",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_note_completion_07",
+          "title": "Exercise 7",
+          "type": "note_completion",
+          "question_count": 4
+        }
+      ]
+    },
+    {
+      "category_id": "matching_sentence_endings",
+      "category_name": "Matching Sentence Endings",
+      "description": "IELTS Reading Matching Sentence Endings exercises.",
+      "exercises": [
+        {
+          "id": "ex_rd_matching_sentence_endings_01",
+          "title": "Exercise 1",
+          "type": "matching_sentence_endings",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_matching_sentence_endings_02",
+          "title": "Exercise 2",
+          "type": "matching_sentence_endings",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_matching_sentence_endings_03",
+          "title": "Exercise 3",
+          "type": "matching_sentence_endings",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_matching_sentence_endings_04",
+          "title": "Exercise 4",
+          "type": "matching_sentence_endings",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_matching_sentence_endings_05",
+          "title": "Exercise 5",
+          "type": "matching_sentence_endings",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_sentence_endings_06",
+          "title": "Exercise 6",
+          "type": "matching_sentence_endings",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_matching_sentence_endings_07",
+          "title": "Exercise 7",
+          "type": "matching_sentence_endings",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_matching_sentence_endings_08",
+          "title": "Exercise 8",
+          "type": "matching_sentence_endings",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_matching_sentence_endings_09",
+          "title": "Exercise 9",
+          "type": "matching_sentence_endings",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_matching_sentence_endings_10",
+          "title": "Exercise 10",
+          "type": "matching_sentence_endings",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_matching_sentence_endings_11",
+          "title": "Exercise 11",
+          "type": "matching_sentence_endings",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_matching_sentence_endings_12",
+          "title": "Exercise 12",
+          "type": "matching_sentence_endings",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_matching_sentence_endings_13",
+          "title": "Exercise 13",
+          "type": "matching_sentence_endings",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_matching_sentence_endings_14",
+          "title": "Exercise 14",
+          "type": "matching_sentence_endings",
+          "question_count": 5
+        }
+      ]
+    },
+    {
+      "category_id": "sentence_completion",
+      "category_name": "Sentence Completion",
+      "description": "IELTS Reading Sentence Completion exercises.",
+      "exercises": [
+        {
+          "id": "ex_rd_sentence_completion_01",
+          "title": "Exercise 1",
+          "type": "sentence_completion",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_sentence_completion_02",
+          "title": "Exercise 2",
+          "type": "sentence_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_sentence_completion_03",
+          "title": "Exercise 3",
+          "type": "sentence_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_sentence_completion_04",
+          "title": "Exercise 4",
+          "type": "sentence_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_sentence_completion_05",
+          "title": "Exercise 5",
+          "type": "sentence_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_sentence_completion_06",
+          "title": "Exercise 6",
+          "type": "sentence_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_sentence_completion_07",
+          "title": "Exercise 7",
+          "type": "sentence_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_sentence_completion_08",
+          "title": "Exercise 8",
+          "type": "sentence_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_sentence_completion_09",
+          "title": "Exercise 9",
+          "type": "sentence_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_sentence_completion_10",
+          "title": "Exercise 10",
+          "type": "sentence_completion",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_sentence_completion_11",
+          "title": "Exercise 11",
+          "type": "sentence_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_sentence_completion_12",
+          "title": "Exercise 12",
+          "type": "sentence_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_sentence_completion_13",
+          "title": "Exercise 13",
+          "type": "sentence_completion",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_sentence_completion_14",
+          "title": "Exercise 14",
+          "type": "sentence_completion",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_sentence_completion_15",
+          "title": "Exercise 15",
+          "type": "sentence_completion",
+          "question_count": 2
+        },
+        {
+          "id": "ex_rd_sentence_completion_16",
+          "title": "Exercise 16",
+          "type": "sentence_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_sentence_completion_17",
+          "title": "Exercise 17",
+          "type": "sentence_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_sentence_completion_18",
+          "title": "Exercise 18",
+          "type": "sentence_completion",
+          "question_count": 5
+        }
+      ]
+    },
+    {
+      "category_id": "short_answer",
+      "category_name": "Short Answer",
+      "description": "IELTS Reading Short Answer exercises.",
+      "exercises": [
+        {
+          "id": "ex_rd_short_answer_01",
+          "title": "Exercise 1",
+          "type": "short_answer",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_short_answer_02",
+          "title": "Exercise 2",
+          "type": "short_answer",
+          "question_count": 2
+        },
+        {
+          "id": "ex_rd_short_answer_03",
+          "title": "Exercise 3",
+          "type": "short_answer",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_short_answer_04",
+          "title": "Exercise 4",
+          "type": "short_answer",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_short_answer_05",
+          "title": "Exercise 5",
+          "type": "short_answer",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_short_answer_06",
+          "title": "Exercise 6",
+          "type": "short_answer",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_short_answer_07",
+          "title": "Exercise 7",
+          "type": "short_answer",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_short_answer_08",
+          "title": "Exercise 8",
+          "type": "short_answer",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_short_answer_09",
+          "title": "Exercise 9",
+          "type": "short_answer",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_short_answer_10",
+          "title": "Exercise 10",
+          "type": "short_answer",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_short_answer_11",
+          "title": "Exercise 11",
+          "type": "short_answer",
+          "question_count": 4
+        }
+      ]
+    },
+    {
+      "category_id": "summary_completion",
+      "category_name": "Summary Completion",
+      "description": "IELTS Reading Summary Completion exercises.",
+      "exercises": [
+        {
+          "id": "ex_rd_summary_completion_01",
+          "title": "Exercise 1",
+          "type": "summary_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_summary_completion_02",
+          "title": "Exercise 2",
+          "type": "summary_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_summary_completion_03",
+          "title": "Exercise 3",
+          "type": "summary_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_summary_completion_04",
+          "title": "Exercise 4",
+          "type": "summary_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_summary_completion_05",
+          "title": "Exercise 5",
+          "type": "summary_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_summary_completion_06",
+          "title": "Exercise 6",
+          "type": "summary_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_summary_completion_07",
+          "title": "Exercise 7",
+          "type": "summary_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_summary_completion_08",
+          "title": "Exercise 8",
+          "type": "summary_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_summary_completion_09",
+          "title": "Exercise 9",
+          "type": "summary_completion",
+          "question_count": 2
+        },
+        {
+          "id": "ex_rd_summary_completion_10",
+          "title": "Exercise 10",
+          "type": "summary_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_summary_completion_11",
+          "title": "Exercise 11",
+          "type": "summary_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_summary_completion_12",
+          "title": "Exercise 12",
+          "type": "summary_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_summary_completion_13",
+          "title": "Exercise 13",
+          "type": "summary_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_summary_completion_14",
+          "title": "Exercise 14",
+          "type": "summary_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_summary_completion_15",
+          "title": "Exercise 15",
+          "type": "summary_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_summary_completion_16",
+          "title": "Exercise 16",
+          "type": "summary_completion",
+          "question_count": 2
+        },
+        {
+          "id": "ex_rd_summary_completion_17",
+          "title": "Exercise 17",
+          "type": "summary_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_summary_completion_18",
+          "title": "Exercise 18",
+          "type": "summary_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_summary_completion_19",
+          "title": "Exercise 19",
+          "type": "summary_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_summary_completion_20",
+          "title": "Exercise 20",
+          "type": "summary_completion",
+          "question_count": 5
+        }
+      ]
+    },
+    {
+      "category_id": "true_false_not_given",
+      "category_name": "True False Not Given",
+      "description": "IELTS Reading True False Not Given exercises.",
+      "exercises": [
+        {
+          "id": "ex_rd_true_false_not_given_01",
+          "title": "Exercise 1",
+          "type": "tfng",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_true_false_not_given_02",
+          "title": "Exercise 2",
+          "type": "tfng",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_true_false_not_given_03",
+          "title": "Exercise 3",
+          "type": "tfng",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_true_false_not_given_04",
+          "title": "Exercise 4",
+          "type": "tfng",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_true_false_not_given_05",
+          "title": "Exercise 5",
+          "type": "tfng",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_true_false_not_given_06",
+          "title": "Exercise 6",
+          "type": "tfng",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_true_false_not_given_07",
+          "title": "Exercise 7",
+          "type": "tfng",
+          "question_count": 2
+        },
+        {
+          "id": "ex_rd_true_false_not_given_08",
+          "title": "Exercise 8",
+          "type": "tfng",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_true_false_not_given_09",
+          "title": "Exercise 9",
+          "type": "tfng",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_true_false_not_given_10",
+          "title": "Exercise 10",
+          "type": "tfng",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_true_false_not_given_11",
+          "title": "Exercise 11",
+          "type": "tfng",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_true_false_not_given_12",
+          "title": "Exercise 12",
+          "type": "tfng",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_true_false_not_given_13",
+          "title": "Exercise 13",
+          "type": "tfng",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_true_false_not_given_14",
+          "title": "Exercise 14",
+          "type": "tfng",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_true_false_not_given_15",
+          "title": "Exercise 15",
+          "type": "tfng",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_true_false_not_given_16",
+          "title": "Exercise 16",
+          "type": "tfng",
+          "question_count": 8
+        },
+        {
+          "id": "ex_rd_true_false_not_given_17",
+          "title": "Exercise 17",
+          "type": "tfng",
+          "question_count": 8
+        },
+        {
+          "id": "ex_rd_true_false_not_given_18",
+          "title": "Exercise 18",
+          "type": "tfng",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_true_false_not_given_19",
+          "title": "Exercise 19",
+          "type": "tfng",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_true_false_not_given_20",
+          "title": "Exercise 20",
+          "type": "tfng",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_true_false_not_given_21",
+          "title": "Exercise 21",
+          "type": "tfng",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_true_false_not_given_22",
+          "title": "Exercise 22",
+          "type": "tfng",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_true_false_not_given_23",
+          "title": "Exercise 23",
+          "type": "tfng",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_true_false_not_given_24",
+          "title": "Exercise 24",
+          "type": "tfng",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_true_false_not_given_25",
+          "title": "Exercise 25",
+          "type": "tfng",
+          "question_count": 8
+        },
+        {
+          "id": "ex_rd_true_false_not_given_26",
+          "title": "Exercise 26",
+          "type": "tfng",
+          "question_count": 8
+        },
+        {
+          "id": "ex_rd_true_false_not_given_27",
+          "title": "Exercise 27",
+          "type": "tfng",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_true_false_not_given_28",
+          "title": "Exercise 28",
+          "type": "tfng",
+          "question_count": 9
+        },
+        {
+          "id": "ex_rd_true_false_not_given_29",
+          "title": "Exercise 29",
+          "type": "tfng",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_true_false_not_given_30",
+          "title": "Exercise 30",
+          "type": "tfng",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_true_false_not_given_31",
+          "title": "Exercise 31",
+          "type": "tfng",
+          "question_count": 7
+        },
+        {
+          "id": "ex_rd_true_false_not_given_32",
+          "title": "Exercise 32",
+          "type": "tfng",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_true_false_not_given_33",
+          "title": "Exercise 33",
+          "type": "tfng",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_true_false_not_given_34",
+          "title": "Exercise 34",
+          "type": "tfng",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_true_false_not_given_35",
+          "title": "Exercise 35",
+          "type": "tfng",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_true_false_not_given_36",
+          "title": "Exercise 36",
+          "type": "tfng",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_true_false_not_given_37",
+          "title": "Exercise 37",
+          "type": "tfng",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_true_false_not_given_38",
+          "title": "Exercise 38",
+          "type": "tfng",
+          "question_count": 8
+        }
+      ]
+    },
+    {
+      "category_id": "yes_no_not_given",
+      "category_name": "Yes No Not Given",
+      "description": "IELTS Reading Yes No Not Given exercises.",
+      "exercises": [
+        {
+          "id": "ex_rd_yes_no_not_given_01",
+          "title": "Exercise 1",
+          "type": "ynng",
+          "question_count": 8
+        },
+        {
+          "id": "ex_rd_yes_no_not_given_02",
+          "title": "Exercise 2",
+          "type": "ynng",
+          "question_count": 4
+        },
+        {
+          "id": "ex_rd_yes_no_not_given_03",
+          "title": "Exercise 3",
+          "type": "ynng",
+          "question_count": 8
+        },
+        {
+          "id": "ex_rd_yes_no_not_given_04",
+          "title": "Exercise 4",
+          "type": "ynng",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_yes_no_not_given_05",
+          "title": "Exercise 5",
+          "type": "ynng",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_yes_no_not_given_06",
+          "title": "Exercise 6",
+          "type": "ynng",
+          "question_count": 3
+        },
+        {
+          "id": "ex_rd_yes_no_not_given_07",
+          "title": "Exercise 7",
+          "type": "ynng",
+          "question_count": 5
+        },
+        {
+          "id": "ex_rd_yes_no_not_given_08",
+          "title": "Exercise 8",
+          "type": "ynng",
+          "question_count": 6
+        },
+        {
+          "id": "ex_rd_yes_no_not_given_09",
+          "title": "Exercise 9",
+          "type": "ynng",
+          "question_count": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_matching_information_05",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MATCHING%20INFORMATION%20TO%20CATEGORIES%2005.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. What about you, George? Have you got any ideas about where you can get a work placement?</p><p><strong>Speaker 2:</strong> Well, there's the exploration scheme.</p><p><strong>Speaker 3:</strong> Oh, yes, I heard about that. I've never heard of it.</p><p><strong>Speaker 2:</strong> I don't think you'd be eligible for it, Sarah. It's designed for people who work in industry or construction.</p><p><strong>Speaker 1:</strong> That sounds right up your street, George.</p><p><strong>Speaker 2:</strong> Well, I've been looking into it, and it looks OK at first glance. But I have some reservations.</p><p><strong>Speaker 1:</strong> The application process is simple, and there are loads of options to choose from, but...</p><p><strong>Speaker 3:</strong> Oh, so there's no competition for places at all?</p><p><strong>Speaker 2:</strong> I think it's first come, first served. The earlier you apply, the more likely you are to get on the program you like. It's not like the OTS. You're pretty much guaranteed a placement.</p><p><strong>Speaker 1:</strong> So what's the problem then?</p><p><strong>Speaker 2:</strong> Well, all the placements are in Europe. I really want to go to the USA or Canada.</p><p><strong>Speaker 3:</strong> Even so, there are some great places in Europe.</p><p><strong>Speaker 2:</strong> Yeah, but I'm hopeless at languages.</p><p><strong>Speaker 3:</strong> All the more reason why you should go. It's important to learn other languages. Where did the Overseas Training Scheme allow you to travel, Lisa?</p><p><strong>Speaker 1:</strong> Anywhere in the world.</p><p><strong>Speaker 2:</strong> That's lucky. The programs on the Exploration Scheme aren't all work programs, are they, George?</p><p><strong>Speaker 2:</strong> Some of them involve work and study.</p><p><strong>Speaker 1:</strong> Yes, but I'm not interested in those placements.</p><p><strong>Speaker 3:</strong> I’m not surprised. Studying in another language, now that would be hard.</p><p><strong>Speaker 2:</strong> I think the study courses are all in English, actually. So that's not the reason I'm not interested. I just want a break from studying. I'm sick of all the tests and assignments. I feel as if I've been doing them all my life.</p><p><strong>Speaker 1:</strong> Well, the work placements sound ideal, then.</p><p><strong>Speaker 2:</strong> I suppose so. But the real problem is money.</p><p><strong>Speaker 3:</strong> Aren't the work placements paid?</p><p><strong>Speaker 2:</strong> A few are, but most aren't. And you definitely don't get things like accommodation and flights paid for, like you do on the OTS scheme.</p><p><strong>Speaker 1:</strong> I think you should still try for it, though, George. It should be a great experience for you, and it'll probably help you to get a job in the future.</p><p><strong>Speaker 2:</strong> You're bound to be able to get a loan from the bank to cover those costs.</p><p><strong>Speaker 3:</strong> Maybe, but I'm still going to keep an eye out for other options.</p>"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_26",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2026.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Now you will want to know how much everything is going to cost. Our season runs from September to April. The whole season's training costs $150 if paid in one go at the start of the season. However, you can pay $25 monthly at the start of each training month. There is a difference, therefore, of $50 if you pay at the start of the season. </p><p><strong>Speaker 1:</strong> All payments to the club must be done by bank transfer. The fees also include health and accident insurance during your child's time practicing or playing matches with us, at home or away matches. The insurance does not cover travel to and from soccer. </p><p><strong>Speaker 1:</strong> Match fees are extra. Home and away matches cost $5, but if we have to hire a bus to take the team together to a match further afield, then you will need to pay your share of these transport costs. </p><p><strong>Speaker 1:</strong> Details of which children picked to play for the team will be given out every Wednesday before the match weekend, and the directions to the venue along with any other necessary travel costs will be outlined then. All details will also appear on the club website. </p><p><strong>Speaker 1:</strong> One important thing that we insist on is the signing of a contract by the children and the parents. This gives the expectations of behavior for the players and the parents watching. </p><p><strong>Speaker 1:</strong> Parents are, of course, extremely welcome to watch training sessions and to come to matches, but we insist that parents be models to our many children, and we do not accept any inappropriate behavior towards our players, opposition teams and staff, and the match officials. </p><p><strong>Speaker 1:</strong> Finally, we all know that many kids are mad about soccer, but we recognize that schoolwork should come first. Therefore, we would like to work closely with you, the parents, so that we know that each child's homework and schoolwork is going well and that academics do not suffer because of too much soccer. </p><p><strong>Speaker 1:</strong> Therefore, if there is a problem, please keep in contact with your child's age group coach by email so that he or she can include or exclude the child for match selections. If used properly, our club can be a useful way of encouraging your child to do his or her homework.</p>"
+    }
+  ]
+}

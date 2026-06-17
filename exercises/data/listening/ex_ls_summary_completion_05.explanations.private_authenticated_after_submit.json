@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_summary_completion_05",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q26": {
+      "explanation": "Người nói đang thông báo về một sự thay đổi trong lịch trình học tập của sinh viên trước kỳ thi. Thông tin giúp tìm ra đáp án là cụm từ \"reading week,\" được nhắc đến như một thời gian không có lớp học, chỉ có hai buổi hội thảo về kỹ thuật thi. Paraphrase quan trọng ở đây là \"reading week,\" có thể hiểu là thời gian dành cho việc ôn tập và chuẩn bị cho kỳ thi. Bẫy có thể là sự nhầm lẫn với các hoạt động khác trong tuần đó, nhưng rõ ràng \"reading week\" là cụm từ chính xác nhất. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã đề cập.",
+      "evidence": "First of all, the week before the first and second semester exams, we've got a reading week."
+    },
+    "q27": {
+      "explanation": "Người nói đang mô tả các hoạt động sẽ diễn ra trong tuần đọc sách. Thông tin quan trọng là \"two optional seminars,\" cho thấy rằng đây là những buổi học không bắt buộc mà sinh viên có thể tham gia nếu muốn. Paraphrase quan trọng là \"optional seminars,\" có nghĩa là các buổi hội thảo không bắt buộc. Bẫy có thể là việc sinh viên nghĩ rằng tất cả các buổi học đều bắt buộc, nhưng rõ ràng là chỉ có hai buổi hội thảo này là tùy chọn. Đáp án đúng vì nó chính xác mô tả loại hình hoạt động mà sinh viên có thể tham gia.",
+      "evidence": "apart from two optional seminars on exam techniques."
+    },
+    "q28": {
+      "explanation": "Người nói đang đề cập đến các lớp học bổ sung dành cho sinh viên có khó khăn trong môn toán. Thông tin giúp tìm ra đáp án là cụm từ \"extra help lessons,\" cho thấy đây là những buổi học nhằm hỗ trợ sinh viên. Paraphrase quan trọng là \"help lessons,\" có thể hiểu là các buổi học nhằm giúp đỡ sinh viên. Bẫy có thể là việc sinh viên nghĩ rằng chỉ có các lớp học chính thức, nhưng thực tế có các buổi học hỗ trợ thêm. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã đề cập.",
+      "evidence": "there are extra help lessons in maths."
+    },
+    "q29": {
+      "explanation": "Người nói đang mô tả về một dịch vụ mới mà trường đại học cung cấp, đó là một bàn trợ giúp điện tử. Thông tin giúp tìm ra đáp án là cụm từ \"trial project,\" cho thấy đây là một dự án thử nghiệm. Paraphrase quan trọng là \"trial project,\" có nghĩa là một dự án đang trong giai đoạn thử nghiệm. Bẫy có thể là việc sinh viên nghĩ rằng dịch vụ này sẽ được duy trì lâu dài, nhưng thực tế là nó chỉ là một thử nghiệm. Đáp án đúng vì nó phản ánh chính xác tình trạng của dịch vụ này.",
+      "evidence": "This is just a trial project, though, to see if it works."
+    },
+    "q30": {
+      "explanation": "Người nói đang nói về việc tăng cường sự hỗ trợ từ các cố vấn cho sinh viên gặp khó khăn về tâm lý. Thông tin giúp tìm ra đáp án là cụm từ \"problems with stress,\" cho thấy đây là những vấn đề liên quan đến cảm xúc. Paraphrase quan trọng là \"emotional problems,\" có thể hiểu là các vấn đề về tâm lý và cảm xúc. Bẫy có thể là việc sinh viên nghĩ rằng chỉ có vấn đề học tập mới cần được hỗ trợ, nhưng thực tế là vấn đề cảm xúc cũng rất quan trọng. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã đề cập.",
+      "evidence": "to help students who have problems with stress."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now, answer the questions on your screen.</p><p><strong>Speaker 2:</strong> So, what about the exams? They said that they would give us more help with preparation this year, after the awful results last year.</p><p><strong>Speaker 1:</strong> They've done a number of things. First of all, the week before the first and second semester exams, we've got a reading week. There are no classes at all in this week, apart from two optional seminars on exam techniques.</p><p><strong>Speaker 2:</strong> Well, that's a good start. Anything else?</p><p><strong>Speaker 1:</strong> Yes, because of the heavy maths element in some of the courses, there are extra help lessons in maths. These are going to be at the end of the usual working day, from 6 o'clock to half past 7. There'll always be three teachers who will be there to teach or revise all the maths skills that will be needed to get through the exams.</p><p><strong>Speaker 2:</strong> Ah, that will be really useful for me. I mean, I'm not bad at maths, but some of the things that they do in economics stretch me too far.</p><p><strong>Speaker 1:</strong> There'll also be extra help in all the other classes. The department is setting up what they're calling academic labs. Each week, all the teachers will provide a one-hour slot, either before class at half past 7 in the morning, at lunch break, or after classes are over. In these labs, the teachers can explain again concepts that the students haven't understood or look at problems with assignments.</p><p><strong>Speaker 2:</strong> It seems like they're taking things seriously this year.</p><p><strong>Speaker 1:</strong> I know. It's a good thing. Another thing that they've done is that there'll be an electronic help desk available for four months. You can email your academic problem and an administrator will forward the mail to an appropriate teacher. This is just a trial project, though, to see if it works.</p><p><strong>Speaker 2:</strong> How do we get the email address for the help desk?</p><p><strong>Speaker 1:</strong> It's on the business department website. Finally, the Students' Union has engaged more access to counsellors to help students who have problems with stress. In that way, the students can get help and deal with their emotional problems rather than just dropping out of the course.</p><p><strong>Speaker 2:</strong> Well, that's a lot of new information. Thanks a lot.</p>"
+}

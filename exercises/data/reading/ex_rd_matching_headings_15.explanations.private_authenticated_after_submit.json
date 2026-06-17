@@ -1,0 +1,44 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_15",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Originally, crop duster planes used dry chemicals in order to treat crops, which is how they earned their name. When most people think of crop dusting, they picture a grizzled old man in an ancient biplane, flying low over a field.\". Heading iii (A Change in Terminology) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Originally, crop duster planes used dry chemicals in order to treat crops, which is how they earned their name. When most people think of crop dusting, they picture a grizzled old man in an ancient biplane, flying low over a field._"
+    },
+    "q2": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Concerns have been voiced over the years about the chemicals sprayed by crop dusters. Some chemicals are detrimental to people’s health, especially if they have respiratory problems, and there have been accusations of gardens being destroyed by dispersed chemicals.\". Heading vi (Controversy around Crop Dusting) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Concerns have been voiced over the years about the chemicals sprayed by crop dusters. Some chemicals are detrimental to people’s health, especially if they have respiratory problems, and there have been accusations of gardens being destroyed by dispersed chemicals._"
+    },
+    "q3": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Aerial application is often the only, or most economical, method for timely pesticide application. It allows large and often remote areas to be treated far faster than by any other form of application.\". Heading i (Why Do We Need Crop Dusters?) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Aerial application is often the only, or most economical, method for timely pesticide application. It allows large and often remote areas to be treated far faster than by any other form of application._"
+    },
+    "q4": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Even though they are known as crop dusters, agricultural planes also perform many other functions to assist farmers. Although most crop dusters are used to spray crops with pesticide, planes and helicopters are also used to seed rice and wheat, defoliate cotton prior to harvest, fight forest and grassland fires, protect forests, drop food for fish farms, melt snow and control mosquitoes that threaten public health.\". Heading x (Various Roles of Crop Dusters) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Even though they are known as crop dusters, agricultural planes also perform many other functions to assist farmers. Although most crop dusters are used to spray crops with pesticide, planes and helicopters are also used to seed rice and wheat, defoliate cotton prior to harvest, fight forest and grassland fires, protect forests, drop food for fish farms, melt snow and control mosquitoes that threaten public health._"
+    },
+    "q5": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Aerial application is one of the most demanding career choices for a flier, next to flying a jet fighter. The crop dusting planes usually fly at very low altitudes and must be manoeuvred around obstacles, as they attempt to keep seeds and chemicals contained to the fields and away from homes or roadways.\". Heading vii (Pilot Skills) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Aerial application is one of the most demanding career choices for a flier, next to flying a jet fighter. The crop dusting planes usually fly at very low altitudes and must be manoeuvred around obstacles, as they attempt to keep seeds and chemicals contained to the fields and away from homes or roadways._"
+    },
+    "q6": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"At first, the planes used for aerial application were war surplus. One of the most familiar is the Second World War trainer, the open-cockpit Stearman biplane.\". Heading v (Plane Development) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "At first, the planes used for aerial application were war surplus. One of the most familiar is the Second World War trainer, the open-cockpit Stearman biplane._"
+    },
+    "q7": {
+      "explanation": "Đoạn H tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Clearly, an industry of this scope requires regulation, and the body that is responsible for this in the United States is the National Agriculture Aviation Association (NAAA). According to their records, aerial application operations are located in 44 states all over the country.\". Heading ix (Overseeing the Practice) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Clearly, an industry of this scope requires regulation, and the body that is responsible for this in the United States is the National Agriculture Aviation Association (NAAA). According to their records, aerial application operations are located in 44 states all over the country._"
+    }
+  }
+}

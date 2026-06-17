@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_54",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2054.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> Can I just ask a couple of questions about the course?  </p><p><strong>Speaker 2:</strong> Of course.  </p><p><strong>Speaker 1:</strong> So what will be the date of my first class?  </p><p><strong>Speaker 2:</strong> The first day of the term is April the 15th, but your course is on Fridays, so April the 19th will be your first session.  </p><p><strong>Speaker 1:</strong> Okay, thank you. I'll make a note of that. And how will I find my class?  </p><p><strong>Speaker 2:</strong> You mean where is it?  </p><p><strong>Speaker 1:</strong> Exactly.  </p><p><strong>Speaker 2:</strong> You need to go to the Folward building. Your class is in there.  </p><p><strong>Speaker 1:</strong> Oh, would you mind spelling that for me?  </p><p><strong>Speaker 2:</strong> Sure. F-O-L-L-Ward. It's clearly signposted from the college car park.  </p><p><strong>Speaker 1:</strong> Oh, speaking of parking, will I be able to use the one at the college?  </p><p><strong>Speaker 2:</strong> It's only for students on full-time courses, I'm afraid, and staff, of course.  </p><p><strong>Speaker 1:</strong> What about the surgery car park across the road from the college?  </p><p><strong>Speaker 2:</strong> That's what I would suggest. They'll be closed by then, and they're happy for their car park to be used. People used to use the library car park next to the college, but we've been asked not to let people park there.  </p><p><strong>Speaker 1:</strong> All right, fair enough. A friend of mine did this course last year, and she said the first thing she produced was a bowl. Do you know if they still do that?  </p><p><strong>Speaker 2:</strong> Let me just check. Yes, that's right. In week one. And that's followed by a mug in week two.  </p><p><strong>Speaker 1:</strong> Well, let's see how I get on.  </p><p><strong>Speaker 2:</strong> Sure. So, if we can sort out the payment next, how would you like to pay?</p>"
+    }
+  ]
+}

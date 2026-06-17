@@ -1,0 +1,25 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_18",
+  "module": "listening",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q9": {
+      "explanation": "Người nói (Kirsty) đang nói về việc cô ấy đã thông báo cho công ty thẻ tín dụng về việc mất thẻ tín dụng của mình. Câu trả lời đúng là C, vì cô ấy đã thông báo cả cho cảnh sát và công ty thẻ tín dụng. Thông tin giúp tìm ra đáp án là câu nói của Kirsty khi cô ấy xác nhận rằng cô đã hủy thẻ với công ty thẻ tín dụng, điều này ngụ ý rằng cô đã liên hệ với họ. Paraphrase quan trọng ở đây là \"cancelled the card\" có nghĩa là đã thông báo cho công ty thẻ tín dụng. Bẫy có thể là sự nhầm lẫn giữa việc chỉ thông báo cho một trong hai bên, nhưng câu nói rõ ràng xác nhận rằng cô đã làm cả hai việc. Vì vậy, đáp án đúng là C.",
+      "evidence": "Yes, and I've also cancelled the card with the credit card company."
+    },
+    "q10": {
+      "explanation": "Người nói (John) đang hướng dẫn Kirsty về những gì cô ấy cần làm sau cuộc gọi liên quan đến việc mất túi xách của mình. Đáp án đúng là C, vì John nói rằng nếu Kirsty không nhận được cuộc gọi trong vòng một tiếng rưỡi, cô ấy nên gọi lại. Thông tin này rất rõ ràng trong câu nói của John. Paraphrase quan trọng là \"call back after 1½ hours if she has heard nothing,\" điều này có nghĩa là nếu không có thông tin gì trong thời gian đó, cô ấy cần phải chủ động liên hệ lại. Bẫy ở đây có thể là sự nhầm lẫn giữa việc chỉ cần chờ đợi hoặc gọi lại mà không có điều kiện, nhưng câu nói rõ ràng yêu cầu hành động nếu không có cuộc gọi. Do đó, đáp án đúng là C.",
+      "evidence": "If you haven't had a call within an hour and a half, call back this number and ask for me."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Have you informed the police about the loss of the card?</p><p><strong>Speaker 2:</strong> Yes, and I've also cancelled the card with the credit card company.</p><p><strong>Speaker 1:</strong> Right. Now, what I'll do is to contact the lost property, which is where your bag would have gone if it was found. I'll give you a call back within an hour and tell you what the situation is. If you haven't had a call within an hour and a half, call back this number and ask for me. My name is John. OK?</p>"
+}

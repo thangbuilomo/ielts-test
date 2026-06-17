@@ -1,0 +1,57 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_46",
+  "module": "listening",
+  "question_count": 10,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q31": {
+      "explanation": "Người nói đang mô tả cách mà lửa Hy Lạp được sử dụng trong chiến tranh, cụ thể là để đốt cháy tàu của kẻ thù. Thông tin giúp tìm ra đáp án là cụm từ \"set fire to the ships\", chỉ rõ đối tượng mà lửa Hy Lạp nhắm đến. Paraphrase quan trọng ở đây là \"set fire to\" có thể hiểu là \"đốt cháy\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ nào có thể gây nhầm lẫn. Đáp án đúng là \"ships\" vì nó chính xác mô tả đối tượng bị tấn công bởi lửa Hy Lạp.",
+      "evidence": "Greek fire enabled the Byzantines to set fire to the ships of whoever they were fighting against..."
+    },
+    "q32": {
+      "explanation": "Người nói đang giải thích về tính chất đặc biệt của lửa Hy Lạp, đó là nó có thể cháy ngay cả khi tiếp xúc với nước. Thông tin giúp tìm ra đáp án là cụm từ \"when it came into contact with water\", cho thấy rằng nước không thể dập tắt lửa Hy Lạp. Paraphrase quan trọng là \"came into contact with\" có thể hiểu là \"tiếp xúc với\". Không có bẫy trong câu này, vì thông tin rất rõ ràng. Đáp án đúng là \"water\" vì nó chính xác mô tả điều kiện mà lửa Hy Lạp vẫn tiếp tục cháy.",
+      "evidence": "it would just carry on burning... when it came into contact with water..."
+    },
+    "q33": {
+      "explanation": "Người nói đang đề cập đến một trong những chất có thể dập tắt lửa Hy Lạp, đó là giấm. Thông tin giúp tìm ra đáp án là cụm từ \"Vinegar seems to have worked\", cho thấy giấm có thể là một giải pháp. Paraphrase quan trọng là \"seems to have worked\" có thể hiểu là \"dường như có tác dụng\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là \"vinegar\" vì nó là chất duy nhất được nhắc đến có khả năng dập tắt lửa Hy Lạp.",
+      "evidence": "Vinegar seems to have worked, but this isn't likely to have been something that was readily available..."
+    },
+    "q34": {
+      "explanation": "Người nói đang mô tả cách thức mà lửa Hy Lạp được chuẩn bị và sử dụng trong chiến tranh. Thông tin giúp tìm ra đáp án là cụm từ \"packed into pots\", chỉ rõ hình thức chứa đựng của chất lửa. Paraphrase quan trọng là \"packed into\" có thể hiểu là \"đóng gói vào\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là \"pots\" vì nó chính xác mô tả vật chứa lửa Hy Lạp.",
+      "evidence": "the inflammable substance that we refer to as Greek fire was actually liquid in form and it was packed into pots..."
+    },
+    "q35": {
+      "explanation": "Người nói đang nói về sự bí mật xung quanh thành phần của lửa Hy Lạp, điều này rất quan trọng để giữ lợi thế quân sự. Thông tin giúp tìm ra đáp án là cụm từ \"had to be a secret\", cho thấy tính chất bí mật của việc sản xuất lửa Hy Lạp. Paraphrase quan trọng là \"had to be a secret\" có thể hiểu là \"phải là một bí mật\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là \"secret\" vì nó chính xác mô tả tính chất của thành phần lửa Hy Lạp.",
+      "evidence": "the actual composition of Greek fire had to be a secret..."
+    },
+    "q36": {
+      "explanation": "Người nói đang mô tả một trong những nguyên liệu có thể có để sản xuất lửa Hy Lạp, cụ thể là nhựa từ cây thông. Thông tin giúp tìm ra đáp án là cụm từ \"resin was obtained from wood in the pine forest\", chỉ rõ nguồn gốc của nhựa. Paraphrase quan trọng là \"obtained from wood\" có thể hiểu là \"lấy từ gỗ\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là \"pine\" vì nó chính xác mô tả loại cây mà nhựa được lấy từ đó.",
+      "evidence": "resin was obtained from wood in the pine forest..."
+    },
+    "q37": {
+      "explanation": "Người nói đang nói về một trong những nguyên liệu quan trọng khác để sản xuất lửa Hy Lạp, đó là dầu. Thông tin giúp tìm ra đáp án là cụm từ \"where oil can be found\", cho thấy sự hiện diện của dầu trong quá trình sản xuất. Paraphrase quan trọng là \"can be found\" có thể hiểu là \"có thể tìm thấy\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là \"oil\" vì nó chính xác mô tả một trong những nguyên liệu cần thiết để sản xuất lửa Hy Lạp.",
+      "evidence": "the Byzantines also controlled areas where oil can be found close to the surface of the earth..."
+    },
+    "q38": {
+      "explanation": "Người nói đang mô tả một sự kiện lịch sử khi một quân đội Bulgaria cố gắng sao chép lửa Hy Lạp nhưng không thành công. Thông tin giúp tìm ra đáp án là cụm từ \"unable to copy it\", chỉ rõ hành động mà quân đội Bulgaria đã cố gắng thực hiện. Paraphrase quan trọng là \"unable to copy\" có thể hiểu là \"không thể sao chép\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là \"copy\" vì nó chính xác mô tả hành động mà quân đội Bulgaria đã cố gắng thực hiện.",
+      "evidence": "they were unable to copy it."
+    },
+    "q39": {
+      "explanation": "Người nói đang nói về những báo cáo đương thời về lửa Hy Lạp, cụ thể là lượng khói mà nó tạo ra. Thông tin giúp tìm ra đáp án là cụm từ \"enormous amount of smoke\", chỉ rõ điều mà người ta đã quan sát được. Paraphrase quan trọng là \"enormous amount of\" có thể hiểu là \"lượng lớn\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là \"smoke\" vì nó chính xác mô tả hiện tượng đi kèm với việc sử dụng lửa Hy Lạp.",
+      "evidence": "described the enormous amount of smoke that would appear whenever Greek fire was discharged..."
+    },
+    "q40": {
+      "explanation": "Người nói đang mô tả một khía cạnh khác của lửa Hy Lạp, đó là tiếng ồn mà nó tạo ra khi được sử dụng. Thông tin giúp tìm ra đáp án là cụm từ \"deafening noise\", chỉ rõ âm thanh mà người ta đã nghe thấy. Paraphrase quan trọng là \"deafening noise\" có thể hiểu là \"tiếng ồn lớn\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là \"noise\" vì nó chính xác mô tả hiện tượng âm thanh đi kèm với việc sử dụng lửa Hy Lạp.",
+      "evidence": "described the absolutely deafening noise there would be all of a sudden whenever Greek fire was used."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You will hear part of a history lecture about a weapon known as Greek fire. You now have some time to look at the questions on your screen. Now, answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Hello, everyone. Today, I'd like to continue our lecture series on medieval warfare. I shall be telling you today about a weapon known as Greek fire, which was an early form of chemical weapon dating back to around the 7th century. It was most probably developed by the Byzantines, the people who lived around what is now Istanbul in Turkey. </p><p><strong>Speaker 2:</strong> Now, in battle, Greek fire enabled the Byzantines to set fire to the ships of whoever they were fighting against and to do so from a distance. This gave them a massive military advantage over their enemies. </p><p><strong>Speaker 2:</strong> We do know that Greek fire was a terrifying weapon that proved particularly effective because unlike the majority of substances, when it came into contact with water, it would just carry on burning. It also had the property of sticking to whatever it touched. So, you see, what made Greek fire such a devastating weapon is that once it was burning, it was incredibly difficult to extinguish. </p><p><strong>Speaker 2:</strong> Vinegar seems to have worked, but this isn't likely to have been something that was readily available to the average medieval soldier in the middle of a battle. And so, anyone under attack from Greek fire really had very limited options in terms of actually putting the flames out. </p><p><strong>Speaker 2:</strong> The inflammable substance that we refer to as Greek fire was actually liquid in form and it was packed into pots which were then shot into the air and towards the enemy using a catapult. These would then shatter when they landed and the area affected would burst into flames, often with devastating effect. </p><p><strong>Speaker 2:</strong> So, what did Greek fire consist of and how was it made? Well, the answer is that we don't really know for sure. The reason that so little is known is that the actual composition of Greek fire had to be a secret because the Byzantines, understandably, didn't want to lose the military advantage that it gave them. </p><p><strong>Speaker 2:</strong> So, we have to try and work out as best we can what the raw materials might have been and how the Byzantines produced it. One thing we know is that the substance was sticky and it is likely that resin was obtained from wood in the pine forest which covered so much of the Byzantines' territory at the time. This was almost certainly used to make Greek fire. </p><p><strong>Speaker 2:</strong> Clearly, access to the raw materials needed to produce it was absolutely essential and one of these was sulfur. The Byzantines also controlled areas where oil can be found close to the surface of the earth, so this was almost certainly another of the key components. </p><p><strong>Speaker 2:</strong> One key objective for the Byzantines in any military campaign was to prevent the Greek fire from being captured by the enemy. However, in the year 812, an army from Bulgaria managed to do just that. They removed some Greek fire intact and unburned, but however hard they tried, they were unable to copy it. If they had managed, well, we can only guess whether that could have affected the balance of power in the region. </p><p><strong>Speaker 2:</strong> There are some surviving contemporary reports of Greek fire and I'd like to start around the year 900 with an account by the Byzantine Emperor Leo VI, perhaps writing to intimidate potential enemies, who described the enormous amount of smoke that would appear whenever Greek fire was discharged by his army. </p><p><strong>Speaker 2:</strong> Another account is from Lord of Joinville, a writer from France who lived in the 13th century. He described the absolutely deafening noise there would be all of a sudden whenever Greek fire was used. When you read these contemporary accounts, presumably from people describing what they themselves had witnessed, it really gets across how terrifying Greek fire must have been.</p>"
+}

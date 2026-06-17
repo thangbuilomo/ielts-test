@@ -1,0 +1,101 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_matching_headings_11",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 6,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "matching_headings",
+  "category_id": "matching_headings",
+  "title": "Matching Headings To Paragraphs - Exercise 11",
+  "duration_seconds": 0,
+  "content": {
+    "title": "Sleep-ins for High School Students",
+    "content_html": "<h1>MATCHING HEADINGS TO PARAGRAPHS 11</h1>\n<h2>Sleep-ins for High School Students</h2>\n<p><strong>A\n</strong>A high school in the northeast of England has experienced an astonishing drop in absenteeism following the introduction of a later 10.00 a.m. start time. Appleton High School’s general absence rate has fallen by 8 per cent, while levels of persistent absenteeism have dropped by a massive 27 per cent since the mid-morning start time was brought in. The decision, which has been in place since October for 13 - 19-year-olds, was introduced following research claims that teenagers were more mentally and physically prepared for school work later in the day, and that the afternoon was the optimum time for memory activity for the age group. While the experiment has resulted in a clear improvement in absenteeism at the school, it remains to be seen whether it will have the same effect on grades in the students’ work.</p>\n<p><strong>B\n</strong>Since 1996, Kyle Strom and his research team at the Center for Educational Improvement (CEI) in the United States have led the way in the study of later start times for high school students. Strom claims that emerging medical research shows adolescents have natural sleep phases that lead to a late-to-bed, late-to-rise cycle. Medical researchers found this cycle is part of the maturation of the endocrine system. From the onset of puberty until late teen years, the brain chemical melatonin, which is responsible for sleepiness, is secreted from approximately 11.00 p.m. until approximately 8.00 a.m., 9 hours later. This secretion is based on human circadian rhythms and is rather fixed. In other words, typical teenagers are not able to fall asleep much before 11.00 p.m. and their brains will remain in sleep mode until about 8.00 a.m., regardless of what time they go to bed.</p>\n<p><strong>C\n</strong>These adolescent sleep patterns can have profound consequences for education. With classes in most high schools in the United States starting at around 7.15 a.m., high school students tend to rise at about 5.00 or 6.00 a.m. in order to get ready and catch the bus. It is no wonder that 20 per cent of students sleep during their first 2 hours of school, when their brains and bodies are still in a biological sleep mode. The loss of adequate sleep each night also results in a “sleep debt” for most teenagers. Those who are sleep-deprived or functioning with a sleep debt are shown to be more likely to experience symptoms such as depression, difficulty relating to peers, school staff and parents, and are more likely to use alcohol and other drugs.</p>\n<p><strong>D\n</strong>Data collected from two high school districts, Johnstone, a suburban district that changed its high school start times from 7.20 to 8.30, and the Highlands, that changed its start times from 7.15 to 8.40, provided Strom and his colleagues with information regarding the work, sleep and school habits of over 7,000 secondary students, over 3,000 teachers, and interview data from over 750 parents about their preferences and beliefs about the starting time of school. The study has laid the groundwork for similar changes in other school districts, supplying concrete results of putting the research into practice. For example, the majority of Johnstone parents were initially opposed to the late start scheme due to concerns about the effect of later starts on such logistical issues as bus times, athletics and child care for younger students. But at the end of the first year of implementation, 92 per cent of respondents of a survey for Johnstone high school parents indicated that they preferred the later start times. Data also showed that there was a significant reduction in school dropout rates and less depression. Schools also reported students getting higher grades. This research has had a major impact nationally. Strom receives numerous inquiries on a daily basis from teachers, superintendents, parents and school nurses all over the nation requesting more information about the findings of their research and how they can use that research to change policies in their schools.</p>\n<p><strong>E\n</strong>Patricia Brite, programme director for the National Sleep Foundation in the London area, supports the theories. “We like what we have seen in the study and the feedback from schools has backed it up too.” Brite goes on to say that she has been contacted by over 50 heads of London schools who are all giving the same message. “What they’re telling me,” Brite says, “is that the theory has the support of teachers, students and governors. With support like that, there has to be a lot of sense in the proposals.”</p>\n<p><strong>F\n</strong>The School Start Time Study effectively reveals to adult policy-makers that high school students can benefit from later school start times. While the concept that teenagers have a distinctly different sleep pattern was first recognised by medical research findings, it is only through examination of actual cases where these findings were used as a basis to change school policies that educators can understand the ramifications of making such a change. The case studies done by Strom and his colleagues provide research-based information for school districts across countries that are now seeking to make informed decisions for their own communities.</p>\n<p><strong>G\n</strong>Not every school trying the late start scheme has found it a success though. In Cape Town, South Africa, the scheme was abandoned after 3 months at a try-out school. The school superintendent reports: “While we found the idea of a late start very exciting for our students, in the end the philosophy was too different to the tradition that our students were used to. It messed up their schedules, especially sport times, and, after the short trial, the school student council approached the school board and requested the abandonment of the scheme.” Clearly then, the scheme is not for everyone or every school.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_matching_headings_11.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_matching_headings_11.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "matching_headings",
+          "skill_tags": [
+            "rd_matching_headings"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 15 - 20</strong></p>\n<p>The text has seven paragraphs. Choose the correct heading for each paragraph. Write the appropriate number (i - x).</p>\n<table>\n<tr>\n<td>*Example*</td>\n<td>*Answer*</td>\n</tr>\n<tr>\n<td>Paragraph A</td>\n<td><strong>*iv</strong>*</td>\n</tr>\n</table>\n\n<p>15 Paragraph B</p>\n<p>16 Paragraph C</p>\n<p>17 Paragraph D</p>\n<p>18 Paragraph E</p>\n<p>19 Paragraph F</p>\n<p>20 Paragraph G</p>\n<table>\n<tr>\n<td><strong>i</strong></td>\n<td>The Education Sector Speaks</td>\n</tr>\n<tr>\n<td><strong>ii</strong></td>\n<td>Evidence Supporting the Need for Change</td>\n</tr>\n<tr>\n<td><strong>iii</strong></td>\n<td>Research Weaknesses</td>\n</tr>\n<tr>\n<td><strong>iv</strong></td>\n<td>English School Has Surprising Results</td>\n</tr>\n<tr>\n<td><strong>v</strong></td>\n<td>An Unsuccessful Experiment</td>\n</tr>\n<tr>\n<td><strong>vi</strong></td>\n<td>Study Educates Change-orientated Schools</td>\n</tr>\n<tr>\n<td><strong>vii</strong></td>\n<td>Teenage Sleep Patterns</td>\n</tr>\n<tr>\n<td><strong>viii</strong></td>\n<td>More Late Nights for Teenagers</td>\n</tr>\n<tr>\n<td><strong>ix</strong></td>\n<td>Information from Two Test Areas</td>\n</tr>\n<tr>\n<td><strong>x</strong></td>\n<td>Challenges in the Courts</td>\n</tr>\n</table>",
+          "items": [
+            {
+              "question_id": "q15",
+              "number": 15,
+              "prompt_html": "Paragraph B",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q16",
+              "number": 16,
+              "prompt_html": "Paragraph C",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q17",
+              "number": 17,
+              "prompt_html": "Paragraph D",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q18",
+              "number": 18,
+              "prompt_html": "Paragraph E",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q19",
+              "number": 19,
+              "prompt_html": "Paragraph F",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q20",
+              "number": 20,
+              "prompt_html": "Paragraph G",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            15,
+            20
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

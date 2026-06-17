@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_map_labelling_07",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Trong đoạn hội thoại, người nói đang mô tả vị trí của các công trình trong khu bảo tồn thiên nhiên. Câu này cung cấp thông tin rõ ràng về vị trí của nhà kho dụng cụ (tool shed), cho biết nó nằm phía sau kho gỗ (wood store) và bên trái con đường. Điều này giúp người nghe xác định được vị trí của nhà kho dụng cụ trên bản đồ. Cụm từ \"behind it\" (phía sau nó) là paraphrase quan trọng, giúp người nghe hiểu rằng nhà kho dụng cụ nằm ở vị trí sau kho gỗ. Không có bẫy nào trong câu này, vì thông tin rất rõ ràng và trực tiếp liên quan đến câu hỏi.",
+      "evidence": "Lying to the left of the path, there are two small outbuildings, the wood store, and behind it the tool shed."
+    },
+    "q12": {
+      "explanation": "Người nói đang chỉ dẫn về khu vực Rừng Non (Young Wood) và mô tả nó là nơi có những cây non mới được trồng. Câu này cung cấp thông tin trực tiếp về tên gọi của khu vực, giúp người nghe dễ dàng xác định vị trí trên bản đồ. Cụm từ \"area of saplings\" (khu vực có những cây non) là paraphrase cần chú ý, vì nó giúp người nghe hiểu rõ hơn về đặc điểm của khu vực này. Không có bẫy nào trong câu này, vì thông tin rất cụ thể và không gây nhầm lẫn.",
+      "evidence": "This same path leads up to an area of saplings, which are small, recently planted trees, and we call this area the Young Wood."
+    },
+    "q13": {
+      "explanation": "Trong câu này, người nói đang nhắc đến Hồ Vịt Con (Duckling Pond) và cảnh báo về việc một số tình nguyện viên đã từng bơi ở đó. Thông tin này giúp người nghe nhận diện vị trí của hồ trên bản đồ. Cụm từ \"unexpected swims\" (bơi bất ngờ) là một paraphrase quan trọng, thể hiện rằng hồ này có thể thu hút sự chú ý của những người tham gia. Không có bẫy nào trong câu này, vì thông tin rất rõ ràng và liên quan trực tiếp đến câu hỏi.",
+      "evidence": "We have had curious volunteers go for unexpected swims in Duckling Pond in the past."
+    },
+    "q14": {
+      "explanation": "Người nói đang chỉ dẫn về vị trí của khu vực picnic (picnic area) và cho biết nó nằm ở phía tây của khu vực phía đông bắc của công viên. Câu này cung cấp thông tin rõ ràng về vị trí, giúp người nghe dễ dàng xác định trên bản đồ. Cụm từ \"just past the clearing\" (ngay sau khu vực thông thoáng) là một paraphrase quan trọng, giúp người nghe hình dung rõ hơn về vị trí của khu vực picnic. Không có bẫy nào trong câu này, vì thông tin rất cụ thể và không gây nhầm lẫn.",
+      "evidence": "You will find a picnic area on the western side, too, just past the clearing."
+    },
+    "q15": {
+      "explanation": "Trong câu này, người nói đang mô tả vị trí của cửa hàng nông trại (farm shop) và cho biết nó nằm ở phía nam của khu vực khác. Thông tin này giúp người nghe xác định vị trí của cửa hàng trên bản đồ. Cụm từ \"just a little further to the south\" (chỉ một chút xa hơn về phía nam) là một paraphrase quan trọng, giúp người nghe hiểu rõ hơn về khoảng cách và vị trí của cửa hàng. Không có bẫy nào trong câu này, vì thông tin rất rõ ràng và liên quan trực tiếp đến câu hỏi.",
+      "evidence": "the farm shop, which is just a little further to the south, where the stream finishes."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Good morning, everyone. Thank you for turning out so early this morning for a day of volunteering. As you all know, at St. John's Nature Reserve project, our goal is to build a natural paradise. And none of that would be possible without your help.</p><p>First, let me give you an idea of where you can find different places around the reserve. Can everybody see their map? Yes? Good. Okay, so right now, we are next to the main center and car park. Directly in front of us, we have this lawn section with a stone path running through it. Lying to the left of the path, there are two small outbuildings, the wood store, and behind it the tool shed. Whereas to its right, running parallel to it, we can see Willow Stream, with a bridge to cross it in the middle.</p><p>This same path leads up to an area of saplings, which are small, recently planted trees, and we call this area the Young Wood. We prefer you not to go into this section, please, as it is still being developed and may be dangerous to walk through at the moment. Also, be careful near the water next to Young Wood. There are no fences, and it can be slippy if you get too close. So remember, no swimming. We have had curious volunteers go for unexpected swims in Duckling Pond in the past. We do encourage you to relax and enjoy the wild birds and frogs to be found here. There are two benches around it for this purpose.</p><p>Right, if you turn here and follow Willow Stream back down a little, you can cross a wooden bridge, which takes you into the eastern section of the park. You will see on your map that in the northeastern section, we have an old wood. We generally refer to this as the mature wood. Please feel free to go for a walk around here at lunchtime. You will find a picnic area on the western side, too, just past the clearing, and it can be welcome shade from the sun at midday, and provides great views of the birds and ducks over in the pond.</p><p>From here, if you come out of the wood and follow the edge of it south, you reach the greenhouses, containing the St. John's vegetable garden. And just past these, the chicken coops. Please don't bother the hens. They are busy laying eggs to sell, along with the vegetables and fruits, in our farm shop, which is just a little further to the south, where the stream finishes. This is just one way in which we make a little money to keep the reserve going. </p><p>Okay, any questions? Right, so let's discuss the jobs we're going to be doing today.</p>"
+}

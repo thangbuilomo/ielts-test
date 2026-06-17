@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_17",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Người nói, Janet Rivers, đang nói về các phương pháp quảng bá mà cô đã sử dụng để thông báo về bài phát biểu của mình. Câu này chỉ rõ rằng cô đã sử dụng cả áp phích và email để quảng bá sự kiện. Thông tin giúp tìm ra đáp án là cụm từ \"advertising posters\" và \"communal emails\". Paraphrase quan trọng ở đây là \"advertising\" có thể hiểu là \"quảng bá\", và \"communal emails\" có thể hiểu là \"email chung\". Không có bẫy trong câu này vì thông tin được trình bày rõ ràng. Đáp án B là đúng vì nó bao gồm cả hai phương thức quảng bá mà Janet đã đề cập.",
+      "evidence": "as you already know from the advertising posters around the building and communal emails"
+    },
+    "q12": {
+      "explanation": "Janet đang kể về lý do cô gặp Mr. Mwanza. Cô đã bị mắc kẹt ở Mapanda do lỡ chuyến xe buýt, và điều này dẫn đến cuộc gặp gỡ tình cờ với Mr. Mwanza. Thông tin quan trọng là \"found myself stranded\" cho thấy sự tình cờ trong cuộc gặp. Paraphrase quan trọng là \"met by accident\" có thể hiểu là \"gặp tình cờ\". Bẫy có thể là việc người nghe có thể nghĩ rằng họ gặp nhau ở một nơi khác, nhưng câu này rõ ràng chỉ ra rằng cuộc gặp gỡ diễn ra do sự cố lỡ chuyến xe buýt. Đáp án B là đúng vì nó phản ánh chính xác hoàn cảnh của cuộc gặp.",
+      "evidence": "I had been travelling around Tanzania on a budget and found myself stranded in Mapanda as I had missed my bus connection."
+    },
+    "q13": {
+      "explanation": "Janet đang nói về thời gian cô ở lại Mpanda. Cô đã ở lại đó trong một khoảng thời gian ngắn, cụ thể là \"a fortnight\", tức là hai tuần. Tuy nhiên, trong câu hỏi, đáp án A là \"1 night\", không chính xác. Thông tin quan trọng là \"staying a fortnight\" cho thấy thời gian cô ở lại là 2 tuần. Bẫy ở đây là việc người nghe có thể nhầm lẫn giữa \"night\" và \"fortnight\". Đáp án đúng là B (2 weeks) nhưng không có trong câu hỏi.",
+      "evidence": "I ended up staying a fortnight in Mapanda."
+    },
+    "q14": {
+      "explanation": "Janet đang mô tả độ tuổi của các học sinh trong lớp học của Mr. Mwanza. Câu này rõ ràng chỉ ra rằng độ tuổi của các cô gái là từ 12 đến 16. Thông tin quan trọng là \"ages range from 12 to 16\". Paraphrase quan trọng là \"ages range\" có thể hiểu là \"độ tuổi dao động\". Không có bẫy trong câu này vì thông tin được trình bày rõ ràng. Đáp án A là đúng vì nó phản ánh chính xác độ tuổi của các học sinh.",
+      "evidence": "Mr. Mwanza teaches a class of 17 girls whose ages range from 12 to 16."
+    },
+    "q15": {
+      "explanation": "Janet đang nói về những dịch vụ mà trường cung cấp cho học sinh ngoài việc giáo dục. Cô nhấn mạnh rằng nhiều cô gái cần chỗ ở, điều này cho thấy rằng trường không chỉ cung cấp giáo dục mà còn hỗ trợ nơi ở cho học sinh. Thông tin quan trọng là \"somewhere to stay\". Paraphrase quan trọng là \"depend on us for accommodation\" có thể hiểu là \"phụ thuộc vào chúng tôi để có chỗ ở\". Không có bẫy trong câu này vì thông tin được trình bày rõ ràng. Đáp án A là đúng vì nó phản ánh chính xác dịch vụ mà trường cung cấp cho học sinh.",
+      "evidence": "Many of the girls not only depend on us for study at our school, but also for somewhere to stay in Mapanda."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: Janet Rivers<br />You now have some time to look at the questions on your screen. Now answer the questions on your screen. Good evening, ladies and gentlemen, and thank you for having invited me here today to speak about something which is very important to me. My name is Janet Rivers, and as you already know from the advertising posters around the building and communal emails, I mean to talk about the Moloto School for Girls in eastern Tanzania.</p><p><strong>Speaker 1:</strong> Janet Rivers<br />Let me tell you a little bit about the background of our school. Moloto School for Girls has been in operation for only four years. It began due to a lucky meeting between Mr. Ben Mwanza, the current teacher at our school, and myself. Mr. Mwanza lives in the town of Mapanda and he has been saddened for many years about the opportunities for girls in this area. </p><p><strong>Speaker 1:</strong> Janet Rivers<br />I had been travelling around Tanzania on a budget and found myself stranded in Mapanda as I had missed my bus connection. Mr. Mwanza and I met, by chance, eating in the same cheap restaurant and we soon found out that we were both teachers. After several hours of conversation, we had become inspired by mutual idealistic ideas and I ended up staying a fortnight in Mapanda. There was another year planning and then we opened our school doors for the first time.</p><p><strong>Speaker 1:</strong> Janet Rivers<br />Let me now tell you a little about the school. We rent a classroom in a municipal building in the town. Mr. Mwanza teaches a class of 17 girls whose ages range from 12 to 16. Our resources consist of a blackboard and chalk, exercise books, ballpoint pens, textbooks, the enthusiasm of the girls and the inspiration, imagination and dedication of Mr. Mwanza. </p><p><strong>Speaker 1:</strong> Janet Rivers<br />Our pupils do not only come from Mapanda town itself, but also from nearby communities and villages. Many of our girls have outstanding potential, which they showed in their primary education, but they lack the opportunity for secondary education due to a variety of reasons, including poverty, work, motherhood, family opposition and the lack of secondary facilities in their area. </p><p><strong>Speaker 1:</strong> Janet Rivers<br />Many of the girls not only depend on us for study at our school, but also for somewhere to stay in Mapanda, as commuting to and from the school every day would be unrealistic. This constitutes quite a remarkable commitment from our girls, as it means they have to live apart from their families and often their own children for considerable spans of time. As the family is a central part of society in this area of the world, the separation is a serious thing in the girls' lives.</p>"
+}

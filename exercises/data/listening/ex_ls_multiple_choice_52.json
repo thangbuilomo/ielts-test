@@ -1,0 +1,114 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_multiple_choice_52",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 3,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "mcq_single",
+  "category_id": "multiple_choice",
+  "title": "Multiple Choice - Exercise 52",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2052.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_multiple_choice_52.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_multiple_choice_52.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_multiple_choice_52.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "mcq_single",
+          "skill_tags": [
+            "ls_mcq_single"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>MULTIPLE CHOICE 52</h1><p><strong>Questions 21 - 23</strong></p><p>Choose the correct letter <strong>A, B or C.</strong></p><p>21 The head of training is considering...</p><table><thead><tr><th><strong>A</strong>    ...offering everyone in the company a refresher course.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    ...developing new courses for different departments.</td><td></td></tr><tr><td><strong>C</strong>    ...sending all the sales staff on a customer relations training course.</td><td></td></tr></tbody></table><p>22 Adam thinks that next time the company should...</p><table><thead><tr><th><strong>A</strong>    ...choose a different training centre location.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    ...book a hotel nearer the training centre.</td><td></td></tr><tr><td><strong>C</strong>    ...provide transport for the staff.</td><td></td></tr></tbody></table><p>23 Sandra found that...</p><table><thead><tr><th><strong>A</strong>    ...the training day was too long.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    ...the workshop often ended later than planned.</td><td></td></tr><tr><td><strong>C</strong>    ...she didn't enjoy working after the training workshop.</td><td></td></tr></tbody></table>",
+          "items": [
+            {
+              "question_id": "q21",
+              "number": 21,
+              "prompt_html": "The head of training is considering...",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q22",
+              "number": 22,
+              "prompt_html": "Adam thinks that next time the company should...",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q23",
+              "number": 23,
+              "prompt_html": "Sandra found that...",
+              "response_type": "text"
+            }
+          ],
+          "options": [
+            {
+              "label": "A",
+              "text": "...the training day was too long."
+            },
+            {
+              "label": "B",
+              "text": "...the workshop often ended later than planned."
+            },
+            {
+              "label": "C",
+              "text": "...she didn't enjoy working after the training workshop."
+            }
+          ],
+          "question_range": [
+            21,
+            23
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_multiple_choice_52",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_multiple_choice_52",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

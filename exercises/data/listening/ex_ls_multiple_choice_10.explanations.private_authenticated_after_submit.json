@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_10",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Người nói đang đề cập đến sự phát triển ban đầu của ngành công nghiệp dầu khí ở Bắc Hải, nhấn mạnh rằng mặc dù đã có sự nghi ngờ về sự hiện diện của dầu khí, nhưng ngành công nghiệp này đã phát triển mạnh mẽ trong những năm gần đây. Thông tin giúp tìm ra đáp án là việc Bắc Hải đã bị xem nhẹ như một nguồn dầu khí tiềm năng trong quá khứ. Paraphrase quan trọng ở đây là \"long dismissed\" (đã bị xem nhẹ trong thời gian dài). Bẫy có thể là sự nhầm lẫn giữa các mốc thời gian và các sự kiện, nhưng đáp án đúng vì nó phản ánh chính xác sự phát triển ban đầu của ngành công nghiệp này.",
+      "evidence": "Apparently, the North Sea was long dismissed as a potential source of oil or gas, but over the last four decades, it has become the centre of one of the world's most productive energy industries."
+    },
+    "q22": {
+      "explanation": "Người nói đang mô tả các phát hiện quan trọng trong ngành công nghiệp dầu khí ở Bắc Hải, đặc biệt là các phát hiện đầu tiên về khí đốt. Thông tin quan trọng là thời gian và địa điểm của các phát hiện này. Paraphrase quan trọng là \"first major discovery\" (phát hiện lớn đầu tiên). Bẫy có thể là sự nhầm lẫn giữa các phát hiện ở các khu vực khác nhau, nhưng đáp án đúng vì nó cung cấp thông tin chính xác về các phát hiện đầu tiên trong ngành công nghiệp này.",
+      "evidence": "Gas was actually first found in quantity in the Groningen area of the Netherlands in 1959. This was followed by the first British discovery of gas in the West Sole field off the coast of East Anglia by the BP drilling rig Sea Gem late in 1965."
+    },
+    "q23": {
+      "explanation": "Người nói đang nói về áp lực kinh tế đã thúc đẩy sự phát triển của ngành công nghiệp dầu khí ở Bắc Hải. Thông tin giúp tìm ra đáp án là sự liên kết giữa khủng hoảng kinh tế và nhu cầu phát triển ngành công nghiệp. Paraphrase quan trọng là \"enormous pressure\" (áp lực lớn). Bẫy có thể là sự nhầm lẫn giữa các nguyên nhân khác nhau của sự phát triển, nhưng đáp án đúng vì nó chỉ ra rằng khủng hoảng kinh tế đã thúc đẩy sự phát triển của ngành công nghiệp này.",
+      "evidence": "The deepening economic crisis in the UK meant that there was enormous pressure on the industry to get gas and later oil flowing."
+    },
+    "q24": {
+      "explanation": "Người nói đang mô tả sự phát triển của ngành công nghiệp dầu khí sau những phát hiện ban đầu. Thông tin quan trọng là sự gia tăng số lượng phát hiện dầu do sự tham gia của nhiều công ty khác nhau. Paraphrase quan trọng là \"many more sites have been found\" (nhiều địa điểm hơn đã được tìm thấy). Bẫy có thể là sự nhầm lẫn giữa các giai đoạn phát triển khác nhau, nhưng đáp án đúng vì nó phản ánh sự gia tăng đáng kể trong số lượng phát hiện dầu.",
+      "evidence": "Discoveries of oil grew in number as more companies, British, European and American, took out leases on sectors of the North Sea."
+    },
+    "q25": {
+      "explanation": "Người nói đang tóm tắt lịch sử tiếp theo của ngành công nghiệp dầu khí ở Bắc Hải, nhấn mạnh rằng mặc dù đã có sự suy giảm, nhưng sản xuất vẫn tăng trưởng trong một thời gian dài. Thông tin giúp tìm ra đáp án là sự phát triển và đỉnh điểm của sản xuất. Paraphrase quan trọng là \"mature province on a slow decline\" (tỉnh trưởng thành đang trong tình trạng suy giảm chậm). Bẫy có thể là sự nhầm lẫn giữa các giai đoạn khác nhau của sản xuất, nhưng đáp án đúng vì nó phản ánh chính xác tình trạng hiện tại của ngành công nghiệp này.",
+      "evidence": "Nevertheless, production grew and peaked around 2000-2001. Now, the North Sea is regarded as a mature province on a slow decline."
+    },
+    "q26": {
+      "explanation": "Người nói đang đưa ra cái nhìn tổng quan về tình trạng hiện tại của ngành công nghiệp dầu khí ở Bắc Hải. Thông tin giúp tìm ra đáp án là sự đánh giá về tình trạng trưởng thành và suy giảm của ngành công nghiệp. Paraphrase quan trọng là \"expected to continue to produce large quantities of oil\" (dự kiến sẽ tiếp tục sản xuất một lượng lớn dầu). Bẫy có thể là sự nhầm lẫn giữa các dự đoán khác nhau về tương lai của ngành công nghiệp, nhưng đáp án đúng vì nó phản ánh chính xác tình trạng hiện tại và triển vọng của ngành công nghiệp này.",
+      "evidence": "Now, the North Sea is regarded as a mature province on a slow decline. That's about it for now."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> So, as you know, the North Sea lies to the east and northeast of England and Scotland. Apparently, the North Sea was long dismissed as a potential source of oil or gas, but over the last four decades, it has become the centre of one of the world's most productive energy industries. Gas was actually first found in quantity in the Groningen area of the Netherlands in 1959. This was followed by the first British discovery of gas in the West Sole field off the coast of East Anglia by the BP drilling rig Sea Gem late in 1965. </p><p><strong>Speaker 1:</strong> Actually, the first accident was on that rig too. Anyway, sorry, go on, Judith.</p><p><strong>Speaker 1:</strong> The British oil and gas industry in the southern North Sea grew rapidly in the early years. The deepening economic crisis in the UK meant that there was enormous pressure on the industry to get gas and later oil flowing. As exploration and investment moved further north, it became clear that there was oil to be found in great quantities. Discoveries of oil grew in number as more companies, British, European and American, took out leases on sectors of the North Sea. </p><p><strong>Speaker 1:</strong> During the 1990s, like the rest of the world, the North Sea industry was badly affected by the global price fluctuations. Nevertheless, production grew and peaked around 2000-2001. Now, the North Sea is regarded as a mature province on a slow decline. That's about it for now. I'll put more detail into it when we do the presentation.</p>"
+}

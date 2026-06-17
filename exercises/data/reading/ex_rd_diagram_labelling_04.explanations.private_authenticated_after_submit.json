@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_diagram_labelling_04",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q38": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 7, bài viết nêu: \"Aeration is done by using a small turbine on the lake bottom that creates compressed air. This air continuously moves large volumes of low oxygen water from the bottom to the surface of the lake. When the entire lake is oxygenated, fish are able to feed on small organisms in all parts of the lake.\". Cụm small turbine khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Aeration is done by using a small turbine on the lake bottom that creates compressed air. This air continuously moves large volumes of low oxygen water from the bottom to the surface of the lake. When the entire lake is oxygenated, fish are able to feed on small organisms in all parts of the lake._"
+    },
+    "q39": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 7, bài viết nêu: \"This air continuously moves large volumes of low oxygen water from the bottom to the surface of the lake. When the entire lake is oxygenated, fish are able to feed on small organisms in all parts of the lake. This method of aeration limits the growth of algae by reducing the release of nutrients from lake sediments.\". Cụm low oxygen water khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "This air continuously moves large volumes of low oxygen water from the bottom to the surface of the lake. When the entire lake is oxygenated, fish are able to feed on small organisms in all parts of the lake. This method of aeration limits the growth of algae by reducing the release of nutrients from lake sediments._"
+    },
+    "q40": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 7, bài viết nêu: \"When the entire lake is oxygenated, fish are able to feed on small organisms in all parts of the lake. This method of aeration limits the growth of algae by reducing the release of nutrients from lake sediments. The benefits include improved water quality and clarity, the prevention of fish death and a reduced occurrence of destructive algal growth, disease and odour.\". Cụm small organisms khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "When the entire lake is oxygenated, fish are able to feed on small organisms in all parts of the lake. This method of aeration limits the growth of algae by reducing the release of nutrients from lake sediments. The benefits include improved water quality and clarity, the prevention of fish death and a reduced occurrence of destructive algal growth, disease and odour._"
+    }
+  }
+}

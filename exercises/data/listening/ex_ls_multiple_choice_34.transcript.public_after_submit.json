@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_34",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2034.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> I'd like to make an appointment now for my wife. She wants to come in at the end of the week. How about this Friday morning?</p><p><strong>Speaker 1:</strong> That's Friday the 21st. </p><p><strong>Speaker 2:</strong> I don't think she can make the morning. Any openings in the afternoon?</p><p><strong>Speaker 1:</strong> There are appointments available at two o'clock, 2.30 and 3.30.</p><p><strong>Speaker 2:</strong> We'll take the first one, please.</p><p><strong>Speaker 1:</strong> OK, that's done. Oh, and what shall my wife do if she wants to switch doctor?</p><p><strong>Speaker 2:</strong> She can just give us a call here. Do you want to take the number down?</p><p><strong>Speaker 1:</strong> Yes, please. </p><p><strong>Speaker 1:</strong> It's 7253 9829. Can you give me your name, please?</p><p><strong>Speaker 2:</strong> My name's Angela, but there are two other girls who might be on duty as well. Their names are Elizabeth and Rachel, but it doesn't matter who's on duty. Anyone can take care of it. </p><p><strong>Speaker 1:</strong> Now what do we do if we need to call out a doctor during the night?</p><p><strong>Speaker 2:</strong> We've got a rotation system with the doctors in the area. There's a mobile number you can call and that'll get through to the doctor who's on duty.</p><p><strong>Speaker 1:</strong> What's that number?</p><p><strong>Speaker 2:</strong> It's 0506 759 3856.</p><p><strong>Speaker 1:</strong> Got that. I didn't ask about any charges.</p><p><strong>Speaker 2:</strong> Like all Australia, prescriptions have to be paid for at the chemist at the prevailing rate. Some things like vaccinations for travel and insurance reports we make a standard charge for and I can give you a price list for those. Consultations, though, are under the National Health Service, so they'll be free.</p><p><strong>Speaker 1:</strong> Great. Well, that's all. Thanks and goodbye. </p><p><strong>Speaker 2:</strong> Goodbye.</p>"
+    }
+  ]
+}

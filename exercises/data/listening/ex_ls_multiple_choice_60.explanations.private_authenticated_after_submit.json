@@ -1,0 +1,29 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_60",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Người nói đang thảo luận về lý do tại sao họ chọn nghiên cứu về tâm lý học của mùi hương. Sophie nhấn mạnh rằng việc đưa ra quyết định là một phần quan trọng trong cuộc sống hàng ngày, điều này cho thấy sự quan tâm cá nhân của họ đối với chủ đề nghiên cứu. Thông tin này giúp tìm ra đáp án vì nó thể hiện sự liên quan đến \"Personal interest\" (A). Paraphrase quan trọng ở đây là \"making critical decisions\" có thể được hiểu là \"đưa ra những quyết định quan trọng\". Bẫy có thể là những lựa chọn khác mà nghe có vẻ hợp lý nhưng không phản ánh đúng lý do cá nhân của họ. Đáp án này đúng vì nó thể hiện sự quan tâm cá nhân của Sophie đối với chủ đề nghiên cứu.",
+      "evidence": "I mean, so much of our life nowadays involves making critical decisions, often within a consumer context."
+    },
+    "q22": {
+      "explanation": "Người nói đang nói về khả năng tài trợ cho nghiên cứu của họ. Greg nhấn mạnh rằng nếu nghiên cứu của họ có ứng dụng thực tiễn, điều này sẽ làm tăng khả năng nhận được tài trợ. Thông tin này giúp tìm ra đáp án vì nó liên quan đến \"Potential practical applications\" (E). Paraphrase quan trọng là \"approved for funding\" có thể hiểu là \"được phê duyệt tài trợ\". Bẫy có thể là những lựa chọn khác mà nghe có vẻ hợp lý nhưng không phản ánh đúng lý do tài trợ. Đáp án này đúng vì nó chỉ ra rằng ứng dụng thực tiễn là một yếu tố quan trọng trong việc quyết định chủ đề nghiên cứu.",
+      "evidence": "Well, that certainly should make us more likely to be approved for funding if we decide to extend the study."
+    },
+    "q23": {
+      "explanation": "Người nói đang thảo luận về sự linh hoạt trong việc chọn chủ đề nghiên cứu. Sophie nhận ra rằng mặc dù có nhiều nghiên cứu trước đó, nhưng vẫn có nhiều góc nhìn mới mà họ có thể khám phá. Thông tin này giúp tìm ra đáp án vì nó liên quan đến \"The topic area’s flexibility\" (C). Paraphrase quan trọng là \"broad area of study\" có thể hiểu là \"lĩnh vực nghiên cứu rộng lớn\". Bẫy có thể là những lựa chọn khác mà nghe có vẻ hợp lý nhưng không phản ánh đúng sự linh hoạt trong nghiên cứu. Đáp án này đúng vì nó cho thấy rằng sự linh hoạt trong việc chọn chủ đề là một yếu tố quan trọng trong quyết định của họ.",
+      "evidence": "However, I then thought that it's really such a broad area of study that we could just choose a new angle."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1 (Sophie):</strong> You now have some time to look at the questions on your screen. Hi Greg, are you ready to get started on this end-of-year psychology project?</p><p><strong>Speaker 2 (Greg):</strong> Hi Sophie, I think so. I spent all yesterday evening doing background reading. We've such a lot to think about today. Anyway, I've got a cup of coffee and a free afternoon. Let's see what we can do.</p><p>Speaker 1 (Sophie): OK, great. So, last time we spoke, if I remember correctly, we decided to look into the psychology of smell.</p><p>Speaker 2 (Greg): Yes, that's right. We both agreed it's a fascinating area, but that we wanted to be 100% confident before talking to Professor Ingram about it. So, are you still happy with this topic?</p><p>Speaker 1 (Sophie): Yes, well, honestly, I just couldn't stop reading about it when I got home. At first, I felt that there'd already been quite a lot of research carried out on the relationship between the olfactory system and the human mind. So I wondered whether perhaps we were in danger of just repeating old experiments. However, I then thought that it's really such a broad area of study that we could just choose a new angle.</p><p>Speaker 2 (Greg): I had a similar feeling. Plus, we can easily move to another approach if Professor Ingram doesn't like this one. Anyway, it seems that the effects of smell on memory and perceptions of physical attraction have been well researched already, but there's been much less study into, for example, its effects on decision-making.</p><p>Speaker 1 (Sophie): Indeed, which is a mystery to me, since it seems to be so relevant and applicable to everyday life. I mean, so much of our life nowadays involves making critical decisions, often within a consumer context. You'd think there would be corporate interest in this kind of study.</p><p>Speaker 2 (Greg): You're absolutely right. Well, that certainly should make us more likely to be approved for funding if we decide to extend the study.</p><p>Speaker 1 (Sophie): True, and if our findings are significant, there will definitely be scope for that. OK, should we get something on paper that we can take to Professor Ingram?</p>"
+}

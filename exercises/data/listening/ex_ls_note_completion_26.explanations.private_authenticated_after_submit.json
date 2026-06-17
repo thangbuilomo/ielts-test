@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_26",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q16": {
+      "explanation": "Người nói đang thông báo về chi phí của việc tham gia câu lạc bộ bóng đá cho trẻ em. Thông tin quan trọng giúp tìm ra đáp án là sự khác biệt giữa việc thanh toán một lần vào đầu mùa giải và thanh toán hàng tháng. Câu này đã paraphrase thông tin về chi phí, nhấn mạnh rằng nếu thanh toán một lần, bạn sẽ tiết kiệm được 50 đô la. Bẫy ở đây có thể là việc người nghe có thể nhầm lẫn giữa các khoản phí khác nhau, nhưng câu nói rõ ràng chỉ ra sự khác biệt cụ thể. Đáp án đúng là 50 vì nó phản ánh chính xác số tiền tiết kiệm được khi thanh toán một lần.",
+      "evidence": "There is a difference, therefore, of $50 if you pay at the start of the season."
+    },
+    "q17": {
+      "explanation": "Người nói đang liệt kê các khoản phí mà phụ huynh cần biết khi tham gia câu lạc bộ. Thông tin giúp tìm ra đáp án là cụm từ \"health and accident insurance,\" cho thấy rằng bảo hiểm tai nạn là một phần trong các khoản phí. Paraphrase quan trọng ở đây là \"bảo hiểm tai nạn,\" có thể gây nhầm lẫn với các loại bảo hiểm khác. Không có bẫy trong câu này vì thông tin được trình bày rõ ràng. Đáp án đúng là \"accident\" vì nó là từ chính xác mô tả loại bảo hiểm được bao gồm trong phí.",
+      "evidence": "The fees also include health and accident insurance during your child's time practicing or playing matches with us..."
+    },
+    "q18": {
+      "explanation": "Người nói đang làm rõ những gì không được bao gồm trong phí bảo hiểm. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"travel,\" cho thấy rằng chi phí đi lại không được bảo hiểm. Paraphrase quan trọng là \"transport,\" có thể được hiểu là chi phí đi lại. Bẫy ở đây có thể là việc người nghe có thể nghĩ rằng có một loại bảo hiểm khác cho chi phí này, nhưng câu nói đã chỉ rõ rằng không có bảo hiểm cho chi phí đi lại. Đáp án đúng là \"transport\" vì nó phản ánh chính xác thông tin được cung cấp.",
+      "evidence": "The insurance does not cover travel to and from soccer."
+    },
+    "q19": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc ký hợp đồng giữa phụ huynh và trẻ em. Thông tin giúp tìm ra đáp án là từ \"contract,\" cho thấy đây là tài liệu cần thiết để thiết lập các kỳ vọng về hành vi. Paraphrase quan trọng là \"signing of a contract,\" có thể gây nhầm lẫn nếu người nghe không chú ý. Không có bẫy trong câu này vì thông tin được trình bày rõ ràng. Đáp án đúng là \"contract\" vì nó là từ chính xác mô tả tài liệu cần ký.",
+      "evidence": "One important thing that we insist on is the signing of a contract by the children and the parents."
+    },
+    "q20": {
+      "explanation": "Người nói đang khuyến khích phụ huynh giữ liên lạc với huấn luyện viên để giải quyết các vấn đề liên quan đến học tập của trẻ. Thông tin giúp tìm ra đáp án là từ \"email,\" cho thấy đây là phương thức liên lạc được khuyến khích. Paraphrase quan trọng là \"keep in contact,\" có thể gây nhầm lẫn nếu người nghe không chú ý đến phương thức cụ thể. Không có bẫy trong câu này vì thông tin được trình bày rõ ràng. Đáp án đúng là \"email\" vì nó phản ánh chính xác phương thức liên lạc mà người nói đã đề cập.",
+      "evidence": "Therefore, if there is a problem, please keep in contact with your child's age group coach by email..."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Now you will want to know how much everything is going to cost. Our season runs from September to April. The whole season's training costs $150 if paid in one go at the start of the season. However, you can pay $25 monthly at the start of each training month. There is a difference, therefore, of $50 if you pay at the start of the season. </p><p><strong>Speaker 1:</strong> All payments to the club must be done by bank transfer. The fees also include health and accident insurance during your child's time practicing or playing matches with us, at home or away matches. The insurance does not cover travel to and from soccer. </p><p><strong>Speaker 1:</strong> Match fees are extra. Home and away matches cost $5, but if we have to hire a bus to take the team together to a match further afield, then you will need to pay your share of these transport costs. </p><p><strong>Speaker 1:</strong> Details of which children picked to play for the team will be given out every Wednesday before the match weekend, and the directions to the venue along with any other necessary travel costs will be outlined then. All details will also appear on the club website. </p><p><strong>Speaker 1:</strong> One important thing that we insist on is the signing of a contract by the children and the parents. This gives the expectations of behavior for the players and the parents watching. </p><p><strong>Speaker 1:</strong> Parents are, of course, extremely welcome to watch training sessions and to come to matches, but we insist that parents be models to our many children, and we do not accept any inappropriate behavior towards our players, opposition teams and staff, and the match officials. </p><p><strong>Speaker 1:</strong> Finally, we all know that many kids are mad about soccer, but we recognize that schoolwork should come first. Therefore, we would like to work closely with you, the parents, so that we know that each child's homework and schoolwork is going well and that academics do not suffer because of too much soccer. </p><p><strong>Speaker 1:</strong> Therefore, if there is a problem, please keep in contact with your child's age group coach by email so that he or she can include or exclude the child for match selections. If used properly, our club can be a useful way of encouraging your child to do his or her homework.</p>"
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_56",
+  "module": "listening",
+  "question_count": 10,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2056.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> Welcome to the third in our series of lectures on innovative urban architecture. Today I'll be telling you about an award-winning pair of tall buildings called Bosco Verticale, or Vertical Forest, which are in the Italian city of Milan.</p><p><strong>Speaker 1:</strong> The Bosco Verticale project comprises two residential tower blocks situated in a central district of Milan, about half an hour's walk from the cathedral, another iconic piece of Milanese architecture. One of the towers is 110 meters in height and has 26 floors, while the other is 76 meters high and comprises 18 floors. </p><p><strong>Speaker 1:</strong> The balconies of these two high-rise blocks have been planted with 900 trees, ranging in height from 3.6 to 9 meters tall each. In addition, 20,000 shrubs have been planted. In total, if the trees and other plants on these two tower blocks were planted on flat ground, they would represent a forest that was 7,000 square meters in area.</p><p><strong>Speaker 1:</strong> Apart from making the buildings look more attractive, both to observers from the street and for residents looking out from inside, the trees offer several environmental benefits. On an urban scale, they absorb carbon dioxide from the atmosphere, release oxygen, and cool the air. </p><p><strong>Speaker 1:</strong> For residents of the buildings, they also filter small dust particles out of the air. All of these are helpful processes in Milan, which features among the top 20 European cities afflicted with air pollution. In addition, they regulate humidity naturally and offer shade in summer, thus reducing or eliminating the need for air conditioning. A further benefit is that they reduce noise pollution.</p><p><strong>Speaker 1:</strong> Boeri Studio, the architects who designed the vertical forest, spent two years in consultation with a team of botanists who helped them choose suitable trees for the towers. They selected trees and other plants suited to the local climate in Milan, but chose a range of species depending on their position on the building, so that plants that require less sunlight are on the north facades, for example.</p><p><strong>Speaker 1:</strong> Additional considerations were providing biodiversity. By varying the species of plant life forming the external so-called living walls of these buildings, they hope birds and insects will be attracted back into the city. The plants used on the building were selected and pre-cultivated specifically for this project and were lifted onto the balconies by cranes, then secured in their specially designed planters.</p><p><strong>Speaker 1:</strong> The irrigation of the plants is carried out automatically using a system that recycles grey water, that is, waste water from sinks and showers produced in the building. This offers an environmentally friendly and sustainable solution to the need to provide water for maintaining the plants.</p><p><strong>Speaker 1:</strong> All the vegetation in the vertical forest is the property of the management, not the individual owners of each apartment in the blocks. The management team at the vertical forest are responsible for all maintenance of the trees and shrubs, and the owners are not allowed to interfere in any way.</p><p><strong>Speaker 1:</strong> Teams of gardeners carry out pruning and fertilizing tasks three or four times a year via access through the apartments to the balconies. Sections of vegetation that cannot be accessed from the balconies are maintained by gardeners who descend on ropes suspended from a telescopic arm on the roof of each block.</p><p><strong>Speaker 1:</strong> The vertical forest opened in October 2014 and has met with acclaim, winning the International High-Rise Award in 2014 and the Best Tall Building Worldwide Award in 2015. However, as with most highly innovative architectural projects, there has been criticism as well as praise. Among the critics are those who claim...</p>"
+    }
+  ]
+}

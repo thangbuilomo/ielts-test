@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_11",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Since 1996, Kyle Strom and his research team at the Center for Educational Improvement (CEI) in the United States have led the way in the study of later start times for high school students. Strom claims that emerging medical research shows adolescents have natural sleep phases that lead to a late-to-bed, late-to-rise cycle.\". Heading vii (Teenage Sleep Patterns) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Since 1996, Kyle Strom and his research team at the Center for Educational Improvement (CEI) in the United States have led the way in the study of later start times for high school students. Strom claims that emerging medical research shows adolescents have natural sleep phases that lead to a late-to-bed, late-to-rise cycle._"
+    },
+    "q16": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"These adolescent sleep patterns can have profound consequences for education. With classes in most high schools in the United States starting at around 7.15 a.m., high school students tend to rise at about 5.00 or 6.00 a.m. in order to get ready and catch the bus.\". Heading ii (Evidence Supporting the Need for Change) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "These adolescent sleep patterns can have profound consequences for education. With classes in most high schools in the United States starting at around 7.15 a.m., high school students tend to rise at about 5.00 or 6.00 a.m. in order to get ready and catch the bus._"
+    },
+    "q17": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Data collected from two high school districts, Johnstone, a suburban district that changed its high school start times from 7.20 to 8.30, and the Highlands, that changed its start times from 7.15 to 8.40, provided Strom and his colleagues with information regarding the work, sleep and school habits of over 7,000 secondary students, over 3,000 teachers, and interview data from over 750 parents about their preferences and beliefs about the starting time of school. The study has laid the groundwork for similar changes in other school districts, supplying concrete results of putting the research into practice.\". Heading ix (Information from Two Test Areas) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Data collected from two high school districts, Johnstone, a suburban district that changed its high school start times from 7.20 to 8.30, and the Highlands, that changed its start times from 7.15 to 8.40, provided Strom and his colleagues with information regarding the work, sleep and school habits of over 7,000 secondary students, over 3,000 teachers, and interview data from over 750 parents about their preferences and beliefs about the starting time of school. The study has laid the groundwork for similar changes in other school districts, supplying concrete results of putting the research into practice._"
+    },
+    "q18": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Patricia Brite, programme director for the National Sleep Foundation in the London area, supports the theories. “We like what we have seen in the study and the feedback from schools has backed it up too.” Brite goes on to say that she has been contacted by over 50 heads of London schools who are all giving the same message. “What they’re telling me,” Brite says, “is that the theory has the support of teachers, students and governors. With support like that, there has to be a lot of sense in the proposals.”\". Heading i (The Education Sector Speaks) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Patricia Brite, programme director for the National Sleep Foundation in the London area, supports the theories. “We like what we have seen in the study and the feedback from schools has backed it up too.” Brite goes on to say that she has been contacted by over 50 heads of London schools who are all giving the same message. “What they’re telling me,” Brite says, “is that the theory has the support of teachers, students and governors. With support like that, there has to be a lot of sense in the proposals.”_"
+    },
+    "q19": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The School Start Time Study effectively reveals to adult policy-makers that high school students can benefit from later school start times. While the concept that teenagers have a distinctly different sleep pattern was first recognised by medical research findings, it is only through examination of actual cases where these findings were used as a basis to change school policies that educators can understand the ramifications of making such a change.\". Heading vi (Study Educates Change-orientated Schools) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The School Start Time Study effectively reveals to adult policy-makers that high school students can benefit from later school start times. While the concept that teenagers have a distinctly different sleep pattern was first recognised by medical research findings, it is only through examination of actual cases where these findings were used as a basis to change school policies that educators can understand the ramifications of making such a change._"
+    },
+    "q20": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Not every school trying the late start scheme has found it a success though. In Cape Town, South Africa, the scheme was abandoned after 3 months at a try-out school.\". Heading v (An Unsuccessful Experiment) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Not every school trying the late start scheme has found it a success though. In Cape Town, South Africa, the scheme was abandoned after 3 months at a try-out school._"
+    }
+  }
+}

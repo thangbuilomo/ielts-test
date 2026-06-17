@@ -1,0 +1,48 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_information_08",
+  "module": "reading",
+  "question_count": 8,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Câu 1 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 4 chứa căn cứ: \"Spurzheim wrote that the premise of phrenology was to use the methods to identify individuals who stood out at both poles of society: those with a propensity for making important social contributions and those with a greater than normal tendency for evil. The former were to be encouraged, nurtured, and developed in order to maximise their potential for good. The latter needed to be curbed and segregated to protect society from their predisposition to harm others.\". Lựa chọn FG (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Spurzheim wrote that the premise of phrenology was to use the methods to identify individuals who stood out at both poles of society: those with a propensity for making important social contributions and those with a greater than normal tendency for evil. The former were to be encouraged, nurtured, and developed in order to maximise their potential for good. The latter needed to be curbed and segregated to protect society from their predisposition to harm others._"
+    },
+    "q2": {
+      "explanation": "Câu 2 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 1 chứa căn cứ: \"The idea first came to Gall when he noticed that university classmates who could memorise great amounts of information with relative ease seemed to have prominent eyes and large foreheads. He speculated that other internal qualities, besides memory, might be indicated by an external feature as well. Gall theorised that traits might be located in particular regions of the brain.\". Lựa chọn JS (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The idea first came to Gall when he noticed that university classmates who could memorise great amounts of information with relative ease seemed to have prominent eyes and large foreheads. He speculated that other internal qualities, besides memory, might be indicated by an external feature as well. Gall theorised that traits might be located in particular regions of the brain._"
+    },
+    "q3": {
+      "explanation": "Câu 3 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 6 chứa căn cứ: \"The specific technique used by Flourens, who was also a highly skilled surgeon, was ablation, the surgical removal of certain small parts of the brain. He ablated precisely determined portions of bird, rabbit, and dog brains and then observed the behaviour of his subjects. Since, for obvious ethical reasons, he was only able to use animals, he could not test uniquely human faculties.\". Lựa chọn SL (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The specific technique used by Flourens, who was also a highly skilled surgeon, was ablation, the surgical removal of certain small parts of the brain. He ablated precisely determined portions of bird, rabbit, and dog brains and then observed the behaviour of his subjects. Since, for obvious ethical reasons, he was only able to use animals, he could not test uniquely human faculties._"
+    },
+    "q4": {
+      "explanation": "Câu 4 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"The fourth was that the relative size of any one of the organs could be taken as a measure of that organ’s influence on the person’s behaviour. The fifth and final part of Cooter’s theory was that external craniological features could be used to diagnose the internal state of the mental faculties. All of these parts were based on observations that he had made.\". Lựa chọn JF (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The fourth was that the relative size of any one of the organs could be taken as a measure of that organ’s influence on the person’s behaviour. The fifth and final part of Cooter’s theory was that external craniological features could be used to diagnose the internal state of the mental faculties. All of these parts were based on observations that he had made._"
+    },
+    "q5": {
+      "explanation": "Câu 5 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"Carl Cooter, another advocate of phrenology asserted that there were five major parts to the theory. The first was simply that the brain was the organ of the mind. The second was that the brain was not a homogeneous unit, but a compilation of mental organs with specific functions.\". Lựa chọn CC (Carl Cooter) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Carl Cooter, another advocate of phrenology asserted that there were five major parts to the theory. The first was simply that the brain was the organ of the mind. The second was that the brain was not a homogeneous unit, but a compilation of mental organs with specific functions._"
+    },
+    "q6": {
+      "explanation": "Câu 6 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"Carl Cooter, another advocate of phrenology asserted that there were five major parts to the theory. The first was simply that the brain was the organ of the mind. The second was that the brain was not a homogeneous unit, but a compilation of mental organs with specific functions.\". Lựa chọn CC (Carl Cooter) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Carl Cooter, another advocate of phrenology asserted that there were five major parts to the theory. The first was simply that the brain was the organ of the mind. The second was that the brain was not a homogeneous unit, but a compilation of mental organs with specific functions._"
+    },
+    "q7": {
+      "explanation": "Câu 7 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 6 chứa căn cứ: \"He never tested or measured any behaviour until he had nursed his subjects back to health after their operations. Flourens’s subjects did show a lowering of all functions but not just one function as Gall’s theory would have predicted. Gall asserted that he wiped out many organs all at once when he ablated part of the brain, which would explain the general lowering of all functions in many of Flourens’s subjects.\". Lựa chọn PF (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "He never tested or measured any behaviour until he had nursed his subjects back to health after their operations. Flourens’s subjects did show a lowering of all functions but not just one function as Gall’s theory would have predicted. Gall asserted that he wiped out many organs all at once when he ablated part of the brain, which would explain the general lowering of all functions in many of Flourens’s subjects._"
+    },
+    "q8": {
+      "explanation": "Câu 8 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"The fourth was that the relative size of any one of the organs could be taken as a measure of that organ’s influence on the person’s behaviour. The fifth and final part of Cooter’s theory was that external craniological features could be used to diagnose the internal state of the mental faculties. All of these parts were based on observations that he had made.\". Lựa chọn FG (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The fourth was that the relative size of any one of the organs could be taken as a measure of that organ’s influence on the person’s behaviour. The fifth and final part of Cooter’s theory was that external craniological features could be used to diagnose the internal state of the mental faculties. All of these parts were based on observations that he had made._"
+    }
+  }
+}

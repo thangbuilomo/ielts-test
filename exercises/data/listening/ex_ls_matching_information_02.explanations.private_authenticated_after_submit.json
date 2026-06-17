@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_02",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q17": {
+      "explanation": "Người nói đang mô tả về các khu vực trong thư viện và đặc biệt nhấn mạnh về khu vực không cho mượn trên tầng trệt. Thông tin giúp tìm ra đáp án là cụm từ \"non-lending section\", tức là khu vực không cho mượn, nơi mà sách chỉ có thể được đọc trong thư viện. Paraphrase quan trọng ở đây là \"books which can only be read in the library\" tương ứng với \"books that are too valuable or are used too much to lend out\". Bẫy có thể là việc người nghe có thể nhầm lẫn với các khu vực khác trong thư viện, nhưng rõ ràng thông tin đã chỉ rõ rằng sách ở khu vực này không thể mang ra ngoài. Vì vậy, đáp án đúng là B.",
+      "evidence": "The rest of the ground floor is taken up by the non-lending section of the library. Here we keep all the books, which are either too valuable or are used too much to lend out."
+    },
+    "q18": {
+      "explanation": "Người nói đang giới thiệu về các khu vực trong thư viện và cụ thể là khu vực nghệ thuật trên tầng một. Thông tin giúp tìm ra đáp án là \"arts section\", nơi chứa các cuốn sách về nghệ thuật và các môn học liên quan. Paraphrase quan trọng là \"books about Renaissance painters\" có thể được hiểu là sách về nghệ thuật, vì các họa sĩ thời kỳ Phục hưng là một phần của nghệ thuật. Không có bẫy trong câu này vì thông tin rất rõ ràng. Do đó, đáp án đúng là C.",
+      "evidence": "On the first floor above us, we have the arts section, which includes books that students will need for such subjects as languages, literature, art and history."
+    },
+    "q19": {
+      "explanation": "Người nói đang chỉ ra rằng tầng hai của thư viện là khu vực khoa học. Thông tin giúp tìm ra đáp án là \"science section\", nơi chứa các cuốn sách về hóa học và vật lý. Paraphrase quan trọng là \"books about chemistry and physics\" có thể được hiểu là sách thuộc lĩnh vực khoa học. Không có bẫy trong câu này vì thông tin rất rõ ràng. Vì vậy, đáp án đúng là D.",
+      "evidence": "On the second floor is a science section."
+    },
+    "q20": {
+      "explanation": "Người nói đang mô tả về khu vực tầng hầm của thư viện, nơi chứa các tạp chí và báo chí. Thông tin giúp tìm ra đáp án là \"stack system\", nơi chứa các ấn phẩm được gửi đến thư viện hàng tháng. Paraphrase quan trọng là \"publications which are sent to the library monthly\" có thể được hiểu là các tạp chí và báo mà thư viện đăng ký. Bẫy có thể là việc người nghe có thể nhầm lẫn với các khu vực khác, nhưng thông tin đã chỉ rõ rằng đây là nơi chứa các ấn phẩm. Do đó, đáp án đúng là A.",
+      "evidence": "Finally, in the basement, we have the stack system, which contains the university collection of magazines and journals that we have collected and to which we subscribe."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> OK then, on to the layout of the library. We're on the ground floor of the library at the moment. Here we have the reception, the computers, which you can use to search for books and their location, and the bathrooms which are behind the reception. </p><p><strong>Speaker 1:</strong> The rest of the ground floor is taken up by the non-lending section of the library. Here we keep all the books, which are either too valuable or are used too much to lend out. You can reserve time with these books at reception and use them during any time that the library is open, but, of course, you may not remove them from the library. </p><p><strong>Speaker 1:</strong> On the first floor above us, we have the arts section, which includes books that students will need for such subjects as languages, literature, art and history. </p><p><strong>Speaker 1:</strong> On the second floor is a science section. We'll see these in a minute. Of course, individual departments will usually have their specialist libraries in their buildings, though the computer catalogues here will list them, so you know where to find everything, whether it's here or in the specialist libraries. </p><p><strong>Speaker 1:</strong> Finally, in the basement, we have the stack system, which contains the university collection of magazines and journals that we have collected and to which we subscribe. </p><p><strong>Speaker 1:</strong> If there is anything that we do not have or that you can't find, please go to reception and let them know the details.</p>"
+}

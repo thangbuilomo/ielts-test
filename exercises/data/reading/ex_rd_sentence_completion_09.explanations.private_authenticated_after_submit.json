@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_sentence_completion_09",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q36": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"Studying the life cycles of vent organisms is difficult. Researchers have visited a mere fraction of the ocean’s thermal vent hot spots and they have been able to observe vent life only by shining bright lights on creatures accustomed to inky darkness. Another frequent problem is that any caught vent specimens die quickly when removed from their unique deep environment due to the swift change in the pressure.\". Cụm life cycles khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Studying the life cycles of vent organisms is difficult. Researchers have visited a mere fraction of the ocean’s thermal vent hot spots and they have been able to observe vent life only by shining bright lights on creatures accustomed to inky darkness. Another frequent problem is that any caught vent specimens die quickly when removed from their unique deep environment due to the swift change in the pressure._"
+    },
+    "q37": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"Researchers have visited a mere fraction of the ocean’s thermal vent hot spots and they have been able to observe vent life only by shining bright lights on creatures accustomed to inky darkness. Another frequent problem is that any caught vent specimens die quickly when removed from their unique deep environment due to the swift change in the pressure. Diving is also impossible because of the high temperatures and extreme depths.\". Cụm pressure khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Researchers have visited a mere fraction of the ocean’s thermal vent hot spots and they have been able to observe vent life only by shining bright lights on creatures accustomed to inky darkness. Another frequent problem is that any caught vent specimens die quickly when removed from their unique deep environment due to the swift change in the pressure. Diving is also impossible because of the high temperatures and extreme depths._"
+    },
+    "q38": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 7, bài viết nêu: \"For the first three decades of hydrothermal vent exploration, the greatest non-natural threat to vent communities was scientific exploration. In response to this realisation, the scientific community adopted a set of guidelines for proper and sustainable conduct of research at deep-sea hydrothermal vents. However, the impact from scientific research is still minuscule compared to the potential disturbance caused by large-scale mining operations.\". Cụm set of guidelines khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "For the first three decades of hydrothermal vent exploration, the greatest non-natural threat to vent communities was scientific exploration. In response to this realisation, the scientific community adopted a set of guidelines for proper and sustainable conduct of research at deep-sea hydrothermal vents. However, the impact from scientific research is still minuscule compared to the potential disturbance caused by large-scale mining operations._"
+    },
+    "q39": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 7, bài viết nêu: \"A minimum of 96 active deep-sea hydrothermal vent fields are currently under consideration for deep-sea mineral extraction. That is nearly one-fifth of all known hydrothermal vent fields. Only 8 per cent of these hydrothermal vent fields fall within a marine shielded area and this means that the other 92 per cent can be developed without the company worrying about the ecological effects.\". Cụm marine shielded area khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "A minimum of 96 active deep-sea hydrothermal vent fields are currently under consideration for deep-sea mineral extraction. That is nearly one-fifth of all known hydrothermal vent fields. Only 8 per cent of these hydrothermal vent fields fall within a marine shielded area and this means that the other 92 per cent can be developed without the company worrying about the ecological effects._"
+    },
+    "q40": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 8, bài viết nêu: \"Unfortunately, it is difficult to predict how deep-sea hydrothermal vent communities will respond to mining pressure. Some vent systems are incredibly dynamic, with individual vents experiencing dramatic natural disturbance on a continuous basis, while other vent systems are relatively stable, and may remain unchanged for centuries. The world must be careful about how it deals with these marine features, as the thermal vent sea-floor deposits are rich in minerals as well as being invaluable social and scientific resources.\". Cụm incredibly dynamic khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Unfortunately, it is difficult to predict how deep-sea hydrothermal vent communities will respond to mining pressure. Some vent systems are incredibly dynamic, with individual vents experiencing dramatic natural disturbance on a continuous basis, while other vent systems are relatively stable, and may remain unchanged for centuries. The world must be careful about how it deals with these marine features, as the thermal vent sea-floor deposits are rich in minerals as well as being invaluable social and scientific resources._"
+    }
+  }
+}

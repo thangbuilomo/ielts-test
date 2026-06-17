@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_46",
+  "module": "listening",
+  "question_count": 10,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2046.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You will hear part of a history lecture about a weapon known as Greek fire. You now have some time to look at the questions on your screen. Now, answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Hello, everyone. Today, I'd like to continue our lecture series on medieval warfare. I shall be telling you today about a weapon known as Greek fire, which was an early form of chemical weapon dating back to around the 7th century. It was most probably developed by the Byzantines, the people who lived around what is now Istanbul in Turkey. </p><p><strong>Speaker 2:</strong> Now, in battle, Greek fire enabled the Byzantines to set fire to the ships of whoever they were fighting against and to do so from a distance. This gave them a massive military advantage over their enemies. </p><p><strong>Speaker 2:</strong> We do know that Greek fire was a terrifying weapon that proved particularly effective because unlike the majority of substances, when it came into contact with water, it would just carry on burning. It also had the property of sticking to whatever it touched. So, you see, what made Greek fire such a devastating weapon is that once it was burning, it was incredibly difficult to extinguish. </p><p><strong>Speaker 2:</strong> Vinegar seems to have worked, but this isn't likely to have been something that was readily available to the average medieval soldier in the middle of a battle. And so, anyone under attack from Greek fire really had very limited options in terms of actually putting the flames out. </p><p><strong>Speaker 2:</strong> The inflammable substance that we refer to as Greek fire was actually liquid in form and it was packed into pots which were then shot into the air and towards the enemy using a catapult. These would then shatter when they landed and the area affected would burst into flames, often with devastating effect. </p><p><strong>Speaker 2:</strong> So, what did Greek fire consist of and how was it made? Well, the answer is that we don't really know for sure. The reason that so little is known is that the actual composition of Greek fire had to be a secret because the Byzantines, understandably, didn't want to lose the military advantage that it gave them. </p><p><strong>Speaker 2:</strong> So, we have to try and work out as best we can what the raw materials might have been and how the Byzantines produced it. One thing we know is that the substance was sticky and it is likely that resin was obtained from wood in the pine forest which covered so much of the Byzantines' territory at the time. This was almost certainly used to make Greek fire. </p><p><strong>Speaker 2:</strong> Clearly, access to the raw materials needed to produce it was absolutely essential and one of these was sulfur. The Byzantines also controlled areas where oil can be found close to the surface of the earth, so this was almost certainly another of the key components. </p><p><strong>Speaker 2:</strong> One key objective for the Byzantines in any military campaign was to prevent the Greek fire from being captured by the enemy. However, in the year 812, an army from Bulgaria managed to do just that. They removed some Greek fire intact and unburned, but however hard they tried, they were unable to copy it. If they had managed, well, we can only guess whether that could have affected the balance of power in the region. </p><p><strong>Speaker 2:</strong> There are some surviving contemporary reports of Greek fire and I'd like to start around the year 900 with an account by the Byzantine Emperor Leo VI, perhaps writing to intimidate potential enemies, who described the enormous amount of smoke that would appear whenever Greek fire was discharged by his army. </p><p><strong>Speaker 2:</strong> Another account is from Lord of Joinville, a writer from France who lived in the 13th century. He described the absolutely deafening noise there would be all of a sudden whenever Greek fire was used. When you read these contemporary accounts, presumably from people describing what they themselves had witnessed, it really gets across how terrifying Greek fire must have been.</p>"
+    }
+  ]
+}

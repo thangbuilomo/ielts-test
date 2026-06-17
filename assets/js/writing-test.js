@@ -21,6 +21,7 @@
     startError: document.getElementById('startError'),
     startBtn: document.getElementById('startBtn'),
     guestBtn: document.getElementById('guestBtn'),
+    rememberLogin: document.getElementById('rememberLogin'),
     attemptLabel: document.getElementById('attemptLabel'),
     timerDisplay: document.getElementById('timerDisplay'),
     saveStatus: document.getElementById('saveStatus'),
@@ -459,6 +460,9 @@
         authToken: authResult.auth_token || '',
         guestMode: false
       });
+      window.SaolaAuth?.rememberExternalLogin?.(authResult, {
+        remember: Boolean(els.rememberLogin?.checked)
+      });
     } catch (err) {
       els.startError.textContent = String(err && err.message ? err.message : err);
       if (document.fullscreenElement && document.exitFullscreen) {
@@ -501,6 +505,42 @@
         submitFinal('time_expired');
       }
     }, 1000);
+  }
+
+  function setupSavedLoginGate() {
+    const savedUser = window.SaolaAuth?.getSavedUser?.();
+    if (!savedUser || !window.SaolaAuth?.isLoggedIn?.()) return null;
+
+    const panel = els.startOverlay?.querySelector('.start-auth');
+    if (panel) {
+      panel.querySelector('label[for="studentEmail"]')?.style.setProperty('display', 'none');
+      panel.querySelector('label[for="studentPassword"]')?.style.setProperty('display', 'none');
+      els.studentEmail?.style.setProperty('display', 'none');
+      els.studentPassword?.style.setProperty('display', 'none');
+      els.rememberLogin?.closest('label')?.style.setProperty('display', 'none');
+      els.guestBtn?.style.setProperty('display', 'none');
+
+      if (!document.getElementById('savedLoginNotice')) {
+        const notice = document.createElement('div');
+        notice.id = 'savedLoginNotice';
+        notice.className = 'auth-note';
+        notice.textContent = `Logged in as ${savedUser.student_name || savedUser.email || 'Saola Student'}.`;
+        els.startError.insertAdjacentElement('beforebegin', notice);
+      }
+    }
+
+    els.startBtn.textContent = 'Start saved login';
+    return savedUser;
+  }
+
+  function startSavedLoginTest(savedUser) {
+    els.startError.textContent = '';
+    beginExam({
+      email: savedUser.email || '',
+      studentName: savedUser.student_name || savedUser.email || 'Saola Student',
+      authToken: savedUser.auth_token || 'static_local_login',
+      guestMode: false
+    });
   }
 
   function switchTask(taskId) {
@@ -720,7 +760,14 @@
     });
   }
 
-  els.startBtn.addEventListener('click', startTest);
+  const savedLoginUser = setupSavedLoginGate();
+  els.startBtn.addEventListener('click', () => {
+    if (savedLoginUser) {
+      startSavedLoginTest(savedLoginUser);
+      return;
+    }
+    startTest();
+  });
   els.guestBtn.addEventListener('click', startGuestTest);
   els.ackViolationBtn.addEventListener('click', closeViolationModal);
   els.submitTopBtn.addEventListener('click', openSubmitModal);

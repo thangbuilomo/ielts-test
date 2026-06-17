@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_24",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Trong đoạn hội thoại, người gọi (James) đã giới thiệu tên của mình là James Sloan. Đây là thông tin trực tiếp liên quan đến câu hỏi về tên của khách hàng mới. Câu này không có paraphrase nào phức tạp, vì người nói đã trực tiếp nêu tên của mình. Không có bẫy nào trong câu này, vì thông tin rõ ràng và không bị nhầm lẫn với bất kỳ tên nào khác. Đáp án đúng là \"Sloan\" vì đây là họ của James. Các khả năng khác như \"James\" không đúng vì câu hỏi yêu cầu họ, không phải tên.",
+      "evidence": "Yes, it's James, James Sloan."
+    },
+    "q2": {
+      "explanation": "Trong đoạn hội thoại, James đã cung cấp thông tin về địa chỉ của mình, bao gồm cả mã bưu điện. Câu này rõ ràng nêu ra mã bưu điện mà James đã cung cấp. Không có paraphrase nào cần chú ý trong câu này, vì thông tin được nêu một cách trực tiếp. Bẫy có thể là việc người nghe có thể nhầm lẫn giữa mã bưu điện và thành phố, nhưng câu hỏi rõ ràng yêu cầu mã bưu điện. Đáp án \"EX349QY\" là chính xác vì đây là thông tin mà James đã cung cấp.",
+      "evidence": "Yes, the city is Exeter and the postcode is EX349QY."
+    },
+    "q3": {
+      "explanation": "James đã xác nhận rằng có ba người sẽ sử dụng internet trong gia đình, bao gồm anh, vợ và con gái. Câu này thể hiện rõ ràng số lượng người sử dụng internet. Paraphrase cần chú ý là \"let's say three,\" có nghĩa là James đã điều chỉnh số lượng từ hai thành ba. Không có bẫy trong câu này, vì thông tin được cung cấp một cách rõ ràng. Đáp án \"3\" là chính xác vì đây là số lượng người mà James đã xác nhận.",
+      "evidence": "So just two of you? No, let's say three."
+    },
+    "q4": {
+      "explanation": "James đã nói rõ rằng anh và vợ không quan tâm đến việc xem video trực tuyến, điều này cho thấy rằng họ không sử dụng internet cho mục đích này. Paraphrase cần chú ý là \"streaming videos,\" vì đây là thuật ngữ chính xác để điền vào chỗ trống. Bẫy có thể là việc người nghe có thể nghĩ rằng \"downloading\" hoặc \"watching\" cũng có thể đúng, nhưng James đã khẳng định rằng họ không quan tâm đến việc xem video trực tuyến. Đáp án \"streaming\" là chính xác vì đây là thông tin mà James đã cung cấp.",
+      "evidence": "Not me, and my wife doesn't either."
+    },
+    "q5": {
+      "explanation": "James đã nhấn mạnh rằng anh thực hiện các cuộc gọi video thường xuyên, điều này cho thấy nhu cầu sử dụng internet cho mục đích này. Paraphrase cần chú ý là \"video calls,\" vì đây là cụm từ chính xác để điền vào chỗ trống. Không có bẫy trong câu này, vì thông tin được cung cấp một cách rõ ràng và không có sự nhầm lẫn nào. Đáp án \"video calls\" là chính xác vì đây là thông tin mà James đã cung cấp về nhu cầu sử dụng internet của mình.",
+      "evidence": "All the time. I do a lot of work online, so I need to be able to contact people."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Hello, Global Internet. How may I help you?</p><p><strong>Speaker 1:</strong> Hello, I've just moved house and I want to get my internet set up.</p><p><strong>Speaker 2:</strong> Okay, sir. Could I take your name, please?</p><p><strong>Speaker 1:</strong> Yes, it's James, James Sloan.</p><p><strong>Speaker 2:</strong> How do you spell Sloan?</p><p><strong>Speaker 1:</strong> It's S-L-O-A-N-E.</p><p><strong>Speaker 2:</strong> Okay, Mr. Sloan. What sort of package are you looking for?</p><p><strong>Speaker 1:</strong> I'm not sure, really.</p><p><strong>Speaker 2:</strong> Okay, that's no problem. Well, if I can just start by taking your address first.</p><p><strong>Speaker 1:</strong> Okay, great. I live at 17 Melrose Drive.</p><p><strong>Speaker 2:</strong> Sorry, did you say 70?</p><p><strong>Speaker 1:</strong> No, sorry, 17.</p><p><strong>Speaker 2:</strong> OK. And the city and postcode?</p><p><strong>Speaker 1:</strong> Yes, the city is Exeter and the postcode is EX349QY.</p><p><strong>Speaker 2:</strong> OK, that's great. I'm just putting that into the computer now. OK, so you said you aren't sure what package you would like. Is that correct?</p><p><strong>Speaker 1:</strong> Yes, that's right.</p><p><strong>Speaker 2:</strong> OK, well, I'll ask you a few questions that can help you choose the best package for you.</p><p><strong>Speaker 1:</strong> OK, that sounds great.</p><p><strong>Speaker 2:</strong> First, how many people will use the internet in your house?</p><p><strong>Speaker 1:</strong> Well, there's me and my wife and our four-year-old daughter, but she's too young to use it. So just two of you?</p><p><strong>Speaker 1:</strong> No, let's say three. Our daughter might need to use it when she starts school next year.</p><p><strong>Speaker 2:</strong> OK. And which of the following things do you use the internet for? Downloading films and music?</p><p><strong>Speaker 1:</strong> No, never. Though, but my wife sometimes does, so let's say yes.</p><p><strong>Speaker 2:</strong> OK. Streaming videos, for example YouTube?</p><p><strong>Speaker 1:</strong> Not me, and my wife doesn't either.</p><p><strong>Speaker 2:</strong> Alright. And what about making video calls, like Skype?</p><p><strong>Speaker 1:</strong> All the time. I do a lot of work online, so I need to be able to contact people.</p><p><strong>Speaker 2:</strong> OK, great. And how about playing online games?</p><p><strong>Speaker 1:</strong> I don't have the time for that.</p>"
+}

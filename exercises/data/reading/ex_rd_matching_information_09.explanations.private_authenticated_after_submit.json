@@ -1,0 +1,44 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_information_09",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Câu 1 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 5 chứa căn cứ: \"Next Gardner traced musical intelligence to certain areas of the brain. Impaired or autistic children, who are unable to talk or interact with others, have often exemplified exceptional musical talent. People of this type of intelligence show great aptitude for music, have excellent pitch, and a good sense of rhythm.\". Lựa chọn C (Musical type) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Next Gardner traced musical intelligence to certain areas of the brain. Impaired or autistic children, who are unable to talk or interact with others, have often exemplified exceptional musical talent. People of this type of intelligence show great aptitude for music, have excellent pitch, and a good sense of rhythm._"
+    },
+    "q2": {
+      "explanation": "Câu 2 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 4 chứa căn cứ: \"The linguistic type, as you might guess, is the natural born writer and poet. They usually have excellent storytelling skills, spelling skills, and love to play with words. They tend to be bookworms and can easily learn more than one language.\". Lựa chọn B (Linguistic type) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The linguistic type, as you might guess, is the natural born writer and poet. They usually have excellent storytelling skills, spelling skills, and love to play with words. They tend to be bookworms and can easily learn more than one language._"
+    },
+    "q3": {
+      "explanation": "Câu 3 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 5 chứa căn cứ: \"Next Gardner traced musical intelligence to certain areas of the brain. Impaired or autistic children, who are unable to talk or interact with others, have often exemplified exceptional musical talent. People of this type of intelligence show great aptitude for music, have excellent pitch, and a good sense of rhythm.\". Lựa chọn G (Body-kinesthetic type) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Next Gardner traced musical intelligence to certain areas of the brain. Impaired or autistic children, who are unable to talk or interact with others, have often exemplified exceptional musical talent. People of this type of intelligence show great aptitude for music, have excellent pitch, and a good sense of rhythm._"
+    },
+    "q4": {
+      "explanation": "Câu 4 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 7 chứa căn cứ: \"Intrapersonal intelligence is almost the opposite of interpersonal intelligence. This kind of intelligence deals with how well you know yourself. People who possess a higher degree of this type of intelligence have high self-esteem, self-enhancement and a strong sense of character.\". Lựa chọn E (Intrapersonal type) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Intrapersonal intelligence is almost the opposite of interpersonal intelligence. This kind of intelligence deals with how well you know yourself. People who possess a higher degree of this type of intelligence have high self-esteem, self-enhancement and a strong sense of character._"
+    },
+    "q5": {
+      "explanation": "Câu 5 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 3 chứa căn cứ: \"First of all, Gardner characterises logical-mathematical intelligence as people who think logically and are able to transfer abstract concepts to reality. These people enjoy solving puzzles and can be good inventors because they can visualise an invention even before making a prototype. They normally do better in school, which is for the most part due to the fact that schools are designed for the logical-mathematical type of thinkers.\". Lựa chọn A (Logical-mathematical type) là lựa chọn khớp với chi tiết này.",
+      "evidence": "First of all, Gardner characterises logical-mathematical intelligence as people who think logically and are able to transfer abstract concepts to reality. These people enjoy solving puzzles and can be good inventors because they can visualise an invention even before making a prototype. They normally do better in school, which is for the most part due to the fact that schools are designed for the logical-mathematical type of thinkers._"
+    },
+    "q6": {
+      "explanation": "Câu 6 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 5 chứa căn cứ: \"Next Gardner traced musical intelligence to certain areas of the brain. Impaired or autistic children, who are unable to talk or interact with others, have often exemplified exceptional musical talent. People of this type of intelligence show great aptitude for music, have excellent pitch, and a good sense of rhythm.\". Lựa chọn F (Spatial type) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Next Gardner traced musical intelligence to certain areas of the brain. Impaired or autistic children, who are unable to talk or interact with others, have often exemplified exceptional musical talent. People of this type of intelligence show great aptitude for music, have excellent pitch, and a good sense of rhythm._"
+    },
+    "q7": {
+      "explanation": "Câu 7 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 7 chứa căn cứ: \"Intrapersonal intelligence is almost the opposite of interpersonal intelligence. This kind of intelligence deals with how well you know yourself. People who possess a higher degree of this type of intelligence have high self-esteem, self-enhancement and a strong sense of character.\". Lựa chọn D (Interpersonal type) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Intrapersonal intelligence is almost the opposite of interpersonal intelligence. This kind of intelligence deals with how well you know yourself. People who possess a higher degree of this type of intelligence have high self-esteem, self-enhancement and a strong sense of character._"
+    }
+  }
+}

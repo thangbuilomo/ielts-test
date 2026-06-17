@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_61",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q7": {
+      "explanation": "Người nói đang thảo luận về chi phí bổ sung cho việc nâng cấp đặt phòng từ một phòng thông thường sang một phòng suite. Thông tin giúp tìm ra đáp án là con số £39, được nêu rõ ràng khi người nói xác nhận chi phí bổ sung. Paraphrase quan trọng ở đây là \"another £39\", nghĩa là một khoản tiền bổ sung. Bẫy có thể là sự nhầm lẫn giữa tổng chi phí và chi phí bổ sung, nhưng đáp án đúng là £39 vì đó là số tiền cụ thể mà khách hàng phải trả thêm.",
+      "evidence": "so it would be another £39, because the suite would be £902."
+    },
+    "q8": {
+      "explanation": "Người nói đang đề cập đến yêu cầu đặc biệt của nhóm khách hàng, cụ thể là việc cần có xe lăn cho chồng của cô ấy. Thông tin giúp tìm ra đáp án là cụm từ \"wheelchair user\", cho thấy rằng có một thành viên trong nhóm cần sử dụng xe lăn. Paraphrase quan trọng là \"we'll have to have that with us\", tức là cần phải có xe lăn trong chuyến đi. Không có bẫy ở đây vì thông tin rất rõ ràng và cụ thể. Đáp án đúng là \"wheelchair\" vì đó là yêu cầu đặc biệt mà khách hàng đã đề cập.",
+      "evidence": "my husband's a wheelchair user, so obviously we'll have to have that with us."
+    },
+    "q9": {
+      "explanation": "Người nói đang thông báo về một yêu cầu đặc biệt khác liên quan đến sức khỏe của một thành viên trong nhóm. Thông tin giúp tìm ra đáp án là cụm từ \"fish allergy\", cho thấy rằng có một người trong nhóm bị dị ứng với cá. Paraphrase quan trọng là \"has a fish allergy\", tức là có phản ứng dị ứng với cá. Bẫy có thể là sự nhầm lẫn với các loại dị ứng khác, nhưng đáp án đúng là \"fish\" vì đó là loại thực phẩm cụ thể mà người đó không thể ăn.",
+      "evidence": "my daughter's friend has a fish allergy."
+    },
+    "q10": {
+      "explanation": "Người nói đang cung cấp số điện thoại của chồng cô ấy để khách sạn có thể liên lạc nếu cần. Thông tin giúp tìm ra đáp án là số điện thoại được nêu rõ ràng và không có sự nhầm lẫn nào. Paraphrase quan trọng là \"can I give you my husband's as well\", tức là cô ấy muốn cung cấp thêm thông tin liên lạc. Không có bẫy ở đây vì số điện thoại được nêu rõ ràng. Đáp án đúng là \"07905 77 38795\" vì đó là số điện thoại mà khách hàng đã cung cấp.",
+      "evidence": "07905 77 38795."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You will hear a woman phoning a hotel to change her booking. You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> I'm not sure about that, to be honest. It sounds expensive.</p><p><strong>Speaker 3:</strong> Actually, the suites tend to work out as better value than having two individual rooms. I'll just check to see what the charge would be to upgrade. </p><p><strong>Speaker 2:</strong> Okay, you've paid £863 for your original booking, so it would be another £39, because the suite would be £902.</p><p><strong>Speaker 2:</strong> Oh, so I'd need to pay a different.</p><p><strong>Speaker 3:</strong> Exactly, but you can do that on arrival at the hotel.</p><p><strong>Speaker 2:</strong> Great. Okay, now do any of the party have any special requirements?</p><p><strong>Speaker 3:</strong> Yes, my husband's a wheelchair user, so obviously we'll have to have that with us.</p><p><strong>Speaker 3:</strong> Of course, I'll make note of that. But the hotel is fully accessible, and staff are always available if there's anything that can be done to make your stay more comfortable.</p><p><strong>Speaker 2:</strong> I appreciate that. Oh, and one other thing. My daughter's friend has a fish allergy.</p><p><strong>Speaker 3:</strong> Fine, I'll make note of that, but they'll need to mention it to restaurant staff when they're here.</p><p><strong>Speaker 2:</strong> One more thing. I entered my phone number when I made the original booking, but can I give you my husband's as well, just in case?</p><p><strong>Speaker 3:</strong> Yes, please. </p><p><strong>Speaker 2:</strong> 07905 77 38795.</p><p><strong>Speaker 3:</strong> Got that. Thank you very much, and we look forward to seeing you here.</p><p><strong>Speaker 2:</strong> Thank you.</p>"
+}

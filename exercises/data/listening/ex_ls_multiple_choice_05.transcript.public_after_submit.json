@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_05",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2005.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> And Melanie, how's your work going?</p><p><strong>Speaker 3:</strong> I'm a bit behind, I'm afraid. I was sick all last week and weekend with flu. I've got a subject, I think, but I've not done any work on it yet. Is there any chance I can get an extension to the submission date?</p><p><strong>Speaker 2:</strong> The policy of the department is not to give any extensions unless there are extenuating circumstances. Do you have a doctor's certificate or anything?</p><p><strong>Speaker 3:</strong> I went to the doctors, but I didn't get a note as I didn't realise I would need it. The doctor will have a record of me, though, as I got a prescription. I'll go back and get one.</p><p><strong>Speaker 2:</strong> Yes, do. If you get one, then there shouldn't be a problem getting an extension. Without it, though, you'll be in trouble. </p><p><strong>Speaker 1:</strong> What subject are you considering, anyway?</p><p><strong>Speaker 3:</strong> I thought I'd do an overview of the UK mortgage interest rates and their effect on housing sales trends over the last ten years. I thought it might be of interest because of the huge increases of house prices over the last decade.</p><p><strong>Speaker 2:</strong> Certainly an interesting subject, and it should be no great problem getting information as this has been fairly well documented. It's a lot of work again, though, and you'll really need to get cracking on it, even with the extension, if you get one.</p><p><strong>Speaker 3:</strong> Well, I've not got much on for the rest of the week, and I've set aside the weekend to really get to grips with it.</p><p><strong>Speaker 2:</strong> Good. Now, is there anything else?</p>"
+    }
+  ]
+}

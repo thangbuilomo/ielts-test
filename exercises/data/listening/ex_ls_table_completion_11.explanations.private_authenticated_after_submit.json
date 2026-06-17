@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_11",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói đang cung cấp thông tin về độ tuổi của các con của họ. Câu này rõ ràng chỉ ra rằng Jennifer, cô con gái nhỏ, 4 tuổi. Thông tin này giúp tìm ra đáp án vì nó trực tiếp trả lời câu hỏi về độ tuổi của Jennifer. Paraphrase quan trọng ở đây là \"four\" được sử dụng để chỉ độ tuổi của Jennifer. Không có bẫy trong câu này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng vì nó chính xác phản ánh độ tuổi mà người nói đã cung cấp.",
+      "evidence": "Mike's seven and Jennifer's four."
+    },
+    "q2": {
+      "explanation": "Người nói đang trả lời câu hỏi về việc có cần dịch vụ giữ trẻ hay không. Câu trả lời \"No\" cho thấy họ không cần dịch vụ này vì họ muốn dành thời gian với con cái. Thông tin giúp tìm ra đáp án là câu hỏi về dịch vụ giữ trẻ và câu trả lời của người nói. Paraphrase quan trọng là \"no babysitting facilities\" được diễn đạt qua việc người nói từ chối dịch vụ này. Bẫy có thể là sự nhầm lẫn giữa việc cần dịch vụ giữ trẻ và không cần, nhưng câu trả lời rõ ràng cho thấy họ không cần. Đáp án đúng vì nó phản ánh chính xác yêu cầu của người nói.",
+      "evidence": "Would you want any babysitting facilities in the hotel so you and your wife can get away when you want?\" \"No, I work quite hard and I don't see the kids as often as I want at home, so I'm looking forward to spending all my time with them."
+    },
+    "q3": {
+      "explanation": "Người nói đang cung cấp thông tin về ngày bắt đầu và kết thúc kỳ nghỉ của họ. Câu này chỉ rõ rằng họ sẽ kết thúc kỳ nghỉ vào ngày 24 tháng 7. Thông tin giúp tìm ra đáp án là việc người nói đã nêu rõ ngày 24 là ngày họ cần kết thúc kỳ nghỉ. Paraphrase quan trọng là \"finish the holiday then on the 24th\" có nghĩa là họ sẽ không ở lại sau ngày này. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác ngày mà người nói đã xác định.",
+      "evidence": "I finish work on Friday night on July the 8th, and I'm off for two weeks, so I'll need to be back at work on the Monday 25th. I'll need to finish the holiday then on the 24th."
+    },
+    "q4": {
+      "explanation": "Người nói đang nói về thời gian họ muốn dành cho việc di chuyển. Họ muốn thời gian di chuyển trên máy bay không vượt quá bốn giờ. Thông tin giúp tìm ra đáp án là cụm từ \"not more than four hours\" chỉ rõ giới hạn thời gian. Paraphrase quan trọng là \"less than four hours\" có thể được hiểu là không vượt quá bốn giờ. Bẫy có thể là sự nhầm lẫn giữa thời gian di chuyển bằng xe và máy bay, nhưng câu này rõ ràng phân biệt hai loại thời gian. Đáp án đúng vì nó phản ánh chính xác yêu cầu của người nói về thời gian di chuyển.",
+      "evidence": "Not more than a couple of hours in the car to get to an airport, and then not more than four hours on a plane."
+    },
+    "q5": {
+      "explanation": "Người nói đang cung cấp thông tin về thời gian họ sẽ nghỉ. Câu này chỉ rõ rằng họ sẽ nghỉ trong hai tuần. Thông tin giúp tìm ra đáp án là cụm từ \"off for two weeks\" trực tiếp chỉ ra thời gian nghỉ. Paraphrase quan trọng là \"2 weeks\" được sử dụng để chỉ thời gian nghỉ. Không có bẫy trong câu này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng vì nó phản ánh chính xác thời gian mà người nói đã xác định cho kỳ nghỉ của họ.",
+      "evidence": "I finish work on Friday night on July the 8th, and I'm off for two weeks..."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Right, I'll just take some personal details, sir. First of all, what's your name?</p><p><strong>Speaker 2:</strong> Arthur Collins.</p><p><strong>Speaker 1:</strong> Collins, is that C-O-L-L-I-N-S?</p><p><strong>Speaker 2:</strong> Yes, that's right. Thank you. And what about your wife and children?</p><p><strong>Speaker 2:</strong> My wife's name is Jane, my boy's name is Mike, and my little girl is Jennifer.</p><p><strong>Speaker 1:</strong> Is that Mike spelled M-I-K-E?</p><p><strong>Speaker 2:</strong> That's right. How old are the children?</p><p><strong>Speaker 2:</strong> Mike's seven and Jennifer's four.</p><p><strong>Speaker 1:</strong> Ah, they're quite small then.</p><p><strong>Speaker 2:</strong> Oh yes, we just need a safe, little place. A warm climate, a quietish, safe beach, a pool, preferably, and lots of small restaurants and bars near the hotel. Would you want any babysitting facilities in the hotel so you and your wife can get away when you want?</p><p><strong>Speaker 2:</strong> No, I work quite hard and I don't see the kids as often as I want at home, so I'm looking forward to spending all my time with them. </p><p><strong>Speaker 1:</strong> And what eating arrangements do you want?</p><p><strong>Speaker 2:</strong> We'll have breakfast at the hotel, but we'll eat lunch and dinner at a beach cafe. We'd want about four-star quality for the hotel, by the way.</p><p><strong>Speaker 1:</strong> Right, and what time in the summer are you thinking of taking the holiday?</p><p><strong>Speaker 2:</strong> I finish work on Friday night on July the 8th, and I'm off for two weeks, so I'll need to be back at work on the Monday 25th. I'll need to finish the holiday then on the 24th.</p><p><strong>Speaker 1:</strong> And how long would you want to spend travelling?</p><p><strong>Speaker 2:</strong> Oh, as little as possible, of course, with the little ones. Not more than a couple of hours in the car to get to an airport, and then not more than four hours on a plane.</p>"
+}

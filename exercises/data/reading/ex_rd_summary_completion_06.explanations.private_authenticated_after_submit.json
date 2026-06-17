@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_summary_completion_06",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q36": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn D, bài viết nêu: \"Travelling several hundred miles over the waterlogged bog and tundra, the hungry and exhausted travellers were forced to feed on the only plentiful plants they could find - primitive lichens covering otherwise bare rocks. George Back, a member of Richardson’s crew, showed great courage and selflessness in assisting the men stranded at Fort Enterprise, when he volunteered, together with some voyageurs, to undertake a winter journey of 500 miles to reach the camp of the Native American Chief Akaitcho.\". Cụm lichens khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Travelling several hundred miles over the waterlogged bog and tundra, the hungry and exhausted travellers were forced to feed on the only plentiful plants they could find - primitive lichens covering otherwise bare rocks. George Back, a member of Richardson’s crew, showed great courage and selflessness in assisting the men stranded at Fort Enterprise, when he volunteered, together with some voyageurs, to undertake a winter journey of 500 miles to reach the camp of the Native American Chief Akaitcho._"
+    },
+    "q37": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn E, bài viết nêu: \"Meanwhile, Richardson had agreed to stay behind with two sick members of the party, Hood and Hepburn, near the Coppermine River. The three emaciated men survived on insects and sheltered in a small tent, but continued to observe morning and evening religious prayers to maintain morale. Richardson was soon forced to make the most momentous decisions of his life when he encountered one of the Iroquois Indian guides, attached to the main party, who claimed to have lost his way.\". Cụm insects khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Meanwhile, Richardson had agreed to stay behind with two sick members of the party, Hood and Hepburn, near the Coppermine River. The three emaciated men survived on insects and sheltered in a small tent, but continued to observe morning and evening religious prayers to maintain morale. Richardson was soon forced to make the most momentous decisions of his life when he encountered one of the Iroquois Indian guides, attached to the main party, who claimed to have lost his way._"
+    },
+    "q38": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn E, bài viết nêu: \"Richardson was soon forced to make the most momentous decisions of his life when he encountered one of the Iroquois Indian guides, attached to the main party, who claimed to have lost his way. A number of incidents convinced Richardson that the well-armed guide intended to kill the weakened party of Europeans for food. One morning, one of the men, Hood, was found dead with a gunshot wound to the head.\". Cụm head khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Richardson was soon forced to make the most momentous decisions of his life when he encountered one of the Iroquois Indian guides, attached to the main party, who claimed to have lost his way. A number of incidents convinced Richardson that the well-armed guide intended to kill the weakened party of Europeans for food. One morning, one of the men, Hood, was found dead with a gunshot wound to the head._"
+    },
+    "q39": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn F, bài viết nêu: \"When Richardson and Hepburn later reached Fort Enterprise, they found the main party near to death from starvation and thoroughly demoralised, including their leader, Lieutenant Franklin. It was Richardson who then took charge, clearing out their filthy quarters and organising the sharing of what little sustenance they had, mainly consisting of old bones and scraps found outside. It was from this time that legends of making soup from old animal skins and leather moccasins emerged.\". Cụm demoralised khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "When Richardson and Hepburn later reached Fort Enterprise, they found the main party near to death from starvation and thoroughly demoralised, including their leader, Lieutenant Franklin. It was Richardson who then took charge, clearing out their filthy quarters and organising the sharing of what little sustenance they had, mainly consisting of old bones and scraps found outside. It was from this time that legends of making soup from old animal skins and leather moccasins emerged._"
+    },
+    "q40": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn G, bài viết nêu: \"Richardson later accompanied a second Franklin expedition in the years 1825-27, which was much better organised, enabling him to consolidate his collections and observations and forming the basis of the very first comprehensive study of the natural history of the Arctic. Following his knighthood in 1846, he led an unsuccessful search expedition to determine what had happened to John Franklin’s last Arctic expedition which had never returned and in which all died. It was not until the 1980s, when forensic science was applied to the buried corpses - perfectly intact in the ice - that it was found that theymost probably died as a result of the latest technology of the time: tinned food.\". Cụm tinned food khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Richardson later accompanied a second Franklin expedition in the years 1825-27, which was much better organised, enabling him to consolidate his collections and observations and forming the basis of the very first comprehensive study of the natural history of the Arctic. Following his knighthood in 1846, he led an unsuccessful search expedition to determine what had happened to John Franklin’s last Arctic expedition which had never returned and in which all died. It was not until the 1980s, when forensic science was applied to the buried corpses - perfectly intact in the ice - that it was found that theymost probably died as a result of the latest technology of the time: tinned food._"
+    }
+  }
+}

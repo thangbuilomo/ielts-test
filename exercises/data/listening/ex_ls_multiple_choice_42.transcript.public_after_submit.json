@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_42",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2042.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Hello, Sally. How are you? </p><p><strong>Speaker 1:</strong> Wow, Heath. Yeah, I'm fine. How are you? </p><p><strong>Speaker 2:</strong> I'm great, thanks. I haven't seen you since we left school. How long ago is that now? </p><p><strong>Speaker 1:</strong> It must be ten years. Or is it eleven? </p><p><strong>Speaker 2:</strong> It's nine years now. What are you doing with yourself? You were going to be a doctor, weren't you? Or something medical, like a chiropractor.</p><p><strong>Speaker 1:</strong> Well, I was going to be, but that's not what I did. I started medical school, but I didn't really enjoy it. And the idea of doing it for five or six years, and then continuing to study for years after that, didn't really appeal. So I left medical school and went to the teacher training college to be a science teacher. </p><p><strong>Speaker 2:</strong> And I thought for all these years that you were earning mega bucks as a doctor or working in a pharmaceutical company. </p><p><strong>Speaker 1:</strong> No, just a teacher. I love it, though. I'm so glad I did it instead of medicine. </p><p><strong>Speaker 2:</strong> And what are you doing, Sally?</p><p><strong>Speaker 1:</strong> After school, I didn't really know what I wanted to do, so I travelled for a couple of years around the world. </p><p><strong>Speaker 2:</strong> Great. Where did you go? </p><p><strong>Speaker 1:</strong> Lots of places, but nowhere in Europe. I wanted to travel long distance. First of all, I travelled through India and Nepal. Then I moved into Southeast Asia for a few months. Then I went to Australia and New Zealand. After that, I went to Africa and went around various countries there. After that, it was South America, Central America and North America. </p><p><strong>Speaker 2:</strong> How on earth did you afford all that? </p><p><strong>Speaker 1:</strong> I just settled down and worked for a few months in places where I could get a job and save money. Then when I had enough, I moved on. I wasn't exactly staying in luxurious places, though. </p><p><strong>Speaker 2:</strong> And now what? You always wanted to work with computers, didn't you? </p><p><strong>Speaker 1:</strong> Yes, I remember that. However, when I finished all the travelling, I thought of going into travel writing. It's so competitive. I always fancied journalism as well, so I got into that and right now I'm working for the local paper. </p><p><strong>Speaker 2:</strong> Did you have to study for that? </p><p><strong>Speaker 1:</strong> Well, some people don't, but I went to college for a year to do a journalism course, and I'm glad I did as it gave me a bit of a head start. And certainly helped me get my first job. </p><p><strong>Speaker 2:</strong> And are you married and kids or what? </p><p><strong>Speaker 1:</strong> I married a man called Gordon that I met while I was in Australia. We haven't had kids yet, though we're planning on having at least two or three. </p><p><strong>Speaker 2:</strong> What about you? Do you remember Kate, who I dated once at school? </p><p><strong>Speaker 1:</strong> Of course. The prettiest girl in the school. You didn't marry her, did you? </p><p><strong>Speaker 2:</strong> Yes. We managed to stay together all through college. She did teaching too, so we were at the same place for three years at college. We thought about getting married in our last year at college, but it was all too much, and then we were too busy the year after graduation. So we did it two years after we graduated.</p>"
+    }
+  ]
+}

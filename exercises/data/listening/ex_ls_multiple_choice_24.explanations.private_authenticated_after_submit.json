@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_24",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q26": {
+      "explanation": "Người nói, Cassie, đang nói về thời điểm bắt đầu công việc thực tập của cô ở Paris. Cô đã hy vọng bắt đầu vào đầu tháng Chín, nhưng công ty yêu cầu cô bắt đầu sớm hơn, cụ thể là vào đầu tháng Bảy. Thông tin này giúp xác định đáp án đúng là A. Paraphrase quan trọng ở đây là \"early July\" (đầu tháng Bảy). Không có bẫy trong câu hỏi này vì thông tin được cung cấp rất rõ ràng và trực tiếp từ Cassie. Đáp án A là chính xác vì nó phản ánh đúng thời gian mà Cassie sẽ bắt đầu công việc của mình.",
+      "evidence": "Obviously, we're still at college in June, so early July it'll have to be."
+    },
+    "q27": {
+      "explanation": "Cassie đang thảo luận về các lựa chọn chỗ ở của cô ở Paris. Cô có một bà dì sống gần đó và bà ấy sẵn sàng cho cô ở nhờ, điều này sẽ miễn phí. Thông tin này giúp xác định đáp án đúng là A. Paraphrase quan trọng là \"put me up\" (cho tôi ở nhờ). Bẫy có thể là sự lựa chọn giữa việc ở với dì và việc thuê một căn hộ riêng, nhưng Cassie đã rõ ràng chọn ở với dì. Đáp án A là chính xác vì nó phản ánh lựa chọn mà Cassie đã đề cập.",
+      "evidence": "I have an old aunt who lives in the Paris suburbs. She's happy to put me up."
+    },
+    "q28": {
+      "explanation": "Cassie đang nói về thời gian làm việc của cô trong thời gian thực tập. Cô đã đề cập rằng giờ làm việc sẽ là từ 9 giờ đến 5 giờ hoặc 8 giờ đến 4 giờ, điều này có nghĩa là cô sẽ kết thúc công việc vào khoảng 4 giờ hoặc 5 giờ chiều. Thông tin này giúp xác định đáp án đúng là A. Paraphrase quan trọng là \"from 9 to 5 or 8 to 4\" (từ 9 giờ đến 5 giờ hoặc 8 giờ đến 4 giờ). Không có bẫy trong câu hỏi này vì thông tin rõ ràng và dễ hiểu. Đáp án A là chính xác vì nó phản ánh đúng thời gian kết thúc công việc của Cassie.",
+      "evidence": "it looks like it will be Monday to Friday from 9 to 5 or 8 to 4."
+    },
+    "q29": {
+      "explanation": "Cassie đang mô tả hình ảnh của một chiếc bàn cà phê mà cô sẽ làm việc với. Cô đã nêu rõ rằng chiếc bàn có mặt kính, điều này giúp xác định đáp án đúng là C. Paraphrase quan trọng là \"glass top\" (mặt kính). Bẫy có thể là sự nhầm lẫn với các đặc điểm khác của bàn, nhưng thông tin về mặt kính là điểm nổi bật trong mô tả của Cassie. Đáp án C là chính xác vì nó phản ánh đúng đặc điểm mà Cassie đã đề cập.",
+      "evidence": "The coffee table is pretty standard. You know, rectangular, four legs and a glass top."
+    },
+    "q30": {
+      "explanation": "Cassie đang mô tả một chiếc ghế ăn mà cô sẽ làm việc với. Cô đã chỉ ra rằng chiếc ghế có một cái đệm mềm mại và thoải mái, điều này giúp xác định đáp án đúng là B. Paraphrase quan trọng là \"soft, comfortable cushion\" (đệm mềm mại, thoải mái). Bẫy có thể là sự nhầm lẫn với các đặc điểm khác của ghế, nhưng thông tin về cái đệm là điểm nổi bật trong mô tả của Cassie. Đáp án B là chính xác vì nó phản ánh đúng đặc điểm mà Cassie đã đề cập.",
+      "evidence": "It's a bit more traditional, with a wooden frame, no armrests, and a soft, comfortable cushion."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. So Cassie, tell us all about Paris.</p><p><strong>Speaker 2:</strong> Well, I start pretty much at the end of the semester. I was hoping to negotiate beginning at the start of September, but they said they wanted me two or three months earlier than that at least. Obviously, we're still at college in June, so early July it'll have to be.</p><p><strong>Speaker 1:</strong> Can't you go in August?</p><p><strong>Speaker 2:</strong> We were supposed to go to Spain together in July.</p><p><strong>Speaker 1:</strong> I'm afraid not. You can come and visit me in Paris instead, though. Where will you live?</p><p><strong>Speaker 2:</strong> I've got some options. I have an old aunt who lives in the Paris suburbs. She's happy to put me up. That will be free, but it might curtail my evening activities a little.</p><p><strong>Speaker 1:</strong> I bet it will. I can rent a flat, too. The company has put me in touch with some estate agents there, and I have the details of loads of flats. There are quite a few near where I'll be working, but it's just so pricey.</p><p><strong>Speaker 1:</strong> Well, Paris is expensive. What about a flat share?</p><p><strong>Speaker 2:</strong> That's possible, too, but obviously you have less privacy. That's quite a choice you'll have to make.</p><p><strong>Speaker 1:</strong> I know. I think I've decided that the most economical choice will win, though. I've not much choice on my budget. How hard will you have to work?</p><p><strong>Speaker 2:</strong> Oh, they will get their money's worth, it seems. I was hoping that it wouldn't be full-time, so I could get to see Paris and the surrounding areas, but it looks like it will be Monday to Friday from 9 to 5 or 8 to 4. Occasionally, if there's a big project on, then I was told that many people turn up for a full day on Saturday, and that will be expected of me when necessary, too.</p><p><strong>Speaker 1:</strong> So what kind of work will you be doing for this furniture company?</p><p><strong>Speaker 2:</strong> Well, as I said, they will be launching a whole new range of products. They've designed a range of home furniture, and I'll be working on the advertising. They've even sent me some pictures so I can get working and show them what I can do.</p><p><strong>Speaker 1:</strong> What pictures have they sent?</p><p><strong>Speaker 2:</strong> There are two. The first is a coffee table.</p><p><strong>Speaker 1:</strong> And you have to write marketing on it?</p><p><strong>Speaker 2:</strong> Well, they want a couple of examples of what I can do. The coffee table is pretty standard. You know, rectangular, four legs and a glass top. It's pretty contemporary and fashionable.</p><p><strong>Speaker 1:</strong> What's the second picture?</p><p><strong>Speaker 2:</strong> The second one is a dining chair. It's a bit more traditional, with a wooden frame, no armrests, and a soft, comfortable cushion. Both the pictures are fairly straightforward, but they want some examples of my work so they can give me advice before I start.</p>"
+}

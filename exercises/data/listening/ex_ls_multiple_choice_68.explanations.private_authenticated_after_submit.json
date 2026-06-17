@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_68",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Người nói đang mô tả về những chiếc thuyền mà khách sẽ sử dụng trong chuyến đi. Thông tin giúp tìm ra đáp án là câu nói về không gian rộng rãi bên trong thuyền, cho phép người ngồi có thể di chuyển chân thoải mái. Paraphrase quan trọng ở đây là \"plenty of space to move your legs around,\" điều này ngụ ý rằng thuyền rất thoải mái. Bẫy có thể là sự nhấn mạnh vào sự an toàn của thuyền, nhưng câu này không đề cập đến tốc độ hay sự dễ dàng khi lên xuống thuyền. Đáp án C là đúng vì nó phản ánh chính xác lợi thế của những chiếc thuyền hiện tại.",
+      "evidence": "what's great about the boats you'll be in today is that once you're in and seated, you'll very quickly notice that there's plenty of space to move your legs around in, so you can position yourself in whatever way feels right for you."
+    },
+    "q12": {
+      "explanation": "Người nói đang hướng dẫn những gì cần làm nếu ai đó rơi khỏi thuyền. Thông tin quan trọng là \"stay by your boat,\" điều này chỉ ra rằng người rơi khỏi thuyền nên ở lại gần thuyền thay vì bơi vào bờ. Paraphrase quan trọng là \"someone will come and sort you out,\" điều này ngụ ý rằng sẽ có sự trợ giúp. Bẫy có thể là sự nhấn mạnh vào việc bơi vào bờ, nhưng người nói đã cảnh báo không nên làm điều đó. Đáp án B là đúng vì nó phản ánh chính xác hành động mà người rơi khỏi thuyền nên thực hiện.",
+      "evidence": "So you need to know what to do. Now, it is difficult to get back on the boat in deep water, so don't try that. Just stay by your boat and someone will come and sort you out."
+    },
+    "q13": {
+      "explanation": "Người nói đang khuyên mọi người về cách bảo quản điện thoại trong chuyến đi. Thông tin quan trọng là việc sử dụng hộp nhựa để bảo vệ điện thoại khỏi nước. Paraphrase quan trọng là \"just to be on the safe side,\" điều này nhấn mạnh tầm quan trọng của việc bảo vệ thiết bị. Bẫy có thể là sự nhấn mạnh vào việc để điện thoại trong xe, nhưng người nói đã chỉ ra rằng điều đó không an toàn. Đáp án C là đúng vì nó phản ánh chính xác lời khuyên của người nói về việc bảo quản điện thoại.",
+      "evidence": "As for what to do with your phones while you're on the water... we actually have little plastic boxes for you, like those ones for storing food. It's worth using one and putting your device in, just to be on the safe side."
+    },
+    "q14": {
+      "explanation": "Người nói đang mời gọi khách quay lại trong tương lai và nhấn mạnh rằng có nhiều hoạt động khác nhau để trải nghiệm. Thông tin quan trọng là \"experience the river in different seasons,\" mặc dù không được nói rõ, nhưng ý tưởng về việc quay lại để trải nghiệm nhiều hoạt động khác nhau trong các mùa khác nhau là rõ ràng. Bẫy có thể là sự nhấn mạnh vào việc thuê thiết bị khác, nhưng không có thông tin cụ thể nào về động vật hoang dã. Đáp án C là đúng vì nó phản ánh chính xác lý do để khách quay lại.",
+      "evidence": "And we'd love to welcome you back to River Avon Adventures again in the future... And it's not just kayaks that we rent out... Lots of great stuff for you to have a go with."
+    },
+    "q15": {
+      "explanation": "Người nói đang thông báo về cách để tiết kiệm tiền cho chuyến đi tiếp theo. Thông tin quan trọng là việc giới thiệu bạn bè để nhận được phiếu giảm giá. Paraphrase quan trọng là \"tell your friends that you've enjoyed your trip,\" điều này nhấn mạnh rằng việc chia sẻ trải nghiệm tích cực với người khác sẽ mang lại lợi ích. Bẫy có thể là sự nhấn mạnh vào việc viết đánh giá, nhưng không có thông tin nào về điều đó trong đoạn hội thoại. Đáp án B là đúng vì nó phản ánh chính xác cách để tiết kiệm tiền cho lần ghé thăm tiếp theo.",
+      "evidence": "And the good news is we can offer discounts for next time you come to River Avon Adventures. All you have to do is tell your friends that you've enjoyed your trip with us, and when they join our mailing list and mention you, you'll get a voucher for 20% off."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1 (Amanda):</strong> Hello everyone. Welcome to River Avon Adventures. My name's Amanda, and in a few moments, you'll be getting into our kayaks and going out on the River Avon. </p><p>Speaker 1 (Amanda): Now, what's great about the boats you'll be in today is that once you're in and seated, you'll very quickly notice that there's plenty of space to move your legs around in, so you can position yourself in whatever way feels right for you. </p><p>Speaker 1 (Amanda): The boats are very safe, and people don't usually fall in, but in theory, it might happen. So you need to know what to do. </p><p>Speaker 1 (Amanda): Now, it is difficult to get back on the boat in deep water, so don't try that. Just stay by your boat and someone will come and sort you out. Avoid trying to swim to the land, or you may get in the way of someone else's boat. </p><p>Speaker 1 (Amanda): As for what to do with your phones while you're on the water, and whether they're best left in the car to safety, well, the car park isn't monitored. And if you did leave your phone behind, you'd end up with no photos of your day on the river. So we actually have little plastic boxes for you, like those ones for storing food. It's worth using one and putting your device in, just to be on the safe side. Phones don't float, of course, but these do. </p><p>Speaker 1 (Amanda): Now, we'd love to welcome you back to River Avon Adventures again in the future. We're open all year, even in winter. And it's not just kayaks that we rent out. We also have wetsuits, stand-up paddleboards and fishing gear, and binoculars if you want to try a bit of birdwatching. Lots of great stuff for you to have a go with. </p><p>Speaker 1 (Amanda): And the good news is we can offer discounts for next time you come to River Avon Adventures. All you have to do is tell your friends that you've enjoyed your trip with us, and when they join our mailing list and mention you, you'll get a voucher for 20% off.</p>"
+}

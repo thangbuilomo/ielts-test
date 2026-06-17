@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_26",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q36": {
+      "explanation": "Người nói đang giải thích về microbursts, một hiện tượng khí tượng có thể tạo ra gió rất mạnh. Thông tin giúp tìm ra đáp án là câu nói khẳng định rằng microbursts có thể tạo ra gió mạnh hơn 100 dặm một giờ, điều này cho thấy sức mạnh của chúng. Paraphrase quan trọng ở đây là \"capable of producing winds of more than a hundred miles per hour\" có thể được hiểu là \"có khả năng tạo ra gió rất mạnh\". Bẫy có thể nằm ở việc người nghe có thể bị nhầm lẫn với các lựa chọn khác liên quan đến ảnh hưởng của microbursts đến bão, nhưng câu này rõ ràng chỉ ra sức mạnh gió của chúng. Vì vậy, đáp án A là chính xác.",
+      "evidence": "Microbursts are capable of producing winds of more than a hundred miles per hour, causing significant damage."
+    },
+    "q37": {
+      "explanation": "Người nói đang đề cập đến các hoạt động của con người có thể làm tăng khả năng xảy ra haboobs. Thông tin quan trọng là việc sử dụng phương tiện off-road trên đất nông nghiệp được nhắc đến như một yếu tố góp phần vào vấn đề. Paraphrase quan trọng là \"off-road recreational vehicle usage\" có thể hiểu là \"sử dụng phương tiện giải trí không theo đường chính\". Bẫy có thể là các lựa chọn khác như nông nghiệp hay xây dựng đập, nhưng không có thông tin nào trong transcript khẳng định chúng có ảnh hưởng tương tự. Do đó, đáp án A là đúng.",
+      "evidence": "off-road recreational vehicle usage on farmland can compound the problem."
+    },
+    "q38": {
+      "explanation": "Người nói đang nói về tình trạng hạn hán ở Texas, cụ thể là mức độ ảnh hưởng của nó. Thông tin rõ ràng cho thấy rằng 90% bang Texas đang chịu ảnh hưởng của hạn hán. Paraphrase quan trọng là \"90% of the state in the most extreme level of drought\" có thể được hiểu là \"90% bang đang ở mức độ hạn hán cực kỳ nghiêm trọng\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Do đó, đáp án C là chính xác.",
+      "evidence": "Texas is experiencing one of the most extreme droughts in recent history, with 90% of the state in the most extreme level of drought."
+    },
+    "q39": {
+      "explanation": "Người nói đang so sánh các vấn đề trong tương lai với những vấn đề đã xảy ra trong quá khứ, cụ thể là đợt hạn hán ở những năm 1930. Thông tin quan trọng là việc so sánh này cho thấy rằng tình hình có thể trở nên tồi tệ hơn rất nhiều. Paraphrase quan trọng là \"may make the 1930s dust bowl seem mild and brief\" có thể hiểu là \"có thể khiến đợt hạn hán ở những năm 1930 trở nên nhẹ nhàng hơn\". Bẫy có thể là các lựa chọn khác có vẻ hợp lý, nhưng không có thông tin nào trong transcript hỗ trợ cho chúng. Vì vậy, đáp án B là đúng.",
+      "evidence": "Researchers say that over the next couple of decades, the American West will transition to an environment that may make the 1930s dust bowl seem mild and brief."
+    },
+    "q40": {
+      "explanation": "Người nói đang nói về các cơn bão bụi trong năm trước và lý do tại sao chúng mạnh hơn. Thông tin quan trọng là không có một yếu tố nào được xác định là nguyên nhân cho sức mạnh của các cơn bão này. Paraphrase quan trọng là \"not been identified\" có thể hiểu là \"không được xác định\". Bẫy có thể là các lựa chọn khác có vẻ hợp lý, nhưng chúng không phản ánh chính xác thông tin trong transcript. Do đó, đáp án C là chính xác.",
+      "evidence": "there does not seem to be a single causative factor for why they seem to be stronger last year."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. A haboob is an intense dust storm. The word haboob comes from the Arabic word hab, meaning wind. </p><p><strong>Speaker 2:</strong> The haboob is a wall of dust created by a microburst or downburst, more commonly the former. A microburst is a small, very intense downdraft that descends to the ground, resulting in a strong wind divergence. </p><p><strong>Speaker 1:</strong> Microbursts are capable of producing winds of more than a hundred miles per hour, causing significant damage. The lifespan of a microburst is around five to fifteen minutes. </p><p><strong>Speaker 2:</strong> The air falls downward, is pushed forward by the front of a thunderstorm cell, dragging dust and debris with it, as it travels across the terrain. When rain falls below the cloud base, or is mixed with dry air, it begins to evaporate, and this evaporation process cools the air. </p><p><strong>Speaker 3:</strong> The cool air descends and accelerates as it approaches the ground. When the cool air approaches the ground, it spreads out in all directions, and this divergence of the wind is the signature of the microburst. </p><p><strong>Speaker 2:</strong> In humid climates, microbursts can also generate from heavy precipitation. </p><p><strong>Speaker 1:</strong> The problem, according to meteorological experts, is that rising temperatures contribute directly and indirectly to there being more dust in the air. Persistent droughts, increasingly violent and variable weather patterns, urban and suburban development, and even off-road recreational vehicle usage on farmland can compound the problem. </p><p><strong>Speaker 3:</strong> Texas is experiencing one of the most extreme droughts in recent history, with 90% of the state in the most extreme level of drought. Arizona, California, Colorado, New Mexico, Oklahoma, Utah, and other states are also experiencing drought conditions. </p><p><strong>Speaker 2:</strong> The government has tried to conserve water by building dams, but this has not had a positive effect yet. </p><p><strong>Speaker 1:</strong> The worry is that this might be just the start of a trend, as reported in a recent issue of the journal Earth. Researchers say that over the next couple of decades, the American West will transition to an environment that may make the 1930s dust bowl seem mild and brief. </p><p><strong>Speaker 3:</strong> Finally, meteorologists have said that the U.S. experienced a typical number of dust storms last year, but what set last season apart from others was the size and power of three of the storms. Variety in the dust storms is normal, but there does not seem to be a single causative factor for why they seem to be stronger last year. </p><p><strong>Speaker 2:</strong> Weather experts said such massive dust storms only happen in Arizona, Africa's Sahara Desert, and parts of the Middle East because of extremely hot and dry conditions and the large amounts of sand.</p>"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_flow_chart_completion_03",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q7": {
+      "explanation": "Người nói đang giải thích về thời gian cần thiết để xử lý các món đồ bị mất. Thông tin giúp tìm ra đáp án là câu nói trực tiếp của người nói về thời gian xử lý, cụ thể là \"five days\". Paraphrase quan trọng ở đây là \"up to five days\", có nghĩa là thời gian tối đa có thể mất. Bẫy có thể là sự nhầm lẫn với các khoảng thời gian khác, nhưng câu nói rõ ràng chỉ ra rằng thời gian là \"five days\". Đáp án này đúng vì nó chính xác phản ánh thời gian mà người nói đã đề cập.",
+      "evidence": "That can take up to five days from when the item was left behind."
+    },
+    "q8": {
+      "explanation": "Người nói đang nói về cách thức liên lạc với người đã mất đồ khi tìm thấy món đồ của họ. Thông tin giúp tìm ra đáp án là cụm từ \"phone number you gave me\". Paraphrase quan trọng là \"we will call you\", cho thấy rằng họ sẽ sử dụng số điện thoại để liên lạc. Bẫy có thể là sự nhầm lẫn với các hình thức liên lạc khác như email, nhưng người nói đã rõ ràng chỉ ra rằng họ sẽ gọi điện. Đáp án này đúng vì nó chính xác phản ánh thông tin liên lạc mà người nói đã đề cập.",
+      "evidence": "No, we will call you if we find your bag on the phone number you gave me."
+    },
+    "q9": {
+      "explanation": "Người nói đang hướng dẫn về nơi mà người đã mất đồ cần đến để lấy lại món đồ của họ. Thông tin giúp tìm ra đáp án là cụm từ \"lost property office\". Paraphrase quan trọng là \"come and collect it\", cho thấy rằng người nghe cần phải đến một địa điểm cụ thể để nhận lại đồ. Bẫy có thể là sự nhầm lẫn với các văn phòng khác, nhưng người nói đã chỉ rõ rằng đó là \"lost property office\". Đáp án này đúng vì nó chính xác phản ánh địa điểm mà người nói đã đề cập.",
+      "evidence": "No, you need to come and collect it from the lost property office."
+    },
+    "q10": {
+      "explanation": "Người nói đang giải thích về yêu cầu cần có khi đến lấy đồ, cụ thể là cần có ID có ảnh. Thông tin giúp tìm ra đáp án là cụm từ \"something with a photo on it\". Paraphrase quan trọng là \"ID\", cho thấy rằng người nghe cần mang theo một loại giấy tờ nhận dạng. Bẫy có thể là sự nhầm lẫn với các loại giấy tờ khác không có ảnh, nhưng người nói đã chỉ rõ rằng yêu cầu là phải có ảnh. Đáp án này đúng vì nó chính xác phản ánh yêu cầu mà người nói đã đề cập.",
+      "evidence": "It will need to have something with a photo on it, like a driving license or passport or something."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> So, what happens now?</p><p><strong>Speaker 1:</strong> Okay, I will process this form onto our system. Then when we find lost property items, we index them all and enter the details into our computer before we can match them up.</p><p><strong>Speaker 2:</strong> How long does that take?</p><p><strong>Speaker 1:</strong> That can take up to five days from when the item was left behind.</p><p><strong>Speaker 2:</strong> Five days? That's a long time.</p><p><strong>Speaker 1:</strong> Yes, I'm sorry, but we do have a lot of items left on our trains.</p><p><strong>Speaker 2:</strong> Okay, what happens after you've done that? Do I need to call you back or will you send me an email or something?</p><p><strong>Speaker 1:</strong> No, we will call you if we find your bag on the phone number you gave me. If you don't hear from us in the next week, then please do call for an update. But the chances are that if we don't call you, then your bag wasn't found.</p><p><strong>Speaker 2:</strong> Okay then. Will you post it to me if you find it?</p><p><strong>Speaker 1:</strong> No, you need to come and collect it from the lost property office.</p><p><strong>Speaker 2:</strong> Where's that?</p><p><strong>Speaker 1:</strong> It's behind the ticket office in Newcastle train station.</p><p><strong>Speaker 2:</strong> And do I need to bring anything with me?</p><p><strong>Speaker 1:</strong> Yes, we will need to see some ID.</p><p><strong>Speaker 2:</strong> OK, like a letter from my bank or something?</p><p><strong>Speaker 1:</strong> It will need to have something with a photo on it, like a driving license or passport or something.</p><p><strong>Speaker 2:</strong> OK, no problem. I'll wait for you to call then.</p><p><strong>Speaker 1:</strong> OK, Mrs. Flint. Thanks for your call.</p><p><strong>Speaker 2:</strong> Thanks. Bye.</p>"
+}

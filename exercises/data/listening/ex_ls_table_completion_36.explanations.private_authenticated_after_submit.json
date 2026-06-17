@@ -1,0 +1,45 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_36",
+  "module": "listening",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói là một phụ nữ tên là Helen, và cô ấy đang cung cấp thông tin cá nhân cho nhân viên của công ty đường sắt. Thông tin giúp tìm ra đáp án là tên của cô ấy, \"Flynn\", được nhắc đến rõ ràng và có cách đánh vần cụ thể. Paraphrase quan trọng ở đây là việc cô ấy nhấn mạnh cách đánh vần tên của mình, điều này có thể gây bối rối nếu người nghe không chú ý. Không có bẫy trong câu này vì thông tin rất rõ ràng và trực tiếp. Đáp án đúng là \"Flynn\" vì đó là họ của người gọi.",
+      "evidence": "It's Helen Flynn. That's F-L-Y-N-N."
+    },
+    "q2": {
+      "explanation": "Người nói đang cung cấp mã bưu điện cho nhân viên đường sắt. Thông tin giúp tìm ra đáp án là mã bưu điện được nêu rõ ràng và không có sự nhầm lẫn nào. Paraphrase quan trọng là việc cô ấy xác nhận mã bưu điện sau khi nhân viên nhắc lại sai một ký tự. Bẫy có thể là việc nhân viên đã nhầm lẫn mã bưu điện, nhưng người nói đã sửa lại ngay lập tức. Đáp án đúng là \"LW39BQ\" vì đó là mã bưu điện chính xác mà cô ấy đã cung cấp.",
+      "evidence": "Yes, it's LW39BQ."
+    },
+    "q3": {
+      "explanation": "Người nói đang cung cấp số điện thoại của mình cho nhân viên. Thông tin giúp tìm ra đáp án là số điện thoại được nêu rõ ràng và không có sự nhầm lẫn nào. Paraphrase quan trọng là việc cô ấy chỉ đơn giản đưa ra số điện thoại mà không có bất kỳ thông tin bổ sung nào. Không có bẫy trong câu này vì thông tin rất rõ ràng và trực tiếp. Đáp án đúng là \"0700 911 623\" vì đó là số điện thoại mà cô ấy đã cung cấp.",
+      "evidence": "Yes, it's 0700 911 623."
+    },
+    "q4": {
+      "explanation": "Người nói đang mô tả loại vật liệu của chiếc túi mà cô ấy đã để quên. Thông tin giúp tìm ra đáp án là từ \"leather\", được nêu rõ ràng và trực tiếp. Paraphrase quan trọng là việc cô ấy chỉ ra rằng chiếc túi không có gì đặc biệt ngoài việc nó là một chiếc túi da. Bẫy có thể là sự nhầm lẫn giữa các loại vật liệu khác, nhưng người nói đã xác định rõ ràng. Đáp án đúng là \"leather\" vì đó là vật liệu chính xác mà cô ấy đã mô tả.",
+      "evidence": "It was leather."
+    },
+    "q5": {
+      "explanation": "Người nói đang liệt kê các vật dụng bên trong chiếc túi mà cô ấy đã để quên. Thông tin giúp tìm ra đáp án là từ \"umbrella\", được nêu rõ ràng trong danh sách các vật dụng. Paraphrase quan trọng là việc cô ấy thêm vào thông tin về cái ô sau khi đã liệt kê các vật khác. Bẫy có thể là việc người nghe có thể nghĩ rằng chỉ có sách, giấy và bút, nhưng cô ấy đã bổ sung thêm thông tin. Đáp án đúng là \"umbrella\" vì đó là vật dụng mà cô ấy đã xác nhận có trong túi.",
+      "evidence": "Oh, and also my umbrella."
+    },
+    "q6": {
+      "explanation": "Người nói đang cung cấp thông tin về thời gian mà cô ấy đến nơi. Thông tin giúp tìm ra đáp án là cụm từ \"half past 10\", được nêu rõ ràng và không có sự nhầm lẫn nào. Paraphrase quan trọng là việc cô ấy đã suy nghĩ và điều chỉnh thời gian từ \"10 o'clock\" sang \"half past 10\". Bẫy có thể là việc người nghe có thể bị nhầm lẫn với thời gian khác mà cô ấy đã đề cập trước đó. Đáp án đúng là \"half past 10\" vì đó là thời gian chính xác mà cô ấy đã đến.",
+      "evidence": "I arrived at half past 10."
+    },
+    "q7": {
+      "explanation": "Người nói đang cung cấp thông tin về số ghế mà cô ấy đã ngồi trên tàu. Thông tin giúp tìm ra đáp án là số ghế \"26\", được nêu rõ ràng và không có sự nhầm lẫn nào. Paraphrase quan trọng là việc cô ấy đã xác định rõ ràng số ghế và toa. Bẫy có thể là việc người nghe có thể nghĩ rằng chỉ cần ghi lại toa mà không chú ý đến số ghế. Đáp án đúng là \"26\" vì đó là số ghế chính xác mà cô ấy đã ngồi.",
+      "evidence": "I was sitting in seat 26, carriage 6."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> Good morning, East Coast Rail. How may I help you?  </p><p><strong>Speaker 2:</strong> Yes, hello. I left something on a train yesterday. I got this number from the internet. Is this the right number to call?  </p><p><strong>Speaker 1:</strong> Yes, it is, madam. I can certainly help you with that. I just need to take your name so I can fill out the lost property form.  </p><p><strong>Speaker 2:</strong> It's Helen Flynn. That's F-L-Y-N-N.  </p><p><strong>Speaker 1:</strong> Okay, I've got that. Now, you say you left something on the train?  </p><p><strong>Speaker 2:</strong> Yes. I just need to take some more details from you and I'll see what I can do. Can I take your address, please?  </p><p><strong>Speaker 2:</strong> Yes, it's 57 The High Street, Greenside.  </p><p><strong>Speaker 1:</strong> And the postcode?  </p><p><strong>Speaker 2:</strong> LW39BQ.  </p><p><strong>Speaker 1:</strong> Okay, LW39VQ.  </p><p><strong>Speaker 2:</strong> No, it's 9BQ. B for Bravo.  </p><p><strong>Speaker 1:</strong> Okay, I've got that. Now, can I take a telephone number?  </p><p><strong>Speaker 2:</strong> Yes, it's 0700 911 623.  </p><p><strong>Speaker 1:</strong> Okay, madam. Now, you say that it was a bag you left behind? Can you describe it for me?  </p><p><strong>Speaker 2:</strong> Well, there wasn't anything special about it, really. It was black and just a shoulder bag, really. It was leather.  </p><p><strong>Speaker 1:</strong> And what was in the bag?  </p><p><strong>Speaker 2:</strong> Let me think. It was my college bag, so there were some books, papers, pens and stuff. Oh, and also my umbrella.  </p><p><strong>Speaker 1:</strong> OK, I've got all of that, thanks. Now, which train were you on yesterday?  </p><p><strong>Speaker 2:</strong> It was the train from Newcastle to Greenside.  </p><p><strong>Speaker 1:</strong> And do you know what time it arrived in Greenside?  </p><p><strong>Speaker 2:</strong> Let me see. It was later than the train I normally get because I went to the library to study. It was 10 o'clock, I think. No, wait, it was later than that. I arrived at half past 10.  </p><p><strong>Speaker 1:</strong> OK, and do you know which carriage you were sitting in?  </p><p><strong>Speaker 2:</strong> Oh, no, sorry, I've no idea. It'll be on your ticket if you still have it.  </p><p><strong>Speaker 2:</strong> Oh, let me have a look. That would be in my handbag. Oh, yes, here it is. I was sitting in seat 26, carriage 6.  </p><p><strong>Speaker 1:</strong> OK, great. I've got all the details I need now.</p>"
+}

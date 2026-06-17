@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_71",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2071.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You will hear a man speaking on the radio about recycling in a town called Bookwall. You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> As our listeners know, on Radio Bookwall, we like to focus on sustainable living. And today, I'm joined in the studio by Kevin, head of recycling at Bookwall Council. Welcome, Kevin.</p><p><strong>Speaker 3:</strong> Hiya, good to be here.</p><p><strong>Speaker 2:</strong> So Kevin, how good are we at recycling our waste here in Bookwall?</p><p><strong>Speaker 3:</strong> Well, in the years I've been involved in recycling with Bookwall Council, the proportion of waste that's recycled has doubled. We now recycle about 50% of our rubbish, and that's a real achievement that I'm proud of. But listeners might be surprised to learn that some countries manage far more than this. And of course, recycling's important in so many ways. Take aluminium cans, for example. OK, maybe the drinks inside them aren't super healthy, but the point is that, like lots of packaging, cans can easily be recycled, which is a far more energy-efficient process than manufacturing a new can would be. That's a huge benefit, as well as the fact that reusing that aluminium conserves resources. And, you know, in the UK, we throw away about 26 million tonnes of waste each year. To put that into perspective, that's equivalent to the weight of 260 ships. And I mean the large ones that cruise across the seas. That's an enormous amount, and the more of that we can recycle, the better for the environment.</p><p><strong>Speaker 2:</strong> We're keen to get the schoolchildren of Bookwall passionate about recycling this year. I did have the idea of a competition for kids to make something out of the items in their recycling, until someone pointed out that this might prevent the things from being recycled. So instead, we're asking kids to submit pictures taken of them or their family actually doing their recycling. I'm hoping it'll be even more popular than last year's story writing competition on the theme of recycling.</p><p><strong>Speaker 3:</strong> Bookwall, of course, has several recycling centres across various locations throughout the city. So wherever you live, you're not far from your nearest one. And recyclers may be pleased to learn that we've just extended their opening hours, so now you'll even be able to go after you've finished work.</p>"
+    }
+  ]
+}

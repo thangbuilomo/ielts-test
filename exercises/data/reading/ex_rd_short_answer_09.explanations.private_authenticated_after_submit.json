@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_short_answer_09",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q37": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn D, bài viết nêu: \"Joseph Lister was born in Upton, Essex in England on 5 April 1827, the son of a wine merchant and amateur scientist. While still young, Lister became interested in surgery and was present at one of the first operations carried out under anaesthetic in Britain. He went on to study medicine in London, where he explored the action of muscles in the skin and the eye, the mechanisms involved in the coagulation of blood, and the symptoms of the early stages of infection.\". Cụm coagulation khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Joseph Lister was born in Upton, Essex in England on 5 April 1827, the son of a wine merchant and amateur scientist. While still young, Lister became interested in surgery and was present at one of the first operations carried out under anaesthetic in Britain. He went on to study medicine in London, where he explored the action of muscles in the skin and the eye, the mechanisms involved in the coagulation of blood, and the symptoms of the early stages of infection._"
+    },
+    "q38": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn E, bài viết nêu: \"Lister’s first clue as to the cause of infection came from comparing patients who had simple fractures with those who had compound fractures. Simple fractures do not involve an external wound. These patients had their bones set and placed in a cast, and they recovered.\". Cụm compound khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Lister’s first clue as to the cause of infection came from comparing patients who had simple fractures with those who had compound fractures. Simple fractures do not involve an external wound. These patients had their bones set and placed in a cast, and they recovered._"
+    },
+    "q39": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn G, bài viết nêu: \"Pasteur had employed heat to eliminate bacteria, but this technique was not suitable for use with human flesh. Instead, Lister concentrated on finding a suitable chemical to kill the microbes that lived on any surfaces or instruments that came into contact with a patient. He knew that carbolic acid was being used as an effective disinfectant in sewers, and investigated whether it could be used safely for operations.\". Cụm heat khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Pasteur had employed heat to eliminate bacteria, but this technique was not suitable for use with human flesh. Instead, Lister concentrated on finding a suitable chemical to kill the microbes that lived on any surfaces or instruments that came into contact with a patient. He knew that carbolic acid was being used as an effective disinfectant in sewers, and investigated whether it could be used safely for operations._"
+    },
+    "q40": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn G, bài viết nêu: \"Instead, Lister concentrated on finding a suitable chemical to kill the microbes that lived on any surfaces or instruments that came into contact with a patient. He knew that carbolic acid was being used as an effective disinfectant in sewers, and investigated whether it could be used safely for operations. Beginning in 1865, Lister used carbolic acid to wash his hands before and after an operation and to sterilise the instruments and the bandages used in the operation.\". Cụm (his)hands khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Instead, Lister concentrated on finding a suitable chemical to kill the microbes that lived on any surfaces or instruments that came into contact with a patient. He knew that carbolic acid was being used as an effective disinfectant in sewers, and investigated whether it could be used safely for operations. Beginning in 1865, Lister used carbolic acid to wash his hands before and after an operation and to sterilise the instruments and the bandages used in the operation._"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_17",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q6": {
+      "explanation": "Người nói đang liệt kê các thiết bị điện tử mà họ muốn được bảo hiểm. Thông tin giúp tìm ra đáp án là danh sách các thiết bị điện tử mà người nói đã nêu. Paraphrase quan trọng ở đây là \"DVD player\" được nhắc đến trực tiếp trong danh sách. Không có bẫy trong câu này vì thông tin được đưa ra rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng vì \"DVD player\" là thiết bị điện tử mà người nói đã đề cập đến và nằm trong danh sách các mục cần bảo hiểm.",
+      "evidence": "like my hi-fi, TV, DVD player, video player, a couple of radios..."
+    },
+    "q7": {
+      "explanation": "Người nói tiếp tục liệt kê các thiết bị điện tử và đồ dùng cá nhân mà họ muốn bảo hiểm. Thông tin giúp tìm ra đáp án là cụm từ \"a hairdryer\" được nêu ngay sau \"a couple of radios\". Paraphrase quan trọng ở đây là \"hairdryer\" được nhắc đến một cách trực tiếp. Không có bẫy trong câu này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng vì \"hairdryer\" là một trong những mục mà người nói đã liệt kê và yêu cầu bảo hiểm.",
+      "evidence": "a couple of radios, a hairdryer, my laptop and printer."
+    },
+    "q8": {
+      "explanation": "Người nói đang nói về trang sức mà họ muốn được bảo hiểm, cụ thể là những món đồ họ đã thừa kế. Thông tin giúp tìm ra đáp án là cụm từ \"rings\" được liệt kê ngay sau \"bracelets\". Paraphrase quan trọng ở đây là \"rings\" được nhắc đến một cách trực tiếp trong danh sách trang sức. Không có bẫy trong câu này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng vì \"rings\" là một trong những món trang sức mà người nói đã đề cập đến và yêu cầu bảo hiểm.",
+      "evidence": "I have some necklaces, bracelets, rings and brooches that I inherited."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. First of all, can you give me a list of all the things that you want covered by the insurance?</p><p><strong>Speaker 2:</strong> Yes. First of all, there's my electrical goods, like my hi-fi, TV, DVD player, video player, a couple of radios, a hairdryer, my laptop and printer. I've estimated all the values of the electrical goods. There are various DVDs and CDs too. It should come to about £2,500.</p><p><strong>Speaker 1:</strong> Anything else?</p><p><strong>Speaker 2:</strong> Yes, there's my jewellery. I have some necklaces, bracelets, rings and brooches that I inherited. They're all in different metals and with different jewels. I've got a list itemising them all here. I've also got a small strongbox which screws into a cupboard, so they're reasonably safe.</p>"
+}

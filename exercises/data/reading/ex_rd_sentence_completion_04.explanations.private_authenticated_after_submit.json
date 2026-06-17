@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_sentence_completion_04",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q33": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"If you look at a globe, you will see that the latitude of much of Europe and Scandinavia is the same as that of Alaska and permafrost-locked parts of northern Canada and central Siberia. Yet Europe has a climate more similar to that of the United States than northern Canada or Siberia. It turns out that this warmth is the result of ocean currents that bring warm surface water up from the equator into northern regions that would otherwise be so cold that even in summer they would be covered with ice.\". Cụm permafrost khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "If you look at a globe, you will see that the latitude of much of Europe and Scandinavia is the same as that of Alaska and permafrost-locked parts of northern Canada and central Siberia. Yet Europe has a climate more similar to that of the United States than northern Canada or Siberia. It turns out that this warmth is the result of ocean currents that bring warm surface water up from the equator into northern regions that would otherwise be so cold that even in summer they would be covered with ice._"
+    },
+    "q34": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"As a result, the warm water of the Great Conveyor Belt evaporates out of the North Atlantic, leaving behind saltier waters which are cooled by the cold continental winds off the northern parts of North America. Salty, cool waters settle to the bottom of the sea, most at a point a few hundred kilometres south of the southern tip of Greenland, producing a whirlpool of falling water that is 5 - 10 miles across. This falling column of cold, salt-laden water pours itself to the bottom of the Atlantic, where it forms a great undersea river 40 times larger than all the rivers on land combined, flowing south down to and around the southern tip of Africa where it finally reaches the Pacific.\". Cụm river khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "As a result, the warm water of the Great Conveyor Belt evaporates out of the North Atlantic, leaving behind saltier waters which are cooled by the cold continental winds off the northern parts of North America. Salty, cool waters settle to the bottom of the sea, most at a point a few hundred kilometres south of the southern tip of Greenland, producing a whirlpool of falling water that is 5 - 10 miles across. This falling column of cold, salt-laden water pours itself to the bottom of the Atlantic, where it forms a great undersea river 40 times larger than all the rivers on land combined, flowing south down to and around the southern tip of Africa where it finally reaches the Pacific._"
+    },
+    "q35": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"We know from the fossil record that the Great Ice Age began several million years ago, and during that period there were times when for hundreds or thousands of years North America, Europe, and Siberia were covered with thick sheets of ice year round. In between these icy times, there were periods when the glaciers thawed, bare land was exposed, forests grew and land animals (including early humans) moved into these northern regions. Most scientists figured the transition time from icy to warm was extremely gradual, and nobody was sure exactly what had caused it.\". Cụm the fossil record khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "We know from the fossil record that the Great Ice Age began several million years ago, and during that period there were times when for hundreds or thousands of years North America, Europe, and Siberia were covered with thick sheets of ice year round. In between these icy times, there were periods when the glaciers thawed, bare land was exposed, forests grew and land animals (including early humans) moved into these northern regions. Most scientists figured the transition time from icy to warm was extremely gradual, and nobody was sure exactly what had caused it._"
+    },
+    "q36": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"In between these icy times, there were periods when the glaciers thawed, bare land was exposed, forests grew and land animals (including early humans) moved into these northern regions. Most scientists figured the transition time from icy to warm was extremely gradual, and nobody was sure exactly what had caused it. Recently however, scientists have been shocked to discover that the transitions from ice age-like weather to contemporary-type weather usually took only 2 or 3 years.\". Cụm gradual khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "In between these icy times, there were periods when the glaciers thawed, bare land was exposed, forests grew and land animals (including early humans) moved into these northern regions. Most scientists figured the transition time from icy to warm was extremely gradual, and nobody was sure exactly what had caused it. Recently however, scientists have been shocked to discover that the transitions from ice age-like weather to contemporary-type weather usually took only 2 or 3 years._"
+    },
+    "q37": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 5, bài viết nêu: \"Most scientists involved in research on this topic agree that the culprit will be global warming, which melts the icebergs on Greenland and the Arctic icepack and thus flushes cold, fresh water down into the Greenland Sea from the north, diluting its salinity. When a critical threshold is reached, the climate will suddenly switch to an ice age that could last between 700 and 100,000 years. No one knows when it will happen, but what is almost certain is that if nothing is done about global warming, it will happen sooner rather than later.\". Cụm culprit khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Most scientists involved in research on this topic agree that the culprit will be global warming, which melts the icebergs on Greenland and the Arctic icepack and thus flushes cold, fresh water down into the Greenland Sea from the north, diluting its salinity. When a critical threshold is reached, the climate will suddenly switch to an ice age that could last between 700 and 100,000 years. No one knows when it will happen, but what is almost certain is that if nothing is done about global warming, it will happen sooner rather than later._"
+    }
+  }
+}

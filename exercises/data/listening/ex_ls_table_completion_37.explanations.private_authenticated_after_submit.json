@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_37",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói đang cung cấp thông tin cá nhân của mình cho nhân viên của Global Internet. Thông tin giúp tìm ra đáp án là tên đầy đủ của người gọi, James Sloan. Paraphrase quan trọng ở đây là \"James\" và \"Sloan\" là tên và họ của người này. Không có bẫy nào trong câu này vì thông tin được cung cấp một cách rõ ràng và trực tiếp. Đáp án đúng là \"Sloan\" vì đây là họ của người gọi mà họ đã xác nhận.",
+      "evidence": "Yes, it's James, James Sloan."
+    },
+    "q2": {
+      "explanation": "Người nói đang cung cấp địa chỉ nơi cư trú của mình. Thông tin giúp tìm ra đáp án là số nhà mà người gọi đã nêu. Paraphrase quan trọng ở đây là \"17\" là số nhà mà người này đang sống. Có một bẫy nhỏ khi nhân viên hỏi \"Sorry, did you say 70?\" để xác nhận thông tin, nhưng người gọi đã sửa lại ngay lập tức. Đáp án đúng là \"17\" vì đây là số nhà chính xác mà người gọi đã cung cấp.",
+      "evidence": "I live at 17 Melrose Drive."
+    },
+    "q3": {
+      "explanation": "Người nói đang cung cấp thông tin về mã bưu chính của địa chỉ nơi cư trú. Thông tin giúp tìm ra đáp án là mã bưu chính mà người gọi đã nêu. Paraphrase quan trọng ở đây là \"EX349QY\" là mã bưu chính được xác nhận. Không có bẫy nào trong câu này vì thông tin được cung cấp rõ ràng. Đáp án đúng là \"EX349QY\" vì đây là mã bưu chính chính xác mà người gọi đã cung cấp.",
+      "evidence": "Yes, the city is Exeter and the postcode is EX349QY."
+    },
+    "q4": {
+      "explanation": "Người nói đang xác định số lượng người sẽ sử dụng internet trong gia đình của mình. Thông tin giúp tìm ra đáp án là số lượng người mà người gọi đã nêu. Paraphrase quan trọng ở đây là \"three\" là số lượng người sẽ sử dụng internet, bao gồm cả con gái của họ trong tương lai. Có một bẫy nhỏ khi người nói ban đầu chỉ đề cập đến hai người, nhưng sau đó đã điều chỉnh lại thành ba. Đáp án đúng là \"3\" vì đây là số lượng người mà người gọi đã xác nhận sẽ sử dụng internet.",
+      "evidence": "No, let's say three. Our daughter might need to use it when she starts school next year."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> Hello, Global Internet. How may I help you?  </p><p><strong>Speaker 2:</strong> Hello, I've just moved house and I want to get my internet set up.  </p><p><strong>Speaker 1:</strong> Okay, sir. Could I take your name, please?  </p><p><strong>Speaker 2:</strong> Yes, it's James, James Sloan.  </p><p><strong>Speaker 1:</strong> How do you spell Sloan?  </p><p><strong>Speaker 2:</strong> It's S-L-O-A-N-E.  </p><p><strong>Speaker 1:</strong> Okay, Mr. Sloan. What sort of package are you looking for?  </p><p><strong>Speaker 2:</strong> I'm not sure, really.  </p><p><strong>Speaker 1:</strong> Okay, that's no problem. Well, if I can just start by taking your address first.  </p><p><strong>Speaker 2:</strong> Okay, great. I live at 17 Melrose Drive.  </p><p><strong>Speaker 1:</strong> Sorry, did you say 70?  </p><p><strong>Speaker 2:</strong> No, sorry, 17.  </p><p><strong>Speaker 1:</strong> Okay. And the city and postcode?  </p><p><strong>Speaker 2:</strong> Yes, the city is Exeter and the postcode is EX349QY.  </p><p><strong>Speaker 1:</strong> Okay, that's great. I'm just putting that into the computer now. Okay, so you said you weren't sure what package you would like. Is that correct?  </p><p><strong>Speaker 2:</strong> Yes, that's right.  </p><p><strong>Speaker 1:</strong> Okay, well, I'll ask you a few questions that can help you choose the best package for you.  </p><p><strong>Speaker 2:</strong> Okay, that sounds great.  </p><p><strong>Speaker 1:</strong> First, how many people will use the internet in your house?  </p><p><strong>Speaker 2:</strong> Well, there's me and my wife and our four-year-old daughter, but she's too young to use it.  </p><p><strong>Speaker 1:</strong> So just two of you?  </p><p><strong>Speaker 2:</strong> No, let's say three. Our daughter might need to use it when she starts school next year.  </p><p><strong>Speaker 1:</strong> Okay, and which of the following things do you use the internet for? Downloading films and music?  </p><p><strong>Speaker 2:</strong> No, never. Oh, but my wife sometimes does.</p>"
+}

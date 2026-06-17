@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_06",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2006.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. So, to join a library, you need to go to the reception between the hours of 9 a.m. and 5 p.m. After that, the reception closes, though all the other facilities will stay open until 10 p.m. At the reception, they'll give you an application form. After you fill that in, you'll have to give us the fee of £5, which you have to give us every year that you're a member of the library. We will also need to see your university card to confirm that you're a student of the university. And finally, we'll need two passport photos, one for our records and the other for your library card. You will need to do all this as soon as possible so you'll be able to use the facilities at once. I'm sure your workload will begin to build up soon.</p><p><strong>Speaker 1:</strong> Now, let me tell you a bit about the facilities. The library opens daily from 8 a.m. to 10 p.m., though, as I told you earlier, the reception operates only between the hours of 9 a.m. and 5 p.m., although this is extended to 6.30 p.m. on Fridays to give students more time to organise their book requirements for the weekend. The reception is closed on Sundays. </p><p><strong>Speaker 1:</strong> Undergraduate students are permitted to take out four books at any one time, and each book may be borrowed for a period of two weeks. Postgraduates may borrow six books at a time. Borrowing time can be extended by a period of one week per book if the student comes into the library in person with the book in question so it can be re-stamped. We do not renew book borrowing over the phone. </p><p><strong>Speaker 1:</strong> If you are late in returning any book, then you'll be charged a fine of £2 for every week that you are late. You won't be able to take out any other books until this fine is paid. This is not a method of earning money for the library, but merely what we have to do to ensure that...</p>"
+    }
+  ]
+}

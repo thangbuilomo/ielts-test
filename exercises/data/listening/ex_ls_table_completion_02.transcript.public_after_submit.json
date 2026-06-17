@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_02",
+  "module": "listening",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2002.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> I'd like now to look at some of the types of survey available to us, and the focus here will be on the methods for surveying individuals and companies. Mail, telephone interview, and in-person interview surveys are the most common ways for doing this. </p><p><strong>Speaker 1:</strong> The latter can be in offices, homes, or on the street. Mail surveys can be relatively low in cost. A decent response rate, though, is the major problem. Mail surveys can be most effective when directed at particular groups, such as subscribers to a specialised magazine, or members of a professional association. </p><p><strong>Speaker 1:</strong> Telephone interviews are an efficient method of collecting some types of data and are being used increasingly. They lend themselves particularly well to situations where timeliness is a factor and the length of the survey is limited. For students such as you, though, cost will be an issue. </p><p><strong>Speaker 1:</strong> In-person interviews in a respondent's home or office are good when complex information is to be collected. It could involve a great deal of travelling around, though. Street interviews could also be useful, as they are easy, but the sampling is not very scientific. </p><p><strong>Speaker 1:</strong> We also need to look at the content of our surveys. Surveys can focus on opinions and attitudes, or on factual characteristics or behaviour. Many surveys combine types of questions. Questions may be open-ended, such as, \"Why do you feel that way?\" or of a closed type, such as, \"Do you approve or disapprove?\" </p><p><strong>Speaker 1:</strong> The questionnaire may be very brief, a few questions taking five minutes or fewer, or it can be quite long, requiring an hour or more of the respondent's time. </p><p><strong>Speaker 1:</strong> Also, because changes in attitudes or behaviour cannot be reliably ascertained from a single interview, some surveys employ a panel design. This is when the same respondents are interviewed on two or more occasions. </p><p><strong>Speaker 1:</strong> There are also certain ethics to be looked at in conducting surveys. Some of you will see that the information that you will compile is of value to companies operating in that particular sector. Therefore, you must always bear in mind a few guidelines. </p><p><strong>Speaker 1:</strong> Surveys should be carried out solely to develop statistical information about a subject. They should not be designed to produce predetermined results or as a ruse for marketing and similar activities. </p><p><strong>Speaker 1:</strong> The industry standard for all reputable survey organizations is that individual respondents should never be identified in reporting survey findings. All of the survey's results should be presented in completely anonymous summaries, such as statistical tables and charts.</p>"
+    }
+  ]
+}

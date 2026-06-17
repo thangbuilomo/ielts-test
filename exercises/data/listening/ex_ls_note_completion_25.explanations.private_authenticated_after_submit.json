@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_25",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q6": {
+      "explanation": "Người nói đang mô tả một chuyến đi thuyền quanh đảo Manhattan mà James đã trải nghiệm. Thông tin giúp tìm ra đáp án là từ \"interesting and funny\", trong đó từ \"funny\" được nhấn mạnh là một đặc điểm nổi bật của người hướng dẫn trong chuyến đi. Paraphrase quan trọng ở đây là \"really interesting and funny\" có thể được hiểu là người hướng dẫn không chỉ cung cấp thông tin mà còn làm cho chuyến đi trở nên thú vị hơn với sự hài hước. Bẫy ở đây có thể là từ \"interesting\", nhưng câu hỏi yêu cầu một từ duy nhất, và \"funny\" là từ chính xác nhất để điền. Vì vậy, đáp án đúng là \"funny\".",
+      "evidence": "James said it's really interesting and funny."
+    },
+    "q7": {
+      "explanation": "Người nói đang thảo luận về nơi ăn tối trong ngày đầu tiên của chuyến đi. Thông tin giúp tìm ra đáp án là sự so sánh giữa \"Chinese food\" và \"Italian\". Người nói đã bày tỏ sự không thích đồ ăn Trung Quốc và thay vào đó là sự hào hứng với đồ ăn Ý. Paraphrase quan trọng là \"Italian sounds great\", cho thấy sự lựa chọn rõ ràng cho bữa tối. Bẫy có thể là sự nhầm lẫn với \"Chinese food\", nhưng câu hỏi yêu cầu một loại thực phẩm mà họ sẽ ăn, và \"Italian\" là đáp án chính xác. Do đó, đáp án đúng là \"Italian\".",
+      "evidence": "I'm not so keen on Chinese food, but Italian sounds great."
+    },
+    "q8": {
+      "explanation": "Người nói đang đề cập đến kế hoạch cho buổi sáng của ngày thứ hai trong chuyến đi. Thông tin giúp tìm ra đáp án là việc người nói đã quyết định đi đến sở thú, điều này được nhấn mạnh khi họ nói \"I'll go to the zoo\". Paraphrase quan trọng là \"the zoo in Central Park\", cho thấy địa điểm cụ thể mà họ sẽ đến. Không có bẫy nào ở đây vì câu trả lời rất rõ ràng. Vì vậy, đáp án đúng là \"zoo\".",
+      "evidence": "I'll go to the zoo in Central Park."
+    },
+    "q9": {
+      "explanation": "Người nói đang thảo luận về kế hoạch cho buổi chiều của ngày thứ hai, cụ thể là việc di chuyển đến Staten Island. Thông tin giúp tìm ra đáp án là từ \"ferry\", cho thấy phương tiện mà họ sẽ sử dụng để đến Staten Island. Paraphrase quan trọng là \"take the ferry out to Staten Island\", điều này làm rõ rằng họ sẽ không đi bằng phương tiện khác. Bẫy có thể là sự nhầm lẫn với các phương tiện khác, nhưng câu hỏi yêu cầu một phương tiện cụ thể, và \"ferry\" là đáp án chính xác. Do đó, đáp án đúng là \"ferry\".",
+      "evidence": "would you like to take the ferry out to Staten Island in the afternoon?"
+    },
+    "q10": {
+      "explanation": "Người nói đang nói về kế hoạch cho buổi tối của ngày thứ ba, cụ thể là việc xem một trận bóng chày. Thông tin giúp tìm ra đáp án là cụm từ \"baseball game\", cho thấy hoạt động mà họ dự định tham gia. Paraphrase quan trọng là \"the New York Mets have a baseball game\", điều này làm rõ rằng đây là một sự kiện thể thao mà họ muốn tham gia. Không có bẫy nào ở đây vì câu trả lời rất rõ ràng. Vì vậy, đáp án đúng là \"baseball game\".",
+      "evidence": "the New York Mets have a baseball game that night."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. So, now we come to what we want to do in New York. I was talking to James and he said that when he went last year with his wife, they had an excellent boat tour around Manhattan Island. It was about three hours long and they got a really good orientation. There's a commentary by someone on the boat and James said it's really interesting and funny. How about that for the first morning?</p><p><strong>Speaker 2:</strong> That sounds great. So, that's the morning. How about in the afternoon we go into Greenwich Village and walk around the stalls there? If we feel like some more shopping later, we can go down to 5th Avenue and check out the really famous stores like Tiffany's and Bloomingdale's.</p><p><strong>Speaker 1:</strong> That sounds nice. We could finish the afternoon by going up the Empire State Building.</p><p><strong>Speaker 2:</strong> Good idea. For dinner, we could go to Little Italy or Chinatown. I've heard so much about those places.</p><p><strong>Speaker 1:</strong> I'm not so keen on Chinese food, but Italian sounds great. So, that's day one settled. On day two, I'd like to see the modern art in the Metropolitan Museum. Would you like to do that?</p><p><strong>Speaker 2:</strong> Not really, but why don't you do that and I'll go to the zoo in Central Park? I've always wanted to go there and I know that you don't like zoos. Afterwards, we can meet up and walk through the park a little and have lunch.</p><p><strong>Speaker 1:</strong> That sounds good. After that, would you like to take the ferry out to Staten Island in the afternoon?</p><p><strong>Speaker 2:</strong> Yes, I'd like that. We could have dinner out there as well and take an evening ferry home. That just leaves day three, the last day then. What would you like to do first?</p><p><strong>Speaker 1:</strong> Well, we will have been rushing around all the other days. Why don't we just go and have a leisurely breakfast down by the water somewhere? How about down near the UN building on the East River? We can just eat, relax and read a paper or something. You know, just soak up the atmosphere.</p><p><strong>Speaker 2:</strong> That's a good idea. It will be nice to relax. And shall we just leave the afternoon free for now and see what happens? There's bound to be something going on and we can always go to the tourism office and get some recommendations.</p><p><strong>Speaker 1:</strong> In the evening though, I did have something I'd like to do. I've checked and the New York Mets have a baseball game that night. I'd love to see a baseball game. Would you like that?</p><p><strong>Speaker 2:</strong> Sure, that sounds fun. We can just have hot dogs and hamburgers for dinner at the game. And then the next morning, we have to be at Grand Central Station at 9am.</p>"
+}

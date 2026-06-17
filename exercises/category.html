@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Category - Exercise Hub</title>
+  <link rel="stylesheet" href="../assets/css/saola-base.css">
+  <style>
+    .hub-container { display: flex; min-height: 100vh; }
+    .hub-sidebar { width: 250px; background: #f8f9fa; padding: 24px; border-right: 1px solid #e9ecef; }
+    .hub-content { flex: 1; padding: 32px; background: #fff; }
+    .menu-item { display: block; padding: 12px 16px; color: #495057; text-decoration: none; border-radius: 6px; margin-bottom: 8px; font-weight: 500; }
+    .menu-item.active { background: #e7f5ff; color: #1c7ed6; }
+    .exercises-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px; margin-top: 24px; }
+    .ex-card { border: 1px solid #dee2e6; border-radius: 8px; padding: 20px; text-decoration: none; color: inherit; transition: all 0.2s; background: #fff; min-height: 120px; display: grid; align-content: center; gap: 8px; }
+    .ex-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.1); transform: translateY(-2px); border-color: #1c7ed6; }
+    .ex-title { font-size: 18px; margin: 0; font-weight: 600; color: #343a40; }
+    .ex-meta { font-size: 13px; color: #868e96; }
+    .breadcrumb { margin-bottom: 24px; font-size: 14px; color: #6c757d; }
+    .breadcrumb a { color: #1c7ed6; text-decoration: none; }
+    .breadcrumb a:hover { text-decoration: underline; }
+    @media (max-width: 760px) {
+      .hub-container { display: block; }
+      .hub-sidebar { width: auto; border-right: 0; border-bottom: 1px solid #e9ecef; }
+      .hub-content { padding: 24px 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="hub-container">
+    <aside class="hub-sidebar">
+      <div style="margin-bottom: 32px;">
+        <a id="back-link" href="index.html" style="text-decoration: none; color: #212529; font-weight: bold; font-size: 18px;">Back to Categories</a>
+      </div>
+      <h3 style="font-size: 14px; text-transform: uppercase; color: #adb5bd; margin-bottom: 16px;">IELTS Specific</h3>
+      <a href="index.html?module=listening" class="menu-item" data-module-link="listening">Listening Exercises</a>
+      <a href="index.html?module=reading" class="menu-item" data-module-link="reading">Reading Exercises</a>
+    </aside>
+
+    <main class="hub-content">
+      <div class="breadcrumb">
+        <a id="bc-module" href="index.html">Exercises</a> > <span id="bc-current">Category</span>
+      </div>
+      <h1 id="cat-title">Loading...</h1>
+      <p id="cat-desc" style="color: #495057; font-size: 16px; margin-bottom: 32px;"></p>
+
+      <div class="exercises-grid" id="grid"></div>
+    </main>
+  </div>
+
+  <script src="../assets/js/saola-auth.js"></script>
+  <script>
+    async function loadCategory() {
+      try {
+        const params = new URLSearchParams(window.location.search);
+        const moduleName = params.get('module') || 'listening';
+        const type = params.get('type');
+        const moduleLabel = moduleName.charAt(0).toUpperCase() + moduleName.slice(1);
+
+        document.querySelectorAll('[data-module-link]').forEach(link => {
+          link.classList.toggle('active', link.dataset.moduleLink === moduleName);
+        });
+        document.getElementById('back-link').href = `index.html?module=${encodeURIComponent(moduleName)}`;
+        document.getElementById('bc-module').href = `index.html?module=${encodeURIComponent(moduleName)}`;
+        document.getElementById('bc-module').textContent = `${moduleLabel} Exercises`;
+
+        if (!type) {
+          document.getElementById('cat-title').innerText = 'Category not found';
+          return;
+        }
+
+        const res = await fetch(`data/${moduleName}/catalog.json`);
+        if (!res.ok) throw new Error('Could not load catalog');
+        const data = await res.json();
+        const category = data.categories.find(c => c.category_id === type);
+
+        if (!category) {
+          document.getElementById('cat-title').innerText = 'Category not found';
+          return;
+        }
+
+        document.getElementById('bc-current').innerText = category.category_name;
+        document.getElementById('cat-title').innerText = category.category_name;
+        document.getElementById('cat-desc').innerText = category.description;
+
+        const grid = document.getElementById('grid');
+        grid.innerHTML = '';
+        category.exercises.forEach(ex => {
+          const card = document.createElement('a');
+          card.className = 'ex-card';
+          card.href = `run.html?module=${encodeURIComponent(moduleName)}&id=${encodeURIComponent(ex.id)}`;
+          card.innerHTML = `
+            <h2 class="ex-title">${ex.title}</h2>
+            <div class="ex-meta">${ex.question_count || 0} questions - Start exercise</div>
+          `;
+          grid.appendChild(card);
+        });
+      } catch (err) {
+        console.error(err);
+        document.getElementById('cat-title').innerText = 'Error loading data';
+      }
+    }
+
+    loadCategory();
+  </script>
+</body>
+</html>

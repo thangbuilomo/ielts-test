@@ -1,0 +1,44 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_information_06",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Câu 1 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 4 chứa căn cứ: \"Fish farms are also being blamed for increasing levels of nitrogen in the ocean. Over the last 2 years there have been 26 effluent leaks involving nitrogen-rich fish droppings. Naturally occurring algae feed on this and grow into large toxic blooms that kill most other marine life.\". Lựa chọn NJ (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Fish farms are also being blamed for increasing levels of nitrogen in the ocean. Over the last 2 years there have been 26 effluent leaks involving nitrogen-rich fish droppings. Naturally occurring algae feed on this and grow into large toxic blooms that kill most other marine life._"
+    },
+    "q2": {
+      "explanation": "Câu 2 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"Escapees breed less successfully than wild salmon, but the young of the escapees, known as “parr”, breed aggressively and can reproduce four times more successfully than their wild counterparts. Parr also become sexually active far sooner than wild salmon and fertilise more eggs. As a result, farmed salmon are genetically changing wild salmon stocks.\". Lựa chọn LT (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Escapees breed less successfully than wild salmon, but the young of the escapees, known as “parr”, breed aggressively and can reproduce four times more successfully than their wild counterparts. Parr also become sexually active far sooner than wild salmon and fertilise more eggs. As a result, farmed salmon are genetically changing wild salmon stocks._"
+    },
+    "q3": {
+      "explanation": "Câu 3 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 6 chứa căn cứ: \"The UK government likes to think that the roots of the problem have been addressed through legislation - fishermen, at sea and in estuaries, have been set quotas and many salmon rivers have been closed to fishing. Poachers are more difficult to control but their effect is not as marked as that of professional fishermen. However, environmentalist Angus Kilrie feels that the efforts have been wasted: “Legislation has merely scratched the surface.\". Lựa chọn PK (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The UK government likes to think that the roots of the problem have been addressed through legislation - fishermen, at sea and in estuaries, have been set quotas and many salmon rivers have been closed to fishing. Poachers are more difficult to control but their effect is not as marked as that of professional fishermen. However, environmentalist Angus Kilrie feels that the efforts have been wasted: “Legislation has merely scratched the surface._"
+    },
+    "q4": {
+      "explanation": "Câu 4 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"Environmentalists believe that salmon farming has affected wild salmon and the marine environment in various ways. Firstly, they claim that mass escapes of farmed fish present a grave threat to the gene pool of wild salmon stocks. Escapees breed less successfully than wild salmon, but the young of the escapees, known as “parr”, breed aggressively and can reproduce four times more successfully than their wild counterparts.\". Lựa chọn TH (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Environmentalists believe that salmon farming has affected wild salmon and the marine environment in various ways. Firstly, they claim that mass escapes of farmed fish present a grave threat to the gene pool of wild salmon stocks. Escapees breed less successfully than wild salmon, but the young of the escapees, known as “parr”, breed aggressively and can reproduce four times more successfully than their wild counterparts._"
+    },
+    "q5": {
+      "explanation": "Câu 5 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 4 chứa căn cứ: \"Over the last 2 years there have been 26 effluent leaks involving nitrogen-rich fish droppings. Naturally occurring algae feed on this and grow into large toxic blooms that kill most other marine life. Even legal chemicals used in farms, such as those used to combat sea lice, can unbalance microorganism populations, affecting the other organisms that feed on them.\". Lựa chọn AK (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Over the last 2 years there have been 26 effluent leaks involving nitrogen-rich fish droppings. Naturally occurring algae feed on this and grow into large toxic blooms that kill most other marine life. Even legal chemicals used in farms, such as those used to combat sea lice, can unbalance microorganism populations, affecting the other organisms that feed on them._"
+    },
+    "q6": {
+      "explanation": "Câu 6 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"Farm fish are under very different selection pressures in an artificial habitat. This could leave the world with a North Atlantic salmon which could not survive in its native conditions.” A massive increase in sea lice in coastal waters is another problem. Sea lice thrive in salmon farm conditions and their increase in numbers means that wild salmon and other fish entering waters where there are farms can fall prey to the lice.\". Lựa chọn JR (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Farm fish are under very different selection pressures in an artificial habitat. This could leave the world with a North Atlantic salmon which could not survive in its native conditions.” A massive increase in sea lice in coastal waters is another problem. Sea lice thrive in salmon farm conditions and their increase in numbers means that wild salmon and other fish entering waters where there are farms can fall prey to the lice._"
+    },
+    "q7": {
+      "explanation": "Câu 7 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 4 chứa căn cứ: \"Naturally occurring algae feed on this and grow into large toxic blooms that kill most other marine life. Even legal chemicals used in farms, such as those used to combat sea lice, can unbalance microorganism populations, affecting the other organisms that feed on them. Kevin Dunnon, director of FEO Scotland, has warned: “Using inappropriate chemicals and medicines has the potential to do real environmental damage ...\". Lựa chọn KD (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Naturally occurring algae feed on this and grow into large toxic blooms that kill most other marine life. Even legal chemicals used in farms, such as those used to combat sea lice, can unbalance microorganism populations, affecting the other organisms that feed on them. Kevin Dunnon, director of FEO Scotland, has warned: “Using inappropriate chemicals and medicines has the potential to do real environmental damage ..._"
+    }
+  }
+}

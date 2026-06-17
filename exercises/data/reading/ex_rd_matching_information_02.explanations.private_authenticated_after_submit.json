@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_information_02",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q16": {
+      "explanation": "Câu 16 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn E chứa căn cứ: \"Many of us have come to take antibiotics for granted. A child develops a sore throat or an ear infection, and soon a bottle of pink medicine makes everything better. Linda McCaig, a scientist at the Center for Disease Control (CDC), comments: “Many consumers have an expectation that when they’re ill, antibiotics are the answer.\". Lựa chọn LM (Linda McCaig) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Many of us have come to take antibiotics for granted. A child develops a sore throat or an ear infection, and soon a bottle of pink medicine makes everything better. Linda McCaig, a scientist at the Center for Disease Control (CDC), comments: “Many consumers have an expectation that when they’re ill, antibiotics are the answer._"
+    },
+    "q17": {
+      "explanation": "Câu 17 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn B chứa căn cứ: \"The perception was that we had licked the bacterial infection problem. Drug companies were not working on new agents. They were concentrating on other areas, such as viral infections,” says Michael Blum, MD, medical officer in the Food and Drug Administration’s division of anti-infective drug products. “In the meantime, resistance increased to a number of commonly used antibiotics, possibly related to overuse.\". Lựa chọn PK (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The perception was that we had licked the bacterial infection problem. Drug companies were not working on new agents. They were concentrating on other areas, such as viral infections,” says Michael Blum, MD, medical officer in the Food and Drug Administration’s division of anti-infective drug products. “In the meantime, resistance increased to a number of commonly used antibiotics, possibly related to overuse._"
+    },
+    "q18": {
+      "explanation": "Câu 18 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn C chứa căn cứ: \"When a person takes an antibiotic, the drug kills the defenceless bacteria, leaving behind - or “selecting” in biological terms - those that can resist it. These renegade bacteria then multiply, increasing their numbers a millionfold in a day, becoming the predominant microorganism. “Whenever antibiotics are used, there is selective pressure for resistance to occur. More and more organisms develop resistance to more and more drugs,” says Joe Cranston, PhD, director of the department of drug policy and standards at the American Medical Association in Chicago.\". Lựa chọn MB (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "When a person takes an antibiotic, the drug kills the defenceless bacteria, leaving behind - or “selecting” in biological terms - those that can resist it. These renegade bacteria then multiply, increasing their numbers a millionfold in a day, becoming the predominant microorganism. “Whenever antibiotics are used, there is selective pressure for resistance to occur. More and more organisms develop resistance to more and more drugs,” says Joe Cranston, PhD, director of the department of drug policy and standards at the American Medical Association in Chicago._"
+    },
+    "q19": {
+      "explanation": "Câu 19 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn C chứa căn cứ: \"When a person takes an antibiotic, the drug kills the defenceless bacteria, leaving behind - or “selecting” in biological terms - those that can resist it. These renegade bacteria then multiply, increasing their numbers a millionfold in a day, becoming the predominant microorganism. “Whenever antibiotics are used, there is selective pressure for resistance to occur. More and more organisms develop resistance to more and more drugs,” says Joe Cranston, PhD, director of the department of drug policy and standards at the American Medical Association in Chicago.\". Lựa chọn MB (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "When a person takes an antibiotic, the drug kills the defenceless bacteria, leaving behind - or “selecting” in biological terms - those that can resist it. These renegade bacteria then multiply, increasing their numbers a millionfold in a day, becoming the predominant microorganism. “Whenever antibiotics are used, there is selective pressure for resistance to occur. More and more organisms develop resistance to more and more drugs,” says Joe Cranston, PhD, director of the department of drug policy and standards at the American Medical Association in Chicago._"
+    },
+    "q20": {
+      "explanation": "Câu 20 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn F chứa căn cứ: \"Barbara Murray, MD, of the University of Texas Medical School at Houston writes: “Simple improvements in public health measures can go a long way towards preventing infection.” Such approaches include more frequent hand washing by health-care workers, quick identification and isolation of patients with drug-resistant infections, and improving sewage systems and water purity. Drug manufacturers are also once again becoming interested in developing new antibiotics.\". Lựa chọn JC (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Barbara Murray, MD, of the University of Texas Medical School at Houston writes: “Simple improvements in public health measures can go a long way towards preventing infection.” Such approaches include more frequent hand washing by health-care workers, quick identification and isolation of patients with drug-resistant infections, and improving sewage systems and water purity. Drug manufacturers are also once again becoming interested in developing new antibiotics._"
+    },
+    "q21": {
+      "explanation": "Câu 21 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn E chứa căn cứ: \"Linda McCaig, a scientist at the Center for Disease Control (CDC), comments: “Many consumers have an expectation that when they’re ill, antibiotics are the answer. Most of the time the illness is viral, and antibiotics are not the answer. This large burden of antibiotics is certainly selecting resistant bacteria.” McCaig and Peter Killeen, a fellow scientist at the CDC, tracked antibiotic use in treating common illnesses.\". Lựa chọn LM (Linda McCaig) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Linda McCaig, a scientist at the Center for Disease Control (CDC), comments: “Many consumers have an expectation that when they’re ill, antibiotics are the answer. Most of the time the illness is viral, and antibiotics are not the answer. This large burden of antibiotics is certainly selecting resistant bacteria.” McCaig and Peter Killeen, a fellow scientist at the CDC, tracked antibiotic use in treating common illnesses._"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_09",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Căn cứ nằm ở đoạn E: \"Although most crop dusters are used to spray crops with pesticide, planes and helicopters are also used to seed rice and wheat, defoliate cotton prior to harvest, fight forest and grassland fires, protect forests, drop food for fish farms, melt snow and control mosquitoes that threaten public health. All of these activities are in addition to the usual function of applying herbicides, insecticides and fertilisers to fruit, vegetable and feed grain crops.\". Phương án B (Ability to apply environmentally friendly products) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Although most crop dusters are used to spray crops with pesticide, planes and helicopters are also used to seed rice and wheat, defoliate cotton prior to harvest, fight forest and grassland fires, protect forests, drop food for fish farms, melt snow and control mosquitoes that threaten public health. All of these activities are in addition to the usual function of applying herbicides, insecticides and fertilisers to fruit, vegetable and feed grain crops._"
+    },
+    "q12": {
+      "explanation": "Căn cứ nằm ở đoạn F: \"The crop dusting planes usually fly at very low altitudes and must be manoeuvred around obstacles, as they attempt to keep seeds and chemicals contained to the fields and away from homes or roadways. The pilot must have better than average focus for the job in hand and faster than average eyes on the instruments. As the pilot descends to spray, he will be following GPS guidance instruments for accurate positioning in the field.\". Phương án D (Mapping) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "The crop dusting planes usually fly at very low altitudes and must be manoeuvred around obstacles, as they attempt to keep seeds and chemicals contained to the fields and away from homes or roadways. The pilot must have better than average focus for the job in hand and faster than average eyes on the instruments. As the pilot descends to spray, he will be following GPS guidance instruments for accurate positioning in the field._"
+    },
+    "q13": {
+      "explanation": "Căn cứ nằm ở đoạn F: \"The crop dusting planes usually fly at very low altitudes and must be manoeuvred around obstacles, as they attempt to keep seeds and chemicals contained to the fields and away from homes or roadways. The pilot must have better than average focus for the job in hand and faster than average eyes on the instruments. As the pilot descends to spray, he will be following GPS guidance instruments for accurate positioning in the field.\". Phương án A (Excellent concentration skills) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "The crop dusting planes usually fly at very low altitudes and must be manoeuvred around obstacles, as they attempt to keep seeds and chemicals contained to the fields and away from homes or roadways. The pilot must have better than average focus for the job in hand and faster than average eyes on the instruments. As the pilot descends to spray, he will be following GPS guidance instruments for accurate positioning in the field._"
+    }
+  }
+}

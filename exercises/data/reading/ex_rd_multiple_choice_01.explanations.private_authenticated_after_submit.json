@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_01",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q7": {
+      "explanation": "Căn cứ nằm ở đoạn B: \"In the 1950s Canadian and US east coast waters provided an annual 100,000 tons in cod catches rising to 800,000 by 1970. This over-fishing led to a catch of only 300,000 tons by 1975. Canada and the US reacted by passing legislation to extend their national jurisdictions over marine living resources out to 200 nautical miles and catches naturally declined to 139,000 tons in 1980.\". Phương án A (Worry over possible rising unemployment.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "In the 1950s Canadian and US east coast waters provided an annual 100,000 tons in cod catches rising to 800,000 by 1970. This over-fishing led to a catch of only 300,000 tons by 1975. Canada and the US reacted by passing legislation to extend their national jurisdictions over marine living resources out to 200 nautical miles and catches naturally declined to 139,000 tons in 1980._"
+    },
+    "q8": {
+      "explanation": "Căn cứ nằm ở đoạn B: \"In the 1950s Canadian and US east coast waters provided an annual 100,000 tons in cod catches rising to 800,000 by 1970. This over-fishing led to a catch of only 300,000 tons by 1975. Canada and the US reacted by passing legislation to extend their national jurisdictions over marine living resources out to 200 nautical miles and catches naturally declined to 139,000 tons in 1980.\". Phương án B (They expanded the marine area under their control.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "In the 1950s Canadian and US east coast waters provided an annual 100,000 tons in cod catches rising to 800,000 by 1970. This over-fishing led to a catch of only 300,000 tons by 1975. Canada and the US reacted by passing legislation to extend their national jurisdictions over marine living resources out to 200 nautical miles and catches naturally declined to 139,000 tons in 1980._"
+    },
+    "q9": {
+      "explanation": "Căn cứ nằm ở đoạn E: \"So, who was to blame? As the exploitation of the Newfoundland fishery was so predominantly guided by the government, it could be argued that a fishery is not a private area, as the fisher lacks management rights normally associated with property and common property. The state had appropriated the property, and made all of the management decisions.\". Phương án C (The Canadian government.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "So, who was to blame? As the exploitation of the Newfoundland fishery was so predominantly guided by the government, it could be argued that a fishery is not a private area, as the fisher lacks management rights normally associated with property and common property. The state had appropriated the property, and made all of the management decisions._"
+    },
+    "q10": {
+      "explanation": "Căn cứ nằm ở đoạn F: \"Following the 1992 ban on the fishing of northern cod and most other species, an estimated 30,000 people, who had already lost their jobs after the 1992 Northern Cod prohibition took effect, were joined by an additional 12,000 fishermen and plant workers. With more than 40,000 people out of work, Newfoundland became an economic disaster area, as processing plants shut down and vessels from the smallest dory to the monster draggers were made idle or sold overseas at bargain prices.\". Phương án B (The ban affected only people who fished cod.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Following the 1992 ban on the fishing of northern cod and most other species, an estimated 30,000 people, who had already lost their jobs after the 1992 Northern Cod prohibition took effect, were joined by an additional 12,000 fishermen and plant workers. With more than 40,000 people out of work, Newfoundland became an economic disaster area, as processing plants shut down and vessels from the smallest dory to the monster draggers were made idle or sold overseas at bargain prices._"
+    }
+  }
+}

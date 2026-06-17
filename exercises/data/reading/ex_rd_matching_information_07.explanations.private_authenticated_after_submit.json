@@ -1,0 +1,48 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_information_07",
+  "module": "reading",
+  "question_count": 8,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Câu 15 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 5 chứa căn cứ: \"It was Napoleon’s engineers who, around 1800 AD, revived the idea of a shorter trade route to India via a Suez canal. However, the calculation carried out by the French engineers showed a difference in level of 10 meters between both seas. If constructed under such circumstances, a large land area would be flooded.\". Lựa chọn B (The statement refers to the Suez Canal.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "It was Napoleon’s engineers who, around 1800 AD, revived the idea of a shorter trade route to India via a Suez canal. However, the calculation carried out by the French engineers showed a difference in level of 10 meters between both seas. If constructed under such circumstances, a large land area would be flooded._"
+    },
+    "q16": {
+      "explanation": "Câu 16 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"The first between 1881 and 1888, the work being carried out by the French company headed by de Lesseps, and secondly, the work by the Americans, which eventually completed the canal’s construction between 1904 and 1914. The French company ran out of money and an attempt was unsuccessful to raise funds by applying to the French government to issue lottery bonds, which had been successful during the construction of the Suez Canal when that project was at the point of failure through lack of money. The French problems stemmed from their inability to create a viable solution to the differences in tidal changes in the Pacific and Atlantic Oceans.\". Lựa chọn C (The statement refers to both the Panama Canal and the Suez Canal.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The first between 1881 and 1888, the work being carried out by the French company headed by de Lesseps, and secondly, the work by the Americans, which eventually completed the canal’s construction between 1904 and 1914. The French company ran out of money and an attempt was unsuccessful to raise funds by applying to the French government to issue lottery bonds, which had been successful during the construction of the Suez Canal when that project was at the point of failure through lack of money. The French problems stemmed from their inability to create a viable solution to the differences in tidal changes in the Pacific and Atlantic Oceans._"
+    },
+    "q17": {
+      "explanation": "Câu 17 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"The Americans proposed that a tidal lock should be constructed at Panama, which solved the problem and reduced excavation by an enormous amount. When construction was finally completed, the Panama Canal ran through various locks and four dams, raising and lowering boats by 26 metres, and running the lengths of two naturally occurring lakes, the 32-mile Gatun Lake and the 5-mile Miraflores Lake.\". Lựa chọn A (The statement refers to the Panama Canal.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The Americans proposed that a tidal lock should be constructed at Panama, which solved the problem and reduced excavation by an enormous amount. When construction was finally completed, the Panama Canal ran through various locks and four dams, raising and lowering boats by 26 metres, and running the lengths of two naturally occurring lakes, the 32-mile Gatun Lake and the 5-mile Miraflores Lake._"
+    },
+    "q18": {
+      "explanation": "Câu 18 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"Finally, the Panama Canal was constructed in two stages. The first between 1881 and 1888, the work being carried out by the French company headed by de Lesseps, and secondly, the work by the Americans, which eventually completed the canal’s construction between 1904 and 1914. The French company ran out of money and an attempt was unsuccessful to raise funds by applying to the French government to issue lottery bonds, which had been successful during the construction of the Suez Canal when that project was at the point of failure through lack of money.\". Lựa chọn C (The statement refers to both the Panama Canal and the Suez Canal.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Finally, the Panama Canal was constructed in two stages. The first between 1881 and 1888, the work being carried out by the French company headed by de Lesseps, and secondly, the work by the Americans, which eventually completed the canal’s construction between 1904 and 1914. The French company ran out of money and an attempt was unsuccessful to raise funds by applying to the French government to issue lottery bonds, which had been successful during the construction of the Suez Canal when that project was at the point of failure through lack of money._"
+    },
+    "q19": {
+      "explanation": "Câu 19 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 6 chứa căn cứ: \"In 1859, Egyptian workers started on the construction of the canal, in conditions described by historians as slave labour, and the project was completed around 1867. The canal is 163 kilometres long and has a width of a minimum of 60 metres. The canal cuts through three lakes: Lake Manzala in the north, Lake Timsah in the middle and the Great Bitter Lake further south.\". Lựa chọn B (The statement refers to the Suez Canal.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "In 1859, Egyptian workers started on the construction of the canal, in conditions described by historians as slave labour, and the project was completed around 1867. The canal is 163 kilometres long and has a width of a minimum of 60 metres. The canal cuts through three lakes: Lake Manzala in the north, Lake Timsah in the middle and the Great Bitter Lake further south._"
+    },
+    "q20": {
+      "explanation": "Câu 20 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 1 chứa căn cứ: \"Two of the most spectacular engineering feats of the last 200 years were of the same type, though thousands of miles apart. They were the construction of the Suez and Panama canals. The Panama Canal joins the Pacific and Atlantic oceans while the Suez joins the Red Sea (Indian Ocean) and the Mediterranean (Atlantic Ocean).\". Lựa chọn D (The statement refers to neither the Panama Canal nor the Suez Canal.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Two of the most spectacular engineering feats of the last 200 years were of the same type, though thousands of miles apart. They were the construction of the Suez and Panama canals. The Panama Canal joins the Pacific and Atlantic oceans while the Suez joins the Red Sea (Indian Ocean) and the Mediterranean (Atlantic Ocean)._"
+    },
+    "q21": {
+      "explanation": "Câu 21 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 1 chứa căn cứ: \"The Panama Canal joins the Pacific and Atlantic oceans while the Suez joins the Red Sea (Indian Ocean) and the Mediterranean (Atlantic Ocean). Both offer ships huge savings in time and mileage. For example, a 9-hour trip on the Panama Canal would save a total of 18,000 miles on a trip from New York to San Francisco.\". Lựa chọn B (The statement refers to the Suez Canal.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The Panama Canal joins the Pacific and Atlantic oceans while the Suez joins the Red Sea (Indian Ocean) and the Mediterranean (Atlantic Ocean). Both offer ships huge savings in time and mileage. For example, a 9-hour trip on the Panama Canal would save a total of 18,000 miles on a trip from New York to San Francisco._"
+    },
+    "q22": {
+      "explanation": "Câu 22 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"The Americans proposed that a tidal lock should be constructed at Panama, which solved the problem and reduced excavation by an enormous amount. When construction was finally completed, the Panama Canal ran through various locks and four dams, raising and lowering boats by 26 metres, and running the lengths of two naturally occurring lakes, the 32-mile Gatun Lake and the 5-mile Miraflores Lake.\". Lựa chọn A (The statement refers to the Panama Canal.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The Americans proposed that a tidal lock should be constructed at Panama, which solved the problem and reduced excavation by an enormous amount. When construction was finally completed, the Panama Canal ran through various locks and four dams, raising and lowering boats by 26 metres, and running the lengths of two naturally occurring lakes, the 32-mile Gatun Lake and the 5-mile Miraflores Lake._"
+    }
+  }
+}

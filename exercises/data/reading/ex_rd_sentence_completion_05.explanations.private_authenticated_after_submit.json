@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_sentence_completion_05",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"Yet, a good liar will be just as aware of these as the person they are lying to and thus will ensure that eye contact especially is evident. Shifty eyes can indicate that someone is feeling emotional perhaps from a lie, or perhaps just from nerves as a result of lying. Of course, this does not apply to instances where eye contact is non-existent, like during a telephone conversation.\". Cụm shifty eyes khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Yet, a good liar will be just as aware of these as the person they are lying to and thus will ensure that eye contact especially is evident. Shifty eyes can indicate that someone is feeling emotional perhaps from a lie, or perhaps just from nerves as a result of lying. Of course, this does not apply to instances where eye contact is non-existent, like during a telephone conversation._"
+    },
+    "q22": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 5, bài viết nêu: \"The first study was conducted in 1987 and looked at whether police officers could be trained to detect deceptive eyewitness statements. They watched videotaped statements of witnesses, some of whom were truthful and others who were not. They were told to pay close attention to non-verbal cues, such as body movements and posture, gestures, and facial expressions.\". Cụm eyewitness statements khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The first study was conducted in 1987 and looked at whether police officers could be trained to detect deceptive eyewitness statements. They watched videotaped statements of witnesses, some of whom were truthful and others who were not. They were told to pay close attention to non-verbal cues, such as body movements and posture, gestures, and facial expressions._"
+    },
+    "q23": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"The inspectors and lay people in this experiment were not given any specific training or instructions on what to look for. They were simply told to judge the truthfulness of mock inspection interviews viewed on videotape and determine whether the passenger was carrying contraband and lying about it. The “passengers” being interviewed were actually paid volunteers whose job it was to try to fool the inspectors.\". Cụm paid volunteers khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The inspectors and lay people in this experiment were not given any specific training or instructions on what to look for. They were simply told to judge the truthfulness of mock inspection interviews viewed on videotape and determine whether the passenger was carrying contraband and lying about it. The “passengers” being interviewed were actually paid volunteers whose job it was to try to fool the inspectors._"
+    },
+    "q24": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 7, bài viết nêu: \"Some might argue that it is this very difference which politicians and others are trying to emphasise. This is that people cannot tell when people are lying on videotape but can when the person is there, live, in front of them. Without research teasing out these subtle differences, however, it would be a leap of logic to simply assume that something is missing in a videotaped interview.\". Cụm subtle differences khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Some might argue that it is this very difference which politicians and others are trying to emphasise. This is that people cannot tell when people are lying on videotape but can when the person is there, live, in front of them. Without research teasing out these subtle differences, however, it would be a leap of logic to simply assume that something is missing in a videotaped interview._"
+    }
+  }
+}

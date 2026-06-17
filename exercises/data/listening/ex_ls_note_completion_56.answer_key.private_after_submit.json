@@ -1,0 +1,73 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_ls_note_completion_56",
+  "module": "listening",
+  "question_count": 10,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 10,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q31": {
+      "answers": [
+        "cathedral"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "shrubs"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "attractive"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "dust"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "shade"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "sunlight"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "insects"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "cranes"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "ropes"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "criticism"
+      ]
+    }
+  }
+}

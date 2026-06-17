@@ -1,0 +1,107 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_summary_completion_17",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 7,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "summary_completion",
+  "category_id": "summary_completion",
+  "title": "Summary Completion - Exercise 17",
+  "duration_seconds": 0,
+  "content": {
+    "title": "MINDFULNESS",
+    "content_html": "<h1>SUMMARY COMPLETION 17</h1>\n<h2>MINDFULNESS</h2>\n<p>In 2011, the World Health Organisation released a report stating that by 2030 mental ill-health would be the biggest burden of disease in developed countries. In searching for new approaches to tackle this rising global epidemic, mindfulness has gained significant ground. Although research around it remains in its infancy, this ever-accelerating phenomenon has recently become the subject of academic curiosity due to practitioners’ claims of its countless health benefits and flexibility of application.</p>\n<p>Mindfulness, commonly defined as the state of being attentive to and aware of the present moment, has its roots in reflective Eastern traditions of philosophy. While modern day mindfulness is used as a preventative or therapeutic tool, it was originally taught as a means of seeing the true nature of reality. It was believed that, through careful attention to the sensory experience, one was able to realise the impermanent nature of all things, transcend the concept of self, and ultimately attain a state free from suffering, known as enlightenment.</p>\n<p>Through the 1970s, Western interest in these concepts and practices rapidly grew, drawing travellers from America and Europe to Asia. One MIT molecular biology student, Jon Kabat-Zinn, was able to take a modern scientific-based perspective to traditional Eastern principles of mindfulness and meditation, resulting in the familiar Western concept which downplays the traditional spiritual or religious aspects. He later founded the Stress Reduction Clinic at the University of Massachusetts Medical School, going on to develop a Mindfulness-Based Stress Reduction (MBSR) programme: an eight-week course aimed at reducing people’s stress levels; and later a Mindfulness-Based Cognitive Therapy (MBCT) programme dealing with severe mental health issues such as depression and anxiety.</p>\n<p>These days, scientific research into mindfulness abounds and a number of reports have emphasised its potential. A 2013 study conducted by Massachusetts General Hospital of sufferers of Generalised Anxiety Disorder (GAD) showed participants receiving mindfulness-based treatment to have a significantly greater reduction in anxiety than a control group. This response to mindfulness-based treatment does not appear to merely be a psychological one either. A recent paper from Pittsburgh University’s Neuroscience department showed mindfulness can actually shrink the amygdala - the part of our brain controlling our 'fight or flight' response - while simultaneously diminishing the connection between the amygdala and the rest of the brain. What this amounts to is that, through mindfulness, our brain becomes better able to mediate our primal response to stress and, thus, not let it affect us so much.</p>\n<p>Another booming area of research is the use of mindfulness for helping cancer patients deal with the fear that accompanies diagnosis. One of the largest studies in this area, published in the Journal of Clinical Oncology, showed breast cancer survivors who practised mindfulness exhibited increased calm and wellbeing, improved sleep and less physical pain. One cancer survivor, Andy Puddicombe, founder of the mindfulness app 'Headspace', says mindfulness enables us to recognise the patterns of negative thinking that a cancer diagnosis can bring about- such as depressive thoughts - and embrace them rather than be overwhelmed by them.</p>\n<p>Yet despite advocates of mindfulness extolling its virtues, there has been a recent backlash against it. One criticism levelled at mindfulness is that, conversely to what has been claimed, it may actually be causing problems such as depression. The Guardian newspaper recently published the story of a person who, while attending a three-day mindfulness retreat, began panicking; this continued throughout the retreat and long after, eventually leading her to a nervous breakdown which required hospitalisation. And it seems this is not an isolated case. Psychologist Miguel Farias and Catherine Wikholm, who in their book 'The Buddha Pill' explore the adverse effects of mindfulness, have seen numerous accounts of people suffering panic attacks, feelings of dissociation, or imagining voices as a product of their mindfulness practice.</p>\n<p>Along with the validity of the practice itself, opponents of mindfulness have begun questioning the motivation of many employers and experts who champion its benefits. Will Davies, senior lecturer at Goldsmiths and author of 'The Happiness Industry', claims our mental health has become a huge money-earning opportunity. “Companies are increasingly aware of the financial costs that stress and depression saddle them with,” he says and, as such, are shifting the responsibility onto the individual by encouraging their employees to meditate and attend relaxation sessions. In doing so, Davies argues they are placing any blame for mental health problems on the individual.</p>\n<p>This criticism has been acknowledged by some of the leading proponents of mindfulness. Jon Kabat-Zinn states, “As critics are correct to point out, a real understanding of the subtlety of mindfulness is required if it is to be taught effectively: it can never be a quick fix. Some argue that for certain opportunistic elements, mindfulness has become a business that can only disappoint the vulnerable consumers who look to it as a panacea.” He believes the answer is not to reject mindfulness but to increase funding to provide the necessary evidence to establish and disseminate best practice, train teachers, and identify and support those most in need of mindfulness.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_summary_completion_17.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_summary_completion_17.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "summary_completion",
+          "skill_tags": [
+            "rd_comp_summary"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 7 - 13</strong></p>\n<p>Complete the summary. Write NO MORE THAN TWO WORDS from the text for each answer.</p>\n<p><strong>Assessing mindfulness</strong></p>\n<p>Generally, mindfulness has been proven to have a positive impact on people’s wellbeing. Research conducted in 2013 found that patients who were receiving treatment based on mindfulness felt less <blank data-qid=\"q7\"/>  than others did. Another study found that cancer sufferers felt more relaxed and comfortable, and also experienced better <blank data-qid=\"q8\"/> , after using mindfulness to deal with their diagnosis.</p>\n<p>However, there have been criticisms that mindfulness may cause problems rather than solve them, for example the <blank data-qid=\"q9\"/> suffered by a participant following a mindfulness event she went to, which led to her needing treatment from health professionals. There have been other incidences of problems brought on by mindfulness activities, including people hearing <blank data-qid=\"q10\"/>. Critics have suggested that mental wellbeing has just turned into a way of making <blank data-qid=\"q11\"/>. Many companies are dealing with mental health issues by making <blank data-qid=\"q12\"/>  responsible for mental well-being. In Jon Kabat-Zinn’s view, what is needed in order for people to really benefit from mindfulness is a greater <blank data-qid=\"q13\"/> , as well as increased funding.</p>",
+          "items": [
+            {
+              "question_id": "q7",
+              "number": 7,
+              "prompt_html": "Question 7",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q8",
+              "number": 8,
+              "prompt_html": "Question 8",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q9",
+              "number": 9,
+              "prompt_html": "Question 9",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q10",
+              "number": 10,
+              "prompt_html": "Question 10",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q11",
+              "number": 11,
+              "prompt_html": "Question 11",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q12",
+              "number": 12,
+              "prompt_html": "Question 12",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q13",
+              "number": 13,
+              "prompt_html": "Question 13",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            7,
+            13
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

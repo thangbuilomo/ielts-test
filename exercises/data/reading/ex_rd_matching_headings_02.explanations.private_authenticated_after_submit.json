@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_02",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q28": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The number of animals processed annually has continued to increase, despite the downward trend in venison prices since 2007. Of concern is the apparent increase in the number of female animals processed and the number of whole herds committed for processing.\". Heading viii (Trends in Production) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The number of animals processed annually has continued to increase, despite the downward trend in venison prices since 2007. Of concern is the apparent increase in the number of female animals processed and the number of whole herds committed for processing._"
+    },
+    "q29": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"From the formation of the Australian Deer Breeders Federation in 1979, the industry representative body has evolved through the Deer Farmers Federation of Australia to the Deer Industry Association of Australia Ltd (DIAA), which was registered in 1995. The industry has established two product development and marketing companies, the Australian Deer Horn and Co-Products Pty Ltd (ADH) and the Deer Industry Projects and Development Pty Ltd, which trades as the Deer Industry Company (DIC).\". Heading i (Regulatory Bodies and Trade Associations) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "From the formation of the Australian Deer Breeders Federation in 1979, the industry representative body has evolved through the Deer Farmers Federation of Australia to the Deer Industry Association of Australia Ltd (DIAA), which was registered in 1995. The industry has established two product development and marketing companies, the Australian Deer Horn and Co-Products Pty Ltd (ADH) and the Deer Industry Projects and Development Pty Ltd, which trades as the Deer Industry Company (DIC)._"
+    },
+    "q30": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"One problem that the Australian deer farming industry has faced recently is that of Johne’s disease, a chronic wasting disease that can be found in cattle, sheep, goats, deer and camelids. This has affected meat production and how the industry has been able to expand.\". Heading iii (The Threat of Disease) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "One problem that the Australian deer farming industry has faced recently is that of Johne’s disease, a chronic wasting disease that can be found in cattle, sheep, goats, deer and camelids. This has affected meat production and how the industry has been able to expand._"
+    },
+    "q31": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Deer farmers should develop and implement a farm bio-security plan and only purchase deer stock with an animal health statement. In areas where Johne’s disease is common, a vaccination programme can be implemented, but this can be quite expensive and not 100 per cent effective.\". Heading ix (Disease Prevention and Treatment) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Deer farmers should develop and implement a farm bio-security plan and only purchase deer stock with an animal health statement. In areas where Johne’s disease is common, a vaccination programme can be implemented, but this can be quite expensive and not 100 per cent effective._"
+    },
+    "q32": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Industry programmes are funded by statutory levies on sales of animals for venison, velvet antler sales and the sale of live animals to export markets. The industry had a recent 5-year plan including animal nutrition, pasture quality, carcass quality, antler harvesting, promotional material and technical bulletins.\". Heading vi (Investment Feeds New Development) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Industry programmes are funded by statutory levies on sales of animals for venison, velvet antler sales and the sale of live animals to export markets. The industry had a recent 5-year plan including animal nutrition, pasture quality, carcass quality, antler harvesting, promotional material and technical bulletins._"
+    }
+  }
+}

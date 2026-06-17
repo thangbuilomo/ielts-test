@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_36",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q26": {
+      "explanation": "Người nói đang thảo luận về việc chuẩn bị các câu hỏi cho một cuộc khảo sát liên quan đến sức khỏe và thể dục. Họ cho rằng việc tìm kiếm ý kiến từ giảng viên là quan trọng để đảm bảo rằng các câu hỏi được soạn thảo một cách hợp lý. Thông tin giúp tìm ra đáp án là cụm từ \"seeking some input from the tutor,\" nghĩa là họ cần lời khuyên từ giảng viên. Paraphrase quan trọng ở đây là \"get some advice,\" tương ứng với việc tìm kiếm ý kiến. Không có bẫy trong câu này vì ý kiến từ giảng viên là một bước cần thiết trong quá trình soạn thảo câu hỏi. Đáp án đúng vì nó phản ánh chính xác hành động mà nhóm sinh viên cần thực hiện ở giai đoạn này.",
+      "evidence": "So, the questions we're going to ask people about exercising and their health, I think it'd be worth seeking some input from the tutor."
+    },
+    "q27": {
+      "explanation": "Người nói đang nói về việc thực hiện các cuộc phỏng vấn với người sử dụng phòng gym. Họ nhấn mạnh rằng cần phải có sự đồng ý từ quản lý phòng gym trước khi tiến hành phỏng vấn. Thông tin giúp tìm ra đáp án là cụm từ \"gain the consent,\" nghĩa là có được sự đồng ý. Paraphrase quan trọng là \"get permission,\" thể hiện rõ ràng yêu cầu về sự đồng ý. Bẫy có thể là việc người nghe có thể nghĩ rằng chỉ cần thực hiện phỏng vấn mà không cần sự đồng ý, nhưng thực tế là sự đồng ý là rất cần thiết. Đáp án đúng vì nó phản ánh chính xác yêu cầu cần thiết trước khi tiến hành phỏng vấn.",
+      "evidence": "Well, we'd need to gain the consent, for example, of the manager of the gym before we start."
+    },
+    "q28": {
+      "explanation": "Người nói đang thảo luận về việc sử dụng khảo sát như một phương pháp để thu thập dữ liệu. Họ nhấn mạnh rằng việc thu thập dữ liệu từ nhiều nguồn khác nhau là cần thiết để có được thông tin phong phú hơn. Thông tin giúp tìm ra đáp án là việc họ muốn \"get a larger amount of data,\" tức là thu thập dữ liệu từ nhiều nguồn khác nhau. Paraphrase quan trọng là \"find suitable source material,\" vì khảo sát chính là một nguồn tài liệu phù hợp. Không có bẫy trong câu này vì việc sử dụng khảo sát là một bước hợp lý trong quá trình thu thập thông tin. Đáp án đúng vì nó phản ánh chính xác mục tiêu của việc sử dụng khảo sát.",
+      "evidence": "We may want to use surveys, too. Definitely. To get a larger amount of data from gym users, students, or whoever."
+    },
+    "q29": {
+      "explanation": "Người nói đang nói về việc chuẩn bị bài thuyết trình và nhấn mạnh tầm quan trọng của việc kiểm tra kỹ lưỡng để đảm bảo không có lỗi nào. Thông tin giúp tìm ra đáp án là cụm từ \"double-check there aren't any mistakes,\" nghĩa là kiểm tra kỹ để không có sai sót. Paraphrase quan trọng là \"proofread carefully,\" thể hiện rõ ràng yêu cầu về việc kiểm tra kỹ lưỡng. Bẫy có thể là việc người nghe có thể nghĩ rằng chỉ cần chuẩn bị nội dung mà không cần kiểm tra, nhưng thực tế là việc kiểm tra là rất cần thiết. Đáp án đúng vì nó phản ánh chính xác yêu cầu cần thiết trong quá trình chuẩn bị bài thuyết trình.",
+      "evidence": "When we put the presentation together, we've really got to double-check there aren't any mistakes on the slides."
+    },
+    "q30": {
+      "explanation": "Người nói đang thảo luận về việc phân chia công việc giữa các thành viên trong nhóm khi viết báo cáo. Họ nhấn mạnh rằng việc phân bổ trách nhiệm cho từng người sẽ giúp sử dụng thời gian hiệu quả hơn. Thông tin giúp tìm ra đáp án là cụm từ \"allocate certain sections or chapters to each of us,\" nghĩa là phân bổ các phần hoặc chương cho từng người. Paraphrase quan trọng là \"decide individual responsibilities,\" thể hiện rõ ràng việc phân chia công việc. Không có bẫy trong câu này vì việc phân chia trách nhiệm là một bước cần thiết trong quá trình làm việc nhóm. Đáp án đúng vì nó phản ánh chính xác hành động mà nhóm cần thực hiện ở giai đoạn này.",
+      "evidence": "When we do that, we can make sure we're using our time efficiently if we allocate, say, certain sections or chapters to each of us."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: This recording is copyright. You will hear a lecturer setting up a task in a seminar for students on a public health degree course. You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> So, shall we talk about what we need to do at various stages of this task?</p><p><strong>Speaker 3:</strong> Sure, and what we need to concentrate on at each one.</p><p><strong>Speaker 2:</strong> Good idea. So, the questions we're going to ask people about exercising and their health, I think it'd be worth seeking some input from the tutor.</p><p><strong>Speaker 3:</strong> Once we've drafted them?</p><p><strong>Speaker 2:</strong> Exactly. To see if he thinks we should amend them in any way.</p><p><strong>Speaker 3:</strong> Fair enough. And then with the interviews...</p><p><strong>Speaker 1:</strong> Oh, yeah? Like, you mentioned maybe interviewing gym users.</p><p><strong>Speaker 3:</strong> Right. Well, we'd need to gain the consent, for example, of the manager of the gym before we start.</p><p><strong>Speaker 2:</strong> Fair point. And get something in writing from them, and from the interviewees, too, if we're going to quote what they say.</p><p><strong>Speaker 3:</strong> Sure. We may want to use surveys, too.</p><p><strong>Speaker 2:</strong> Definitely. To get a larger amount of data from gym users, students, or whoever.</p><p><strong>Speaker 3:</strong> The thing is, we need to ensure we get a decent response rate, because they can easily just ignore an email from us that says, please complete this survey.</p><p><strong>Speaker 2:</strong> Well, if we make it absolutely clear what our rationale is, why we're asking for this information from them, hopefully that would help persuade them that it's worth spending a few minutes on it.</p><p><strong>Speaker 3:</strong> Definitely. Let's do that. When we put the presentation together, we've really got to double-check there aren't any mistakes on the slides.</p><p><strong>Speaker 2:</strong> Good point. The tutor's quite particular about that.</p><p><strong>Speaker 3:</strong> Sure. We'll need to be thorough. And I guess the final thing we'll do is write up our research.</p><p><strong>Speaker 2:</strong> When we do that, we can make sure we're using our time efficiently if we allocate, say, certain sections or chapters to each of us.</p><p><strong>Speaker 3:</strong> Good idea, but we can talk about who does what later. </p><p><strong>Speaker 2:</strong> Sure.</p>"
+}

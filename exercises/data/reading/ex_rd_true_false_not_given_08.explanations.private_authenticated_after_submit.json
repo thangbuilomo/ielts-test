@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_true_false_not_given_08",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q8": {
+      "explanation": "Câu 8 mâu thuẫn với thông tin ở đoạn G. Bài nêu: \"Unfortunately, these population movements and the intensive urbanisation are not always accompanied by adequate development of sanitation and health care. In many areas of conflict, economic crises and administrative disorganisation can result in the disruption of health services. The absence of adequate health services frequently results in recourse to self-administration of drugs, often with incomplete treatment.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "Unfortunately, these population movements and the intensive urbanisation are not always accompanied by adequate development of sanitation and health care. In many areas of conflict, economic crises and administrative disorganisation can result in the disruption of health services. The absence of adequate health services frequently results in recourse to self-administration of drugs, often with incomplete treatment._"
+    },
+    "q9": {
+      "explanation": "Câu 9 có một số từ khóa gần với đoạn E, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"Malaria has been known since time immemorial, but it was centuries before the true causes were understood. Surprisingly in view of this, some ancient treatments were remarkably effective. An infusion of qinghao containing artemisinin has been used for at least the last 2,000 years in China and the antifebrile properties of the bitter bark of Cinchona ledgeriana were known to medical professionals in Peru before the fifteenth century.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "Malaria has been known since time immemorial, but it was centuries before the true causes were understood. Surprisingly in view of this, some ancient treatments were remarkably effective. An infusion of qinghao containing artemisinin has been used for at least the last 2,000 years in China and the antifebrile properties of the bitter bark of Cinchona ledgeriana were known to medical professionals in Peru before the fifteenth century._"
+    },
+    "q10": {
+      "explanation": "Câu 10 khớp với thông tin ở đoạn E. Ý chính trong bài là: \"Malaria has been known since time immemorial, but it was centuries before the true causes were understood. Surprisingly in view of this, some ancient treatments were remarkably effective. An infusion of qinghao containing artemisinin has been used for at least the last 2,000 years in China and the antifebrile properties of the bitter bark of Cinchona ledgeriana were known to medical professionals in Peru before the fifteenth century.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Malaria has been known since time immemorial, but it was centuries before the true causes were understood. Surprisingly in view of this, some ancient treatments were remarkably effective. An infusion of qinghao containing artemisinin has been used for at least the last 2,000 years in China and the antifebrile properties of the bitter bark of Cinchona ledgeriana were known to medical professionals in Peru before the fifteenth century._"
+    }
+  }
+}

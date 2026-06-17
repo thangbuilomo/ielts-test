@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_matching_information_35",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MATCHING%20INFORMATION%20TO%20CATEGORIES%2035.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong> (Danny): I think it would be useful to review what the tutor said about the various internship agencies.</p><p>Speaker 2 (Sarah): Yes, they've all got their unique selling points.</p><p>Speaker 1 (Danny): Sure. Let's start with InternTastic. Weren't they the ones who pride themselves on sorting out the practicalities before the internship starts?</p><p>Speaker 2 (Sarah): Yes, even the airport transfer if you move somewhere. So the intern doesn't have to lift a finger until it starts.</p><p>Speaker 1 (Danny): Yeah. And Total Internships, the one whose fees aren't as high as most of the other agencies.</p><p>Speaker 2 (Sarah): Oh yes. The tutor did say though that we should expect to pay a substantial sum for a decent placement to be arranged.</p><p>Speaker 1 (Danny): Hmm. So perhaps Total Internships don't provide such a high standard of service and they don't seem to have such a strong reputation either.</p><p>Speaker 2 (Sarah): You may be right there. Unlike IMC Group, they're really highly thought of, aren't they?</p><p>Speaker 1 (Danny): Definitely. Seem to be head and shoulders above the rest. Quite pricey though.</p><p>Speaker 2 (Sarah): Well, hopefully you get what you pay for with them. What about Interns International?</p><p>Speaker 1 (Danny): Well, while the other organisations are vague about whether we'd get paid or not, these guys make it a policy that interns are not just there to provide free labour.</p><p>Speaker 2 (Sarah): Right. Interns that go through Interns International might not necessarily get a salary as such, but if they don't, then they'd get a living allowance while they're working. That's the deal.</p><p>Speaker 1 (Danny): Yes. I'm not sure what the distinction is. Something with tax laws, maybe?</p><p>Speaker 2 (Sarah): Possibly. And placements.com. They pride themselves on getting to know every individual who wants to find an internship, don't they?</p><p>Speaker 1 (Danny): Yes. Matching them up with the internship they're most compatible with and being really thorough about it.</p><p>Speaker 2 (Sarah): Yeah, that's what they say.</p>"
+    }
+  ]
+}

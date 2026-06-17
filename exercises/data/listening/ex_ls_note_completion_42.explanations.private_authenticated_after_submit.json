@@ -1,0 +1,45 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_42",
+  "module": "listening",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q24": {
+      "explanation": "Người nói đang trình bày một thông tin thống kê về tỷ lệ phụ nữ vào giáo dục đại học so với nam giới. Thông tin này giúp tìm ra đáp án là 30%, vì nó được nêu rõ ràng trong câu. Paraphrase quan trọng ở đây là \"proportion of women going into higher education\" có thể hiểu là \"tỷ lệ phụ nữ vào giáo dục đại học\". Không có bẫy trong câu này vì thông tin được trình bày một cách rõ ràng và trực tiếp. Đáp án đúng vì nó phản ánh chính xác tỷ lệ được đề cập trong transcript.",
+      "evidence": "the proportion of women going into higher education was 30% higher than men."
+    },
+    "q25": {
+      "explanation": "Người nói đang nói về khả năng bỏ học của nam giới so với nữ giới trong môi trường đại học. Thông tin giúp tìm ra đáp án là \"drop out\" vì nó được nhắc đến một cách cụ thể. Paraphrase quan trọng là \"more likely to drop out\" có thể hiểu là \"có khả năng bỏ học cao hơn\". Không có bẫy trong câu này vì thông tin được trình bày một cách rõ ràng. Đáp án đúng vì nó phản ánh chính xác tình trạng của nam sinh trong đại học.",
+      "evidence": "men are more likely to drop out."
+    },
+    "q26": {
+      "explanation": "Người nói đang đề cập đến sự phân bố giới tính trong các môn học tại đại học, đặc biệt là kỹ thuật và khoa học. Thông tin giúp tìm ra đáp án là \"engineering\" vì nó được nêu rõ là một trong những môn học có nhiều nam giới hơn. Paraphrase quan trọng là \"more men in some subjects like engineering\" có thể hiểu là \"nhiều nam giới hơn trong một số môn học như kỹ thuật\". Không có bẫy trong câu này vì thông tin được trình bày một cách rõ ràng. Đáp án đúng vì nó phản ánh chính xác sự phân bố giới tính trong các môn học.",
+      "evidence": "there are still more men in some subjects like engineering and science."
+    },
+    "q27": {
+      "explanation": "Người nói đang nói về sự thiếu hụt giáo viên nam trong hệ thống giáo dục, điều này ảnh hưởng đến sự phát triển của học sinh. Thông tin giúp tìm ra đáp án là \"teachers\" vì nó được nêu rõ là nghề mà nam giới ít tham gia. Paraphrase quan trọng là \"less likely to become teachers\" có thể hiểu là \"khả năng trở thành giáo viên thấp hơn\". Không có bẫy trong câu này vì thông tin được trình bày một cách rõ ràng. Đáp án đúng vì nó phản ánh chính xác tình trạng thiếu hụt giáo viên nam.",
+      "evidence": "men were much less likely to become teachers."
+    },
+    "q28": {
+      "explanation": "Người nói đang nói về việc thiếu bằng chứng cho thấy sự thiếu hụt giáo viên nam có ảnh hưởng lớn đến học sinh nữ. Thông tin giúp tìm ra đáp án là \"significant\" vì nó được nêu rõ là mức độ quan trọng của vấn đề. Paraphrase quan trọng là \"evidence to suggest that it is significant\" có thể hiểu là \"bằng chứng cho thấy điều đó là quan trọng\". Không có bẫy trong câu này vì thông tin được trình bày một cách rõ ràng. Đáp án đúng vì nó phản ánh chính xác mức độ quan trọng của vấn đề.",
+      "evidence": "I couldn't find any evidence to suggest that it is significant."
+    },
+    "q29": {
+      "explanation": "Người nói đang nói về sự thay đổi trong cách đánh giá học sinh từ thi cử sang bài tập, điều này ảnh hưởng đến kết quả học tập của học sinh. Thông tin giúp tìm ra đáp án là \"coursework\" vì nó được nêu rõ là phương pháp đánh giá mới. Paraphrase quan trọng là \"shifted to mostly using coursework\" có thể hiểu là \"đã chuyển sang chủ yếu sử dụng bài tập\". Không có bẫy trong câu này vì thông tin được trình bày một cách rõ ràng. Đáp án đúng vì nó phản ánh chính xác phương pháp đánh giá hiện tại.",
+      "evidence": "shifted to mostly using coursework."
+    },
+    "q30": {
+      "explanation": "Người nói đang nói về thời gian mà các cô gái dành cho bài tập về nhà so với các cậu trai. Thông tin giúp tìm ra đáp án là \"one hour\" vì nó được nêu rõ là thời gian trung bình mà các cô gái dành cho bài tập. Paraphrase quan trọng là \"an hour more a week on homework\" có thể hiểu là \"nhiều hơn một giờ mỗi tuần cho bài tập về nhà\". Không có bẫy trong câu này vì thông tin được trình bày một cách rõ ràng. Đáp án đúng vì nó phản ánh chính xác thời gian mà các cô gái dành cho việc học.",
+      "evidence": "girls, on average, spend an hour more a week on homework."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Yes, tell you what, shall we share some of the main facts and figures we've read, and then we can both take some notes?</p><p><strong>Speaker 1:</strong> Okay, that sounds like a plan. Well, I guess the most interesting thing I read was a government paper that said the proportion of women going into higher education was 30% higher than men.</p><p><strong>Speaker 2:</strong> Yeah, that was really shocking, wasn't it? But it's not just the numbers getting into university. I also read a report by the Higher Education Policy Institute that said when at university, men are more likely to drop out, and those who get a degree are less likely to get a high pass.</p><p><strong>Speaker 1:</strong> Yes, but we shouldn't overgeneralise here. Women don't dominate in every field. If we took out some really women-dominated degree subjects like teaching and nursing, then the overall gap would be much smaller. And there are still more men in some subjects like engineering and science.</p><p><strong>Speaker 2:</strong> True, but that gap is closing fast. And in all the others, there are more women in nearly every university in the country.</p><p><strong>Speaker 1:</strong> The thing I found confusing, though, is I couldn't really identify any causes for this.</p><p><strong>Speaker 2:</strong> Well, I read one writer who suggested that men were much less likely to become teachers, and as a result, the education system was more in women's favour, meaning men lack role models.</p><p><strong>Speaker 1:</strong> Yes, I read that in a few places. It seemed mostly anecdotal, though. I'm not too sure how much of a difference it would really make. And anyway, I read quite a bit and I couldn't find any evidence to suggest that it is significant.</p><p><strong>Speaker 2:</strong> Me neither. It seems there needs to be more research in that area.</p><p><strong>Speaker 1:</strong> Another cause that I found said that one possible reason was the change in how students were assessed. You know, before the 1980s, schools mostly tested students with exams, but then they shifted to mostly using coursework, which apparently suits girls better than it does boys.</p><p><strong>Speaker 2:</strong> Really? I guess that's true. I mean, I know that I didn't really like doing coursework, but surely that can't have had that much of an impact.</p><p><strong>Speaker 1:</strong> Well, there is something going on. I read an OECD paper that said girls, on average, spend an hour more a week on homework and boys are 8% more likely than girls to see school as a waste of time.</p><p><strong>Speaker 2:</strong> Yes, my experience is that boys mess around more, but that might just have been my school. Anyway, I'm looking forward to seeing what the professor says in the lecture.</p><p><strong>Speaker 1:</strong> Yes, me too. His last one was good.</p>"
+}

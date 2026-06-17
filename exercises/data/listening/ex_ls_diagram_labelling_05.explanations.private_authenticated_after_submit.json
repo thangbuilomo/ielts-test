@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_diagram_labelling_05",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q36": {
+      "explanation": "Người nói đang mô tả về độ dày của màn hình plasma. Thông tin giúp tìm ra đáp án là cụm từ \"thickness\" được nhắc đến trực tiếp trong câu. Paraphrase quan trọng ở đây là \"thickness\" có thể được hiểu là độ dày của màn hình. Bẫy có thể là việc người nghe có thể bị nhầm lẫn với các thông số khác như chiều rộng hoặc chiều cao của màn hình. Tuy nhiên, đáp án đúng là \"thickness\" vì nó chính xác phản ánh thông tin được cung cấp trong câu.",
+      "evidence": "The whole screen usually has a thickness of around 6 centimetres from front to back."
+    },
+    "q37": {
+      "explanation": "Người nói đang giải thích về cấu trúc của đơn vị hiển thị plasma. Thông tin giúp tìm ra đáp án là cụm từ \"two glass plates\" được nhắc đến rõ ràng. Paraphrase quan trọng là \"enclosed between\" có thể hiểu là \"bao bọc giữa\". Bẫy có thể là người nghe có thể nghĩ rằng có nhiều lớp khác nhau, nhưng câu này chỉ rõ rằng có hai tấm kính. Đáp án đúng là \"glass plates\" vì nó chính xác mô tả phần cấu trúc bảo vệ của màn hình.",
+      "evidence": "The plasma display unit is enclosed between two glass plates."
+    },
+    "q38": {
+      "explanation": "Người nói đang mô tả về lớp bảo vệ phía sau tấm kính. Thông tin giúp tìm ra đáp án là từ \"polymer\" được nhắc đến như là chất liệu của lớp bảo vệ. Paraphrase quan trọng là \"thin transparent polymer\" có thể hiểu là \"một polymer trong suốt mỏng\". Bẫy có thể là người nghe có thể nghĩ rằng lớp bảo vệ được làm từ một chất liệu khác. Tuy nhiên, đáp án đúng là \"polymer\" vì nó chính xác chỉ ra chất liệu của lớp bảo vệ.",
+      "evidence": "Behind this plate at the front is a protective layer, which is made of a thin transparent polymer..."
+    },
+    "q39": {
+      "explanation": "Người nói đang mô tả về lớp phủ bảo vệ phía sau lớp polymer. Thông tin giúp tìm ra đáp án là từ \"magnesium oxide\" được nhắc đến như là chất liệu của lớp phủ. Paraphrase quan trọng là \"coating of magnesium oxide\" có thể hiểu là \"lớp phủ magnesium oxide\". Bẫy có thể là người nghe có thể bị nhầm lẫn với các loại vật liệu khác. Tuy nhiên, đáp án đúng là \"magnesium oxide\" vì nó chính xác chỉ ra chất liệu của lớp phủ.",
+      "evidence": "Onto the back of this layer a coating of magnesium oxide is sprayed..."
+    },
+    "q40": {
+      "explanation": "Người nói đang giải thích về cách mà dòng điện được áp dụng cho các tế bào màu. Thông tin giúp tìm ra đáp án là cụm từ \"electric current\" được nhắc đến rõ ràng. Paraphrase quan trọng là \"apply the current\" có thể hiểu là \"áp dụng dòng điện\". Bẫy có thể là người nghe có thể nghĩ rằng có thể có nhiều loại năng lượng khác nhau. Tuy nhiên, đáp án đúng là \"electric current\" vì nó chính xác phản ánh thông tin về cách thức hoạt động của màn hình.",
+      "evidence": "To apply the current, there is an electrical wire behind each cell."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Now, we're going to take a look at the basic design of the plasma screen itself. Two of the key characteristics of the plasma screen, its brightness and its thinness, come from its simple design made up of only a few layers. The whole screen usually has a thickness of around 6 centimetres from front to back. </p><p><strong>Speaker 1:</strong> The plasma display unit is enclosed between two glass plates. The back one keeps dust out of the unit and protects the electronics while the front glass plate is completely clear and scratch resistant to protect the clarity of the screen. </p><p><strong>Speaker 2:</strong> Both of these layers are relatively cheap and easy to replace should there be any damage to the unit. Behind this plate at the front is a protective layer, which is made of a thin transparent polymer that stops any static charge from the glass interfering with the electrical signals in the screen. </p><p><strong>Speaker 3:</strong> Onto the back of this layer a coating of magnesium oxide is sprayed, which further ensures that electrical charge is insulated. Under these layers lies the part of the screen that produces the image, the pixel. Plasma TV screens can have over a million of these small light producing points, and together they produce the colours to create a clear image. </p><p><strong>Speaker 1:</strong> Each pixel is made up of three coloured cells, which are separated by a dividing wall. These cells contain a mixture of gases that light up when electric current is passed through them, producing either red, green or blue light. </p><p><strong>Speaker 2:</strong> In the right combination, they can create any colour our eyes can see. To apply the current, there is an electrical wire behind each cell. A digital processor sends the correct current to each cell to tell it whether to light up or not. </p><p><strong>Speaker 3:</strong> And so, across the whole screen, the minute cells light up in sync to produce the image you see. This screen is usually housed in a metal or plastic casing to hold the extra electronics attached to the screen at the bottom. </p><p><strong>Speaker 1:</strong> As you can imagine, the electrical current required to produce so many different colours is significant and as such the plasma TV consumes a lot of electricity. </p><p><strong>Speaker 2:</strong> Moving on, I'd like to discuss some of the issues the plasma TV manufacturers have had over the years.</p>"
+}

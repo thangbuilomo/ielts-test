@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_sentence_endings_09",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q19": {
+      "explanation": "Câu 19 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 5 chứa căn cứ: \"However, chunking is not the only mental process that makes listening difficult in a second language. A second process, called segmentation, is also at work. It determines how the brain understands spoken or written language.\". Lựa chọn C (… make it difficult for learners to listen in a foreign language.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "However, chunking is not the only mental process that makes listening difficult in a second language. A second process, called segmentation, is also at work. It determines how the brain understands spoken or written language._"
+    },
+    "q20": {
+      "explanation": "Câu 20 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 6 chứa căn cứ: \"Segmentation involves breaking up long streams of speech into smaller, self-contained units of sense. For example, if we hear \"Iwenttotheempirestatebuildingyesterday\", our brain can segment this into the phrase \"I went to the Empire State Building yesterday.\" However, if we are unfamiliar with the segmentation rules of the language, the brain will struggle to segment the speech correctly. To improve their listening skills, language learners should become familiar with the segmentation rules of the new language.\". Lựa chọn E (… struggle to understand meaning in longer speech.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Segmentation involves breaking up long streams of speech into smaller, self-contained units of sense. For example, if we hear \"Iwenttotheempirestatebuildingyesterday\", our brain can segment this into the phrase \"I went to the Empire State Building yesterday.\" However, if we are unfamiliar with the segmentation rules of the language, the brain will struggle to segment the speech correctly. To improve their listening skills, language learners should become familiar with the segmentation rules of the new language._"
+    },
+    "q21": {
+      "explanation": "Câu 21 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 5 chứa căn cứ: \"A second process, called segmentation, is also at work. It determines how the brain understands spoken or written language. Second language learners are not accustomed to the segmentation rules in the new language so they may struggle to understand the overall sense of what is being said, even if they are familiar with all the individual words.\". Lựa chọn D (… identify chunks in spoken language.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "A second process, called segmentation, is also at work. It determines how the brain understands spoken or written language. Second language learners are not accustomed to the segmentation rules in the new language so they may struggle to understand the overall sense of what is being said, even if they are familiar with all the individual words._"
+    },
+    "q23": {
+      "explanation": "Câu 23 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 5 chứa căn cứ: \"However, chunking is not the only mental process that makes listening difficult in a second language. A second process, called segmentation, is also at work. It determines how the brain understands spoken or written language.\". Lựa chọn A (… be learnt by listening to the language being spoken.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "However, chunking is not the only mental process that makes listening difficult in a second language. A second process, called segmentation, is also at work. It determines how the brain understands spoken or written language._"
+    },
+    "q24": {
+      "explanation": "Câu 24 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 7 chứa căn cứ: \"Segmentation and chunking processes work hand-in-hand to allow humans to understand spoken language. We use segmentation to turn speech into comprehensible units and then use chunking to store those units in our short-term memory. This process works because the memory is able to process concepts, not just individual words.\". Lựa chọn G (… rely on the understanding of concepts and not vocabulary items.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Segmentation and chunking processes work hand-in-hand to allow humans to understand spoken language. We use segmentation to turn speech into comprehensible units and then use chunking to store those units in our short-term memory. This process works because the memory is able to process concepts, not just individual words._"
+    }
+  }
+}

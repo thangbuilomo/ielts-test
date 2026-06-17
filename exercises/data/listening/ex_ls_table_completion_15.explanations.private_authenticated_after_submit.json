@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_15",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q6": {
+      "explanation": "Người nói đang giới thiệu về dịch vụ mà họ cung cấp, cụ thể là gói dịch vụ phổ biến nhất. Thông tin giúp tìm ra đáp án là từ \"most popular service\" (dịch vụ phổ biến nhất) và \"Saver deal\" (gói Saver). Paraphrase quan trọng ở đây là \"most popular service\" có thể hiểu là gói dịch vụ được nhiều người chọn. Không có bẫy trong câu này vì thông tin rất rõ ràng và trực tiếp. Đáp án đúng là \"Saver deal\" vì đây là tên gọi chính thức của gói dịch vụ mà người nói đề cập.",
+      "evidence": "Our most popular service is our Saver deal."
+    },
+    "q7": {
+      "explanation": "Người nói đang trả lời câu hỏi về băng thông (bandwidth) mà khách hàng sẽ nhận được hàng tháng. Thông tin giúp tìm ra đáp án là từ \"unlimited\", cho thấy rằng không có giới hạn nào về băng thông. Paraphrase quan trọng ở đây là \"unlimited\" có thể hiểu là không bị giới hạn. Không có bẫy trong câu này vì câu trả lời rất ngắn gọn và rõ ràng. Đáp án đúng là \"unlimited\" vì nó chính xác mô tả tình trạng băng thông mà khách hàng sẽ nhận được.",
+      "evidence": "It's unlimited."
+    },
+    "q8": {
+      "explanation": "Người nói đang đề cập đến dịch vụ bổ sung mà khách hàng có thể chọn, đó là truyền hình cáp. Thông tin giúp tìm ra đáp án là từ \"provide cable television\", cho thấy rằng đây là một dịch vụ có thể được thêm vào sau này. Paraphrase quan trọng ở đây là \"provide\" có thể hiểu là \"cung cấp\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là \"cable television\" vì đây là dịch vụ mà khách hàng có thể lựa chọn thêm.",
+      "evidence": "We can also provide cable television as well."
+    },
+    "q9": {
+      "explanation": "Người nói đang thảo luận về ngày lắp đặt mà khách hàng có thể chọn. Thông tin giúp tìm ra đáp án là từ \"cancellation at 4.30 p.m. on Friday\", cho thấy rằng thứ Sáu là ngày có thể lắp đặt. Paraphrase quan trọng ở đây là \"cancellation\" có thể hiểu là \"sự hủy bỏ\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là \"Friday\" vì đây là ngày mà người nói đã đề xuất cho việc lắp đặt.",
+      "evidence": "No, we had a cancellation at 4.30 p.m. on Friday."
+    },
+    "q10": {
+      "explanation": "Người nói đang cung cấp thông tin về thời gian cần thiết để hoàn thành việc lắp đặt. Thông tin giúp tìm ra đáp án là từ \"just take an hour\", cho thấy rằng thời gian lắp đặt sẽ là một giờ. Paraphrase quan trọng ở đây là \"just take\" có thể hiểu là \"chỉ mất\". Không có bẫy trong câu này vì thông tin rất rõ ràng và trực tiếp. Đáp án đúng là \"one hour\" vì đây là thời gian chính xác mà người nói đã đề cập cho quá trình lắp đặt.",
+      "evidence": "It'll just take an hour."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. So, what services will you be wanting? </p><p><strong>Speaker 2:</strong> Our most popular service is our Saver deal. With that, you can have your telephone connection and internet services for a monthly fee of $25 and no setup charge. </p><p><strong>Speaker 1:</strong> Well, that sounds like a good deal. I'll try that. What bandwidth do I get each month for that? </p><p><strong>Speaker 2:</strong> It's unlimited. We can also provide cable television as well. Of course, there are a variety of packages that you can choose from, depending on which channels you want. </p><p><strong>Speaker 1:</strong> I won't go for the TV just yet. I might do that later. So, that's our Saver deal at $25 a month. Do you need an actual phone? As we have a nice selection in our catalogue and our engineer can bring it round when he comes for installation. </p><p><strong>Speaker 1:</strong> No, thanks. I've got my old phones from my previous house. </p><p><strong>Speaker 2:</strong> OK. Now, when would you like our engineer to come round and make the installation? </p><p><strong>Speaker 1:</strong> Is it possible during the weekend? </p><p><strong>Speaker 2:</strong> We used to be able to install on Saturday mornings, but the unions didn't like that, so now only on weekdays, I'm afraid. </p><p><strong>Speaker 1:</strong> Can it be done this week? </p><p><strong>Speaker 2:</strong> Let's look. Today's Tuesday, the 13th July. Wednesday's full. But Thursday we can do it at 9 a.m. </p><p><strong>Speaker 1:</strong> Ah, no. I'll have to be at the factory then on Thursday. Any chance late afternoon on Thursday? </p><p><strong>Speaker 2:</strong> I don't think so. No. No, we had a cancellation at 4.30 p.m. on Friday. How about that? </p><p><strong>Speaker 1:</strong> That should be fine. Let's check. Oh, dear. I'll still be in a meeting then. How about an hour later? </p><p><strong>Speaker 2:</strong> Yes, 5.30 is OK. It'll just take an hour and our engineer's shift that day ends at 6.30 p.m., so that will fit perfectly.</p>"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_19",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói, bà Kate Smith, đang cung cấp thông tin về hai đứa con của bà. Bà nói rõ rằng Simon là đứa lớn nhất và hiện tại 14 tuổi. Thông tin này giúp tìm ra đáp án cho câu hỏi về tuổi của Simon. Câu nói này có một cách diễn đạt đơn giản và rõ ràng, không có bẫy nào trong câu này. Đáp án là 14 vì đó là tuổi chính xác của Simon được nêu trong đoạn hội thoại.",
+      "evidence": "The eldest is called Simon and he's 14."
+    },
+    "q2": {
+      "explanation": "Bà Kate Smith đang cung cấp địa chỉ nơi gia đình bà sinh sống. Câu này chứa thông tin quan trọng về địa chỉ, cụ thể là tên đường. Từ \"Webley\" là từ khóa cần thiết để hoàn thành câu hỏi. Không có bẫy trong câu này, vì thông tin được đưa ra rất rõ ràng. Đáp án là \"Webley\" vì đó là tên đường chính xác mà bà Kate đã đề cập.",
+      "evidence": "We live at 9 Webley Avenue, Wesley."
+    },
+    "q3": {
+      "explanation": "Trong đoạn hội thoại, khi được hỏi về mã bưu chính, bà Kate Smith đã trả lời một cách chính xác. Thông tin này rất quan trọng để hoàn thành bảng thông tin liên lạc của gia đình. Câu này không có bẫy, vì bà Kate đã cung cấp mã bưu chính một cách trực tiếp. Đáp án là \"WE46YS\" vì đó là mã bưu chính chính xác mà bà đã nêu.",
+      "evidence": "Oh, yes. It's WE46YS."
+    },
+    "q4": {
+      "explanation": "Bà Kate Smith đang nói về việc học của con trai bà, John, và xác nhận rằng ở độ tuổi 8, John sẽ vào lớp 4. Thông tin này là cần thiết để điền vào bảng về nhóm năm học mà John sẽ tham gia. Câu này không có bẫy, vì thông tin được đưa ra rất rõ ràng và trực tiếp. Đáp án là 4 vì đó là lớp học mà John sẽ tham gia theo độ tuổi của mình.",
+      "evidence": "At 8 years old, John should be going into year 4."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1: Mrs. Kate Smith</strong><br />You now have some time to look at the questions on your screen. Now answer the questions on your screen. My name is Mrs Kate Smith. My husband's name is Robert. We have two children, both boys. The youngest is called John and he's eight. The eldest is called Simon and he's 14. We live at 9 Webley Avenue, Wesley. </p><p><strong>Speaker 2:</strong><br />Can you spell Webley, please? </p><p><strong>Speaker 1:</strong> Mrs. Kate Smith<br />Sure. It's W-E-B-L-E-Y. </p><p><strong>Speaker 2:</strong><br />And do you have the postcode for that address? </p><p><strong>Speaker 1:</strong> Mrs. Kate Smith<br />Oh, yes. It's WE46YS. </p><p><strong>Speaker 2:</strong><br />That's fine. Now, I assume, looking at the ages of your children, that you'll be looking at a primary institution for John and a secondary one for Simon. Is that right? </p><p><strong>Speaker 1:</strong> Mrs. Kate Smith<br />Exactly. </p><p><strong>Speaker 2:</strong><br />Now, it's the middle of the school year, of course. Will you be wanting your children to go to their new schools right away? </p><p><strong>Speaker 1:</strong> Mrs. Kate Smith<br />If possible, yes. </p><p><strong>Speaker 2:</strong><br />Fine. So, what is interesting is that I see on my computer that your address lies on the border of two catchment areas. </p><p><strong>Speaker 1:</strong> Mrs. Kate Smith<br />Catchment areas? What are they? </p><p><strong>Speaker 2:</strong><br />Each school has a geographic area around it and, if you live within that area, you have the right to attend that school. If you do not live within the catchment area of a particular school, it can be much harder to get your child into that school. </p><p><strong>Speaker 1:</strong> Mrs. Kate Smith<br />I see. Now, because you live on the border between two catchment areas, you have more choice. That's good. Let's look at the primary possibilities for John first. </p><p><strong>Speaker 2:</strong><br />There are two institutions that would be available for John. The first is Longmead School and the second is King's School. Do you have any information about them? </p><p><strong>Speaker 1:</strong> Mrs. Kate Smith<br />Certainly. </p><p><strong>Speaker 2:</strong><br />Longmead School would be more convenient. From your address, it will take about 15 minutes to walk there. It's a mid-range school with around 150 boys and girls from kindergarten and then year 1 up to year 6. </p><p><strong>Speaker 1:</strong> Mrs. Kate Smith<br />At 8 years old, John should be going into year 4. Is that right? </p><p><strong>Speaker 2:</strong><br />Yes, he's in year 4 right now.</p>"
+}

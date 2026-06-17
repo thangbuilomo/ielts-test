@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_07",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Ozone is a bluish gas that occurs naturally in the atmosphere, with nearly 90 per cent of it in the stratosphere, constituting what is referred to as the ozone layer. It is created when ultraviolet radiation in the form of sunlight strikes the stratosphere, splitting oxygen molecules to form atomic oxygen.\". Heading vii (A Useful Gas) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Ozone is a bluish gas that occurs naturally in the atmosphere, with nearly 90 per cent of it in the stratosphere, constituting what is referred to as the ozone layer. It is created when ultraviolet radiation in the form of sunlight strikes the stratosphere, splitting oxygen molecules to form atomic oxygen._"
+    },
+    "q2": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Ozone forms a layer in the stratosphere, thinnest in the tropics and denser towards the poles. The amount of ozone above a point on the earth’s surface is measured in Dobson units (DU) - typically ~260 DU near the tropics and higher elsewhere, though there are large seasonal fluctuations.\". Heading ix (Variations in Density) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Ozone forms a layer in the stratosphere, thinnest in the tropics and denser towards the poles. The amount of ozone above a point on the earth’s surface is measured in Dobson units (DU) - typically ~260 DU near the tropics and higher elsewhere, though there are large seasonal fluctuations._"
+    },
+    "q3": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Dramatic loss of ozone in the lower stratosphere over Antarctica was first noticed in the 1970s by a research group from the British Antarctic Survey (BAS) who were monitoring the atmosphere above Antarctica from a research station. Folklore has it that when the first measurements were taken in 1975, the drop in ozone levels in the stratosphere was so dramatic that at first the scientists thought their instruments were faulty.\". Heading viii (A Problem Is Discovered) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Dramatic loss of ozone in the lower stratosphere over Antarctica was first noticed in the 1970s by a research group from the British Antarctic Survey (BAS) who were monitoring the atmosphere above Antarctica from a research station. Folklore has it that when the first measurements were taken in 1975, the drop in ozone levels in the stratosphere was so dramatic that at first the scientists thought their instruments were faulty._"
+    },
+    "q4": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"In the popular press the ozone hole is often confused with the problem of global warming. Whilst there is a connection because ozone contributes to the greenhouse effect, the ozone hole is a separate issue.\". Heading vi (Artificial Emissions) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "In the popular press the ozone hole is often confused with the problem of global warming. Whilst there is a connection because ozone contributes to the greenhouse effect, the ozone hole is a separate issue._"
+    },
+    "q5": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The ozone depletion process begins when CFCs and other ozone depleting substances are emitted into the atmosphere where winds efficiently mix and evenly distribute the gases. CFCs are extremely stable and they do not dissolve in rain.\". Heading i (The Destruction Process) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The ozone depletion process begins when CFCs and other ozone depleting substances are emitted into the atmosphere where winds efficiently mix and evenly distribute the gases. CFCs are extremely stable and they do not dissolve in rain._"
+    },
+    "q6": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The first global agreement to restrict CFCs came with the signing of the Montreal Protocol in 1987, ultimately aiming to reduce them by half by the year 2000. Two revisions of this agreement were made in the light of advances in scientific understanding.\". Heading v (What Is Being Done?) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The first global agreement to restrict CFCs came with the signing of the Montreal Protocol in 1987, ultimately aiming to reduce them by half by the year 2000. Two revisions of this agreement were made in the light of advances in scientific understanding._"
+    }
+  }
+}

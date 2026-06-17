@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_05",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2005.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Let's look at some examples of tsunami and their causes and effects. The most recent severe tsunami was in December 2004 in the Indian Ocean. It was caused by an undersea megathrust earthquake. The resulting tsunami caused the deaths of more than 230,000 people with a wave of 30 meters.</p><p><strong>Speaker 1:</strong> Some tsunami can be relatively harmless. In 1992, an offshore landslide caused a tidal wave of only about one meter high that struck at low tide, so Humboldt County, where it hit, got off easy with no casualties.</p><p><strong>Speaker 1:</strong> On January 13th in 1992, a Pacific Ocean earthquake off the coast of San Salvador, registering 7.6 on the Richter scale, did not cause any ocean disturbance at all.</p><p><strong>Speaker 1:</strong> However, a recent tidal wave which struck Papua New Guinea on July 17th, 1998, was 11 meters high and killed at least 1,200 people. The wave was caused by a magnitude 7.1 submarine earthquake.</p><p><strong>Speaker 1:</strong> On July 17th, 1998, a Papua New Guinea tsunami killed roughly 3,000 people. A huge underwater volcanic eruption 15 miles offshore was followed within 10 minutes by a wave some 14 meters tall. The villages of Arop and Waropu were destroyed.</p><p><strong>Speaker 1:</strong> One of the worst tsunami disasters engulfed whole villages along Sanriku, Japan, in 1896. An underground earthquake induced a wave of eight meters, drowning some 20,000 people.</p><p><strong>Speaker 1:</strong> Finally, about 8,000 years ago, a massive undersea landslide off the coast of Norway sent a wall of water 10 meters high barreling into the uninhabited northern coast of Europe. If this were to recur today, as scientists say it could, almost anywhere in the world, it would cost billions, if not tens of billions, of dollars to repair the damage to coastal cities and kill tens of thousands of people.</p><p><strong>Speaker 1:</strong> Any questions so far?</p>"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_37",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q26": {
+      "explanation": "Người nói đang thảo luận về điều khoản 40 của Magna Carta, trong đó nêu rõ quyền được công lý. Thông tin giúp tìm ra đáp án là cụm từ \"we take for granted these days\" (chúng ta coi là hiển nhiên ngày nay) và \"self-evident\" (rõ ràng). Đây là những paraphrase quan trọng cho câu G, cho thấy rằng điều khoản này hiện nay được coi là điều hiển nhiên. Bẫy ở đây có thể là việc người nghe có thể nghĩ rằng điều khoản này không quan trọng, nhưng thực tế là nó đã có ý nghĩa lớn vào thời điểm được ban hành. Đáp án đúng vì nó phản ánh quan điểm hiện tại về quyền được công lý.",
+      "evidence": "It says everyone has the right to justice, a principle we take for granted these days. It's self-evident."
+    },
+    "q27": {
+      "explanation": "Người nói đang nói về điều khoản 8, liên quan đến quyền tự do lựa chọn trong hôn nhân. Thông tin giúp tìm ra đáp án là cụm từ \"can't be forced into marriage against her will\" (không thể bị ép buộc kết hôn trái với ý muốn của mình), cho thấy quyền tự do lựa chọn của cá nhân. Paraphrase quan trọng ở đây là \"the right to determine what happens to them\" (quyền quyết định những gì xảy ra với họ). Không có bẫy trong câu này, vì thông điệp rõ ràng và nhất quán với đáp án B. Đáp án đúng vì nó thể hiện quyền tự do cá nhân trong quyết định hôn nhân.",
+      "evidence": "Clause 8, says that a widow can't be forced into marriage against her will. So it sort of acknowledges the principle that an individual has the right to determine what happens to them."
+    },
+    "q28": {
+      "explanation": "Người nói đang thảo luận về điều khoản 33 liên quan đến việc cấm để lưới trong sông. Thông tin giúp tìm ra đáp án là cụm từ \"struggling to see why that was a big issue\" (gặp khó khăn trong việc hiểu tại sao điều đó lại là một vấn đề lớn), cho thấy sự khó khăn trong việc hiểu mục đích của điều khoản này. Paraphrase quan trọng là \"hard to understand the purpose\" (khó hiểu mục đích). Bẫy có thể là việc người nghe có thể nghĩ rằng điều khoản này có ý nghĩa quan trọng, nhưng thực tế là người nói không thấy rõ lý do. Đáp án đúng vì nó phản ánh sự bối rối về mục đích của điều khoản.",
+      "evidence": "But to be honest, I'm struggling to see why that was a big issue."
+    },
+    "q29": {
+      "explanation": "Người nói đang nói về điều khoản 2 liên quan đến thuế thừa kế. Thông tin giúp tìm ra đáp án là cụm từ \"it's not the only one about inheritance\" (đó không phải là điều khoản duy nhất về thừa kế), cho thấy có nhiều điều khoản khác liên quan đến cùng một chủ đề. Paraphrase quan trọng là \"a number of clauses that deal with a similar topic\" (một số điều khoản liên quan đến một chủ đề tương tự). Không có bẫy trong câu này, vì thông điệp rõ ràng. Đáp án đúng vì nó chỉ ra rằng điều khoản này nằm trong một nhóm các điều khoản liên quan đến thừa kế.",
+      "evidence": "Oh, that's the one that limited how much tax a person had to pay when they came into some land, like from a parent who died. But it's not the only one about inheritance. There are various others."
+    },
+    "q30": {
+      "explanation": "Người nói đang thảo luận về điều khoản 35 liên quan đến việc sử dụng các đơn vị đo lường tiêu chuẩn. Thông tin giúp tìm ra đáp án là cụm từ \"needed to be used\" (cần được sử dụng), cho thấy điều khoản này giải quyết một vấn đề phổ biến trong thương mại. Paraphrase quan trọng là \"helped to solve a common problem\" (giúp giải quyết một vấn đề phổ biến). Bẫy có thể là việc người nghe có thể nghĩ rằng điều khoản này không quan trọng, nhưng thực tế là nó đã giúp cải thiện sự công bằng trong thương mại. Đáp án đúng vì nó thể hiện sự cần thiết của việc tiêu chuẩn hóa trong giao dịch thương mại.",
+      "evidence": "Clause 35 says that standard units of measurement needed to be used, whether for corn or cloth or whatever was being sold."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: This recording is copyright. You will hear two students of law talking about Magna Carta, a document that created several new laws during the reign of King John of England in the 13th century. You now have some time to look at the questions on your screen. Now, answer the questions on your screen. Shall we look at some of the actual clauses of Magna Carta?</p><p><strong>Speaker 2:</strong> Okay. I like clause 40. It says everyone has the right to justice, a principle we take for granted these days. It's self-evident. Hardly needs saying at all.</p><p><strong>Speaker 1:</strong> Maybe to us, but that wasn't the case 800 years ago.</p><p><strong>Speaker 2:</strong> Yeah, I guess. There's a clause about marriage, isn't there?</p><p><strong>Speaker 1:</strong> Yes, clause 8, says that a widow can't be forced into marriage against her will. So it sort of acknowledges the principle that an individual has the right to determine what happens to them.</p><p><strong>Speaker 2:</strong> Exactly. Rather than having things imposed upon them and them having no say in the matter.</p><p><strong>Speaker 1:</strong> Right. And what was the clause about fishing nets?</p><p><strong>Speaker 2:</strong> Oh, yes. Clause 33 says nets can't be left in rivers. But to be honest, I'm struggling to see why that was a big issue.</p><p><strong>Speaker 1:</strong> Yes, I'm not sure about the point of that. Maybe so that rivers were kept unobstructed?</p><p><strong>Speaker 2:</strong> Your guess is as good as mine. There was a clause about inheritance, too, wasn't there? Clause 2.</p><p><strong>Speaker 1:</strong> Oh, that's the one that limited how much tax a person had to pay when they came into some land, like from a parent who died. But it's not the only one about inheritance. There are various others. For example, I think there's one guaranteeing that women and children can inherit property from their husbands and fathers.</p><p><strong>Speaker 2:</strong> I see. Oh, here's one I like. Clause 35 says that standard units of measurement needed to be used, whether for corn or cloth or whatever was being sold.</p><p><strong>Speaker 1:</strong> Oh, yes, because originally every single town used to have their own measurements, which meant if you were buying something in another town, you'd have no idea how much you were getting because you wouldn't be familiar with the units of measurement used.</p><p><strong>Speaker 2:</strong> Must have been a nightmare.</p><p><strong>Speaker 1:</strong> I can imagine that would have happened all the time, at least until they passed the new law, which must have made trade fairer.</p>"
+}

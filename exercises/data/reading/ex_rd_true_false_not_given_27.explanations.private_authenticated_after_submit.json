@@ -1,0 +1,44 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_true_false_not_given_27",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q14": {
+      "explanation": "Câu 14 mâu thuẫn với thông tin ở đoạn 2. Bài nêu: \"The first accurate measurements of the Qattara Depression date to 1917, when a British army officer visited the place on behalf of the Survey of Egypt and reported its low altitude. The Survey of Egypt was a systematic operation to map the whole of the country, and had begun in 1892. Because of its extreme aridity, Qattara was one of the later areas to be surveyed.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "The first accurate measurements of the Qattara Depression date to 1917, when a British army officer visited the place on behalf of the Survey of Egypt and reported its low altitude. The Survey of Egypt was a systematic operation to map the whole of the country, and had begun in 1892. Because of its extreme aridity, Qattara was one of the later areas to be surveyed._"
+    },
+    "q15": {
+      "explanation": "Câu 15 mâu thuẫn với thông tin ở đoạn 2. Bài nêu: \"The first accurate measurements of the Qattara Depression date to 1917, when a British army officer visited the place on behalf of the Survey of Egypt and reported its low altitude. The Survey of Egypt was a systematic operation to map the whole of the country, and had begun in 1892. Because of its extreme aridity, Qattara was one of the later areas to be surveyed.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "The first accurate measurements of the Qattara Depression date to 1917, when a British army officer visited the place on behalf of the Survey of Egypt and reported its low altitude. The Survey of Egypt was a systematic operation to map the whole of the country, and had begun in 1892. Because of its extreme aridity, Qattara was one of the later areas to be surveyed._"
+    },
+    "q16": {
+      "explanation": "Câu 16 có một số từ khóa gần với đoạn 3, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"It was calculated that the flow of water needed to balance evaporation could generate as much as 1,900 megawatts of electricity. The evaporation would also render the surrounding country much less arid, and permit permanent human settlement and agriculture. Thus, a controlled flow of water from the Mediterranean to the Depression would provide power to the whole of Egypt as well as more local economic development based on agriculture, electricity and the cultivation of fish in the lake.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "It was calculated that the flow of water needed to balance evaporation could generate as much as 1,900 megawatts of electricity. The evaporation would also render the surrounding country much less arid, and permit permanent human settlement and agriculture. Thus, a controlled flow of water from the Mediterranean to the Depression would provide power to the whole of Egypt as well as more local economic development based on agriculture, electricity and the cultivation of fish in the lake._"
+    },
+    "q17": {
+      "explanation": "Câu 17 khớp với thông tin ở đoạn 3. Ý chính trong bài là: \"Thus, a controlled flow of water from the Mediterranean to the Depression would provide power to the whole of Egypt as well as more local economic development based on agriculture, electricity and the cultivation of fish in the lake. This would all be very useful in a country with a rapidly-growing population. The Qattara Depression Project, as it became known, seemed to be a triumph of human ingenuity.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Thus, a controlled flow of water from the Mediterranean to the Depression would provide power to the whole of Egypt as well as more local economic development based on agriculture, electricity and the cultivation of fish in the lake. This would all be very useful in a country with a rapidly-growing population. The Qattara Depression Project, as it became known, seemed to be a triumph of human ingenuity._"
+    },
+    "q18": {
+      "explanation": "Câu 18 có một số từ khóa gần với đoạn 3, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"Over the years, the proximity of the Depression to the sea, together with its size and depth, have led to several proposals to exploit it for the production of hydroelectric power. This idea was originally put forward by Dr Ball in 1933. It was breathtakingly simple: if a tunnel were dug north to the Mediterranean Sea, gravity would make water run through the tunnel and down into the Depression, filling it and thus creating a new artificial salt lake.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "Over the years, the proximity of the Depression to the sea, together with its size and depth, have led to several proposals to exploit it for the production of hydroelectric power. This idea was originally put forward by Dr Ball in 1933. It was breathtakingly simple: if a tunnel were dug north to the Mediterranean Sea, gravity would make water run through the tunnel and down into the Depression, filling it and thus creating a new artificial salt lake._"
+    },
+    "q19": {
+      "explanation": "Câu 19 mâu thuẫn với thông tin ở đoạn 4. Bài nêu: \"Over time, the new lake would become increasingly salty until it reached the same level of salinity as the Dead Sea, and all life in its waters would become impossible. One solution to this problem would be to connect the Depression to the River Nile rather than to the Mediterranean, and this was also suggested. But the idea was not taken further, in part because of the quantity of water that the river would lose, and in part for political and diplomatic reasons.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "Over time, the new lake would become increasingly salty until it reached the same level of salinity as the Dead Sea, and all life in its waters would become impossible. One solution to this problem would be to connect the Depression to the River Nile rather than to the Mediterranean, and this was also suggested. But the idea was not taken further, in part because of the quantity of water that the river would lose, and in part for political and diplomatic reasons._"
+    },
+    "q20": {
+      "explanation": "Câu 20 khớp với thông tin ở đoạn 3. Ý chính trong bài là: \"It was calculated that the flow of water needed to balance evaporation could generate as much as 1,900 megawatts of electricity. The evaporation would also render the surrounding country much less arid, and permit permanent human settlement and agriculture. Thus, a controlled flow of water from the Mediterranean to the Depression would provide power to the whole of Egypt as well as more local economic development based on agriculture, electricity and the cultivation of fish in the lake.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "It was calculated that the flow of water needed to balance evaporation could generate as much as 1,900 megawatts of electricity. The evaporation would also render the surrounding country much less arid, and permit permanent human settlement and agriculture. Thus, a controlled flow of water from the Mediterranean to the Depression would provide power to the whole of Egypt as well as more local economic development based on agriculture, electricity and the cultivation of fish in the lake._"
+    }
+  }
+}

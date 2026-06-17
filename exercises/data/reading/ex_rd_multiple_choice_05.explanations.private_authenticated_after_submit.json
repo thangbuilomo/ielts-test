@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_05",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Căn cứ nằm ở đoạn 1: \"Increasing populations and the advent of towns and cities brought with them the need for communication and commerce between those growing population centres. In Egypt, in around 2500 BC, the Pharaoh Cheops built a construction road 1,000 yards long and 60 feet wide that led to the site of the Great Pyramid, and this is believed to be the earliest paved road on record. Since it was used only for this one job and was never used for travel, Cheops’ road was not truly a road in the same sense that the later trade routes, royal highways and impressively paved Roman roads were.\". Phương án B (It was not used after its original purpose was fulfilled) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Increasing populations and the advent of towns and cities brought with them the need for communication and commerce between those growing population centres. In Egypt, in around 2500 BC, the Pharaoh Cheops built a construction road 1,000 yards long and 60 feet wide that led to the site of the Great Pyramid, and this is believed to be the earliest paved road on record. Since it was used only for this one job and was never used for travel, Cheops’ road was not truly a road in the same sense that the later trade routes, royal highways and impressively paved Roman roads were._"
+    },
+    "q2": {
+      "explanation": "Căn cứ nằm ở đoạn 2: \"The various early trade routes developed where goods were transported from their source across terrain such as mountains and deserts to a market outlet, and were often named after the goods which travelled upon them. For example, the Amber Route travelled from Afghanistan through Persia and Arabia to Egypt, and the Silk Route stretched 8,000 miles from China, across Asia, and then through Spain to the Atlantic Ocean. However, the overriding drawback of these early overland trade routes was that carrying bulky goods with slow animals over rough, unpaved roads was a time-consuming and expensive proposition.\". Phương án A (It was expensive to transport goods) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "The various early trade routes developed where goods were transported from their source across terrain such as mountains and deserts to a market outlet, and were often named after the goods which travelled upon them. For example, the Amber Route travelled from Afghanistan through Persia and Arabia to Egypt, and the Silk Route stretched 8,000 miles from China, across Asia, and then through Spain to the Atlantic Ocean. However, the overriding drawback of these early overland trade routes was that carrying bulky goods with slow animals over rough, unpaved roads was a time-consuming and expensive proposition._"
+    },
+    "q3": {
+      "explanation": "Căn cứ nằm ở đoạn 3: \"Without doubt, the champion road builders of them all were the ancient Romans, who, until modern times, built the world’s straightest, best engineered and most complex network of roads. At its height, the Roman Empire maintained 53,000 miles of roads, which covered all of England to the north, most of Western Europe, radiated throughout the Iberian Peninsula and encircled and crisscrossed the entire Mediterranean area. Most renowned for their straightness, Roman roads were composed of a graded soil foundation topped by four foundation courses: first sand, and then large, flat stones.\". Phương án C (Their straightness) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Without doubt, the champion road builders of them all were the ancient Romans, who, until modern times, built the world’s straightest, best engineered and most complex network of roads. At its height, the Roman Empire maintained 53,000 miles of roads, which covered all of England to the north, most of Western Europe, radiated throughout the Iberian Peninsula and encircled and crisscrossed the entire Mediterranean area. Most renowned for their straightness, Roman roads were composed of a graded soil foundation topped by four foundation courses: first sand, and then large, flat stones._"
+    }
+  }
+}

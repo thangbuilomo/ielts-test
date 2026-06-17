@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_40",
+  "module": "listening",
+  "question_count": 10,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2040.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 1:</strong> Good afternoon and thanks for attending the lecture so late on a Friday. I'm sure you'll all agree that to succeed in sports, not to mention attend a late Friday afternoon lecture, one needs not only physical strength, but also psychological fitness. </p><p><strong>Speaker 1:</strong> We'll be discussing sports psychology today, specifically the work of an English psychiatrist working in elite sport, Professor Steve Peters. In 2005, Peters began working with the British cycling team, applying his mind management model to many a gold-winning Olympiad before publishing a book, <em>The Chimp Paradox</em>, in 2012, with the aim of helping us understand how mind affects body.</p><p><strong>Speaker 1:</strong> We'll be discussing the connection between the two, along with what on earth it has to do with chimps. First, let us consider the human brain as seven separate yet connected brains. Three of these form our psychological mind, and these are focused on in the chimp paradox: frontal, limbic, and parietal, or respectively, human, chimp, and computer. </p><p><strong>Speaker 1:</strong> Peters' mind management model views the chimp as primitive, working in unending battle with human part. This is due to the differences in nature between them, which, although both compose important parts of you, do not always see eye to eye, meaning any supposed synergy between the two is often lacking or missing altogether. </p><p><strong>Speaker 1:</strong> The chimp part of the brain is responsible for irrational thought and overly emotional thinking based on perceptions of our inadequacies, and paranoia not being good enough, smart enough, rich enough, good-looking enough. The list goes on. </p><p><strong>Speaker 1:</strong> However, the chimp isn't all bad. It can be responsible for good, positive feelings, those that motivate us and drive us to action. And herein lies the paradox, quoted from Peters, \"The chimp can be your best friend and your worst enemy.\" Trying to get on with a chimp is the human part of our brain. </p><p><strong>Speaker 1:</strong> This is the sensible part of us, basing its decision on evidence, rationality. It sees things in perspective. It exercises self-control and compassion. In short, it follows the rules. And I think it's easy to see why these huge differences between the two brains can make for internal conflict.</p><p><strong>Speaker 1:</strong> Lastly, the computer. This is the chimp and human's external hard drive, their storage unit, if you will, which takes information from the former two brains and files it. It can later be used independently of the previous two brains as a reference point. </p><p><strong>Speaker 1:</strong> I'm sure we'd all agree that these emotions the chimp is responsible for cannot be magically removed, as does Peters. What he does suggest, though, are ways to maximize ourselves, the human, and manage the chimp along with our happiness, and with regards to sporting dreams, achieve the unachievable. </p><p><strong>Speaker 1:</strong> Let's look at some famous examples of Peter's theory in practice. </p><p><strong>Speaker 1:</strong> Okay, so our first example, Victoria Pendleton, the now double Olympic gold medal cyclist, was on the verge of giving up on her cycling dreams before she met Professor Peters after years of constant training showed no tangible improvements and had left her feeling like a failure. </p><p><strong>Speaker 1:</strong> Having taught her techniques to reframe events in her mind, Peters helped her control her emotions and make positives from negatives with astounding results. Although she admits she would never have become world champion nine times or achieved numerous other career triumphs without the model, she states she was not transformed overnight. </p><p><strong>Speaker 1:</strong> Peters has not only worked within cycling. British snooker player Ronnie O'Sullivan has also sought his help in the past. A child snooker prodigy, O'Sullivan turned professional at the age of 16, but has found his life daubed with bouts of serious clinical depression. </p><p><strong>Speaker 1:</strong> For O'Sullivan, labeled a perfectionist and being highly self-critical, Peters seemed the ideal person to approach for help. Indeed, Peters has helped him to overcome his negative emotions through use of the chimp model. </p><p><strong>Speaker 1:</strong> I think both of these examples show how the mind affects the body, either positively or negatively, for all of us, but especially within the professional sporting context. It can be the difference between success or failure, between continuing or giving up the discipline.</p><p><strong>Speaker 1:</strong> Now, in preparation for our end-of-term essay, I'd like you all to research an example of psychology on sporting performance. You could even consider your own chimp and how it affects your behavior as an exercise too. </p><p><strong>Speaker 1:</strong> Oh, and I forgot to mention, you must give your chimp a name. Moving on to the history of the sports psychologist.</p>"
+    }
+  ]
+}

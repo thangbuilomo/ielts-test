@@ -1,0 +1,29 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_33",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q27": {
+      "explanation": "Người nói đang thảo luận về các khóa học máy tính dành cho sinh viên mới. Trong câu này, họ liệt kê các cấp độ khóa học: \"beginner\" (người mới bắt đầu), \"intermediate\" (trung cấp), và \"advanced\" (nâng cao). Thông tin giúp tìm ra đáp án là từ \"beginner\", vì James đã nói rằng anh ấy không chắc mình có thể theo kịp khóa học nào khác ngoài khóa cho người mới bắt đầu. Paraphrase quan trọng ở đây là \"beginner\" được nhắc đến rõ ràng. Bẫy có thể là sự nhầm lẫn giữa \"intermediate\" và \"beginner\", nhưng James đã xác nhận rằng anh ấy sẽ chọn khóa học cho người mới bắt đầu. Do đó, đáp án A là chính xác.",
+      "evidence": "Yes, we have introductory courses for all new students. There is beginner, intermediate, and advanced. Which would you like to go for?"
+    },
+    "q28": {
+      "explanation": "Người nói đang thông báo cho James về địa điểm của khóa học máy tính mà anh ấy đã chọn. Câu này rõ ràng chỉ ra rằng khóa học của James sẽ diễn ra tại Franklin. Thông tin giúp tìm ra đáp án là từ \"Franklin\", nơi được nhắc đến như địa điểm của khóa học. Paraphrase quan trọng là \"your course is in Franklin\". Bẫy có thể là sự nhầm lẫn với \"Court\", nhưng người nói đã làm rõ rằng \"Court\" không phải là địa điểm của khóa học. Vì vậy, đáp án B là chính xác.",
+      "evidence": "Well, your course is in Franklin then. We're in court now."
+    },
+    "q29": {
+      "explanation": "Người nói đang nói về việc James cần phải thay đổi lịch làm việc của mình để có thể tham gia khóa học. Câu này cho thấy rằng James không thể tham gia khóa học vào thời gian đã định vì anh có một buổi hướng dẫn khác. Thông tin giúp tìm ra đáp án là từ \"I'll have to rearrange work\", cho thấy rằng James sẽ phải sắp xếp lại công việc của mình. Paraphrase quan trọng là \"rearrange work\". Bẫy có thể là sự nhầm lẫn với việc \"give up his part-time job\", nhưng James không nói rằng anh sẽ từ bỏ công việc mà chỉ cần sắp xếp lại lịch làm việc. Do đó, đáp án B là chính xác.",
+      "evidence": "I'll have to rearrange work then. I can't miss the tutorial."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> I don't really know much about computing. Is there any training available? </p><p><strong>Speaker 1:</strong> Yes, we have introductory courses for all new students. There is beginner, intermediate, and advanced. Which would you like to go for? </p><p><strong>Speaker 2:</strong> Well, I have done some, but I don't know if I'm up to anything more than beginner. I'd better stick with that. Intermediate could be too tough. </p><p><strong>Speaker 1:</strong> Well, your course is in Franklin then. We're in court now. You know where that is? </p><p><strong>Speaker 2:</strong> That's in this building too, isn't it? </p><p><strong>Speaker 1:</strong> No, that's Wimborne you're thinking about. Franklin's over in the Computer Sciences Building. Anything else? </p><p><strong>Speaker 2:</strong> I don't know what time the course starts. </p><p><strong>Speaker 1:</strong> Let's have a look then. Advanced starts at 4:30 in the afternoon on Mondays, but yours is the day after at 5 in the afternoon. Are there any other times, as I have got a part-time job then? </p><p><strong>Speaker 1:</strong> Yes, you could try Thursday at 2pm. How's that? </p><p><strong>Speaker 2:</strong> Even worse, as I have a tutorial then. </p><p><strong>Speaker 1:</strong> Anything else? </p><p><strong>Speaker 2:</strong> No, that's it. I'll have to rearrange work then. I can't miss the tutorial.</p>"
+}

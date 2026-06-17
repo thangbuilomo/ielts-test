@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_56",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q31": {
+      "explanation": "Người nói đang giải thích về lý do ra đời của Magna Carta, nhấn mạnh rằng nó được ký kết để chấm dứt xung đột giữa Vua John và các chủ đất. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"end an armed conflict\", cho thấy mục đích chính của Magna Carta không phải là để thu tiền hay ngăn chặn tội phạm, mà là để tránh xung đột. Paraphrase quan trọng ở đây là \"end an armed conflict\" có thể hiểu là \"tránh chiến tranh\". Bẫy ở đây là các lựa chọn A và B có thể khiến người nghe nhầm lẫn vì chúng cũng liên quan đến các vấn đề tài chính và tội phạm, nhưng không phải là lý do chính. Đáp án C là đúng vì nó phản ánh chính xác mục đích của việc ký kết Magna Carta.",
+      "evidence": "Magna Carta was originally signed to end an armed conflict between King John and some of the most powerful landowners of England."
+    },
+    "q32": {
+      "explanation": "Người nói đang mô tả tình hình chính trị và quân sự trong những năm đầu trị vì của Vua John. Thông tin quan trọng là việc Vua John đã thất bại trong việc giành lại lãnh thổ, dẫn đến việc ông phải đánh thuế cao hơn. Câu này cho thấy rằng sự mất mát lãnh thổ là một yếu tố quan trọng trong triều đại của ông. Paraphrase quan trọng là \"loss of some English territory\" có thể hiểu là \"mất một số lãnh thổ của Anh\". Bẫy ở đây là các lựa chọn A và B có thể khiến người nghe nghĩ rằng có sự liên kết với Pháp, nhưng thực tế là sự mất mát lãnh thổ là điều rõ ràng hơn. Đáp án C là đúng vì nó phản ánh chính xác tình hình lãnh thổ của Vua John.",
+      "evidence": "the following 10 years, he taxed the landowners more and more in a series of unsuccessful military attempts to win those lands back."
+    },
+    "q33": {
+      "explanation": "Người nói đang mô tả tình hình tài chính của Vua John sau khi ông thất bại trong cuộc chiến với Pháp. Thông tin quan trọng là việc ông phải trả bồi thường dẫn đến việc tăng thuế. Paraphrase quan trọng là \"highest taxes\" có thể hiểu là \"thuế cao nhất\". Bẫy ở đây là các lựa chọn B và C có thể gây nhầm lẫn vì chúng cũng liên quan đến thuế, nhưng không phải là nguyên nhân chính. Đáp án A là đúng vì nó chỉ ra rằng thuế cao nhất xảy ra sau khi Vua John thất bại trong cuộc chiến.",
+      "evidence": "John's army was completely defeated by the French, and he was forced to pay the massive compensation, leading to yet more taxes back in England."
+    },
+    "q34": {
+      "explanation": "Người nói đang mô tả cách thức mà Vua John và các chủ đất đã quyết định gặp nhau để ký kết Magna Carta. Thông tin quan trọng là việc họ gặp nhau ở \"neutral territory\", cho thấy sự cần thiết phải có một địa điểm an toàn cho cả hai bên. Paraphrase quan trọng là \"safe for both them and himself\" có thể hiểu là \"an toàn cho cả hai bên\". Bẫy ở đây là các lựa chọn A và B có thể khiến người nghe nghĩ rằng có sự ép buộc hoặc sự thể hiện sức mạnh, nhưng thực tế là họ đã đồng ý gặp nhau ở một nơi an toàn. Đáp án C là đúng vì nó phản ánh chính xác điều kiện của cuộc gặp gỡ.",
+      "evidence": "It was thus agreed that John and the landowners would meet on neutral territory to sign the peace agreement."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Good afternoon, class. In today's lecture, we're going to be looking at one of the foundational documents in the history of human rights, Magna Carta. Let's start by looking at the story behind its creation. </p><p><strong>Speaker 1:</strong> Magna Carta just means Great Charter in Latin, and this great charter, or great document, was originally signed to end an armed conflict between King John and some of the most powerful landowners of England. </p><p><strong>Speaker 1:</strong> As is so often the case, the argument between the parties was over money. Let's look at this in more detail. </p><p><strong>Speaker 1:</strong> When John came to the throne, large parts of northern France had belonged to the English crown, but by 1204, John had lost most of those. </p><p><strong>Speaker 1:</strong> In the following 10 years, he taxed the landowners more and more in a series of unsuccessful military attempts to win those lands back. </p><p><strong>Speaker 1:</strong> Then in 1214, John's army was completely defeated by the French, and he was forced to pay the massive compensation, leading to yet more taxes back in England. </p><p><strong>Speaker 1:</strong> The landowners would forgive neither the taxes nor the military failures. The following year, they rebelled against bad King John, as they called him, and took control of the cities of London, Lincoln, and Exeter. </p><p><strong>Speaker 1:</strong> Their actions received a great deal of support, and King John was left with no choice but to try to make peace. </p><p><strong>Speaker 1:</strong> It was thus agreed that John and the landowners would meet on neutral territory to sign the peace agreement, which later came to be known as Magna Carta.</p>"
+}

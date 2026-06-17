@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_05",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Ninety per cent of wildfires are ignited by people, the remaining 10 per cent by lightning. Common human-generated causes of wildfires include arson, camping fires, careless disposal of lit cigarettes, bonfires lit to burn rubbish and children playing with fireworks or matches.\". Heading iii (Fire Triggers) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Ninety per cent of wildfires are ignited by people, the remaining 10 per cent by lightning. Common human-generated causes of wildfires include arson, camping fires, careless disposal of lit cigarettes, bonfires lit to burn rubbish and children playing with fireworks or matches._"
+    },
+    "q2": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The speed at which wildfires spread depends on the fuel around them. Fuel is any living or dead material that will burn.\". Heading vii (Feeding the Flames) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The speed at which wildfires spread depends on the fuel around them. Fuel is any living or dead material that will burn._"
+    },
+    "q3": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Three weather variables affect wildfires: temperature, wind and moisture. Temperature directly influences the sparking of wildfires, as heat is one of the three pillars of the fire triangle.\". Heading i (The Role of the Elements) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Three weather variables affect wildfires: temperature, wind and moisture. Temperature directly influences the sparking of wildfires, as heat is one of the three pillars of the fire triangle._"
+    },
+    "q4": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Topography can also have a huge influence on how wildfires spread. In contrast to fuel and weather, topography barely changes over time and can help or hinder the spread of a wildfire.\". Heading v (The Lie of the Land) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Topography can also have a huge influence on how wildfires spread. In contrast to fuel and weather, topography barely changes over time and can help or hinder the spread of a wildfire._"
+    },
+    "q5": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Each year thousands of fire fighters risk their lives when dealing with wildfires. There are two categories of elite fire fighters: hotshots and smokejumpers.\". Heading ix (Battling the Blaze) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Each year thousands of fire fighters risk their lives when dealing with wildfires. There are two categories of elite fire fighters: hotshots and smokejumpers._"
+    }
+  }
+}

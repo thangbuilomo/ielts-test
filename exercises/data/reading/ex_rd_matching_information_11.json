@@ -1,0 +1,101 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_matching_information_11",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 6,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "matching",
+  "category_id": "matching_information",
+  "title": "Matching Information To Categories - Exercise 11",
+  "duration_seconds": 0,
+  "content": {
+    "title": "Sea Glider Shows Underwater Potential",
+    "content_html": "<h1>MATCHING INFORMATION TO CATEGORIES 11</h1>\n<h2>Sea Glider Shows Underwater Potential</h2>\n<p>A strange-looking yellow \"fish\" has been lurking in the waters off the southern coast of Vancouver Island recently. Called a Slocum underwater glider, the 1.5-metre-long, 52-kilogram torpedo-shaped vehicle is under evaluation by the federal government’s Institute of Ocean Sciences (IOS). Driven entirely by a variable buoyancy system instead of a propeller, it needs no mother ship for tethering or support. The evaluation project is a formal collaboration between Fisheries and Oceans Canada and the Canadian Centre for Ocean Gliders (CCOG).</p>\n<p>The Slocum is not the first underwater glider, as they have been around a while now. Underwater gliders are called gliders because they literally glide through water much like a sailplane glides through the air under gravity. They are slowly succeeding propeller-driven, electricity-hungry craft to explore and monitor deep-sea conditions. Underwater gliders can propel themselves for months using only a trick of buoyancy. Apart from saving energy, these craft also endure better because there are no external moving parts like blades and wing flaps to gum up. And, as there is no propeller, such an undersea craft does not contaminate its environment with lubricants needed to smooth propeller motion. Matt Russi, an aerospace and ocean engineer at Virginia Tech developing internal controls suitable for gliders, points out that: “Slocums should not disturb the environment which they are sampling. For propeller-powered underwater vehicles, this might mean avoiding stirring up sediment on the ocean floor, which happens when a vehicle uses external thrusters. With gliders there is no exhaust, no discharge and no lubricants.” A colleague of Russi, Dr Rob Kirwan, also adds that “since there are no external actuators, the vehicles are robust to corrosion.”</p>\n<p>Traditional underwater gliders work by being buoyantly nearly neutral while near the water’s surface, so that they sink slowly down. If you want to go straight, just shift the weight forward to tilt the nose down a bit. Then to rise, electricity from a battery between the tail wings is used to pump an oil contained inside central hull tanks next to the mid wings into external containment bladders behind the nose. This simple manoeuver increases the craft’s volume, and thus lowers its density just enough for the surrounding water to push it upward. Although this is cutting-edge technology, it seems nature beat human engineers to it. Marine biologists were for a long time mystified by how dolphins could cross greater distances than their muscle power and oxygen intake should allow. Many researchers attributed this to an even skin coating that would reduce water friction, but new evidence points to gliding enabled by buoyancy changes when water pressure compresses air in the respiratory system.</p>\n<p>The University of Washington has already done extensive and successful testing on its small underwater gliders. The small machines have had “flights” lasting a month, and the power supply in the current version should allow six months of flight, which gives it a range of about 5,000 kilometres with average ocean currents. “Of course, a larger vehicle, which would allow a larger battery pack, could last much longer,” said Philip Loren, director of the Applied Physics Laboratory of the University of Washington.</p>\n<p>The Slocum underwater glider offers an even more radical approach. It requires no electricity at all for locomotion. It harnesses the naturally occurring temperature gradients within the oceans for its power. “You’re harvesting propulsion energy from around the Slocum. Heat flow from a warm place to a cold place is capable of doing work. You’re not violating any laws of thermodynamics,” explained Peter West, the Slocum’s inventor. Inside Webb’s Slocum underwater glider is a cavity filled with an organic liquid compound that contracts when cooled and expands when warmed. When the Slocum rises to the surface, the greater heat there expands the material, pushing a spring. That spring stores energy as tension and when the vessel dives deep, the water cools. When the spring is released, it pushes the flotation oil out into the external bladders to make the glider go up. When the Slocum reaches the surface, the process repeats itself.</p>\n<p>“At present, we are simply learning what the Slocum can do,” says Darren Larsen, engineering manager for IOS. “I confess that my initial motivation was to develop the vehicle. However, once we were able to add sensors to address biology in the water column, my personal interest has increased beyond the engineering aspects.” The Slocum is equipped with various sensors to identify chlorophyll fluorescence, dissolved organic material, and particle scattering. “The sensors provide us with information about the water mass and the physics,” says Steve Wilson, IOS research scientist. “They also provide us with information about microscopic life in the ocean.”</p>\n<p>Science has often been criticised for not exploring the earth’s oceans as much as they should. With the Slocum Thermal glider’s range being 40,000 kilometres, it could theoretically circle the world. It is able to dive two kilometres under the surface and travel transmitting data for five years before returning to port. With technology like this, scientists might start to understand the earth’s oceans properly.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_matching_information_11.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_matching_information_11.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "matching",
+          "skill_tags": [
+            "rd_matching_information"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 15 - 20</strong></p>\n<p>Choose the correct person for each statement. Write the appropriate initials for each question.</p>\n<p>15 The energy used to power the Slocum underwater glider comes from the sea around the Slocum.</p>\n<p>16 Due to the design of moving underwater gliders, the vehicles are not prone to rusting.</p>\n<p>17 Slocums can discover data on ocean life.</p>\n<p>18 Underwater probes that use propellers can disturb underwater environments.</p>\n<p>19 The Slocum’s research capabilities make it a stimulating project to work on.</p>\n<p>20 To increase the range of traditional underwater gliders, a larger battery is required.</p>\n<table>\n<tr>\n<td><strong>MR</strong></td>\n<td>Matt Russi</td>\n</tr>\n<tr>\n<td><strong>RK</strong></td>\n<td>Dr Rob Kirwan</td>\n</tr>\n<tr>\n<td><strong>PL</strong></td>\n<td>Philip Loren</td>\n</tr>\n<tr>\n<td><strong>PW</strong></td>\n<td>Peter West</td>\n</tr>\n<tr>\n<td><strong>DL</strong></td>\n<td>Darren Larsen</td>\n</tr>\n<tr>\n<td><strong>SW</strong></td>\n<td>Steve Wilson</td>\n</tr>\n</table>",
+          "items": [
+            {
+              "question_id": "q15",
+              "number": 15,
+              "prompt_html": "The energy used to power the Slocum underwater glider comes from the sea around the Slocum.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q16",
+              "number": 16,
+              "prompt_html": "Due to the design of moving underwater gliders, the vehicles are not prone to rusting.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q17",
+              "number": 17,
+              "prompt_html": "Slocums can discover data on ocean life.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q18",
+              "number": 18,
+              "prompt_html": "Underwater probes that use propellers can disturb underwater environments.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q19",
+              "number": 19,
+              "prompt_html": "The Slocum’s research capabilities make it a stimulating project to work on.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q20",
+              "number": 20,
+              "prompt_html": "To increase the range of traditional underwater gliders, a larger battery is required.",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            15,
+            20
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

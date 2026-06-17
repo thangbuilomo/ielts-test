@@ -1,0 +1,25 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_49",
+  "module": "listening",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q27": {
+      "explanation": "Người nói đang thảo luận về những thông tin cần thiết để đưa vào thư mục tài liệu (bibliography) cho bài thuyết trình. Thông tin giúp tìm ra đáp án là khi người nói xác nhận rằng cần có tên tác giả (B) và năm xuất bản (D). Paraphrase quan trọng ở đây là \"the author's name\" và \"the year of publication\". Bẫy trong câu hỏi này có thể là \"chapter title\" mà người nói đã nói không cần thiết. Đáp án đúng là B và D vì chúng là những thông tin cần thiết mà người nói đã xác nhận.",
+      "evidence": "So we need the author's name and the title of the chapter.\" và \"No, you also need to give the year of publication."
+    },
+    "q29": {
+      "explanation": "Người nói đang nói về các tiêu chí đánh giá cho bài thuyết trình của họ. Thông tin giúp tìm ra đáp án là việc họ nhận điểm cho nghiên cứu (A) và cách trình bày (C). Paraphrase quan trọng ở đây là \"mark for our research\" và \"mark for delivery\". Bẫy có thể là những yếu tố khác như \"pace\" và \"organisation\" mà người nói cũng đề cập đến, nhưng không phải là hai yếu tố chính mà họ sẽ được đánh giá. Đáp án đúng là A và C vì đây là những khía cạnh chính mà họ sẽ được đánh giá trong bài thuyết trình.",
+      "evidence": "We get a mark for our research, so we need to show evidence of what we've done.\" và \"In my last presentation, we received a mark for delivery, pace, and organisation."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Great! I feel much better now. Oh, you're also gonna have to help me with the bibliography. I think I did it wrong last term. My professor wasn't very happy. </p><p><strong>Speaker 1:</strong> Yeah, they all say they're very important. It's easy, really. Just takes a while. It helps if you do it as you go along. So when we do the research, make a note of all the information that you need.</p><p><strong>Speaker 2:</strong> That's a good idea. So we need the author's name and the title of the chapter. </p><p><strong>Speaker 1:</strong> Oh no, you don't need the chapter title, just the title of the book. </p><p><strong>Speaker 2:</strong> Oh, really? And what about page numbers? </p><p><strong>Speaker 1:</strong> No, not all the time. They are only important if we give direct quotes, and we won't be doing that. </p><p><strong>Speaker 2:</strong> Okay, is that all? </p><p><strong>Speaker 1:</strong> No, you also need to give the year of publication. </p><p><strong>Speaker 2:</strong> Where do you find that? </p><p><strong>Speaker 1:</strong> On the first page, usually next to the ISBN number. Oh, and you need the publisher's name. </p><p><strong>Speaker 2:</strong> Got it. Why is this so important for this presentation anyway? </p><p><strong>Speaker 1:</strong> It's because of the assessment. We get a mark for our research, so we need to show evidence of what we've done. </p><p><strong>Speaker 2:</strong> Really? What else do we get marked on? </p><p><strong>Speaker 1:</strong> Let's see. In my last presentation, we received a mark for delivery, pace, and organisation. </p><p><strong>Speaker 2:</strong> Wow, that's a lot to think about. </p><p><strong>Speaker 1:</strong> Yeah, but it's more simple this time. The only other area we'll be marked on is content. </p><p><strong>Speaker 2:</strong> OK, so we only get two marks? </p><p><strong>Speaker 1:</strong> Yeah, that's right. Anyway, should we get going?</p>"
+}

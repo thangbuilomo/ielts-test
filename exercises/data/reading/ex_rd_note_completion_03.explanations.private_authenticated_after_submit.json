@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_note_completion_03",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q25": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn E, bài viết nêu: \"Although it is rare that products are tampered with after leaving the factory, occasionally consumers find unexpected substances in jars, or open packets and discover that some of the contents are missing. New packaging technologies that will alert consumers or store managers to such problems are being developed. These use optically variable films or gas sensitive dyes to produce irreversible colour alterations.\". Cụm colour khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Although it is rare that products are tampered with after leaving the factory, occasionally consumers find unexpected substances in jars, or open packets and discover that some of the contents are missing. New packaging technologies that will alert consumers or store managers to such problems are being developed. These use optically variable films or gas sensitive dyes to produce irreversible colour alterations._"
+    },
+    "q26": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn B, bài viết nêu: \"Intelligent labelling and printing, for example, will be capable of communicating directly to the customer via thin film devices that provide sound and visual information in response to touch. Voice-activated safety and disposal instructions on household and pharmaceutical products will be used to tell the consumer how they should be disposed of after consumption. This information will also be used in the recycling industry to help sort packaging materials from waste streams.\". Cụm waste khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Intelligent labelling and printing, for example, will be capable of communicating directly to the customer via thin film devices that provide sound and visual information in response to touch. Voice-activated safety and disposal instructions on household and pharmaceutical products will be used to tell the consumer how they should be disposed of after consumption. This information will also be used in the recycling industry to help sort packaging materials from waste streams._"
+    },
+    "q27": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn G, bài viết nêu: \"Learning from nature to solve engineering problems (biomimetics) is not a new concept, and there are many research teams looking for such packaging ideas. For example, researchers are currently studying cereal starch in the search for a sustainable alternative to polystyrene, which is used extensively in the secondary packaging of consumer goods. The opening and closing of tree seed structures could give ideas to develop humidity management.\". Cụm humidity khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Learning from nature to solve engineering problems (biomimetics) is not a new concept, and there are many research teams looking for such packaging ideas. For example, researchers are currently studying cereal starch in the search for a sustainable alternative to polystyrene, which is used extensively in the secondary packaging of consumer goods. The opening and closing of tree seed structures could give ideas to develop humidity management._"
+    }
+  }
+}

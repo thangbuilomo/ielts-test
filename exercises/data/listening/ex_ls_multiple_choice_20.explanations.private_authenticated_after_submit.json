@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_20",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q31": {
+      "explanation": "Người nói đang giải thích về cách mà các cuộc thám hiểm đến Vostok Station diễn ra. Thông tin quan trọng giúp tìm ra đáp án là việc nhấn mạnh rằng thời tiết chỉ cho phép bay trong ba tháng ngắn ngủi, và ngoài ra, việc đi bộ từ biển cũng mất nhiều thời gian. Paraphrase quan trọng là \"the weather is good enough for the trip to be made,\" cho thấy rằng điều kiện thời tiết là yếu tố quyết định. Bẫy có thể là sự lựa chọn A, vì mặc dù giá vé máy bay có thể cao, nhưng lý do chính là điều kiện thời tiết. Đáp án B là đúng vì nó giải thích rõ lý do tại sao hầu hết mọi người chọn đi bằng thuyền và sau đó đi bộ.",
+      "evidence": "Russian expeditions either get to the Antarctic by sea and then trek, although this takes several months. Alternatively, they can fly more cheaply and safely from South Africa, but there are only 10 to 12 of these special flights per year and only during the three short months that the weather is good enough for the trip to be made."
+    },
+    "q32": {
+      "explanation": "Người nói đang mô tả quá trình thích nghi của các nhà khoa học với điều kiện khắc nghiệt tại Vostok Station. Thông tin quan trọng giúp tìm ra đáp án là việc họ không gặp phải triệu chứng đau đầu, mà chỉ là một quá trình thích nghi. Paraphrase quan trọng là \"their heads stop hurting,\" cho thấy rằng đây không phải là một vấn đề ban đầu mà họ gặp phải. Bẫy có thể là sự lựa chọn B, vì họ không liên tục ngủ gật mà chỉ cần thời gian để thích nghi. Đáp án A là đúng vì nó chỉ ra rằng đau đầu không phải là một vấn đề ban đầu mà họ gặp phải.",
+      "evidence": "At Vostok station, the polar scientists who live there take a little time to acclimatise to the conditions. They say that within just a week and a half, their heads stop hurting, they cease to vomit, and they begin to be able to sleep."
+    },
+    "q33": {
+      "explanation": "Người nói đang nói về mục đích ban đầu của việc khoan tại Vostok Station. Thông tin quan trọng là việc khoan không phải để tìm dầu mà là để lấy mẫu lõi băng. Paraphrase quan trọng là \"drilling for oil,\" cho thấy rằng mục đích ban đầu không đạt được. Bẫy có thể là sự lựa chọn A, vì nhiều người có thể nghĩ rằng khoan dầu là lý do chính. Đáp án B là đúng vì nó chỉ ra rằng các nhà khoa học thực sự đã tìm thấy mẫu lõi băng.",
+      "evidence": "In 1996, Russian scientists were drilling for oil, but they had only found ice core samples and worthless mineral deposits."
+    },
+    "q34": {
+      "explanation": "Người nói đang mô tả lý do mà các nhà khoa học dừng khoan. Thông tin quan trọng là sự tinh khiết của băng ở độ sâu lớn. Paraphrase quan trọng là \"couldn't figure out why the ice... was so pure,\" cho thấy rằng sự bất ngờ về độ tinh khiết là lý do chính. Bẫy có thể là sự lựa chọn A, vì có thể người nghe nghĩ rằng độ sạch của băng là điều tốt. Đáp án B là đúng vì nó chỉ ra rằng sự xuất hiện của nước ngọt ở đầu khoan là lý do dừng lại.",
+      "evidence": "When they reached 3,623 metres, they stopped because they couldn't figure out why the ice at such an extreme depth was so pure."
+    },
+    "q35": {
+      "explanation": "Người nói đang nói về những phát hiện mới trong hồ Vostok. Thông tin quan trọng là việc phát hiện ra vi sinh vật chưa từng được tìm thấy ở nơi khác. Paraphrase quan trọng là \"microbes that have never been found elsewhere,\" cho thấy rằng đây là một phát hiện độc đáo. Bẫy có thể là sự lựa chọn B, vì có thể người nghe nghĩ rằng các sinh vật từ thời kỳ đầu của trái đất là điều thú vị hơn. Đáp án C là đúng vì nó chỉ ra rằng các nhà khoa học đã tìm thấy các vi sinh vật chưa được xác định trước đó.",
+      "evidence": "Researchers tested the core samples taken close to the water and indeed found microbes that have never been found elsewhere."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Vostok station is located on the Antarctic continent. It is the coldest place on earth, with temperatures recorded of minus 76 degrees centigrade. Extreme winds hold sway, along with zero humidity and a lack of oxygen comparable to that at an altitude of 16,000 feet. </p><p><strong>Speaker 1:</strong> Russian expeditions either get to the Antarctic by sea and then trek, although this takes several months. Alternatively, they can fly more cheaply and safely from South Africa, but there are only 10 to 12 of these special flights per year and only during the three short months that the weather is good enough for the trip to be made. </p><p><strong>Speaker 2:</strong> At Vostok station, planes cannot hang around. After two or at the most three hours, the plane has to depart. If it gets colder than minus 56 Celsius, the plane cannot take off, even in windless weather as the skis won't work. </p><p><strong>Speaker 1:</strong> At that temperature, the snow freezes into tough, sandpaper-like grit, which inhibits takeoff and landing, and for nine months a year, Vostok station is at minus 60 or colder. </p><p><strong>Speaker 2:</strong> The polar scientists who live at Vostok station take a little time to acclimatise to the conditions. They say that within just a week and a half, their heads stop hurting, they cease to vomit, and they begin to be able to sleep. </p><p><strong>Speaker 1:</strong> This is partially the reason there are only three permanent scientific bases deep in the Antarctic continent. At the South Pole, there are the American Amundsen-Scott base and the French-Italian base Concordia, and further east, there's Russia's Vostok station. </p><p><strong>Speaker 2:</strong> Apart from being the coldest place on Earth, Vostok station has another reason why it is famous. In 1996, Russian scientists were drilling for oil, but they had only found ice core samples and worthless mineral deposits. When they reached 3,623 metres, they stopped because they couldn't figure out why the ice at such an extreme depth was so pure. </p><p><strong>Speaker 1:</strong> After a series of tests using radar and seismic waves, it turned out that this ice was actually the uppermost region of the world's largest warm water subglacial lake, a lake roughly the size of Lake Ontario. </p><p><strong>Speaker 2:</strong> The lake is composed of fresh water and has been isolated beneath the glacier for somewhere between half a million and one million years. Naturally, the first thing that came to the scientists' minds was that this lake could possibly be the most pristine liquid environment on Earth and could be full of living creatures and organisms that, due to isolation and adaptation, live nowhere else. </p><p><strong>Speaker 1:</strong> Researchers tested the core samples taken close to the water and indeed found microbes that have never been found elsewhere. Scientists say that the lake could also shed light on the origins of the Earth and life on Earth.</p>"
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_ls_matching_information_37",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 5,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q26": {
+      "answers": [
+        "G - To people nowadays",
+        "G",
+        "it seems to be stating the obvious."
+      ]
+    },
+    "q27": {
+      "answers": [
+        "B - It allows a person freedom of choice.",
+        "B",
+        "- It allows a person freedom of choice."
+      ]
+    },
+    "q28": {
+      "answers": [
+        "D - It is hard to understand the purpose of this clause.",
+        "D",
+        "- It is hard to understand the purpose of this clause."
+      ]
+    },
+    "q29": {
+      "answers": [
+        "F - It is one of a number of clauses that deal with a similar topic.",
+        "F",
+        "- It is one of a number of clauses that deal with a similar topic."
+      ]
+    },
+    "q30": {
+      "answers": [
+        "C - It helped to solve a common problem.",
+        "C",
+        "- It helped to solve a common problem."
+      ]
+    }
+  }
+}

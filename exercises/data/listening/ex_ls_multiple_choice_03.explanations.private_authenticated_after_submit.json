@@ -1,0 +1,29 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_03",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Người nói, Dr. Johnson, đang nhấn mạnh tầm quan trọng của việc hiến máu và cho biết rằng hầu hết mọi người sẽ cần máu vào một thời điểm nào đó trong cuộc đời của họ. Thông tin này giúp tìm ra đáp án là vì nó khẳng định rằng nhu cầu về máu là phổ biến và không thể tránh khỏi. Paraphrase quan trọng ở đây là \"virtually all of us will face a time of great vulnerability,\" tức là \"hầu hết chúng ta sẽ phải đối mặt với một thời điểm rất dễ bị tổn thương.\" Bẫy có thể là những lựa chọn khác như A và B, nhưng chúng không phản ánh đúng thông tin mà Dr. Johnson đã cung cấp. Đáp án C là đúng vì nó thể hiện rõ ràng rằng nhu cầu về máu là một phần không thể thiếu trong cuộc sống của con người.",
+      "evidence": "Yet sooner or later, virtually all of us will face a time of great vulnerability in which we will need blood."
+    },
+    "q12": {
+      "explanation": "Dr. Johnson giải thích rằng nhu cầu về máu đang gia tăng, và lý do chính cho điều này là sự gia tăng số lượng bệnh tật như ung thư. Thông tin này giúp tìm ra đáp án A là chính xác. Paraphrase quan trọng ở đây là \"the rising number of diseases such as cancer,\" tức là \"sự gia tăng số lượng bệnh tật như ung thư.\" Bẫy có thể là các lựa chọn B và C, nhưng chúng không đề cập đến lý do chính xác mà Dr. Johnson đã nêu. Đáp án A là đúng vì nó phản ánh đúng nguyên nhân dẫn đến nhu cầu cao về máu.",
+      "evidence": "the demand for blood continues to increase."
+    },
+    "q13": {
+      "explanation": "Mục đích của chương trình phát thanh là để thuyết phục người nghe hiến máu, như Dr. Johnson đã nói về những người cần máu và kêu gọi sự giúp đỡ từ cộng đồng. Thông tin này giúp tìm ra đáp án C là chính xác. Paraphrase quan trọng ở đây là \"hoping you'll care enough to help them,\" tức là \"hy vọng rằng bạn sẽ quan tâm đủ để giúp họ.\" Bẫy có thể là các lựa chọn A và B, nhưng chúng không phản ánh đúng mục đích của chương trình. Đáp án C là đúng vì nó thể hiện rõ ràng mục tiêu của buổi phát thanh là khuyến khích mọi người tham gia hiến máu.",
+      "evidence": "Thousands of accident victims, cancer patients, premature babies, and countless others who need blood to stay alive are hoping you'll care enough to help them."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Hello, everyone. I've just been joined in the studio by Dr. Matthew Johnson. Dr. Johnson works at Wesley General Hospital and he's here today to tell us all about giving blood. Good morning, Matthew.</p><p><strong>Speaker 3:</strong> Good morning.</p><p><strong>Speaker 2:</strong> So, Matthew, why is it important for us to give blood?</p><p><strong>Speaker 3:</strong> Donating blood is not important. It's actually vital that people do this. Without donated blood, thousands of people would die every year and it's something that could affect everyone. We all expect blood to be there for us, but barely a fraction of those who can give, do. Yet sooner or later, virtually all of us will face a time of great vulnerability in which we will need blood. And that time is all too often unexpected. The need for blood is great. On any given day, an average of 38,000 units of red blood cells are needed. Blood transfusions are often needed for victims of things such as accidents and burns, heart surgery, organ transplants, and patients receiving treatment for leukemia, cancer, or other diseases. In 2002, nearly 29 million units of blood components were transfused. And with an aging population and advances in medical treatments and procedures requiring blood transfusions, the demand for blood continues to increase.</p><p><strong>Speaker 2:</strong> We really need that much?</p><p><strong>Speaker 3:</strong> Yes, and we need it now. Blood supplies nationwide have reached critically low levels, with less than one day's supply of several blood types. Thousands of accident victims, cancer patients, premature babies, and countless others who need blood to stay alive are hoping you'll care enough to help them. All blood types are needed.</p>"
+}

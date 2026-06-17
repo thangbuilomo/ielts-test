@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_flow_chart_completion_04",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/FLOW%20CHART%20COMPLETION%2004.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. So, that's some of the projects that we are looking for help on. I hope that there is something there that sounds exciting and worthwhile for you. </p><p><strong>Speaker 1:</strong> Now I'll let you know what you need to do in order to get involved. First, visit our website and check that you meet the requirements. These are mostly to do with qualifications, experience, age and availability. If you meet these requirements, then please register on our site and indicate which of the three countries you would like to go to. </p><p><strong>Speaker 1:</strong> After that, we will send you an application form by email. You need to download the application form, fill it in and send it back to us. The form is quite detailed, so we do not need a CV, but we would like you to send us a recent photo as well. The deadline for us to receive your application is one week from today, so that gives you plenty of time. </p><p><strong>Speaker 1:</strong> We do try and reply to everyone within three days, although this may be difficult if we get lots of applications. If your application is successful, then we will ask you to have a phone interview. We will send you a list of available times to choose from. All the phone interviews take place on the same date. The interview will last for about half an hour and is a chance for us to get to know you better. </p><p><strong>Speaker 1:</strong> The next stage is a group interview. This means we invite you to come to our office in London and take part in some group activities to see how well you work with others. This is actually a lot of fun and not nearly as scary as it sounds, so don't worry. We will pay for your accommodation for the night and many of our candidates go out together for dinner. </p><p><strong>Speaker 1:</strong> At the end of this process, hopefully we will be able to offer you a job. You will return to London for a one-day training session that will be led by your team leader before you fly out to your country where you and your team will be met by the local area manager. </p><p><strong>Speaker 1:</strong> So, I hope that you are interested in our programmes and that I hear from you soon. Does anybody have any questions?</p>"
+    }
+  ]
+}

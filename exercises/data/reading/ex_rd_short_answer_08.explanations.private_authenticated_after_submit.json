@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_short_answer_08",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q8": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn A, bài viết nêu: \"The first agricultural aircraft to attempt something of this nature was not actually a plane at all, but a balloon. John Chayton used the device to spread seeds over a valley floor in New Zealand which had been swamped in 1906. In 1921, the US Agriculture Department and the Army Signal Corps joined forces to develop modern crop dusting.\". Cụm (a)balloon khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The first agricultural aircraft to attempt something of this nature was not actually a plane at all, but a balloon. John Chayton used the device to spread seeds over a valley floor in New Zealand which had been swamped in 1906. In 1921, the US Agriculture Department and the Army Signal Corps joined forces to develop modern crop dusting._"
+    },
+    "q9": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn B, bài viết nêu: \"He appears suddenly on the horizon and disappears almost before you have the chance to register him. Because the expression “crop dusting” automatically brings to mind this image, today’s pilots generally prefer the term “aerial application\". Today’s crop dusting business is completely different, with million-dollar turbine-engine planes, intricate GPS systems for planning the low flights and triggering the sprayers, and well-trained, experienced pilots.\". Cụm aerial application khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "He appears suddenly on the horizon and disappears almost before you have the chance to register him. Because the expression “crop dusting” automatically brings to mind this image, today’s pilots generally prefer the term “aerial application\". Today’s crop dusting business is completely different, with million-dollar turbine-engine planes, intricate GPS systems for planning the low flights and triggering the sprayers, and well-trained, experienced pilots._"
+    },
+    "q10": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn C, bài viết nêu: \"Some chemicals are detrimental to people’s health, especially if they have respiratory problems, and there have been accusations of gardens being destroyed by dispersed chemicals. In the 1970s particularly, environmental concerns about the use of agricultural planes to spread pesticides led to more stringent regulations regarding the chemicals that could be used via aerial application. Agricultural planes and various techniques used by pilots have been improved significantly over the past few decades and present-day aerial application is considered to be safe for both people and the environment.\". Cụm respiratory problems khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Some chemicals are detrimental to people’s health, especially if they have respiratory problems, and there have been accusations of gardens being destroyed by dispersed chemicals. In the 1970s particularly, environmental concerns about the use of agricultural planes to spread pesticides led to more stringent regulations regarding the chemicals that could be used via aerial application. Agricultural planes and various techniques used by pilots have been improved significantly over the past few decades and present-day aerial application is considered to be safe for both people and the environment._"
+    }
+  }
+}

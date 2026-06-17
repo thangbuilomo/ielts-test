@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_34",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q6": {
+      "explanation": "Người nói đang cung cấp thông tin cá nhân cho nhân viên tại đại sứ quán. Thông tin về quốc tịch được nêu rõ ràng trong câu này. Từ \"British\" là từ khóa quan trọng giúp xác định đáp án. Không có bẫy trong câu này vì thông tin được cung cấp một cách trực tiếp và rõ ràng. Đáp án là đúng vì nó phản ánh chính xác thông tin mà người nói đã cung cấp.",
+      "evidence": "Nationality is British, surname is Johnston, and first name is Alan."
+    },
+    "q7": {
+      "explanation": "Người nói đang xác nhận tên đệm của mình với nhân viên. Câu trả lời \"Seymour\" được nhắc đến rõ ràng và chính xác. Thông tin giúp tìm ra đáp án là phần \"It should say Seymour.\" Đây là một ví dụ về paraphrase, vì tên đệm được viết sai ban đầu nhưng được sửa lại. Không có bẫy trong câu này vì thông tin được cung cấp một cách rõ ràng. Đáp án là đúng vì nó phản ánh chính xác tên đệm mà người nói đã xác nhận.",
+      "evidence": "Can I just confirm your middle name? It's not very clear on the form. Is that Semmoor? S-E-N?"
+    },
+    "q8": {
+      "explanation": "Người nói đang cung cấp số điện thoại di động của mình cho nhân viên. Thông tin này rất rõ ràng và không có sự nhầm lẫn. Phần quan trọng là số điện thoại được nêu trực tiếp. Không có bẫy trong câu này vì thông tin được cung cấp một cách chính xác. Đáp án là đúng vì nó phản ánh chính xác số điện thoại mà người nói đã cung cấp.",
+      "evidence": "Sure, it's **07822 953007**."
+    },
+    "q9": {
+      "explanation": "Người nói đang trả lời câu hỏi về các chuyến đi trước đó đến Thái Lan. Thông tin về năm 1998 được đưa ra một cách rõ ràng sau khi người nói đã nhầm lẫn với năm 1996. Phần quan trọng là \"1998\" vì đây là năm cuối cùng mà người nói đã đi du lịch đến Thái Lan. Không có bẫy trong câu này vì thông tin được cung cấp một cách trực tiếp. Đáp án là đúng vì nó phản ánh chính xác năm mà người nói đã đi du lịch.",
+      "evidence": "Yes, but it was many years ago, in 1992 and **1998**."
+    },
+    "q10": {
+      "explanation": "Người nói đang thảo luận về kế hoạch du lịch của mình sau khi rời Thái Lan. Thông tin về việc trở về nhà ở \"England\" được nêu rõ ràng. Phần quan trọng là \"come back home to England\" vì đây là thông tin chính xác về điểm đến sau khi rời Thái Lan. Không có bẫy trong câu này vì thông tin được cung cấp một cách rõ ràng và trực tiếp. Đáp án là đúng vì nó phản ánh chính xác thông tin mà người nói đã cung cấp.",
+      "evidence": "My friend and I are talking about going on to Bali after Thailand, but really, I think I'm going to come back home to **England**."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You will hear a man visiting an embassy to ask about visas for travel. You now have some time to look at the questions on your screen. Now, answer the questions on your screen. Would you be able to help me complete it?</p><p><strong>Speaker 2:</strong> Of course. Let's have a look. Right, so fill in all your personal information.</p><p><strong>Speaker 1:</strong> Great. Nationality is British, surname is Johnston, and first name is Alan. Can I just confirm your middle name? It's not very clear on the form. Is that Semmoor? S-E-N?</p><p><strong>Speaker 2:</strong> No, sorry, it's my handwriting. It should say Seymour. That's S-E-Y-M-O-U-R.</p><p><strong>Speaker 1:</strong> Thank you. I've got that now. So we also need your mobile number. Could I make a note of it?</p><p><strong>Speaker 2:</strong> Sure, it's 07822 953007.</p><p><strong>Speaker 1:</strong> OK, so that's 07822 951007.</p><p><strong>Speaker 2:</strong> No, sorry, it's 953007.</p><p><strong>Speaker 1:</strong> Got it. Everything seems to be in order in that section of the form. Let's have a look at the next part, about previous travel to the country.</p><p><strong>Speaker 2:</strong> Yes, do I need to complete that section, or is that only for long-term visas?</p><p><strong>Speaker 1:</strong> No, no, you have to complete it. So the first point asks if you have travelled to Thailand before.</p><p><strong>Speaker 2:</strong> Yes, but it was many years ago, in 1992 and 19... Let me think. 1996. No, wait, that was the year I travelled to Vietnam. 1998.</p><p><strong>Speaker 1:</strong> OK, and when are you going to travel to Thailand this time? The date you give me must be no more than three months after the issue date of the visa.</p><p><strong>Speaker 2:</strong> I understand. Well, I'm supposed to be there for my friend's birthday in September.</p><p><strong>Speaker 1:</strong> And when exactly is your friend's birthday?</p><p><strong>Speaker 2:</strong> 15th of September.</p><p><strong>Speaker 1:</strong> Let's put down the first of that month. Great. And what about this last part on the form, here? It asks about departure from Thailand.</p><p><strong>Speaker 2:</strong> My friend and I are talking about going on to Bali after Thailand, but really, I think I'm going to come back home to England. He might go to Bali alone.</p><p><strong>Speaker 1:</strong> OK, so we can fill that part in. And that's everything. Now come back again with your new passport as soon as you have it, and we can issue your visa.</p><p><strong>Speaker 2:</strong> Thanks a lot for your help.</p>"
+}

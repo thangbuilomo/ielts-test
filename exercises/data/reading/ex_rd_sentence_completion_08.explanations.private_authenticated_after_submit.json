@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_sentence_completion_08",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 5, bài viết nêu: \"A few centuries ago, the hard surfaces available for polyp sacks to cling on to included mainly seabed rocks and oyster shells; those polyp sacks that could not find such surfaces were unable to reproduce. Thanks to the proliferation of human structures, the world today offers many more hard surfaces. Piers, drilling platforms, offshore wind turbines and boats are just a few of the new surfaces polyps can attach themselves to.\". Cụm polyp sacks khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "A few centuries ago, the hard surfaces available for polyp sacks to cling on to included mainly seabed rocks and oyster shells; those polyp sacks that could not find such surfaces were unable to reproduce. Thanks to the proliferation of human structures, the world today offers many more hard surfaces. Piers, drilling platforms, offshore wind turbines and boats are just a few of the new surfaces polyps can attach themselves to._"
+    },
+    "q22": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"One of the key effects of the increase in jellyfish numbers in the Mediterranean is their influence on fish stocks there. This was demonstrated in the early 1980s when Mnemiopsis leidyi, a jellyfish species that normally resides in the Atlantic, was accidentally introduced into the Black Sea and had such an overwhelming impact on fish populations there that fisheries almost collapsed. This shows that, although normally only the impact of human fishing activities is taken into account when setting sustainable fishing limits, jellyfish numbers should be factored in as well.\". Cụm black sea khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "One of the key effects of the increase in jellyfish numbers in the Mediterranean is their influence on fish stocks there. This was demonstrated in the early 1980s when Mnemiopsis leidyi, a jellyfish species that normally resides in the Atlantic, was accidentally introduced into the Black Sea and had such an overwhelming impact on fish populations there that fisheries almost collapsed. This shows that, although normally only the impact of human fishing activities is taken into account when setting sustainable fishing limits, jellyfish numbers should be factored in as well._"
+    },
+    "q23": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"One of the key effects of the increase in jellyfish numbers in the Mediterranean is their influence on fish stocks there. This was demonstrated in the early 1980s when Mnemiopsis leidyi, a jellyfish species that normally resides in the Atlantic, was accidentally introduced into the Black Sea and had such an overwhelming impact on fish populations there that fisheries almost collapsed. This shows that, although normally only the impact of human fishing activities is taken into account when setting sustainable fishing limits, jellyfish numbers should be factored in as well.\". Cụm sustainable fishing limits khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "One of the key effects of the increase in jellyfish numbers in the Mediterranean is their influence on fish stocks there. This was demonstrated in the early 1980s when Mnemiopsis leidyi, a jellyfish species that normally resides in the Atlantic, was accidentally introduced into the Black Sea and had such an overwhelming impact on fish populations there that fisheries almost collapsed. This shows that, although normally only the impact of human fishing activities is taken into account when setting sustainable fishing limits, jellyfish numbers should be factored in as well._"
+    },
+    "q24": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 7, bài viết nêu: \"There are now Mediterranean beaches where swimming without the danger of being stung is feasible for only 1 week in the summer. Throughout the rest of the season, tourists have to find other methods of keeping cool. This will affect the numbers of tourists in following years, as they avoid resorts where swimming can result in very painful stings, and in turn will have a negative impact on the revenue earned from tourism.\". Cụm revenue khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "There are now Mediterranean beaches where swimming without the danger of being stung is feasible for only 1 week in the summer. Throughout the rest of the season, tourists have to find other methods of keeping cool. This will affect the numbers of tourists in following years, as they avoid resorts where swimming can result in very painful stings, and in turn will have a negative impact on the revenue earned from tourism._"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_01",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2001.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 1:</strong> The four ways of cleaning up oil spills that we'll look at today are as follows: the containment boom, chemical detergents, the sponge, and bacteria. </p><p><strong>Speaker 1:</strong> The containment boom is the most common method of cleaning up after an oil spill. Barriers are erected in the water, and the oil is then sucked up. Basically, a containment boom is just a large float that surrounds and contains the slick. This method is cheap and straightforward. However, it only functions in very calm seas. </p><p><strong>Speaker 1:</strong> Another method to clean slicks is to spray detergent solution from airplanes or boats directly onto the spill. Depending on the detergent, two things can happen. One possible result is that the oil can break up into clumps, which sink to the bottom of the ocean. Although these clumps are themselves hazardous, the problems caused by the clumps are much easier to deal with than the problems caused by oil slicks. </p><p><strong>Speaker 1:</strong> The other possibility is that the oil then breaks down into tiny droplets, which are soon spread and become harmless. This method is well suited to dealing with the larger slicks. A negative aspect is that often the chemicals remain in the water, and they can kill fish and other marine life. </p><p><strong>Speaker 1:</strong> A Berlin-based company has developed an alternative method for cleaning up oil spills. EcoCarbon has invented a giant sponge made of lignite resin that sucks up the oil, preventing it from harming the environment. The sponge comes as a mat, which contains crushed coal, whose small granules can soak up large amounts of oil. The process is safe and cheap. The sponges have so far withstood small-scale testing in pools of water with miniature oil slicks. </p><p><strong>Speaker 1:</strong> A unique advantage is that once the oil is absorbed onto the mat, it remains fixed there, permanently. The downside, however, is that the mats become toxic waste. </p><p><strong>Speaker 1:</strong> Scientists are also trying to improve other methods to fight oil spills. At the scenes of oil spills around the world, they've found bacteria that seem to have an appetite for the toxic black sludge. Now, the scientists are breeding these bacteria and studying them to determine which is most effective at reducing oil levels. Eventually, they hope to put the best bacteria to work in helping clean up after oil spill disasters. </p><p><strong>Speaker 1:</strong> The bacteria actually use the oil as food. As the bacteria reproduce, they eat more and more of the oil slick until it finally vanishes. Eventually, this method should be cheap, easy to administer, and be completely eco-friendly, as when the slick is gone, the bacteria's food source is gone, and they die, leaving nothing behind at all. So far, this method has no discernible drawbacks. </p><p><strong>Speaker 1:</strong> Well, that's the end of this section of the lecture on cleaning up spills.</p>"
+    }
+  ]
+}

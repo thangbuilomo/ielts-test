@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_information_20",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Câu 1 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"The ‘at’ sign and the hash are most familiar to us nowadays thanks to the key parts they play in web communication. Both symbols are crucial to the functioning of microblogging networks in that they vastly increase the interconnectedness of postings, and hence readership. But while you probably won’t be surprised to learn that neither symbol was created specifically for this purpose, you may be by their journeys through history.\". Lựa chọn D (Neither the 'at' (@) nor the 'hash' (#) symbols) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The ‘at’ sign and the hash are most familiar to us nowadays thanks to the key parts they play in web communication. Both symbols are crucial to the functioning of microblogging networks in that they vastly increase the interconnectedness of postings, and hence readership. But while you probably won’t be surprised to learn that neither symbol was created specifically for this purpose, you may be by their journeys through history._"
+    },
+    "q2": {
+      "explanation": "Câu 2 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 3 chứa căn cứ: \"Its roots are in the Ancient Roman phrase ‘libra pondo’ meaning ‘pound in weight’, shortened to ‘libra’ and abbreviated to ‘lb’. Medieval merchants later chose to include a small line across the top to indicate this contraction eventually resulting in the abbreviation beginning to appear as a single character. As European trade flourished in the sixteenth and seventeenth centuries, rushed writing made the symbol more abstract.\". Lựa chọn B (The 'hash' symbol (#)) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Its roots are in the Ancient Roman phrase ‘libra pondo’ meaning ‘pound in weight’, shortened to ‘libra’ and abbreviated to ‘lb’. Medieval merchants later chose to include a small line across the top to indicate this contraction eventually resulting in the abbreviation beginning to appear as a single character. As European trade flourished in the sixteenth and seventeenth centuries, rushed writing made the symbol more abstract._"
+    },
+    "q3": {
+      "explanation": "Câu 3 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 4 chứa căn cứ: \"Linguists are divided as to when the 'at' symbol, also lacking an official name in English, made its first appearance. One theory suggests it dates back to the sixth or seventh century as an adaptation of the Latin word ad meaning ‘at’ or ‘towards’ and that in an attempt to simplify the number of pen strokes used, the upstroke of the letter ‘d’ became wrapped around the ‘a’. Others argue that the symbol is an abbreviation of arroba (from the Arabic ar-ruba meaning ‘one quarter’, or 25 pounds), which continues to be the Spanish term used for the symbol.\". Lựa chọn A (The 'at' symbol (@)) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Linguists are divided as to when the 'at' symbol, also lacking an official name in English, made its first appearance. One theory suggests it dates back to the sixth or seventh century as an adaptation of the Latin word ad meaning ‘at’ or ‘towards’ and that in an attempt to simplify the number of pen strokes used, the upstroke of the letter ‘d’ became wrapped around the ‘a’. Others argue that the symbol is an abbreviation of arroba (from the Arabic ar-ruba meaning ‘one quarter’, or 25 pounds), which continues to be the Spanish term used for the symbol._"
+    },
+    "q4": {
+      "explanation": "Câu 4 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 5 chứa căn cứ: \"However, the age of the machine was not initially so kind to the 'at' sign. The same typewriters that included a place for the hash sign, did not do so for its future partner in social media. Furthermore, it was roundly ignored when decisions were made about symbols to be incorporated into the punch-card tabulating systems of the 1950s that paved the way for modern computer programming, although it did make its way onto the more spacious modern keyboards.\". Lựa chọn C (Both the 'at' (@) and the 'hash' (#) symbols) là lựa chọn khớp với chi tiết này.",
+      "evidence": "However, the age of the machine was not initially so kind to the 'at' sign. The same typewriters that included a place for the hash sign, did not do so for its future partner in social media. Furthermore, it was roundly ignored when decisions were made about symbols to be incorporated into the punch-card tabulating systems of the 1950s that paved the way for modern computer programming, although it did make its way onto the more spacious modern keyboards._"
+    },
+    "q5": {
+      "explanation": "Câu 5 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 5 chứa căn cứ: \"By the late nineteenth century, the hash symbol had become so closely associated in American business usage with the marking of numbers that it had begun to be called the ‘number sign’ and was a prime candidate for inclusion on the new Qwerty keyboard layout. At this point it was mainly still used by business people whose accounts and transactions were typewritten. In the 1960s, it was introduced to the general public through its addition to Bell Lab’s new push button telephone keypad as one of two symbols to be used for touch-tone dialling.\". Lựa chọn B (The 'hash' symbol (#)) là lựa chọn khớp với chi tiết này.",
+      "evidence": "By the late nineteenth century, the hash symbol had become so closely associated in American business usage with the marking of numbers that it had begun to be called the ‘number sign’ and was a prime candidate for inclusion on the new Qwerty keyboard layout. At this point it was mainly still used by business people whose accounts and transactions were typewritten. In the 1960s, it was introduced to the general public through its addition to Bell Lab’s new push button telephone keypad as one of two symbols to be used for touch-tone dialling._"
+    },
+    "q6": {
+      "explanation": "Câu 6 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 6 chứa căn cứ: \"In 1972, he sent the first electronic message, using the ‘at’ symbol to mark the recipient’s location or institution, or where that person was ‘at’. He had chosen the symbol because it had not yet been tied to any other major computing function or textual context - essential, given that a computer would interpret its usage and any confusion would result in lost messages. This established usage meant that later developments in social networking were just a logical extension.\". Lựa chọn A (The 'at' symbol (@)) là lựa chọn khớp với chi tiết này.",
+      "evidence": "In 1972, he sent the first electronic message, using the ‘at’ symbol to mark the recipient’s location or institution, or where that person was ‘at’. He had chosen the symbol because it had not yet been tied to any other major computing function or textual context - essential, given that a computer would interpret its usage and any confusion would result in lost messages. This established usage meant that later developments in social networking were just a logical extension._"
+    }
+  }
+}

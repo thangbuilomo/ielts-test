@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_short_answer_04",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q25": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"Yet, a good liar will be just as aware of these as the person they are lying to and thus will ensure that eye contact especially is evident. Shifty eyes can indicate that someone is feeling emotional perhaps from a lie, or perhaps just from nerves as a result of lying. Of course, this does not apply to instances where eye contact is non-existent, like during a telephone conversation.\". Cụm (a) telephone (conversation) khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Yet, a good liar will be just as aware of these as the person they are lying to and thus will ensure that eye contact especially is evident. Shifty eyes can indicate that someone is feeling emotional perhaps from a lie, or perhaps just from nerves as a result of lying. Of course, this does not apply to instances where eye contact is non-existent, like during a telephone conversation._"
+    },
+    "q26": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 2, bài viết nêu: \"There are two reasons for this: firstly, those close to us are more aware of our mannerisms and behavioural patterns and can more readily detect our default lying techniques. The second reason is that people we do not know lack the emotional response to lying that people we are intimate with have. Robert Galatzer-Levy, MD, a psychoanalyst in private practice, reasons that: “The good liar doesn’t feel bad or have a guilty conscience, so it’s much more difficult to pick up on cues that they are lying.” This is why it is apparently so easy for salesmen and politicians alike to lie so effortlessly.\". Cụm politicians khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "There are two reasons for this: firstly, those close to us are more aware of our mannerisms and behavioural patterns and can more readily detect our default lying techniques. The second reason is that people we do not know lack the emotional response to lying that people we are intimate with have. Robert Galatzer-Levy, MD, a psychoanalyst in private practice, reasons that: “The good liar doesn’t feel bad or have a guilty conscience, so it’s much more difficult to pick up on cues that they are lying.” This is why it is apparently so easy for salesmen and politicians alike to lie so effortlessly._"
+    },
+    "q27": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"Airline customs inspectors, whose very job is to try to determine suspiciousness and lying, and lay people were used in another experiment. The inspectors and lay people in this experiment were not given any specific training or instructions on what to look for. They were simply told to judge the truthfulness of mock inspection interviews viewed on videotape and determine whether the passenger was carrying contraband and lying about it.\". Cụm videotape khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Airline customs inspectors, whose very job is to try to determine suspiciousness and lying, and lay people were used in another experiment. The inspectors and lay people in this experiment were not given any specific training or instructions on what to look for. They were simply told to judge the truthfulness of mock inspection interviews viewed on videotape and determine whether the passenger was carrying contraband and lying about it._"
+    }
+  }
+}

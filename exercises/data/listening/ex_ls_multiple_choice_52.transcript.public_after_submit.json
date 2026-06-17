@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_52",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2052.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Come in, both of you. Do take a seat. Thanks. What was it you wanted to talk to us about? </p><p><strong>Speaker 2:</strong> You've both just attended a workshop on customer relations, isn't that right? </p><p><strong>Speaker 3:</strong> Yes, it finished yesterday. </p><p><strong>Speaker 2:</strong> Good. So it will be fresh in your memory, then. Basically, I wanted to hear your reactions to it as we're thinking of putting everyone in the sales department through that course over the next few months. </p><p><strong>Speaker 1:</strong> Well, I think it was very worthwhile. Perhaps you could tell me a bit about the training centre itself. </p><p><strong>Speaker 3:</strong> Well, that was great. Really modern, well-designed and well-equipped. </p><p><strong>Speaker 2:</strong> True, but the location was awful. </p><p><strong>Speaker 3:</strong> That wasn't the training company's fault. We'd been booked into a hotel that was an hour's journey from the training centre on public transport. We arrived a bit late on the first morning as a result. </p><p><strong>Speaker 2:</strong> Thanks. I'll make a note of that. What about the daily schedule? </p><p><strong>Speaker 3:</strong> Generally, the schedule was fine. The workshop ran from 9 in the morning until around 4pm with a 45-minute lunch break, which was long enough. They did have a bit of a problem with finishing on time, though. </p><p><strong>Speaker 1:</strong> This was annoying for me as I had reports and emails to catch up on when I got back to the hotel, so it made for a long day. </p><p><strong>Speaker 2:</strong> Thanks. I've noted that down too. I'll get my assistant to speak to them about those issues.</p>"
+    }
+  ]
+}

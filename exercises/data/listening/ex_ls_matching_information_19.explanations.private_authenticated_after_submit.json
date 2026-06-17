@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_19",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q17": {
+      "explanation": "Người nói đang thông báo về các cơ hội việc làm tại lễ hội Smash, cụ thể là công việc bán vé tại cổng. Thông tin giúp tìm ra đáp án là việc nhắc đến \"at-the-gate ticket sales\" (bán vé tại cổng), điều này rõ ràng chỉ ra rằng công việc liên quan đến việc bán vé. Paraphrase quan trọng ở đây là \"at-the-gate ticket sales\" có thể hiểu là \"bán vé ngay tại cổng\". Bẫy có thể là sự nhầm lẫn với các công việc khác tại các lễ hội khác, nhưng thông tin rõ ràng về việc bán vé tại Smash giúp xác định đáp án đúng.",
+      "evidence": "And finally, we have a few openings at Smash, the celebration of rock music. The organizers have decided that there are now going to be at-the-gate ticket sales, and so we're looking for people for that, preferably with experience of handling contactless payments."
+    },
+    "q18": {
+      "explanation": "Người nói đang đề cập đến công việc dọn dẹp sau lễ hội Bigtime. Thông tin giúp tìm ra đáp án là cụm từ \"site clear-up\" (dọn dẹp khu vực), điều này chỉ rõ công việc liên quan đến việc dọn dẹp sau khi lễ hội kết thúc. Paraphrase quan trọng là \"site clear-up\" có thể hiểu là \"dọn dẹp khu vực\". Bẫy có thể là sự nhầm lẫn với các công việc khác tại lễ hội, nhưng thông tin rõ ràng về việc dọn dẹp sau lễ hội giúp xác định đáp án đúng.",
+      "evidence": "And then, at Bigtime, we still have vacancies for the site clear-up during the three days once the festival is over..."
+    },
+    "q19": {
+      "explanation": "Người nói đang nói về mục tiêu của lễ hội Blestival, đó là gây quỹ cho các dự án bảo tồn động vật hoang dã. Thông tin giúp tìm ra đáp án là cụm từ \"staff to take donations\" (nhân viên để nhận tiền quyên góp), điều này chỉ rõ công việc liên quan đến việc thu tiền quyên góp. Paraphrase quan trọng là \"take donations\" có thể hiểu là \"nhận tiền quyên góp\". Bẫy có thể là sự nhầm lẫn với các công việc khác tại lễ hội, nhưng thông tin rõ ràng về việc nhận tiền quyên góp giúp xác định đáp án đúng.",
+      "evidence": "As well as featuring comedy, celebrity chefs, and some great bands, one of Blestival's key aims is to raise funds for much-needed wildlife conservation projects in developing countries. And for this, we need staff to take donations from the festival-goers."
+    },
+    "q20": {
+      "explanation": "Người nói đang thông báo về công việc chào đón tại lễ hội KlezmerFest. Thông tin giúp tìm ra đáp án là cụm từ \"meet and greet team\" (đội ngũ chào đón), điều này chỉ rõ công việc liên quan đến việc chào đón và hướng dẫn người tham dự. Paraphrase quan trọng là \"meet and greet\" có thể hiểu là \"chào đón\". Bẫy có thể là sự nhầm lẫn với các công việc khác tại lễ hội, nhưng thông tin rõ ràng về việc chào đón và hướng dẫn giúp xác định đáp án đúng.",
+      "evidence": "We need people for our meet and greet team to welcome new arrivals to the festival and direct them to whichever of the camping zones they've got a ticket for and will be based in throughout the festival."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: This recording is copyright. You will hear a podcast on behalf of a company called Eventstars, which arranges staffing for music festivals. You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> The good news is we still have openings at various festivals, which I'd like to tell you about, starting with Clasmurfest. We need people for our meet and greet team to welcome new arrivals to the festival and direct them to whichever of the camping zones they've got a ticket for and will be based in throughout the festival.</p><p><strong>Speaker 1:</strong> And then, at Bigtime, we still have vacancies for the site clear-up during the three days once the festival is over, with generous hourly rates of pay, as well as discarded tickets and food containers, even things like tents get left behind, and it all needs to be disposed of.</p><p><strong>Speaker 1:</strong> There's been a lot of interest in the brand-new Blestival this year. As well as featuring comedy, celebrity chefs, and some great bands, one of Blestival's key aims is to raise funds for much-needed wildlife conservation projects in developing countries. And for this, we need staff to take donations from the festival-goers. And the busiest times for this are when people are arriving at the start and leaving the site on the final day.</p><p><strong>Speaker 1:</strong> And finally, we have a few openings at Smash, the celebration of rock music. The organizers have decided that there are now going to be at-the-gate ticket sales, and so we're looking for people for that, preferably with experience of handling contactless payments.</p><p><strong>Speaker 1:</strong> Do please view our website and just follow the links if you'd like to apply. We're offering excellent working conditions, and believe me, the work is great fun.</p>"
+}

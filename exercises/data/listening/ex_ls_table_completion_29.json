@@ -1,0 +1,112 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_table_completion_29",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "table_completion",
+  "category_id": "table_completion",
+  "title": "Table Completion - Exercise 29",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2029.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_table_completion_29.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_table_completion_29.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_table_completion_29.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "table_completion",
+          "skill_tags": [
+            "ls_comp_table"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>TABLE COMPLETION 29</h1><p><strong>Questions 6 - 10</strong></p><p>Complete the form below.</p><p>Use <strong>NO MORE THAN TWO WORDS AND / OR A NUMBER</strong> for each answer.</p><table><thead><tr><th colspan=\"2\" style=\"text-align:center;\">TOURIST VISA APPLICATION FORM</th></tr></thead><tbody><tr><td colspan=\"2\" style=\"text-align:center;\"><strong>PERSONAL DETAILS</strong></td></tr><tr><td style=\"text-align:center;\"><strong>Nationality:</strong></td><td>British</td></tr><tr><td style=\"text-align:center;\"><strong>Surname:</strong></td><td>Johnstone</td></tr><tr><td style=\"text-align:center;\"><strong>First name:</strong></td><td>Alan</td></tr><tr><td style=\"text-align:center;\"><strong>Middle name:</strong></td><td><blank data-qid=\"q6\"></blank></td></tr><tr><td style=\"text-align:center;\"><strong>Mobile phone number:</strong></td><td>07822 <blank data-qid=\"q7\"></blank></td></tr><tr><td colspan=\"2\" style=\"text-align:center;\"><strong>TRAVEL DETAILS</strong></td></tr><tr><td style=\"text-align:center;\"><strong>Dates of previous trips to Thailand:</strong></td><td>1992 and <blank data-qid=\"q8\"></blank></td></tr><tr><td style=\"text-align:center;\"><strong>Estimated date of arrival in Thailand:</strong></td><td><blank data-qid=\"q9\"></blank> of September</td></tr><tr><td style=\"text-align:center;\"><strong>Departure from Thailand to:</strong></td><td><blank data-qid=\"q10\"></blank></td></tr></tbody></table>",
+          "items": [
+            {
+              "question_id": "q6",
+              "number": 6,
+              "prompt_html": "Question 6",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q7",
+              "number": 7,
+              "prompt_html": "Question 7",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q8",
+              "number": 8,
+              "prompt_html": "Question 8",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q9",
+              "number": 9,
+              "prompt_html": "Question 9",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q10",
+              "number": 10,
+              "prompt_html": "Question 10",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            6,
+            10
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_table_completion_29",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_table_completion_29",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

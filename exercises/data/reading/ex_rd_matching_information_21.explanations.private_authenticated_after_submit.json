@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_information_21",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q20": {
+      "explanation": "Câu 20 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 1 chứa căn cứ: \"Most nights, people experience dreams, partly due to a phase of the sleep cycle known as REM (Rapid Eye Movement) sleep, during which the brain is highly active and dreams are particularly vivid and complex. Throughout this state, our bodies are still except for the muscles needed to move the eyes and to breathe, perhaps in order to stop dreamers from acting out and being put in harm’s way. This almost complete paralysis is called atonia and is caused by motor neurons, small nerve endings located in the spinal cord.\". Lựa chọn CT (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Most nights, people experience dreams, partly due to a phase of the sleep cycle known as REM (Rapid Eye Movement) sleep, during which the brain is highly active and dreams are particularly vivid and complex. Throughout this state, our bodies are still except for the muscles needed to move the eyes and to breathe, perhaps in order to stop dreamers from acting out and being put in harm’s way. This almost complete paralysis is called atonia and is caused by motor neurons, small nerve endings located in the spinal cord._"
+    },
+    "q21": {
+      "explanation": "Câu 21 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 3 chứa căn cứ: \"Aegenita believed such an affliction was a forerunner of another disease and that the demon behind it would return every night after its initial visit to torment the sleeper. This perception of sleep paralysis is mirrored across many cultures. British folklore talks of the Old Hag, an entity who sits on people’s chests while they sleep and causes them to have nightmares.\". Lựa chọn PA (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Aegenita believed such an affliction was a forerunner of another disease and that the demon behind it would return every night after its initial visit to torment the sleeper. This perception of sleep paralysis is mirrored across many cultures. British folklore talks of the Old Hag, an entity who sits on people’s chests while they sleep and causes them to have nightmares._"
+    },
+    "q22": {
+      "explanation": "Câu 22 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 1 chứa căn cứ: \"Most nights, people experience dreams, partly due to a phase of the sleep cycle known as REM (Rapid Eye Movement) sleep, during which the brain is highly active and dreams are particularly vivid and complex. Throughout this state, our bodies are still except for the muscles needed to move the eyes and to breathe, perhaps in order to stop dreamers from acting out and being put in harm’s way. This almost complete paralysis is called atonia and is caused by motor neurons, small nerve endings located in the spinal cord.\". Lựa chọn OH (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Most nights, people experience dreams, partly due to a phase of the sleep cycle known as REM (Rapid Eye Movement) sleep, during which the brain is highly active and dreams are particularly vivid and complex. Throughout this state, our bodies are still except for the muscles needed to move the eyes and to breathe, perhaps in order to stop dreamers from acting out and being put in harm’s way. This almost complete paralysis is called atonia and is caused by motor neurons, small nerve endings located in the spinal cord._"
+    },
+    "q23": {
+      "explanation": "Câu 23 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 5 chứa căn cứ: \"Those who have ‘met’ these gloomy figures, often hallucinate about long shadows and strange shapes. The widely documented nature of these hallucinations mean many consider them proof of the shadow people’s existence. Alternatively, many conspiracy theorists believe sleep paralysis is due to alien activity, as the majority of those claiming to be victims of alien abduction describe the encounter as being similar to sleep paralysis: inexplicable anxiety, hearing buzzing or humming sounds and sensing a potentially harmful presence.\". Lựa chọn SP (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Those who have ‘met’ these gloomy figures, often hallucinate about long shadows and strange shapes. The widely documented nature of these hallucinations mean many consider them proof of the shadow people’s existence. Alternatively, many conspiracy theorists believe sleep paralysis is due to alien activity, as the majority of those claiming to be victims of alien abduction describe the encounter as being similar to sleep paralysis: inexplicable anxiety, hearing buzzing or humming sounds and sensing a potentially harmful presence._"
+    },
+    "q24": {
+      "explanation": "Câu 24 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 3 chứa căn cứ: \"British folklore talks of the Old Hag, an entity who sits on people’s chests while they sleep and causes them to have nightmares. When the sleeper awakes, the Old Hag disappears, leaving the person unable to speak or move temporarily. The Old Hag also appears in other European cultures, commonly known as ‘mara’ and causing similar effects on its victims.\". Lựa chọn HF (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "British folklore talks of the Old Hag, an entity who sits on people’s chests while they sleep and causes them to have nightmares. When the sleeper awakes, the Old Hag disappears, leaving the person unable to speak or move temporarily. The Old Hag also appears in other European cultures, commonly known as ‘mara’ and causing similar effects on its victims._"
+    },
+    "q25": {
+      "explanation": "Câu 25 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 1 chứa căn cứ: \"Most nights, people experience dreams, partly due to a phase of the sleep cycle known as REM (Rapid Eye Movement) sleep, during which the brain is highly active and dreams are particularly vivid and complex. Throughout this state, our bodies are still except for the muscles needed to move the eyes and to breathe, perhaps in order to stop dreamers from acting out and being put in harm’s way. This almost complete paralysis is called atonia and is caused by motor neurons, small nerve endings located in the spinal cord.\". Lựa chọn OH (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Most nights, people experience dreams, partly due to a phase of the sleep cycle known as REM (Rapid Eye Movement) sleep, during which the brain is highly active and dreams are particularly vivid and complex. Throughout this state, our bodies are still except for the muscles needed to move the eyes and to breathe, perhaps in order to stop dreamers from acting out and being put in harm’s way. This almost complete paralysis is called atonia and is caused by motor neurons, small nerve endings located in the spinal cord._"
+    }
+  }
+}

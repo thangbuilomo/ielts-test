@@ -1,0 +1,29 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_52",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Người nói đang thảo luận về việc đào tạo cho nhân viên trong bộ phận bán hàng. Câu nói này cho thấy ý định của người đứng đầu đào tạo là muốn tất cả nhân viên tham gia khóa học về quan hệ khách hàng. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"putting everyone in the sales department through that course,\" cho thấy rằng họ đang xem xét việc đào tạo cho toàn bộ nhân viên bán hàng. Paraphrase quan trọng ở đây là \"putting everyone in the sales department through that course\" có thể hiểu là \"offering everyone in the company a refresher course\" (đề nghị mọi người trong công ty tham gia khóa học làm mới). Không có bẫy trong câu hỏi này vì thông tin rõ ràng và trực tiếp. Đáp án A là đúng vì nó phản ánh chính xác ý định của người nói.",
+      "evidence": "we're thinking of putting everyone in the sales department through that course over the next few months."
+    },
+    "q22": {
+      "explanation": "Adam đang nói về trải nghiệm của mình liên quan đến việc di chuyển đến trung tâm đào tạo. Câu nói này cho thấy rằng việc di chuyển từ khách sạn đến trung tâm đào tạo là một vấn đề lớn, và điều này dẫn đến việc họ đến muộn vào buổi sáng đầu tiên. Thông tin quan trọng là \"an hour's journey from the training centre,\" cho thấy rằng vị trí khách sạn không thuận lợi. Paraphrase quan trọng là \"book a hotel nearer the training centre\" (đặt khách sạn gần hơn với trung tâm đào tạo). Bẫy ở đây có thể là người nghe có thể nghĩ rằng việc di chuyển không quan trọng, nhưng thực tế là nó ảnh hưởng đến trải nghiệm đào tạo. Đáp án B là đúng vì nó phản ánh ý kiến của Adam về việc cần phải đặt khách sạn gần hơn để thuận tiện hơn cho việc di chuyển.",
+      "evidence": "we'd been booked into a hotel that was an hour's journey from the training centre on public transport."
+    },
+    "q23": {
+      "explanation": "Sandra đang đề cập đến thời gian kết thúc của buổi hội thảo. Câu nói này chỉ ra rằng mặc dù lịch trình hàng ngày nhìn chung là ổn, nhưng có vấn đề với việc kết thúc đúng giờ. Thông tin quan trọng là \"a bit of a problem with finishing on time,\" cho thấy rằng buổi hội thảo thường kết thúc muộn hơn dự kiến. Paraphrase quan trọng là \"the workshop often ended later than planned\" (buổi hội thảo thường kết thúc muộn hơn dự kiến). Bẫy ở đây có thể là người nghe có thể nghĩ rằng câu hỏi chỉ hỏi về thời gian, nhưng thực tế là nó hỏi về cảm nhận của Sandra về buổi hội thảo. Đáp án B là đúng vì nó phản ánh chính xác trải nghiệm của Sandra về việc kết thúc muộn của buổi hội thảo.",
+      "evidence": "they did have a bit of a problem with finishing on time, though."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Come in, both of you. Do take a seat. Thanks. What was it you wanted to talk to us about? </p><p><strong>Speaker 2:</strong> You've both just attended a workshop on customer relations, isn't that right? </p><p><strong>Speaker 3:</strong> Yes, it finished yesterday. </p><p><strong>Speaker 2:</strong> Good. So it will be fresh in your memory, then. Basically, I wanted to hear your reactions to it as we're thinking of putting everyone in the sales department through that course over the next few months. </p><p><strong>Speaker 1:</strong> Well, I think it was very worthwhile. Perhaps you could tell me a bit about the training centre itself. </p><p><strong>Speaker 3:</strong> Well, that was great. Really modern, well-designed and well-equipped. </p><p><strong>Speaker 2:</strong> True, but the location was awful. </p><p><strong>Speaker 3:</strong> That wasn't the training company's fault. We'd been booked into a hotel that was an hour's journey from the training centre on public transport. We arrived a bit late on the first morning as a result. </p><p><strong>Speaker 2:</strong> Thanks. I'll make a note of that. What about the daily schedule? </p><p><strong>Speaker 3:</strong> Generally, the schedule was fine. The workshop ran from 9 in the morning until around 4pm with a 45-minute lunch break, which was long enough. They did have a bit of a problem with finishing on time, though. </p><p><strong>Speaker 1:</strong> This was annoying for me as I had reports and emails to catch up on when I got back to the hotel, so it made for a long day. </p><p><strong>Speaker 2:</strong> Thanks. I've noted that down too. I'll get my assistant to speak to them about those issues.</p>"
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_18",
+  "module": "listening",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2018.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Have you informed the police about the loss of the card?</p><p><strong>Speaker 2:</strong> Yes, and I've also cancelled the card with the credit card company.</p><p><strong>Speaker 1:</strong> Right. Now, what I'll do is to contact the lost property, which is where your bag would have gone if it was found. I'll give you a call back within an hour and tell you what the situation is. If you haven't had a call within an hour and a half, call back this number and ask for me. My name is John. OK?</p>"
+    }
+  ]
+}

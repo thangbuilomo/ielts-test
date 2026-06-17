@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_16",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q31": {
+      "explanation": "Người nói đang đề cập đến việc phân tích tác động của Kênh đào đối với thị trường nhà ở, đặc biệt là thị trường nhà thứ hai của các nhà đầu tư Anh tại Pháp. Thông tin giúp tìm ra đáp án là cụm từ \"lucrative second home market in France for British investors\", cho thấy rằng lĩnh vực mà người nói sẽ tập trung vào là thị trường nhà ở. Paraphrase quan trọng ở đây là \"lucrative second home market\", có thể hiểu là \"thị trường nhà thứ hai sinh lợi\". Bẫy có thể là sự nhầm lẫn giữa các lĩnh vực khác như du lịch hay thương mại nước ngoài, nhưng câu nói rõ ràng chỉ ra rằng thị trường nhà ở là trọng tâm. Do đó, đáp án đúng là B.",
+      "evidence": "It has also helped to boost what was already a very lucrative second home market in France for British investors, and it is this that will be our area of interest today..."
+    },
+    "q32": {
+      "explanation": "Người nói đang nói về một ý tưởng lịch sử liên quan đến việc xây dựng một cấu trúc giữa kênh để kết nối Anh và Pháp. Thông tin giúp tìm ra đáp án là \"towering mid-channel artificial landmass\", cho thấy rằng Albert Mathieu đã đề xuất xây dựng một hòn đảo nhân tạo. Paraphrase quan trọng là \"towering mid-channel artificial landmass\", có thể hiểu là \"khối đất nhân tạo cao giữa kênh\". Bẫy có thể là việc nghĩ rằng đề xuất có thể là tàu hoặc thuyền đặc biệt, nhưng câu nói rõ ràng chỉ ra rằng đó là một hòn đảo nhân tạo. Vì vậy, đáp án đúng là A.",
+      "evidence": "the first link between France and Britain was actually suggested back in 1802 when Albert Matthew suggested the creation of a towering mid-channel artificial landmass..."
+    },
+    "q33": {
+      "explanation": "Người nói đang nói về sự lo ngại của chính phủ Anh về việc kết nối với Pháp. Thông tin giúp tìm ra đáp án là cụm từ \"the country being an island\", cho thấy rằng quốc gia được đề cập là Anh. Paraphrase quan trọng là \"very apprehensive about opening up the country's borders\", có thể hiểu là \"rất lo ngại về việc mở cửa biên giới\". Bẫy có thể là sự nhầm lẫn với Pháp hoặc Hà Lan, nhưng câu nói rõ ràng chỉ ra rằng chính phủ Anh là bên lo ngại. Do đó, đáp án đúng là A.",
+      "evidence": "However, the latter country's government, the country being an island, was very apprehensive about opening up the country's borders..."
+    },
+    "q34": {
+      "explanation": "Người nói đang nói về thời điểm mà dự án xây dựng Kênh đào bị hủy bỏ do vấn đề tài chính. Thông tin giúp tìm ra đáp án là \"the project was cancelled for financial reasons two years later\", cho thấy rằng dự án bị hủy vào năm 1976, hai năm sau khi bắt đầu vào năm 1974. Paraphrase quan trọng là \"cancelled for financial reasons\", có thể hiểu là \"bị hủy bỏ vì lý do tài chính\". Bẫy có thể là việc nghĩ rằng dự án có thể bị hủy vào năm khác, nhưng câu nói rõ ràng chỉ ra rằng năm 1976 là thời điểm chính xác. Vì vậy, đáp án đúng là A.",
+      "evidence": "the project was cancelled for financial reasons two years later."
+    },
+    "q35": {
+      "explanation": "Người nói không đề cập đến bản đồ hoặc lộ trình cụ thể nào trong transcript. Do đó, không có thông tin để xác định đáp án cho câu hỏi này. Bẫy có thể là việc dựa vào thông tin từ các câu hỏi trước đó, nhưng không có dữ liệu nào để hỗ trợ cho câu hỏi này. Vì vậy, không thể xác định đáp án cho câu 35.",
+      "evidence": "(Không có thông tin liên quan đến bản đồ trong transcript)"
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Today, we look at the Channel Tunnel, which is the tunnel built between the south of England and the north of France. The Channel Tunnel's construction has been an easier option for travel back and forth between the United Kingdom and the continent. It has also helped to boost what was already a very lucrative second home market in France for British investors, and it is this that will be our area of interest today, after I have given you the background to the building of the tunnel.</p><p><strong>Speaker 1:</strong> While the history of the Channel Tunnel is controversial, to say the least, it has been identified as one of the seven wonders of the modern world by the American Society of Civil Engineers, and has the longest portion of any tunnel in the world below sea level. It is truly an engineering masterpiece, but few people will know that the first link between France and Britain was actually suggested back in 1802 when Albert Matthew suggested the creation of a towering mid-channel artificial landmass which would have depended on special horse-drawn carts to ship people between the countries.</p><p><strong>Speaker 1:</strong> Before construction commenced, many government ministers in Europe were excited about the opening up of trade, especially France, Belgium, Holland and the United Kingdom, as these countries are closest to where France and the United Kingdom would be connected. However, the latter country's government, the country being an island, was very apprehensive about opening up the country's borders and facing the potential problems which this could have brought.</p><p><strong>Speaker 1:</strong> Anyway, the first actual construction of a channel tunnel began in 1974 when work from both the French and the British side commenced. Unfortunately, the British government had a change of mind shortly after work began and the project was cancelled for financial reasons two years later.</p><p><strong>Speaker 1:</strong> 1985 was the money breakthrough when consultation started about continuing the project. After two years of consideration, the project restarted in 1987 and finally ended in 1993 when the Channel Tunnel was born and connections between France and Britain changed forever.</p><p><strong>Speaker 1:</strong> One of the decisions that had to be made was the route of the tunnel. Two towns on each side of the tunnel were in the running for being the sites for the French and British entrances for the tunnel.</p><p><strong>Speaker 1:</strong> Hythe in England had the support of many people but the bedrock below Folkestone was regarded as more suitable and so the latter was selected. On the French side, the Hythe-Boulogne route was by far the more popular choice, but after the British Folkestone selection, Calais had to be chosen as the Folkestone-Calais distance was slightly shorter.</p>"
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_66",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2066.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Hi Jamie, have you done a lot of reading for the seminar this week on gender and education? </p><p><strong>Speaker 3:</strong> Hey Alice, yeah, I've done quite a lot. It's all a bit confusing, to be honest. Do you want to sit down and have a chat about it? </p><p><strong>Speaker 2:</strong> Yes, that would be really useful, actually. What's been confusing you? </p><p><strong>Speaker 3:</strong> Well, it just seems like such a huge area. I mean, you can talk about gender in education in primary school up to university, and also there are such huge differences between countries. You know, the statistics are very different for, say, Japan, when compared with a developing country. </p><p><strong>Speaker 2:</strong> Well, yes, there's so much stuff about developing countries and education, especially with regards to gender, but that's not what this will be about. The seminar is about the differences in higher education enrollment for men and women. Haven't you looked at the reading list? </p><p><strong>Speaker 3:</strong> Oh, yes, I guess I just got carried away. So what have you read from the reading list? </p><p><strong>Speaker 2:</strong> Well, I started with the chapter in our set book, you know, the one written by Hall. I thought that was quite an interesting overview, although it was a little short. </p><p><strong>Speaker 3:</strong> Yes, I read that too. It didn't go into much detail, which was fine, but it was a good place to start. And it included lots of references and quotes to check. </p><p><strong>Speaker 2:</strong> I don't think we need to check all of that. It would be a bit too much. Anyway, after reading that chapter, I tried getting some of the other books on the list out of the library, but they were already on loan. To be honest, that always seems to be the case in our library. It's a good job we've got access to all of these online journals and articles, or we'd never be able to get any reading done. </p><p><strong>Speaker 3:</strong> Agreed. I've read a load of the articles and journals on the list. There are some really eye-opening statistics there. And when I first started thinking about this topic, I thought it would be about trying to get more women into university, but it seems like it's men that are underrepresented.</p>"
+    }
+  ]
+}

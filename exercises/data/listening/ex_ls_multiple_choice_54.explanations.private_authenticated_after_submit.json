@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_54",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q31": {
+      "explanation": "Người nói đang mô tả những vấn đề mà các khu vực cao tầng gây ra cho cư dân, bao gồm cảm giác xa lánh khỏi thiên nhiên và áp lực lên các hệ thống cơ sở hạ tầng. Thông tin giúp tìm ra đáp án là việc nhấn mạnh rằng các khu vực cao tầng gây ra cảm giác tách biệt với thiên nhiên (C) và yêu cầu nhiều tài nguyên và cơ sở hạ tầng (D). Paraphrase quan trọng ở đây là \"high-rise residential areas place a big strain on the provision and use of energy\" có thể hiểu là yêu cầu nhiều tài nguyên. Bẫy có thể là những lựa chọn khác không liên quan trực tiếp đến cảm giác tách biệt hoặc yêu cầu tài nguyên. Đáp án đúng vì nó phản ánh chính xác những vấn đề mà người nói đã nêu ra.",
+      "evidence": "In densely populated areas of high-rise buildings, people can feel alienated through the lack of contact with nature. Furthermore, high-rise residential areas place a big strain on the provision and use of energy, clean water, wastewater management, and transport systems."
+    },
+    "q32": {
+      "explanation": "Người nói đang mô tả dự án Vertical Forest và các yếu tố xanh mà nó bao gồm. Thông tin quan trọng giúp tìm ra đáp án là việc đề cập đến số lượng cây trồng trên ban công (B) và số lượng cây và bụi cây được trồng (D). Paraphrase quan trọng là \"900 trees\" và \"20,000 shrubs\" cho thấy sự phong phú của cây xanh trong dự án. Bẫy có thể là những lựa chọn không liên quan đến số lượng cây trồng. Đáp án đúng vì nó phản ánh chính xác những gì người nói đã trình bày về dự án.",
+      "evidence": "The balconies of these two high-rise blocks have been planted with 900 trees, ranging in height from 3.6 to 9 meters tall each. In addition, 20,000 shrubs have been planted."
+    },
+    "q33": {
+      "explanation": "Người nói đang giới thiệu về dự án Vertical Forest và vị trí của nó. Thông tin giúp tìm ra đáp án là việc đề cập đến hai khối nhà cao tầng (A) và số lượng cây trồng trên ban công (D). Paraphrase quan trọng là \"two residential tower blocks\" và \"900 trees\" cho thấy sự độc đáo của dự án. Bẫy có thể là những lựa chọn không liên quan đến số lượng hoặc vị trí. Đáp án đúng vì nó phản ánh chính xác những gì người nói đã trình bày về dự án.",
+      "evidence": "The Vertical Forest project comprises two residential tower blocks situated in a central district of Milan, about half an hour's walk from the Cathedral, another iconic piece of Milanese architecture."
+    },
+    "q34": {
+      "explanation": "Người nói đang mô tả diện tích của khu rừng nếu các cây được trồng trên mặt đất phẳng. Thông tin giúp tìm ra đáp án là diện tích 7,000 mét vuông (E) và việc cung cấp không gian cho cây xanh (B). Paraphrase quan trọng là \"7,000 square meters\" cho thấy quy mô của dự án. Bẫy có thể là những lựa chọn không liên quan đến diện tích hoặc không đúng với thông tin đã nêu. Đáp án đúng vì nó phản ánh chính xác những gì người nói đã trình bày về dự án.",
+      "evidence": "In total, if the trees and other plants on these two tower blocks were planted on flat ground, they would represent a forest that was 7,000 square meters in area."
+    },
+    "q35": {
+      "explanation": "Người nói đang mô tả những lợi ích môi trường mà cây xanh mang lại cho tòa nhà. Thông tin giúp tìm ra đáp án là việc cây xanh làm cho tòa nhà trở nên hấp dẫn hơn (A) và cải thiện chất lượng không khí trong thành phố (B). Paraphrase quan trọng là \"offer several environmental benefits\" cho thấy tác động tích cực của cây xanh. Bẫy có thể là những lựa chọn không liên quan đến lợi ích môi trường. Đáp án đúng vì nó phản ánh chính xác những gì người nói đã trình bày về lợi ích của cây xanh.",
+      "evidence": "Apart from making the buildings look more attractive, both to observers from the street and for residents looking out from inside, the trees offer several environmental benefits."
+    },
+    "q36": {
+      "explanation": "Người nói đang mô tả cách mà cây xanh giúp điều chỉnh độ ẩm và cung cấp bóng mát cho cư dân. Thông tin giúp tìm ra đáp án là việc cây xanh giúp cải thiện độ ẩm (E) và cung cấp bóng mát (B). Paraphrase quan trọng là \"regulate humidity naturally\" cho thấy tác động tích cực của cây xanh. Bẫy có thể là những lựa chọn không liên quan đến tác động của cây xanh. Đáp án đúng vì nó phản ánh chính xác những gì người nói đã trình bày về lợi ích của cây xanh.",
+      "evidence": "In addition, they regulate humidity naturally and offer shade in summer, thus reducing or eliminating the need for air conditioning."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 1:</strong> Welcome to the third in our series of lectures on innovative urban architecture. Today I'll be telling you about an award-winning pair of tall buildings called Bosco Verticale, or Vertical Forest, which are in the Italian city of Milan. </p><p><strong>Speaker 1:</strong> First, however, let me recap on some of the themes we have been studying, and then I can present this project's response to some of the typical problems of modern urban planning. </p><p><strong>Speaker 1:</strong> We have seen that, in the face of burgeoning population growth and increasing urbanization, cities have begun growing upwards instead of sprawling ever further horizontally. While this solution preserves greenbelt land around cities for agricultural or recreational purposes, it results in what are sometimes described as concrete jungles. </p><p><strong>Speaker 1:</strong> In densely populated areas of high-rise buildings, people can feel alienated through the lack of contact with nature. Furthermore, high-rise residential areas place a big strain on the provision and use of energy, clean water, wastewater management, and transport systems.</p><p><strong>Speaker 1:</strong> In addition to these factors, we have also touched upon the problem of soaring air pollution in cities, both worldwide and in Europe. </p><p><strong>Speaker 1:</strong> The project I shall be presenting today is an innovative attempt to address some of these problems while avoiding urban sprawl. </p><p><strong>Speaker 1:</strong> The Vertical Forest project comprises two residential tower blocks situated in a central district of Milan, about half an hour's walk from the Cathedral, another iconic piece of Milanese architecture. </p><p><strong>Speaker 1:</strong> One of the towers is 110 meters in height and has 26 floors, while the other is 76 meters high and comprises 18 floors. </p><p><strong>Speaker 1:</strong> The balconies of these two high-rise blocks have been planted with 900 trees, ranging in height from 3.6 to 9 meters tall each. In addition, 20,000 shrubs have been planted. </p><p><strong>Speaker 1:</strong> In total, if the trees and other plants on these two tower blocks were planted on flat ground, they would represent a forest that was 7,000 square meters in area.</p><p><strong>Speaker 1:</strong> Apart from making the buildings look more attractive, both to observers from the street and for residents looking out from inside, the trees offer several environmental benefits. </p><p><strong>Speaker 1:</strong> On an urban scale, they absorb carbon dioxide from the atmosphere, release oxygen, and cool the air. For residents of the buildings, they also filter small dust particles out of the air. </p><p><strong>Speaker 1:</strong> All of these are helpful processes in Milan, which features among the top 20 European cities afflicted with air pollution. </p><p><strong>Speaker 1:</strong> In addition, they regulate humidity naturally and offer shade in summer, thus reducing or eliminating the need for air conditioning. </p><p><strong>Speaker 1:</strong> A further benefit is that they reduce noise pollution.</p>"
+}

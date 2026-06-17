@@ -1,0 +1,95 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_short_answer_07",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "short_answer",
+  "category_id": "short_answer",
+  "title": "Short Answer - Exercise 7",
+  "duration_seconds": 0,
+  "content": {
+    "title": "Skiing's Effect on the Environment",
+    "content_html": "<h1>SHORT ANSWER 07</h1>\n<h2>Skiing's Effect on the Environment</h2>\n<p>Skiing is one of the world’s most popular winter sports. With ever-increasing numbers of people taking part, questions have been raised about the effect skiing has on the mountain environments where it takes place. Most skiing today is divided into two disciplines. Firstly, there is on-piste skiing, which is done on prepared routes with controlled amounts of snow. The other form is off-piste skiing, which involves leaving the prepared tracks and skiing in natural surroundings.</p>\n<p>Many skiers now seek the delights of off-piste skiing on untouched snow through forests, but this pleasure comes at a significant cost to the environment. Young mountain trees have a difficult life, requiring 30 to 50 years to grow a mere four metres. They have a growing season of only three months and have to suffer intense cold, heat, frosts and thaws as well as acid rain, air pollution and viruses. Skiers frequently exacerbate the situation, as the edges of a ski are sharp enough to break the bark of a young tree and destroy buds, thereby preventing the growth of any new shoots. High altitude forest is an essential regulator of the mountain climate, and damage of this type can have serious long-term effects.</p>\n<p>Off-piste skiing can also cause damage to fauna; mountain animals unaccustomed to human contact instinctively panic and run so hard to avoid skiers that they weaken themselves in the deep snow. These animals’ instinct is to keep on running, even if exhaustion finally kills them. Supporters of skiing claim that most animals avoid areas with skiers and many resorts say they protect wildlife by fencing off ski slopes and areas of hibernation; however, this fencing requires never-ending care and upkeep, which increase costs. In many resorts, sensitive mountain areas such as breeding and tree plantation zones are simply left undefended against off-piste skiers, as their owners are unwilling to pay to install and maintain the fencing.</p>\n<p>Some people maintain that off-piste skiing is a sustainable activity and that ecologists overstate the issues. Given the revenue that resorts earn from skiers, even critics of skiing realise that prohibiting off-piste skiing everywhere is unrealistic. The most effective way ahead is a mixture of compromise and education. Resort developers and forest managers must agree on banning skiing in sensitive areas and utilising less vulnerable areas for resorts. Resorts must ensure that all skiers are informed of areas to avoid, and that closed areas are clearly signposted. In these ways, damage to mountain environments can be minimised.</p>\n<p>Off-piste skiing is not the only source of problems, however. In times of low snowfall, resort operators are increasingly turning to the use of artificial snow. This is made by snow cannons spraying water at great pressure into the cold mountain air, as a result of which the water freezes and then falls as snow. To obtain good-quality artificial snow, bacteria are frequently mixed with the water to form better snowflakes. The long-term environmental effects of this are still uncertain. However, the manufacture of artificial snow is costly and uses large amounts of water, the same water which often shelters rare species of animal and which in itself is a commodity. According to some sources, one day’s use of snow cannons in a busy resort can consume as much water as a small town in two days. Water companies have stated that this can affect water supplies to ordinary households in the areas around snow resorts.</p>\n<p>Water for artificial snow can come from various sources. Natural lakes can be used, but environmentalists often disapprove of using this type of water source. Accordingly, the creation of an artificial lake sometimes becomes necessary. If this is well planned, it may also serve as a reservoir for fire-fighting water.</p>\n<p>Artificial lakes need maintenance so that they do not affect the environment. As they usually lack the water flow of natural lakes and therefore do not get enough oxygen, carbon dioxide levels in the water build up and create a significant increase in algae. The resulting byproducts of these tiny plant organisms become poisonous over time and can kill any introduced fish or other animals. When the water is used to create artificial snow, it can spread this poison onto the land as well. To prevent low oxygen levels in artificial lakes, it is possible to aerate the bottom water. Aeration is done by using a small turbine on the lake bottom that creates compressed air. This air continuously moves large volumes of low oxygen water from the bottom to the surface of the lake. When the entire lake is oxygenated, fish are able to feed on small organisms in all parts of the lake. This method of aeration limits the growth of algae by reducing the release of nutrients from lake sediments. The benefits include improved water quality and clarity, the prevention of fish death and a reduced occurrence of destructive algal growth, disease and odour.</p>\n<p>Whatever one’s views on skiing and how bad it is for mountain environments are, it is clear that skiing is here to stay. In fact, many ski resorts do exhibit concern for the environment and are open to suggestions on how they can help protect the flora and fauna that depend on mountain ecosystems. Environmentalists and resorts must educate each other in order to create places where people can have fun and where nature is protected.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_short_answer_07.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_short_answer_07.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "short_answer",
+          "skill_tags": [
+            "rd_short_answer"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 33 - 37</strong></p>\n<p>Answer the questions. Use <strong>NO MORE THAN TWO WORDS</strong> from the text for each answer.</p>\n<p>33 Which bodies should be responsible for educating skiers in terms of where they should not ski?</p>\n<p>34 What are often combined with water to produce improved artificial snow using snow cannons?</p>\n<p>35 Which organisations have warned that snow cannon use could affect people living close to resorts?</p>\n<p>36 What is the other possible use stated for the artificial snow water collected in an artificial reservoir lake?</p>\n<p>37 What can low oxygen levels in artificial lakes cause a growth of?</p>",
+          "items": [
+            {
+              "question_id": "q33",
+              "number": 33,
+              "prompt_html": "Which bodies should be responsible for educating skiers in terms of where they should not ski?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q34",
+              "number": 34,
+              "prompt_html": "What are often combined with water to produce improved artificial snow using snow cannons?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q35",
+              "number": 35,
+              "prompt_html": "Which organisations have warned that snow cannon use could affect people living close to resorts?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q36",
+              "number": 36,
+              "prompt_html": "What is the other possible use stated for the artificial snow water collected in an artificial reservoir lake?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q37",
+              "number": 37,
+              "prompt_html": "What can low oxygen levels in artificial lakes cause a growth of?",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            33,
+            37
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

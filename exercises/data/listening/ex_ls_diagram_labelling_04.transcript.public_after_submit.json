@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_diagram_labelling_04",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/DIAGRAM%20LABELLING%2004.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Let's now have a look at the simple yet effective design of a modern bollard. You can see on your handout a design for a rising or retractable bollard, which can prevent or permit access to areas as desired, such as when holding a parade. The idea is fairly simple. The bollard, which is made of heavy gauge materials, stands at 1.2 metres in its raised position above a foundation case of 1.5 metres depth. The state of the bollard, whether up or down, can be altered when necessary by actuating a hydraulic system through the pushing of a button on the access panel. This controls the process which acts through a conduit running just beneath the roadway. When the button is pushed, the bollard retracts into the galvanised casing below. </p><p><strong>Speaker 1:</strong> Well, now, let's move on to look at another fascinating example of street furniture design, the humble bin.</p>"
+    }
+  ]
+}

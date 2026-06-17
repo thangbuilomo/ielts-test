@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_summary_completion_03",
+  "module": "listening",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/SUMMARY%20COMPLETION%2003.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Our operation is basic. Only one classroom, only one teacher, only 17 pupils. There are basic materials and there are no computers. Computers are a pipe dream for 10 years in the future. But the future is what we look to. These girls can be the future in their country and it is their education that can lead them and their families out of poverty and into a life of opportunities. Already three of our girls have achieved places at the area capital's university and we are exploring avenues to continue to give financial support to these girls as their education continues. </p><p><strong>Speaker 1:</strong> Now, does anyone have any initial questions?</p>"
+    }
+  ]
+}

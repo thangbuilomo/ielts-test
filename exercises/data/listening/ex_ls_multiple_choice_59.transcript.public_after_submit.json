@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_59",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2059.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now, answer the questions on your screen. Hello, everybody. Welcome to Southdown Kayaking. I'm going to be your instructor today. Can I just ask if anybody has been kayaking before? </p><p><strong>Speaker 2</strong>: No? </p><p><strong>Speaker 1:</strong> OK, great. So everybody's a beginner. Today we're going to do a special type of kayaking called sit-on-top kayaking. Right, let me first give you some safety information and then I'll tell you a little more about what we're going to do today. You can see all the boats over there. They are kind of the same as canoes. They are made of the same plastic material and they are a similar shape. The biggest difference is that with kayaks, you sit on top of the boat, whereas you get into a canoe and your legs are covered in the boat. </p><p><strong>Speaker 2:</strong> This difference has both good points and bad. </p><p><strong>Speaker 1:</strong> Many people say it makes it easier to get on the boat and you also feel more free as your legs aren't trapped in the boat. It's also so much easier to get into the water in the beginning. But when lots of beginners start, one thing they don't like is that they feel more unstable. It does feel just like you are sat on the water and there's nothing to stop you falling in. </p><p><strong>Speaker 2:</strong> Let's talk about falling in. It will happen. At some point today, you're going to fall off your boat and into the water. So you need to know what to do. </p><p><strong>Speaker 1:</strong> Now, it is quite difficult to get back on the boat in deep water. So I don't suggest you try that today. Just stay by your boat and we'll come and help you. Avoid trying to swim to the land or you may get hit by a boat. Another thing I need to mention is the clothing we're wearing. Obviously, we all need life jackets and helmets on when we're in the water. </p><p><strong>Speaker 2:</strong> But I noticed some of you are wearing heavy trousers and coats. </p><p><strong>Speaker 1:</strong> Now, you might think they'll keep you warm in the boat, but when you do fall in, they are very heavy and will be difficult to move around in. So you will need to change into lightweight clothes.</p>"
+    }
+  ]
+}

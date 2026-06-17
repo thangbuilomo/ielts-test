@@ -1,0 +1,52 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_true_false_not_given_28",
+  "module": "reading",
+  "question_count": 9,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q28": {
+      "explanation": "Câu 28 khớp với thông tin ở đoạn 2. Ý chính trong bài là: \"These vocal folds are housed within the larynx, or voice box, which serves the dual purposes of producing sound and stopping food from entering your lungs. The muscles of the lungs, throat and body are precisely coordinated by the brain to produce intelligible speech. People stammer because their brain has trouble coordinating all these muscles.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "These vocal folds are housed within the larynx, or voice box, which serves the dual purposes of producing sound and stopping food from entering your lungs. The muscles of the lungs, throat and body are precisely coordinated by the brain to produce intelligible speech. People stammer because their brain has trouble coordinating all these muscles._"
+    },
+    "q29": {
+      "explanation": "Câu 29 có một số từ khóa gần với đoạn 3, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"Voice disorders affect the sound of the voice itself, like laryngitis, which can cause hoarseness or a temporary loss of voice. Finally, fluency disorders affect the flow of speaking. Stammering is a relatively rare fluency disorder affecting around 1 per cent of the adult population in the UK and 5 per cent of preschool children, according to The British Stammering Association.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "Voice disorders affect the sound of the voice itself, like laryngitis, which can cause hoarseness or a temporary loss of voice. Finally, fluency disorders affect the flow of speaking. Stammering is a relatively rare fluency disorder affecting around 1 per cent of the adult population in the UK and 5 per cent of preschool children, according to The British Stammering Association._"
+    },
+    "q30": {
+      "explanation": "Câu 30 mâu thuẫn với thông tin ở đoạn 4. Bài nêu: \"Developmental stammering is common in young children who are learning to speak, and it probably begins as their brain is developing in early life. Neurogenic stammering, on the other hand, usually begins in later life. It can be the result of brain injury such as that produced following a stroke or severe head trauma.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "Developmental stammering is common in young children who are learning to speak, and it probably begins as their brain is developing in early life. Neurogenic stammering, on the other hand, usually begins in later life. It can be the result of brain injury such as that produced following a stroke or severe head trauma._"
+    },
+    "q31": {
+      "explanation": "Câu 31 khớp với thông tin ở đoạn 2. Ý chính trong bài là: \"In order to understand stammering, we first need to understand how the voice is produced. The human voice begins when air is pushed from the lungs through the vocal folds, which are more commonly known as the vocal cords. These vocal folds are housed within the larynx, or voice box, which serves the dual purposes of producing sound and stopping food from entering your lungs.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "In order to understand stammering, we first need to understand how the voice is produced. The human voice begins when air is pushed from the lungs through the vocal folds, which are more commonly known as the vocal cords. These vocal folds are housed within the larynx, or voice box, which serves the dual purposes of producing sound and stopping food from entering your lungs._"
+    },
+    "q32": {
+      "explanation": "Câu 32 khớp với thông tin ở đoạn 6. Ý chính trong bài là: \"Scholars have researched the causes of stammering since as far back as the Ancient Greeks, although the most enlightening research is more recent. Current research using Magnetic Resonance Imaging (MRI) scanners has found that stammerers have an abnormality in part of the brain called Broca's area, which is involved in moving the mouth muscles and producing speech. Researchers have also found that stammering has a genetic element.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Scholars have researched the causes of stammering since as far back as the Ancient Greeks, although the most enlightening research is more recent. Current research using Magnetic Resonance Imaging (MRI) scanners has found that stammerers have an abnormality in part of the brain called Broca's area, which is involved in moving the mouth muscles and producing speech. Researchers have also found that stammering has a genetic element._"
+    },
+    "q33": {
+      "explanation": "Câu 33 mâu thuẫn với thông tin ở đoạn 3. Bài nêu: \"Voice disorders affect the sound of the voice itself, like laryngitis, which can cause hoarseness or a temporary loss of voice. Finally, fluency disorders affect the flow of speaking. Stammering is a relatively rare fluency disorder affecting around 1 per cent of the adult population in the UK and 5 per cent of preschool children, according to The British Stammering Association.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "Voice disorders affect the sound of the voice itself, like laryngitis, which can cause hoarseness or a temporary loss of voice. Finally, fluency disorders affect the flow of speaking. Stammering is a relatively rare fluency disorder affecting around 1 per cent of the adult population in the UK and 5 per cent of preschool children, according to The British Stammering Association._"
+    },
+    "q34": {
+      "explanation": "Câu 34 khớp với thông tin ở đoạn 7. Ý chính trong bài là: \"It is still a recommended strategy these days, although there are more effective strategies. Throughout history, people have also resorted to surgery to try and cure their stammering, including cutting the frenulum (the connective membrane which attaches the underside of the tongue to the floor of the mouth), stretching the tongue and cutting the nerves which control it. Given what we now know about stammering, it seems unlikely that these strategies were successful.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "It is still a recommended strategy these days, although there are more effective strategies. Throughout history, people have also resorted to surgery to try and cure their stammering, including cutting the frenulum (the connective membrane which attaches the underside of the tongue to the floor of the mouth), stretching the tongue and cutting the nerves which control it. Given what we now know about stammering, it seems unlikely that these strategies were successful._"
+    },
+    "q35": {
+      "explanation": "Câu 35 khớp với thông tin ở đoạn 7. Ý chính trong bài là: \"People have tried to find a cure for stammering since 300 BC. The Greek politician Demosthenes had several problems with his voice, including a stammer and trouble pronouncing the letter \"r\". He enlisted the help of actor Satyrus, who told him to put pebbles in his mouth to cure the stammer.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "People have tried to find a cure for stammering since 300 BC. The Greek politician Demosthenes had several problems with his voice, including a stammer and trouble pronouncing the letter \"r\". He enlisted the help of actor Satyrus, who told him to put pebbles in his mouth to cure the stammer._"
+    },
+    "q36": {
+      "explanation": "Câu 36 có một số từ khóa gần với đoạn 7, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"It is still a recommended strategy these days, although there are more effective strategies. Throughout history, people have also resorted to surgery to try and cure their stammering, including cutting the frenulum (the connective membrane which attaches the underside of the tongue to the floor of the mouth), stretching the tongue and cutting the nerves which control it. Given what we now know about stammering, it seems unlikely that these strategies were successful.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "It is still a recommended strategy these days, although there are more effective strategies. Throughout history, people have also resorted to surgery to try and cure their stammering, including cutting the frenulum (the connective membrane which attaches the underside of the tongue to the floor of the mouth), stretching the tongue and cutting the nerves which control it. Given what we now know about stammering, it seems unlikely that these strategies were successful._"
+    }
+  }
+}

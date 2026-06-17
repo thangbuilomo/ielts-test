@@ -1,0 +1,126 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_multiple_choice_30",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "mcq_single",
+  "category_id": "multiple_choice",
+  "title": "Multiple Choice - Exercise 30",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2030.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_multiple_choice_30.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_multiple_choice_30.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_multiple_choice_30.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "mcq_single",
+          "skill_tags": [
+            "ls_mcq_single"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>MULTIPLE CHOICE 30</h1><p><strong>Questions 31 - 35</strong></p><p>Choose the correct letter, <strong>A, B or C</strong>.</p><p>31 In what place are Burmese pythons predicted to be found soon?</p><table><thead><tr><th><strong>A</strong>    Northern Mexico</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    Tennessee</td><td></td></tr><tr><td><strong>C</strong>    India</td><td></td></tr></tbody></table><p>32 Which of the following is one of the reasons why Burmese pythons have established themselves so well in Florida?</p><table><thead><tr><th><strong>A</strong>    Florida’s laws on the import of exotic animals are less strict than other US states' laws.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    Florida has few natural predator that hunt Burmese pythons.</td><td></td></tr><tr><td><strong>C</strong>    Burmese pythons can thrive easily in Florida’s environment.</td><td></td></tr></tbody></table><p>33 On which of the following animal types does the Burmese python <strong>NOT</strong> feed?</p><table><thead><tr><th><strong>A</strong>    Birds</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    Other reptiles</td><td></td></tr><tr><td><strong>C</strong>    Small mammals</td><td></td></tr></tbody></table><p>34 Which technique has been used to study the numbers of the animals in the Everglades on which the Burmese pythons feed?</p><table><thead><tr><th><strong>A</strong>    Surveys of local farmers</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    Comparative studies of the numbers of animals killed on roads</td><td></td></tr><tr><td><strong>C</strong>    Trapping animals and extrapolating statistics</td><td></td></tr></tbody></table><p>35 Which animal, previously common in the Everglades, has research recently not been able to find there?</p><table><thead><tr><th><strong>A</strong>    The bobcat</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    The rabbit</td><td></td></tr><tr><td><strong>C</strong>    The raccoon</td><td></td></tr></tbody></table>",
+          "items": [
+            {
+              "question_id": "q31",
+              "number": 31,
+              "prompt_html": "In what place are Burmese pythons predicted to be found soon?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q32",
+              "number": 32,
+              "prompt_html": "Which of the following is one of the reasons why Burmese pythons have established themselves so well in Florida?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q33",
+              "number": 33,
+              "prompt_html": "On which of the following animal types does the Burmese python NOT feed?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q34",
+              "number": 34,
+              "prompt_html": "Which technique has been used to study the numbers of the animals in the Everglades on which the Burmese pythons feed?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q35",
+              "number": 35,
+              "prompt_html": "Which animal, previously common in the Everglades, has research recently not been able to find there?",
+              "response_type": "text"
+            }
+          ],
+          "options": [
+            {
+              "label": "A",
+              "text": "The bobcat"
+            },
+            {
+              "label": "B",
+              "text": "The rabbit"
+            },
+            {
+              "label": "C",
+              "text": "The raccoon"
+            }
+          ],
+          "question_range": [
+            31,
+            35
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_multiple_choice_30",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_multiple_choice_30",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_map_labelling_02",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Người nói đang mô tả vị trí của một quán rượu có tên là Red Lion, nằm ngay đối diện với một điểm dừng xe buýt. Thông tin này giúp tìm ra đáp án vì quán rượu là một trong những địa điểm nổi bật mà người nghe có thể dễ dàng nhận diện khi tìm kiếm. Paraphrase quan trọng ở đây là \"pub\" được nhắc đến là \"Red Lion\", giúp xác định rõ ràng địa điểm cần ghi nhãn. Không có bẫy trong câu này, vì thông tin được cung cấp rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng là F vì đây là quán rượu được nhắc đến gần điểm dừng xe buýt Greenfields.",
+      "evidence": "It's easy to find as there is a pub right across the road from it called the Red Lion."
+    },
+    "q12": {
+      "explanation": "Người nói đang chỉ ra vị trí của một điểm dừng xe buýt gần trung tâm mua sắm lớn nhất của Westley. Thông tin này giúp tìm ra đáp án vì nó xác định rõ ràng rằng điểm dừng xe buýt Five Ways nằm cạnh trung tâm mua sắm Westgate. Paraphrase quan trọng là \"main shopping mall\" và \"Westgate\", cho thấy sự liên kết giữa điểm dừng xe buýt và trung tâm mua sắm. Không có bẫy trong câu này, vì thông tin được cung cấp rất cụ thể và dễ hiểu. Đáp án đúng là E vì đây là trung tâm mua sắm được nhắc đến gần điểm dừng xe buýt Five Ways.",
+      "evidence": "This is next to Westley's main shopping mall, which is known as Westgate."
+    },
+    "q13": {
+      "explanation": "Người nói đang cung cấp thông tin về các địa điểm gần bến xe buýt cuối cùng, bao gồm thư viện Westley. Thông tin này giúp tìm ra đáp án vì nó chỉ rõ rằng thư viện nằm gần bến xe buýt Central Bus Station. Paraphrase quan trọng là \"Westley Library\" và \"just before the bus station\", cho thấy vị trí cụ thể của thư viện. Không có bẫy trong câu này, vì thông tin được đưa ra rất rõ ràng và không gây nhầm lẫn. Đáp án đúng là D vì đây là thư viện được nhắc đến gần bến xe buýt Central Bus Station.",
+      "evidence": "you can also find nearby the football and rugby clubs, the ice skating rink and Westley Library, which is just before the bus station."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Good morning. I'm happy to see so many of you have come to listen to me tell you about how to get to and around the town of Westley. I hope you've enjoyed your first breakfast here at the Lenton Hotel and that you're ready to venture out and explore our lovely town. </p><p><strong>Speaker 1:</strong> Now, we are around 15 miles out from Westley town centre, and we are located just outside the village of Tintin, across the road from the banks of Lake Lenton. The easiest way to get into the town of Westley is to take a bus. If you leave our gates, turn right and walk for about 200 metres, then you will find the bus stop. It's easy to find as there is a pub right across the road from it called the Red Lion. The bus stop is called Greenfields. </p><p><strong>Speaker 1:</strong> The bus takes 40 minutes to reach Westley and when you get there, you can choose from five stops. The first is White Bridge, which is rightly named as it is located near the white railway bridge over the River Twine. Get off here if you would like to visit the Westley Museum or the Sport Centre. </p><p><strong>Speaker 1:</strong> The next stop is called Five Ways. This is next to Westley's main shopping mall, which is known as Westgate. The next stop is City Stop and get off here if you want to wander around the town centre and shop or see our sights, such as the Town Hall, the Old Market Square or the Memorial Fountain. </p><p><strong>Speaker 1:</strong> The fourth stop is Main Station. You can access rail services here if you would like to visit any nearby towns. This stop is also near the town cinema. Finally, the bus terminates at the Central Bus Station. Here you can change to any bus that is on the Westley network and you can also find nearby the football and rugby clubs, the ice skating rink and Westley Library, which is just before the bus station.</p>"
+}

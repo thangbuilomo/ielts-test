@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_28",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q6": {
+      "explanation": "Người nói đang nói về gói cước cơ bản của dịch vụ Internet mà họ đang thảo luận. Thông tin giúp tìm ra đáp án là câu nói trực tiếp về giới hạn tải xuống của gói cơ bản. Paraphrase quan trọng ở đây là \"download limit\" (giới hạn tải xuống) và \"10 gigabytes\" (10 gigabyte). Bẫy có thể là việc người nghe có thể nhầm lẫn với các gói khác có giới hạn tải xuống khác nhau, nhưng trong trường hợp này, câu nói rõ ràng chỉ ra rằng gói cơ bản có giới hạn là 10 gigabyte. Vì vậy, đáp án đúng là 10.",
+      "evidence": "However, there is a download limit of 10 gigabytes per month."
+    },
+    "q7": {
+      "explanation": "Người nói đang đề cập đến gói cước tiêu chuẩn của dịch vụ Internet. Thông tin giúp tìm ra đáp án là câu nói trực tiếp về chi phí hàng tháng của gói này. Paraphrase quan trọng là \"£30 a month\" (30 bảng mỗi tháng). Không có bẫy trong câu này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng là 30.",
+      "evidence": "It's £30 a month."
+    },
+    "q8": {
+      "explanation": "Người nói đang mô tả gói cước cao cấp của dịch vụ Internet, trong đó có một lợi ích bổ sung là đường dây điện thoại miễn phí. Thông tin giúp tìm ra đáp án là cụm từ \"free phone line\" (đường dây điện thoại miễn phí). Paraphrase quan trọng là \"comes with\" (đi kèm với). Bẫy có thể là người nghe có thể nghĩ rằng có nhiều lợi ích khác, nhưng câu này rõ ràng chỉ ra rằng lợi ích chính là đường dây điện thoại miễn phí. Vì vậy, đáp án đúng là free phone line.",
+      "evidence": "However, this option also comes with a free phone line, so you can make calls from your house."
+    },
+    "q9": {
+      "explanation": "Người nói đang thảo luận về thời gian lắp đặt router cho khách hàng. Thông tin giúp tìm ra đáp án là câu nói trực tiếp về ngày lắp đặt. Paraphrase quan trọng là \"next free slot\" (thời gian trống tiếp theo) và \"Monday\" (thứ Hai). Bẫy có thể là người nghe có thể nghĩ rằng có nhiều ngày khác, nhưng câu này rõ ràng chỉ ra rằng thời gian trống tiếp theo là vào thứ Hai. Vì vậy, đáp án đúng là Monday.",
+      "evidence": "Our next free slot is Monday at 9am."
+    },
+    "q10": {
+      "explanation": "Người nói đang cung cấp thông tin về kỹ sư sẽ đến lắp đặt router. Thông tin giúp tìm ra đáp án là tên đầy đủ của kỹ sư. Paraphrase quan trọng là \"the engineer\" (kỹ sư) và \"Jonathan Brown\" (Jonathan Brown). Không có bẫy trong câu này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng là Brown.",
+      "evidence": "The engineer that will be coming is called Jonathan Brown."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> OK, perfect. So I've put all that information into the system, and it's suggested three possible packages.</p><p><strong>Speaker 1:</strong> OK. </p><p><strong>Speaker 2:</strong> The first is our basic package. It costs £24 a month, and that gives you download speeds of up to 17 megabytes per second. </p><p><strong>Speaker 1:</strong> Oh, that's great. However, there is a download limit of 10 gigabytes per month. </p><p><strong>Speaker 2:</strong> OK, that's not much. I think I want more than 10 gigabytes a month. What about the next option?</p><p><strong>Speaker 2:</strong> That would be our standard package. It is a little bit more expensive. It's £30 a month. It's the same speed as the first package, but you would have unlimited downloads.</p><p><strong>Speaker 1:</strong> Oh, that's good. And the third?</p><p><strong>Speaker 2:</strong> The third is our premium package. You get superfast broadband of up to 40 megabytes a second, and that's for just £35 a month. </p><p><strong>Speaker 1:</strong> Wow, that is fast. But is there a limit?</p><p><strong>Speaker 2:</strong> I'm afraid so. It's 50 gigabytes a month. However, this option also comes with a free phone line, so you can make calls from your house.</p><p><strong>Speaker 1:</strong> Hmm, 50 gigabytes would definitely be enough. However, I don't really need a phone line. Also, I don't want to spend too much, so I think I'll go for the second option.</p><p><strong>Speaker 2:</strong> Excellent. Now, when is the best time for an engineer to come and install the router?</p><p><strong>Speaker 1:</strong> Well, I'm in most evenings after six.</p><p><strong>Speaker 2:</strong> I'm afraid we can't do after six. Our next free slot is Monday at 9am. Would that be good for you?</p><p><strong>Speaker 1:</strong> No, sorry, I'll start work at 9. I could do Wednesday or Thursday at that time.</p><p><strong>Speaker 2:</strong> No, I'm sorry, sir. We don't have anything available then. How about an afternoon?</p><p><strong>Speaker 1:</strong> I'm busy every afternoon next week. I know, let's do the first one. I'll just book the morning off work.</p><p><strong>Speaker 2:</strong> Excellent. Monday at 9 it is then. </p><p><strong>Speaker 1:</strong> OK, great. The engineer that will be coming is called Jonathan Brown.</p><p><strong>Speaker 2:</strong> Great, I look forward to seeing him then. Is there anything else I can help you with?</p><p><strong>Speaker 1:</strong> No, that's all, thanks. Have a good day.</p><p><strong>Speaker 2:</strong> Bye.</p>"
+}

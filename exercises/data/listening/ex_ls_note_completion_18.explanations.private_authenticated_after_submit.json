@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_18",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q26": {
+      "explanation": "Người nói đang giải thích về yêu cầu để được chấp nhận vào Úc theo Chương trình Di cư. Thông tin giúp tìm ra đáp án là cụm từ \"skilled migrant\", tức là người di cư có tay nghề. Đây là một cách diễn đạt khác để nói về những người có kỹ năng chuyên môn, điều này rất quan trọng trong ngữ cảnh của chương trình di cư. Bẫy có thể là việc người nghe có thể nhầm lẫn với phần \"sponsored by a family member\", nhưng câu hỏi yêu cầu chỉ một trong hai lựa chọn. Đáp án này đúng vì nó phản ánh chính xác yêu cầu đầu tiên để được chấp nhận vào Úc.",
+      "evidence": "To be accepted into Australia under the Migration Program, a person must be a skilled migrant or sponsored by a family member that already lives in Australia."
+    },
+    "q27": {
+      "explanation": "Người nói đang mô tả một trong những thành phần của Chương trình Nhân đạo, đó là chương trình tái định cư ngoài khơi. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"offshore resettlement program\", cho thấy đây là một chương trình cụ thể nhằm hỗ trợ những người đang gặp khó khăn ở nước ngoài. Paraphrase quan trọng ở đây là \"assists people in humanitarian need\", cho thấy mục tiêu của chương trình. Không có bẫy trong câu này, vì thông tin được trình bày rõ ràng và không có sự nhầm lẫn nào. Đáp án này đúng vì nó phản ánh chính xác thành phần của Chương trình Nhân đạo.",
+      "evidence": "One component of the Humanitarian Program is the offshore resettlement program, which assists people in humanitarian need overseas for whom resettlement in another country is the only option."
+    },
+    "q28": {
+      "explanation": "Người nói đang cung cấp thông tin về quy mô của Chương trình Nhân đạo trong giai đoạn 2004-2005. Thông tin giúp tìm ra đáp án là con số \"13,000\", cho thấy số lượng chỗ có sẵn cho chương trình này. Paraphrase quan trọng là \"the size of the Humanitarian Program\", cho thấy đây là thông tin về quy mô chứ không phải về nội dung hay mục tiêu của chương trình. Không có bẫy trong câu này, vì thông tin được trình bày một cách trực tiếp và rõ ràng. Đáp án này đúng vì nó phản ánh chính xác số lượng chỗ trong Chương trình Nhân đạo.",
+      "evidence": "The Department of Immigration says that the size of the 2004-2005 Humanitarian Program is 13,000 places."
+    },
+    "q29": {
+      "explanation": "Người nói đang định nghĩa về người di cư bất hợp pháp theo luật di trú của Úc. Thông tin giúp tìm ra đáp án là cụm từ \"overstay visas\", tức là những người ở lại quá thời gian cho phép của visa. Paraphrase quan trọng là \"enter Australia without authority\", cho thấy rằng việc ở lại quá thời gian visa cũng là một hình thức vi phạm. Bẫy có thể là việc người nghe có thể nhầm lẫn với các hành vi khác như \"work without appropriate approval\", nhưng câu hỏi yêu cầu một hành vi cụ thể. Đáp án này đúng vì nó phản ánh chính xác một trong những cách mà người di cư bất hợp pháp có thể vi phạm luật.",
+      "evidence": "Illegal migrants under Australia's immigration laws are those who enter Australia without authority, overstay visas, work without appropriate approval, or have their visas cancelled."
+    },
+    "q30": {
+      "explanation": "Người nói đang giải thích về quy định của Luật Di trú của Úc liên quan đến những người không phải là công dân Úc đang ở bất hợp pháp. Thông tin giúp tìm ra đáp án là từ \"deported\", tức là bị trục xuất. Paraphrase quan trọng là \"must be detained\", cho thấy rằng những người này sẽ bị giam giữ trước khi bị trục xuất. Không có bẫy trong câu này, vì thông tin được trình bày rõ ràng và không có sự nhầm lẫn nào. Đáp án này đúng vì nó phản ánh chính xác quy định của luật về việc xử lý những người di cư bất hợp pháp.",
+      "evidence": "Australia's Migration Act in 1958 requires that all non-Australian citizens who are unlawfully in Australia be detained and that unless they are given permission to remain in Australia, they must be deported as soon as is practical."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. What's immigration like today? I hear a lot about it in the news.</p><p><strong>Speaker 2:</strong> Yes, it's become a very important issue in politics. There are currently two immigration programs that allow permanent migration to Australia. They are the Migration Program and the Humanitarian Program.</p><p><strong>Speaker 1:</strong> What's the difference?</p><p><strong>Speaker 2:</strong> To be accepted into Australia under the Migration Program, a person must be a skilled migrant or sponsored by a family member that already lives in Australia. The Department of Immigration says that the Migration Program for 2004-2005 has 120,000 places available for migrants, with a strong focus on attracting skilled people and people who agree to live in regional areas of Australia.</p><p><strong>Speaker 1:</strong> What about the other program? What's it called again?</p><p><strong>Speaker 2:</strong> The Humanitarian Program. It's designed for refugees and others in special humanitarian need. One component of the Humanitarian Program is the offshore resettlement program, which assists people in humanitarian need overseas for whom resettlement in another country is the only option. The other component is for those people already in Australia who arrived on temporary visas or in an unauthorized manner and who claim Australia's protection. The Department of Immigration says that the size of the 2004-2005 Humanitarian Program is 13,000 places.</p><p><strong>Speaker 1:</strong> What about illegal immigration? Do you know anything about that too?</p><p><strong>Speaker 2:</strong> Just a bit. That's what I'm working on now. Illegal migrants under Australia's immigration laws are those who enter Australia without authority, overstay visas, work without appropriate approval, or have their visas cancelled. Australia's Migration Act in 1958 requires that all non-Australian citizens who are unlawfully in Australia be detained and that unless they are given permission to remain in Australia, they must be deported as soon as is practical.</p><p><strong>Speaker 1:</strong> Well, that sounds pretty good. I'm sure your presentation will be excellent.</p><p><strong>Speaker 2:</strong> Thanks, I hope so.</p>"
+}

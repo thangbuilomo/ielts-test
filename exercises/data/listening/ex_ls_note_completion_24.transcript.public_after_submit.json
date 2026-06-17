@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_24",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2024.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. After the reception rooms, we will pass into the library where you will see the family's collection of over 4,000 books, some of which are extremely rare and valuable. There is also a lot of the china for which Gatfield Park is so justly famous.</p><p><strong>Speaker 1:</strong> After the library, we will have a quick view of the billiard room. This is where the gentlemen of the house would play snooker or billiards in the evening and smoke their cigars and drink their brandies.</p><p><strong>Speaker 1:</strong> After the billiard room, we will go upstairs and look over the bedrooms and bathrooms. Again, we will have a window into the past, albeit a very wealthy past. You will see rooms decorated to the most lavish degree.</p><p><strong>Speaker 1:</strong> The most impressive is the master bedroom of Lord Gatfield, which is larger than the average family's floor space in their house. You will see the antique furniture, carpets and the superb view over the gardens.</p><p><strong>Speaker 1:</strong> When we have finished looking at the bedrooms and bathrooms, we will look at the behind the scenes areas that most people do not think about nowadays. For houses of this size, a large staff was required to clean, cook, serve and garden. These people had to live, work and sleep as well at Gatfield Park, so you will also see their rooms and the back corridors, kitchens, laundry rooms, storerooms, amongst others.</p><p><strong>Speaker 1:</strong> After the tour of the inside of Gatfield Park, you will be at liberty to wander around the gardens until 5 pm, which is when Gatfield Park closes. There are two small shops at the main gateway entrance.</p><p><strong>Speaker 1:</strong> If you get hungry, there is a small cafe that sells hot and cold food, along with drinks, and also a gift shop where you can buy souvenirs of the house and literature on the house and local area.</p>"
+    }
+  ]
+}

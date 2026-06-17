@@ -1,0 +1,47 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_rd_matching_sentence_endings_03",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 4,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q7": {
+      "answers": [
+        "F",
+        "... the issue of the heating up of the earth’s atmosphere."
+      ]
+    },
+    "q8": {
+      "answers": [
+        "B",
+        "... the discharge of synthetic chemicals into the atmosphere."
+      ]
+    },
+    "q9": {
+      "answers": [
+        "D",
+        "... the normal components of the earth’s atmosphere."
+      ]
+    },
+    "q10": {
+      "answers": [
+        "H",
+        ". 7 The thickness of the ozone layer varies with ... 8 An apocryphal BAS story claims that equipment was changed to verify ... 9 It is a common mistake to associate the ozone hole problem with ... 10 Common household appliances contribute to ... 11 The ozone layer is destroyed when CFCs react with ... 12 International agreements will eventually lead to ..."
+      ]
+    }
+  }
+}

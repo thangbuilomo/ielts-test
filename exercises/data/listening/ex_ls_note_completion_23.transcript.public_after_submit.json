@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_23",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2023.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> As you can imagine, I am not here today just to inform you about the school, but to ask for money. All money raised goes towards the ongoing operations of our school. Any monies raised will go towards funding the following: Mr. Mwanza's salary, classroom rental, teaching resources such as chalk, books, pens and textbooks, accommodation for girls staying away from their families and support for the girls' families. </p><p><strong>Speaker 1:</strong> The girls are often the breadwinner in the family, and if we take them away, this creates a hole in the family's finances. The families also often have to be the ones to care for the girls' children, so you can see that the commitment of the families towards their daughters' education is also immense.</p>"
+    }
+  ]
+}

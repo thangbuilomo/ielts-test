@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_68",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2068.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1 (Amanda):</strong> Hello everyone. Welcome to River Avon Adventures. My name's Amanda, and in a few moments, you'll be getting into our kayaks and going out on the River Avon. </p><p>Speaker 1 (Amanda): Now, what's great about the boats you'll be in today is that once you're in and seated, you'll very quickly notice that there's plenty of space to move your legs around in, so you can position yourself in whatever way feels right for you. </p><p>Speaker 1 (Amanda): The boats are very safe, and people don't usually fall in, but in theory, it might happen. So you need to know what to do. </p><p>Speaker 1 (Amanda): Now, it is difficult to get back on the boat in deep water, so don't try that. Just stay by your boat and someone will come and sort you out. Avoid trying to swim to the land, or you may get in the way of someone else's boat. </p><p>Speaker 1 (Amanda): As for what to do with your phones while you're on the water, and whether they're best left in the car to safety, well, the car park isn't monitored. And if you did leave your phone behind, you'd end up with no photos of your day on the river. So we actually have little plastic boxes for you, like those ones for storing food. It's worth using one and putting your device in, just to be on the safe side. Phones don't float, of course, but these do. </p><p>Speaker 1 (Amanda): Now, we'd love to welcome you back to River Avon Adventures again in the future. We're open all year, even in winter. And it's not just kayaks that we rent out. We also have wetsuits, stand-up paddleboards and fishing gear, and binoculars if you want to try a bit of birdwatching. Lots of great stuff for you to have a go with. </p><p>Speaker 1 (Amanda): And the good news is we can offer discounts for next time you come to River Avon Adventures. All you have to do is tell your friends that you've enjoyed your trip with us, and when they join our mailing list and mention you, you'll get a voucher for 20% off.</p>"
+    }
+  ]
+}

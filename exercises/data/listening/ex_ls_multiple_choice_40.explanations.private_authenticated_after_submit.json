@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_40",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q35": {
+      "explanation": "Người nói đang mô tả lý do tại sao Allan O'Dell quyết định sử dụng quảng cáo bên đường. Ông nhận thấy rằng các doanh nghiệp địa phương đang gia tăng doanh thu nhờ việc đặt biển quảng cáo dọc theo các tuyến đường cao tốc. Thông tin giúp tìm ra đáp án là việc O'Dell quyết định sử dụng quảng cáo bên đường để tăng doanh số bán hàng của mình. Paraphrase quan trọng ở đây là \"tăng doanh số\" và \"quảng cáo bên đường\". Bẫy có thể là sự nhầm lẫn giữa việc quảng cáo là \"rẻ nhất\" hay \"không ai khác đã thử\". Tuy nhiên, lý do chính xác là O'Dell đã thấy rằng những người khác đang cải thiện doanh số của họ thông qua quảng cáo này.",
+      "evidence": "He decided that he could increase his sales by putting up sets of signs, five in a set."
+    },
+    "q36": {
+      "explanation": "Người nói đang nói về những quảng cáo đầu tiên của Allan O'Dell và sự thành công ban đầu của chúng. Thông tin giúp tìm ra đáp án là việc doanh số đã tăng ngay lập tức, cho thấy quảng cáo đầu tiên của ông là thành công. Paraphrase quan trọng là \"doanh số tăng\" và \"không làm ông hài lòng\". Bẫy có thể là sự nhầm lẫn với các từ như \"nhàm chán\" hoặc \"quá xa\". Tuy nhiên, lý do chính xác là mặc dù doanh số tăng, O'Dell vẫn không hài lòng với cách tiếp cận ban đầu của mình.",
+      "evidence": "Sales began to increase at once, but that did not satisfy him."
+    },
+    "q37": {
+      "explanation": "Người nói đang mô tả loại quảng cáo thứ hai mà O'Dell đã thử nghiệm, đó là quảng cáo có tính hài hước và vần điệu. Thông tin giúp tìm ra đáp án là việc O'Dell tin rằng người lái xe sẽ thích những quảng cáo vui nhộn sau những giờ lái xe nhàm chán. Paraphrase quan trọng là \"vần điệu và hài hước\". Bẫy có thể là sự nhầm lẫn với việc quảng cáo chỉ trích mọi người. Tuy nhiên, lý do chính xác là quảng cáo thứ hai đã mang lại sự vui vẻ cho người xem.",
+      "evidence": "Perhaps after hours of monotonous driving, they would appreciate a touch of rhyme and humor."
+    },
+    "q38": {
+      "explanation": "Người nói đang nói về quyết định của công ty O'Dell khi ngừng quảng cáo bên đường. Thông tin giúp tìm ra đáp án là việc công ty đã quyết định ngừng quảng cáo vì nó không còn hiệu quả. Paraphrase quan trọng là \"ngừng quảng cáo\" và \"không còn hiệu quả\". Bẫy có thể là sự nhầm lẫn với việc quảng cáo trở nên lỗi thời. Tuy nhiên, lý do chính xác là sự phê bình ngày càng tăng về loại quảng cáo này đã ảnh hưởng đến quyết định của công ty.",
+      "evidence": "the company phased out its roadside advertising."
+    },
+    "q39": {
+      "explanation": "Người nói đang mô tả mục đích chính của dự luật mà Tổng thống Lyndon Johnson đã đưa ra. Thông tin giúp tìm ra đáp án là việc dự luật nhằm cải thiện cảnh quan, điều này cho thấy mục đích không phải là ngăn chặn quảng cáo mà là làm cho cảnh quan đẹp hơn. Paraphrase quan trọng là \"cải thiện cảnh quan\". Bẫy có thể là sự nhầm lẫn với việc dự luật nhằm ngăn chặn quảng cáo. Tuy nhiên, lý do chính xác là dự luật này nhằm làm cho các con đường và vùng nông thôn trở nên hấp dẫn hơn.",
+      "evidence": "This bill authorized a federal-state campaign to improve the scenery on either side of major highways."
+    },
+    "q40": {
+      "explanation": "Người nói đang nói về lý do tại sao quảng cáo bên đường vẫn tiếp tục tồn tại mặc dù có luật mới. Thông tin giúp tìm ra đáp án là việc nhiều con đường không bị ảnh hưởng bởi luật liên bang, cho phép quảng cáo vẫn tiếp tục. Paraphrase quan trọng là \"không thuộc hệ thống đường cao tốc\". Bẫy có thể là sự nhầm lẫn với việc một số tiểu bang không nhận được trợ cấp liên bang. Tuy nhiên, lý do chính xác là các con đường không nằm trong hệ thống đường cao tốc không bị ảnh hưởng bởi luật này.",
+      "evidence": "Many roads were not part of the highway system, which was supported by federal grants."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Let's now look at a famous example. In 1925, Alan O'Dell, who owned a small company that made a brushless shaving cream, noticed that gas stations and other local businesses were increasing trade by putting up advertising signs along the nation's highways. He decided that he could increase his sales by putting up sets of signs, five in a set. They would not have to be big, and a short line on each one would do. </p><p><strong>Speaker 1:</strong> At first, O'Dell tried the hard sell approach. Sales began to increase at once, but that did not satisfy him. Motorists see these signs, he told himself, at remote places on the highway. Perhaps after hours of monotonous driving, they would appreciate a touch of rhyme and humor. They would indeed. </p><p><strong>Speaker 1:</strong> It was not long before the catchy Burma Shave signs, some ironic, some cynical, some absurd, but all of them funny, caught the fancy of nearly everyone, including those people usually critical of advertising. These signs continued as the advertising medium of the company for 35 years. </p><p><strong>Speaker 1:</strong> And then, when cars traveled too fast to take in these messages, more than a dozen words painted in rather small letters, the company phased out its roadside advertising. Perhaps a growing criticism of this sort of advertising, which interfered with highway scenery, also influenced the company's decision. </p><p><strong>Speaker 1:</strong> By late 1965, this criticism resulted in President Lyndon Johnson's Highway Beautification Bill. This bill authorized a federal-state campaign to improve the scenery on either side of major highways, to conceal or remove junkyards, and to put billboards sufficiently far back from the highway so that they would not interfere with the view. </p><p><strong>Speaker 1:</strong> States that did not comply with the bill could lose 10% of their federal highway grant. But this was not the end of the billboard industry. Many roads were not part of the highway system, which was supported by federal grants, and these roads were not affected by the law, and nor were signs in commercial and industrial areas. </p><p><strong>Speaker 1:</strong> Now let's look at some of the advertising developments in Europe.</p>"
+}

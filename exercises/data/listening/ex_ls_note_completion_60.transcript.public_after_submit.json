@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_60",
+  "module": "listening",
+  "question_count": 10,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2060.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You will hear part of a lecture for electrical engineering students about the history of plasma screen televisions. You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 1:</strong> So often, when we look at the history of technology, we see products that seemed to be cutting-edge for a time, but were soon superseded and replaced by something newer and better. One such example is the plasma TV, which was popular in the early 2000s until LCD and OLED TVs arrived on the scene and effectively made old plasma TVs obsolete.</p><p><strong>Speaker 1:</strong> Just to quickly explain the technology, a plasma screen features millions of cells filled with gas packed in between two sheets of glass. When these are charged, they light up and collectively form the image on the screen. So I'm going to trace the rapid rise and fall of the plasma television.</p><p><strong>Speaker 1:</strong> Its origins date back to the 1960s, when university staff were trying to come up with a way of getting a high-quality visual display that could be used for educational purposes. And for this reason, they produced the first plasma screens. These large plasma screens were ideal for use in businesses, like hotels. If they wanted to convey details to guests about restaurant opening times or whatever, they'd stick one prominently in their lobby. They were also suited for clearly displaying numbers and so on in stock exchanges and places like that.</p><p><strong>Speaker 1:</strong> Plasma also started to break through in the domestic television market as they had a number of key selling points. Now bear in mind that before the arrival of plasma, the TV set in a person's home would have effectively been a piece of furniture, taking up space on the floor or on top of something else. But plasma changed all that and meant that for the first time, TVs could be wall-mounted, which was a great way of saving space.</p><p><strong>Speaker 1:</strong> Another improvement was connected to the way people watched. With older TVs, the viewer had to be looking pretty much from directly in front for the picture to be clear. With plasma, that was no longer an issue as the image was great when viewed at a wider range of angles, which effectively made it feasible for larger numbers of people to watch TV together, even in a small room.</p><p><strong>Speaker 1:</strong> The technology could display movement without any blur and meant that image quality always remained absolutely sharp. So it delivered what, at the time, was considered an unrivalled viewing experience. And so from about 2000 onwards, plasma TVs gained popularity. Consumers benefited from an economy of scale as prices dropped. Plus the screens were getting thinner every time a new model was released, down by 75% in the five-year period between 2006 and 2011.</p><p><strong>Speaker 1:</strong> Having said all that, not everyone was won over by plasma. One drawback is that the plasma technology couldn't yield such intense colours as other kinds of TV have been able to. This was a particular issue for sport, which would often be broadcast during daylight hours, meaning that the image quality wasn't so impressive. To really get the benefit, you'd need to be in a room with blackout curtains. For similar reasons, it was also argued that plasma TVs rather underperformed and weren't really able to sell themselves when showrooms had them out on display. Again, because the TVs couldn't really compete so well with the ambient brightness levels during the hours of daylight.</p><p><strong>Speaker 1:</strong> Anyway, before long, the next generation of TVs arrived, the OLED. One selling point of these was that they used far less energy than the amount consumed by plasma TVs. And it may have been this, more than anything else, that spelled the beginning of the end for plasma. They'd had a few strong years and purchase numbers had peaked worldwide in 2010, but consumers were now ready for something else. </p><p><strong>Speaker 1:</strong> In 2014, Panasonic, LG and Samsung all withdrew them from production. Having so recently been a must-have gadget, the plasma TV was consigned to history.</p>"
+    }
+  ]
+}

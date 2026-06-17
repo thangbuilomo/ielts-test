@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_flow_chart_completion_03",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q37": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn G, bài viết nêu: \"During harvesting, the ripe beans are first picked from the branches. Pickers can selectively pick 250 - 300 pounds of coffee cherries a day. At the end of the day, the pickers bring their heavy burlap bags to pulping mills where the coffee cherries can be pulped (or wet milled).\". Cụm wet milled khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "During harvesting, the ripe beans are first picked from the branches. Pickers can selectively pick 250 - 300 pounds of coffee cherries a day. At the end of the day, the pickers bring their heavy burlap bags to pulping mills where the coffee cherries can be pulped (or wet milled)._"
+    },
+    "q38": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn G, bài viết nêu: \"At the end of the day, the pickers bring their heavy burlap bags to pulping mills where the coffee cherries can be pulped (or wet milled). The pulped beans then rest, covered in pure rainwater to ferment overnight. The next day the wet beans are hand-distributed on the drying floor to be sun dried.\". Cụm overnight khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "At the end of the day, the pickers bring their heavy burlap bags to pulping mills where the coffee cherries can be pulped (or wet milled). The pulped beans then rest, covered in pure rainwater to ferment overnight. The next day the wet beans are hand-distributed on the drying floor to be sun dried._"
+    },
+    "q39": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn G, bài viết nêu: \"To make sure they dry evenly, the beans have to be raked many times during this drying time. Two weeks later the sun-dried beans, now called parchment, are scooped up, bagged and taken to be milled. Huge milling machines then remove the parchment and silver skin, a process that renders the green beans suitable for roasting.\". Cụm raked khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "To make sure they dry evenly, the beans have to be raked many times during this drying time. Two weeks later the sun-dried beans, now called parchment, are scooped up, bagged and taken to be milled. Huge milling machines then remove the parchment and silver skin, a process that renders the green beans suitable for roasting._"
+    },
+    "q40": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn G, bài viết nêu: \"Two weeks later the sun-dried beans, now called parchment, are scooped up, bagged and taken to be milled. Huge milling machines then remove the parchment and silver skin, a process that renders the green beans suitable for roasting. These are then roasted according to the customers’ specifications and, after cooling, are packaged and dispatched to customers.\". Cụm customers’ specifications khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Two weeks later the sun-dried beans, now called parchment, are scooped up, bagged and taken to be milled. Huge milling machines then remove the parchment and silver skin, a process that renders the green beans suitable for roasting. These are then roasted according to the customers’ specifications and, after cooling, are packaged and dispatched to customers._"
+    }
+  }
+}

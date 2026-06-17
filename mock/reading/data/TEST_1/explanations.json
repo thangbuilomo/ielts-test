@@ -1,0 +1,415 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t1_rd",
+  "module": "reading",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>Answer: FALSE</strong></p><p><strong>Câu hỏi:</strong> All of the baobab species found on Madagascar are unique to the island.</p><p><strong>Vị trí thông tin:</strong> Đoạn 1.</p><p>_<strong>Câu chứa thông tin:</strong> Of the eight known species, six are found only there, while a seventh has made its way across the Mozambique Channel from mainland Africa with a certain amount of human help._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- All</p><p>- baobab species found on Madagascar</p><p>- unique to the island</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- all -&gt; eight known species / six / a seventh</p><p>- unique to the island -&gt; found only there</p><p>- not unique -&gt; made its way across the Mozambique Channel from mainland Africa</p><p><strong>Giải thích:</strong></p><p>Câu hỏi dùng từ tuyệt đối <strong>All</strong>, nghĩa là tất cả các loài baobab có mặt ở Madagascar đều phải là loài chỉ có ở đảo này. Khi gặp từ tuyệt đối trong dạng TRUE/FALSE/NOT GIVEN, ta cần kiểm tra xem bài có đưa ra ngoại lệ hay không.</p><p>Bài nói trong 8 loài đã biết, <strong>six are found only there</strong>, tức chỉ có 6 loài là đặc hữu của Madagascar. Ngay sau đó bài nêu thêm <strong>a seventh</strong> đã đi từ lục địa châu Phi sang Madagascar với sự hỗ trợ nhất định của con người. Như vậy không phải tất cả loài baobab ở Madagascar đều độc nhất của đảo.</p><p>Thông tin trong bài trái với câu hỏi, nên đáp án là <strong>FALSE</strong>.</p><p><strong>Dịch câu hỏi:</strong> Tất cả các loài baobab được tìm thấy ở Madagascar đều là loài riêng có của hòn đảo này.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Trong 8 loài đã biết, 6 loài chỉ được tìm thấy ở đó, trong khi loài thứ bảy đã đi qua eo biển Mozambique từ lục địa châu Phi với một mức độ hỗ trợ nhất định của con người._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "six are found only there; a seventh from mainland Africa"
+        }
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>Answer: NOT GIVEN</strong></p><p><strong>Câu hỏi:</strong> Adanson and Grandidier were the first foreign botanists to visit Madagascar.</p><p><strong>Vị trí thông tin:</strong> Đoạn 1.</p><p>_<strong>Câu chứa thông tin liên quan:</strong> ...Adansonia grandidieri, named after two great 19th-century French botanists, Michel Adanson and Alfred Grandidier._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- Adanson and Grandidier</p><p>- first foreign botanists</p><p>- visit Madagascar</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- Adanson and Grandidier -&gt; Michel Adanson and Alfred Grandidier</p><p>- botanists -&gt; French botanists</p><p>- first / visit Madagascar -&gt; không có thông tin</p><p><strong>Giải thích:</strong></p><p>Bài chỉ nói loài <strong>Adansonia grandidieri</strong> được đặt tên theo hai nhà thực vật học Pháp thế kỷ 19 là <strong>Michel Adanson</strong> và <strong>Alfred Grandidier</strong>. Đây là thông tin về nguồn gốc tên gọi.</p><p>Câu hỏi lại yêu cầu xác nhận họ có phải là <strong>the first foreign botanists to visit Madagascar</strong> hay không. Bài không nói họ là người đầu tiên, cũng không nói các nhà thực vật học nước ngoài khác đã đến Madagascar trước hay sau họ. Vì thiếu thông tin để so sánh thứ tự, ta không thể kết luận TRUE hay FALSE.</p><p>Vì vậy đáp án là <strong>NOT GIVEN</strong>.</p><p><strong>Dịch câu hỏi:</strong> Adanson và Grandidier là những nhà thực vật học nước ngoài đầu tiên đến thăm Madagascar.</p><p>_<strong>Dịch câu chứa thông tin liên quan:</strong> ...Adansonia grandidieri, được đặt tên theo hai nhà thực vật học Pháp vĩ đại của thế kỷ 19, Michel Adanson và Alfred Grandidier._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "named after two French botanists; không nói \"first\" hay \"visit\""
+        }
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>Answer: FALSE</strong></p><p><strong>Câu hỏi:</strong> The baobab can be found in most areas of Madagascar.</p><p><strong>Vị trí thông tin:</strong> Đoạn 2.</p><p>_<strong>Câu chứa thông tin:</strong> ...the majority of the island&#x27;s population will probably never see one - they only grow along the western margin of the island and not in the more populous central highlands._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- baobab</p><p>- found</p><p>- most areas of Madagascar</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- found -&gt; grow</p><p>- most areas -&gt; only grow along the western margin</p><p>- not most areas -&gt; not in the more populous central highlands</p><p><strong>Giải thích:</strong></p><p>Câu hỏi nói baobab có thể được tìm thấy ở <strong>most areas</strong>, tức hầu hết các khu vực của Madagascar. Nếu đúng, phạm vi phân bố của cây phải rộng.</p><p>Tuy nhiên bài nói rất rõ rằng chúng <strong>only grow along the western margin of the island</strong>. Từ <strong>only</strong> giới hạn phạm vi phân bố: chỉ mọc dọc rìa phía tây của đảo. Bài còn bổ sung rằng chúng <strong>not in the more populous central highlands</strong>, tức không có ở vùng cao nguyên trung tâm đông dân hơn.</p><p>Vì câu hỏi nói phạm vi rộng còn bài nói phạm vi hẹp, đáp án là <strong>FALSE</strong>.</p><p><strong>Dịch câu hỏi:</strong> Cây baobab có thể được tìm thấy ở hầu hết các khu vực của Madagascar.</p><p>_<strong>Dịch câu chứa thông tin:</strong> ...phần lớn dân số trên đảo có lẽ sẽ không bao giờ nhìn thấy một cây nào, vì chúng chỉ mọc dọc rìa phía tây của đảo và không mọc ở vùng cao nguyên trung tâm đông dân hơn._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "only grow along the western margin; not in central highlands"
+        }
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>Answer: TRUE</strong></p><p><strong>Câu hỏi:</strong> The landscape around the Avenue des Baobabs is the result of agricultural development.</p><p><strong>Vị trí thông tin:</strong> Đoạn 3.</p><p>_<strong>Câu chứa thông tin:</strong> While the trees themselves are natural enough, the surrounding landscape was created by humans. Back in the early 20th century, much of the Morondava plain was cleared for rice and sugar-cane fields._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- landscape around the Avenue des Baobabs</p><p>- result of</p><p>- agricultural development</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- landscape around -&gt; surrounding landscape</p><p>- result of -&gt; was created by</p><p>- agricultural development -&gt; cleared for rice and sugar-cane fields</p><p><strong>Giải thích:</strong></p><p>Câu hỏi nói cảnh quan quanh Avenue des Baobabs là kết quả của phát triển nông nghiệp. Ta cần kiểm tra xem bài có nói cảnh quan đó được tạo ra bởi hoạt động của con người liên quan đến nông nghiệp hay không.</p><p>Bài viết rằng bản thân các cây là tự nhiên, nhưng <strong>the surrounding landscape was created by humans</strong>. Ngay sau đó, bài giải thích cụ thể: phần lớn đồng bằng Morondava đã bị dọn sạch để làm <strong>rice and sugar-cane fields</strong>. Ruộng lúa và mía chính là hoạt động nông nghiệp.</p><p>Vì ý trong câu hỏi khớp với bài, đáp án là <strong>TRUE</strong>.</p><p><strong>Dịch câu hỏi:</strong> Cảnh quan quanh Avenue des Baobabs là kết quả của sự phát triển nông nghiệp.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Mặc dù bản thân các cây là tự nhiên, cảnh quan xung quanh lại do con người tạo ra. Vào đầu thế kỷ 20, phần lớn đồng bằng Morondava đã bị dọn sạch để làm ruộng lúa và ruộng mía._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "surrounding landscape created by humans; cleared for rice and sugar-cane fields"
+        }
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>Answer: TRUE</strong></p><p><strong>Câu hỏi:</strong> The baobab provides useful products for the local people.</p><p><strong>Vị trí thông tin:</strong> Đoạn 3.</p><p>_<strong>Câu chứa thông tin:</strong> However, many baobabs were spared because they are valuable as a food source and renewable building material..._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- baobab</p><p>- provides</p><p>- useful products</p><p>- local people</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- useful products -&gt; food source / renewable building material</p><p>- provides -&gt; valuable as</p><p>- local people -&gt; ngữ cảnh con người địa phương giữ lại cây khi khai phá đất</p><p><strong>Giải thích:</strong></p><p>Câu hỏi không yêu cầu bài phải dùng đúng từ <strong>products</strong>. Ta cần tìm các lợi ích cụ thể mà baobab đem lại cho con người.</p><p>Bài nói nhiều cây baobab được giữ lại vì chúng có giá trị như <strong>a food source</strong> và <strong>renewable building material</strong>. Nguồn thực phẩm và vật liệu xây dựng tái tạo đều là các sản phẩm hữu ích. Chính vì giá trị đó mà cây không bị chặt bỏ khi đất được dọn cho nông nghiệp.</p><p>Vì vậy câu hỏi phù hợp với thông tin trong bài, đáp án là <strong>TRUE</strong>.</p><p><strong>Dịch câu hỏi:</strong> Cây baobab cung cấp các sản phẩm hữu ích cho người dân địa phương.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Tuy nhiên, nhiều cây baobab đã được giữ lại vì chúng có giá trị như một nguồn thực phẩm và vật liệu xây dựng có thể tái tạo._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "valuable as food source and renewable building material"
+        }
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>Answer: FALSE</strong></p><p><strong>Câu hỏi:</strong> There is general agreement about the reasons for baobabs falling down.</p><p><strong>Vị trí thông tin:</strong> Đoạn 3.</p><p>_<strong>Câu chứa thông tin:</strong> The exact cause of the falling baobabs is uncertain, but some people think that the water used to irrigate the nearby fields is partly to blame._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- general agreement</p><p>- reasons</p><p>- baobabs falling down</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- reasons -&gt; cause</p><p>- falling down -&gt; falling baobabs</p><p>- not general agreement -&gt; exact cause is uncertain / some people think</p><p><strong>Giải thích:</strong></p><p>Câu hỏi nói có <strong>general agreement</strong>, tức có sự đồng thuận chung về nguyên nhân cây baobab đổ. Nếu câu này TRUE, bài phải cho thấy nguyên nhân đã được thống nhất.</p><p>Ngược lại, bài nói <strong>the exact cause ... is uncertain</strong>. Cụm này trực tiếp phủ nhận việc có sự đồng thuận chắc chắn. Bài chỉ nêu <strong>some people think</strong> nước tưới ruộng gần đó có thể là một phần nguyên nhân. <strong>Some people think</strong> là quan điểm của một số người, không phải sự đồng thuận chung.</p><p>Vì câu hỏi trái với bài, đáp án là <strong>FALSE</strong>.</p><p><strong>Dịch câu hỏi:</strong> Có sự đồng thuận chung về các lý do khiến cây baobab bị đổ.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Nguyên nhân chính xác của việc các cây baobab bị đổ vẫn chưa chắc chắn, nhưng một số người cho rằng nước dùng để tưới các cánh đồng gần đó có thể là một phần nguyên nhân._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "exact cause is uncertain; some people think"
+        }
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>Answer: water</strong></p><p><strong>Câu hỏi:</strong> Trees may be falling down because of <strong>7</strong> ______ from nearby fields.</p><p><strong>Vị trí thông tin:</strong> Đoạn 3.</p><p>_<strong>Câu chứa thông tin:</strong> ...some people think that the water used to irrigate the nearby fields is partly to blame._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- trees may be falling down</p><p>- because of</p><p>- nearby fields</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- trees may be falling down -&gt; falling baobabs</p><p>- because of -&gt; partly to blame</p><p>- nearby fields -&gt; nearby fields</p><p>- answer -&gt; water</p><p><strong>Giải thích:</strong></p><p>Đây là dạng điền từ <strong>ONE WORD ONLY</strong>, nên đáp án phải lấy nguyên một từ trong bài. Cụm trong câu hỏi <strong>because of ... from nearby fields</strong> tương ứng với <strong>partly to blame</strong> và <strong>nearby fields</strong> trong bài.</p><p>Bài nói một số người cho rằng <strong>the water used to irrigate the nearby fields</strong> là một phần nguyên nhân. Từ cần điền là danh từ chỉ thứ đến từ các cánh đồng gần đó và gây ảnh hưởng đến cây: <strong>water</strong>.</p><p>Vì vậy đáp án là <strong>water</strong>.</p><p><strong>Dịch câu hỏi:</strong> Cây có thể đang bị đổ vì <strong>nước</strong> từ các cánh đồng gần đó.</p><p>_<strong>Dịch câu chứa thông tin:</strong> ...một số người cho rằng nước dùng để tưới các cánh đồng gần đó có thể là một phần nguyên nhân._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "water used to irrigate nearby fields is partly to blame"
+        }
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>Answer: cyclones</strong></p><p><strong>Câu hỏi:</strong> Lone trees are at risk from <strong>8</strong> ______.</p><p><strong>Vị trí thông tin:</strong> Đoạn 3.</p><p>_<strong>Câu chứa thông tin:</strong> Lone trees separated from the surrounding forest are also susceptible to cyclones..._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- lone trees</p><p>- at risk from</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- lone trees -&gt; Lone trees separated from the surrounding forest</p><p>- at risk from -&gt; susceptible to</p><p>- answer -&gt; cyclones</p><p><strong>Giải thích:</strong></p><p>Câu hỏi yêu cầu một danh từ chỉ mối nguy hiểm đối với những cây đứng riêng lẻ. Trong bài, cụm <strong>at risk from</strong> được paraphrase bằng <strong>susceptible to</strong>, nghĩa là dễ bị ảnh hưởng bởi.</p><p>Bài nói rõ những cây đứng riêng lẻ <strong>are also susceptible to cyclones</strong>. Sau đó bài giải thích các cyclone có thể đạt tốc độ hơn 200 kph và dễ dàng bật gốc cây baobab cao 30 mét. Do đó đáp án là <strong>cyclones</strong>.</p><p><strong>Dịch câu hỏi:</strong> Những cây đứng đơn lẻ có nguy cơ bị ảnh hưởng bởi <strong>lốc xoáy/bão xoáy</strong>.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Những cây đứng lẻ, tách khỏi khu rừng xung quanh, cũng dễ bị ảnh hưởng bởi các cơn bão xoáy._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "lone trees are susceptible to cyclones"
+        }
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>Answer: farming</strong></p><p><strong>Câu hỏi:</strong> Land clearance: mainly by burning carried out to create space for <strong>9</strong> ______ activity.</p><p><strong>Vị trí thông tin:</strong> Đoạn 4.</p><p>_<strong>Câu chứa thông tin:</strong> The main threat to their survival is land clearance for farming... Burning is the usual method of clearing land..._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- land clearance</p><p>- burning</p><p>- create space for</p><p>- activity</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- land clearance -&gt; land clearance</p><p>- burning -&gt; Burning is the usual method</p><p>- create space for -&gt; for</p><p>- answer -&gt; farming</p><p><strong>Giải thích:</strong></p><p>Trong câu hỏi, cụm <strong>land clearance</strong> và <strong>burning</strong> giúp ta định vị rất nhanh ở đoạn 4. Bài nói mối đe dọa chính là <strong>land clearance for farming</strong>. Ngay câu sau, bài nói phương pháp thường dùng để dọn đất là <strong>burning</strong>.</p><p>Câu hỏi diễn đạt lại ý này thành: đốt đất để tạo không gian cho hoạt động nào. Từ trong bài phù hợp trực tiếp là <strong>farming</strong>.</p><p><strong>Dịch câu hỏi:</strong> Việc dọn đất, chủ yếu bằng cách đốt, được thực hiện để tạo không gian cho hoạt động <strong>nông nghiệp</strong>.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Mối đe dọa chính đối với sự sống còn của chúng là việc dọn đất để làm nông. Đốt là phương pháp thông thường để dọn đất._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "land clearance for farming; burning is usual method"
+        }
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>Answer: logging</strong></p><p><strong>Câu hỏi:</strong> Practice of <strong>10</strong> ______ makes seed germination difficult.</p><p><strong>Vị trí thông tin:</strong> Đoạn 4.</p><p>_<strong>Câu chứa thông tin:</strong> Human disturbance in the forest, such as logging, is also a problem. This practice may be promoting the rapid spread of shrubby undergrowth, which quickly fills in the bright forest gaps needed for baobab germination._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- practice</p><p>- seed germination</p><p>- difficult</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- practice -&gt; This practice</p><p>- seed germination -&gt; baobab germination</p><p>- makes difficult -&gt; fills in the bright forest gaps needed for</p><p>- answer -&gt; logging</p><p><strong>Giải thích:</strong></p><p>Câu hỏi hỏi <strong>practice</strong> nào làm việc nảy mầm của hạt khó hơn. Trong bài, câu trước nêu ví dụ về sự can thiệp của con người trong rừng: <strong>logging</strong>. Câu sau dùng cụm <strong>This practice</strong>, tức chính hoạt động vừa được nói đến.</p><p>Hoạt động logging thúc đẩy sự lan nhanh của cây bụi thấp, làm lấp các khoảng trống sáng trong rừng. Những khoảng trống sáng này lại cần cho <strong>baobab germination</strong>. Vì vậy logging gián tiếp làm việc hạt nảy mầm khó hơn.</p><p>Đáp án là <strong>logging</strong>.</p><p><strong>Dịch câu hỏi:</strong> Hoạt động <strong>khai thác gỗ</strong> làm việc nảy mầm của hạt trở nên khó khăn.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Sự xáo trộn của con người trong rừng, chẳng hạn như khai thác gỗ, cũng là một vấn đề. Hoạt động này có thể thúc đẩy sự lan nhanh của cây bụi thấp, nhanh chóng lấp đầy các khoảng trống sáng trong rừng vốn cần cho sự nảy mầm của baobab._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "logging; this practice fills bright forest gaps needed for germination"
+        }
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>Answer: animals</strong></p><p><strong>Câu hỏi:</strong> Disappearance of certain <strong>11</strong> ______ which dispersed baobab seeds.</p><p><strong>Vị trí thông tin:</strong> Đoạn 4.</p><p>_<strong>Câu chứa thông tin:</strong> Baum suggests that dispersal is being limited by the absence of two large, now extinct animals - a gorilla-sized lemur and the three-metre-tall elephant bird._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- disappearance</p><p>- certain</p><p>- dispersed baobab seeds</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- disappearance -&gt; absence / extinct</p><p>- dispersed baobab seeds -&gt; dispersal</p><p>- certain -&gt; two large</p><p>- answer -&gt; animals</p><p><strong>Giải thích:</strong></p><p>Câu hỏi nói đến sự biến mất của một nhóm từng giúp phát tán hạt baobab. Trong bài, ý này nằm ở câu nói việc phát tán hạt bị hạn chế bởi <strong>the absence of two large, now extinct animals</strong>.</p><p>Hai ví dụ được nêu là một loài vượn cáo lớn bằng khỉ đột và chim voi cao ba mét. Vì đề yêu cầu <strong>ONE WORD ONLY</strong>, ta không thể viết cả hai ví dụ. Từ bao trùm trong bài là <strong>animals</strong>.</p><p><strong>Dịch câu hỏi:</strong> Sự biến mất của một số <strong>loài động vật</strong> từng phát tán hạt baobab.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Baum cho rằng việc phát tán hạt đang bị hạn chế bởi sự vắng mặt của hai loài động vật lớn, hiện đã tuyệt chủng: một loài vượn cáo lớn bằng khỉ đột và chim voi cao ba mét._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "absence of two large, now extinct animals; dispersal limited"
+        }
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>Answer: maps</strong></p><p><strong>Câu hỏi:</strong> Making <strong>12</strong> ______ of areas of relatively undamaged baobab forest.</p><p><strong>Vị trí thông tin:</strong> Đoạn 5.</p><p>_<strong>Câu chứa thông tin:</strong> On his expeditions Bond works closely with local people to search for, and create maps of baobab distribution._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- Jim Bond&#x27;s efforts</p><p>- making</p><p>- areas of relatively undamaged baobab forest</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- making -&gt; create</p><p>- maps -&gt; maps</p><p>- areas -&gt; distribution</p><p>- relatively undamaged baobab forest -&gt; least damaged areas of baobab forest left in Madagascar</p><p><strong>Giải thích:</strong></p><p>Phần notes chuyển sang nỗ lực của <strong>Jim Bond</strong>. Trong bài, Bond dẫn các chuyến khảo sát đến rừng Mikea, một trong những khu vực rừng baobab ít bị tổn hại nhất còn lại ở Madagascar.</p><p>Sau đó bài nói ông làm việc với người địa phương để tìm kiếm và <strong>create maps of baobab distribution</strong>. Câu hỏi dùng <strong>making</strong>, bài dùng <strong>create</strong>. Từ cần điền là <strong>maps</strong>.</p><p><strong>Dịch câu hỏi:</strong> Lập <strong>bản đồ</strong> các khu vực rừng baobab tương đối ít bị hư hại.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Trong các chuyến khảo sát, Bond làm việc chặt chẽ với người dân địa phương để tìm kiếm và lập bản đồ phân bố baobab._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "create maps of baobab distribution"
+        }
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>Answer: book</strong></p><p><strong>Câu hỏi:</strong> Producing a <strong>13</strong> ______ showing importance of baobab in local culture.</p><p><strong>Vị trí thông tin:</strong> Đoạn 5.</p><p>_<strong>Câu chứa thông tin:</strong> He also plans to compile an illustrated children&#x27;s book of the many local folk-tales about the tree, hoping that national and international versions will help to spread the word about how important baobabs are in Malagasy culture._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- producing</p><p>- showing importance</p><p>- baobab</p><p>- local culture</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- producing -&gt; compile</p><p>- book -&gt; illustrated children&#x27;s book</p><p>- local culture -&gt; Malagasy culture</p><p>- showing importance -&gt; spread the word about how important</p><p><strong>Giải thích:</strong></p><p>Câu hỏi hỏi Bond dự định sản xuất thứ gì để thể hiện tầm quan trọng của baobab trong văn hóa địa phương. Bài nói ông dự định <strong>compile an illustrated children&#x27;s book</strong> về các truyện dân gian địa phương liên quan đến cây.</p><p>Mục đích của cuốn sách là giúp lan truyền thông điệp về tầm quan trọng của baobab trong <strong>Malagasy culture</strong>. Vì đề yêu cầu một từ, đáp án là <strong>book</strong>.</p><p><strong>Dịch câu hỏi:</strong> Sản xuất một <strong>cuốn sách</strong> thể hiện tầm quan trọng của baobab trong văn hóa địa phương.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Ông cũng dự định biên soạn một cuốn sách minh họa cho trẻ em về nhiều truyện dân gian địa phương liên quan đến loài cây này, hy vọng các phiên bản trong nước và quốc tế sẽ giúp lan truyền thông điệp về tầm quan trọng của baobab trong văn hóa Malagasy._</p><p>---</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "compile an illustrated children's book; important in Malagasy culture"
+        }
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>Answer: vii - An uncertain future</strong></p><p><strong>Câu hỏi:</strong> Heading for paragraph 1.</p><p><strong>Vị trí thông tin:</strong> Đoạn 1 của Passage 2.</p><p>_<strong>Câu chứa thông tin:</strong> There is even a belief that they will one day be obsolete..._</p><p><strong>Keyword trong heading:</strong></p><p>- uncertain</p><p>- future</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- future -&gt; one day</p><p>- uncertain -&gt; There is even a belief / will one day be obsolete</p><p>- coins may disappear -&gt; obsolete</p><p><strong>Giải thích:</strong></p><p>Đoạn này nói vị thế hiện tại và tương lai có thể xảy ra của tiền xu. Tác giả nói ngày nay người ta ít chú ý đến coins, xem chúng như tiền lẻ. Sau đó đoạn chuyển sang dự đoán rằng một ngày nào đó coins, cũng như tiền giấy hoặc tiền nhựa, có thể trở nên <strong>obsolete</strong>.</p><p>Trọng tâm đoạn không phải là cách làm xu, giá trị kim loại, hay vai trò lịch sử, mà là khả năng tiền xu không còn được dùng trong tương lai. Vì vậy heading phù hợp nhất là <strong>vii - An uncertain future</strong>.</p><p><strong>Dịch heading:</strong> Một tương lai không chắc chắn.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Thậm chí còn có niềm tin rằng một ngày nào đó chúng sẽ trở nên lỗi thời._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "one day be obsolete; electronic credits and debits"
+        }
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>Answer: xi - Significant records of past societies</strong></p><p><strong>Câu hỏi:</strong> Heading for paragraph 2.</p><p><strong>Vị trí thông tin:</strong> Đoạn 2 của Passage 2.</p><p>_<strong>Câu chứa thông tin:</strong> ...future archaeologists will scrutinise coins in order to learn about their distant ancestors. This is exactly the way ancient coins have informed us for over four millennia._</p><p>_<strong>Câu bổ sung:</strong> ...tiny but rich sources of documentary evidence about events and cultural attitudes..._</p><p><strong>Keyword trong heading:</strong></p><p>- significant records</p><p>- past societies</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- records -&gt; documentary evidence</p><p>- past societies -&gt; distant ancestors / ancient coins</p><p>- significant -&gt; rich sources</p><p><strong>Giải thích:</strong></p><p>Đoạn này nhấn mạnh coins là nguồn tư liệu bền vững để tìm hiểu quá khứ. Tác giả nói các nhà khảo cổ tương lai sẽ nghiên cứu coins để hiểu về tổ tiên xa xưa, giống như coins cổ đã cung cấp thông tin cho chúng ta suốt hơn 4 thiên niên kỷ.</p><p>Cụm quyết định là <strong>rich sources of documentary evidence about events and cultural attitudes</strong>. Điều này khớp với heading <strong>Significant records of past societies</strong>: coins là hồ sơ/tư liệu quan trọng về xã hội trong quá khứ.</p><p><strong>Dịch heading:</strong> Những tư liệu quan trọng về các xã hội trong quá khứ.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Các nhà khảo cổ trong tương lai sẽ xem xét kỹ tiền xu để tìm hiểu về tổ tiên xa xưa của họ. Đây chính xác là cách tiền xu cổ đã cung cấp thông tin cho chúng ta trong hơn bốn thiên niên kỷ._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "archaeologists scrutinise coins; documentary evidence about events and cultural attitudes"
+        }
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>Answer: v - A simpler, more efficient way of trading</strong></p><p><strong>Câu hỏi:</strong> Heading for paragraph 3.</p><p><strong>Vị trí thông tin:</strong> Đoạn 3 của Passage 2.</p><p>_<strong>Câu chứa thông tin:</strong> Before coins, trade was based on barter: the direct trade of commodities... Metal coins were far more portable..._</p><p>_<strong>Câu bổ sung:</strong> ...they could benefit enormously from a system that used coins, because it meant that they no longer had to carry goods with them to barter._</p><p><strong>Keyword trong heading:</strong></p><p>- simpler</p><p>- more efficient</p><p>- trading</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- trading -&gt; trade / barter</p><p>- simpler and efficient -&gt; far more portable / no longer had to carry goods</p><p>- coins -&gt; metal coins</p><p><strong>Giải thích:</strong></p><p>Đoạn này so sánh <strong>barter</strong> với việc dùng coins. Barter đòi hỏi cả hai loại hàng hóa phải hiện diện trực tiếp, còn coins thì dễ mang theo hơn và không bị hỏng như hàng hóa trên những chuyến biển dài.</p><p>Mặc dù coins cũng tạo nguy cơ bị trộm, ý chính của đoạn là người Hy Lạp nhận ra lợi ích lớn của hệ thống dùng coins: họ không còn phải mang hàng hóa đi để trao đổi. Do đó coins là một cách giao thương đơn giản và hiệu quả hơn.</p><p>Heading đúng là <strong>v - A simpler, more efficient way of trading</strong>.</p><p><strong>Dịch heading:</strong> Một cách giao thương đơn giản và hiệu quả hơn.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Trước khi có tiền xu, thương mại dựa trên hình thức trao đổi hàng hóa trực tiếp. Tiền xu bằng kim loại dễ mang theo hơn nhiều._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "barter required commodities; coins far more portable; no longer had to carry goods"
+        }
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>Answer: iv - Calculating what a coin was worth</strong></p><p><strong>Câu hỏi:</strong> Heading for paragraph 4.</p><p><strong>Vị trí thông tin:</strong> Đoạn 4 của Passage 2.</p><p>_<strong>Câu chứa thông tin:</strong> The value of coins was generally based on the intrinsic value of the metal they were made of... coins could be weighed to determine the amount of metal they contained..._</p><p>_<strong>Câu bổ sung:</strong> ...by measuring the amount of displacement when coins were immersed in water, it was possible to establish whether gold was alloyed with silver._</p><p><strong>Keyword trong heading:</strong></p><p>- calculating</p><p>- what a coin was worth</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- worth -&gt; value</p><p>- calculating -&gt; weighed / measuring</p><p>- coin -&gt; coins</p><p><strong>Giải thích:</strong></p><p>Đoạn này tập trung vào cách xác định giá trị tiền xu. Giá trị của coins dựa trên giá trị nội tại của kim loại, đặc biệt là bạc hoặc vàng. Vì vậy người ta có thể cân coins để xác định lượng kim loại bên trong.</p><p>Đoạn cũng nhắc đến Archimedes và cách đo lượng nước bị displaced để biết vàng có bị pha bạc hay không. Tất cả các chi tiết này đều xoay quanh việc kiểm tra và tính giá trị thật của coin.</p><p>Heading phù hợp nhất là <strong>iv - Calculating what a coin was worth</strong>.</p><p><strong>Dịch heading:</strong> Tính toán một đồng xu đáng giá bao nhiêu.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Giá trị của tiền xu thường dựa trên giá trị nội tại của kim loại làm ra chúng. Tiền xu có thể được cân để xác định lượng kim loại mà chúng chứa._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "value based on metal; weighed; purity; displacement in water"
+        }
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>Answer: ii - A form of regional promotion</strong></p><p><strong>Câu hỏi:</strong> Heading for paragraph 5.</p><p><strong>Vị trí thông tin:</strong> Đoạn 5 của Passage 2.</p><p>_<strong>Câu chứa thông tin:</strong> It was the Greeks who realised that coins could have a double function, as a unit of value and as a symbol of the identity of the city that issued them._</p><p>_<strong>Câu bổ sung:</strong> ...coins, which circulated around the trading world, were a way of advertising the qualities of each particular city-state._</p><p><strong>Keyword trong heading:</strong></p><p>- regional</p><p>- promotion</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- regional -&gt; city / city-state</p><p>- promotion -&gt; advertising</p><p>- identity -&gt; symbol of the identity</p><p><strong>Giải thích:</strong></p><p>Đoạn đầu có nhắc đến cách coins được làm bằng khuôn kim loại và vì khuôn nứt nên coins cùng thiết kế vẫn có nhiều biến thể. Tuy nhiên đó không phải ý chính cuối cùng của đoạn.</p><p>Ý trung tâm nằm ở phần tác giả nói người Hy Lạp hiểu rằng coins có hai chức năng: đơn vị giá trị và biểu tượng bản sắc của thành bang phát hành. Vì coins lưu thông trong thế giới thương mại, chúng trở thành cách <strong>advertising the qualities of each particular city-state</strong>.</p><p>Vì vậy heading <strong>A form of regional promotion</strong> là đúng: tiền xu quảng bá hình ảnh/vị thế của từng thành bang.</p><p><strong>Dịch heading:</strong> Một hình thức quảng bá địa phương/khu vực.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Người Hy Lạp nhận ra rằng tiền xu có thể có hai chức năng: vừa là đơn vị giá trị, vừa là biểu tượng bản sắc của thành phố phát hành chúng._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "symbol of identity; advertising qualities of each city-state"
+        }
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>Answer: ix - Unchanging coins signalled trustworthiness</strong></p><p><strong>Câu hỏi:</strong> Heading for paragraph 6.</p><p><strong>Vị trí thông tin:</strong> Đoạn 6 của Passage 2.</p><p>_<strong>Câu chứa thông tin:</strong> The beautiful features of the city&#x27;s patron, Athena... seem to have been repeated virtually unaltered for many years._</p><p>_<strong>Câu bổ sung:</strong> Perhaps this was because the Athenian currency had grown increasingly to be the international standard and, like the US dollar today, a uniform design implied integrity._</p><p><strong>Keyword trong heading:</strong></p><p>- unchanging coins</p><p>- signalled trustworthiness</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- unchanging -&gt; repeated virtually unaltered / uniform design</p><p>- trustworthiness -&gt; integrity</p><p>- coins -&gt; Athenian currency</p><p><strong>Giải thích:</strong></p><p>Đoạn này nói riêng về coins của Athens. Tác giả nhận xét thiết kế hình Athena và con cú gần như không thay đổi trong nhiều năm, dù Athens là quê hương của các nhà điêu khắc lớn.</p><p>Lý do được gợi ý là tiền Athens trở thành chuẩn quốc tế. Khi đó, <strong>a uniform design implied integrity</strong>. <strong>Integrity</strong> ở đây là sự đáng tin cậy/không gian lận. Vì thế thiết kế không đổi gửi tín hiệu rằng đồng tiền ổn định và đáng tin.</p><p>Heading đúng là <strong>ix - Unchanging coins signalled trustworthiness</strong>.</p><p><strong>Dịch heading:</strong> Tiền xu không thay đổi báo hiệu sự đáng tin cậy.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Có lẽ điều này là vì tiền Athens ngày càng trở thành chuẩn quốc tế và, giống như đồng đô la Mỹ ngày nay, một thiết kế thống nhất hàm ý sự đáng tin cậy._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "repeated virtually unaltered; uniform design implied integrity"
+        }
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>Answer: vi - Putting a face to famous historical names</strong></p><p><strong>Câu hỏi:</strong> Heading for paragraph 7.</p><p><strong>Vị trí thông tin:</strong> Đoạn 7 của Passage 2.</p><p>_<strong>Câu chứa thông tin:</strong> ...Greek coins [replaced] that head with the portrait of the reigning monarch..._</p><p>_<strong>Câu bổ sung:</strong> ...the features of many great Romans have survived and are known to modern generations..._</p><p><strong>Keyword trong heading:</strong></p><p>- face</p><p>- famous historical names</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- face -&gt; head / portrait / features</p><p>- famous historical names -&gt; reigning monarch / great Romans</p><p>- putting a face to -&gt; features have survived and are known</p><p><strong>Giải thích:</strong></p><p>Đoạn cuối nói về việc một mặt của coin từng có hình thần linh, sau đó được thay bằng chân dung của vua đang trị vì. Truyền thống này tiếp tục trong các chế độ quân chủ.</p><p>Phần quan trọng nhất là câu nói nhờ người La Mã tiếp nhận cách thiết kế coin của Hy Lạp, <strong>the features of many great Romans have survived</strong>. Nghĩa là các gương mặt của nhiều nhân vật La Mã nổi tiếng vẫn được các thế hệ hiện đại biết đến. Heading <strong>Putting a face to famous historical names</strong> khớp chính xác với ý này.</p><p><strong>Dịch heading:</strong> Gắn gương mặt với những tên tuổi lịch sử nổi tiếng.</p><p>_<strong>Dịch câu chứa thông tin:</strong> ...đặc điểm khuôn mặt của nhiều người La Mã vĩ đại đã tồn tại đến nay và được các thế hệ hiện đại biết đến._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "portrait of reigning monarch; features of great Romans survived"
+        }
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>Answer: A, C</strong></p><p><strong>Câu hỏi:</strong> Which TWO of these comments about ancient coins are made by the writer of the text?</p><p><strong>Vị trí thông tin:</strong> Đoạn 5.</p><p>_<strong>Câu chứa thông tin cho A:</strong> One of the distinctive features of coins, in fact, is that they are the work of anonymous craftsmen..._</p><p>_<strong>Câu chứa thông tin cho C:</strong> This explains the endless variety encountered in coins with the same designs because the moulds had to be remade repeatedly, by many different artisans._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- TWO comments</p><p>- ancient coins</p><p>- made by the writer</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- no record of names -&gt; anonymous craftsmen</p><p>- same design looked different -&gt; endless variety / same designs / moulds remade repeatedly</p><p><strong>Giải thích:</strong></p><p>Với dạng chọn TWO, ta cần kiểm từng lựa chọn theo bài.</p><p><strong>A - There is no record of the names of the coin makers</strong> đúng vì bài nói coins là sản phẩm của <strong>anonymous craftsmen</strong>. <strong>Anonymous</strong> nghĩa là không rõ tên, không được ghi danh.</p><p><strong>C - Coins with the same design often looked quite different</strong> đúng vì bài nói có <strong>endless variety</strong> ở các coins có cùng thiết kế. Lý do là khuôn thường nứt và phải được khắc lại nhiều lần bởi nhiều thợ khác nhau.</p><p>Các lựa chọn còn lại không đúng. Bài không nói coins không phổ biến trong thanh toán; ngược lại người Hy Lạp hưởng lợi từ hệ thống này. Bài cũng không so sánh Greek coins đẹp hơn Roman coins. Lựa chọn E nói đôi khi quá nhiều coins được sản xuất ở Hy Lạp, nhưng đoạn về lạm phát chỉ là giả định: nếu khai mỏ Hy Lạp ở quy mô lớn hơn thì có thể gây vấn đề tương tự Tây Ban Nha, chứ không nói điều đó đã xảy ra.</p><p><strong>Dịch câu hỏi:</strong> Hai nhận xét nào về tiền xu cổ được tác giả đưa ra trong bài?</p><p>_<strong>Dịch câu chứa thông tin:</strong> Một đặc điểm riêng của tiền xu là chúng là sản phẩm của những người thợ vô danh. Điều này giải thích sự đa dạng vô tận ở các đồng xu có cùng thiết kế, vì khuôn phải được làm lại nhiều lần bởi nhiều thợ khác nhau._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "anonymous craftsmen"
+        }
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>Answer: A, C</strong></p><p><strong>Câu hỏi:</strong> Which TWO of these comments about ancient coins are made by the writer of the text?</p><p><strong>Vị trí thông tin:</strong> Đoạn 5.</p><p>_<strong>Câu chứa thông tin cho A:</strong> One of the distinctive features of coins, in fact, is that they are the work of anonymous craftsmen..._</p><p>_<strong>Câu chứa thông tin cho C:</strong> This explains the endless variety encountered in coins with the same designs because the moulds had to be remade repeatedly, by many different artisans._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- TWO comments</p><p>- ancient coins</p><p>- made by the writer</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- no record of names -&gt; anonymous craftsmen</p><p>- same design looked different -&gt; endless variety / same designs / moulds remade repeatedly</p><p><strong>Giải thích:</strong></p><p>Với dạng chọn TWO, ta cần kiểm từng lựa chọn theo bài.</p><p><strong>A - There is no record of the names of the coin makers</strong> đúng vì bài nói coins là sản phẩm của <strong>anonymous craftsmen</strong>. <strong>Anonymous</strong> nghĩa là không rõ tên, không được ghi danh.</p><p><strong>C - Coins with the same design often looked quite different</strong> đúng vì bài nói có <strong>endless variety</strong> ở các coins có cùng thiết kế. Lý do là khuôn thường nứt và phải được khắc lại nhiều lần bởi nhiều thợ khác nhau.</p><p>Các lựa chọn còn lại không đúng. Bài không nói coins không phổ biến trong thanh toán; ngược lại người Hy Lạp hưởng lợi từ hệ thống này. Bài cũng không so sánh Greek coins đẹp hơn Roman coins. Lựa chọn E nói đôi khi quá nhiều coins được sản xuất ở Hy Lạp, nhưng đoạn về lạm phát chỉ là giả định: nếu khai mỏ Hy Lạp ở quy mô lớn hơn thì có thể gây vấn đề tương tự Tây Ban Nha, chứ không nói điều đó đã xảy ra.</p><p><strong>Dịch câu hỏi:</strong> Hai nhận xét nào về tiền xu cổ được tác giả đưa ra trong bài?</p><p>_<strong>Dịch câu chứa thông tin:</strong> Một đặc điểm riêng của tiền xu là chúng là sản phẩm của những người thợ vô danh. Điều này giải thích sự đa dạng vô tận ở các đồng xu có cùng thiết kế, vì khuôn phải được làm lại nhiều lần bởi nhiều thợ khác nhau._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "endless variety; same designs; moulds remade repeatedly"
+        }
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>Answer: civilisation</strong></p><p><strong>Câu hỏi:</strong> The ancient Greek <strong>23</strong> ______ was made up of many city-states which were spread over a large area.</p><p><strong>Vị trí thông tin:</strong> Đoạn 3.</p><p>_<strong>Câu chứa thông tin:</strong> Their civilisation, which was composed of dozens of city-states, was highly decentralised._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- ancient Greek</p><p>- made up of</p><p>- many city-states</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- made up of -&gt; was composed of</p><p>- many -&gt; dozens of</p><p>- city-states -&gt; city-states</p><p>- answer -&gt; civilisation</p><p><strong>Giải thích:</strong></p><p>Câu hỏi tóm tắt thông tin về Hy Lạp cổ đại. Cụm <strong>made up of many city-states</strong> tương ứng trực tiếp với <strong>was composed of dozens of city-states</strong> trong bài.</p><p>Từ đứng trước mệnh đề quan hệ trong bài là <strong>civilisation</strong>. Vì đề yêu cầu <strong>ONE WORD ONLY</strong>, đáp án là <strong>civilisation</strong>.</p><p><strong>Dịch câu hỏi:</strong> Nền <strong>văn minh</strong> Hy Lạp cổ đại được tạo thành từ nhiều thành bang trải rộng trên một khu vực lớn.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Nền văn minh của họ, vốn gồm hàng chục thành bang, có tính phi tập trung rất cao._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "Their civilisation was composed of dozens of city-states"
+        }
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>Answer: barter</strong></p><p><strong>Câu hỏi:</strong> Before coins, they had to do this through <strong>24</strong> ______.</p><p><strong>Vị trí thông tin:</strong> Đoạn 3.</p><p>_<strong>Câu chứa thông tin:</strong> Before coins, trade was based on barter: the direct trade of commodities._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- Before coins</p><p>- do this</p><p>- trading</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- Before coins -&gt; Before coins</p><p>- trade -&gt; trade</p><p>- through -&gt; was based on</p><p>- answer -&gt; barter</p><p><strong>Giải thích:</strong></p><p>Trong summary, <strong>do this</strong> thay cho việc trading/giao thương. Bài nói trước khi có coins, trade dựa trên <strong>barter</strong>, tức trao đổi hàng hóa trực tiếp.</p><p>Từ cần điền là danh từ nguyên văn trong bài: <strong>barter</strong>.</p><p><strong>Dịch câu hỏi:</strong> Trước khi có tiền xu, họ phải thực hiện việc này thông qua <strong>trao đổi hàng hóa</strong>.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Trước khi có tiền xu, thương mại dựa trên barter: trao đổi trực tiếp các loại hàng hóa._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "trade was based on barter"
+        }
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>Answer: silver</strong></p><p><strong>Câu hỏi:</strong> The Greeks had a plentiful supply of <strong>25</strong> ______ which they mined themselves.</p><p><strong>Vị trí thông tin:</strong> Đoạn 4.</p><p>_<strong>Câu chứa thông tin:</strong> At first this was mostly silver, and this meant that the discovery of silver mines on Greek territory actually increased the quantity of money they could produce._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- Greeks</p><p>- plentiful supply</p><p>- mined themselves</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- mined themselves -&gt; silver mines on Greek territory</p><p>- plentiful supply -&gt; increased the quantity of money they could produce</p><p>- answer -&gt; silver</p><p><strong>Giải thích:</strong></p><p>Summary nói người Hy Lạp có nguồn cung dồi dào của một chất mà họ tự khai thác. Trong bài, chất được nhắc đến là <strong>silver</strong>. Việc phát hiện các mỏ bạc trên lãnh thổ Hy Lạp làm tăng lượng tiền họ có thể sản xuất.</p><p>Vì vậy đáp án là <strong>silver</strong>.</p><p><strong>Dịch câu hỏi:</strong> Người Hy Lạp có nguồn cung <strong>bạc</strong> dồi dào mà họ tự khai thác.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Ban đầu, kim loại này chủ yếu là bạc, và điều này có nghĩa là việc phát hiện các mỏ bạc trên lãnh thổ Hy Lạp thực sự làm tăng lượng tiền mà họ có thể sản xuất._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "silver mines on Greek territory increased quantity of money"
+        }
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>Answer: inflation</strong></p><p><strong>Câu hỏi:</strong> ...were able to avoid the problem of <strong>26</strong> ______ which the Spanish encountered much later...</p><p><strong>Vị trí thông tin:</strong> Đoạn 4.</p><p>_<strong>Câu chứa thông tin:</strong> Had the Greek mining been on a larger scale, it could have caused problems similar to those faced by the Spanish centuries later, when so much gold from the New World was brought into their economy that it resulted in serious inflation._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- avoid the problem</p><p>- Spanish</p><p>- much later</p><p>- too much gold from the New World</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- problem -&gt; serious inflation</p><p>- Spanish -&gt; the Spanish</p><p>- much later -&gt; centuries later</p><p>- too much gold -&gt; so much gold</p><p><strong>Giải thích:</strong></p><p>Câu hỏi nhắc đến vấn đề mà người Tây Ban Nha gặp phải sau này khi quá nhiều vàng từ Tân Thế giới đi vào nền kinh tế. Trong bài, hệ quả được nêu rõ là <strong>serious inflation</strong>.</p><p>Với dạng điền một từ, ta lấy danh từ chính <strong>inflation</strong>. Người Hy Lạp tránh được vấn đề này vì hoạt động khai thác của họ không ở quy mô lớn như tình huống giả định.</p><p><strong>Dịch câu hỏi:</strong> ...đã tránh được vấn đề <strong>lạm phát</strong> mà người Tây Ban Nha gặp phải muộn hơn nhiều.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Nếu việc khai mỏ của Hy Lạp ở quy mô lớn hơn, nó có thể gây ra những vấn đề tương tự như người Tây Ban Nha gặp phải nhiều thế kỷ sau, khi quá nhiều vàng từ Tân Thế giới được đưa vào nền kinh tế của họ và dẫn đến lạm phát nghiêm trọng._</p><p>---</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "so much gold... resulted in serious inflation"
+        }
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>Answer: B</strong></p><p><strong>Câu hỏi:</strong> Details of an experiment in taste comparison.</p><p><strong>Vị trí thông tin:</strong> Đoạn B.</p><p>_<strong>Câu chứa thông tin:</strong> In a test conducted by a biotechnology company, sets of two miniature white paper cups, labelled 304 and 305, were placed before five people... Each person drank from one cup and then the other..._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- experiment</p><p>- taste comparison</p><p>- details</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- experiment -&gt; a test</p><p>- taste comparison -&gt; drank from one cup and then the other</p><p>- details -&gt; cups labelled 304 and 305 / five people / cleansing palates</p><p><strong>Giải thích:</strong></p><p>Câu hỏi yêu cầu tìm đoạn có chi tiết về một thí nghiệm so sánh vị. Đoạn B mô tả rất cụ thể một bài test: có hai cốc giấy nhỏ được đánh số 304 và 305, năm người tham gia, họ uống từ từng cốc và làm sạch vị giác giữa hai lần thử.</p><p>Sau đó đoạn so sánh kết quả: 304 có vị cắn/đắng đặc trưng của grapefruit, còn 305 mượt hơn và không có vị đắng của naringin. Vì vậy đoạn B chứa thông tin cần tìm.</p><p><strong>Dịch câu hỏi:</strong> Chi tiết về một thí nghiệm so sánh vị giác.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Trong một thử nghiệm do một công ty công nghệ sinh học thực hiện, các cặp cốc giấy trắng nhỏ được đánh số 304 và 305 được đặt trước năm người. Mỗi người uống từ một cốc rồi cốc kia._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "test; cups 304 and 305; drank from one cup and then the other"
+        }
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>Answer: H</strong></p><p><strong>Câu hỏi:</strong> Examples of medications that could be improved using compounds that remove bitterness.</p><p><strong>Vị trí thông tin:</strong> Đoạn H.</p><p>_<strong>Câu chứa thông tin:</strong> Bitter blockers could also be used in place of sugary cherry and grape flavourings in children&#x27;s cough syrups, and they could dampen the bitterness of drugs like antihistamines, antibiotics and other similar products._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- medications</p><p>- improved</p><p>- compounds that remove bitterness</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- medications -&gt; cough syrups / drugs / antihistamines / antibiotics</p><p>- compounds that remove bitterness -&gt; Bitter blockers</p><p>- improved -&gt; dampen the bitterness / used in place of sugary flavourings</p><p><strong>Giải thích:</strong></p><p>Câu hỏi cần đoạn đưa ví dụ về thuốc có thể được cải thiện nhờ các hợp chất làm giảm vị đắng. Đoạn H nêu trực tiếp <strong>children&#x27;s cough syrups</strong>, <strong>antihistamines</strong>, <strong>antibiotics</strong> và các sản phẩm tương tự.</p><p>Từ <strong>could be improved</strong> trong câu hỏi được diễn đạt bằng việc bitter blockers có thể thay thế hương liệu ngọt trong siro ho trẻ em và làm giảm vị đắng của thuốc. Vì vậy đáp án là <strong>H</strong>.</p><p><strong>Dịch câu hỏi:</strong> Ví dụ về các loại thuốc có thể được cải thiện bằng các hợp chất loại bỏ vị đắng.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Các chất chặn vị đắng cũng có thể được dùng thay cho hương cherry và nho có đường trong siro ho trẻ em, và chúng có thể làm dịu vị đắng của các loại thuốc như thuốc kháng histamine, kháng sinh và các sản phẩm tương tự._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "cough syrups; antihistamines; antibiotics; dampen bitterness"
+        }
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>Answer: E</strong></p><p><strong>Câu hỏi:</strong> A biological reason why some people don&#x27;t like bitter-tasting foods.</p><p><strong>Vị trí thông tin:</strong> Đoạn E.</p><p>_<strong>Câu chứa thông tin:</strong> People have varying capacities for tasting bitterness and the differences appear to be genetic._</p><p>_<strong>Câu bổ sung:</strong> Some people who have an unusually high number of taste buds, and are known as &#x27;supertasters&#x27;, are especially sensitive to these compounds._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- biological reason</p><p>- some people</p><p>- don&#x27;t like</p><p>- bitter-tasting foods</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- biological reason -&gt; genetic / high number of taste buds</p><p>- don&#x27;t like -&gt; less likely to eat / shun</p><p>- bitter-tasting foods -&gt; bitter vegetables / coffee / dark chocolate</p><p><strong>Giải thích:</strong></p><p>Đoạn E giải thích vì sao con người khác nhau trong khả năng cảm nhận vị đắng. Bài nói sự khác biệt này có vẻ mang tính <strong>genetic</strong>. Một số người có số lượng taste buds cao bất thường, gọi là <strong>supertasters</strong>, nên đặc biệt nhạy cảm với các hợp chất đắng.</p><p>Chính vì nhạy cảm hơn, họ có xu hướng tránh các thứ có vị đắng như rau đắng, cà phê và chocolate đen. Đây là lý do sinh học cho việc một số người không thích đồ ăn vị đắng.</p><p><strong>Dịch câu hỏi:</strong> Một lý do sinh học giải thích vì sao một số người không thích thực phẩm có vị đắng.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Con người có khả năng cảm nhận vị đắng khác nhau và những khác biệt này dường như mang tính di truyền._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "genetic; high number of taste buds; supertasters shun bitter things"
+        }
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>Answer: F</strong></p><p><strong>Câu hỏi:</strong> An explanation of how the taste process works.</p><p><strong>Vị trí thông tin:</strong> Đoạn F.</p><p>_<strong>Câu chứa thông tin:</strong> At the top is a group of receptors that captures the taste molecules... Once a bitter signal has been received, it is relayed via proteins known as G proteins... Ultimately, this delivers a signal to the brain that registers as bitter._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- explanation</p><p>- taste process</p><p>- works</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- taste process -&gt; taste buds / receptors / taste molecules / signal to the brain</p><p>- works -&gt; captures / relayed / triggers / delivers</p><p><strong>Giải thích:</strong></p><p>Đoạn F mô tả cơ chế cảm nhận vị từ đầu đến cuối: lưỡi có taste buds, trên mỗi taste bud có receptors bắt các phân tử vị, tín hiệu vị đắng được truyền qua G proteins, rồi chuỗi phản ứng hóa học dẫn đến tín hiệu gửi tới não.</p><p>Vì đoạn này giải thích quá trình vị giác vận hành như thế nào, đáp án là <strong>F</strong>.</p><p><strong>Dịch câu hỏi:</strong> Một lời giải thích về cách quá trình cảm nhận vị hoạt động.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Ở phía trên có một nhóm thụ thể bắt các phân tử vị. Khi tín hiệu đắng đã được nhận, nó được truyền qua các protein gọi là G proteins. Cuối cùng, quá trình này gửi tín hiệu đến não và não ghi nhận là vị đắng._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "taste buds; receptors; G proteins; signal to brain"
+        }
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>Answer: C</strong></p><p><strong>Câu hỏi:</strong> Why bitterness is more interesting commercially than other tastes.</p><p><strong>Vị trí thông tin:</strong> Đoạn C.</p><p>_<strong>Câu chứa thông tin:</strong> However, bitterness is of special interest to the food industry because it is present in so many different types of food._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- bitterness</p><p>- more interesting commercially</p><p>- other tastes</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- commercially -&gt; food industry</p><p>- more interesting -&gt; of special interest</p><p>- why -&gt; because it is present in so many different types of food</p><p><strong>Giải thích:</strong></p><p>Đoạn C bắt đầu bằng việc nói nghiên cứu vị giác đang phát triển với cả năm vị cơ bản. Sau đó tác giả tách riêng <strong>bitterness</strong> và nói nó được ngành thực phẩm đặc biệt quan tâm.</p><p>Lý do là vị đắng xuất hiện trong rất nhiều loại thực phẩm khác nhau. Đây chính là lý do thương mại khiến bitterness đáng chú ý hơn các vị khác trong ngữ cảnh food industry.</p><p><strong>Dịch câu hỏi:</strong> Vì sao vị đắng thú vị hơn về mặt thương mại so với các vị khác.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Tuy nhiên, vị đắng được ngành thực phẩm đặc biệt quan tâm vì nó có mặt trong rất nhiều loại thực phẩm khác nhau._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "special interest to food industry; present in many foods"
+        }
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>Answer: H</strong></p><p><strong>Câu hỏi:</strong> An example of how compounds that remove bitterness could indirectly benefit health.</p><p><strong>Vị trí thông tin:</strong> Đoạn H.</p><p>_<strong>Câu chứa thông tin:</strong> Part of the table salt could be replaced by another type of salt, potassium chloride, which tends to be scarce in some people&#x27;s diets because of its bitter taste. But that bitter taste could be eliminated with a dose of AMP._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- compounds that remove bitterness</p><p>- indirectly benefit health</p><p>- example</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- remove bitterness -&gt; bitter taste could be eliminated / AMP</p><p>- indirectly benefit health -&gt; replace part of table salt / processed foods less unhealthy</p><p>- example -&gt; canned chicken noodle soup / potassium chloride</p><p><strong>Giải thích:</strong></p><p>Đoạn H nêu một ứng dụng sức khỏe gián tiếp: thực phẩm chế biến có thể ít không lành mạnh hơn. Ví dụ, súp gà đóng hộp chứa rất nhiều sodium chloride. Một phần muối ăn có thể được thay bằng <strong>potassium chloride</strong>, chất mà một số người thiếu trong chế độ ăn nhưng lại có vị đắng.</p><p>Nếu AMP loại bỏ vị đắng của potassium chloride, nhà sản xuất có thể giảm lượng muối ăn và dùng lựa chọn có lợi hơn. Lợi ích sức khỏe ở đây là gián tiếp, vì bitter blocker không tự chữa bệnh, mà giúp thay đổi thành phần thực phẩm.</p><p><strong>Dịch câu hỏi:</strong> Một ví dụ về cách các hợp chất loại bỏ vị đắng có thể gián tiếp có lợi cho sức khỏe.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Một phần muối ăn có thể được thay bằng một loại muối khác, potassium chloride, vốn có xu hướng thiếu trong chế độ ăn của một số người vì vị đắng của nó. Nhưng vị đắng đó có thể được loại bỏ bằng một liều AMP._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "replace table salt with potassium chloride; AMP eliminates bitter taste"
+        }
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>Answer: D</strong></p><p><strong>Câu hỏi:</strong> A reason why people have different taste preferences from animals.</p><p><strong>Vị trí thông tin:</strong> Đoạn D.</p><p>_<strong>Câu chứa thông tin:</strong> Humans are the only species that enjoys a bitter taste... Every other species is averse to bitter because it means bad news. But we have learned to enjoy it._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- people</p><p>- different taste preferences</p><p>- animals</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- people -&gt; Humans</p><p>- animals -&gt; Every other species</p><p>- different taste preferences -&gt; enjoys bitter / averse to bitter</p><p>- reason -&gt; because it means bad news / learned to enjoy it</p><p><strong>Giải thích:</strong></p><p>Đoạn D so sánh trực tiếp con người với các loài khác. Charles Zuker nói con người là loài duy nhất thích vị đắng, trong khi các loài khác tránh vị đắng vì nó báo hiệu điều không tốt.</p><p>Bài còn giải thích con người đã học cách thưởng thức vị đắng qua các đồ như cà phê và quinine. Vì vậy đoạn D chứa lý do vì sao sở thích vị giác của con người khác động vật.</p><p><strong>Dịch câu hỏi:</strong> Một lý do vì sao con người có sở thích vị giác khác với động vật.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Con người là loài duy nhất thích vị đắng. Mọi loài khác đều tránh vị đắng vì nó có nghĩa là tín hiệu xấu. Nhưng chúng ta đã học cách thích nó._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "humans enjoy bitter; every other species is averse"
+        }
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>Answer: naringin</strong></p><p><strong>Câu hỏi:</strong> The grapefruit used to make drinks is chosen because it contains a smaller amount of a substance called <strong>34</strong> ______.</p><p><strong>Vị trí thông tin:</strong> Đoạn A.</p><p>_<strong>Câu chứa thông tin:</strong> So juice packagers often select grapefruit with low naringin content..._</p><p>_<strong>Câu bổ sung:</strong> This is because a natural chemical compound found in grapefruit, naringin, has a bitter taste._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- grapefruit used to make drinks</p><p>- chosen</p><p>- smaller amount</p><p>- substance called</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- used to make drinks -&gt; juice packagers</p><p>- chosen -&gt; select</p><p>- smaller amount -&gt; low content</p><p>- answer -&gt; naringin</p><p><strong>Giải thích:</strong></p><p>Câu hỏi nói grapefruit để làm đồ uống được chọn vì chứa ít một chất nào đó. Trong bài, chất này được giới thiệu là <strong>naringin</strong>, một hợp chất tự nhiên trong grapefruit có vị đắng.</p><p>Vì người đóng gói nước ép muốn tránh vị đắng, họ chọn grapefruit có <strong>low naringin content</strong>. Từ cần điền là <strong>naringin</strong>.</p><p><strong>Dịch câu hỏi:</strong> Bưởi chùm dùng để làm đồ uống được chọn vì nó chứa lượng nhỏ hơn của một chất gọi là <strong>naringin</strong>.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Vì vậy các nhà đóng gói nước ép thường chọn bưởi chùm có hàm lượng naringin thấp._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "select grapefruit with low naringin content"
+        }
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>Answer: poisonous</strong></p><p><strong>Câu hỏi:</strong> Animals associate a bitter taste with <strong>35</strong> ______ plants.</p><p><strong>Vị trí thông tin:</strong> Đoạn C.</p><p>_<strong>Câu chứa thông tin:</strong> They defend plants by warning animals away and protect animals by letting them know when a plant may be poisonous._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- Animals</p><p>- associate</p><p>- bitter taste</p><p>- plants</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- associate with -&gt; letting them know</p><p>- bitter taste -&gt; bitter-tasting compounds</p><p>- plants -&gt; a plant</p><p>- answer -&gt; poisonous</p><p><strong>Giải thích:</strong></p><p>Đoạn C giải thích chức năng tự nhiên của các hợp chất có vị đắng. Chúng bảo vệ thực vật bằng cách cảnh báo động vật tránh xa, đồng thời bảo vệ động vật bằng cách cho chúng biết khi cây có thể độc.</p><p>Câu hỏi tóm tắt ý này: động vật liên hệ vị đắng với cây <strong>poisonous</strong>. Đáp án là tính từ nguyên văn trong bài.</p><p><strong>Dịch câu hỏi:</strong> Động vật liên hệ vị đắng với các loài cây <strong>có độc</strong>.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Chúng bảo vệ cây bằng cách cảnh báo động vật tránh xa và bảo vệ động vật bằng cách cho chúng biết khi một loài cây có thể có độc._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "letting them know when a plant may be poisonous"
+        }
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>Answer: genetic</strong></p><p><strong>Câu hỏi:</strong> Our varying degree of sensitivity to bitter tastes is thought to be <strong>36</strong> ______.</p><p><strong>Vị trí thông tin:</strong> Đoạn E.</p><p>_<strong>Câu chứa thông tin:</strong> People have varying capacities for tasting bitterness and the differences appear to be genetic._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- varying degree of sensitivity</p><p>- bitter tastes</p><p>- thought to be</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- varying degree of sensitivity -&gt; varying capacities for tasting bitterness</p><p>- thought to be -&gt; appear to be</p><p>- answer -&gt; genetic</p><p><strong>Giải thích:</strong></p><p>Câu hỏi hỏi sự khác nhau trong mức độ nhạy cảm với vị đắng được cho là do đâu. Bài dùng cụm <strong>appear to be genetic</strong>, nghĩa là dường như mang tính di truyền.</p><p>Từ cần điền là <strong>genetic</strong>.</p><p><strong>Dịch câu hỏi:</strong> Mức độ nhạy cảm khác nhau của chúng ta đối với vị đắng được cho là mang tính <strong>di truyền</strong>.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Con người có khả năng cảm nhận vị đắng khác nhau và những khác biệt đó dường như mang tính di truyền._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "differences appear to be genetic"
+        }
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>Answer: supertasters</strong></p><p><strong>Câu hỏi:</strong> People who are extremely aware of bitter tastes are called <strong>37</strong> ______.</p><p><strong>Vị trí thông tin:</strong> Đoạn E.</p><p>_<strong>Câu chứa thông tin:</strong> Some people who have an unusually high number of taste buds, and are known as &#x27;supertasters&#x27;, are especially sensitive to these compounds._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- people</p><p>- extremely aware of bitter tastes</p><p>- called</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- extremely aware -&gt; especially sensitive</p><p>- bitter tastes -&gt; these compounds</p><p>- called -&gt; known as</p><p>- answer -&gt; supertasters</p><p><strong>Giải thích:</strong></p><p>Câu hỏi định nghĩa một nhóm người rất nhạy với vị đắng. Trong bài, nhóm này có số lượng taste buds cao bất thường và được gọi là <strong>supertasters</strong>.</p><p>Cụm <strong>especially sensitive to these compounds</strong> tương ứng với <strong>extremely aware of bitter tastes</strong> trong câu hỏi. Vì vậy đáp án là <strong>supertasters</strong>.</p><p><strong>Dịch câu hỏi:</strong> Những người cực kỳ nhạy với vị đắng được gọi là <strong>supertasters</strong>.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Một số người có số lượng nụ vị giác cao bất thường, được gọi là &#x27;supertasters&#x27;, đặc biệt nhạy cảm với các hợp chất này._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "known as 'supertasters'; especially sensitive"
+        }
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>Answer: top</strong></p><p><strong>Câu hỏi:</strong> Receptors inside the <strong>38</strong> ______ on the tongue detect the taste of food and drink.</p><p><strong>Vị trí thông tin:</strong> Đoạn F.</p><p>_<strong>Câu chứa thông tin:</strong> The tongue is covered with taste buds... At the top is a group of receptors that captures the taste molecules, known as tastants, in food and drink._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- receptors</p><p>- on the tongue</p><p>- detect the taste</p><p>- food and drink</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- receptors -&gt; receptors</p><p>- detect -&gt; captures</p><p>- taste of food and drink -&gt; taste molecules / tastants / food and drink</p><p>- answer theo key -&gt; top</p><p><strong>Giải thích:</strong></p><p>Đoạn F nói lưỡi được bao phủ bởi <strong>taste buds</strong>. Khi mô tả từng taste bud, bài nói <strong>At the top is a group of receptors</strong>. Những receptors này bắt các phân tử vị trong thức ăn và đồ uống.</p><p>Theo file key, đáp án là <strong>top</strong>. Về ý, receptors nằm ở phần <strong>top</strong> của taste buds. Cần lưu ý câu hỏi trong file đề hơi lệch về mặt diễn đạt; nếu đọc theo cấu trúc &quot;inside the ___ on the tongue&quot;, cụm <strong>taste buds</strong> cũng là thông tin nền rất gần. Tuy nhiên bài chữa này giữ đáp án theo key của đề.</p><p><strong>Dịch câu hỏi:</strong> Các thụ thể ở <strong>phần trên</strong> trên lưỡi phát hiện vị của thức ăn và đồ uống.</p><p>_<strong>Dịch câu chứa thông tin:</strong> Lưỡi được bao phủ bởi các nụ vị giác. Ở phần trên có một nhóm thụ thể bắt các phân tử vị, gọi là tastants, trong thức ăn và đồ uống._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "At the top is a group of receptors"
+        }
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>Answer: A - is responsible for transmitting bitter tastes</strong></p><p><strong>Câu hỏi:</strong> The G protein identified by Robert Margolskee...</p><p><strong>Vị trí thông tin:</strong> Đoạn F.</p><p>_<strong>Câu chứa thông tin:</strong> Once a bitter signal has been received, it is relayed via proteins known as G proteins. The G protein involved in the perception of bitterness, sweetness and umami was identified in the early 1990s by Robert Margolskee..._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- G protein</p><p>- identified by Robert Margolskee</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- identified by Robert Margolskee -&gt; was identified ... by Robert Margolskee</p><p>- transmitting -&gt; relayed via</p><p>- bitter tastes -&gt; bitter signal / perception of bitterness</p><p><strong>Giải thích:</strong></p><p>Bài nói khi tín hiệu đắng được nhận, nó được <strong>relayed via proteins known as G proteins</strong>. <strong>Relay</strong> nghĩa là truyền/chuyển tiếp tín hiệu. Sau đó bài nói G protein liên quan đến cảm nhận bitterness, sweetness và umami được Robert Margolskee xác định vào đầu thập niên 1990.</p><p>Vì vậy đáp án đúng là nội dung <strong>responsible for transmitting bitter tastes</strong>. Trong file đề, phần lựa chọn của câu 39 có vẻ bị lỗi format, nhưng theo key đáp án là <strong>A</strong>.</p><p><strong>Dịch câu hỏi:</strong> G protein được Robert Margolskee xác định...</p><p>_<strong>Dịch câu chứa thông tin:</strong> Khi tín hiệu đắng đã được nhận, nó được truyền qua các protein gọi là G proteins. G protein liên quan đến việc cảm nhận vị đắng, vị ngọt và umami được Robert Margolskee xác định vào đầu những năm 1990._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "bitter signal relayed via G proteins; involved in perception of bitterness"
+        }
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>Answer: C - able to reduce some bitter tastes</strong></p><p><strong>Câu hỏi:</strong> AMP is an organic compound which is...</p><p><strong>Vị trí thông tin:</strong> Đoạn G.</p><p>_<strong>Câu chứa thông tin:</strong> AMP has no bitterness of its own, but when put in foods... it attaches to bitter-taste receptors. As effective as it is, AMP may not be able to dampen every type of bitter taste because it probably doesn&#x27;t attach to all 30 bitter-taste receptors._</p><p><strong>Keyword trong câu hỏi:</strong></p><p>- AMP</p><p>- organic compound</p><p><strong>Keyword/paraphrase trong bài:</strong></p><p>- organic compound -&gt; AMP, an organic compound</p><p>- able to reduce -&gt; dampen</p><p>- some bitter tastes -&gt; may not be able to dampen every type</p><p><strong>Giải thích:</strong></p><p>Đoạn G nói AMP là một hợp chất hữu cơ có trong sữa mẹ và các chất khác. Nó không có vị đắng riêng, nhưng khi cho vào thực phẩm, nó gắn vào các receptors cảm nhận vị đắng.</p><p>Điểm quan trọng là AMP hiệu quả nhưng <strong>may not be able to dampen every type of bitter taste</strong>. Nghĩa là nó không làm giảm được mọi loại vị đắng, nhưng có thể làm giảm một số vị đắng. Vì vậy đáp án là <strong>C - able to reduce some bitter tastes</strong>.</p><p><strong>Dịch câu hỏi:</strong> AMP là một hợp chất hữu cơ mà...</p><p>_<strong>Dịch câu chứa thông tin:</strong> AMP không có vị đắng riêng, nhưng khi được cho vào thực phẩm, nó gắn vào các thụ thể vị đắng. Dù hiệu quả, AMP có thể không làm dịu được mọi loại vị đắng vì có lẽ nó không gắn vào tất cả 30 thụ thể vị đắng._</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "dampen every type of bitter taste; doesn't attach to all receptors"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_true_false_not_given_12",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q32": {
+      "explanation": "Câu 32 mâu thuẫn với thông tin ở đoạn 2. Bài nêu: \"Olive trees must be properly cared for in order to achieve good economic yields. Care includes regular irrigation, pruning, fertilising and killing pests. The trees will survive on very poor sites with shallow soils but will grow very slowly and yield poorly.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "Olive trees must be properly cared for in order to achieve good economic yields. Care includes regular irrigation, pruning, fertilising and killing pests. The trees will survive on very poor sites with shallow soils but will grow very slowly and yield poorly._"
+    },
+    "q33": {
+      "explanation": "Câu 33 khớp với thông tin ở đoạn 1. Ý chính trong bài là: \"Three basic grades of olive oil are most often available to the consumer: extra virgin, virgin and olive oil. In addition to the basic grades, olive oil differs from one country or region to another because of the types of olives that are grown, the harvesting methods, the time of the harvest and the pressing techniques. These factors all contribute to the individual characteristics of the olive oil.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Three basic grades of olive oil are most often available to the consumer: extra virgin, virgin and olive oil. In addition to the basic grades, olive oil differs from one country or region to another because of the types of olives that are grown, the harvesting methods, the time of the harvest and the pressing techniques. These factors all contribute to the individual characteristics of the olive oil._"
+    },
+    "q34": {
+      "explanation": "Câu 34 có một số từ khóa gần với đoạn 5, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"The first pressing oil contains the most “polyphenols”, substances that have been found to be powerful antioxidants capable of protecting against certain types of disease. The polyphenols are not the only substances in the olive with health-promoting effects, but they are quite unique when compared to other commonly used culinary oils such as sunflower and soy. It is these polyphenols that really set extra virgin olive oils apart from any other oil and any other form of olive oil.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "The first pressing oil contains the most “polyphenols”, substances that have been found to be powerful antioxidants capable of protecting against certain types of disease. The polyphenols are not the only substances in the olive with health-promoting effects, but they are quite unique when compared to other commonly used culinary oils such as sunflower and soy. It is these polyphenols that really set extra virgin olive oils apart from any other oil and any other form of olive oil._"
+    }
+  }
+}

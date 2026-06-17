@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_16",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Changes in society and consumer habits are likely to drive the adoption of smart packaging in the future. The growing need for information on packaging will mean that there has to be a change in the methods of providing this information.\". Heading ii (How Smart Packaging Will Meet Our Needs) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Changes in society and consumer habits are likely to drive the adoption of smart packaging in the future. The growing need for information on packaging will mean that there has to be a change in the methods of providing this information._"
+    },
+    "q16": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Food labelling is one area in which smart packaging could have a huge impact. The question as to whether, for example, a chilled ready-prepared meal is safe to consume is currently answered by \"best by\" date stamping.\". Heading i (Risk-free Dining) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Food labelling is one area in which smart packaging could have a huge impact. The question as to whether, for example, a chilled ready-prepared meal is safe to consume is currently answered by \"best by\" date stamping._"
+    },
+    "q17": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Smart packaging concepts that improve usage could include \"dial-a-dose\" smart caps and closures that would allow the safe dispensing of exact and controlled quantities of potentially hazardous products. A prescription drug bottle with a bottle cap alarm is already available.\". Heading x (Clever Drugs) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Smart packaging concepts that improve usage could include \"dial-a-dose\" smart caps and closures that would allow the safe dispensing of exact and controlled quantities of potentially hazardous products. A prescription drug bottle with a bottle cap alarm is already available._"
+    },
+    "q18": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Although it is rare that products are tampered with after leaving the factory, occasionally consumers find unexpected substances in jars, or open packets and discover that some of the contents are missing. New packaging technologies that will alert consumers or store managers to such problems are being developed.\". Heading v (Security Measures) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Although it is rare that products are tampered with after leaving the factory, occasionally consumers find unexpected substances in jars, or open packets and discover that some of the contents are missing. New packaging technologies that will alert consumers or store managers to such problems are being developed._"
+    },
+    "q19": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"When it comes to the environment, consumer attitudes towards packaging are generally confused and contradictory. There are increasing worries about the amount of waste created by packaging, but the growth of more elaborate and attractive packaging is being driven by consumers’ desire for convenience.\". Heading iii (Possible Concerns) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "When it comes to the environment, consumer attitudes towards packaging are generally confused and contradictory. There are increasing worries about the amount of waste created by packaging, but the growth of more elaborate and attractive packaging is being driven by consumers’ desire for convenience._"
+    },
+    "q20": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Perfect packaging exists in nature, for example the banana and the egg. Learning from nature to solve engineering problems (biomimetics) is not a new concept, and there are many research teams looking for such packaging ideas.\". Heading ix (Organic Inspiration) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Perfect packaging exists in nature, for example the banana and the egg. Learning from nature to solve engineering problems (biomimetics) is not a new concept, and there are many research teams looking for such packaging ideas._"
+    }
+  }
+}

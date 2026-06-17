@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_77",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2077.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1: Martin</strong><br />Hi, Anna. Shall we talk about our research for our history of environmentalism unit?  </p><p><strong>Speaker 2: Anna</strong><br />Oh, hi, Martin. Sure. So, we agreed we'd give a presentation about Alexander von Humboldt, didn't we?  </p><p><strong>Speaker 1:</strong> Martin<br />Yes. Did you know much about him?  </p><p><strong>Speaker 2:</strong> Anna<br />I knew that he was a German explorer and scientist and that he lived in the 1800s. And you?  </p><p><strong>Speaker 1:</strong> Martin<br />Well, that and that he'd travelled extensively around South America, written lots of books, and been hugely famous.  </p><p><strong>Speaker 2:</strong> Anna<br />During his lifetime, yes, but these days he's largely forgotten.  </p><p><strong>Speaker 1:</strong> Martin<br />You think so?  </p><p><strong>Speaker 2:</strong> Anna<br />Yeah, which is a shame, really. I mean, it's not like he had these theories which turned out to be wrong. Far from it. He was saying things which at the time were groundbreaking, but now it's just stuff that we accept as being self-evident. And having stated the obvious, I suppose you could say that's hardly grounds for remaining famous. I mean, he argued that it's essential to respect the natural world rather than just exploit it by mining and polluting, which we take for granted now.  </p><p><strong>Speaker 1:</strong> Martin<br />Sure. I've heard him described as the father of environmentalism.  </p><p><strong>Speaker 2:</strong> Anna<br />Right. And I suppose that's because of his view that, in the natural world, everything is connected. So in one location, there might be a particular animal which has evolved to feed on a particular plant. As a result, the plant will develop its own defence mechanism. If one species changes in some way, then others are likely to in response. Changes in the environment tend to have knock-on effects, and Humboldt brought that to people's attention, really, very convincingly.  </p><p><strong>Speaker 1:</strong> Martin<br />Yeah, I've heard that during his lifetime, he was one of the most famous people on the planet.  </p><p><strong>Speaker 2:</strong> Anna<br />Which seems odd, because he was just a largely self-taught academic, writing in great detail about all these obscure scientific topics, which can't have had much to do with the lives of ordinary people.  </p><p><strong>Speaker 1:</strong> Martin<br />Ah, but it was the diversity of subjects, from volcanoes to ocean currents, where Humboldt probably knew more than anyone alive.  </p><p><strong>Speaker 2:</strong> Anna<br />Possibly, yeah. That's what made him such a big name. Even kings and presidents wanted to meet him. And his books sold really well. I think some of them were quite dense and hard to follow, but they combined both scientific research and some very flowery language, poetic even. Very different from conventional academic writing these days, of course, where writers just stick to the facts. But back then, it was what people liked.  </p><p><strong>Speaker 1:</strong> Martin<br />Right, I suppose Humboldt's books were like an early version of Wikipedia.  </p><p><strong>Speaker 2:</strong> Anna<br />You mean because of all these collaborators who'd produce a bit of text for his latest book and send it to him?  </p><p><strong>Speaker 1:</strong> Martin<br />Exactly. So he'd assemble all these bits that he got from other people.  </p><p><strong>Speaker 2:</strong> Anna<br />Right. What amazing thing about Humboldt is that he wasn't just a scientist. He was also a social critic.  </p><p><strong>Speaker 1:</strong> Martin<br />Well, in theory, yes. But I read that when he met Thomas Jefferson...  </p><p><strong>Speaker 2:</strong> Anna<br />President of the United States.  </p><p><strong>Speaker 1:</strong> Martin<br />Yeah, who actually kept slaves. And Humboldt had argued very strongly against slavery, describing it as inhumane. But when he and Jefferson met, Humboldt deliberately avoided the issue of slavery so that they wouldn't argue, which was a waste of an opportunity to take Jefferson to task over his decision to use slaves.  </p><p><strong>Speaker 2:</strong> Anna<br />A bit cowardly, maybe, if he was so principled.  </p><p><strong>Speaker 1:</strong> Martin<br />Fair point.</p>"
+    }
+  ]
+}

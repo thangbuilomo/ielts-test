@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_03",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2003.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Hello, I'm new in the area and I'd like to join the library, please.</p><p><strong>Speaker 1:</strong> That's no problem. Let me get an application form. Here we are. Now all we have to do is fill this in, and then I'll get you to sign and you'll be a member.</p><p><strong>Speaker 2:</strong> Great. Now then, what's your full name?</p><p><strong>Speaker 1:</strong> Peter Adrian Camden.</p><p><strong>Speaker 2:</strong> How do you spell Camden?</p><p><strong>Speaker 1:</strong> C-A-M-D-E-N.</p><p><strong>Speaker 2:</strong> C-A-M-D-E-N. Yes, that's right. Right. And what's your address?</p><p><strong>Speaker 1:</strong> Flat 5, 53 Green Street, Finsbury.</p><p><strong>Speaker 2:</strong> OK, got that. That's near here, isn't it?</p><p><strong>Speaker 1:</strong> Yes, just five minutes' walk. What's the postcode?</p><p><strong>Speaker 2:</strong> 7424... I mean, I mean, sorry, 7434.</p><p><strong>Speaker 1:</strong> Got that now. Now, can you tell me your date of birth?</p><p><strong>Speaker 2:</strong> 8th July, 1976.</p><p><strong>Speaker 1:</strong> And what's your telephone number?</p><p><strong>Speaker 2:</strong> Well, I don't have a home number, but I've got a mobile. That'll do fine. It's 066-34-982-746. Did you get that?</p><p><strong>Speaker 1:</strong> Some of it. Can you say it again?</p><p><strong>Speaker 2:</strong> The code's 066-34 and the numbers then 982-746.</p><p><strong>Speaker 1:</strong> Right. That's almost it. Now I need some kind of identification to prove where you live. Do you have a driving licence or a passport or anything like that?</p><p><strong>Speaker 2:</strong> I'm afraid that everything I have has got my old address on it. Do you need it now?</p><p><strong>Speaker 1:</strong> No, not now, but you won't be able to take anything out until we see that.</p><p><strong>Speaker 2:</strong> Wait a minute, I've got a letter addressed to me here that arrived this morning. Will that do?</p><p><strong>Speaker 1:</strong> Oh, yes, that's a good idea. That will be fine. Let's look.</p><p><strong>Speaker 1:</strong> OK. Well, that's finished.</p>"
+    }
+  ]
+}

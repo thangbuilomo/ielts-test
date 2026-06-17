@@ -1,0 +1,44 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_true_false_not_given_31",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Câu 1 mâu thuẫn với thông tin ở đoạn 1. Bài nêu: \"Zebra finches are active, noisy, sociable little birds that live wild in Australia but are also popular cage and aviary pets all over the world. In fact, they are almost as popular pets as budgerigars and canaries. There are two subspecies.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "Zebra finches are active, noisy, sociable little birds that live wild in Australia but are also popular cage and aviary pets all over the world. In fact, they are almost as popular pets as budgerigars and canaries. There are two subspecies._"
+    },
+    "q2": {
+      "explanation": "Câu 2 mâu thuẫn với thông tin ở đoạn 6. Bài nêu: \"Moreover, this way of drinking allows them to exploit small quantities of water such as dew drops as well as to draw water up from places that would otherwise be difficult to drink from. Zebra finches also eat the leaves of succulent plants as a means of staying hydrated when there is no water supply nearby. Studies have shown that they can survive without water for at least a year, and probably even longer.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "Moreover, this way of drinking allows them to exploit small quantities of water such as dew drops as well as to draw water up from places that would otherwise be difficult to drink from. Zebra finches also eat the leaves of succulent plants as a means of staying hydrated when there is no water supply nearby. Studies have shown that they can survive without water for at least a year, and probably even longer._"
+    },
+    "q3": {
+      "explanation": "Câu 3 khớp với thông tin ở đoạn 3. Ý chính trong bài là: \"Male and female zebra finches differ in their colouration, with the males really standing out. They have bright red beaks, orange cheek patches, black-and-white bars covering the throat down to a black breast bar (this is the pattern that gives them the ‘zebra’ element in their name), a black ‘teardrop’ extending down from each eye, chestnut-coloured flanks with white spots, and a black-and-white tail. Females are mostly just grey except for the black teardrops and black-and-white tails, and their beaks are a more subdued orange, compared to the bright red of the males.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Male and female zebra finches differ in their colouration, with the males really standing out. They have bright red beaks, orange cheek patches, black-and-white bars covering the throat down to a black breast bar (this is the pattern that gives them the ‘zebra’ element in their name), a black ‘teardrop’ extending down from each eye, chestnut-coloured flanks with white spots, and a black-and-white tail. Females are mostly just grey except for the black teardrops and black-and-white tails, and their beaks are a more subdued orange, compared to the bright red of the males._"
+    },
+    "q4": {
+      "explanation": "Câu 4 mâu thuẫn với thông tin ở đoạn 1. Bài nêu: \"Zebra finches are active, noisy, sociable little birds that live wild in Australia but are also popular cage and aviary pets all over the world. In fact, they are almost as popular pets as budgerigars and canaries. There are two subspecies.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "Zebra finches are active, noisy, sociable little birds that live wild in Australia but are also popular cage and aviary pets all over the world. In fact, they are almost as popular pets as budgerigars and canaries. There are two subspecies._"
+    },
+    "q5": {
+      "explanation": "Câu 5 khớp với thông tin ở đoạn 5. Ý chính trong bài là: \"Male zebra finches are loud and boisterous singers, though their calls are rather squeaky and not very musical. Each bird’s song is different: although young birds generally learn their song from their father, they will change it to create their own version, incorporating other sounds they hear around them. Recently, fascinating new information about zebra finch song has been discovered: in hot weather, zebra finches sing special songs to their young in the eggs and these ‘incubation calls’ affect the chicks’ development in the egg.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Male zebra finches are loud and boisterous singers, though their calls are rather squeaky and not very musical. Each bird’s song is different: although young birds generally learn their song from their father, they will change it to create their own version, incorporating other sounds they hear around them. Recently, fascinating new information about zebra finch song has been discovered: in hot weather, zebra finches sing special songs to their young in the eggs and these ‘incubation calls’ affect the chicks’ development in the egg._"
+    },
+    "q6": {
+      "explanation": "Câu 6 khớp với thông tin ở đoạn 6. Ý chính trong bài là: \"Zebra Finches have also developed a special method of drinking water, not sucking it up but tipping their bills into the water and using their tongues to scoop it up. In this way, they can drink water quickly and so spend less time at water holes where they are vulnerable to predators. Moreover, this way of drinking allows them to exploit small quantities of water such as dew drops as well as to draw water up from places that would otherwise be difficult to drink from.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Zebra Finches have also developed a special method of drinking water, not sucking it up but tipping their bills into the water and using their tongues to scoop it up. In this way, they can drink water quickly and so spend less time at water holes where they are vulnerable to predators. Moreover, this way of drinking allows them to exploit small quantities of water such as dew drops as well as to draw water up from places that would otherwise be difficult to drink from._"
+    },
+    "q7": {
+      "explanation": "Câu 7 có một số từ khóa gần với đoạn 7, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"There have been numerous studies of the birds in their natural environment and also laboratory studies of such behaviour as mate-selection and song-learning. Because zebra finches learn their songs from their surroundings, they can be used to investigate the neural bases of learning, memory, and responses to stimuli. The zebra finch genome (the complete set of the bird’s genes) was the second bird genome to be fully described, after that of the chicken.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "There have been numerous studies of the birds in their natural environment and also laboratory studies of such behaviour as mate-selection and song-learning. Because zebra finches learn their songs from their surroundings, they can be used to investigate the neural bases of learning, memory, and responses to stimuli. The zebra finch genome (the complete set of the bird’s genes) was the second bird genome to be fully described, after that of the chicken._"
+    }
+  }
+}

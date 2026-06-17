@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_18",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Căn cứ nằm ở đoạn 4: \"As industrial centres ‘blossomed’ far from London, so the need for improved transport links to facilitate trade became more urgent. With the introduction of railroads, the journey to our familiar ‘small world’ had begun. To assist the increasingly confused travellers, who were forced to re-adjust their watches at every station, a standard British time based upon the yearly average time the sun crossed the Greenwich Meridian was introduced.\". Phương án C (The rapid expansion of sea trade) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "As industrial centres ‘blossomed’ far from London, so the need for improved transport links to facilitate trade became more urgent. With the introduction of railroads, the journey to our familiar ‘small world’ had begun. To assist the increasingly confused travellers, who were forced to re-adjust their watches at every station, a standard British time based upon the yearly average time the sun crossed the Greenwich Meridian was introduced._"
+    },
+    "q22": {
+      "explanation": "Căn cứ nằm ở đoạn 7: \"They needed to agree upon just one prime meridian - a global standard. A number of meridians had been used for longitudinal references in the late 1800s but that in Greenwich became almost universally accepted at the International Meridian Conference in 1884. The reasons for this near-unanimity included the fact that an incredible 72% of the world’s commerce was reliant on sea-charts based around the Greenwich Meridian.\". Phương án D (The majority of trade depended on maps that used the Greenwich Meridian) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "They needed to agree upon just one prime meridian - a global standard. A number of meridians had been used for longitudinal references in the late 1800s but that in Greenwich became almost universally accepted at the International Meridian Conference in 1884. The reasons for this near-unanimity included the fact that an incredible 72% of the world’s commerce was reliant on sea-charts based around the Greenwich Meridian._"
+    },
+    "q23": {
+      "explanation": "Căn cứ nằm ở đoạn 4: \"As industrial centres ‘blossomed’ far from London, so the need for improved transport links to facilitate trade became more urgent. With the introduction of railroads, the journey to our familiar ‘small world’ had begun. To assist the increasingly confused travellers, who were forced to re-adjust their watches at every station, a standard British time based upon the yearly average time the sun crossed the Greenwich Meridian was introduced.\". Phương án A (They were too proud to accept Greenwich because of their rivalry with the British) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "As industrial centres ‘blossomed’ far from London, so the need for improved transport links to facilitate trade became more urgent. With the introduction of railroads, the journey to our familiar ‘small world’ had begun. To assist the increasingly confused travellers, who were forced to re-adjust their watches at every station, a standard British time based upon the yearly average time the sun crossed the Greenwich Meridian was introduced._"
+    },
+    "q24": {
+      "explanation": "Căn cứ nằm ở đoạn 2: \"You might be surprised to learn that time as we know it - a precise measurement structured into ordered geographic zones of regular intervals - is a relatively recent phenomenon. If you went back as few as two or three centuries, you would find the human experience of time to be quite different, especially if your time travel was followed by travel of the traditional variety. For example, whereas now London and Bristol - approximately 100 miles apart - share the exact same time, Bristol of the early 1800s was approximately ten minutes behind the capital.\". Phương án A (Exact time making us feel less human) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "You might be surprised to learn that time as we know it - a precise measurement structured into ordered geographic zones of regular intervals - is a relatively recent phenomenon. If you went back as few as two or three centuries, you would find the human experience of time to be quite different, especially if your time travel was followed by travel of the traditional variety. For example, whereas now London and Bristol - approximately 100 miles apart - share the exact same time, Bristol of the early 1800s was approximately ten minutes behind the capital._"
+    }
+  }
+}

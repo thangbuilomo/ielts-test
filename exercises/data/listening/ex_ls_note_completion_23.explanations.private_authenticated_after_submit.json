@@ -1,0 +1,29 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_23",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q16": {
+      "explanation": "Người nói đang trình bày về việc quyên góp tiền cho trường học và những mục đích sử dụng số tiền đó. Thông tin giúp tìm ra đáp án là cụm từ \"Mr. Mwanza's salary\", cho thấy đây là một trong những khoản chi tiêu quan trọng. Paraphrase quan trọng ở đây là \"salary\" được nhắc đến như một phần của \"funding\". Bẫy có thể là việc người nghe có thể nghĩ rằng có nhiều loại chi phí khác nhau, nhưng câu trả lời chính xác chỉ là một từ duy nhất, đó là \"salary\". Đáp án đúng vì nó trực tiếp liên quan đến việc chi trả cho giáo viên, một phần thiết yếu trong việc giáo dục các em gái.",
+      "evidence": "Any monies raised will go towards funding the following: Mr. Mwanza's salary, classroom rental, teaching resources such as chalk, books, pens and textbooks..."
+    },
+    "q17": {
+      "explanation": "Người nói đang đề cập đến các khoản chi phí cần thiết cho các cô gái học tập, trong đó có việc cung cấp chỗ ở cho những em không sống cùng gia đình. Thông tin giúp tìm ra đáp án là từ \"accommodation\", chỉ rõ rằng đây là một trong những nhu cầu thiết yếu cho các em gái. Paraphrase quan trọng là \"staying away from their families\", điều này nhấn mạnh rằng các em cần một nơi ở an toàn khi không có gia đình bên cạnh. Bẫy có thể là việc người nghe có thể nghĩ đến các loại hình hỗ trợ khác, nhưng đáp án đúng chỉ là một từ duy nhất, \"accommodation\". Đáp án đúng vì nó thể hiện rõ ràng nhu cầu về nơi ở cho các em gái trong quá trình học tập.",
+      "evidence": "accommodation for girls staying away from their families..."
+    },
+    "q18": {
+      "explanation": "Người nói đang nhấn mạnh vai trò của gia đình trong việc hỗ trợ giáo dục cho các cô gái, đặc biệt là việc chăm sóc con cái của họ. Thông tin giúp tìm ra đáp án là từ \"children\", cho thấy rằng các gia đình không chỉ hỗ trợ các cô gái mà còn phải chăm sóc cho con cái của họ. Paraphrase quan trọng là \"care for the girls' children\", điều này chỉ ra rằng các gia đình có trách nhiệm lớn trong việc nuôi dưỡng con cái. Bẫy có thể là việc người nghe có thể nghĩ đến các loại hỗ trợ khác mà gia đình có thể cung cấp, nhưng đáp án đúng chỉ là một từ duy nhất, \"children\". Đáp án đúng vì nó phản ánh chính xác trách nhiệm của gia đình trong việc chăm sóc con cái của các cô gái trong bối cảnh giáo dục.",
+      "evidence": "The families also often have to be the ones to care for the girls' children..."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> As you can imagine, I am not here today just to inform you about the school, but to ask for money. All money raised goes towards the ongoing operations of our school. Any monies raised will go towards funding the following: Mr. Mwanza's salary, classroom rental, teaching resources such as chalk, books, pens and textbooks, accommodation for girls staying away from their families and support for the girls' families. </p><p><strong>Speaker 1:</strong> The girls are often the breadwinner in the family, and if we take them away, this creates a hole in the family's finances. The families also often have to be the ones to care for the girls' children, so you can see that the commitment of the families towards their daughters' education is also immense.</p>"
+}

@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Exercise Hub - Saola</title>
+  <link rel="stylesheet" href="../assets/css/saola-base.css">
+  <style>
+    .hub-container { display: flex; min-height: 100vh; }
+    .hub-sidebar { width: 250px; background: #f8f9fa; padding: 24px; border-right: 1px solid #e9ecef; }
+    .hub-content { flex: 1; padding: 32px; background: #fff; }
+    .menu-item { display: block; padding: 12px 16px; color: #495057; text-decoration: none; border-radius: 6px; margin-bottom: 8px; font-weight: 500; }
+    .menu-item.active { background: #e7f5ff; color: #1c7ed6; }
+    .exercises-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; margin-top: 24px; }
+    .cat-card { border: 1px solid #dee2e6; border-radius: 8px; padding: 24px; text-decoration: none; color: inherit; transition: box-shadow 0.2s, transform 0.2s; display: flex; flex-direction: column; min-height: 170px; }
+    .cat-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.1); transform: translateY(-2px); border-color: #1c7ed6; }
+    .cat-icon { width: 38px; height: 38px; border-radius: 8px; display: grid; place-items: center; background: #edf2ff; color: #364fc7; font-weight: 800; margin-bottom: 16px; }
+    .cat-title { font-size: 20px; margin: 0 0 12px 0; font-weight: 600; color: #343a40; }
+    .cat-desc { font-size: 15px; color: #868e96; margin-bottom: 24px; line-height: 1.5; flex: 1; }
+    .cat-meta { font-size: 14px; font-weight: 600; color: #1c7ed6; display: flex; align-items: center; gap: 8px; }
+    @media (max-width: 760px) {
+      .hub-container { display: block; }
+      .hub-sidebar { width: auto; border-right: 0; border-bottom: 1px solid #e9ecef; }
+      .hub-content { padding: 24px 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="hub-container">
+    <aside class="hub-sidebar">
+      <div style="margin-bottom: 32px;">
+        <a href="../" style="text-decoration: none; color: #212529; font-weight: bold; font-size: 18px;">Back to Catalog</a>
+      </div>
+
+      <h3 style="font-size: 14px; text-transform: uppercase; color: #adb5bd; margin-bottom: 16px;">IELTS Specific</h3>
+      <a href="index.html?module=listening" class="menu-item" data-module-link="listening">Listening Exercises</a>
+      <a href="index.html?module=reading" class="menu-item" data-module-link="reading">Reading Exercises</a>
+
+      <h3 style="font-size: 14px; text-transform: uppercase; color: #adb5bd; margin-bottom: 16px; margin-top: 32px;">Intensive</h3>
+      <a href="#" class="menu-item">Dictation</a>
+      <a href="#" class="menu-item">Shadowing</a>
+    </aside>
+
+    <main class="hub-content">
+      <h1 id="page-title">Exercise Categories</h1>
+      <p id="page-desc" style="color: #495057; font-size: 16px; margin-bottom: 32px;"></p>
+
+      <div class="exercises-grid" id="grid"></div>
+    </main>
+  </div>
+
+  <script src="../assets/js/saola-auth.js"></script>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const moduleName = params.get('module') || 'listening';
+    const labels = {
+      listening: {
+        title: 'IELTS Listening Categories',
+        desc: 'Choose an exercise category below to begin your in-depth Listening practice.',
+      },
+      reading: {
+        title: 'Reading Categories',
+        desc: 'Chon mot dang bai de luyen Reading theo format IELTS Specific Practice.',
+      },
+    };
+
+    document.querySelectorAll('[data-module-link]').forEach(link => {
+      link.classList.toggle('active', link.dataset.moduleLink === moduleName);
+    });
+
+    document.getElementById('page-title').textContent = labels[moduleName]?.title || 'Exercise Categories';
+    document.getElementById('page-desc').textContent = labels[moduleName]?.desc || '';
+
+    function iconFor(categoryId) {
+      if (categoryId.includes('flow')) return 'FC';
+      if (categoryId.includes('multiple')) return 'MC';
+      if (categoryId.includes('matching')) return 'MT';
+      if (categoryId.includes('note')) return 'NT';
+      if (categoryId.includes('summary')) return 'SM';
+      if (categoryId.includes('true') || categoryId.includes('yes')) return 'YN';
+      return 'EX';
+    }
+
+    async function loadCatalog() {
+      try {
+        const res = await fetch(`data/${moduleName}/catalog.json`);
+        if (!res.ok) throw new Error('Could not load catalog');
+        const data = await res.json();
+        const grid = document.getElementById('grid');
+        grid.innerHTML = '';
+
+        data.categories.forEach(cat => {
+          const card = document.createElement('a');
+          card.className = 'cat-card';
+          card.href = `category.html?module=${encodeURIComponent(moduleName)}&type=${encodeURIComponent(cat.category_id)}`;
+          card.innerHTML = `
+            <div class="cat-icon">${iconFor(cat.category_id)}</div>
+            <h2 class="cat-title">${cat.category_name}</h2>
+            <div class="cat-desc">${cat.description}</div>
+            <div class="cat-meta">
+              <span>${cat.exercises.length} exercises</span>
+              <span style="margin-left: auto;">Start</span>
+            </div>
+          `;
+          grid.appendChild(card);
+        });
+      } catch (err) {
+        console.error(err);
+        document.getElementById('grid').innerHTML = '<p>Error loading categories.</p>';
+      }
+    }
+
+    loadCatalog();
+  </script>
+</body>
+</html>

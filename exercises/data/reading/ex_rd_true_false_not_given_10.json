@@ -1,0 +1,95 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_true_false_not_given_10",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "tfng",
+  "category_id": "true_false_not_given",
+  "title": "True False Not Given - Exercise 10",
+  "duration_seconds": 0,
+  "content": {
+    "title": "The Canals of De Lesseps",
+    "content_html": "<h1>TRUE - FALSE - NOT GIVEN 10</h1>\n<h2>The Canals of De Lesseps</h2>\n<p>Two of the most spectacular engineering feats of the last 200 years were of the same type, though thousands of miles apart. They were the construction of the Suez and Panama canals. The Panama Canal joins the Pacific and Atlantic oceans while the Suez joins the Red Sea (Indian Ocean) and the Mediterranean (Atlantic Ocean). Both offer ships huge savings in time and mileage. For example, a 9-hour trip on the Panama Canal would save a total of 18,000 miles on a trip from New York to San Francisco. Amazingly enough the same French engineer, Ferdinand de Lesseps, played a major part in the construction of both.</p>\n<p>The history of the Panama Canal goes back to the sixteenth century, with a survey of the isthmus and a working plan for a canal ordered by the Spanish government in 1529. In the eighteenth century various companies tried and failed to construct the canal, but it wasn’t until 1880 that a French company, organised by Ferdinand Marie de Lesseps, proposed a sea-level canal through Panama. He believed that if a sea-level canal worked when constructing the Suez Canal, it had to work for the Panama Canal. Finally, the Panama Canal was constructed in two stages. The first between 1881 and 1888, the work being carried out by the French company headed by de Lesseps, and secondly, the work by the Americans, which eventually completed the canal’s construction between 1904 and 1914. The French company ran out of money and an attempt was unsuccessful to raise funds by applying to the French government to issue lottery bonds, which had been successful during the construction of the Suez Canal when that project was at the point of failure through lack of money. The French problems stemmed from their inability to create a viable solution to the differences in tidal changes in the Pacific and Atlantic Oceans. There is a tidal range of 20 feet at the Pacific, whereas the Atlantic range is only about 1 foot. The Americans proposed that a tidal lock should be constructed at Panama, which solved the problem and reduced excavation by an enormous amount. When construction was finally completed, the Panama Canal ran through various locks and four dams, raising and lowering boats by 26 metres, and running the lengths of two naturally occurring lakes, the 32-mile Gatun Lake and the 5-mile Miraflores Lake.</p>\n<p>When the US took on finishing the canal, they and the new state of Panama signed the Hay-Bunau-Varilla treaty, by which the United States guaranteed the independence of Panama and secured a perpetual lease on a 10-mile strip for the canal. Panama was to be compensated by an initial payment of $10 million and an annuity of $250,000, beginning in 1913. On 31 December 1999 the United States transferred the 51-mile Panama Canal and the income back to the Panamanian government.</p>\n<p>The idea of a canal linking the Mediterranean to the Red Sea also dates back to ancient times. Unlike the modern canal, earlier ones linked the Red Sea to the Nile, therefore forcing the ships to sail along the river on their journey from Europe to India. It consisted of two parts: the first linking the Gulf of Suez to the Great Bitter Lake, and the second connecting the Lake to one of the branches in the Nile Delta that runs into the Mediterranean. The canal remained in good condition during the Ptolemaic era, but fell into disrepair afterwards and was completely abandoned upon the discovery of the trade route around Africa.</p>\n<p>It was Napoleon’s engineers who, around 1800 AD, revived the idea of a shorter trade route to India via a Suez canal. However, the calculation carried out by the French engineers showed a difference in level of 10 meters between both seas. If constructed under such circumstances, a large land area would be flooded. Later the digging of the canal was undertaken by Ferdinand de Lesseps, who showed the previous French sea height estimates to be incorrect and that locks or dams were not needed.</p>\n<p>In 1859, Egyptian workers started on the construction of the canal, in conditions described by historians as slave labour, and the project was completed around 1867. The canal is 163 kilometres long and has a width of a minimum of 60 metres. The canal cuts through three lakes: Lake Manzala in the north, Lake Timsah in the middle and the Great Bitter Lake further south. The largest, the Great Bitter Lake makes up almost 30 kilometres of the total length. The canal is extensively used by modern ships as it is the fastest crossing from the Atlantic Ocean to the Indian Ocean.</p>\n<p>In July 1956 the Egyptian president Nasser announced the nationalisation of the Suez Canal in response to the British, French and American refusal for a loan aimed at a separate construction on the River Nile. The revenue from the canal, he argued, would help finance this project. Since then the Egyptians have controlled the canal. Today, approximately 50 ships cross the canal daily and the cities and beaches along the Great Bitter Lake and the canal serve as a summer resort for tourists.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_true_false_not_given_10.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_true_false_not_given_10.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "tfng",
+          "skill_tags": [
+            "rd_tfng"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 23 - 27</strong></p>\n<p>Choose <strong>TRUE</strong> if the statement agrees with the information given in the text, choose <strong>FALSE</strong> if the statement contradicts the information, or choose <strong>NOT GIVEN</strong> if there is no information on this.</p>\n<p>23 De Lessep’s Suez Canal construction theories were equally successful in the building of the Panama Canal as they were in building the Suez Canal.</p>\n<p>24 The decision to use locks in the Panama Canal also saved time carrying out other work.</p>\n<p>25 The US were reluctant to return the control of the Panama Canal to Panama.</p>\n<p>26 The current Suez Canal is the second canal that has joined the Red Sea to the Mediterranean.</p>\n<p>27 The British government refused to give assistance in constructing the Suez Canal.</p>",
+          "items": [
+            {
+              "question_id": "q23",
+              "number": 23,
+              "prompt_html": "De Lessep’s Suez Canal construction theories were equally successful in the building of the Panama Canal as they were in building the Suez Canal.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q24",
+              "number": 24,
+              "prompt_html": "The decision to use locks in the Panama Canal also saved time carrying out other work.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q25",
+              "number": 25,
+              "prompt_html": "The US were reluctant to return the control of the Panama Canal to Panama.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q26",
+              "number": 26,
+              "prompt_html": "The current Suez Canal is the second canal that has joined the Red Sea to the Mediterranean.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q27",
+              "number": 27,
+              "prompt_html": "The British government refused to give assistance in constructing the Suez Canal.",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            23,
+            27
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

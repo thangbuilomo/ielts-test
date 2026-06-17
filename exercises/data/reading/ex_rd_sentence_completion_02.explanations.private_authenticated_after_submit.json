@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_sentence_completion_02",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q10": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn C, bài viết nêu: \"Dry fuel burns quickly and makes the fires much harder to control. Basic fuel characteristics affecting a fire are size and shape, arrangement and moisture, but with wildfires, where fuel usually consists of the same type of material, the main factor influencing ignition time is the ratio of the fuel’s total surface area to its volume. The surface area of a twig, for example, is not much bigger than its volume, so it ignites rapidly.\". Cụm ratio khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Dry fuel burns quickly and makes the fires much harder to control. Basic fuel characteristics affecting a fire are size and shape, arrangement and moisture, but with wildfires, where fuel usually consists of the same type of material, the main factor influencing ignition time is the ratio of the fuel’s total surface area to its volume. The surface area of a twig, for example, is not much bigger than its volume, so it ignites rapidly._"
+    },
+    "q11": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn D, bài viết nêu: \"Higher temperatures can cause fuels to ignite, burn more quickly and add to the speed of a wildfire’s spread. Consequently, wildfires tend to rage in the afternoon, when temperatures are at their hottest. The biggest influence on a wildfire is probably the wind.\". Cụm the wind khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Higher temperatures can cause fuels to ignite, burn more quickly and add to the speed of a wildfire’s spread. Consequently, wildfires tend to rage in the afternoon, when temperatures are at their hottest. The biggest influence on a wildfire is probably the wind._"
+    },
+    "q12": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn D, bài viết nêu: \"Fires also create winds of their own that can be up to ten times faster than the ambient wind. Winds can spread embers that generate additional fires, an event known as “spotting”. Winds also change the course of fires, and gusts can take flames up into trees, starting “crown fires”.\". Cụm crown fires khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Fires also create winds of their own that can be up to ten times faster than the ambient wind. Winds can spread embers that generate additional fires, an event known as “spotting”. Winds also change the course of fires, and gusts can take flames up into trees, starting “crown fires”._"
+    },
+    "q13": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn E, bài viết nêu: \"The principal topographical factor effecting wildfires is slope. Fires move uphill much faster than downhill, and the steeper the slope, the quicker fires move. This is because fires move in the same direction as the ambient wind, which generally blows uphill.\". Cụm uphill khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The principal topographical factor effecting wildfires is slope. Fires move uphill much faster than downhill, and the steeper the slope, the quicker fires move. This is because fires move in the same direction as the ambient wind, which generally blows uphill._"
+    }
+  }
+}

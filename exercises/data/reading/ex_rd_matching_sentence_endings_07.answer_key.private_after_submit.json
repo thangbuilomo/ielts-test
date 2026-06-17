@@ -1,0 +1,65 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_rd_matching_sentence_endings_07",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 7,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q27": {
+      "answers": [
+        "F",
+        "... combine with improved life expectancy to create a demographic 'time bomb'."
+      ]
+    },
+    "q28": {
+      "answers": [
+        "J",
+        ". 27 Falling birth rates ... 28 The changing proportion of taxpayers to retirees ... 29 In some countries, the quality of life in old age … 30 Initiatives aimed at increasing birth rates ... 31 Raising the retirement age … 32 Using immigration to correct population imbalances ... 33 Countries with ageing populations ..."
+      ]
+    },
+    "q29": {
+      "answers": [
+        "D",
+        "... has not kept up with the increase in life expectancy."
+      ]
+    },
+    "q30": {
+      "answers": [
+        "H",
+        "... vary from country to country."
+      ]
+    },
+    "q31": {
+      "answers": [
+        "A",
+        "-"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "I",
+        "... is a solution that even the experts can't agree on."
+      ]
+    },
+    "q33": {
+      "answers": [
+        "C",
+        "... face serious shortfalls in their national budgets."
+      ]
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_yes_no_not_given_09",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "ynng",
+  "category_id": "yes_no_not_given",
+  "title": "Yes No Not Given - Exercise 9",
+  "duration_seconds": 0,
+  "content": {
+    "title": "BEHIND THE TIMES",
+    "content_html": "<h1>YES - NO - NOT GIVEN 09</h1>\n<h2>BEHIND THE TIMES</h2>\n<p>From observations of the moon’s phases to the introduction of the quartz crystal - regardless of our ever-improving capacity to measure time, its fundamental nature remains an enigma. Despite this intangible intrigue, we must accept time as the driver of our lives. It can be found everywhere that humankind is, and increasingly pursues us on our daily routes - on our wrists, in our pockets, possibly even, in the not-too-distant future, on our retinas. Our awareness of time dictates how we live, eat, work, sleep and feel. But how and why did our world become so obsessed with time?</p>\n<p>You might be surprised to learn that time as we know it - a precise measurement structured into ordered geographic zones of regular intervals - is a relatively recent phenomenon. If you went back as few as two or three centuries, you would find the human experience of time to be quite different, especially if your time travel was followed by travel of the traditional variety. For example, whereas now London and Bristol - approximately 100 miles apart - share the exact same time, Bristol of the early 1800s was approximately ten minutes behind the capital.</p>\n<p>To understand this leap better, let me start by painting a picture of early Enlightenment Britain. For the most part, and certainly relative to the Britain of today, the country was rather disconnected. There were, of course, roads connecting all settlements regardless of size, but because journeys between them were slow there was little call for exact measurements of duration. Besides, each little town kept its own time, based on its own astronomical observations - specifically the location of the sun throughout the day - and thus kept their own slow pace.</p>\n<p>This pace began to quicken around the turn of the nineteenth century. As industrial centres ‘blossomed’ far from London, so the need for improved transport links to facilitate trade became more urgent. With the introduction of railroads, the journey to our familiar ‘small world’ had begun. To assist the increasingly confused travellers, who were forced to re-adjust their watches at every station, a standard British time based upon the yearly average time the sun crossed the Greenwich Meridian was introduced. By 1855, 98% of British clocks had been set to this time.</p>\n<p>While Greenwich’s role in establishing the concept of time standardisation was crucial, the diminutive size of the country meant that the problems Britain had faced were solved by this simple development. Across the Atlantic, American infrastructure and industry were expanding so fast and on such scale that further adaptations had to be made. The introduction of 100 railroad time zones, while a step in the right direction, was only a partial solution and as trains became more rapid, so safety concerns become greater - with many trains sharing a single track, exact time became critical.</p>\n<p>On November 18, 1883, the United States and Canada introduced five standard time zones. The exception was Detroit, who chose to continue using a local time basis until 1900, when the City Council gave in and prepared to follow Central Standard Time. Even then, though, there remained problems. Half of the city’s businesses obeyed, but many individuals refused, citing what they saw as the ‘dehumanising effect’ of exact time. Incredibly, this reluctance to standardise influenced the City Council to revert to its original solar time. However, it wasn’t long until pressure from railway companies forced them to re-adapt.</p>\n<p>Not long after the establishment of time zones in North America, interest began to emerge for a standardised system worldwide, largely due to the booming shipping industry, which found itself in a situation not unlike that of the aforementioned railroads. They needed to agree upon just one prime meridian - a global standard. A number of meridians had been used for longitudinal references in the late 1800s but that in Greenwich became almost universally accepted at the International Meridian Conference in 1884. The reasons for this near-unanimity included the fact that an incredible 72% of the world’s commerce was reliant on sea-charts based around the Greenwich Meridian.</p>\n<p>However, the French fervently refused to acknowledge the decision, instead establishing their meridian within Paris until 1911. Rather than suffer the indignity of giving in to their fierce historical rivals, they finally succumbed to using Greenwich Mean Time (later renamed as Coordinated Universal Time (UTC) but retained national pride by labelling it as ‘Paris Mean Time minus 9 minutes and 21 seconds’. Not long after, France switched to Central European Time, on which it has remained ever since.</p>\n<p>From the 1920s, the recognition and official registration of time zones spread throughout the world, culminating in Nepal’s 1986 adoption of UTC + 5:45. We now have 24 standard meridians of longitude, 15 degrees apart, with which we structure our days. The concept is vital for our co-operation and commerce, which together form the driving force of the modern world. It is, however, important to recognise just how quickly this change has occurred - it is incredible to think that little over a century ago, the majority would have been comfortable referring to time simply as ‘morning’, ‘afternoon’, ‘evening’ and ‘night’. Might those resolute citizens of Detroit have had a point?</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_yes_no_not_given_09.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_yes_no_not_given_09.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "ynng",
+          "skill_tags": [
+            "rd_ynng"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 23 - 27</strong></p>\n<p>Choose YES if the statement agrees with the writer, choose NO if the statement contradicts the writer, or choose NOT GIVEN if it is impossible to say what the writer thinks about this.</p>\n<p><strong>23 There was an urgent need for more precise measurements of time in the 18th century because travel was still so slow. </strong></p>\n<p>YES</p>\n<p>NO</p>\n<p>NOT GIVEN</p>\n<p><strong>24 Being aware of the passing of time affects human behaviour. </strong></p>\n<p>YES</p>\n<p>NO</p>\n<p>NOT GIVEN</p>\n<p><strong>25 National pride made the French unwilling to adopt the British time system. </strong></p>\n<p>YES</p>\n<p>NO</p>\n<p>NOT GIVEN</p>\n<p><strong>26 In the future, having a type of clock inside our eyes is likely to be very popular. </strong></p>\n<p>YES</p>\n<p>NO</p>\n<p>NOT GIVEN</p>\n<p><strong>27 Most people have responded positively to the introduction of standard global time systems. </strong></p>\n<p>YES</p>\n<p>NO</p>\n<p>NOT GIVEN</p>",
+          "items": [
+            {
+              "question_id": "q23",
+              "number": 23,
+              "prompt_html": "Question 23",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q24",
+              "number": 24,
+              "prompt_html": "Question 24",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q25",
+              "number": 25,
+              "prompt_html": "Question 25",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q26",
+              "number": 26,
+              "prompt_html": "Question 26",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q27",
+              "number": 27,
+              "prompt_html": "Question 27",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            23,
+            27
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

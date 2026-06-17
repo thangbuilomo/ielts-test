@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_38",
+  "module": "listening",
+  "question_count": 10,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2038.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. A well-defined business strategy guides organisations by offering clear vision and direction. It can be defined to the business, an individual project, or a business venture. If an overarching business strategy is implemented, then all employees can be assigned goals accordingly.</p><p><strong>Speaker 1:</strong> This week, we are going to look at one of the oldest established frameworks for planning business strategy — SWOT, or SWOT analysis. Its exact origins are unclear, but many attribute it to Albert Humphrey, working at the Stanford Research Institute in an attempt to explain the failure of corporate planning. </p><p><strong>Speaker 1:</strong> What is SWOT? It is an acronym for Strengths, Weaknesses, Opportunities and Threats. Strengths being the characteristics of a business that would put it at an advantage to its competitors, whereas the weaknesses are those that would disadvantage it. The opportunities are elements in the business environment that the business could exploit to its advantage, whereas threats are those that could cause trouble. These could then be categorised as internal and external factors.</p><p><strong>Speaker 1:</strong> The internal factors are the characteristics of a business that are able to be ranked as strengths or weaknesses. Think about the reputation of a brand leader. This is clearly a strength when compared to a company that is just starting up and doesn't have any recognition. </p><p><strong>Speaker 1:</strong> Other internal factors include, but are not limited to, what the company is selling, whether that is a product or a service, how much they are selling it for, all of the staff in the company, the organisation's finances, output possibilities, and so on. Obviously, these factors are all dependent on the organisation in question, and there is no set list. A small accountancy firm would have a very different internal makeup to a large manufacturer.</p><p><strong>Speaker 1:</strong> Moving on to external factors. These are the areas that are beyond the company. They are out there and exist, and you can't change them. However, understanding these things that are beyond your control will limit your organisation's exposure to shock and ensure that you are ready for an ever-evolving business world. These factors include what your competitors are doing, changes in society and fashions, laws being passed, and trends and factors in the marketplace.</p><p><strong>Speaker 1:</strong> So, what are the main uses for a SWOT analysis? Existing businesses can perform one at any time to check the changing environment and react accordingly. Many companies perform a SWOT analysis once a year to review strategy. New companies should also perform a SWOT analysis as part of their planning process. This would help them to better understand both the need for their product or service and how equipped they are to fit into the marketplace.</p><p><strong>Speaker 1:</strong> Also, many marketing departments perform SWOT analyses on all their main competitors. Performing this detailed analysis is essential, both for predicting upcoming challenges and also for finding out how to streamline your own business. However, it's not only profit-making companies that use a SWOT analysis. It has become a very useful organisational tool for charities, community projects and other non-profit organisations. It helps them to understand if an objective is viable and helps management to set achievable goals.</p><p><strong>Speaker 1:</strong> So, to recap, the main benefits of conducting a SWOT analysis are that it is cheap and can be done by anybody. Secondly, it gives you a much better understanding of your company or organisation.</p><p><strong>Speaker 1:</strong> OK, so we've looked at the uses and benefits, but there surely must be some limitations to this analysis, you ask. Firstly, it can oversimplify a problem. An effective SWOT analysis is short and gets to the point, and that doesn't allow for a detailed investigation. </p><p><strong>Speaker 1:</strong> Secondly, it really is very subjective. It relies on somebody, or a team of people, making a judgement on what is good and bad. It is very difficult to get the same results all the time. The final and possibly most significant drawback is that all points are equally weighted in a SWOT analysis. It does not give more importance to some points that could be much more relevant to your business or its upcoming situation.</p><p><strong>Speaker 1:</strong> So, that is a brief overview of the SWOT analysis. In our seminar later, we will be experimenting with performing an analysis on a well-known company and seeing how effective it is in practice. Now, let's move on to some alternative approaches that you may like to use. </p><p><strong>Speaker 1:</strong> Who's heard of another alternative?</p>"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_17",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q14": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"It all started in the early 1960s, when the top of a pillar jutting out of a dusty mound was noticed by a shepherd working in the area. Archaeologists from the University of Chicago arrived at the site, but quickly dismissed it as being of little interest.\". Heading ii (Picking up where others left off) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "It all started in the early 1960s, when the top of a pillar jutting out of a dusty mound was noticed by a shepherd working in the area. Archaeologists from the University of Chicago arrived at the site, but quickly dismissed it as being of little interest._"
+    },
+    "q15": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Soon after his arrival, it became clear to Schmidt that Göbekli Tepe's significance had been incorrectly assessed. Flint chips found in the area suggested to him that the location had been a working site at some point prior to the development of metal tools and pottery, while he viewed the limestone slabs previously believed to be Byzantine graves as in fact something much older.\". Heading x (A series of discoveries) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Soon after his arrival, it became clear to Schmidt that Göbekli Tepe's significance had been incorrectly assessed. Flint chips found in the area suggested to him that the location had been a working site at some point prior to the development of metal tools and pottery, while he viewed the limestone slabs previously believed to be Byzantine graves as in fact something much older._"
+    },
+    "q16": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The most striking visual difference between the blocks found at Göbekli Tepe and those at Stonehenge is the addition of extraordinary bas-reliefs depicting an array of animals – including lions, snakes, foxes, scorpions and wild boars – to the former, although their precise role is not yet known. What is particularly interesting about the construction of the site is that it would have required a far larger gathering of people than had probably ever happened before, all working without the assistance of the wheel or beasts of burden.\". Heading vii (Unanswered questions about the construction of Göbekli Tepe) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The most striking visual difference between the blocks found at Göbekli Tepe and those at Stonehenge is the addition of extraordinary bas-reliefs depicting an array of animals – including lions, snakes, foxes, scorpions and wild boars – to the former, although their precise role is not yet known. What is particularly interesting about the construction of the site is that it would have required a far larger gathering of people than had probably ever happened before, all working without the assistance of the wheel or beasts of burden._"
+    },
+    "q17": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"As is to be expected given the mystery of the site and the novelty of its discovery, there has been much disagreement as to its purpose and meaning. Due to the presence of what is believed to be the world's oldest known temple at Göbekli Tepe, some have argued that this site is the earliest known example of a pilgrimage site.\". Heading vi (Keeping the peace) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "As is to be expected given the mystery of the site and the novelty of its discovery, there has been much disagreement as to its purpose and meaning. Due to the presence of what is believed to be the world's oldest known temple at Göbekli Tepe, some have argued that this site is the earliest known example of a pilgrimage site._"
+    },
+    "q18": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Indeed, Schmidt believes that this role came prior to many other key features accompanying the dawn of civilisation, including most notably the development of agriculture. He asserts that a way of providing sufficient quantities of food for those gathering at Göbekli Tepe was required and that this in turn led to intensive cultivation of wild crops and the first instances of plant domestication.\". Heading v (Göbekli Tepe and the origins of farming) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Indeed, Schmidt believes that this role came prior to many other key features accompanying the dawn of civilisation, including most notably the development of agriculture. He asserts that a way of providing sufficient quantities of food for those gathering at Göbekli Tepe was required and that this in turn led to intensive cultivation of wild crops and the first instances of plant domestication._"
+    },
+    "q19": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"However, not everyone agrees with Schmidt's theories. A number of his colleagues have queried his assumption about the site's role and that a lack of evidence of houses means that nobody lived at Göbekli Tepe.\". Heading xi (Various independent explorations at the dawn of civilisation) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "However, not everyone agrees with Schmidt's theories. A number of his colleagues have queried his assumption about the site's role and that a lack of evidence of houses means that nobody lived at Göbekli Tepe._"
+    },
+    "q20": {
+      "explanation": "Đoạn H tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Given the outlined ambiguities concerning the purpose and nature of the site, it is no surprise that Professor Schmidt feels there is much work yet to be done. He compares the scale of the project to that of other key archaeological sites – among them Troy and Pergamon – where excavation work began more than a century ago. “It’s hard to give a detailed schedule on how long further excavation will take,” he comments, before adding, “There's work for more than one generation of archaeologists at the place.”\". Heading i (An ongoing project) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Given the outlined ambiguities concerning the purpose and nature of the site, it is no surprise that Professor Schmidt feels there is much work yet to be done. He compares the scale of the project to that of other key archaeological sites – among them Troy and Pergamon – where excavation work began more than a century ago. “It’s hard to give a detailed schedule on how long further excavation will take,” he comments, before adding, “There's work for more than one generation of archaeologists at the place.”_"
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_multiple_choice_37",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 6,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "mcq_single",
+  "category_id": "multiple_choice",
+  "title": "Multiple Choice - Exercise 37",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2037.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_multiple_choice_37.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_multiple_choice_37.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_multiple_choice_37.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "mcq_single",
+          "skill_tags": [
+            "ls_mcq_single"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>MULTIPLE CHOICE 37</h1><p><strong>Questions 35 - 40</strong></p><p>Choose the correct letter, <strong>A, B or C</strong>.</p><p>35 The coelacanth was ...</p><table><thead><tr><th><strong>A</strong>    ... known to Indonesian fishermen.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    ... unknown to Indonesian fishermen.</td><td></td></tr><tr><td><strong>C</strong>    ... a first in the market.</td><td></td></tr></tbody></table><p>36 The only difference between the Comoros coelacanth and the Sulawesi coelacanth is ...</p><table><thead><tr><th><strong>A</strong>    ... their intercranial joint.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    ... their paired fins.</td><td></td></tr><tr><td><strong>C</strong>    ... their colour.</td><td></td></tr></tbody></table><p>37 Coelacanths seemed to have their greatest population ...</p><table><thead><tr><th><strong>A</strong>    ... 360 million years ago.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    ... 240 million years ago.</td><td></td></tr><tr><td><strong>C</strong>    ... 80 million years ago.</td><td></td></tr></tbody></table><p>38 Modern coelacanths probably left no fossilised remains over the past 80 million years because ...</p><table><thead><tr><th><strong>A</strong>    ... of too much clay sediment.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    ... of the caves and overhangs where they lived.</td><td></td></tr><tr><td><strong>C</strong>    ... volcanoes are needed for fossilisation.</td><td></td></tr></tbody></table><p>39 Scientists had a better understanding of the coelacanth after 1991 because ...</p><table><thead><tr><th><strong>A</strong>    ... the French government had previously limited study on the Comoros coelacanth.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    ... the Comoros were far away and difficult to reach.</td><td></td></tr><tr><td><strong>C</strong>    ... the Comoros opened an airport.</td><td></td></tr></tbody></table><p>40 On the 1991 expedition, scientists studied the coelacanth ...</p><table><thead><tr><th><strong>A</strong>    ... only from fishermen’s specimens.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    ... through the windows of their submarine.</td><td></td></tr><tr><td><strong>C</strong>    ... from diving down.</td><td></td></tr></tbody></table>",
+          "items": [
+            {
+              "question_id": "q35",
+              "number": 35,
+              "prompt_html": "The coelacanth was ...",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q36",
+              "number": 36,
+              "prompt_html": "The only difference between the Comoros coelacanth and the Sulawesi coelacanth is ...",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q37",
+              "number": 37,
+              "prompt_html": "Coelacanths seemed to have their greatest population ...",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q38",
+              "number": 38,
+              "prompt_html": "Modern coelacanths probably left no fossilised remains over the past 80 million years because ...",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q39",
+              "number": 39,
+              "prompt_html": "Scientists had a better understanding of the coelacanth after 1991 because ...",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q40",
+              "number": 40,
+              "prompt_html": "On the 1991 expedition, scientists studied the coelacanth ...",
+              "response_type": "text"
+            }
+          ],
+          "options": [
+            {
+              "label": "A",
+              "text": "... only from fishermen’s specimens."
+            },
+            {
+              "label": "B",
+              "text": "... through the windows of their submarine."
+            },
+            {
+              "label": "C",
+              "text": "... from diving down."
+            }
+          ],
+          "question_range": [
+            35,
+            40
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_multiple_choice_37",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_multiple_choice_37",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

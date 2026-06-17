@@ -1,0 +1,53 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_rd_matching_sentence_endings_09",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 5,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q19": {
+      "answers": [
+        "C",
+        "… make it difficult for learners to listen in a foreign language."
+      ]
+    },
+    "q20": {
+      "answers": [
+        "E",
+        "… struggle to understand meaning in longer speech."
+      ]
+    },
+    "q21": {
+      "answers": [
+        "D",
+        "… identify chunks in spoken language."
+      ]
+    },
+    "q22": {
+      "answers": [
+        "A",
+        "-"
+      ]
+    },
+    "q23": {
+      "answers": [
+        "G",
+        ". 19 Along with chunking, segmentation can … 20 Segmentation rules may be different to a learner’s native language so learners … 21 If you are familiar with segmentation rules then you can … 22 The rules of segmentation in a language you are learning can ... 23 Effective use of segmentation and chunking …"
+      ]
+    }
+  }
+}

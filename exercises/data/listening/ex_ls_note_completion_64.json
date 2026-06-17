@@ -1,0 +1,142 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_note_completion_64",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 10,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "note_completion",
+  "category_id": "note_completion",
+  "title": "Note Completion - Exercise 64",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2064.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_note_completion_64.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_note_completion_64.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_note_completion_64.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "note_completion",
+          "skill_tags": [
+            "ls_comp_note"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>NOTE COMPLETION 64</h1><p><strong>Questions 31 - 40</strong></p><p>Complete the notes.</p><p>Use <strong>NO MORE THAN ONE WORD</strong> for each answer.</p><p><strong>A history of measuring time</strong></p><p>Measuring the time in a year or a day has always been a priority</p><p>People in ancient civilisations had sophisticated <blank data-qid=\"q31\"/>  to record the passing of time</p><p><strong>Some ancient tools for measuring time</strong></p><p>Stonehenge: a 5000-year-old stone circle in England</p><p>It was possibly built by druids (priests)</p><p>The stones seem to have been erected for viewing the <blank data-qid=\"q32\"/> on the solstice (the longest day of the year).</p><p>In the past, days were divided into 12 periods</p><p>Shadow clocks have been discovered in <blank data-qid=\"q33\"/> , which consisted of a large column</p><p>Some were constructed out of <blank data-qid=\"q34\"/> , and were several metres in height</p><p><strong>Water clocks</strong></p><p>These were used in various locations and had moving parts</p><p>However, they were ineffective in <blank data-qid=\"q35\"/> conditions</p><p>Engineers in China addressed this problem by using mercury and <blank data-qid=\"q36\"/></p><p>instead of water</p><p><strong>Mechanical clocks</strong></p><p>The first known one was constructed in Germany in the 10th century</p><p>In the 14th century, a clock with a <blank data-qid=\"q37\"/></p><p>to mark the hours was constructed; this is still in Salisbury Cathedral, England</p><p><strong>Further developments in clock making</strong></p><p>Clockmakers aimed to produce clocks that were <blank data-qid=\"q38\"/></p><p>and able to tell the time more precisely, especially to aid sailors with navigation</p><p>Thomas Tompion, an English clockmaker, managed to produce a clock that was small enough to be <blank data-qid=\"q39\"/></p><p>Tompion gave one of these to an English <blank data-qid=\"q40\"/></p>",
+          "items": [
+            {
+              "question_id": "q31",
+              "number": 31,
+              "prompt_html": "Question 31",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q32",
+              "number": 32,
+              "prompt_html": "Question 32",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q33",
+              "number": 33,
+              "prompt_html": "Question 33",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q34",
+              "number": 34,
+              "prompt_html": "Question 34",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q35",
+              "number": 35,
+              "prompt_html": "Question 35",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q36",
+              "number": 36,
+              "prompt_html": "Question 36",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q37",
+              "number": 37,
+              "prompt_html": "Question 37",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q38",
+              "number": 38,
+              "prompt_html": "Question 38",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q39",
+              "number": 39,
+              "prompt_html": "Question 39",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q40",
+              "number": 40,
+              "prompt_html": "Question 40",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            31,
+            40
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_note_completion_64",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_note_completion_64",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

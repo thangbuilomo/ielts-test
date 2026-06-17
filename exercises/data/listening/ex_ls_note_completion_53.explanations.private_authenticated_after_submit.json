@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_53",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q7": {
+      "explanation": "Người nói đang mô tả một căn hộ ở khu vực Old Port, nhấn mạnh rằng căn hộ này có một khu vườn lớn. Thông tin này giúp tìm ra đáp án vì nó trực tiếp đề cập đến đặc điểm của căn hộ mà người nghe đang quan tâm. Paraphrase quan trọng ở đây là \"quite a large garden\" có thể được hiểu là \"một khu vườn khá lớn\". Bẫy có thể là việc người nghe có thể nghĩ rằng thông tin về giá cả hoặc số lượng phòng là quan trọng hơn, nhưng thực tế câu hỏi yêu cầu thông tin về đặc điểm của căn hộ. Đáp án đúng là \"garden\" vì nó chính xác phản ánh thông tin được cung cấp trong đoạn hội thoại.",
+      "evidence": "It also comes with quite a large garden, which would be great in summer."
+    },
+    "q8": {
+      "explanation": "Người nói đang cung cấp thông tin về một căn hộ khác trong khu vực Old Port, nhấn mạnh rằng giá thuê của nó là £1,000 mỗi tháng. Thông tin này giúp tìm ra đáp án vì nó là một con số cụ thể liên quan đến giá thuê. Paraphrase quan trọng ở đây là \"comes in at £1,000\" có thể được hiểu là \"có giá là £1,000\". Bẫy có thể là người nghe có thể bị nhầm lẫn với giá của căn hộ đầu tiên (£1,250), nhưng câu hỏi yêu cầu thông tin về căn hộ thứ hai. Đáp án đúng là \"1000\" vì nó chính xác phản ánh giá thuê của căn hộ thứ hai.",
+      "evidence": "It comes in at £1,000 a month."
+    },
+    "q9": {
+      "explanation": "Người nói đang giới thiệu về căn hộ cuối cùng, nhấn mạnh rằng nó nằm ở trung tâm thành phố. Thông tin này giúp tìm ra đáp án vì nó xác định vị trí của căn hộ. Paraphrase quan trọng là \"in the centre\" có thể được hiểu là \"ở trung tâm\". Bẫy có thể là người nghe có thể nghĩ rằng vị trí không quan trọng, nhưng câu hỏi yêu cầu thông tin về vị trí của căn hộ. Đáp án đúng là \"centre\" vì nó chính xác phản ánh vị trí được đề cập trong đoạn hội thoại.",
+      "evidence": "the final property I have for you is actually in the centre."
+    },
+    "q10": {
+      "explanation": "Người nói đang nói về một đặc điểm nổi bật của căn hộ cuối cùng, đó là nó có một chỗ đậu xe, điều này rất hiếm trong khu vực trung tâm. Thông tin này giúp tìm ra đáp án vì nó là một đặc điểm quan trọng mà người nghe có thể quan tâm. Paraphrase quan trọng ở đây là \"comes with a parking space\" có thể được hiểu là \"có một chỗ đậu xe\". Bẫy có thể là người nghe có thể nghĩ rằng thông tin về giá cả hoặc số lượng phòng là quan trọng hơn, nhưng câu hỏi yêu cầu thông tin về đặc điểm của căn hộ. Đáp án đúng là \"parking\" vì nó chính xác phản ánh thông tin được cung cấp trong đoạn hội thoại.",
+      "evidence": "this one comes with a parking space, which is very unusual in that area."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1 (Miss Russell):</strong> Hello?  </p><p><strong>Speaker 2 (James):</strong> Hi, Miss Russell. It's James here from Colvin Lettings, just giving you a call back.  </p><p>Speaker 1 (Miss Russell): Oh, hello, James. Thanks very much. What have you got for me?  </p><p>Speaker 2 (James): I found a couple of places which might be suitable. OK? The first is in the Old Port. Great location, two-bed flat, available on the 12th. It also comes with quite a large garden, which would be great in summer.  </p><p>Speaker 1 (Miss Russell): OK. And how much is it?  </p><p>Speaker 2 (James): It's £1,250 per calendar month.  </p><p>Speaker 1 (Miss Russell): Ah, that is quite a bit out of my budget.  </p><p>Speaker 2 (James): Yeah, well, that's the area for you. These days, it's very up and coming. I do have another place in the Old Port, which is a bit more affordable. It comes in at £1,000 a month.  </p><p>Speaker 1 (Miss Russell): That's a bit more suitable for me.  </p><p>Speaker 2 (James): Yes, but I'm afraid this property is only a one-bed. But it's as spacious as a two-bed, really.  </p><p>Speaker 2 (James): And the final property I have for you is actually in the centre. Now, I know you said that you didn't really want to live around there, but this flat happens to be on a quiet little side street and it's a two-bed at £9.50 a month, available from the 11th.  </p><p>Speaker 1 (Miss Russell): OK. I could take a look, I suppose.  </p><p>Speaker 2 (James): Also, this one comes with a parking space, which is very unusual in that area. When would be a good time for you to view the properties?</p>"
+}

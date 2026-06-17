@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_31",
+  "module": "listening",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2031.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. So, are we going to make a start on the community project for the summer? I've had some ideas.</p><p><strong>Speaker 2:</strong> What were you thinking, Karen?</p><p><strong>Speaker 1:</strong> If I remember correctly, the project has to last around two weeks. Something to help others in the community.</p><p><strong>Speaker 3:</strong> Wasn't it 10 days?</p><p><strong>Speaker 1:</strong> No, I'm sure it was a fortnight.</p><p><strong>Speaker 2:</strong> Yeah, Tom's right. And I was thinking, what about doing something with local children? I've got some connections at the sports centre and I thought we could set up a summer sports school.</p><p><strong>Speaker 3:</strong> Do you think they'd let us use their facilities?</p><p><strong>Speaker 1:</strong> I mentioned it at the gym the other day. There's no problem, as long as we use the outdoor courts and pitches. We might be able to use the sports hall, though the swimming pool is definitely off limits.</p><p><strong>Speaker 2:</strong> That sounds perfect. I could organise an outdoor football skills course.</p><p><strong>Speaker 3:</strong> But wasn't the idea of the community project about fundraising for charity?</p><p><strong>Speaker 1:</strong> Oh, I'm not sure.</p><p><strong>Speaker 2:</strong> Yeah, I remember that too, Olga. Hang on, I've got the assessment guide from the uni on my phone. Just a moment. Yes, we need to do what Olga says. They even have some suggestions of local organisations here.</p><p><strong>Speaker 3:</strong> OK, that's important then. We'll need to think of some ideas. What's about a tournament to round everything off? We could organise some competitions and an entry fee to fundraise.</p><p><strong>Speaker 2:</strong> Your football course would work perfectly, Tom.</p><p><strong>Speaker 1:</strong> I love it, Karen. I could do basketball. Would we be able to do that inside?</p><p><strong>Speaker 2:</strong> They've got a court outside, haven't they, Karen?</p><p><strong>Speaker 1:</strong> Yep, so as long as the weather is reasonable. If we don't get very dry weather, we might have to do something indoors, so planning for that eventuality could be a good idea.</p><p><strong>Speaker 3:</strong> Good point, Tom. Well, could I suggest we do something with music? Maybe a dance course, if we could get the permission to use the sports hall. The kids could do the choreography for the final tournament. If we couldn't use the sports hall, we could still do it outside, though it wouldn't be ideal.</p><p><strong>Speaker 2:</strong> Excellent. So, we've got three ideas. Ah, and we need to decide which charity to donate our funds to, though it's also about raising awareness for these organisations too. So if the sports centre's happy with all of this, we just need to decide some dates. Should we do that and decide which charity to choose? Then we can go and see them and present our plan.</p>"
+    }
+  ]
+}

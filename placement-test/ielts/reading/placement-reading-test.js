@@ -36,7 +36,7 @@ const state = {
 };
 
 const MODULE_NAME = 'Reading';
-const EXAM_BRAND = 'Saola IELTS Actual Exam Vault 9';
+const EXAM_BRAND = 'Saola Placement Test';
 
 function testNumber() {
   const match = String(state.testId || '').match(/(\d+)/);
@@ -313,7 +313,8 @@ function setupHelpUi() {
     }
     const desc = startCard.querySelector('h1 + p');
     if (desc) {
-      desc.textContent = 'Bai luyen tap kiem tra ky nang IELTS Reading dua tren bo de Saola IELTS Actual Exam Vault 9.';
+      document.getElementById('testTitleGate').textContent = `${EXAM_BRAND} - Test ${state.testId.replace('TEST_', '')}`;
+      desc.textContent = 'Bài kiểm tra kỹ năng Đọc (Reading) với thời gian 60 phút.';
     }
   }
   if (loginBox) loginBox.classList.add('start-auth-panel');
@@ -1340,8 +1341,11 @@ function processFeedback(feedback) {
   scoreBox.innerHTML = `
     <div class="score-box">
       <h2>Kết Quả Của Bạn</h2>
-      <div class="score-value">${score} / 40</div>
+      <div class="score-value">${score} / ${scoreMax}</div>
       <p>Kéo xuống dưới hoặc nhấp vào các ô số để xem đáp án và giải thích.</p>
+      <div style="margin-top: 24px;">
+        <a href="../index.html" class="primary-btn" style="text-decoration: none; display: inline-block;">Trở về trang IELTS Test</a>
+      </div>
     </div>
   `;
 

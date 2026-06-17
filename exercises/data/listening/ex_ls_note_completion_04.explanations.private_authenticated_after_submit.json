@@ -1,0 +1,45 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_04",
+  "module": "listening",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q20": {
+      "explanation": "Người nói đang thông báo về việc sử dụng các phòng máy tính trong trường đại học. Thông tin giúp tìm ra đáp án là cụm từ \"staff and postgraduates\", trong đó \"staff\" là từ khóa chính. Paraphrase quan trọng ở đây là \"others can only be used by\" có thể hiểu là \"những phòng máy tính khác chỉ dành cho\". Bẫy ở đây có thể là việc người nghe có thể nghĩ rằng tất cả sinh viên đều có thể sử dụng, nhưng thực tế chỉ có sinh viên đại học mới được sử dụng bốn phòng máy tính được đề cập. Vì vậy, đáp án \"staff\" là chính xác.",
+      "evidence": "The others can only be used by the staff and postgraduates."
+    },
+    "q21": {
+      "explanation": "Người nói đang liệt kê các vị trí của các phòng máy tính mà sinh viên đại học có thể sử dụng. Thông tin giúp tìm ra đáp án là câu nói trực tiếp về vị trí của phòng máy tính Salisbury. Paraphrase quan trọng ở đây là \"Salisbury is in\" có thể hiểu là \"Salisbury nằm ở\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không gây nhầm lẫn. Đáp án \"library\" là chính xác vì nó chỉ ra vị trí cụ thể của phòng máy tính.",
+      "evidence": "Salisbury is in the library."
+    },
+    "q22": {
+      "explanation": "Người nói đang giải thích quy trình đặt chỗ cho máy tính. Thông tin giúp tìm ra đáp án là cụm từ \"two hours daily\", cho biết thời gian tối đa mà sinh viên có thể đặt. Paraphrase quan trọng là \"reserve your time on a computer\" có thể hiểu là \"đặt thời gian sử dụng máy tính\". Bẫy có thể là việc người nghe có thể nghĩ rằng có thể đặt nhiều hơn hai giờ, nhưng thực tế chỉ là hai giờ mỗi ngày. Đáp án \"two hours\" là chính xác vì nó phản ánh đúng quy định.",
+      "evidence": "you can reserve your time on a computer in that for two hours daily."
+    },
+    "q23": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc ghi tên vào sổ đặt chỗ. Thông tin giúp tìm ra đáp án là từ \"pen\", chỉ ra rằng sinh viên cần sử dụng bút mực để ghi tên. Paraphrase quan trọng là \"write your name in the reservation book\" có thể hiểu là \"ghi tên của bạn vào sổ đặt chỗ\". Bẫy có thể là việc người nghe có thể nghĩ rằng có thể sử dụng bất kỳ loại bút nào, nhưng thực tế chỉ rõ ràng yêu cầu sử dụng bút mực. Đáp án \"pen\" là chính xác vì nó phản ánh đúng yêu cầu.",
+      "evidence": "be sure to always write your name in the reservation book in pen."
+    },
+    "q24": {
+      "explanation": "Người nói đang cảnh báo về hình phạt nếu ai đó xóa bỏ đặt chỗ của người khác. Thông tin giúp tìm ra đáp án là từ \"reservation\", chỉ rõ rằng hình phạt liên quan đến việc xóa bỏ đặt chỗ. Paraphrase quan trọng là \"erasing someone else’s reservation\" có thể hiểu là \"xóa bỏ đặt chỗ của người khác\". Bẫy có thể là việc người nghe có thể nghĩ rằng hình phạt sẽ liên quan đến một thứ khác, nhưng thực tế là hình phạt liên quan trực tiếp đến việc xóa bỏ đặt chỗ. Đáp án \"reservation\" là chính xác vì nó phản ánh đúng nội dung.",
+      "evidence": "Penalty for erasing someone else’s reservation - remainder of the."
+    },
+    "q25": {
+      "explanation": "Người nói đang chọn mật khẩu cho tài khoản của mình và giải thích lý do chọn từ \"biology\". Thông tin giúp tìm ra đáp án là từ \"biology\", cho biết môn học mà sinh viên đang theo học. Paraphrase quan trọng là \"choose biology as that's the subject\" có thể hiểu là \"chọn sinh học vì đó là môn học\". Bẫy có thể là việc người nghe có thể nghĩ rằng có nhiều lựa chọn khác, nhưng thực tế là sinh viên đã quyết định chọn \"biology\". Đáp án \"biology\" là chính xác vì nó phản ánh đúng lựa chọn của sinh viên.",
+      "evidence": "I think I'll choose biology as that's the subject that I'm studying."
+    },
+    "q26": {
+      "explanation": "Người nói đang giải thích về quy trình in ấn và nơi nhận bản in. Thông tin giúp tìm ra đáp án là từ \"tray\", cho biết nơi mà các bản in sẽ được để lại. Paraphrase quan trọng là \"left in a tray\" có thể hiểu là \"để trong một khay\". Bẫy có thể là việc người nghe có thể nghĩ rằng có thể nhận bản in ở nơi khác, nhưng thực tế là tất cả bản in đều được để trong khay ở Franklin. Đáp án \"tray\" là chính xác vì nó phản ánh đúng thông tin về nơi nhận bản in.",
+      "evidence": "it will be left in a tray in Franklin, as that's where all the main printers are."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Hello there. Do you work in the computer room? </p><p><strong>Speaker 1:</strong> Yes, I do. Can I help you? </p><p><strong>Speaker 2:</strong> Well, I'm a first year and I know that I'll need to use the computer room for my work, as I don't have a computer of my own. So I thought I'd get down here and see what I have to do in order to get time on one of the university's computers. </p><p><strong>Speaker 1:</strong> OK, there are four computer labs open to undergraduates. The others can only be used by the staff and postgraduates. The names of the four labs that you can use are Wimborne, Franklin, Salisbury and Court. Wimborne and Court are in this building, the Johnson building. Franklin is in the computer sciences building and Salisbury is in the library. </p><p><strong>Speaker 2:</strong> So I can use them whenever I like? </p><p><strong>Speaker 1:</strong> Well, you can use them, but not whenever you like. As you can imagine, they're in quite a lot of demand, so you have to reserve your time on a computer. In each of the labs, there is a reservation book and you can reserve your time on a computer in that for two hours daily. If a computer is free, though, you can go on it straight away. It's quite straightforward, but be sure to always write your name in the reservation book in pen or someone can rub it out and put their name in instead. </p><p><strong>Speaker 2:</strong> Oh my God, does that really happen? </p><p><strong>Speaker 1:</strong> I'm afraid so. And far more often than you would think. When people are stressed about their assignments, they'll do anything to get some time on the computers. Better not try it yourself, though, or you'll be banned from the computers for the rest of your academic year and your password and username will be taken away. </p><p><strong>Speaker 2:</strong> That reminds me, I've got to get a username and password. How do I go about that then? </p><p><strong>Speaker 1:</strong> Well, what I'll do is pass you over to my colleague, Jane, as she's in charge of all that. Jane. </p><p><strong>Speaker 3:</strong> Yes, Dave. </p><p><strong>Speaker 1:</strong> I've got a new student here wanting to find out about usernames and passwords. Can you help him out with that? </p><p><strong>Speaker 3:</strong> Yeah, sure. Hi there. </p><p><strong>Speaker 2:</strong> Hi. </p><p><strong>Speaker 3:</strong> Well, it's a straightforward process. First of all, tell me your name and I'll type it into the system. </p><p><strong>Speaker 2:</strong> James Smith. </p><p><strong>Speaker 3:</strong> Right, let me do that. You see, all students are automatically given a username and then they just choose a password themselves. </p><p><strong>Speaker 2:</strong> OK, so your username is James Smith 2. That's all small case. That means there must be more than one of you at the university at the moment. </p><p><strong>Speaker 3:</strong> Well, what do you want your password to be? </p><p><strong>Speaker 2:</strong> I think I'll choose biology as that's the subject that I'm studying, though my girlfriend Mary will be upset that it's not her name I'm using. </p><p><strong>Speaker 3:</strong> Well, that's done. You can now use any of the four undergraduate computer labs. By the way, can I print out stuff at the labs? </p><p><strong>Speaker 1:</strong> Yes, you can, but sometimes it's not quick. When you print, it goes into a queue and it will be left in a tray in Franklin, as that's where all the main printers are. The good bit is that, although last year it cost three pence per page, now it doesn't cost you anything.</p>"
+}

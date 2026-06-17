@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_44",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2044.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Hi Adrian, what are you reading?</p><p><strong>Speaker 1:</strong> Oh hi Nick, it's just an article on Australian immigration. I'm doing a report on it next week in a seminar for Dr. Ronaldson.</p><p><strong>Speaker 2:</strong> On immigration? That sounds exciting stuff.</p><p><strong>Speaker 1:</strong> Yes, it's not really very exciting, but there are some interesting bits.</p><p><strong>Speaker 2:</strong> Such as?</p><p><strong>Speaker 1:</strong> Well, for example, did you know that immigration to Australia first started over 50,000 years ago, when the ancestors of Australian Aborigines arrived via Indonesia and New Guinea?</p><p><strong>Speaker 2:</strong> I can't say I did know that the Aborigines arrived in that way.</p><p><strong>Speaker 1:</strong> Exactly, it's not as boring as you might think. Well, do you want to run through some of your ideas? I'm not doing anything right now.</p><p><strong>Speaker 2:</strong> That would be great, thanks. Fire away then.</p><p><strong>Speaker 1:</strong> Okay, well, after the Aborigines there was obviously a big gap until the next settlers arrived from London. Europeans began landing in the 1600s and 1700s and the country was colonised by Britain in 1788.</p><p><strong>Speaker 2:</strong> Weren't the first colonists just criminals transported by Britain?</p><p><strong>Speaker 1:</strong> Britain certainly used the colony as a place to send their undesirables. The first colony was formally proclaimed as New South Wales on February 7th, and this European settlement certainly did begin with a troop of petty criminals, second-rate soldiers and a crew of sailors.</p><p><strong>Speaker 2:</strong> When did the other people start arriving?</p><p><strong>Speaker 1:</strong> Immigration really sped up after the discovery of gold in Australia. The gold rush era, beginning in 1851, led to an enormous expansion in population all through the reign of Queen Victoria.</p><p><strong>Speaker 2:</strong> And did that continue strongly?</p><p><strong>Speaker 1:</strong> Not really. After the excitement of the gold rush died down, immigration slowed down considerably. The popularity of Australia as a place to go and live only really shot up after the Second World War.</p><p><strong>Speaker 2:</strong> Didn't that cause problems as well?</p><p><strong>Speaker 1:</strong> Yes, for a country that's well known today for its multicultural diversity and tolerance, Australia's had a chequered past. After the federation of all the Australian states, the White Australia policy was created to counteract flows of non-whites to Australia. And this policy became even more popular after the population push following the war.</p><p><strong>Speaker 2:</strong> How did the policy come about?</p><p><strong>Speaker 1:</strong> The origin of the policy can be traced back to the 1850s, when large numbers of Chinese immigrated to Australia to look for gold or to set up businesses such as restaurants. The Anglo-Australian population resented the Chinese, who were undercutting white labour prices. In response, the newly self-governing colonies introduced restrictions on Chinese immigration. By 1888, Chinese were excluded from all the Australian colonies, although those Chinese who were already in Australia were not deported.</p><p><strong>Speaker 2:</strong> And how long did it go on for?</p><p><strong>Speaker 1:</strong> The effective end of the White Australia policy is usually dated to 1973, when the Whitlam Labour government implemented a series of amendments preventing the enforcement of racial aspects of the immigration law. It had been fading for some years, though. Under the 1950 Colombo Plan, students from Asian countries were admitted to study at Australian universities. This trend continued, when in 1957, non-whites with 15 years' residence in Australia were allowed to become citizens.</p>"
+    }
+  ]
+}

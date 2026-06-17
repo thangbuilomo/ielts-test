@@ -1,0 +1,63 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_rd_matching_information_10",
+  "module": "reading",
+  "question_count": 8,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 8,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "RS"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "JH"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "YS"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "KB"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "RH"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "SE"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "YS"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "RS"
+      ]
+    }
+  }
+}

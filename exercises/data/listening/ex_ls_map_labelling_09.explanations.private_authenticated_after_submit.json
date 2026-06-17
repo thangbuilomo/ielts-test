@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_map_labelling_09",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q16": {
+      "explanation": "Người nói đang mô tả vị trí của quầy thông tin du lịch trong ga tàu Porto Nuevo. Thông tin giúp tìm ra đáp án là cụm từ \"turn sharp right after going in,\" cho thấy vị trí cụ thể của quầy thông tin. Paraphrase quan trọng ở đây là \"tourist information desk\" được nhắc đến rõ ràng. Không có bẫy trong câu này vì thông tin rất rõ ràng và không có thông tin gây nhầm lẫn. Đáp án đúng là A vì nó là vị trí chính xác của quầy thông tin du lịch trong bản đồ.",
+      "evidence": "There's a tourist information desk, which can be found if you immediately turn sharp right after going in."
+    },
+    "q17": {
+      "explanation": "Người nói đang thông báo về sự hiện diện của văn phòng đồ thất lạc trong ga tàu. Thông tin giúp tìm ra đáp án là cụm từ \"lost property office,\" cho thấy rõ ràng vị trí của văn phòng này. Paraphrase quan trọng là \"lost property,\" không có bẫy nào trong câu này vì thông tin rất trực tiếp và không gây nhầm lẫn. Đáp án đúng là B vì nó chỉ ra vị trí của văn phòng đồ thất lạc.",
+      "evidence": "In case anyone loses anything, there's a lost property office."
+    },
+    "q18": {
+      "explanation": "Người nói đang chỉ dẫn vị trí của nhà vệ sinh trong ga tàu. Thông tin giúp tìm ra đáp án là cụm từ \"the loos are in the corner,\" cho thấy vị trí cụ thể của nhà vệ sinh. Paraphrase quan trọng là \"loos\" là từ lóng cho nhà vệ sinh. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là C vì nó chỉ ra vị trí chính xác của nhà vệ sinh.",
+      "evidence": "the loos are in the corner directly behind that."
+    },
+    "q19": {
+      "explanation": "Người nói đang thông báo về sự hiện diện của các quầy hàng thực phẩm trong ga tàu. Thông tin giúp tìm ra đáp án là cụm từ \"snack for the journey,\" cho thấy rõ ràng mục đích của các quầy hàng. Paraphrase quan trọng là \"stalls\" có nghĩa là quầy hàng. Không có bẫy trong câu này vì thông tin rất rõ ràng và không gây nhầm lẫn. Đáp án đúng là D vì nó chỉ ra vị trí của các quầy hàng thực phẩm.",
+      "evidence": "If anyone needs a snack for the journey, there are some stalls directly in front of you as you go into the station building."
+    },
+    "q20": {
+      "explanation": "Người nói đang đề cập đến cửa hàng quà tặng trong ga tàu, nhưng lưu ý rằng vị trí của nó không dễ nhận thấy. Thông tin giúp tìm ra đáp án là cụm từ \"gift shop,\" cho thấy rõ ràng sự tồn tại của cửa hàng này. Paraphrase quan trọng là \"not so obvious,\" cho thấy rằng vị trí của cửa hàng có thể gây khó khăn cho du khách. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là E vì nó chỉ ra vị trí của cửa hàng quà tặng.",
+      "evidence": "There's also a gift shop, but it's not so obvious."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1 (Tour Guide):</strong> This recording is copyright. You will hear a tour guide talking to visitors at the historic train station in a city called Porto Nuevo. You now have some time to look at the questions on your screen. Now, answer the questions on your screen. </p><p>I'd like to tell you about the facilities at the station before we go in. Let's take a look at the floor plan showing the layout of the Great Hall. As you can see, visitors enter the station through the grand entrance at the front of the building. </p><p>There's a tourist information desk, which can be found if you immediately turn sharp right after going in. The staff are really helpful. In case anyone loses anything, there's a lost property office. </p><p>Now, you see where the two curving staircases are that lead up to the platforms? Well, lost property is halfway between those two, against the back wall. So if you accidentally leave your jacket on the train, that's where you'll be able to find it, hopefully. </p><p>Now, toilets. If you want to go before you get on the train, you'll see over towards the left, there's a large statue. Well, if you were standing at the main entrance, the loos are in the corner directly behind that. You have to pay to use them, about a euro, I think. </p><p>If anyone needs a snack for the journey, there are some stalls directly in front of you as you go into the station building, more or less in the centre of the Great Hall. There should be time to get something to eat there if you're quick. </p><p>There's also a gift shop, but it's not so obvious. The easiest way to explain where it is, is if you stand with your back towards the big clock, well, it's over in the far corner, right across the Great Hall. </p><p>OK, enjoy yourselves and see you again in 10 minutes.</p>"
+}

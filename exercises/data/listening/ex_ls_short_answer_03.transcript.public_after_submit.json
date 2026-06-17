@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_short_answer_03",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/SHORT%20ANSWER%2003.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Good morning, everyone. Well, in today's tutorial, we're going to discuss the essays that you have to submit by the end of the week. Some of you will have already started them, which is good, and if you haven't, well, that's OK, but you'll have to get a move on. So let's begin with you, Simon. What's happening with you?</p><p><strong>Speaker 2:</strong> Well, I've made a start on it. I've researched the background quite extensively last weekend, and I should get to the writing stage tomorrow, with a bit of luck, and I'll get it finished at the weekend.</p><p><strong>Speaker 1:</strong> What are you writing about?</p><p><strong>Speaker 2:</strong> I decided to look at the car manufacturing company Jaguar, examine the problems they had with reliability in the 1970s and 80s, how they dealt with it and how it affected their marketing and sales strategy.</p><p><strong>Speaker 1:</strong> That sounds pretty interesting. Any problems with that?</p><p><strong>Speaker 2:</strong> At the start, I had problems getting information from that far back, but after rooting around in the library, I found some magazines which gave me information and also gave me references to find other stuff. It seems now the only problem is keeping to the 4,000 word limit. It just seems I have so much to write about. It seems I'll need 5,000 or even 6,000 words to be able to cope.</p><p><strong>Speaker 1:</strong> Yes, your essay title seems to me to be very wide-ranging. Would you think about cutting out part of it? How about looking at their sales and marketing strategy, but only mentioning the problems in the 70s and 80s and not going too far into it?</p><p><strong>Speaker 2:</strong> That's a good idea. That will make it much easier to handle. </p><p><strong>Speaker 1:</strong> By the way, how do you want us to hand in our work? Do you want us to drop in a hard copy to your office?</p><p><strong>Speaker 2:</strong> You could do that, but I'd prefer it if you'd just email it to me as an attachment. You've all got my address. If not, give it to the secretary, clearly marked that it's for me.</p>"
+    }
+  ]
+}

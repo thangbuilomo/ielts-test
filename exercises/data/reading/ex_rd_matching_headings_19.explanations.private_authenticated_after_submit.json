@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_19",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q14": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Born in Wallonia in 1814, Adolphe Sax grew up in an environment which struck a perfect harmony of invention and musicality. His father was a keen designer of instruments, and one he made particular design improvements to was the horn.\". Heading vii (A child of science and sound) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Born in Wallonia in 1814, Adolphe Sax grew up in an environment which struck a perfect harmony of invention and musicality. His father was a keen designer of instruments, and one he made particular design improvements to was the horn._"
+    },
+    "q15": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Sax’s opportunity came in 1859 when official changes were made to concert pitch, meaning it would be necessary for every band and orchestra to acquire new woodwind instruments. Originally, Sax invented two families of saxophone, one for orchestral use, the other for military use.\". Heading vi (Two versions - the saxophone's early success) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Sax’s opportunity came in 1859 when official changes were made to concert pitch, meaning it would be necessary for every band and orchestra to acquire new woodwind instruments. Originally, Sax invented two families of saxophone, one for orchestral use, the other for military use._"
+    },
+    "q16": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"In North America, the instrument became a key component of the popular wind bands where clarinetists also frequently experimented with the saxophone. One such dual instrumentalist, Edouard Lefebre, had fallen in love with the instrument whilst visiting Paris and pledged to make it his life’s work to promote the instrument.\". Heading iii (Success abroad) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "In North America, the instrument became a key component of the popular wind bands where clarinetists also frequently experimented with the saxophone. One such dual instrumentalist, Edouard Lefebre, had fallen in love with the instrument whilst visiting Paris and pledged to make it his life’s work to promote the instrument._"
+    },
+    "q17": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"While the saxophone continued to gain approval from the public due to its continued use in music hall and vaudeville shows, early jazz pioneers continued to experiment with more traditional members of the horn and woodwind sections – the clarinet, trumpet, and trombone. In addition to the saxophone's negative associations as a frivolous instrument, another concern at the time was that the sound – smooth and mellow – could not compete with blaring trumpets, noisy drums and loud conversation that accompanied jazz performances.\". Heading viii (Problems fitting in and how they were solved) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "While the saxophone continued to gain approval from the public due to its continued use in music hall and vaudeville shows, early jazz pioneers continued to experiment with more traditional members of the horn and woodwind sections – the clarinet, trumpet, and trombone. In addition to the saxophone's negative associations as a frivolous instrument, another concern at the time was that the sound – smooth and mellow – could not compete with blaring trumpets, noisy drums and loud conversation that accompanied jazz performances._"
+    },
+    "q18": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The saxophone became increasingly important in Swing music in the 1930s, which featured baritone saxophone and brass sections of the band playing call-response patterns between each other. Hugely influential towards the end of the 1930s was the work of Coleman Hawkins; it was thanks to him and his playing that the saxophone grew to be an equal of the trumpet within the jazz sound.\". Heading ii (The saxophone takes centre stage) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The saxophone became increasingly important in Swing music in the 1930s, which featured baritone saxophone and brass sections of the band playing call-response patterns between each other. Hugely influential towards the end of the 1930s was the work of Coleman Hawkins; it was thanks to him and his playing that the saxophone grew to be an equal of the trumpet within the jazz sound._"
+    },
+    "q19": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The saxophone has continued to play a prominent role in the development of a variety of types of music up to the present day. Saxophonists such as John Coltrane and Ornette Coleman made full use of the instrument's creative potential through the avant-garde jazz movements of the 1960s and 1970s, experimenting with tonal exploration, harmonics and multiphonics, and Pharaoh Sanders extended its reach to mimic non-Western ethnic sounds.\". Heading ix (New sounds and new audiences) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The saxophone has continued to play a prominent role in the development of a variety of types of music up to the present day. Saxophonists such as John Coltrane and Ornette Coleman made full use of the instrument's creative potential through the avant-garde jazz movements of the 1960s and 1970s, experimenting with tonal exploration, harmonics and multiphonics, and Pharaoh Sanders extended its reach to mimic non-Western ethnic sounds._"
+    }
+  }
+}

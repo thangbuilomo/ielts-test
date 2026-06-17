@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_69",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2069.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1 (Sue):</strong> All right, Sue, do you want to work with me on this presentation we need to give next week?</p><p><strong>Speaker 2 (Paul):</strong> Hey, Paul, sure. So we've got to talk about one artist and show up to six of their artworks.</p><p>Speaker 1 (Sue): Yes, that's right. We could talk about John Sell Cotman. The English watercolour painter from the 1800s.</p><p>Speaker 2 (Paul): That's the one. You can tell a Cotman painting as soon as you see one.</p><p>Speaker 1 (Sue): Definitely. I mean, he painted landscapes and architecture just like his contemporaries, but Cotman had this unique way of applying colour.</p><p>Speaker 2 (Paul): Yes, he'd put on one layer of paint, let it dry, then do another layer on top of that to make the colour more intense.</p><p>Speaker 1 (Sue): So regardless of whether he signed the picture, you immediately know it's a Cotman.</p><p>Speaker 2 (Paul): Yeah. Thing is, when we present to the other students, well, Cotman, he's not exactly Van Gogh, is he?</p><p>Speaker 1 (Sue): As in, he's not a world-famous painter who had a huge influence.</p><p>Speaker 2 (Paul): Exactly. You and I were both familiar with him, but not everybody will be. So we can't assume any prior knowledge.</p><p>Speaker 1 (Sue): Sure. I read that he often stayed somewhere called Bransby, but I'm not aware he ever painted Bransby, so I'm not sure why he went.</p><p>Speaker 2 (Paul): Oh, he stayed with friends who owned a house there when he was on painting tours, and they introduced him to wealthy people who would offer him work, maybe to paint their portraits or whatever.</p><p>Speaker 1 (Sue): I see. So he was on the lookout for his next commission.</p><p>Speaker 2 (Paul): Right. It was in his interest to keep getting invited back. Shall we focus on Cotman's friendships and talk about his love life and family? Personalise it. Make our classmates feel they're getting to know Cotman, the man. What do you think?</p><p>Speaker 1 (Sue): Well, we could in theory go through some of the letters he wrote. I mean, plenty of them have survived, but to be honest, that might be off-topic, and it would take ages. I say we keep to the brief and limit ourselves to his artworks. Make sure our audience knows what makes his paintings so fascinating.</p><p>Speaker 2 (Paul): Okay.</p>"
+    }
+  ]
+}

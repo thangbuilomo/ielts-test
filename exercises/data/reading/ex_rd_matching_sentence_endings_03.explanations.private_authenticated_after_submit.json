@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_sentence_endings_03",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q7": {
+      "explanation": "Câu 7 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn A chứa căn cứ: \"The earth’s atmosphere is composed of several layers. We live in the troposphere, from ground level up to about 10 kilometres high, where most of the weather occurs, such as rain, snow and clouds. Supersonic passenger jets fly just above the troposphere, whereas subsonic commercial airliners usually operate well within it.\". Lựa chọn F (... the issue of the heating up of the earth’s atmosphere.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The earth’s atmosphere is composed of several layers. We live in the troposphere, from ground level up to about 10 kilometres high, where most of the weather occurs, such as rain, snow and clouds. Supersonic passenger jets fly just above the troposphere, whereas subsonic commercial airliners usually operate well within it._"
+    },
+    "q8": {
+      "explanation": "Câu 8 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn D chứa căn cứ: \"Dramatic loss of ozone in the lower stratosphere over Antarctica was first noticed in the 1970s by a research group from the British Antarctic Survey (BAS) who were monitoring the atmosphere above Antarctica from a research station. Folklore has it that when the first measurements were taken in 1975, the drop in ozone levels in the stratosphere was so dramatic that at first the scientists thought their instruments were faulty. Replacement instruments were built and flown out and it was not until several months later, when they confirmed the earlier measurements, that the ozone depletion observed was accepted as genuine.\". Lựa chọn B (... the discharge of synthetic chemicals into the atmosphere.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Dramatic loss of ozone in the lower stratosphere over Antarctica was first noticed in the 1970s by a research group from the British Antarctic Survey (BAS) who were monitoring the atmosphere above Antarctica from a research station. Folklore has it that when the first measurements were taken in 1975, the drop in ozone levels in the stratosphere was so dramatic that at first the scientists thought their instruments were faulty. Replacement instruments were built and flown out and it was not until several months later, when they confirmed the earlier measurements, that the ozone depletion observed was accepted as genuine._"
+    },
+    "q9": {
+      "explanation": "Câu 9 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn E chứa căn cứ: \"In the popular press the ozone hole is often confused with the problem of global warming. Whilst there is a connection because ozone contributes to the greenhouse effect, the ozone hole is a separate issue. Over Antarctica (and recently over the Arctic), stratospheric ozone has been depleted in the last 15 years at certain times of the year.\". Lựa chọn D (... the normal components of the earth’s atmosphere.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "In the popular press the ozone hole is often confused with the problem of global warming. Whilst there is a connection because ozone contributes to the greenhouse effect, the ozone hole is a separate issue. Over Antarctica (and recently over the Arctic), stratospheric ozone has been depleted in the last 15 years at certain times of the year._"
+    },
+    "q10": {
+      "explanation": "Câu 10 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn F chứa căn cứ: \"The ozone depletion process begins when CFCs and other ozone depleting substances are emitted into the atmosphere where winds efficiently mix and evenly distribute the gases. CFCs are extremely stable and they do not dissolve in rain. After a period of several years, natural gases in the stratosphere combine with CFCs and this releases chlorine atoms, halons and methyl bromide.\". Lựa chọn H (... the cessation of the release of most CFC gases into the atmosphere.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The ozone depletion process begins when CFCs and other ozone depleting substances are emitted into the atmosphere where winds efficiently mix and evenly distribute the gases. CFCs are extremely stable and they do not dissolve in rain. After a period of several years, natural gases in the stratosphere combine with CFCs and this releases chlorine atoms, halons and methyl bromide._"
+    }
+  }
+}

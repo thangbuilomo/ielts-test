@@ -1,0 +1,233 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "test_id": "vol_09_t1_rd",
+  "module": "reading",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit"
+  },
+  "scoring": {
+    "raw_score_max": 40,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_groups": {
+    "rd_q21_22": {
+      "question_ids": [
+        "q21",
+        "q22"
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "order_matters": false,
+      "allow_duplicate": false,
+      "score_each_question": true
+    }
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "water"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "cyclones"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "farming"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "logging"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "animals"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "maps"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "book"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "vii"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "xi"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "v"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "iv"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "ii"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "ix"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "vi"
+      ]
+    },
+    "q21": {
+      "answer_group_id": "rd_q21_22"
+    },
+    "q22": {
+      "answer_group_id": "rd_q21_22"
+    },
+    "q23": {
+      "answers": [
+        "civilisation"
+      ]
+    },
+    "q24": {
+      "answers": [
+        "barter"
+      ]
+    },
+    "q25": {
+      "answers": [
+        "silver"
+      ]
+    },
+    "q26": {
+      "answers": [
+        "inflation"
+      ]
+    },
+    "q27": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q28": {
+      "answers": [
+        "H"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "F"
+      ]
+    },
+    "q31": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "H"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "naringin"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "poisonous"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "genetic"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "supertasters"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "top"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "C"
+      ]
+    }
+  }
+}

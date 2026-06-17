@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_19",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Người nói đang nói về lý do tại sao Don không tham gia hội thảo đánh giá. Don đã bị cảm và đã ngủ cả ngày để hồi phục sức khỏe, điều này cho thấy lý do chính là sức khỏe của anh ấy. Thông tin giúp tìm ra đáp án là câu nói của Don về việc anh đã bỏ bữa và ngủ cả ngày. Paraphrase quan trọng ở đây là \"overslept\" (ngủ quên) có thể được hiểu là ngủ nhiều hơn bình thường do bệnh tật. Bẫy ở đây có thể là câu hỏi khiến người nghe nghĩ rằng Don có thể đã bị ốm nặng hơn, nhưng thực tế là anh chỉ bị cảm nhẹ. Đáp án A là đúng vì nó phản ánh chính xác lý do Don không tham gia hội thảo.",
+      "evidence": "Yes, I got over it by sleeping all day yesterday and skipping my meals."
+    },
+    "q22": {
+      "explanation": "Người nói đang giải thích về loại hình đánh giá thay thế cho các bài thuyết trình trong khóa học Tài chính. Thông tin quan trọng là \"case studies\" (nghiên cứu trường hợp) được đề cập như một sự thay thế cho các bài thuyết trình. Paraphrase quan trọng là \"not really an essay subject\" (không thực sự là một môn viết luận) cho thấy rằng môn học này không phù hợp với hình thức đánh giá truyền thống. Không có bẫy trong câu này vì thông tin rõ ràng và trực tiếp. Đáp án A là đúng vì nó phản ánh chính xác loại hình đánh giá mới trong khóa học.",
+      "evidence": "As our option, finance is not really an essay subject, we get to do two case studies instead of presentations."
+    },
+    "q23": {
+      "explanation": "Người nói đang nói về sự khác biệt giữa các môn học mà họ đang theo học. Mark học môn Kế toán, trong khi Don không học môn này. Thông tin giúp tìm ra đáp án là câu nói của Mark về việc anh học Kế toán và Don không học. Paraphrase quan trọng là \"one more than you\" (thêm một môn so với bạn) cho thấy rằng Mark có một môn học mà Don không có. Bẫy có thể là sự nhầm lẫn giữa các môn học khác mà họ chia sẻ, nhưng câu này rõ ràng chỉ ra sự khác biệt. Đáp án C là đúng vì nó phản ánh chính xác môn học mà Mark theo học.",
+      "evidence": "I do accountancy and you don't, so I get to have one more than you."
+    },
+    "q24": {
+      "explanation": "Người nói đang nói về cách mà Don sẽ tìm ra hạn chót cho các bài luận của mình. Thông tin quan trọng là các giáo viên sẽ đăng hạn chót lên trang web của khoa. Paraphrase quan trọng là \"individually post\" (đăng riêng lẻ) cho thấy rằng thông tin sẽ được cung cấp một cách chính thức qua trang web. Bẫy có thể là sự nhầm lẫn với thông tin về bảng thông báo, nhưng câu này rõ ràng chỉ ra rằng thông tin sẽ không được cung cấp qua bảng thông báo. Đáp án A là đúng vì nó phản ánh chính xác cách Don sẽ nhận được thông tin về hạn chót.",
+      "evidence": "After that, the teachers will individually post the given deadlines on the department website."
+    },
+    "q25": {
+      "explanation": "Người nói đang nói về quy trình mới mà Don sẽ phải tuân theo khi viết bài luận. Thông tin quan trọng là \"new standard procedure for essay layout\" (quy trình tiêu chuẩn mới cho cách trình bày bài luận). Paraphrase quan trọng là \"how to do citations and bibliographies\" (cách thực hiện trích dẫn và tài liệu tham khảo) cho thấy rằng quy trình này sẽ hướng dẫn cách trình bày bài viết. Bẫy có thể là sự nhầm lẫn với các thông tin khác về cách nộp bài, nhưng câu này rõ ràng chỉ ra rằng quy trình mới liên quan đến cách trình bày. Đáp án A là đúng vì nó phản ánh chính xác quy trình mà Don sẽ phải tuân theo.",
+      "evidence": "Just that there is now a new standard procedure for essay layout."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>:You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong>Hey, Mark. </p><p><strong>Speaker 1:</strong>Oh, hi, Don. Have you got over that cold yet? </p><p><strong>Speaker 2:</strong>Yes, I got over it by sleeping all day yesterday and skipping my meals. So I'm much better, thanks. Did you go to that workshop on assessments for the business course yesterday? </p><p><strong>Speaker 1:</strong>Yes, I did. I made notes for you as I knew you weren't there. We can go through them now if you want. </p><p><strong>Speaker 2:</strong>That would be really helpful. </p><p><strong>Speaker 1:</strong>Well, they let us know about all the assessments for this year. As you can see, I've broken it down into assessments for Semester 1 and assessments for Semester 2. Do you know the dates for the semesters? </p><p><strong>Speaker 2:</strong>Yes, Semester 1 is from the beginning of October to the end of January. Semester 2 is from the middle of February to the middle of June. </p><p><strong>Speaker 1:</strong>Good. Now then, let's look at the first semester. The assessments on our options for the first semester are divided up into three. There are all the essays and presentations that you do over the semester, and then there are some exams in the second half of January for two weeks on all the options that you've chosen. The five options of the first semester have two essays and two presentations each. As our option, finance is not really an essay subject, we get to do two case studies instead of presentations. The options have one exam each. So, I've got five options like you, so I have five exams. Is that right?</p><p><strong>Speaker 2:</strong>Sort of. All the options have one exam each, but accountancy has two. I do accountancy and you don't, so I get to have one more than you.</p><p><strong>Speaker 1:</strong>Lucky you. </p><p><strong>Speaker 2:</strong>Exactly. So we share the other four options in the first semester. Marketing, Economics, Strategic Planning and Finance. What about deadlines?</p><p><strong>Speaker 1:</strong>They aren't out yet. They say that the deadlines will be orally given when the essays are set by the teachers. After that, the teachers will individually post the given deadlines on the department website. </p><p><strong>Speaker 2:</strong>Not on the department notice boards? </p><p><strong>Speaker 1:</strong>Not this year. They've phased that out as it's too old-fashioned. Anything else about non-exam assessments? </p><p><strong>Speaker 2:</strong>Just that there is now a new standard procedure for essay layout. It covers things like how to do citations and bibliographies, page numbering, cover pages and things like that. Word limits will be the same though. Can we give in our essays by email this year? </p><p><strong>Speaker 1:</strong>Unbelievably, the essays all still must be submitted on paper in the individual teachers' pigeonhole. They're living in the stone age sometimes. </p><p><strong>Speaker 2:</strong>I know.</p>"
+}

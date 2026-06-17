@@ -1,0 +1,129 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_summary_completion_03",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "summary_completion",
+  "category_id": "summary_completion",
+  "title": "Summary Completion - Exercise 3",
+  "duration_seconds": 0,
+  "content": {
+    "title": "Pilotage - The Original Pilots",
+    "content_html": "<h1>SUMMARY COMPLETION 03</h1>\n<h2>Pilotage - The Original Pilots</h2>\n<p>Although most people nowadays think of aviation when they hear the word \"pilot\", the term was originally used to refer to local seamen whose task was to guide ships through coastal waters and into a port. In fact, the English word \"pilot\" evolved from the Dutch term for a plumb lead, a length of rope with a weight on the end of it used for measuring the depth of water. Today, nearly every port employs pilots licensed by the government of the country, and the use of their services is compulsory, except for local ships whose master holds a current pilotage exemption for a specific port. Pilots are responsible for the safe conduct and navigation of any ship from the time they assume control from the master after boarding at sea until the vessel is safely moored at the allocated wharf, or vice versa in the case of ships that are leaving a harbour.</p>\n<p>The history of sea pilotage goes back many hundreds of years to a time when seamen with local knowledge offered their services to ships’ captains to help them navigate their vessels through the waters at the entrance to ports. As maritime trade widened into new territories, help was required in approaching little-known areas of coastline. Early European settlers in the New World were often provided navigational assistance by the native people who had been residing in the area for many thousands of years. Using their canoes, the natives would lead ships into unknown rivers or natural harbours and warn mariners of any underwater dangers. Once settlements began to become more established, ships arrived more regularly in the area. By then many of the early pilots were settlers who had become fishermen. These fishermen would often command good fees for piloting ships because of their specialised knowledge of water depths, navigational hazards, tides and currents in their local areas.</p>\n<p>Although modern electronic equipment and navigational aids have changed the way ships are operated at sea, the employment of a marine pilot with extensive local knowledge and expert ship-handling skills is as essential as ever. In addition, changes in the shipping business have increased the need for pilots. Ships have become larger and more complex, while the number of crew members on the ships has decreased. There are now fewer skilled people on board these large ships who can both handle them and have knowledge of different harbours. In today’s competitive world, there are also increasing demands for ships to operate in more severe weather conditions than in the past. Accordingly, local knowledge of how a particular type of weather affects the approach and entry to a port is essential in getting ships docked quickly. A reliable and responsible marine pilotage system in every port plays a significant role in allowing businesses to remain competitive in the global marketplace.</p>\n<p>Shipping is a very high cost industry, with running costs for fuel, maintenance and crews easily averaging US $2,000 per ship per hour for every hour of every day. Consequently, shipping is a 24-hour-a-day industry and pilots need to be available at any time to play their part. In fact, the importance of pilot reliability has led to pilots in Australia being self-employed, which means none is a union member and they are therefore never involved in industrial disputes that could cause delays to shipping.</p>\n<p>Over the years, pilots have had to develop different levels of expertise in order to deal with how ships have changed, the most spectacular of which is probably the increase in size. A hundred years ago, 2,000 tonnes was considered a large ship. Forty years ago, 10,000 tonnes was considered a large ship. Today, 100,000 tonnes is an everyday occurrence. The types of ships have also changed. Most ships today are built for specific cargoes, such as containers, tankers, roll-on-roll-offs, car carriers, bulk carriers and general purpose ships. As a result of this, their appearance and handling differ considerably. For example, a large loaded tanker would not be much affected by wind, but the pilot would have to commence reducing speed about 10 miles before reaching the berth. The other extreme would be a car carrier, which does not go deep into the water. This could be stopped quickly, but would be very much affected by winds. Different harbour conditions are also important. Big, deep-draught ships in narrow channels require the pilot’s full attention; a lapse of concentration could result in a major accident with a considerable impact on the environment from, for example, a subsequent oil spillage.</p>\n<p>Today, coastal marine pilots have a wide range of responsibilities. They must provide advice on the safe navigation of a vessel and act as stewards of the sea. They must provide detailed passage planning, local knowledge, leadership to the bridge team, and liaison with shore authorities and vessel traffic services. Pilots also need to provide independent judgement and advice to the ship’s master, who ultimately remains in command of the vessel. Moreover, a pilot has to monitor his or her own personal health and safety, and he or she must also be a mentor to new coastal pilots. The scope and obligations of the job facing a pilot today are extremely challenging, but the variety and rewards of this work mean that there is intense competition among people wanting to enter the field.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_summary_completion_03.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_summary_completion_03.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "summary_completion",
+          "skill_tags": [
+            "rd_comp_summary"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 22 - 26</strong></p>\n<p>Complete the summary with the words from the list. Write the correct letter <strong>A - J </strong>for each answer.</p>\n<table>\n<tr>\n<td>Over the years, despite developments in technology, the importance of pilots' <blank data-qid=\"q22\"/>  hasn't changed. However, the sizes and functions of ships have. Nowadays <blank data-qid=\"q23\"/> are loaded onto ships specifically designed for them and, as the ships’ characteristics vary considerably, pilots face a range of different problems when handling them. A lack of <blank data-qid=\"q24\"/> when piloting these large ships might lead to an accident that could cause severe environmental problems.<br>Although the <blank data-qid=\"q25\"/>  of a ship into or out of port is still their main responsibility, pilots also handle comunications with the port authorities and other vessels in the area. In addition, they must manage their own physical well-being and offer <blank data-qid=\"q26\"/>  to less experienced members of the profession.</td>\n</tr>\n</table>\n\n<table>\n<tr>\n<td><strong>A</strong> navigation</td>\n<td><strong>B</strong> skills</td>\n<td><strong>C</strong> vehicles</td>\n<td><strong>D</strong> qualifications</td>\n</tr>\n<tr>\n<td><strong>E</strong> cargoes</td>\n<td><strong>F</strong> focus</td>\n<td><strong>G</strong> advice</td>\n<td><strong>H</strong> planning</td>\n</tr>\n</table>",
+          "items": [
+            {
+              "question_id": "q22",
+              "number": 22,
+              "prompt_html": "Question 22",
+              "response_type": "select"
+            },
+            {
+              "question_id": "q23",
+              "number": 23,
+              "prompt_html": "Question 23",
+              "response_type": "select"
+            },
+            {
+              "question_id": "q24",
+              "number": 24,
+              "prompt_html": "Question 24",
+              "response_type": "select"
+            },
+            {
+              "question_id": "q25",
+              "number": 25,
+              "prompt_html": "Question 25",
+              "response_type": "select"
+            },
+            {
+              "question_id": "q26",
+              "number": 26,
+              "prompt_html": "Question 26",
+              "response_type": "select"
+            }
+          ],
+          "options": [
+            {
+              "label": "A",
+              "text": "navigation"
+            },
+            {
+              "label": "B",
+              "text": "skills"
+            },
+            {
+              "label": "C",
+              "text": "vehicles"
+            },
+            {
+              "label": "D",
+              "text": "qualifications"
+            },
+            {
+              "label": "E",
+              "text": "cargoes"
+            },
+            {
+              "label": "F",
+              "text": "focus"
+            },
+            {
+              "label": "G",
+              "text": "advice"
+            },
+            {
+              "label": "H",
+              "text": "planning"
+            }
+          ],
+          "question_range": [
+            22,
+            26
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

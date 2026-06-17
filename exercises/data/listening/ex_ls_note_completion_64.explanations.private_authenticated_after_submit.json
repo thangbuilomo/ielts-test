@@ -1,0 +1,57 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_64",
+  "module": "listening",
+  "question_count": 10,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q31": {
+      "explanation": "Người nói đang đề cập đến việc các nền văn minh cổ đại đã phát triển các công cụ để đo thời gian, cụ thể là lịch. Thông tin giúp tìm ra đáp án là từ \"elaborate calendars,\" cho thấy rằng đây là một công cụ phức tạp và quan trọng trong việc ghi lại thời gian. Paraphrase quan trọng ở đây là \"elaborate calendars,\" có thể hiểu là \"lịch phức tạp.\" Không có bẫy trong câu này vì thông tin rất rõ ràng và trực tiếp. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã trình bày.",
+      "evidence": "the earliest civilizations created elaborate calendars which charted the changing cycles of the moon or the seasons."
+    },
+    "q32": {
+      "explanation": "Người nói đang nói về cách mà Stonehenge được xây dựng để theo dõi sự chuyển động của mặt trời, đặc biệt là vào ngày hạ chí. Thông tin giúp tìm ra đáp án là từ \"frame the sun,\" cho thấy rằng mặt trời là yếu tố chính trong việc đo thời gian ở đây. Paraphrase quan trọng là \"frame the sun,\" có thể hiểu là \"tạo khung cho mặt trời.\" Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã trình bày.",
+      "evidence": "the large stone monoliths of Stonehenge are perfectly aligned to frame the sun as it rises on the summer solstice each year."
+    },
+    "q33": {
+      "explanation": "Người nói đang đề cập đến việc phát hiện ra các đồng hồ bóng (shadow clocks) trong các cuộc khai quật. Thông tin giúp tìm ra đáp án là từ \"found during excavations in Egypt,\" cho thấy địa điểm cụ thể nơi các công cụ này được tìm thấy. Paraphrase quan trọng là \"excavations in Egypt,\" có thể hiểu là \"khai quật ở Ai Cập.\" Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã trình bày.",
+      "evidence": "These have been found during excavations in Egypt and feature a tall stick or column which casts a shadow onto the ground."
+    },
+    "q34": {
+      "explanation": "Người nói đang mô tả về các đồng hồ mặt trời và chất liệu mà chúng được làm từ. Thông tin giúp tìm ra đáp án là từ \"made with huge stone obelisks,\" cho thấy rằng đá là chất liệu chính. Paraphrase quan trọng là \"huge stone obelisks,\" có thể hiểu là \"các cột đá khổng lồ.\" Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã trình bày.",
+      "evidence": "Some of the sundials were made with huge stone obelisks, many metres high."
+    },
+    "q35": {
+      "explanation": "Người nói đang nói về vấn đề mà đồng hồ nước gặp phải trong điều kiện thời tiết lạnh. Thông tin giúp tìm ra đáp án là từ \"the cold temperature,\" cho thấy rằng nhiệt độ lạnh là nguyên nhân chính. Paraphrase quan trọng là \"cold temperature,\" có thể hiểu là \"nhiệt độ lạnh.\" Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã trình bày.",
+      "evidence": "However, the cold temperature of some places made the water freeze up leaving the clocks unusable."
+    },
+    "q36": {
+      "explanation": "Người nói đang mô tả cách mà các kỹ sư đã tìm ra giải pháp cho vấn đề của đồng hồ nước. Thông tin giúp tìm ra đáp án là từ \"using liquid mercury or much later, sand,\" cho thấy rằng cát là một trong những vật liệu được sử dụng. Paraphrase quan trọng là \"sand,\" có thể hiểu là \"cát.\" Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã trình bày.",
+      "evidence": "Engineers in eleventh century China solved this problem by using liquid mercury or much later, sand."
+    },
+    "q37": {
+      "explanation": "Người nói đang mô tả về một đồng hồ cơ khí và chức năng của nó. Thông tin giúp tìm ra đáp án là từ \"had a bell which rang every hour,\" cho thấy rằng chuông là một phần quan trọng của đồng hồ. Paraphrase quan trọng là \"a bell which rang,\" có thể hiểu là \"một cái chuông rung.\" Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã trình bày.",
+      "evidence": "The mechanical device had a bell which rang every hour and can still be seen by tourists visiting the cathedral today."
+    },
+    "q38": {
+      "explanation": "Người nói đang nói về sự phát triển trong ngành chế tạo đồng hồ. Thông tin giúp tìm ra đáp án là từ \"making clocks lighter,\" cho thấy rằng mục tiêu là làm cho đồng hồ nhẹ hơn. Paraphrase quan trọng là \"lighter,\" có thể hiểu là \"nhẹ hơn.\" Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã trình bày.",
+      "evidence": "Beginning in the 15th century, clockmakers channelled their energy into making clocks lighter and more accurate."
+    },
+    "q39": {
+      "explanation": "Người nói đang mô tả về sự phát triển của đồng hồ bỏ túi. Thông tin giúp tìm ra đáp án là từ \"small and portable,\" cho thấy rằng tính di động là một yếu tố quan trọng. Paraphrase quan trọng là \"portable,\" có thể hiểu là \"dễ mang theo.\" Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã trình bày.",
+      "evidence": "Tompion created a prototype of the first pocket watch by fitting a small mechanism called a spiral balance into a clock which allowed the clock to be made small and portable."
+    },
+    "q40": {
+      "explanation": "Người nói đang nói về việc một trong những chiếc đồng hồ bỏ túi đầu tiên được tặng cho một nhân vật quan trọng. Thông tin giúp tìm ra đáp án là từ \"the King of England,\" cho thấy rằng nhân vật này là vua. Paraphrase quan trọng là \"the King,\" có thể hiểu là \"vua.\" Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã trình bày.",
+      "evidence": "One of the first two that he created was given to Charles II, the King of England at that time."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> Good afternoon, everyone. Today I'd like to speak to you about time and how people have measured it throughout history. Humans have always had a desire to keep track of time, whether it be the passing of days in a year or the hours in a day. There is evidence that the earliest civilizations created elaborate calendars which charted the changing cycles of the moon or the seasons. A famous example of this is the 5,000-year-old stone circle at Stonehenge in England, as can be seen on this slide. This ancient structure is believed to have been built by, or for, a group of people known as Druids who were the priestly class of the inhabitants of the British Isles in pre-Roman times. Very little is known about these early settlers and the only evidence experts have comes from a small number of archaeological finds. However, their astronomical and architectural skills must have been excellent as the large stone monoliths of Stonehenge are perfectly aligned to frame the sun as it rises on the summer solstice each year.</p><p>The first time that days were divided into twelve periods of daylight was by using sundials or shadow clocks. These have been found during excavations in Egypt and feature a tall stick or column which casts a shadow onto the ground. By marking the hours with numbers or symbols, observers could tell the time by seeing where the shadow pointed. Some of the sundials were made with huge stone obelisks, many metres high. Many cultures around the world developed water clocks which were the first timekeeping devices with moving parts. Water would flow into various containers that would fill up in a fixed amount of time. However, the cold temperature of some places made the water freeze up leaving the clocks unusable. Engineers in eleventh century China solved this problem by using liquid mercury or much later, sand. </p><p>The first mechanical clock that we know of was built in the German town of Magdeburg and dates from the late 10th century. The only mention of this clock comes from written texts in much later centuries, but we know it was built by a bishop called Gerbert who later became Pope Sylvester II. A monk in 14th century England built one of the oldest clocks still in existence, a remarkable feat of engineering. It is currently kept in the city of Salisbury, which is coincidentally only eight miles from Stonehenge. The mechanical device had a bell which rang every hour and can still be seen by tourists visiting the cathedral today. You can see a diagram of the clock up on the slide here. </p><p>Beginning in the 15th century, clockmakers channelled their energy into making clocks lighter and more accurate. This was necessary as they were used to aid navigation. Sailors needed to know the time of day to calculate their position. In 1658, the great English clockmaker Thomas Tompion created a prototype of the first pocket watch by fitting a small mechanism called a spiral balance into a clock which allowed the clock to be made small and portable. One of the first two that he created was given to Charles II, the King of England at that time. For this invention, Tompion is credited with being the father of English clockmaking.</p>"
+}

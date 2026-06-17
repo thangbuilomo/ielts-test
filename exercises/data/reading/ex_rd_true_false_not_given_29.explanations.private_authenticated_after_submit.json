@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_true_false_not_given_29",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Câu 1 khớp với thông tin ở đoạn 10. Ý chính trong bài là: \"Following the creation of Festen and Idiots, further Danish directors joined the movement, forming the so-called ‘Dogme Brethren’. Filmmakers from all over the world have since attempted to follow the vow of chastity while creating Dogme 95 films, many finding it an effective way to approach making low-budget films. By 2005, over thirty Dogme 95 films had been made worldwide.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Following the creation of Festen and Idiots, further Danish directors joined the movement, forming the so-called ‘Dogme Brethren’. Filmmakers from all over the world have since attempted to follow the vow of chastity while creating Dogme 95 films, many finding it an effective way to approach making low-budget films. By 2005, over thirty Dogme 95 films had been made worldwide._"
+    },
+    "q2": {
+      "explanation": "Câu 2 khớp với thông tin ở đoạn 10. Ý chính trong bài là: \"Filmmakers from all over the world have since attempted to follow the vow of chastity while creating Dogme 95 films, many finding it an effective way to approach making low-budget films. By 2005, over thirty Dogme 95 films had been made worldwide. Its founders terminated the movement in that year as they felt the manifesto was resulting in formulaic films.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Filmmakers from all over the world have since attempted to follow the vow of chastity while creating Dogme 95 films, many finding it an effective way to approach making low-budget films. By 2005, over thirty Dogme 95 films had been made worldwide. Its founders terminated the movement in that year as they felt the manifesto was resulting in formulaic films._"
+    },
+    "q3": {
+      "explanation": "Câu 3 mâu thuẫn với thông tin ở đoạn 2. Bài nêu: \"The avant-garde movement was started by directors Lars Von Trier, later known for Melancholia (2011) and Thomas Vinterberg, director of the 2015 film Far from the Madding Crowd. The two directors created a manifesto which outlined certain rules for filmmakers, with the aim of directorial and editorial simplification. These ten rules of filmmaking were later jokingly dubbed the ‘vow of chastity’ by the directors.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "The avant-garde movement was started by directors Lars Von Trier, later known for Melancholia (2011) and Thomas Vinterberg, director of the 2015 film Far from the Madding Crowd. The two directors created a manifesto which outlined certain rules for filmmakers, with the aim of directorial and editorial simplification. These ten rules of filmmaking were later jokingly dubbed the ‘vow of chastity’ by the directors._"
+    },
+    "q4": {
+      "explanation": "Câu 4 mâu thuẫn với thông tin ở đoạn 10. Bài nêu: \"Following the creation of Festen and Idiots, further Danish directors joined the movement, forming the so-called ‘Dogme Brethren’. Filmmakers from all over the world have since attempted to follow the vow of chastity while creating Dogme 95 films, many finding it an effective way to approach making low-budget films. By 2005, over thirty Dogme 95 films had been made worldwide.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "Following the creation of Festen and Idiots, further Danish directors joined the movement, forming the so-called ‘Dogme Brethren’. Filmmakers from all over the world have since attempted to follow the vow of chastity while creating Dogme 95 films, many finding it an effective way to approach making low-budget films. By 2005, over thirty Dogme 95 films had been made worldwide._"
+    },
+    "q5": {
+      "explanation": "Câu 5 khớp với thông tin ở đoạn 10. Ý chính trong bài là: \"Filmmakers from all over the world have since attempted to follow the vow of chastity while creating Dogme 95 films, many finding it an effective way to approach making low-budget films. By 2005, over thirty Dogme 95 films had been made worldwide. Its founders terminated the movement in that year as they felt the manifesto was resulting in formulaic films.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Filmmakers from all over the world have since attempted to follow the vow of chastity while creating Dogme 95 films, many finding it an effective way to approach making low-budget films. By 2005, over thirty Dogme 95 films had been made worldwide. Its founders terminated the movement in that year as they felt the manifesto was resulting in formulaic films._"
+    }
+  }
+}

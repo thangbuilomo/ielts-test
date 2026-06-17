@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_29",
+  "module": "listening",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2029.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. </p><p><strong>Speaker 1:</strong> Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> The cost of getting to any of the Wesley stops is £4 each way, but if you buy a return or Wesley Freedom ticket, the whole cost is half the price of a single fare. </p><p><strong>Speaker 3:</strong> The buses run to and from Wesley every 30 minutes, but between 9 p.m. and 7 a.m. the service is hourly.</p>"
+    }
+  ]
+}

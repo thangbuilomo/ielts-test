@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_13",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q27": {
+      "explanation": "Người nói đang thảo luận về việc phân chia nhiệm vụ trong nhóm cho dự án smartwatch. Lorna và Max đang xác định ai sẽ làm gì dựa trên kỹ năng của từng thành viên. Jasmine được mô tả là có khả năng diễn đạt tốt, và Max cho rằng cô ấy sẽ phụ trách việc viết nội dung cho các tài liệu quảng cáo. Thông tin này giúp tìm ra đáp án vì nó chỉ rõ rằng Jasmine sẽ đảm nhận nhiệm vụ viết các tài liệu quảng cáo. Paraphrase quan trọng ở đây là \"produce the text\" có thể hiểu là \"viết nội dung\". Không có bẫy trong câu này, vì thông tin rất rõ ràng về nhiệm vụ của Jasmine. Đáp án đúng là A vì nó phù hợp với mô tả về khả năng của Jasmine trong việc viết nội dung.",
+      "evidence": "Like, if we did a press release, Jasmine could produce the text for that."
+    },
+    "q28": {
+      "explanation": "Max đang nói về việc anh ấy muốn phụ trách việc lập kế hoạch ngân sách cho dự án. Anh ấy đề cập đến việc phân bổ ngân sách cho các lĩnh vực khác nhau, cho thấy anh sẽ quyết định chi tiêu cho những gì. Thông tin này giúp tìm ra đáp án vì nó chỉ rõ rằng Max sẽ đảm nhận nhiệm vụ liên quan đến ngân sách. Paraphrase quan trọng là \"in charge of planning\" có thể hiểu là \"phụ trách lập kế hoạch\". Không có bẫy trong câu này, vì thông tin rất rõ ràng về nhiệm vụ của Max. Đáp án đúng là C vì nó phù hợp với mô tả về trách nhiệm của Max trong việc quyết định chi tiêu.",
+      "evidence": "If I could choose, I'd like to be in charge of planning what proportion of the budget to allocate to different areas, like research and development, marketing, and that kind of thing."
+    },
+    "q29": {
+      "explanation": "Lorna đang nói về Dave, người có kinh nghiệm trong kinh doanh và có khả năng phân tích các chức năng của smartwatch. Cô ấy nhấn mạnh rằng Dave sẽ giúp nhóm xác định những tính năng nào là hấp dẫn cho khách hàng. Thông tin này giúp tìm ra đáp án vì nó chỉ rõ rằng Dave sẽ phụ trách việc xác định các tính năng hấp dẫn cho khách hàng. Paraphrase quan trọng là \"potential selling points\" có thể hiểu là \"điểm bán hàng tiềm năng\". Không có bẫy trong câu này, vì thông tin rất rõ ràng về nhiệm vụ của Dave. Đáp án đúng là E vì nó phù hợp với mô tả về khả năng của Dave trong việc xác định các tính năng hấp dẫn.",
+      "evidence": "He'll be able to see through which smartwatch functions that we could include are just pointless gimmicks and which are actually potential selling points."
+    },
+    "q30": {
+      "explanation": "Max đang nói về khả năng của mình trong việc thiết kế smartwatch. Anh ấy muốn phác thảo các bản vẽ và nhận phản hồi từ nhóm, cho thấy anh sẽ đảm nhận nhiệm vụ cải thiện thiết kế của smartwatch. Thông tin này giúp tìm ra đáp án vì nó chỉ rõ rằng Max sẽ làm việc liên quan đến thiết kế. Paraphrase quan trọng là \"draw up some sketches\" có thể hiểu là \"phác thảo một số bản vẽ\". Không có bẫy trong câu này, vì thông tin rất rõ ràng về nhiệm vụ của Max. Đáp án đúng là B vì nó phù hợp với mô tả về trách nhiệm của Max trong việc cải thiện thiết kế.",
+      "evidence": "I can envisage how things would look. So I could draw up some sketches of the smartwatch, how it could look, then get feedback from other people."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong> (Lorna): So, Lorna, for our smartwatch project, does it make sense for each group member to have one main responsibility? </p><p>Speaker 2 (Max): Definitely. Let's talk about who could do what. If I could choose, I'd like to be in charge of planning what proportion of the budget to allocate to different areas, like research and development, marketing, and that kind of thing.</p><p>Speaker 1 (Lorna): Okay, you'd be good at that. How about you, Max?</p><p>Speaker2 (Max): I think I've got quite a strong spatial intelligence, you know? I can envisage how things would look. So I could draw up some sketches of the smartwatch, how it could look, then get feedback from other people. Definitely. And gradually refine it. Hopefully end up with something that's as stylish and functional as anything on the market.</p><p>Speaker 1 (Lorna): Awesome. What about Jasmine? Where do you think her strengths lie?</p><p>Speaker 2 (Max): Well, she's got a real way with words, hasn't she? </p><p>Speaker 1 (Lorna): Yeah, she's very articulate. </p><p>Speaker 2 (Max): We'd need something saying what this smartwatch does and what makes it special. The words that go with any pictures we might use. Like, if we did a press release, Jasmine could produce the text for that. </p><p>Speaker 1 (Lorna): Okay, I'm sure she'll come up with something persuasive. Great that all of us in the group have different skills, isn't it? Like Dave. He's actually worked in business, hasn't he?</p><p>Speaker 2 (Max): Yeah, I think that's given him a real sense of what consumers actually want. Some smartwatches even have things like... Being able to tell you how many metres above sea level you are. I mean, is that worth spending money on? </p><p>Speaker 1 (Lorna): Anyway, Dave's a good critical thinker. He'll be able to see through which smartwatch functions that we could include are just pointless gimmicks and which are actually potential selling points.</p><p>Speaker 2 (Max): Okay, well, I think we're sorted.</p>"
+}

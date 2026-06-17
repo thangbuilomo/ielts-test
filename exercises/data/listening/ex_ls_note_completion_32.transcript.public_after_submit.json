@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_32",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2032.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> When faced with a major volcanic incident, authorities need to take a number of steps to reduce civilian casualties. The first is to calculate an exclusion zone around a volcano where an eruption is imminent. This would stop anyone from entering the area. The size of the zone would vary depending on the predicted scale of eruption. There is one in effect in Montserrat, which has been in place since 1995.</p><p><strong>Speaker 3:</strong> In addition to stopping people entering the zone, authorities need to be ready to get people out. Being prepared for a large-scale evacuation is key, as people will be panicking and major transit routes will be quickly blocked. All of this costs money, so obviously a government needs to have the funds to deal with these emergencies.</p><p><strong>Speaker 1:</strong> Having an advanced communication system in place is a must, in order to notify people of both the dangers and the action that is being taken. </p><p><strong>Speaker 2:</strong> Finally, it is important to know that an eruption could occur at any time. Citizens living near particularly active volcanoes need to be educated about both emergency procedures and also the basic provisions that they will need to keep in their house to assist them in times of emergency. </p><p><strong>Speaker 3:</strong> Now, let's look in more detail at the design of a seismometer.</p>"
+    }
+  ]
+}

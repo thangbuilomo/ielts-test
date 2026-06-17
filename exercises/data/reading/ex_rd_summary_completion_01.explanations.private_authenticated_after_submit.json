@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_summary_completion_01",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q22": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"However, through a process known as \"transboundary pollution\", the Arctic is the recipient of contaminants whose sources are thousands of miles away. Large quantities of pollutants pour into our atmosphere, as well as our lakes, rivers, and oceans on a daily basis. In the last 20 years, scientists have detected an increasing variety of toxic contaminants in the north, including pesticides from agriculture, chemicals and heavy metals from industry, and even radioactive fall-out from Chernobyl.\". Cụm G khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "However, through a process known as \"transboundary pollution\", the Arctic is the recipient of contaminants whose sources are thousands of miles away. Large quantities of pollutants pour into our atmosphere, as well as our lakes, rivers, and oceans on a daily basis. In the last 20 years, scientists have detected an increasing variety of toxic contaminants in the north, including pesticides from agriculture, chemicals and heavy metals from industry, and even radioactive fall-out from Chernobyl._"
+    },
+    "q23": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 7, bài viết nêu: \"Currently, the major issue among researchers is to understand the impact of Arctic haze on global climate change. The contaminants absorb sunlight and, in turn, heat up the atmosphere. The global impact of this is currently unknown, but the implications are quite powerful.\". Cụm J khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Currently, the major issue among researchers is to understand the impact of Arctic haze on global climate change. The contaminants absorb sunlight and, in turn, heat up the atmosphere. The global impact of this is currently unknown, but the implications are quite powerful._"
+    },
+    "q24": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 5, bài viết nêu: \"Arctic haze has been studied most extensively in Point Barrow, Alaska, across the Canadian Arctic and in Svalbard (Norway). Evidence from ice cores drilled from the ice sheet of Greenland indicates that these haze particles were not always present in the Arctic, but began to appear only in the last century. The Arctic haze particles appear to be similar to smog particles observed in industrial areas farther south, consisting mostly of sulfates mixed with particles of carbon.\". Cụm A khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Arctic haze has been studied most extensively in Point Barrow, Alaska, across the Canadian Arctic and in Svalbard (Norway). Evidence from ice cores drilled from the ice sheet of Greenland indicates that these haze particles were not always present in the Arctic, but began to appear only in the last century. The Arctic haze particles appear to be similar to smog particles observed in industrial areas farther south, consisting mostly of sulfates mixed with particles of carbon._"
+    },
+    "q25": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"However, through a process known as \"transboundary pollution\", the Arctic is the recipient of contaminants whose sources are thousands of miles away. Large quantities of pollutants pour into our atmosphere, as well as our lakes, rivers, and oceans on a daily basis. In the last 20 years, scientists have detected an increasing variety of toxic contaminants in the north, including pesticides from agriculture, chemicals and heavy metals from industry, and even radioactive fall-out from Chernobyl.\". Cụm C khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "However, through a process known as \"transboundary pollution\", the Arctic is the recipient of contaminants whose sources are thousands of miles away. Large quantities of pollutants pour into our atmosphere, as well as our lakes, rivers, and oceans on a daily basis. In the last 20 years, scientists have detected an increasing variety of toxic contaminants in the north, including pesticides from agriculture, chemicals and heavy metals from industry, and even radioactive fall-out from Chernobyl._"
+    },
+    "q26": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"However, through a process known as \"transboundary pollution\", the Arctic is the recipient of contaminants whose sources are thousands of miles away. Large quantities of pollutants pour into our atmosphere, as well as our lakes, rivers, and oceans on a daily basis. In the last 20 years, scientists have detected an increasing variety of toxic contaminants in the north, including pesticides from agriculture, chemicals and heavy metals from industry, and even radioactive fall-out from Chernobyl.\". Cụm F khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "However, through a process known as \"transboundary pollution\", the Arctic is the recipient of contaminants whose sources are thousands of miles away. Large quantities of pollutants pour into our atmosphere, as well as our lakes, rivers, and oceans on a daily basis. In the last 20 years, scientists have detected an increasing variety of toxic contaminants in the north, including pesticides from agriculture, chemicals and heavy metals from industry, and even radioactive fall-out from Chernobyl._"
+    },
+    "q27": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"However, through a process known as \"transboundary pollution\", the Arctic is the recipient of contaminants whose sources are thousands of miles away. Large quantities of pollutants pour into our atmosphere, as well as our lakes, rivers, and oceans on a daily basis. In the last 20 years, scientists have detected an increasing variety of toxic contaminants in the north, including pesticides from agriculture, chemicals and heavy metals from industry, and even radioactive fall-out from Chernobyl.\". Cụm L khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "However, through a process known as \"transboundary pollution\", the Arctic is the recipient of contaminants whose sources are thousands of miles away. Large quantities of pollutants pour into our atmosphere, as well as our lakes, rivers, and oceans on a daily basis. In the last 20 years, scientists have detected an increasing variety of toxic contaminants in the north, including pesticides from agriculture, chemicals and heavy metals from industry, and even radioactive fall-out from Chernobyl._"
+    }
+  }
+}

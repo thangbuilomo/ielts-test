@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_09",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q16": {
+      "explanation": "Người nói đang mô tả cấu trúc của khu ký túc xá, cụ thể là cách mà các phòng được sắp xếp. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"six rooms attached to each corridor,\" cho thấy mỗi sinh viên sẽ chia sẻ các tiện nghi với sinh viên trong sáu phòng khác. Paraphrase quan trọng ở đây là \"six other rooms\" trong đáp án B. Bẫy có thể nằm ở việc người nghe có thể nhầm lẫn với số lượng phòng khác, nhưng câu nói rõ ràng chỉ ra rằng có sáu phòng. Do đó, đáp án B là chính xác.",
+      "evidence": "the hall is divided up into corridors with six rooms attached to each corridor."
+    },
+    "q17": {
+      "explanation": "Người nói đang giải thích về quy định sử dụng bếp trong ký túc xá. Thông tin giúp tìm ra đáp án là câu nói rõ ràng về việc sinh viên chỉ được ăn mà không được nấu ăn. Paraphrase quan trọng là \"not cook their own food there,\" điều này cho thấy rằng đáp án B là không đúng vì nó mâu thuẫn với thông tin được cung cấp. Bẫy ở đây là có thể có sự hiểu lầm về việc sinh viên có thể sử dụng bếp. Do đó, đáp án B là chính xác.",
+      "evidence": "Students may eat in the kitchens, but not cook their own food there."
+    },
+    "q18": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc biết lối thoát hiểm trong trường hợp có hỏa hoạn. Thông tin giúp tìm ra đáp án là cụm từ \"leave the building via your block's closest fire exit,\" cho thấy rằng sinh viên cần phải sử dụng lối thoát hiểm gần nhất của khối nhà mình. Paraphrase quan trọng là \"closest fire exit.\" Bẫy có thể nằm ở việc sinh viên có thể nghĩ rằng họ có thể ra khỏi tòa nhà bằng lối thoát khác, nhưng câu nói rõ ràng chỉ ra rằng cần phải sử dụng lối thoát gần nhất. Do đó, đáp án B là chính xác.",
+      "evidence": "It's very important that you know where your nearest fire exit is and where to go when you get out of the building."
+    },
+    "q19": {
+      "explanation": "Người nói đang thông báo về số lượng buổi diễn tập hỏa hoạn mà sinh viên phải tham gia hàng năm. Thông tin giúp tìm ra đáp án là cụm từ \"two emergency practices every year,\" cho thấy rằng số lượng tối thiểu là hai. Paraphrase quan trọng là \"minimum number of fire drills annually is two.\" Bẫy có thể nằm ở việc sinh viên có thể nghĩ rằng số lượng này có thể cao hơn, nhưng câu nói rõ ràng chỉ ra rằng số lượng tối thiểu là hai. Do đó, đáp án A là chính xác.",
+      "evidence": "We're obliged by the fire service to perform two emergency practices every year."
+    },
+    "q20": {
+      "explanation": "Người nói đang cảnh báo về hành vi gây rối trong ký túc xá và hậu quả của nó. Thông tin giúp tìm ra đáp án là cụm từ \"you will be asked to leave,\" cho thấy rằng sinh viên có thể bị đuổi nếu họ tiếp tục gây rối. Paraphrase quan trọng là \"could be evicted without getting their money back,\" điều này cho thấy rằng sinh viên sẽ không nhận lại tiền nếu bị đuổi. Bẫy có thể nằm ở việc sinh viên có thể nghĩ rằng họ chỉ bị cảnh cáo mà không bị đuổi. Do đó, đáp án B là chính xác.",
+      "evidence": "If you're found to be disturbing others in the hall to an unreasonable amount, you will be warned, and if the problem persists, you will be asked to leave."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> As you will know by now, the hall is divided up into corridors with six rooms attached to each corridor. Each corridor has shower compartments, one bath and a kitchen. </p><p><strong>Speaker 1:</strong> We have cleaners who clean up the corridors and bathrooms, but the cleaners are not responsible for cleaning the kitchens. So if you want to cook something in addition to the food we provide, then please clean up your dirty pans and plates yourself. </p><p><strong>Speaker 1:</strong> If any kitchen gets into too bad a state, then it will be closed and locked up for the remainder of the term. Any dirty dishes or pans that are in the kitchen will just be thrown out. </p><p><strong>Speaker 1:</strong> By the way, as you will also know, the corridors are co-ed, so you will need a reasonable amount of consideration and modesty moving around to the bathrooms and back. </p><p><strong>Speaker 1:</strong> Another important issue is our fire drill. Please make sure that you have read the notice which is in every corridor about what to do if there's a fire. </p><p><strong>Speaker 1:</strong> It's very important that you know where your nearest fire exit is and where to go when you get out of the building. For example, if you're in Block A, there are two exits and not everyone should exit from just one of these. </p><p><strong>Speaker 1:</strong> The assembly point for both blocks is the car park where your block leader will take a roll call to make sure no one's left inside. </p><p><strong>Speaker 1:</strong> We're obliged by the fire service to perform two emergency practices every year. Please take them seriously, as if they're not done well, then we shall have three or four or five practices, or however many it takes to get it right. </p><p><strong>Speaker 1:</strong> Finally, we have the issue of noise. For a lot of you, this will be the first time not living at home with your family, and you will have access to lots of friends your own age and alcohol. </p><p><strong>Speaker 1:</strong> I must urge you at all times to try and behave with consideration to your fellow hall tenants at all times. Don't play your music too loudly or make too much noise at any time, and especially at night. </p><p><strong>Speaker 1:</strong> People around you all the time will be trying to work, sleep or just relax. Have fun, but think of others. </p><p><strong>Speaker 1:</strong> We take quite a strict attitude to those who end up annoying everyone else. If you're found to be disturbing others in the hall to an unreasonable amount, you will be warned, and if the problem persists, you will be asked to leave. </p><p><strong>Speaker 1:</strong> You will not receive any refund of the funds you have paid.</p>"
+}

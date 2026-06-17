@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_37",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói (Miss Russell) đang tìm kiếm một căn hộ hai phòng ngủ và đang thảo luận về vị trí mà cô ấy muốn thuê. Cô ấy đã đề cập đến hai khu vực mà cô ấy đang xem xét là \"east side\" (phía đông) và \"old port\" (cảng cổ). Thông tin này giúp tìm ra đáp án vì câu hỏi yêu cầu vị trí của căn hộ. Paraphrase quan trọng ở đây là \"east side\" có thể được hiểu là \"phía đông\". Không có bẫy trong câu này vì thông tin được đưa ra rất rõ ràng. Đáp án đúng là \"East\" vì đó là khu vực mà cô ấy đã chọn.",
+      "evidence": "Either in the east side or the old port."
+    },
+    "q2": {
+      "explanation": "Miss Russell đang nói về thời gian mà cô ấy cần chuyển đến căn hộ mới. Cô ấy đã chỉ rõ rằng cô cần chuyển trước ngày 13 tháng 9, điều này giúp xác định rõ ràng thời hạn mà cô ấy mong muốn. Thông tin này rất quan trọng vì nó trực tiếp trả lời câu hỏi về thời gian cần thiết. Paraphrase ở đây là \"before the 13th\" có nghĩa là \"trước ngày 13\". Không có bẫy trong câu này vì thông tin được cung cấp rất cụ thể. Đáp án đúng là \"13\" vì đó là ngày mà cô ấy đã đề cập.",
+      "evidence": "It would need to be sometime before the 13th of September."
+    },
+    "q3": {
+      "explanation": "Miss Russell đang thảo luận về ngân sách mà cô ấy có thể chi cho căn hộ. Cô ấy đã nói rằng cô có thể \"cố gắng\" để tăng ngân sách lên £1100. Thông tin này rất quan trọng vì nó cho thấy mức tối đa mà cô ấy sẵn sàng chi trả cho một căn hộ hai phòng ngủ. Paraphrase ở đây là \"stretch to\" có nghĩa là \"cố gắng lên tới\". Không có bẫy trong câu này vì thông tin rõ ràng. Đáp án đúng là \"1100\" vì đó là số tiền mà cô ấy đã đề cập.",
+      "evidence": "I could just about stretch to £1100."
+    },
+    "q4": {
+      "explanation": "Miss Russell đang cung cấp tên của mình cho nhân viên của Colvin Lettings. Cô ấy đã giới thiệu bản thân với tên đầy đủ là \"Miss Beatrice Russell\". Thông tin này rất quan trọng vì câu hỏi yêu cầu tên của cô ấy. Paraphrase ở đây là \"Miss Beatrice Russell\" không có gì thay đổi. Không có bẫy trong câu này vì thông tin được cung cấp rất rõ ràng. Đáp án đúng là \"Beatrice\" vì đó là tên của cô ấy.",
+      "evidence": "Of course. It's Miss Beatrice Russell."
+    },
+    "q5": {
+      "explanation": "Miss Russell đang cung cấp số điện thoại của mình cho nhân viên. Cô ấy đã đọc số điện thoại rất rõ ràng, và thông tin này là cần thiết để nhân viên có thể liên lạc lại với cô. Paraphrase ở đây là không có sự thay đổi nào trong cách diễn đạt số điện thoại. Không có bẫy trong câu này vì thông tin được cung cấp rất chính xác. Đáp án đúng là \"0774 0922 166\" vì đó là số điện thoại mà cô ấy đã cung cấp.",
+      "evidence": "0774 0922 166."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Hello, Colvin Lettings, James Lansman speaking. How can I help?</p><p><strong>Speaker 3:</strong> Oh, hello. I'm just calling to see what flats you currently have available to rent.</p><p><strong>Speaker 2:</strong> Certainly, madam. We have a wide range of properties available, from studio flats to six-bedroom houses. What sort of place are you looking for?</p><p><strong>Speaker 3:</strong> Well, a two-bed flat is what I'm really aiming for, but I'm open to other possibilities.</p><p><strong>Speaker 2:</strong> Of course. Well, we'll see what we can do. What area are you thinking of?</p><p><strong>Speaker 3:</strong> Either in the east side or the old port. I work in the centre, you see, but obviously, I don't really want to live in the centre. Who would? But somewhere fairly nearby with good transport links there would be ideal for me.</p><p><strong>Speaker 2:</strong> I see. When are you thinking of moving?</p><p><strong>Speaker 3:</strong> It would need to be sometime before the 13th of September, as that's when the contract on my old place runs out.</p><p><strong>Speaker 2:</strong> So before the end of September, then?</p><p><strong>Speaker 3:</strong> No, the middle of September, the 13th.</p><p><strong>Speaker 2:</strong> Oh, right. Sorry. I thought you said the 30th. And do you have a set amount that you'd be willing to spend?</p><p><strong>Speaker 3:</strong> Around £900 a month.</p><p><strong>Speaker 2:</strong> Ah. Well, it might be difficult to find a two-bed flat in those areas for that price. Could you go up to £1200?</p><p><strong>Speaker 3:</strong> Well, I suppose for the right place I could just about stretch to £1100.</p><p><strong>Speaker 2:</strong> And how about looking at places a little smaller? Say, a one-bed instead of a two-bed?</p><p><strong>Speaker 3:</strong> I suppose I could. Again, it would depend on the place.</p><p><strong>Speaker 2:</strong> Of course, of course. Well, I'll tell you what I'll do. I'll have a quick look at what properties we've got available in those areas and give you a ring back. How does that sound?</p><p><strong>Speaker 3:</strong> That'd be great, thanks.</p><p><strong>Speaker 2:</strong> OK, I just need to take your name, if that's OK.</p><p><strong>Speaker 3:</strong> Of course. It's Miss Beatrice Russell. That's Beatrice, B-E-A-T-R-I-C-E, Russell, R-U-S-S-E-L-L.</p><p><strong>Speaker 2:</strong> OK, great. Thanks, Miss Russell. And your telephone number?</p><p><strong>Speaker 3:</strong> 0774 0922 166.</p><p><strong>Speaker 2:</strong> Let me just read that back to you. 0740922166.</p><p><strong>Speaker 3:</strong> No, it's 007 at the beginning. 077...</p><p><strong>Speaker 2:</strong> OK, got it. I'll give you a ring back shortly.</p><p><strong>Speaker 3:</strong> That's great. Thanks. Bye.</p>"
+}

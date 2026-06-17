@@ -1,0 +1,1693 @@
+{
+  "schema_version": "saola.exercise_catalog.v1",
+  "module": "listening",
+  "categories": [
+    {
+      "category_id": "diagram_labelling",
+      "category_name": "Diagram Labelling",
+      "description": "IELTS Listening Diagram Labelling exercises.",
+      "exercises": [
+        {
+          "id": "ex_ls_diagram_labelling_01",
+          "title": "Exercise 1",
+          "type": "diagram_labelling",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_diagram_labelling_02",
+          "title": "Exercise 2",
+          "type": "diagram_labelling",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_diagram_labelling_03",
+          "title": "Exercise 3",
+          "type": "diagram_labelling",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_diagram_labelling_04",
+          "title": "Exercise 4",
+          "type": "diagram_labelling",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_diagram_labelling_05",
+          "title": "Exercise 5",
+          "type": "diagram_labelling",
+          "question_count": 5
+        }
+      ]
+    },
+    {
+      "category_id": "flow_chart_completion",
+      "category_name": "Flow Chart Completion",
+      "description": "IELTS Listening Flow Chart Completion exercises.",
+      "exercises": [
+        {
+          "id": "ex_ls_flow_chart_completion_01",
+          "title": "Exercise 1",
+          "type": "flowchart_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_flow_chart_completion_02",
+          "title": "Exercise 2",
+          "type": "flowchart_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_flow_chart_completion_03",
+          "title": "Exercise 3",
+          "type": "flowchart_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_flow_chart_completion_04",
+          "title": "Exercise 4",
+          "type": "flowchart_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_flow_chart_completion_05",
+          "title": "Exercise 5",
+          "type": "flowchart_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_flow_chart_completion_06",
+          "title": "Exercise 6",
+          "type": "flowchart_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_flow_chart_completion_07",
+          "title": "Exercise 7",
+          "type": "flowchart_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_flow_chart_completion_08",
+          "title": "Exercise 8",
+          "type": "flowchart_completion",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_flow_chart_completion_09",
+          "title": "Exercise 9",
+          "type": "flowchart_completion",
+          "question_count": 6
+        }
+      ]
+    },
+    {
+      "category_id": "map_labelling",
+      "category_name": "Map Labelling",
+      "description": "IELTS Listening Map Labelling exercises.",
+      "exercises": [
+        {
+          "id": "ex_ls_map_labelling_01",
+          "title": "Exercise 1",
+          "type": "map_labelling",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_map_labelling_02",
+          "title": "Exercise 2",
+          "type": "map_labelling",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_map_labelling_03",
+          "title": "Exercise 3",
+          "type": "map_labelling",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_map_labelling_04",
+          "title": "Exercise 4",
+          "type": "map_labelling",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_map_labelling_05",
+          "title": "Exercise 5",
+          "type": "map_labelling",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_map_labelling_06",
+          "title": "Exercise 6",
+          "type": "map_labelling",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_map_labelling_07",
+          "title": "Exercise 7",
+          "type": "map_labelling",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_map_labelling_08",
+          "title": "Exercise 8",
+          "type": "map_labelling",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_map_labelling_09",
+          "title": "Exercise 9",
+          "type": "map_labelling",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_map_labelling_10",
+          "title": "Exercise 10",
+          "type": "map_labelling",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_map_labelling_11",
+          "title": "Exercise 11",
+          "type": "map_labelling",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_map_labelling_12",
+          "title": "Exercise 12",
+          "type": "map_labelling",
+          "question_count": 4
+        }
+      ]
+    },
+    {
+      "category_id": "matching_information",
+      "category_name": "Matching Information To Categories",
+      "description": "IELTS Listening Matching Information To Categories exercises.",
+      "exercises": [
+        {
+          "id": "ex_ls_matching_information_01",
+          "title": "Exercise 1",
+          "type": "matching",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_matching_information_02",
+          "title": "Exercise 2",
+          "type": "matching",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_matching_information_03",
+          "title": "Exercise 3",
+          "type": "matching",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_matching_information_04",
+          "title": "Exercise 4",
+          "type": "matching",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_matching_information_05",
+          "title": "Exercise 5",
+          "type": "matching",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_matching_information_06",
+          "title": "Exercise 6",
+          "type": "matching",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_matching_information_07",
+          "title": "Exercise 7",
+          "type": "matching",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_matching_information_08",
+          "title": "Exercise 8",
+          "type": "matching",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_matching_information_09",
+          "title": "Exercise 9",
+          "type": "matching",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_matching_information_10",
+          "title": "Exercise 10",
+          "type": "matching",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_matching_information_11",
+          "title": "Exercise 11",
+          "type": "matching",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_matching_information_12",
+          "title": "Exercise 12",
+          "type": "matching",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_matching_information_13",
+          "title": "Exercise 13",
+          "type": "matching",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_matching_information_14",
+          "title": "Exercise 14",
+          "type": "matching",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_matching_information_15",
+          "title": "Exercise 15",
+          "type": "matching",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_matching_information_16",
+          "title": "Exercise 16",
+          "type": "matching",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_matching_information_17",
+          "title": "Exercise 17",
+          "type": "matching",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_matching_information_18",
+          "title": "Exercise 18",
+          "type": "matching",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_matching_information_19",
+          "title": "Exercise 19",
+          "type": "matching",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_matching_information_20",
+          "title": "Exercise 20",
+          "type": "matching",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_matching_information_21",
+          "title": "Exercise 21",
+          "type": "matching",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_matching_information_22",
+          "title": "Exercise 22",
+          "type": "matching",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_matching_information_23",
+          "title": "Exercise 23",
+          "type": "matching",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_matching_information_24",
+          "title": "Exercise 24",
+          "type": "matching",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_matching_information_25",
+          "title": "Exercise 25",
+          "type": "matching",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_matching_information_26",
+          "title": "Exercise 26",
+          "type": "matching",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_matching_information_27",
+          "title": "Exercise 27",
+          "type": "matching",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_matching_information_28",
+          "title": "Exercise 28",
+          "type": "matching",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_matching_information_29",
+          "title": "Exercise 29",
+          "type": "matching",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_matching_information_30",
+          "title": "Exercise 30",
+          "type": "matching",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_matching_information_31",
+          "title": "Exercise 31",
+          "type": "matching",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_matching_information_32",
+          "title": "Exercise 32",
+          "type": "matching",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_matching_information_33",
+          "title": "Exercise 33",
+          "type": "matching",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_matching_information_34",
+          "title": "Exercise 34",
+          "type": "matching",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_matching_information_35",
+          "title": "Exercise 35",
+          "type": "matching",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_matching_information_36",
+          "title": "Exercise 36",
+          "type": "matching",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_matching_information_37",
+          "title": "Exercise 37",
+          "type": "matching",
+          "question_count": 5
+        }
+      ]
+    },
+    {
+      "category_id": "multiple_choice",
+      "category_name": "Multiple Choice",
+      "description": "IELTS Listening Multiple Choice exercises.",
+      "exercises": [
+        {
+          "id": "ex_ls_multiple_choice_01",
+          "title": "Exercise 1",
+          "type": "mcq_multi",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_multiple_choice_02",
+          "title": "Exercise 2",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_03",
+          "title": "Exercise 3",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_multiple_choice_04",
+          "title": "Exercise 4",
+          "type": "mcq_multi",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_multiple_choice_05",
+          "title": "Exercise 5",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_multiple_choice_06",
+          "title": "Exercise 6",
+          "type": "mcq_multi",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_multiple_choice_07",
+          "title": "Exercise 7",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_08",
+          "title": "Exercise 8",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_09",
+          "title": "Exercise 9",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_10",
+          "title": "Exercise 10",
+          "type": "mcq_multi",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_multiple_choice_11",
+          "title": "Exercise 11",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_12",
+          "title": "Exercise 12",
+          "type": "mcq_multi",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_multiple_choice_13",
+          "title": "Exercise 13",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_14",
+          "title": "Exercise 14",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_15",
+          "title": "Exercise 15",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_multiple_choice_16",
+          "title": "Exercise 16",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_17",
+          "title": "Exercise 17",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_18",
+          "title": "Exercise 18",
+          "type": "mcq_single",
+          "question_count": 2
+        },
+        {
+          "id": "ex_ls_multiple_choice_19",
+          "title": "Exercise 19",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_20",
+          "title": "Exercise 20",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_21",
+          "title": "Exercise 21",
+          "type": "mcq_single",
+          "question_count": 1
+        },
+        {
+          "id": "ex_ls_multiple_choice_22",
+          "title": "Exercise 22",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_23",
+          "title": "Exercise 23",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_multiple_choice_24",
+          "title": "Exercise 24",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_25",
+          "title": "Exercise 25",
+          "type": "mcq_multi",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_26",
+          "title": "Exercise 26",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_27",
+          "title": "Exercise 27",
+          "type": "mcq_single",
+          "question_count": 2
+        },
+        {
+          "id": "ex_ls_multiple_choice_28",
+          "title": "Exercise 28",
+          "type": "mcq_single",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_multiple_choice_29",
+          "title": "Exercise 29",
+          "type": "mcq_single",
+          "question_count": 2
+        },
+        {
+          "id": "ex_ls_multiple_choice_30",
+          "title": "Exercise 30",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_31",
+          "title": "Exercise 31",
+          "type": "mcq_single",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_multiple_choice_32",
+          "title": "Exercise 32",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_multiple_choice_33",
+          "title": "Exercise 33",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_multiple_choice_34",
+          "title": "Exercise 34",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_35",
+          "title": "Exercise 35",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_multiple_choice_36",
+          "title": "Exercise 36",
+          "type": "mcq_multi",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_multiple_choice_37",
+          "title": "Exercise 37",
+          "type": "mcq_single",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_multiple_choice_38",
+          "title": "Exercise 38",
+          "type": "mcq_single",
+          "question_count": 2
+        },
+        {
+          "id": "ex_ls_multiple_choice_39",
+          "title": "Exercise 39",
+          "type": "mcq_single",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_multiple_choice_40",
+          "title": "Exercise 40",
+          "type": "mcq_single",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_multiple_choice_41",
+          "title": "Exercise 41",
+          "type": "mcq_single",
+          "question_count": 2
+        },
+        {
+          "id": "ex_ls_multiple_choice_42",
+          "title": "Exercise 42",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_43",
+          "title": "Exercise 43",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_multiple_choice_44",
+          "title": "Exercise 44",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_45",
+          "title": "Exercise 45",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_multiple_choice_46",
+          "title": "Exercise 46",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_multiple_choice_47",
+          "title": "Exercise 47",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_48",
+          "title": "Exercise 48",
+          "type": "mcq_multi",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_multiple_choice_49",
+          "title": "Exercise 49",
+          "type": "mcq_multi",
+          "question_count": 2
+        },
+        {
+          "id": "ex_ls_multiple_choice_50",
+          "title": "Exercise 50",
+          "type": "mcq_single",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_multiple_choice_51",
+          "title": "Exercise 51",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_52",
+          "title": "Exercise 52",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_multiple_choice_53",
+          "title": "Exercise 53",
+          "type": "mcq_single",
+          "question_count": 2
+        },
+        {
+          "id": "ex_ls_multiple_choice_54",
+          "title": "Exercise 54",
+          "type": "mcq_single",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_multiple_choice_55",
+          "title": "Exercise 55",
+          "type": "mcq_single",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_multiple_choice_56",
+          "title": "Exercise 56",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_multiple_choice_57",
+          "title": "Exercise 57",
+          "type": "mcq_multi",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_multiple_choice_58",
+          "title": "Exercise 58",
+          "type": "mcq_multi",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_multiple_choice_59",
+          "title": "Exercise 59",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_multiple_choice_60",
+          "title": "Exercise 60",
+          "type": "mcq_multi",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_multiple_choice_61",
+          "title": "Exercise 61",
+          "type": "mcq_multi",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_multiple_choice_62",
+          "title": "Exercise 62",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_multiple_choice_63",
+          "title": "Exercise 63",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_multiple_choice_64",
+          "title": "Exercise 64",
+          "type": "mcq_multi",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_65",
+          "title": "Exercise 65",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_multiple_choice_66",
+          "title": "Exercise 66",
+          "type": "mcq_single",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_multiple_choice_67",
+          "title": "Exercise 67",
+          "type": "mcq_single",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_multiple_choice_68",
+          "title": "Exercise 68",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_69",
+          "title": "Exercise 69",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_multiple_choice_70",
+          "title": "Exercise 70",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_71",
+          "title": "Exercise 71",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_72",
+          "title": "Exercise 72",
+          "type": "mcq_single",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_multiple_choice_73",
+          "title": "Exercise 73",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_74",
+          "title": "Exercise 74",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_75",
+          "title": "Exercise 75",
+          "type": "mcq_single",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_multiple_choice_76",
+          "title": "Exercise 76",
+          "type": "mcq_single",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_multiple_choice_77",
+          "title": "Exercise 77",
+          "type": "mcq_single",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_multiple_choice_78",
+          "title": "Exercise 78",
+          "type": "mcq_single",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_multiple_choice_79",
+          "title": "Exercise 79",
+          "type": "mcq_single",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_multiple_choice_80",
+          "title": "Exercise 80",
+          "type": "mcq_single",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_multiple_choice_81",
+          "title": "Exercise 81",
+          "type": "mcq_single",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_multiple_choice_82",
+          "title": "Exercise 82",
+          "type": "mcq_multi",
+          "question_count": 6
+        }
+      ]
+    },
+    {
+      "category_id": "note_completion",
+      "category_name": "Note Completion",
+      "description": "IELTS Listening Note Completion exercises.",
+      "exercises": [
+        {
+          "id": "ex_ls_note_completion_01",
+          "title": "Exercise 1",
+          "type": "note_completion",
+          "question_count": 1
+        },
+        {
+          "id": "ex_ls_note_completion_02",
+          "title": "Exercise 2",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_03",
+          "title": "Exercise 3",
+          "type": "note_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_note_completion_04",
+          "title": "Exercise 4",
+          "type": "note_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_ls_note_completion_05",
+          "title": "Exercise 5",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_06",
+          "title": "Exercise 6",
+          "type": "note_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_note_completion_07",
+          "title": "Exercise 7",
+          "type": "note_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_note_completion_08",
+          "title": "Exercise 8",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_09",
+          "title": "Exercise 9",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_10",
+          "title": "Exercise 10",
+          "type": "note_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_note_completion_11",
+          "title": "Exercise 11",
+          "type": "note_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_note_completion_12",
+          "title": "Exercise 12",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_13",
+          "title": "Exercise 13",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_14",
+          "title": "Exercise 14",
+          "type": "note_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_note_completion_15",
+          "title": "Exercise 15",
+          "type": "note_completion",
+          "question_count": 10
+        },
+        {
+          "id": "ex_ls_note_completion_16",
+          "title": "Exercise 16",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_17",
+          "title": "Exercise 17",
+          "type": "note_completion",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_note_completion_18",
+          "title": "Exercise 18",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_19",
+          "title": "Exercise 19",
+          "type": "note_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_note_completion_20",
+          "title": "Exercise 20",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_21",
+          "title": "Exercise 21",
+          "type": "note_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_note_completion_22",
+          "title": "Exercise 22",
+          "type": "note_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_ls_note_completion_23",
+          "title": "Exercise 23",
+          "type": "note_completion",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_note_completion_24",
+          "title": "Exercise 24",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_25",
+          "title": "Exercise 25",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_26",
+          "title": "Exercise 26",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_27",
+          "title": "Exercise 27",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_28",
+          "title": "Exercise 28",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_29",
+          "title": "Exercise 29",
+          "type": "note_completion",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_note_completion_30",
+          "title": "Exercise 30",
+          "type": "note_completion",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_note_completion_31",
+          "title": "Exercise 31",
+          "type": "note_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_ls_note_completion_32",
+          "title": "Exercise 32",
+          "type": "note_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_note_completion_33",
+          "title": "Exercise 33",
+          "type": "note_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_ls_note_completion_34",
+          "title": "Exercise 34",
+          "type": "note_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_note_completion_35",
+          "title": "Exercise 35",
+          "type": "note_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_note_completion_36",
+          "title": "Exercise 36",
+          "type": "note_completion",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_note_completion_37",
+          "title": "Exercise 37",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_38",
+          "title": "Exercise 38",
+          "type": "note_completion",
+          "question_count": 10
+        },
+        {
+          "id": "ex_ls_note_completion_39",
+          "title": "Exercise 39",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_40",
+          "title": "Exercise 40",
+          "type": "note_completion",
+          "question_count": 10
+        },
+        {
+          "id": "ex_ls_note_completion_41",
+          "title": "Exercise 41",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_42",
+          "title": "Exercise 42",
+          "type": "note_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_ls_note_completion_43",
+          "title": "Exercise 43",
+          "type": "note_completion",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_note_completion_44",
+          "title": "Exercise 44",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_45",
+          "title": "Exercise 45",
+          "type": "note_completion",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_note_completion_46",
+          "title": "Exercise 46",
+          "type": "note_completion",
+          "question_count": 10
+        },
+        {
+          "id": "ex_ls_note_completion_47",
+          "title": "Exercise 47",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_48",
+          "title": "Exercise 48",
+          "type": "note_completion",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_note_completion_49",
+          "title": "Exercise 49",
+          "type": "note_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_note_completion_50",
+          "title": "Exercise 50",
+          "type": "note_completion",
+          "question_count": 10
+        },
+        {
+          "id": "ex_ls_note_completion_51",
+          "title": "Exercise 51",
+          "type": "note_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_note_completion_52",
+          "title": "Exercise 52",
+          "type": "note_completion",
+          "question_count": 10
+        },
+        {
+          "id": "ex_ls_note_completion_53",
+          "title": "Exercise 53",
+          "type": "note_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_note_completion_54",
+          "title": "Exercise 54",
+          "type": "note_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_note_completion_55",
+          "title": "Exercise 55",
+          "type": "note_completion",
+          "question_count": 10
+        },
+        {
+          "id": "ex_ls_note_completion_56",
+          "title": "Exercise 56",
+          "type": "note_completion",
+          "question_count": 10
+        },
+        {
+          "id": "ex_ls_note_completion_57",
+          "title": "Exercise 57",
+          "type": "note_completion",
+          "question_count": 10
+        },
+        {
+          "id": "ex_ls_note_completion_58",
+          "title": "Exercise 58",
+          "type": "note_completion",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_note_completion_59",
+          "title": "Exercise 59",
+          "type": "note_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_note_completion_60",
+          "title": "Exercise 60",
+          "type": "note_completion",
+          "question_count": 10
+        },
+        {
+          "id": "ex_ls_note_completion_61",
+          "title": "Exercise 61",
+          "type": "note_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_note_completion_62",
+          "title": "Exercise 62",
+          "type": "note_completion",
+          "question_count": 10
+        },
+        {
+          "id": "ex_ls_note_completion_63",
+          "title": "Exercise 63",
+          "type": "note_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_note_completion_64",
+          "title": "Exercise 64",
+          "type": "note_completion",
+          "question_count": 10
+        }
+      ]
+    },
+    {
+      "category_id": "short_answer",
+      "category_name": "Short Answer",
+      "description": "IELTS Listening Short Answer exercises.",
+      "exercises": [
+        {
+          "id": "ex_ls_short_answer_01",
+          "title": "Exercise 1",
+          "type": "short_answer",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_short_answer_02",
+          "title": "Exercise 2",
+          "type": "short_answer",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_short_answer_03",
+          "title": "Exercise 3",
+          "type": "short_answer",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_short_answer_04",
+          "title": "Exercise 4",
+          "type": "short_answer",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_short_answer_05",
+          "title": "Exercise 5",
+          "type": "short_answer",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_short_answer_06",
+          "title": "Exercise 6",
+          "type": "short_answer",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_short_answer_07",
+          "title": "Exercise 7",
+          "type": "short_answer",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_short_answer_08",
+          "title": "Exercise 8",
+          "type": "short_answer",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_short_answer_09",
+          "title": "Exercise 9",
+          "type": "short_answer",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_short_answer_10",
+          "title": "Exercise 10",
+          "type": "short_answer",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_short_answer_11",
+          "title": "Exercise 11",
+          "type": "short_answer",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_short_answer_12",
+          "title": "Exercise 12",
+          "type": "short_answer",
+          "question_count": 5
+        }
+      ]
+    },
+    {
+      "category_id": "summary_completion",
+      "category_name": "Summary Completion",
+      "description": "IELTS Listening Summary Completion exercises.",
+      "exercises": [
+        {
+          "id": "ex_ls_summary_completion_01",
+          "title": "Exercise 1",
+          "type": "summary_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_summary_completion_02",
+          "title": "Exercise 2",
+          "type": "summary_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_summary_completion_03",
+          "title": "Exercise 3",
+          "type": "summary_completion",
+          "question_count": 2
+        },
+        {
+          "id": "ex_ls_summary_completion_04",
+          "title": "Exercise 4",
+          "type": "summary_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_summary_completion_05",
+          "title": "Exercise 5",
+          "type": "summary_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_summary_completion_06",
+          "title": "Exercise 6",
+          "type": "summary_completion",
+          "question_count": 5
+        }
+      ]
+    },
+    {
+      "category_id": "table_completion",
+      "category_name": "Table Completion",
+      "description": "IELTS Listening Table/Form Completion",
+      "exercises": [
+        {
+          "id": "ex_ls_table_completion_01",
+          "title": "Exercise 1",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_02",
+          "title": "Exercise 2",
+          "type": "table_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_ls_table_completion_03",
+          "title": "Exercise 3",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_04",
+          "title": "Exercise 4",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_05",
+          "title": "Exercise 5",
+          "type": "table_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_table_completion_06",
+          "title": "Exercise 6",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_07",
+          "title": "Exercise 7",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_08",
+          "title": "Exercise 8",
+          "type": "table_completion",
+          "question_count": 3
+        },
+        {
+          "id": "ex_ls_table_completion_09",
+          "title": "Exercise 9",
+          "type": "table_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_table_completion_10",
+          "title": "Exercise 10",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_11",
+          "title": "Exercise 11",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_12",
+          "title": "Exercise 12",
+          "type": "table_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_table_completion_13",
+          "title": "Exercise 13",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_14",
+          "title": "Exercise 14",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_15",
+          "title": "Exercise 15",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_16",
+          "title": "Exercise 16",
+          "type": "table_completion",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_table_completion_17",
+          "title": "Exercise 17",
+          "type": "table_completion",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_table_completion_18",
+          "title": "Exercise 18",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_19",
+          "title": "Exercise 19",
+          "type": "table_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_table_completion_20",
+          "title": "Exercise 20",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_21",
+          "title": "Exercise 21",
+          "type": "table_completion",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_table_completion_22",
+          "title": "Exercise 22",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_23",
+          "title": "Exercise 23",
+          "type": "table_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_table_completion_24",
+          "title": "Exercise 24",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_25",
+          "title": "Exercise 25",
+          "type": "table_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_ls_table_completion_26",
+          "title": "Exercise 26",
+          "type": "table_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_table_completion_27",
+          "title": "Exercise 27",
+          "type": "table_completion",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_table_completion_28",
+          "title": "Exercise 28",
+          "type": "table_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_table_completion_29",
+          "title": "Exercise 29",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_30",
+          "title": "Exercise 30",
+          "type": "table_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_ls_table_completion_31",
+          "title": "Exercise 31",
+          "type": "table_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_table_completion_32",
+          "title": "Exercise 32",
+          "type": "table_completion",
+          "question_count": 0,
+          "status": "placeholder"
+        },
+        {
+          "id": "ex_ls_table_completion_33",
+          "title": "Exercise 33",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_34",
+          "title": "Exercise 34",
+          "type": "table_completion",
+          "question_count": 5
+        },
+        {
+          "id": "ex_ls_table_completion_35",
+          "title": "Exercise 35",
+          "type": "table_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_table_completion_36",
+          "title": "Exercise 36",
+          "type": "table_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_ls_table_completion_37",
+          "title": "Exercise 37",
+          "type": "table_completion",
+          "question_count": 4
+        },
+        {
+          "id": "ex_ls_table_completion_38",
+          "title": "Exercise 38",
+          "type": "table_completion",
+          "question_count": 6
+        },
+        {
+          "id": "ex_ls_table_completion_39",
+          "title": "Exercise 39",
+          "type": "table_completion",
+          "question_count": 7
+        },
+        {
+          "id": "ex_ls_table_completion_40",
+          "title": "Exercise 40",
+          "type": "table_completion",
+          "question_count": 6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_flow_chart_completion_07",
+  "module": "reading",
+  "question_count": 1,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"Moored just offshore in front of the Royal Naval College at Greenwich, southeast London, the device is expected to capture up to 20 tons of floating litter each year. If washed out to sea, this rubbish can kill marine mammals, fish and birds. This machine, known as the “Rubbish Muncher”, is hoped to be the first of many, as the TW is now looking for sponsors to pay for more cages elsewhere along the Thames.\". Cụm C khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Moored just offshore in front of the Royal Naval College at Greenwich, southeast London, the device is expected to capture up to 20 tons of floating litter each year. If washed out to sea, this rubbish can kill marine mammals, fish and birds. This machine, known as the “Rubbish Muncher”, is hoped to be the first of many, as the TW is now looking for sponsors to pay for more cages elsewhere along the Thames._"
+    }
+  }
+}

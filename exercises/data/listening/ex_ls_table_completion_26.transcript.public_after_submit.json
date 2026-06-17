@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_26",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2026.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> In today's introduction to seismology lecture, we'll be looking at predicting volcanic eruptions. The destruction caused by a large volcano can be devastating, and with more of them being increasingly surrounded by urban areas, it is more important than ever before to be able to predict and plan for an eruption. After all, there's no way to prevent this massive natural force. So what can we do to predict when a volcano is going to erupt? </p><p><strong>Speaker 1:</strong> The first sign that we need to look for is earthquakes. In the run-up to an eruption, there are often hundreds of small earthquakes caused by magma rising up through cracks in the Earth's crust. As magma comes into contact with rocks, they crack, which causes a mini-earthquake. </p><p><strong>Speaker 1:</strong> And now, many of these earthquakes are too small to be detected by people, which is why the ground around earthquakes in densely populated areas needs to be constantly monitored by seismometers. These are instruments which measure the motion of the Earth's surface, and a higher frequency of these earthquakes could indicate an upcoming eruption. </p><p><strong>Speaker 1:</strong> Another important area which needs to be monitored is the temperature around volcanoes. There are lots of volcanic features like steam vents, geysers, and hot springs that are expected to be consistently hot, but any spikes in this could indicate dangerous volcanic activity. </p><p><strong>Speaker 1:</strong> Technology has had a huge impact on the way we collate this data. The safest way for us to assess this is to take images using satellites, as collecting this data from the ground can be hazardous. </p><p><strong>Speaker 1:</strong> In addition to the frequency and size of earthquakes and the temperature around volcanoes, the final indicator that we assess is the atmospheric conditions around the volcano. Now, most active volcanoes release a range of gases, but higher than normal rates of sulfur and carbon dioxide emissions can reveal a lot about the magma system of the volcano and could also be a telltale sign of danger. </p><p><strong>Speaker 1:</strong> In order for this to be monitored, gas samples need to be taken and checked using a spectrometer, which are types of chemical sensors. These monitoring techniques are becoming increasingly advanced, and some earthquakes, like Mount St. Helens in the US and Mount Vesuvius in Italy, are monitored 24 hours a day by teams of scientists for the safety of the inhabitants living around them. </p><p><strong>Speaker 1:</strong> However, understanding and predicting when a blast is imminent is only the first stage in keeping people safe. We also need to have an effective emergency plan prepared.</p>"
+    }
+  ]
+}

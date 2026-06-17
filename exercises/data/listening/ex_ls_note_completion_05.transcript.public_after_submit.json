@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_05",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2005.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Well, some of you will know that I was brought up when I was young in Japan and I'm going to do my term paper on Japan's bullet trains, which have revolutionized their rail industry. Japan's main island, Honshu, is covered by a network of high-speed train lines that connect Tokyo with most of the island's major cities, and Fukuoka on the island of Kyushu. </p><p><strong>Speaker 1:</strong> Japan's high-speed trains are called Shinkansen, but are known to us as bullet trains. The Japanese bullet train system is credited with being the world's first purpose-built high-speed railway, and the model and inspiration for all other similar type of systems running today, such as the French TGV. The reputation it has earned for safety, speed and punctuality is unsurpassed. </p><p><strong>Speaker 1:</strong> I'd like to give you some figures about that. As regards to safety, there has never been a death on the bullet train system since its inception in 1964, other than that caused by deliberate passenger misadventure. As far as speed is concerned, the bullet train holds the current world records for the fastest average speed between two station stops, which was 261.8 kilometers per hour between Hiroshima and Kokura. The train traveled 192 kilometers in 44 minutes. This record is from the 500 series Nozomi trains, running at a maximum speed of 300 kilometers per hour between Shin-Osaka and Hakata. I'll talk more about them later. </p><p><strong>Speaker 1:</strong> The punctuality puts European train services to shame. Most trains arrive at their destination after several hours to within the second. In one year, the total time that all bullet trains were late by was 12 seconds. This statistic is hard to believe, but it would be difficult to prove otherwise, and that's what the rail authorities in Japan have told us. </p><p><strong>Speaker 1:</strong> Now, I'd like to tell you a bit about their history. The first bullet train was introduced in 1964 by Central and West Japan Railways for the Tokyo to Osaka route. Most of these old trains have now been discontinued. There have been several bullet train models since then. The most recent ones have been the 300, 500 and 700 series. And it's the 500 series ones that can travel at 300 kilometers per hour. </p><p><strong>Speaker 1:</strong> The bullet trains operating in Japan today are of the three following categories. Nozomi, Hikari and Kodama. The Nozomi trains stop only at the most important stations and reach Osaka from Tokyo in only about two and a half hours. And it's the most modern of bullet trains that serve as Nozomi. </p><p><strong>Speaker 1:</strong> Hikari trains stop a little bit more frequently than Nozomi trains and need roughly three hours to reach Osaka from Tokyo. Kodama trains stop at all stations and they are the local trains among bullet trains. Older models of bullet trains serve as Kodama.</p>"
+    }
+  ]
+}

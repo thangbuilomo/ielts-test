@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_diagram_labelling_02",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q4": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"Without doubt, the champion road builders of them all were the ancient Romans, who, until modern times, built the world’s straightest, best engineered and most complex network of roads. At its height, the Roman Empire maintained 53,000 miles of roads, which covered all of England to the north, most of Western Europe, radiated throughout the Iberian Peninsula and encircled and crisscrossed the entire Mediterranean area. Most renowned for their straightness, Roman roads were composed of a graded soil foundation topped by four foundation courses: first sand, and then large, flat stones.\". Cụm sand khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Without doubt, the champion road builders of them all were the ancient Romans, who, until modern times, built the world’s straightest, best engineered and most complex network of roads. At its height, the Roman Empire maintained 53,000 miles of roads, which covered all of England to the north, most of Western Europe, radiated throughout the Iberian Peninsula and encircled and crisscrossed the entire Mediterranean area. Most renowned for their straightness, Roman roads were composed of a graded soil foundation topped by four foundation courses: first sand, and then large, flat stones._"
+    },
+    "q5": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"At its height, the Roman Empire maintained 53,000 miles of roads, which covered all of England to the north, most of Western Europe, radiated throughout the Iberian Peninsula and encircled and crisscrossed the entire Mediterranean area. Most renowned for their straightness, Roman roads were composed of a graded soil foundation topped by four foundation courses: first sand, and then large, flat stones. On top was some gravel and then a thin surface of flint-like lava.\". Cụm (some) gravel khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "At its height, the Roman Empire maintained 53,000 miles of roads, which covered all of England to the north, most of Western Europe, radiated throughout the Iberian Peninsula and encircled and crisscrossed the entire Mediterranean area. Most renowned for their straightness, Roman roads were composed of a graded soil foundation topped by four foundation courses: first sand, and then large, flat stones. On top was some gravel and then a thin surface of flint-like lava._"
+    },
+    "q6": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"The roads were then topped with cambered stone slabs. Typically they were three to five feet thick and varied in width from eight to 35 feet, although the average width for the main roads was from 12 to 24 feet. This design allowed heavy loads to be transported repeatedly for many years with minimal maintenance work.\". Cụm cambered stone slabs khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The roads were then topped with cambered stone slabs. Typically they were three to five feet thick and varied in width from eight to 35 feet, although the average width for the main roads was from 12 to 24 feet. This design allowed heavy loads to be transported repeatedly for many years with minimal maintenance work._"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_25",
+  "module": "listening",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2025.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1 (Tom Marsh):</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Thanks for coming in to see us about opening an account. I'm Tom Marsh. I'm the manager here at this branch of UKB Bank.</p><p><strong>Speaker 2 (Lisa Ashbury):</strong> Nice to meet you. Please, take a seat. So, I understand you're interested in opening an account with us?</p><p>Speaker 1 (Tom Marsh): Yes, I want to open a savings account, but today I'd like to find out more about opening a current account. Can you give me some details about it?</p><p>Speaker 1 (Tom Marsh): Of course. Well, there are no charges for using this type of account with us, like there are with some other banks. In fact, we reward you with a type of bonus at the end of each month. We credit your account with £5 if you've made more than 10 transactions in the previous month.</p><p>Speaker 2 (Lisa Ashbury): Great, but tell me, how good are you at getting in touch with customers? My current bank are not very good at communicating if there's a problem. No message, no call, no letter.</p><p>Speaker 1 (Tom Marsh): I see. We work in a slightly different way here at UKB. Any issues we see on the account and we send you a text message to your phone to advise you. In addition, we immediately send out a letter with this information too.</p><p>Speaker 2 (Lisa Ashbury): That sounds great. I know your customer service centre won an award last year for excellent service. I'm afraid I can't say the same for my existing bank. They take at least 20 minutes to even answer your call.</p><p>Speaker 1 (Tom Marsh): At our centre, our policy is to pick up the phone within two minutes. If this isn't possible due to high demand, we'll ring you back at a suitable time.</p><p>Speaker 2 (Lisa Ashbury): Sounds promising. So, what do you need from me to open the account?</p><p>Speaker 1 (Tom Marsh): Let's start with some personal details and then we'll get you an account number and card set up. By the way, is there a charge to have a debit card for the account? My current bank charges around £15 a year. No, maybe it's £20. Yes, I'm sure it is.</p><p>Speaker 1 (Tom Marsh): We used to charge £10 per year, but now there's no charge. And a checkbook is free of charge if you need one.</p><p>Speaker 2 (Lisa Ashbury): Great, let's open the account then.</p><p>Speaker 1 (Tom Marsh): OK. First name is Lisa, L-I-S-A, correct?</p><p>Speaker 2 (Lisa Ashbury): That's right.</p><p>Speaker 1 (Tom Marsh): And the surname is Ashbury. Can you just confirm the spelling of that for me?</p><p>Speaker 2 (Lisa Ashbury): Sure. It's A-S-H-B-E-R-R-Y, Mrs. Great. And your address, please?</p><p>Speaker 2 (Lisa Ashbury): 20 Pricely Lane, GT59HS.</p><p>Speaker 1 (Tom Marsh): Is that Pricely with an S?</p><p>Speaker 2 (Lisa Ashbury): A C.</p><p>Speaker 1 (Tom Marsh): And the postcode is GT59H for hotel, F for Freddie?</p><p>Speaker 2 (Lisa Ashbury): S.</p><p>Speaker 1 (Tom Marsh): No, it's S for sugar.</p><p>Speaker 2 (Lisa Ashbury): OK, I've got that. Now let's set up your bank accounts.</p>"
+    }
+  ]
+}

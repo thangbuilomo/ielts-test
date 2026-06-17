@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_short_answer_07",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/SHORT%20ANSWER%2007.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Hello everyone, welcome back from your winter holidays. I hope you had a good time and didn't work too hard. Well, this semester we will continue our seminars on agriculture. Today, like last semester, we are in the MacLeod room, but this will change. Next week, we are going to the Hardy room on the second floor and we will remain there for the duration of the semester. Also, we will have to change the time as the Hardy room is not available at our usual time of three o'clock, so we'll need to start one hour later. Is that okay with everyone?</p><p><strong>Speaker 2:</strong> I've got a problem with that. I have a part-time job in a restaurant in town and finishing an hour later will stop me being on time.</p><p><strong>Speaker 1:</strong> Well, Maggie, there are other seminar times for this particular subject, but you'll need to get someone to swap with you as they're all full. Come by my office tomorrow lunchtime and I'll show you the list. We should find someone willing to change.</p><p><strong>Speaker 2:</strong> What if we can't, though?</p><p><strong>Speaker 1:</strong> Well, you'll have to decide what's more important for you, the degree or the job. You know that attendance is compulsory at the seminars and you haven't got a very good attendance record anyway.</p><p><strong>Speaker 2:</strong> I'll sort something out, I suppose. </p><p><strong>Speaker 3:</strong> Professor Cameron, when do we find out about the extended essay for this semester?</p><p><strong>Speaker 1:</strong> Today, actually, Guy. We'll look at everything in a minute. </p><p><strong>Speaker 3:</strong> Oh, thanks. What about last semester's extended essay?</p><p><strong>Speaker 1:</strong> Well, Monica, all your extended essays are now with the external examiner getting their second assessment. I completed the marking in early January and the external examiner should get them back to me by mid-February.</p><p><strong>Speaker 2:</strong> Mid-February? For three essays?</p><p><strong>Speaker 1:</strong> It's not just your essays, Maggie. There are three of you in this seminar group, but I have five other seminar groups on this subject in your year and they have four students in each. That makes 19 extended essays that I and the external examiner have to mark.</p><p><strong>Speaker 3:</strong> How did we do, Prof?</p><p><strong>Speaker 1:</strong> With one notable exception, the essays were of a pretty good standard. I can't say more than that at this stage, but I was very happy.</p>"
+    }
+  ]
+}

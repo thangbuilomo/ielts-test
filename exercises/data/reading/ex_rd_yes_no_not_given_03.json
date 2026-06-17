@@ -1,0 +1,113 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_yes_no_not_given_03",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 8,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "ynng",
+  "category_id": "yes_no_not_given",
+  "title": "Yes No Not Given - Exercise 3",
+  "duration_seconds": 0,
+  "content": {
+    "title": "INSOMNIA – THE ENEMY OF SLEEP",
+    "content_html": "<h1>YES - NO - NOT GIVEN 03</h1>\n<h2>INSOMNIA – THE ENEMY OF SLEEP</h2>\n<p>A\nIt is not unusual to have sleep troubles from time to time. But, if you feel you do not get enough sleep, or satisfying sleep, you may have insomnia, a sleep disorder. People with insomnia have one or more of the following: difficulty in falling asleep, waking up often during the night and having trouble going back to sleep, waking up too early in the morning, and unrefreshing sleep. Insomnia is not defined by the number of hours you sleep every night. The amount of sleep a person needs varies. While most people need between 7 and 8 hours of sleep a night, some people do well with less, and some need more.</p>\n<p>B\nInsomnia occurs most frequently in people over the age of 60, in people with a history of depression, and in women, especially after the menopause. Severe emotional trauma can also cause insomnia, with divorced, widowed and separated people being the most likely to suffer from this sleep disorder. An irregular work schedule, jet lag or brain damage from a stroke or Alzheimer’s disease can also cause insomnia as can excessive use of alcohol or illicit drugs. However, stress, anxiety, illness and other disorders such as restless legs syndrome are the most common causes of insomnia.</p>\n<p>C\nThe mechanism that induces sleep and the reason why sleep is necessary for good health and efficient mental functioning is not fully understood. We do know that sleep consists of two very different states: rapid eye movement (REM) sleep and non-REM sleep. In REM sleep, dreams occur, the eyes move under the closed lids and there is an increase in oxygen consumption, blood flow and neural activity. REM sleep occurs four or five times during a night. Beginning periods last about 10 to 15 minutes but the periods get longer as the night goes on. These interludes alternate with longer periods of non-REM sleep, when body functions slow down. Non-REM sleep has four stages. During the deepest stages (3 and 4) it is hard to rouse a sleeper. As the night goes on, the periods of non-REM sleep become progressively lighter. Sleep in stages 1 and 2 is felt to be restorative, as during this time the body repairs itself, utilising a hormone called “somatostatin”.</p>\n<p>D\nResearchers and healthcare providers define insomnia in several ways. One way is to categorise insomnia by how often it occurs. Another way is to identify the insomnia by what is causing the sleep deprivation. The two main types of insomnia have been described as “primary insomnia” and “secondary insomnia”. Primary insomnia is a chronic condition with little apparent association with stress or a medical problem. The most common form of primary insomnia is psychophysiological insomnia. Secondary insomnia is caused by symptoms that accompany a medical condition such as anxiety, depression or pain.</p>\n<p>E\nImproving one’s sleep hygiene helps improve insomnia in all patients. Relaxing during the hour before you go to sleep and creating a comfortable environment suited for sleep can be helpful. Older people who wake up earlier than normal or have trouble falling asleep may need less sleep than they used to. Changing one’s sleep pattern, either by going to bed later or waking up earlier, can be effective in dealing with insomnia in older people. Therapy also depends on the cause and severity of the insomnia. Transient and intermittent insomnia may not require any direct action since these conditions last only a few days at a time. However, if insomnia interferes with a person’s daily activities, something should be done. Usually the best method of dealing with insomnia is by attacking the underlying cause. For example, people who are depressed often have insomnia and working on this problem may eliminate the sleeping difficulties.</p>\n<p>F\nNot getting enough sleep can make you less productive, irritable and unable to concentrate. Lack of sleep can make it seem as if you “got out of the wrong side of bed\". Waking up with a headache or feeling as if you never went to sleep can result in frustration. Stress can cause insomnia but insomnia also increases stress. Insomnia can make driving unsafe and can cause you to become less productive at work. It may leave you feeling as if you just can’t get enough done. Insomnia can also mask serious mental disorders. People with insomnia may think that not getting enough sleep is their only problem, but the insomnia may actually be one symptom of a larger disorder, such as depression. Studies show that people with insomnia are four times more likely to be depressed than people with a healthy sleeping pattern. In addition, lack of sleep can tax the heart and lead to serious conditions like heart disease</p>\n<p>G\nEstablishing certain set routines can help insomniacs get better sleep. Examples of these routines include: going to bed and getting up at the same time every day, avoiding naps, avoiding caffeine, nicotine, alcohol and eating heavily late in the day, exercising regularly and making your bedroom comfortable in terms of the bed, noise and temperature. Insomniacs should also only use their bedroom for sleep so that their bodies associate the room with sleep. Finally, if you can’t get to sleep, don’t toss and turn all night. Get up and read or do something that is not overly stimulating until you feel really sleepy again.</p>\n<p>Questions 7 - 14</p>\n<p>Choose YES if the statement agrees with the writer, choose NO if the statement contradicts the writer, or choose NOT GIVEN if it is impossible to say what the writer thinks about this.</p>\n<p>7 Someone who only gets four hours of sleep a night must be suffering from insomnia.</p>\n<p>8 Flying over long distances can cause insomnia.</p>\n<p>9 REM sleep is thought to be the most important for the body’s rest.</p>\n<p>10 Secondary insomnia is far more common than primary insomnia.</p>\n<p>11 Some sufferers of chronic insomnia may find changing the hours they sleep helpful.</p>\n<p>12 Many people who suffer from insomnia don’t realise that they suffer from it.</p>\n<p>13 Depression can lead to insomnia.</p>\n<p>14 Sleeping during the day can make insomnia worse.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_yes_no_not_given_03.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_yes_no_not_given_03.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "ynng",
+          "skill_tags": [
+            "rd_ynng"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<h1>YES - NO - NOT GIVEN 03</h1>\n<h2>INSOMNIA – THE ENEMY OF SLEEP</h2>\n<p>A\nIt is not unusual to have sleep troubles from time to time. But, if you feel you do not get enough sleep, or satisfying sleep, you may have insomnia, a sleep disorder. People with insomnia have one or more of the following: difficulty in falling asleep, waking up often during the night and having trouble going back to sleep, waking up too early in the morning, and unrefreshing sleep. Insomnia is not defined by the number of hours you sleep every night. The amount of sleep a person needs varies. While most people need between 7 and 8 hours of sleep a night, some people do well with less, and some need more.</p>\n<p>B\nInsomnia occurs most frequently in people over the age of 60, in people with a history of depression, and in women, especially after the menopause. Severe emotional trauma can also cause insomnia, with divorced, widowed and separated people being the most likely to suffer from this sleep disorder. An irregular work schedule, jet lag or brain damage from a stroke or Alzheimer’s disease can also cause insomnia as can excessive use of alcohol or illicit drugs. However, stress, anxiety, illness and other disorders such as restless legs syndrome are the most common causes of insomnia.</p>\n<p>C\nThe mechanism that induces sleep and the reason why sleep is necessary for good health and efficient mental functioning is not fully understood. We do know that sleep consists of two very different states: rapid eye movement (REM) sleep and non-REM sleep. In REM sleep, dreams occur, the eyes move under the closed lids and there is an increase in oxygen consumption, blood flow and neural activity. REM sleep occurs four or five times during a night. Beginning periods last about 10 to 15 minutes but the periods get longer as the night goes on. These interludes alternate with longer periods of non-REM sleep, when body functions slow down. Non-REM sleep has four stages. During the deepest stages (3 and 4) it is hard to rouse a sleeper. As the night goes on, the periods of non-REM sleep become progressively lighter. Sleep in stages 1 and 2 is felt to be restorative, as during this time the body repairs itself, utilising a hormone called “somatostatin”.</p>\n<p>D\nResearchers and healthcare providers define insomnia in several ways. One way is to categorise insomnia by how often it occurs. Another way is to identify the insomnia by what is causing the sleep deprivation. The two main types of insomnia have been described as “primary insomnia” and “secondary insomnia”. Primary insomnia is a chronic condition with little apparent association with stress or a medical problem. The most common form of primary insomnia is psychophysiological insomnia. Secondary insomnia is caused by symptoms that accompany a medical condition such as anxiety, depression or pain.</p>\n<p>E\nImproving one’s sleep hygiene helps improve insomnia in all patients. Relaxing during the hour before you go to sleep and creating a comfortable environment suited for sleep can be helpful. Older people who wake up earlier than normal or have trouble falling asleep may need less sleep than they used to. Changing one’s sleep pattern, either by going to bed later or waking up earlier, can be effective in dealing with insomnia in older people. Therapy also depends on the cause and severity of the insomnia. Transient and intermittent insomnia may not require any direct action since these conditions last only a few days at a time. However, if insomnia interferes with a person’s daily activities, something should be done. Usually the best method of dealing with insomnia is by attacking the underlying cause. For example, people who are depressed often have insomnia and working on this problem may eliminate the sleeping difficulties.</p>\n<p>F\nNot getting enough sleep can make you less productive, irritable and unable to concentrate. Lack of sleep can make it seem as if you “got out of the wrong side of bed\". Waking up with a headache or feeling as if you never went to sleep can result in frustration. Stress can cause insomnia but insomnia also increases stress. Insomnia can make driving unsafe and can cause you to become less productive at work. It may leave you feeling as if you just can’t get enough done. Insomnia can also mask serious mental disorders. People with insomnia may think that not getting enough sleep is their only problem, but the insomnia may actually be one symptom of a larger disorder, such as depression. Studies show that people with insomnia are four times more likely to be depressed than people with a healthy sleeping pattern. In addition, lack of sleep can tax the heart and lead to serious conditions like heart disease</p>\n<p>G\nEstablishing certain set routines can help insomniacs get better sleep. Examples of these routines include: going to bed and getting up at the same time every day, avoiding naps, avoiding caffeine, nicotine, alcohol and eating heavily late in the day, exercising regularly and making your bedroom comfortable in terms of the bed, noise and temperature. Insomniacs should also only use their bedroom for sleep so that their bodies associate the room with sleep. Finally, if you can’t get to sleep, don’t toss and turn all night. Get up and read or do something that is not overly stimulating until you feel really sleepy again.</p>\n<p>Questions 7 - 14</p>\n<p>Choose YES if the statement agrees with the writer, choose NO if the statement contradicts the writer, or choose NOT GIVEN if it is impossible to say what the writer thinks about this.</p>\n<p>7 Someone who only gets four hours of sleep a night must be suffering from insomnia.</p>\n<p>8 Flying over long distances can cause insomnia.</p>\n<p>9 REM sleep is thought to be the most important for the body’s rest.</p>\n<p>10 Secondary insomnia is far more common than primary insomnia.</p>\n<p>11 Some sufferers of chronic insomnia may find changing the hours they sleep helpful.</p>\n<p>12 Many people who suffer from insomnia don’t realise that they suffer from it.</p>\n<p>13 Depression can lead to insomnia.</p>\n<p>14 Sleeping during the day can make insomnia worse.</p>",
+          "items": [
+            {
+              "question_id": "q7",
+              "number": 7,
+              "prompt_html": "Question 7",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q8",
+              "number": 8,
+              "prompt_html": "Question 8",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q9",
+              "number": 9,
+              "prompt_html": "Question 9",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q10",
+              "number": 10,
+              "prompt_html": "Question 10",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q11",
+              "number": 11,
+              "prompt_html": "Question 11",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q12",
+              "number": 12,
+              "prompt_html": "Question 12",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q13",
+              "number": 13,
+              "prompt_html": "Question 13",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q14",
+              "number": 14,
+              "prompt_html": "Question 14",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            7,
+            14
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

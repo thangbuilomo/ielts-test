@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_09",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q27": {
+      "explanation": "Người nói đang thảo luận về cuốn sách \"Great 19th Century Reform\" của Mark Needham, và nhấn mạnh rằng cuốn sách này không thể mượn ra ngoài mà chỉ có thể đọc tại thư viện. Thông tin giúp tìm ra đáp án là cụm từ \"reference section\", cho thấy vị trí cụ thể của cuốn sách. Paraphrase quan trọng ở đây là \"in the reference section\", có nghĩa là khu vực tham khảo. Bẫy có thể là sự hiểu nhầm rằng cuốn sách có thể mượn, nhưng thực tế là nó chỉ có thể đọc tại chỗ. Đáp án đúng vì nó chính xác mô tả nơi cuốn sách được lưu trữ.",
+      "evidence": "It's in the reference section only."
+    },
+    "q28": {
+      "explanation": "Người nói đang đề cập đến một bài viết trong tạp chí \"History Monthly\" của Jim Wood, và thông báo rằng bài viết này có thể tìm thấy trong thư viện. Thông tin giúp tìm ra đáp án là cụm từ \"library stack system\", chỉ ra cách mà tài liệu được tổ chức trong thư viện. Paraphrase quan trọng là \"in the library stack system\", có nghĩa là trong hệ thống kệ của thư viện. Bẫy có thể là sự nhầm lẫn với các nguồn khác, nhưng thông tin rõ ràng chỉ ra vị trí cụ thể. Đáp án đúng vì nó chính xác chỉ ra nơi mà bài viết có thể được tìm thấy.",
+      "evidence": "You'll find it in the library stack system."
+    },
+    "q29": {
+      "explanation": "Người nói đang nói về một cuốn sách khác liên quan đến chủ đề của bài thuyết trình, cuốn sách này được viết bởi Rob Jenkins. Thông tin giúp tìm ra đáp án là tên cuốn sách \"Political Reform\". Paraphrase quan trọng là \"Political Reform\", có nghĩa là Cải cách Chính trị. Bẫy có thể là việc nhầm lẫn với các cuốn sách khác, nhưng người nói đã rõ ràng chỉ ra tên cuốn sách. Đáp án đúng vì nó chính xác là tên của cuốn sách mà người nói đã đề cập.",
+      "evidence": "It's called Political Reform, and it's by Rob Jenkins."
+    },
+    "q30": {
+      "explanation": "Người nói đang nói về cuốn sách \"Reform and the 19th Century\", và thông báo rằng họ sẽ mang cuốn sách đó đến cho người nghe mượn. Thông tin giúp tìm ra đáp án là người nói đã tự giới thiệu mình là tác giả của cuốn sách. Paraphrase quan trọng là \"Dr. Jones\", vì đây là tên của người nói, người sẽ cho mượn cuốn sách. Bẫy có thể là việc không chú ý đến tên tác giả, nhưng người nói đã rõ ràng giới thiệu mình. Đáp án đúng vì nó chính xác là tên của người cho mượn cuốn sách.",
+      "evidence": "It's been lost, I think. I've got a copy at home, so I'll bring it in tomorrow."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> I'd also like to ask you about that presentation that I have to give next month. </p><p><strong>Speaker 1:</strong> Yes, what's the problem? </p><p><strong>Speaker 2:</strong> Well, I've started work on it, as I want to do a good job, but I can't seem to find much information on the subject in the library. </p><p><strong>Speaker 1:</strong> OK, I'll jot down some ideas for you, then. What's the subject are you presenting again? </p><p><strong>Speaker 2:</strong> The three C's of the Great Reform Act in England in 1832. </p><p><strong>Speaker 1:</strong> Yes, the causes, course, and consequences. Well, there should be plenty of material in the library on that, as it's such an important subject. </p><p><strong>Speaker 2:</strong> Well, there should be, but it looks as though some first years are doing an essay on it, and so most of the books are out. I also don't want the run-of-the-mill books. I want my presentation to be a bit more in-depth. </p><p><strong>Speaker 1:</strong> The best book for you would be Great 19th Century Reform by Mark Needham. That book you can't take out. It's in the reference section only. You'll have to read it, actually, in the library itself. </p><p><strong>Speaker 2:</strong> Then there was a great article in History Monthly on the Great Reform Act by Jim Wood. The issue was August 2003, I think. You'll find it in the library stack system. </p><p><strong>Speaker 1:</strong> That's great. Anything else? </p><p><strong>Speaker 2:</strong> Yes, there's another really good book on the subject that looks at the whole thing from a slightly different point of view. I remember when it came out, it ruffled a few feathers. It's called Political Reform, and it's by Rob Jenkins. </p><p><strong>Speaker 1:</strong> The thing is, though, that I know our library hasn't got it. As you're preparing so far in advance, though, you'll be able to order it through interlibrary loan. Just go to the library reception and they'll give you the forms to fill out. It'll come in about a week, I expect. </p><p><strong>Speaker 2:</strong> OK, I'll do that straight away. </p><p><strong>Speaker 1:</strong> Finally, there's the book Reform and the 19th Century, which I actually wrote. The library used to have a copy, but it's been lost, I think. I've got a copy at home, so I'll bring it in tomorrow. If you pop in tomorrow morning sometime, I'll let you borrow it for a week or so. </p><p><strong>Speaker 2:</strong> Oh, that's fantastic. I didn't know you were an author, Dr. Jones. </p><p><strong>Speaker 1:</strong> Yes, I've done a few things. You'd better not lose it or spill coffee on it or anything, though. </p><p><strong>Speaker 2:</strong> I'll take very good care of it, I promise you. </p><p><strong>Speaker 1:</strong> I know you will, or I wouldn't lend it to you. So I'll see you tomorrow, then. </p><p><strong>Speaker 2:</strong> Yes, thanks again. See you tomorrow. </p><p><strong>Speaker 1:</strong> Bye. </p><p><strong>Speaker 2:</strong> Bye.</p>"
+}

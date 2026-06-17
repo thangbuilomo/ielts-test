@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_11",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Căn cứ nằm ở đoạn 3: \"However, that is not the entire picture. The olfactory system also sends information to other parts of the brain that are responsible for more complex functions like language, abstract thought, judgement and creativity. In other words, smells not only provoke automatic emotional reactions, but also hold messages that may help people to generate mental models, form attitudes and make decisions.\". Phương án D (... decision making.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "However, that is not the entire picture. The olfactory system also sends information to other parts of the brain that are responsible for more complex functions like language, abstract thought, judgement and creativity. In other words, smells not only provoke automatic emotional reactions, but also hold messages that may help people to generate mental models, form attitudes and make decisions._"
+    },
+    "q16": {
+      "explanation": "Căn cứ nằm ở đoạn 1: \"The link between smell and memory is well established; most people have experienced the phenomenon of unexpectedly encountering a smell, perhaps the scent of a particular flower or a specific cooking odour, which brings back a flood of long-forgotten memories. The fact that smell can conjure up feelings, whether enjoyable or unpleasant, is also undeniable; the perfume industry is built upon the premise that certain scents make us feel good about ourselves and, hopefully, also make us more attractive to others.\". Phương án C (... measured how smell affected people’s honesty.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "The link between smell and memory is well established; most people have experienced the phenomenon of unexpectedly encountering a smell, perhaps the scent of a particular flower or a specific cooking odour, which brings back a flood of long-forgotten memories. The fact that smell can conjure up feelings, whether enjoyable or unpleasant, is also undeniable; the perfume industry is built upon the premise that certain scents make us feel good about ourselves and, hopefully, also make us more attractive to others._"
+    },
+    "q17": {
+      "explanation": "Căn cứ nằm ở đoạn 6: \"A recent study in the US showed that when environments were sprayed with scents linked with hygiene, such as citrus, individuals reported a desire to connect with those who were in the vicinity of the scent. The respondents in that study also indicated that they were more willing to give money to charity and to help others. This again shows that scent holds messages that we incorporate and process alongside other sensory input to create mental models, make decisions, and alter our behavioural responses.\". Phương án A (... can change people’s perception of the price of the footwear.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "A recent study in the US showed that when environments were sprayed with scents linked with hygiene, such as citrus, individuals reported a desire to connect with those who were in the vicinity of the scent. The respondents in that study also indicated that they were more willing to give money to charity and to help others. This again shows that scent holds messages that we incorporate and process alongside other sensory input to create mental models, make decisions, and alter our behavioural responses._"
+    },
+    "q18": {
+      "explanation": "Căn cứ nằm ở đoạn 1: \"The link between smell and memory is well established; most people have experienced the phenomenon of unexpectedly encountering a smell, perhaps the scent of a particular flower or a specific cooking odour, which brings back a flood of long-forgotten memories. The fact that smell can conjure up feelings, whether enjoyable or unpleasant, is also undeniable; the perfume industry is built upon the premise that certain scents make us feel good about ourselves and, hopefully, also make us more attractive to others.\". Phương án B (... how smell can increase the likelihood of people acting less selfishly.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "The link between smell and memory is well established; most people have experienced the phenomenon of unexpectedly encountering a smell, perhaps the scent of a particular flower or a specific cooking odour, which brings back a flood of long-forgotten memories. The fact that smell can conjure up feelings, whether enjoyable or unpleasant, is also undeniable; the perfume industry is built upon the premise that certain scents make us feel good about ourselves and, hopefully, also make us more attractive to others._"
+    },
+    "q19": {
+      "explanation": "Căn cứ nằm ở đoạn 8: \"Odours in certain environments can affect emotions, thoughts and behaviour, but the influence is contextual; the effects are immediate and dissipate once the surroundings have changed. It seems that a pleasant aroma might influence our choice of running shoes, but neither house sellers nor advertisers are about to take over our thoughts, decisions and actions by means of scents alone.\". Phương án A (... limit the effect smells have on our actions.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Odours in certain environments can affect emotions, thoughts and behaviour, but the influence is contextual; the effects are immediate and dissipate once the surroundings have changed. It seems that a pleasant aroma might influence our choice of running shoes, but neither house sellers nor advertisers are about to take over our thoughts, decisions and actions by means of scents alone._"
+    }
+  }
+}

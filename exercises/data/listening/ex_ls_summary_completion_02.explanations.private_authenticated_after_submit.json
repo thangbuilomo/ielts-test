@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_summary_completion_02",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q36": {
+      "explanation": "Trong đoạn này, người nói đang mô tả về bệnh CJD, nhấn mạnh rằng bệnh này gây ra sự giảm sút nhanh chóng cả về chức năng tâm thần và khả năng chuyển động. Thông tin liên quan trực tiếp đến câu hỏi là cụm từ \"movement\", vì nó là một phần quan trọng trong việc mô tả các triệu chứng của CJD. Cụm từ này có thể được paraphrase thành \"ability to move\" nhưng trong ngữ cảnh này, \"movement\" là từ chính xác nhất. Không có bẫy nào ở đây vì câu hỏi yêu cầu một từ cụ thể và người nói đã cung cấp thông tin rõ ràng. Đáp án đúng là \"movement\" vì nó trực tiếp liên quan đến triệu chứng của bệnh CJD, trong khi các khả năng khác như \"function\" hay \"decrease\" không phù hợp với yêu cầu của câu hỏi.",
+      "evidence": "CJD is a disorder involving rapid decrease of mental function and movement."
+    },
+    "q37": {
+      "explanation": "Người nói đang đề cập đến độ tuổi mà triệu chứng của CJD bắt đầu xuất hiện, cụ thể là vào cuối những năm 50. Thông tin này rất quan trọng vì nó cung cấp một cái nhìn rõ ràng về nhóm tuổi mà bệnh này thường ảnh hưởng. Từ \"age\" là từ chính xác nhất để trả lời câu hỏi, và nó được nhấn mạnh trong ngữ cảnh của đoạn hội thoại. Không có bẫy nào ở đây, vì thông tin được trình bày một cách trực tiếp và rõ ràng. Các khả năng khác như \"onset\" hay \"symptoms\" không phù hợp vì chúng không đáp ứng yêu cầu của câu hỏi về việc chỉ cần một từ.",
+      "evidence": "with average age at onset of symptoms in the late 50s."
+    },
+    "q38": {
+      "explanation": "Trong đoạn này, người nói đang mô tả sự tiến triển nhanh chóng của bệnh CJD, dẫn đến tình trạng khuyết tật và cuối cùng là cái chết. Từ \"disability\" được sử dụng để chỉ tình trạng mất khả năng hoạt động bình thường, và nó là từ chính xác để trả lời câu hỏi. Câu này không có bẫy vì thông tin được trình bày rõ ràng và không có sự nhầm lẫn nào. Các khả năng khác như \"confusion\" hay \"dementia\" không phù hợp vì chúng không thể hiện đúng ý nghĩa của câu hỏi.",
+      "evidence": "the disorder progresses rapidly and may be confused with other types of dementia, such as Alzheimer's disease."
+    },
+    "q39": {
+      "explanation": "Người nói đang giải thích về nguồn gốc của bệnh BSE ở bò, cho rằng nó có thể bắt nguồn từ bệnh prion ở cừu gọi là scrapie. Từ \"sheep\" là từ chính xác để trả lời câu hỏi vì nó chỉ rõ nguồn gốc của bệnh. Không có bẫy nào ở đây vì thông tin được trình bày một cách rõ ràng và không có sự nhầm lẫn nào. Các khả năng khác như \"cattle\" hay \"meat\" không phù hợp vì chúng không đúng với yêu cầu của câu hỏi.",
+      "evidence": "it is thought that cattle initially may have become infected when given feed contaminated with scrapie-infected sheep meat."
+    },
+    "q40": {
+      "explanation": "Trong câu này, người nói đang mô tả một thực tế đáng lo ngại về việc bò bị cho ăn thịt của những con bò khác đã chết do bệnh scrapie, dẫn đến tình trạng ăn thịt đồng loại. Từ \"cattle\" là từ chính xác để trả lời câu hỏi vì nó chỉ rõ đối tượng bị ảnh hưởng. Không có bẫy nào ở đây vì thông tin được trình bày một cách trực tiếp và rõ ràng. Các khả năng khác như \"sheep\" hay \"meat\" không phù hợp vì chúng không đáp ứng yêu cầu của câu hỏi về việc chỉ cần một từ.",
+      "evidence": "Dead cattle with scrapie were also fed to cattle, making them cannibals."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> CJD is a disorder involving rapid decrease of mental function and movement. As with BSE in cattle, these abnormalities are believed to be caused by damage done to the brain by prions, though it has been proved that in rare cases it can be genetically inherited. </p><p><strong>Speaker 3:</strong> CJD tends to affect younger people, beginning between the ages of 20 and 70, with average age at onset of symptoms in the late 50s. Early symptoms include personality changes and difficulty with coordination. </p><p><strong>Speaker 2:</strong> Once symptoms appear, the disorder progresses rapidly and may be confused with other types of dementia, such as Alzheimer's disease. CJD, though, is distinguished by extremely rapid progression from onset to symptoms to disability and death. </p><p><strong>Speaker 1:</strong> So how did BSE and CJD come about? We've not read about them in the history books. These appear to be new diseases. </p><p><strong>Speaker 3:</strong> BSE was first reported in the United Kingdom. The exact origins of BSE remain uncertain, but it is thought that cattle initially may have become infected when given feed contaminated with scrapie-infected sheep meat and bone meal. </p><p><strong>Speaker 2:</strong> Scrapie is a sheep prion disease similar to BSE in cattle. The scientific evidence suggests that the UK BSE outbreak in cattle was then spread by feeding BSE-contaminated cattle protein to calves. Thus, we have created the disease ourselves. </p><p><strong>Speaker 1:</strong> Cattle naturally are grazers, feeding on grass. We have given cattle feed derived from sheep—an unnatural food for cattle. We have compounded our mistake by also feeding young cattle with feed derived from older cattle, making them cannibals. </p><p><strong>Speaker 3:</strong> There is a kind of horror associated with it when we look at it like this. There is also a kind of poetic justice that the disease is passed down to us as we consume the animals that we have infected. </p><p><strong>Speaker 2:</strong> Moving on now.</p>"
+}

@@ -1,0 +1,101 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_matching_headings_14",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 6,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "matching_headings",
+  "category_id": "matching_headings",
+  "title": "Matching Headings To Paragraphs - Exercise 14",
+  "duration_seconds": 0,
+  "content": {
+    "title": "Tidal Power",
+    "content_html": "<h1>MATCHING HEADINGS TO PARAGRAPHS 14</h1>\n<h2>Tidal Power</h2>\n<p><strong>A\n</strong>Winds may blow or die down and the sun may be obscured by clouds, but one thing we can safely predict and be sure of on this planet is the coming and going of the tide. This gives this form of renewable energy a distinct advantage over other sources of renewable energy.</p>\n<p><strong>B\n</strong>A tidal power unit is where a dam or barrage is built across an estuary or bay that experiences an adequate tidal range. This tidal range has to be in excess of five metres for the barrage to be feasible. The purpose of this dam or barrage is to let water flow through it into the basin as the tide comes in. The barrage has gates in it that allow the water to pass through. The gates are closed when the tide has stopped coming in, trapping the water within the basin or estuary and creating a hydrostatic head. As the tide recedes, gates in the barrage that contain turbines are opened, and the hydrostatic head causes the water to come through these gates, driving the turbines and generating power. Power can be generated in both directions through the barrage, but this can affect the efficiency of the project.</p>\n<p><strong>C\n</strong>There are different types of turbines that are now available for use in a tidal barrage. A bulb turbine is one in which water flows around the turbine. If maintenance is required, then the water must be stopped, which is time consuming and leads to a loss of generation. When rim turbines are used, the generator is mounted at right angles to the turbine blades, making access more straightforward. However, this type of turbine is not suitable for pumping and it is difficult to regulate its performance.</p>\n<p><strong>D\n</strong>Tidal streams are rapidly flowing volumes of water caused by the motion of the tide. In order for tidal stream power plants to be feasible, these tidal streams must occur in shallow seas where a natural constriction exists to force the water to speed up. The technology involved is very similar to wind energy, but there are some differences. Water is 800 times denser than air and has a much slower flow rate; this means that the turbine experiences much larger forces and momentum. This requires turbines with much smaller diameters. This technology is still in its infancy, despite the potential for a reliable and predictable energy source. Tidal stream technology has the advantage over tidal barrages when you compare environmental and ecological issues. It is less intrusive than on- and off-shore wind turbines and tidal barrages, and any hazard to navigation or shipping would be no more than that experienced by current offshore installations.</p>\n<p><strong>E\n</strong>The large capital costs required to start construction of a barrage have been the main stumbling block to their deployment. It is not an attractive proposition to an investor due to long payback periods. This problem could be solved by government funding or large organisations getting involved with tidal power. In terms of long-term costs, once the construction of the barrage is complete, there are very low maintenance and running costs and the turbines only need replacing around every 30 years. The life of the plant is indefinite, and for its entire life it will receive free fuel from the tide.</p>\n<p><strong>F\n</strong>During the construction of a barrage, the amount of traffic and people in the area will increase dramatically and this phenomenon will last for a number of years. This will also bring revenue to the local economy from the tourism and hospitality industry that will accommodate all the different types of visitors that the barrage will bring. The barrage can be used as a road or rail link, providing a time-saving method of crossing the bay or estuary. There is also the possibility of incorporating wind turbines into the barrage to generate extra power. The barrage would affect shipping and navigation and provision would have to be made to allow ships to pass through. Finally, the calmer waters created in the bay would create a further tourist attraction.</p>\n<p><strong>G\n</strong>Perhaps the largest disadvantages of tidal barrages are the ecological effects on the local area. These are very difficult to predict, as each site is different and there are not many projects that are available for study. The changes in water level and possible flooding would affect the vegetation around the coast, having an impact on the aquatic and shoreline ecosystems. The quality of the water in the basin or estuary would also be affected, and the sediment levels would change, affecting the turbidity of the water and therefore affecting the animals that live in it and depend upon it, such as fish and birds. Fish would undoubtedly be affected, unless provision was made for them to pass through the barrage without being killed by turbines. All these changes would affect the types of birds that are in the area, as they will migrate to other areas with more favourable conditions for them. The effects are not all disadvantageous though, and may allow different species of plant and creature to flourish in an area where they are not normally found. However, these issues are very delicate, and need to be independently assessed for each area in question.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_matching_headings_14.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_matching_headings_14.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "matching_headings",
+          "skill_tags": [
+            "rd_matching_headings"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 14 - 19</strong></p>\n<p>The text has seven paragraphs. Choose the correct heading for each paragraph. Write the appropriate number (i - x).</p>\n<table>\n<tr>\n<td>*Example*</td>\n<td>*Answer*</td>\n</tr>\n<tr>\n<td>Paragraph A</td>\n<td><strong>*iv</strong>*</td>\n</tr>\n</table>\n\n<p>14 Paragraph B</p>\n<p>15 Paragraph C</p>\n<p>16 Paragraph D</p>\n<p>17 Paragraph E</p>\n<p>18 Paragraph F</p>\n<p>19 Paragraph G</p>\n<table>\n<tr>\n<td><strong>i</strong></td>\n<td>A Less Disruptive Approach</td>\n</tr>\n<tr>\n<td><strong>ii</strong></td>\n<td>The Economics of Tidal Power</td>\n</tr>\n<tr>\n<td><strong>iii</strong></td>\n<td>A Case Study</td>\n</tr>\n<tr>\n<td><strong>iv</strong></td>\n<td>A Dependable Power Source</td>\n</tr>\n<tr>\n<td><strong>v</strong></td>\n<td>Technical Variations</td>\n</tr>\n<tr>\n<td><strong>vi</strong></td>\n<td>Failure in the Past</td>\n</tr>\n<tr>\n<td><strong>vii</strong></td>\n<td>How it Works</td>\n</tr>\n<tr>\n<td><strong>viii</strong></td>\n<td>Side Benefits</td>\n</tr>\n<tr>\n<td><strong>ix</strong></td>\n<td>Political Support</td>\n</tr>\n<tr>\n<td><strong>x</strong></td>\n<td>The Downside</td>\n</tr>\n</table>",
+          "items": [
+            {
+              "question_id": "q14",
+              "number": 14,
+              "prompt_html": "Paragraph B",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q15",
+              "number": 15,
+              "prompt_html": "Paragraph C",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q16",
+              "number": 16,
+              "prompt_html": "Paragraph D",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q17",
+              "number": 17,
+              "prompt_html": "Paragraph E",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q18",
+              "number": 18,
+              "prompt_html": "Paragraph F",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q19",
+              "number": 19,
+              "prompt_html": "Paragraph G",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            14,
+            19
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

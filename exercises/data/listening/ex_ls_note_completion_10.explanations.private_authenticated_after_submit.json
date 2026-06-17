@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_10",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q27": {
+      "explanation": "Người nói đang mô tả các khía cạnh an toàn mà người lao động sẽ được giới thiệu trong chuyến tham quan an toàn khi họ mới đến. Thông tin giúp tìm ra đáp án là cụm từ \"emergency muster stations\" (các trạm tập hợp khẩn cấp), đây là một cách diễn đạt khác cho \"emergency assembly points\". Paraphrase quan trọng ở đây là \"muster stations\" và \"assembly points\" đều chỉ đến nơi mà mọi người sẽ tập trung trong trường hợp khẩn cấp. Bẫy có thể là việc người nghe có thể nhầm lẫn với các khía cạnh an toàn khác được đề cập, nhưng cụm từ \"emergency assembly points\" là chính xác nhất. Đáp án đúng vì nó trực tiếp liên quan đến yêu cầu của câu hỏi.",
+      "evidence": "including fire extinguishers, emergency muster stations, lifeboat stations and emergency procedures."
+    },
+    "q28": {
+      "explanation": "Người nói đang tiếp tục mô tả các khía cạnh an toàn mà người lao động sẽ được giới thiệu trong chuyến tham quan an toàn. Thông tin giúp tìm ra đáp án là cụm từ \"emergency procedures\" (các quy trình khẩn cấp). Paraphrase quan trọng ở đây là \"procedures\" có thể được hiểu là các bước hoặc quy trình cần thực hiện trong tình huống khẩn cấp. Bẫy có thể là việc người nghe có thể bị phân tâm bởi các khía cạnh khác như \"fire extinguishers\" hay \"lifeboat stations\", nhưng \"emergency procedures\" là cụm từ chính xác nhất cho câu hỏi này. Đáp án đúng vì nó phản ánh đúng nội dung mà người nói đã đề cập.",
+      "evidence": "including fire extinguishers, emergency muster stations, lifeboat stations and emergency procedures."
+    },
+    "q29": {
+      "explanation": "Người nói đang mô tả về các buổi diễn tập an toàn mà công nhân sẽ tham gia. Thông tin giúp tìm ra đáp án là cụm từ \"mock fire\" (hỏa hoạn giả). Paraphrase quan trọng ở đây là \"mock\" có nghĩa là giả lập, không phải là hỏa hoạn thật. Bẫy có thể là việc người nghe có thể nghĩ đến các loại diễn tập khác, nhưng \"mock fire\" là cụm từ chính xác nhất cho câu hỏi này. Đáp án đúng vì nó thể hiện rõ ràng nội dung mà người nói đã đề cập đến.",
+      "evidence": "A fire and boat drill is often held on the same day, which involves a mock fire and a mock abandon the rig exercise."
+    },
+    "q30": {
+      "explanation": "Người nói đang so sánh nguy cơ tai nạn giữa các ngành nghề khác nhau. Thông tin giúp tìm ra đáp án là cụm từ \"building site\" (công trường xây dựng). Paraphrase quan trọng ở đây là việc so sánh giữa \"building site\" và \"oil rig\" để nhấn mạnh rằng công việc trên công trường xây dựng có nguy cơ cao hơn. Bẫy có thể là việc người nghe có thể nhầm lẫn với các ngành khác, nhưng \"building site\" là cụm từ chính xác nhất cho câu hỏi này. Đáp án đúng vì nó phản ánh đúng nội dung mà người nói đã đề cập đến.",
+      "evidence": "you now have a higher chance of having fatal accidents if you work on a building site than you do when on an oil rig."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 1:</strong> As I said earlier, the first industrial accident relating to the industry in the North Sea happened only days after they discovered the first gas. The SeaGem capsized with the loss of 13 lives. There are regular accidents on all oil rigs around the world, but the North Sea is just such a harsh environment that there always seems to be more there. The most famous accident and the worst disaster in the North Sea was the Piper Alpha disaster of 1988. </p><p><strong>Speaker 2:</strong> Yes, I remember that one on the news when it happened.</p><p><strong>Speaker 1:</strong> Today, the industry is very safety conscious. When you first arrive, you are given a safety tour of the installation, detailing all safety aspects, including fire extinguishers, emergency muster stations, lifeboat stations and emergency procedures. You will be introduced to the rig safety program. Everyone attends weekly safety meetings and daily pre-tour meetings. </p><p><strong>Speaker 1:</strong> The weekly meeting is an in-depth look at industry-wide safety news and other safety-related issues on the rig. The companies share safety information with other companies throughout the industry. This helps to avoid repeated incidents. A fire and boat drill is often held on the same day, which involves a mock fire and a mock abandon the rig exercise. </p><p><strong>Speaker 1:</strong> The pre-tour meeting is usually a description of the work carried out when you are off shift, the work you will be doing, the work others are currently doing that may affect you, and any other relevant issues of the day. </p><p><strong>Speaker 1:</strong> Accidents do still happen, as in every industry. However, statistics show that with the massive improvements in offshore safety procedures, you now have a higher chance of having fatal accidents if you work on a building site than you do when on an oil rig. </p><p><strong>Speaker 1:</strong> Well, that's all from me. I'll add lots of details to...</p>"
+}

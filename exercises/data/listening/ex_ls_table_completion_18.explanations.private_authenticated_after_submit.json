@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_18",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói đang cung cấp thông tin về mã tham chiếu đặt phòng của mình. Thông tin này rất quan trọng để xác nhận đặt phòng của khách. Câu nói rõ ràng nêu ra mã tham chiếu, giúp người nghe dễ dàng ghi lại. Paraphrase quan trọng ở đây là \"reference number\" được nhắc đến trong câu hỏi. Bẫy có thể là sự nhầm lẫn giữa các thông tin khác, nhưng mã tham chiếu được nêu rõ ràng và không có thông tin nào khác gây nhầm lẫn. Vì vậy, đáp án đúng là EZPD3729434.",
+      "evidence": "My reference is EZPD3729434."
+    },
+    "q2": {
+      "explanation": "Người nói đang xác nhận thời gian lưu trú của mình tại khách sạn. Thông tin \"three nights\" giúp xác định độ dài của kỳ nghỉ. Paraphrase quan trọng là \"length of stay\" trong câu hỏi. Bẫy có thể là sự nhầm lẫn với số đêm khác, nhưng câu nói rõ ràng nêu ra số đêm lưu trú. Do đó, đáp án đúng là three nights.",
+      "evidence": "A single comfort room for three nights."
+    },
+    "q3": {
+      "explanation": "Người nói đang chỉ ra phương thức thanh toán mà họ muốn sử dụng. Thông tin \"credit card\" là rõ ràng và trực tiếp. Paraphrase quan trọng là \"method of payment\" trong câu hỏi. Bẫy có thể là sự nhầm lẫn với các phương thức thanh toán khác, nhưng câu nói xác nhận rõ ràng rằng họ sẽ sử dụng thẻ tín dụng. Vì vậy, đáp án đúng là credit card.",
+      "evidence": "And I'd like to pay with it as well."
+    },
+    "q4": {
+      "explanation": "Người nói đang cung cấp thông tin về giá phòng hàng ngày. Thông tin \"122\" là số tiền chính xác cho giá phòng. Paraphrase quan trọng là \"full daily rate\" trong câu hỏi. Bẫy có thể là sự nhầm lẫn với giá cơ bản 120 đô la, nhưng câu nói rõ ràng nêu ra giá thực tế là 122 đô la. Do đó, đáp án đúng là 122.",
+      "evidence": "the daily rate for your room is $122, including breakfast."
+    },
+    "q5": {
+      "explanation": "Người nói đang thông báo cho khách về số phòng của họ. Thông tin \"405\" là số phòng chính xác mà khách sẽ ở. Paraphrase quan trọng là \"room number\" trong câu hỏi. Bẫy có thể là sự nhầm lẫn với các số phòng khác, nhưng câu nói nêu rõ số phòng mà khách sẽ ở. Vì vậy, đáp án đúng là 405.",
+      "evidence": "your room number is 405."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Good morning, madam. Welcome to the Lane Hotel. Can I help you?</p><p><strong>Speaker 3:</strong> Yes, please. I would like to check in.</p><p><strong>Speaker 2:</strong> Certainly, madam. Can I take your name, please?</p><p><strong>Speaker 3:</strong> It's Julia Olson. That's O-L-S-O-N.</p><p><strong>Speaker 2:</strong> Thank you. Now, do you have a reservation and reference number?</p><p><strong>Speaker 3:</strong> Yes, I booked with you online. My reference is EZPD3729434.</p><p><strong>Speaker 2:</strong> Which website did you book through?</p><p><strong>Speaker 3:</strong> It was Booknet.com.</p><p><strong>Speaker 2:</strong> Ah, yes. Here's your confirmation. Mrs. Julia Olson. A single comfort room for three nights. Is that right?</p><p><strong>Speaker 3:</strong> Yes, that's right.</p><p><strong>Speaker 2:</strong> Now, you've filled out all your personal details online, so we just need to know how you'd like to pay at the end of your stay. And we'll also need to swipe your credit card.</p><p><strong>Speaker 3:</strong> Here's my credit card. And I'd like to pay with it as well.</p><p><strong>Speaker 2:</strong> Thank you very much. Now, the daily rate for your room is $122, including breakfast.</p><p><strong>Speaker 3:</strong> I thought it was only $120 a night.</p><p><strong>Speaker 2:</strong> Yes, that's the basic charge, but there's a $2 a night local hotel tax. If you look at your reservation printout from your website, it says that just under the reference number.</p><p><strong>Speaker 3:</strong> Oh, yes. That's fine, then. </p><p><strong>Speaker 2:</strong> Here's your credit card back, Mrs. Olson. Thanks. So, your room number is 405 and here's your key card. Your room is on the fourth floor. Will it be possible for me to have an alarm call every morning that I'm here, as I will need to get to some early meetings?</p><p><strong>Speaker 2:</strong> Certainly, Mrs. Olson. At what time would you like the calls?</p><p><strong>Speaker 3:</strong> At 6 a.m., please.</p><p><strong>Speaker 2:</strong> That's fine. The staff on duty in the morning will see to that.</p>"
+}

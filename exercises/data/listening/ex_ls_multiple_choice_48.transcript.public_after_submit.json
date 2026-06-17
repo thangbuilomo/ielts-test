@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_48",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2048.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Now, I'll just mention a few points that visitors often ask about. </p><p><strong>Speaker 1:</strong> Let's start with ticket prices. Tickets cover entry to all attractions in the park, including the rides, museum, and Biodome. Adults must pay £10 for entry and tickets for children cost £5 each, although admission is free for those under six. Finally, there is a concession ticket for students and those over 65 which costs the same as a child's ticket. </p><p><strong>Speaker 1:</strong> If you're interested in making several trips to the park, we also offer a season pass for adults, students, and families. You must have proof of identity and a passport photo with you for this, though. Payment in the ticket office can be by cash or credit card, but it's very important that you make sure you have cash before you go to the cafe as they do not yet have a magnetic card reader. </p><p><strong>Speaker 1:</strong> You'll be happy to know that there's a cash machine you can use on the left as you enter the visitor centre. </p><p><strong>Speaker 1:</strong> Now, as your kids no doubt already know, there is plenty here to keep them entertained. The Pterodactyl is our most popular attraction with children, a roller coaster that is certain to get the adrenaline pumping. Bear in mind, though, that there is a 120cm height requirement for this ride. </p><p><strong>Speaker 1:</strong> In the same area of the park, there's also a crazy golf course with 9 dinosaur themed holes. You could win a dinosaur toy if you get a good score. Our ghost train, the Cretaceous Caverns, is also very popular, especially if you like a scare. It was closed for development until yesterday and is now even more petrifying. </p><p><strong>Speaker 1:</strong> The Treetop Walk is a good choice for kids who like climbing, running and jumping and gives excellent views of the park. For younger visitors, I would recommend the Island Play Den next to the cafe, which has a ball pit and excellent supervision from our staff. </p><p><strong>Speaker 1:</strong> And if you would like some family time, why not finish off by visiting the Riverside Walk's picnic area? </p><p><strong>Speaker 1:</strong> Okay, any questions? </p><p><strong>Speaker 2:</strong> No? </p><p><strong>Speaker 1:</strong> Well, then I hope you enjoy your visit.</p>"
+    }
+  ]
+}

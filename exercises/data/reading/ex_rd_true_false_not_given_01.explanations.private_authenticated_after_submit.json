@@ -1,0 +1,44 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_true_false_not_given_01",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Câu 1 mâu thuẫn với thông tin ở đoạn 2. Bài nêu: \"When this occurs, insulin enables the body to convert the extra glucose into a different substance that can be stored, in the liver or muscle tissues, for use later. In diabetes, the pancreas either cannot make insulin or produces it in insufficient quantities. Because of this, glucose builds up in the blood, causing hyperglycaemia, which in turn produces unpleasant symptoms and can, in the long term, result in severe health problems.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "When this occurs, insulin enables the body to convert the extra glucose into a different substance that can be stored, in the liver or muscle tissues, for use later. In diabetes, the pancreas either cannot make insulin or produces it in insufficient quantities. Because of this, glucose builds up in the blood, causing hyperglycaemia, which in turn produces unpleasant symptoms and can, in the long term, result in severe health problems._"
+    },
+    "q2": {
+      "explanation": "Câu 2 mâu thuẫn với thông tin ở đoạn 2. Bài nêu: \"When this occurs, insulin enables the body to convert the extra glucose into a different substance that can be stored, in the liver or muscle tissues, for use later. In diabetes, the pancreas either cannot make insulin or produces it in insufficient quantities. Because of this, glucose builds up in the blood, causing hyperglycaemia, which in turn produces unpleasant symptoms and can, in the long term, result in severe health problems.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "When this occurs, insulin enables the body to convert the extra glucose into a different substance that can be stored, in the liver or muscle tissues, for use later. In diabetes, the pancreas either cannot make insulin or produces it in insufficient quantities. Because of this, glucose builds up in the blood, causing hyperglycaemia, which in turn produces unpleasant symptoms and can, in the long term, result in severe health problems._"
+    },
+    "q3": {
+      "explanation": "Câu 3 khớp với thông tin ở đoạn 3. Ý chính trong bài là: \"This form develops most often in young people but can appear in adults. Type 2 diabetes is the most common form of diabetes. In this version, either the body does not produce enough insulin or cells ignore the signals given by the insulin that would normally \"unlock the door\" and allow glucose into the cells for transformation into energy.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "This form develops most often in young people but can appear in adults. Type 2 diabetes is the most common form of diabetes. In this version, either the body does not produce enough insulin or cells ignore the signals given by the insulin that would normally \"unlock the door\" and allow glucose into the cells for transformation into energy._"
+    },
+    "q4": {
+      "explanation": "Câu 4 khớp với thông tin ở đoạn 4. Ý chính trong bài là: \"In type 1 diabetes, symptoms are usually sudden and sometimes even life-threatening - severe imbalances in blood sugar levels can lead to comas - and therefore it is mostly diagnosed quite quickly. In type 2 diabetes, many people have no symptoms at all, while other signs can go unnoticed, being seen as part of \"getting older\". Therefore, by the time symptoms are noticed, the blood glucose level for many people can be very high.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "In type 1 diabetes, symptoms are usually sudden and sometimes even life-threatening - severe imbalances in blood sugar levels can lead to comas - and therefore it is mostly diagnosed quite quickly. In type 2 diabetes, many people have no symptoms at all, while other signs can go unnoticed, being seen as part of \"getting older\". Therefore, by the time symptoms are noticed, the blood glucose level for many people can be very high._"
+    },
+    "q5": {
+      "explanation": "Câu 5 có một số từ khóa gần với đoạn 5, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"Whether it is type 1 or type 2 diabetes, the aim of any diabetes treatment is to get a patient's blood glucose levels as close to the non-diabetic range as often as possible. For people with type 1 diabetes, this will mean regular insulin injections as well as leading a healthy lifestyle. For people with type 2 diabetes, healthy eating and regular physical activity may be all that are required at first; sometimes tablets and / or insulin may be needed later on.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "Whether it is type 1 or type 2 diabetes, the aim of any diabetes treatment is to get a patient's blood glucose levels as close to the non-diabetic range as often as possible. For people with type 1 diabetes, this will mean regular insulin injections as well as leading a healthy lifestyle. For people with type 2 diabetes, healthy eating and regular physical activity may be all that are required at first; sometimes tablets and / or insulin may be needed later on._"
+    },
+    "q6": {
+      "explanation": "Câu 6 có một số từ khóa gần với đoạn 2, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"When this occurs, insulin enables the body to convert the extra glucose into a different substance that can be stored, in the liver or muscle tissues, for use later. In diabetes, the pancreas either cannot make insulin or produces it in insufficient quantities. Because of this, glucose builds up in the blood, causing hyperglycaemia, which in turn produces unpleasant symptoms and can, in the long term, result in severe health problems.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "When this occurs, insulin enables the body to convert the extra glucose into a different substance that can be stored, in the liver or muscle tissues, for use later. In diabetes, the pancreas either cannot make insulin or produces it in insufficient quantities. Because of this, glucose builds up in the blood, causing hyperglycaemia, which in turn produces unpleasant symptoms and can, in the long term, result in severe health problems._"
+    },
+    "q7": {
+      "explanation": "Câu 7 khớp với thông tin ở đoạn 4. Ý chính trong bài là: \"In type 1 diabetes, symptoms are usually sudden and sometimes even life-threatening - severe imbalances in blood sugar levels can lead to comas - and therefore it is mostly diagnosed quite quickly. In type 2 diabetes, many people have no symptoms at all, while other signs can go unnoticed, being seen as part of \"getting older\". Therefore, by the time symptoms are noticed, the blood glucose level for many people can be very high.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "In type 1 diabetes, symptoms are usually sudden and sometimes even life-threatening - severe imbalances in blood sugar levels can lead to comas - and therefore it is mostly diagnosed quite quickly. In type 2 diabetes, many people have no symptoms at all, while other signs can go unnoticed, being seen as part of \"getting older\". Therefore, by the time symptoms are noticed, the blood glucose level for many people can be very high._"
+    }
+  }
+}

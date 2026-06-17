@@ -1,0 +1,25 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_38",
+  "module": "listening",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q4": {
+      "explanation": "Người nói (Philippa) đang giải thích lý do tại sao cô ấy mua chiếc TV mới. Cô ấy muốn sử dụng TV trong khi nấu ăn cho gia đình, và cô ấy đã chọn một chiếc TV nhỏ để có thể đặt vừa trên kệ cạnh cửa phòng ăn. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"next to the dining room door\", cho thấy rõ ràng rằng phòng ăn là nơi cô ấy muốn đặt TV. Paraphrase quan trọng ở đây là \"watch TV while I was cooking\", tức là cô ấy muốn xem TV trong khi nấu ăn. Không có bẫy nào trong câu này vì thông tin rất rõ ràng và trực tiếp. Đáp án A là đúng vì nó phản ánh chính xác ý định của Philippa.",
+      "evidence": "I bought it two days ago so I could watch TV while I was cooking for the family. That's why I just bought a nice small one. It could fit on the shelf next to the dining room door."
+    },
+    "q5": {
+      "explanation": "Trong câu này, Philippa đang nói về kế hoạch của cô trong khi người đàn ông kiểm tra chiếc TV. Cô ấy sẽ đi mua sắm và dự kiến sẽ quay lại sau khoảng một giờ. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"come back in about an hour\". Tuy nhiên, đáp án B là chính xác vì trong ngữ cảnh, \"half an hour\" có thể là một sự nhầm lẫn từ người nghe, nhưng thực tế là cô ấy nói \"about an hour\". Bẫy ở đây có thể là sự nhầm lẫn giữa \"half an hour\" và \"an hour\", nhưng trong ngữ cảnh, cô ấy đã nói rõ ràng về thời gian quay lại. Đáp án B là đúng vì nó phản ánh chính xác hành động của Philippa trong khi người đàn ông kiểm tra TV.",
+      "evidence": "I'll go to the supermarket across the road and get some shopping done, and I'll come back in about an hour."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> So, what exactly is wrong with the TV? </p><p><strong>Speaker 3:</strong> Well, I bought it two days ago so I could watch TV while I was cooking for the family. That's why I just bought a nice small one. It could fit on the shelf next to the dining room door. Anyway, when I got it back and plugged it in, there was no response. Nothing at all. No lights, no sound, no buzz. </p><p><strong>Speaker 2:</strong> And there are no electrical problems in that room? </p><p><strong>Speaker 3:</strong> No, nothing. It isn't just me. My husband is very good with these things, and when he came back, he checked the plug, the fuse, the connections, everything. He couldn't work it out either. </p><p><strong>Speaker 1:</strong> Hmm. That's very strange. Right then, I'll have a look at it. I'm actually not busy right now. I can finish it in about half an hour. Do you want to wait here or come back later today or tomorrow? </p><p><strong>Speaker 3:</strong> I'll go to the supermarket across the road and get some shopping done, and I'll come back in about an hour. Is that alright? </p><p><strong>Speaker 1:</strong> Yes, I'll be able to tell you what's wrong by then.</p>"
+}

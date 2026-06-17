@@ -1,0 +1,63 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_rd_matching_information_08",
+  "module": "reading",
+  "question_count": 8,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 8,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "FG"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "JS"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "SL"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "JF"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "CC"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "CC"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "PF"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "FG"
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_map_labelling_06",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Người nói đang hướng dẫn du khách về vị trí của quầy thông tin du lịch trong nhà ga. Thông tin giúp tìm ra đáp án là cụm từ \"immediately on the right\" (ngay bên phải), cho biết vị trí chính xác của quầy. Paraphrase quan trọng ở đây là \"travellers in need of assistance\" (những hành khách cần trợ giúp) có thể được hiểu là \"người cần thông tin\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không gây nhầm lẫn. Đáp án đúng vì câu nói chỉ rõ vị trí của quầy thông tin du lịch.",
+      "evidence": "Travellers in need of assistance can head straight for the tourist information desk, which can be found immediately on the right."
+    },
+    "q16": {
+      "explanation": "Người nói đang chỉ dẫn vị trí của quán cà phê trong nhà ga. Thông tin giúp tìm ra đáp án là cụm từ \"to your left\" (bên trái), cho biết vị trí của quán cà phê so với nhà vệ sinh. Paraphrase quan trọng là \"get a drink and some snacks\" (mua đồ uống và món ăn nhẹ) có thể được hiểu là dịch vụ mà quán cà phê cung cấp. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì câu nói chỉ rõ vị trí của quán cà phê.",
+      "evidence": "Upon leaving the toilets, you'll find the café to your left, where you can get a drink and some snacks for your journey."
+    },
+    "q17": {
+      "explanation": "Người nói đang cung cấp thông tin về nơi mua vé trong nhà ga. Thông tin giúp tìm ra đáp án là cụm từ \"ticket office near the ticket barriers\" (văn phòng bán vé gần các rào chắn vé). Paraphrase quan trọng là \"need a ticket to travel\" (cần vé để đi lại) có thể được hiểu là nhu cầu của hành khách. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì câu nói chỉ rõ vị trí của văn phòng bán vé.",
+      "evidence": "If you need a ticket to travel, you can buy these from the ticket machines, or you can go to the ticket office near the ticket barriers."
+    },
+    "q18": {
+      "explanation": "Người nói đang mô tả nền tảng xa hơn trong nhà ga và chỉ ra vị trí của máy bán hàng tự động. Thông tin giúp tìm ra đáp án là cụm từ \"only a vending machine at the end\" (chỉ có một máy bán hàng tự động ở cuối). Paraphrase quan trọng là \"cold drinks for thirsty commuters\" (đồ uống lạnh cho những người đi làm khát) có thể được hiểu là sản phẩm mà máy bán hàng cung cấp. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì câu nói chỉ rõ vị trí của máy bán hàng tự động.",
+      "evidence": "The far platform is less impressive, with only a vending machine at the end selling cold drinks for thirsty commuters."
+    },
+    "q19": {
+      "explanation": "Người nói đang chỉ dẫn về văn phòng đồ thất lạc trong nhà ga. Thông tin giúp tìm ra đáp án là cụm từ \"Lost Property Office\" (Văn phòng đồ thất lạc), cho biết tên gọi chính xác của nơi này. Paraphrase quan trọng là \"if you lose your bag\" (nếu bạn làm mất túi) có thể được hiểu là lý do đến văn phòng này. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì câu nói chỉ rõ vị trí của văn phòng đồ thất lạc.",
+      "evidence": "The first one in front of you is the place to go if you lose your bag or leave it on the train. The sign says Lost Property Office in English as well as Spanish."
+    },
+    "q20": {
+      "explanation": "Người nói đang mô tả văn phòng an ninh trong nhà ga. Thông tin giúp tìm ra đáp án là cụm từ \"security office\" (văn phòng an ninh), cho biết tên gọi chính xác của nơi này. Paraphrase quan trọng là \"keep the station safe\" (giữ an toàn cho nhà ga) có thể được hiểu là nhiệm vụ của nhân viên an ninh. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì câu nói chỉ rõ vị trí của văn phòng an ninh.",
+      "evidence": "Next door to this room, you'll find a number of people in uniform whose job is to keep the station safe. This is the security office and it's where you should go if you have anything stolen."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. As I have mentioned, the design and layout of the Central Station has changed drastically over the years. </p><p><strong>Speaker 1:</strong> Let's take a look at the floor plan and note some of the new features that you can see while you're here. As you can see, it is quite a large station with a number of different areas. Visitors enter the station through the grand entrance at the front of the building. </p><p><strong>Speaker 1:</strong> Travellers in need of assistance can head straight for the tourist information desk, which can be found immediately on the right. They speak most international languages here, so you don't have to worry if you're not great at Spanish. </p><p><strong>Speaker 1:</strong> You may also need to use the bathroom before you travel. The toilets are located on the other side of the station in the corner, just by the entrance. </p><p><strong>Speaker 1:</strong> Upon leaving the toilets, you'll find the café to your left, where you can get a drink and some snacks for your journey. And just past that is the souvenir shop, offering a range of gifts, clothes and postcards of the city of Puerto Nuevo. </p><p><strong>Speaker 1:</strong> If you need a ticket to travel, you can buy these from the ticket machines, or you can go to the ticket office near the ticket barriers. The staff are very friendly and speak English, French and Spanish. You can pay by cash or card. </p><p><strong>Speaker 1:</strong> Access to the shopping area is up the stairs behind the ticket office. Once you have your ticket, head through the ticket barriers to the two platforms. </p><p><strong>Speaker 1:</strong> The first and closest platform is for trains going south of the city. It's worth walking down the platform just to see the marble statue of Queen Isabella I of Spain. </p><p><strong>Speaker 1:</strong> The far platform is less impressive, with only a vending machine at the end selling cold drinks for thirsty commuters. If you walk back from the statue on platform 1, you'll come to two large offices. </p><p><strong>Speaker 1:</strong> The first one in front of you is the place to go if you lose your bag or leave it on the train. The sign says Lost Property Office in English as well as Spanish. Although we can't guarantee you'll recover everything, the staff are pretty good at finding your missing possessions. </p><p><strong>Speaker 1:</strong> Next door to this room, you'll find a number of people in uniform whose job is to keep the station safe. This is the security office and it's where you should go if you have anything stolen. Although this is very rare. </p><p><strong>Speaker 1:</strong> Over the last year, only 20 items have been reported stolen by travellers. We're sure you'll have a safe and enjoyable experience in the Puerto Nuevo Central Station. </p><p><strong>Speaker 1:</strong> Now if you look over here, we have a map of the shopping area attached to the station.</p>"
+}

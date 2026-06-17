@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_06",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Người nói đang mô tả sở thích của người La Mã đối với các loại bánh. Thông tin giúp tìm ra đáp án là việc nhắc đến \"oysters, mussels, and other shellfish\" (hàu, ngao và các loại hải sản khác), cho thấy rằng bánh của người La Mã thường chứa hải sản. Paraphrase quan trọng ở đây là \"fond of pies that contained seafood\" (thích những chiếc bánh có chứa hải sản). Không có bẫy trong câu này, vì thông tin rất rõ ràng và trực tiếp liên quan đến Ancient Roman pies. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã trình bày.",
+      "evidence": "The Romans were particularly fond of pies that contained oysters, mussels, and other shellfish."
+    },
+    "q16": {
+      "explanation": "Người nói đang nói về cách mà những chiếc bánh hoạt hình (animated pies) được chuẩn bị, với các sinh vật bên trong để tạo sự bất ngờ cho thực khách. Thông tin giúp tìm ra đáp án là việc nhắc đến \"creatures emerging from these animated pies\" (sinh vật xuất hiện từ những chiếc bánh hoạt hình). Paraphrase quan trọng là \"inserted into the crust\" (chèn vào lớp vỏ). Bẫy ở đây có thể là sự nhầm lẫn giữa các loại bánh khác nhau, nhưng thông tin rõ ràng cho thấy đây là đặc điểm của animated pies. Đáp án đúng vì nó mô tả chính xác cách thức hoạt động của loại bánh này.",
+      "evidence": "The creatures weren't really baked, of course. They were inserted into the crust to be released when the crust was cut."
+    },
+    "q17": {
+      "explanation": "Người nói đang nhắc đến một bài thơ trẻ con nổi tiếng có liên quan đến bánh. Thông tin giúp tìm ra đáp án là việc nhắc đến \"old nursery rhyme\" (bài thơ trẻ con cũ) và cụ thể là \"four and twenty blackbirds baked in a pie\" (bốn và hai mươi con chim đen được nướng trong một chiếc bánh). Paraphrase quan trọng là \"feature in a well-known children’s rhyme\" (xuất hiện trong một bài thơ trẻ con nổi tiếng). Không có bẫy trong câu này, vì thông tin rất rõ ràng và dễ nhận biết. Đáp án đúng vì nó liên quan trực tiếp đến Mince pies.",
+      "evidence": "Now, I'm sure you are familiar with the old nursery rhyme. Sing a song of sixpence, a pocket full of rye, four and twenty blackbirds baked in a pie."
+    },
+    "q18": {
+      "explanation": "Người nói đang giải thích về tên gọi của một loại bánh trong quá khứ. Thông tin giúp tìm ra đáp án là việc nhắc đến \"pies were known as coffins\" (những chiếc bánh được gọi là coffins). Paraphrase quan trọng là \"contained live animals or people\" (chứa động vật hoặc người sống). Bẫy có thể là sự nhầm lẫn giữa coffins và các loại bánh khác, nhưng thông tin rõ ràng cho thấy coffins là loại bánh chứa sinh vật sống. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã trình bày.",
+      "evidence": "At this time, pies were known as coffins."
+    },
+    "q19": {
+      "explanation": "Người nói đang mô tả đặc điểm của coffins, một loại bánh không thể ăn được. Thông tin giúp tìm ra đáp án là \"not generally eaten because it was so hard\" (không thường được ăn vì nó quá cứng). Paraphrase quan trọng là \"inedible pastry\" (vỏ bánh không thể ăn được). Bẫy có thể là sự nhầm lẫn giữa coffins và các loại bánh khác, nhưng thông tin rõ ràng cho thấy coffins không được ăn. Đáp án đúng vì nó mô tả chính xác đặc điểm của loại bánh này.",
+      "evidence": "Strictly speaking, a coffin was a tall, straight-sided pie with a thick, tough pastry."
+    },
+    "q20": {
+      "explanation": "Người nói đang đề cập đến một sự kiện lịch sử liên quan đến mince pies. Thông tin giúp tìm ra đáp án là \"eating mince pies was forbidden\" (việc ăn mince pies đã bị cấm). Paraphrase quan trọng là \"were banned for a period of time\" (bị cấm trong một khoảng thời gian). Bẫy có thể là sự nhầm lẫn giữa các loại bánh khác nhau, nhưng thông tin rõ ràng cho thấy mince pies là loại bánh bị cấm. Đáp án đúng vì nó phản ánh chính xác nội dung mà người nói đã trình bày.",
+      "evidence": "Interestingly, eating mince pies was forbidden during the English Civil War in the mid-17th century."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> The first in ancient Greek and Roman pies was of course often olive oil. The Romans were particularly fond of pies that contained oysters, mussels, and other shellfish. Later in Roman times, a pie called placenta became popular. This dish consisted of several layers of dough interspersed with cheese and honey. Sounds delicious, doesn't it?</p><p><strong>Speaker 3:</strong> With the Roman conquest, the recipe for pastry travelled into northern Europe, where olive oil was not available. The fat content of the pastry was replaced with solid fats, lard, or butter. The ensuing pastry was more flexible. It could be rolled and moulded, and this resulted in the true pies we know today. </p><p><strong>Speaker 2:</strong> I'm going to jump forward several centuries now and talk about the pies of 14th century Europe. Now, I'm sure you are familiar with the old nursery rhyme. Sing a song of sixpence, a pocket full of rye, four and twenty blackbirds baked in a pie. When the pie was opened, the birds began to sing, wasn't that a dainty dish to set before the king? </p><p><strong>Speaker 3:</strong> However, you might not be aware that for many years it was extremely common to have creatures emerging from these animated pies when they were served in order to entertain important diners at feasts. The creatures weren't really baked, of course. They were inserted into the crust to be released when the crust was cut. </p><p><strong>Speaker 2:</strong> In fact, four and twenty blackbirds is pretty tame, actually. It was quite common to have anything from rabbits, frogs, turtles, and even small people sealed in pies. And there is documented evidence that the French nobleman, the Duke of Burgundy, had 24 musicians entertain his diners from the inside of a giant pie during a banquet in 1454. </p><p><strong>Speaker 3:</strong> At this time, pies were known as coffins. Strictly speaking, a coffin was a tall, straight-sided pie with a thick, tough pastry. This was not generally eaten because it was so hard. The point of the crust was to preserve the meat inside. This was particularly important on long sea voyages where fresh meat was not available unless live animals were brought on board. </p><p><strong>Speaker 2:</strong> Finally, I'll mention the mince pie, a popular food for British people in the days leading up to Christmas. This pie dates back to the 13th century when exotic spices and fruits were brought back from the Middle East. In the past, they contained a mixture of meat, fruits, and spices, but nowadays they tend to only contain sweet ingredients. </p><p><strong>Speaker 3:</strong> Interestingly, eating mince pies was forbidden during the English Civil War in the mid-17th century. At this time, the indulgences and frivolities associated with Christmas were not accepted by the authorities. Pie eating was done in secret until the ban was lifted 16 years later in 1660. </p><p><strong>Speaker 2:</strong> Right, well, I think that's enough background. Shall we get on with the tasting now?</p>"
+}

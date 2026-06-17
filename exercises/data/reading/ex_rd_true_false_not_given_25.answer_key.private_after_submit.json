@@ -1,0 +1,63 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_rd_true_false_not_given_25",
+  "module": "reading",
+  "question_count": 8,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 8,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q28": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q31": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "FALSE"
+      ]
+    }
+  }
+}

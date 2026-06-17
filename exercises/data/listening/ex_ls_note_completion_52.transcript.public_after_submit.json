@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_52",
+  "module": "listening",
+  "question_count": 10,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2052.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You will hear a student of sports psychology giving a presentation about a popular psychology book called The Chimp Paradox. You now have some time to look at the questions on your screen. Now, answer the questions on your screen. Hi, everyone. So, when our teacher asked us to prepare a presentation about how psychology affects sporting success, I immediately knew I wanted to talk about The Chimp Paradox. </p><p><strong>Speaker 1:</strong> Now, for anyone who doesn't know, The Chimp Paradox is a popular psychology book by Steve Peters, and it's been highly influential. It's basically suggesting that people behave a bit like chimpanzees, animals which you might have seen in zoos or on TV wildlife programs.</p><p><strong>Speaker 1:</strong> The central idea behind The Chimp Paradox is that the human brain consists of two components, which the author calls the human part and the chimp part. Let me explain what he means. So, the human. This is the aspect of ourselves that, on the whole, tends to be sensible. It analyzes things that happen before actually deciding what to do. It's situated in the frontal lobe of the brain. And one thing about the human part is that it just loves it when there are rules in place because these can simply be followed and it knows what to do. </p><p><strong>Speaker 1:</strong> And the other side of ourselves, of course, is the chimp part. Now, compared to the human, the way that the chimp responds is very emotional, and Peter's central message is that, basically, the chimp can either be our best friend or our worst enemy. That's what he means when he talks about the chimp paradox because having these completely distinct personalities can frequently be the cause of a conflict. </p><p><strong>Speaker 1:</strong> So, I'd like to provide a couple of examples of what the chimp paradox might look like in practice. So, in the book, Peters provides the example of a person going into a room, maybe at a party, and finding that all the other people there are strangers. So, the chimp within us may feel insecure or even panic, while our inner human reacts differently and decides how best to deal with the situation. </p><p><strong>Speaker 1:</strong> Another example of the chimp paradox would be if you have a repetitive chore that needs doing, say, decorating a room in your apartment, but suppose that then a friend contacts you and gives you the chance to socialize instead. Now, that's an offer that might be very tempting for your inner chimp, so you've got this dilemma, this choice, that needs to be made. And you're being pulled in two different directions, by the human part of your brain in one direction and by your chimp part in the other. </p><p><strong>Speaker 1:</strong> I'd like to turn now to the world of sport because that's where the lessons of the chimp paradox have been widely applied, often very successfully. If you look online to read about Steve Peters and the chimp paradox, you'll see quite a bit of discussion about a very prominent cyclist who was close to quitting, but then reading the book gave her the determination to carry on, which she did. </p><p><strong>Speaker 1:</strong> In fact, she has publicly endorsed the mindset that the book prescribes, and she credits it with having enabled her to become not just a top athlete, she was that anyway, but a champion, and her career really has gone from strength to strength. And that's by no means the only example of the lessons of the chimp paradox being applied in elite sports. </p><p><strong>Speaker 1:</strong> Top snooker player Ronnie O'Sullivan, who turned professional at the age of 16, has been troubled by depression throughout his career, but Steve Peters was able to guide O'Sullivan and help him find ways to cope using the human-chimp psychology presented in the book and to continue playing at the very highest level at an age when many other snooker players had retired. </p><p><strong>Speaker 1:</strong> One of the methods he used was to make sure that O'Sullivan made space in his schedule to go running, as this was an activity he'd been keen on for years, but it was something that he often found he was too busy to do. So, anyway, that's a brief introduction to the ideas behind the chimp paradox and how they've been applied in sport. Are there any questions?</p>"
+    }
+  ]
+}

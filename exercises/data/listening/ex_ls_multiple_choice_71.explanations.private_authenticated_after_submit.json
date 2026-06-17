@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_71",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Người nói, Kevin, đang nói về sự tiến bộ trong việc tái chế chất thải ở Bookwall. Ông cho biết rằng tỷ lệ chất thải được tái chế đã tăng gấp đôi, điều này cho thấy sự tiến bộ đáng kể. Thông tin giúp tìm ra đáp án là cụm từ \"that's a real achievement that I'm proud of\", cho thấy Kevin cảm thấy hài lòng với sự tiến bộ này. Paraphrase quan trọng ở đây là \"the proportion of waste that's recycled has doubled\", có nghĩa là tỷ lệ tái chế đã tăng lên. Bẫy có thể là sự nhầm lẫn giữa cảm giác tự hào và sự ngạc nhiên, nhưng Kevin rõ ràng đã bày tỏ sự hài lòng với những gì đã đạt được. Vì vậy, đáp án C là chính xác.",
+      "evidence": "the proportion of waste that's recycled has doubled... that's a real achievement that I'm proud of."
+    },
+    "q12": {
+      "explanation": "Kevin đang giải thích về lợi ích của việc tái chế lon đồ uống. Ông nhấn mạnh rằng việc tái chế tiết kiệm năng lượng hơn so với sản xuất mới. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"a far more energy-efficient process than manufacturing a new can would be\". Paraphrase quan trọng là \"cans can easily be recycled\", có nghĩa là lon có thể được tái chế dễ dàng. Bẫy có thể là sự hiểu lầm rằng Kevin đang khuyên mọi người không nên mua đồ uống đóng hộp, nhưng thực tế ông chỉ đang nói về lợi ích của việc tái chế. Do đó, đáp án B là chính xác.",
+      "evidence": "the point is that, like lots of packaging, cans can easily be recycled, which is a far more energy-efficient process than manufacturing a new can would be."
+    },
+    "q13": {
+      "explanation": "Kevin đang nói về khối lượng chất thải mà Vương quốc Anh thải ra hàng năm và sử dụng hình ảnh của những con tàu để minh họa cho quy mô của vấn đề. Thông tin quan trọng là cụm từ \"that's equivalent to the weight of 260 ships\", cho thấy rằng một lượng lớn rác thải được sản xuất. Paraphrase quan trọng là \"a lot of the UK’s rubbish is sent overseas\", vì điều này ngụ ý rằng một phần lớn rác thải được xuất khẩu. Bẫy có thể là việc người nghe nghĩ rằng Kevin đang nói về sự nguy hiểm của rác thải trên biển, nhưng thực tế ông chỉ đang sử dụng hình ảnh để nhấn mạnh quy mô vấn đề. Vì vậy, đáp án C là chính xác.",
+      "evidence": "To put that into perspective, that's equivalent to the weight of 260 ships."
+    },
+    "q14": {
+      "explanation": "Kevin đang nói về một hoạt động dành cho trẻ em nhằm khuyến khích việc tái chế. Ông cho biết rằng trẻ em sẽ được yêu cầu gửi ảnh chụp về việc tái chế. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"submit pictures taken of them or their family actually doing their recycling\". Paraphrase quan trọng là \"making something out of recycled objects\", vì hoạt động này liên quan đến việc sử dụng đồ tái chế. Bẫy có thể là sự nhầm lẫn giữa việc làm đồ vật từ rác thải và việc chụp ảnh, nhưng rõ ràng Kevin đã chỉ ra rằng hoạt động này là về việc chụp ảnh. Do đó, đáp án A là chính xác.",
+      "evidence": "we're asking kids to submit pictures taken of them or their family actually doing their recycling."
+    },
+    "q15": {
+      "explanation": "Kevin đang nói về các trung tâm tái chế ở Bookwall và thông báo rằng giờ mở cửa đã được mở rộng. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"we've just extended their opening hours\", cho thấy rằng có một sự thay đổi tích cực. Paraphrase quan trọng là \"several new ones have recently opened\", vì điều này có thể gây nhầm lẫn với việc mở mới các trung tâm. Bẫy có thể là sự hiểu lầm rằng Kevin đang nói về sự dễ dàng trong việc tiếp cận các trung tâm, nhưng thực tế ông đang nói về giờ mở cửa. Do đó, đáp án B là chính xác.",
+      "evidence": "we've just extended their opening hours, so now you'll even be able to go after you've finished work."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You will hear a man speaking on the radio about recycling in a town called Bookwall. You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> As our listeners know, on Radio Bookwall, we like to focus on sustainable living. And today, I'm joined in the studio by Kevin, head of recycling at Bookwall Council. Welcome, Kevin.</p><p><strong>Speaker 3:</strong> Hiya, good to be here.</p><p><strong>Speaker 2:</strong> So Kevin, how good are we at recycling our waste here in Bookwall?</p><p><strong>Speaker 3:</strong> Well, in the years I've been involved in recycling with Bookwall Council, the proportion of waste that's recycled has doubled. We now recycle about 50% of our rubbish, and that's a real achievement that I'm proud of. But listeners might be surprised to learn that some countries manage far more than this. And of course, recycling's important in so many ways. Take aluminium cans, for example. OK, maybe the drinks inside them aren't super healthy, but the point is that, like lots of packaging, cans can easily be recycled, which is a far more energy-efficient process than manufacturing a new can would be. That's a huge benefit, as well as the fact that reusing that aluminium conserves resources. And, you know, in the UK, we throw away about 26 million tonnes of waste each year. To put that into perspective, that's equivalent to the weight of 260 ships. And I mean the large ones that cruise across the seas. That's an enormous amount, and the more of that we can recycle, the better for the environment.</p><p><strong>Speaker 2:</strong> We're keen to get the schoolchildren of Bookwall passionate about recycling this year. I did have the idea of a competition for kids to make something out of the items in their recycling, until someone pointed out that this might prevent the things from being recycled. So instead, we're asking kids to submit pictures taken of them or their family actually doing their recycling. I'm hoping it'll be even more popular than last year's story writing competition on the theme of recycling.</p><p><strong>Speaker 3:</strong> Bookwall, of course, has several recycling centres across various locations throughout the city. So wherever you live, you're not far from your nearest one. And recyclers may be pleased to learn that we've just extended their opening hours, so now you'll even be able to go after you've finished work.</p>"
+}

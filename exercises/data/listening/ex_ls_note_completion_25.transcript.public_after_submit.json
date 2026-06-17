@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_25",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2025.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. So, now we come to what we want to do in New York. I was talking to James and he said that when he went last year with his wife, they had an excellent boat tour around Manhattan Island. It was about three hours long and they got a really good orientation. There's a commentary by someone on the boat and James said it's really interesting and funny. How about that for the first morning?</p><p><strong>Speaker 2:</strong> That sounds great. So, that's the morning. How about in the afternoon we go into Greenwich Village and walk around the stalls there? If we feel like some more shopping later, we can go down to 5th Avenue and check out the really famous stores like Tiffany's and Bloomingdale's.</p><p><strong>Speaker 1:</strong> That sounds nice. We could finish the afternoon by going up the Empire State Building.</p><p><strong>Speaker 2:</strong> Good idea. For dinner, we could go to Little Italy or Chinatown. I've heard so much about those places.</p><p><strong>Speaker 1:</strong> I'm not so keen on Chinese food, but Italian sounds great. So, that's day one settled. On day two, I'd like to see the modern art in the Metropolitan Museum. Would you like to do that?</p><p><strong>Speaker 2:</strong> Not really, but why don't you do that and I'll go to the zoo in Central Park? I've always wanted to go there and I know that you don't like zoos. Afterwards, we can meet up and walk through the park a little and have lunch.</p><p><strong>Speaker 1:</strong> That sounds good. After that, would you like to take the ferry out to Staten Island in the afternoon?</p><p><strong>Speaker 2:</strong> Yes, I'd like that. We could have dinner out there as well and take an evening ferry home. That just leaves day three, the last day then. What would you like to do first?</p><p><strong>Speaker 1:</strong> Well, we will have been rushing around all the other days. Why don't we just go and have a leisurely breakfast down by the water somewhere? How about down near the UN building on the East River? We can just eat, relax and read a paper or something. You know, just soak up the atmosphere.</p><p><strong>Speaker 2:</strong> That's a good idea. It will be nice to relax. And shall we just leave the afternoon free for now and see what happens? There's bound to be something going on and we can always go to the tourism office and get some recommendations.</p><p><strong>Speaker 1:</strong> In the evening though, I did have something I'd like to do. I've checked and the New York Mets have a baseball game that night. I'd love to see a baseball game. Would you like that?</p><p><strong>Speaker 2:</strong> Sure, that sounds fun. We can just have hot dogs and hamburgers for dinner at the game. And then the next morning, we have to be at Grand Central Station at 9am.</p>"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_short_answer_10",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/SHORT%20ANSWER%2010.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. So shall we look at secondary schools for Simon now?</p><p><strong>Speaker 2:</strong> Yes, please.</p><p><strong>Speaker 1:</strong> Similarly, you have a choice from two catchment areas. In the same catchment area as Longmead School, there is Walcott School. It has 800 boys and girls and offers places for children from Year 7 to Year 13. You said Simon was 14, yes?</p><p><strong>Speaker 2:</strong> That's right.</p><p><strong>Speaker 1:</strong> So he would go into Year 9, I think. Is he in Year 9 or 10 right now?</p><p><strong>Speaker 2:</strong> He's nearly old enough to be in Year 10, but as he's a bit weak, we've got him in Year 9. He's doing well there.</p><p><strong>Speaker 1:</strong> What's Walcott School like?</p><p><strong>Speaker 2:</strong> It's got a good reputation. They get good results in exams and they've had a successful quality inspection last year. The head teacher there is very progressive and not long ago he introduced a behaviour control program that has been very successful. It's a very up-and-coming establishment.</p><p><strong>Speaker 1:</strong> And what is the other choice?</p><p><strong>Speaker 2:</strong> It's Wesley Boys School. It's not got as good results as Walcott School, but they have a good reputation for well-ordered lessons and pupils. It also has very good systems for helping children who are academically not as strong, so that might suit Simon. It's also near King's School, so your children can go together by bus if you decided that that's the way you wanted to go. Wesley Boys, as the name suggests, is only for boys. Some people like that and some don't.</p><p><strong>Speaker 1:</strong> Hmm. In general, I'm against that.</p><p><strong>Speaker 2:</strong> Well, that's quite a lot to think about. Do you have information packs about the secondary schools for me?</p><p><strong>Speaker 1:</strong> I have one for Walcott School, but we've run out of packs for Wesley Boys. Some more arrived tomorrow, so I'll put one in the post immediately. Today's Tuesday, so you will get it on Thursday.</p><p><strong>Speaker 2:</strong> That's great. Thank you.</p><p><strong>Speaker 1:</strong> You're welcome. Now, is there anything else?</p><p><strong>Speaker 2:</strong> I will go and visit the four schools with the boys and then decide. What should I do when I decide?</p><p><strong>Speaker 1:</strong> Do I directly approach the schools?</p><p><strong>Speaker 2:</strong> No. Come back here and I will go through the paperwork with you. It's pretty straightforward. Just bring your family birth certificates for identification and bring some proof of address. Don't forget that or we won't be able to process the application.</p>"
+    }
+  ]
+}

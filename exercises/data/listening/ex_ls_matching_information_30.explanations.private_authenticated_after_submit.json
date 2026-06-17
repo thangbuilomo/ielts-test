@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_30",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q25": {
+      "explanation": "Người nói đang thảo luận về bức tranh Chirk Aqueduct và nghi ngờ rằng tên gọi của bức tranh có thể không chính xác. Thông tin này giúp tìm ra đáp án vì nó trực tiếp liên quan đến việc xác định tính chính xác của tiêu đề bức tranh. Paraphrase quan trọng ở đây là \"got it wrong when he was naming the picture,\" cho thấy sự không chắc chắn về tên gọi. Bẫy có thể là sự nhầm lẫn giữa việc tìm hiểu về nội dung bức tranh và tên gọi của nó. Đáp án đúng vì câu nói rõ ràng chỉ ra rằng có thể tên bức tranh không phản ánh đúng nội dung thực tế.",
+      "evidence": "Maybe Cotman got it wrong when he was naming the picture."
+    },
+    "q26": {
+      "explanation": "Người nói đang đặt câu hỏi về việc bức tranh In Rokeby Park có hoàn thành hay không, điều này cho thấy sự quan tâm đến trạng thái của bức tranh. Thông tin này giúp tìm ra đáp án vì nó trực tiếp liên quan đến việc xác định xem bức tranh có hoàn thành hay không. Paraphrase quan trọng là \"left unfinished,\" thể hiện sự không chắc chắn về việc bức tranh có hoàn thành hay không. Bẫy có thể là sự nhầm lẫn giữa việc đánh giá chất lượng bức tranh và việc nó có hoàn thành hay không. Đáp án đúng vì câu hỏi rõ ràng chỉ ra sự quan tâm đến trạng thái hoàn thành của bức tranh.",
+      "evidence": "Was it left unfinished, do you think?"
+    },
+    "q27": {
+      "explanation": "Người nói đang thảo luận về bức tranh Bedlam Furnace và tự hỏi liệu đây có phải là bức tranh duy nhất mà Cotman vẽ về chủ đề công nghiệp nặng hay không. Thông tin này giúp tìm ra đáp án vì nó liên quan đến việc tìm hiểu xem Cotman có vẽ những bức tranh khác về chủ đề tương tự hay không. Paraphrase quan trọng là \"only portrayal of heavy industry,\" cho thấy sự quan tâm đến việc có những tác phẩm tương tự hay không. Bẫy có thể là sự nhầm lẫn giữa việc đánh giá nội dung bức tranh và việc tìm kiếm các tác phẩm khác. Đáp án đúng vì câu hỏi rõ ràng chỉ ra sự quan tâm đến các tác phẩm khác của Cotman về chủ đề công nghiệp.",
+      "evidence": "Is that his only portrayal of heavy industry?"
+    },
+    "q28": {
+      "explanation": "Người nói đang đề cập đến một sự cố xảy ra khi Cotman đang làm việc tại Croyland Abbey, cụ thể là một cuộc đánh nhau với một người đi qua. Thông tin này giúp tìm ra đáp án vì nó liên quan đến những sự kiện xảy ra trong quá trình Cotman làm việc. Paraphrase quan trọng là \"get involved in a fight,\" cho thấy một sự kiện cụ thể đã xảy ra. Bẫy có thể là sự nhầm lẫn giữa việc tìm hiểu về nội dung bức tranh và những sự kiện xung quanh việc vẽ tranh. Đáp án đúng vì câu hỏi rõ ràng chỉ ra một sự kiện thú vị liên quan đến quá trình sáng tác của Cotman.",
+      "evidence": "Didn't he get involved in a fight with a passerby?"
+    },
+    "q29": {
+      "explanation": "Người nói đang đặt câu hỏi về danh tính của những nhân vật trong bức tranh The Kitchen, cụ thể là liệu họ có phải là gia đình của Cotman hay không. Thông tin này giúp tìm ra đáp án vì nó liên quan đến việc xác định danh tính của những người trong bức tranh. Paraphrase quan trọng là \"who the people in the painting are,\" thể hiện sự quan tâm đến danh tính của các nhân vật. Bẫy có thể là sự nhầm lẫn giữa việc tìm hiểu về nội dung bức tranh và việc xác định danh tính. Đáp án đúng vì câu hỏi rõ ràng chỉ ra sự quan tâm đến danh tính của những người trong bức tranh.",
+      "evidence": "I wonder if they're Cotman's family."
+    },
+    "q30": {
+      "explanation": "Người nói đang thảo luận về năm mà bức tranh Doorway at Rievaulx được vẽ, cụ thể là năm 1803. Thông tin này giúp tìm ra đáp án vì nó trực tiếp liên quan đến việc xác định năm sáng tác của bức tranh. Paraphrase quan trọng là \"supposedly painted in 1803,\" cho thấy thông tin về năm vẽ tranh. Bẫy có thể là sự nhầm lẫn giữa việc tìm hiểu về nội dung bức tranh và việc xác định năm vẽ. Đáp án đúng vì câu nói rõ ràng chỉ ra năm mà bức tranh được sáng tác, điều mà người hỏi đang tìm kiếm.",
+      "evidence": "Supposedly painted in 1803, when Cotman was just 21."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: Okay, so our presentation can show six Cotman paintings. </p><p><strong>Speaker 2:</strong> Yeah, and we can research more and decide what to say about each one we choose. One good example is his painting of that tall stone bridge, Cheurk aqueduct. At least that's what it's called. </p><p><strong>Speaker 1:</strong> Thing is, though, the actual aqueduct at Cheurk doesn't look anything like it. The proportions are totally different. </p><p><strong>Speaker 2:</strong> Right, so maybe it's actually somewhere else entirely. Maybe Cotman got it wrong when he was naming the picture. </p><p><strong>Speaker 1:</strong> Hmm, let's check that. Okay, and then there's In Rokeby Park. It's atmospheric, but doesn't have much detail. Was it left unfinished, do you think? </p><p><strong>Speaker 2:</strong> If we compare it to some of his other landscapes, we might be able to tell. </p><p><strong>Speaker 1:</strong> Yes, let's do that. And then there's his painting of Bedlam Furnace. It shows the way that many English towns in the early 1800s were industrializing, completely transforming the urban landscape. </p><p><strong>Speaker 2:</strong> Yeah, factory chimneys spewing out dark smoke. Total contrast to all those rural scenes he painted. </p><p><strong>Speaker 1:</strong> Yeah, is that his only portrayal of heavy industry? </p><p><strong>Speaker 2:</strong> Possibly. I'm not aware of any more. We can do a quick search, see if there are. </p><p><strong>Speaker 1:</strong> Okay, oh, another one to show is Crookland Abbey. </p><p><strong>Speaker 2:</strong> Oh, that's the one where, when he was on site, making a sketch of the building, I think there was some incident. Didn't he get involved in a fight with a passerby? </p><p><strong>Speaker 1:</strong> You're joking! I only have a vague memory of reading about it. I'll have to look it up. </p><p><strong>Speaker 2:</strong> Yeah, and let me know. And we could show The Kitchen. It's an interior view. Quite unusual for Cotman. That features a couple of seated figures by the kitchen table. </p><p><strong>Speaker 1:</strong> I wonder if they're Cotman's family. </p><p><strong>Speaker 2:</strong> Could be. I've got a book on Cotman. I'll see if that says anything about their possible identity. </p><p><strong>Speaker 1:</strong> Good idea. Another interesting picture is Doorway at Rivau. Supposedly painted in 1803, when Cotman was just 21. </p><p><strong>Speaker 2:</strong> But the thing is, it looks more like his mature style. So I wonder if it was actually done later. </p><p><strong>Speaker 1:</strong> When he was older? </p><p><strong>Speaker 2:</strong> Yeah, and his style had evolved. Not sure if we'll find any evidence about that, but we can try. </p><p><strong>Speaker 1:</strong> Great.</p>"
+}

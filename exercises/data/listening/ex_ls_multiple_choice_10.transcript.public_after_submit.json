@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_10",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2010.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> So, as you know, the North Sea lies to the east and northeast of England and Scotland. Apparently, the North Sea was long dismissed as a potential source of oil or gas, but over the last four decades, it has become the centre of one of the world's most productive energy industries. Gas was actually first found in quantity in the Groningen area of the Netherlands in 1959. This was followed by the first British discovery of gas in the West Sole field off the coast of East Anglia by the BP drilling rig Sea Gem late in 1965. </p><p><strong>Speaker 1:</strong> Actually, the first accident was on that rig too. Anyway, sorry, go on, Judith.</p><p><strong>Speaker 1:</strong> The British oil and gas industry in the southern North Sea grew rapidly in the early years. The deepening economic crisis in the UK meant that there was enormous pressure on the industry to get gas and later oil flowing. As exploration and investment moved further north, it became clear that there was oil to be found in great quantities. Discoveries of oil grew in number as more companies, British, European and American, took out leases on sectors of the North Sea. </p><p><strong>Speaker 1:</strong> During the 1990s, like the rest of the world, the North Sea industry was badly affected by the global price fluctuations. Nevertheless, production grew and peaked around 2000-2001. Now, the North Sea is regarded as a mature province on a slow decline. That's about it for now. I'll put more detail into it when we do the presentation.</p>"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_multiple_choice_70",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "mcq_single",
+  "category_id": "multiple_choice",
+  "title": "Multiple Choice - Exercise 70",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2070.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_multiple_choice_70.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_multiple_choice_70.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_multiple_choice_70.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "mcq_single",
+          "skill_tags": [
+            "ls_mcq_single"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>MULTIPLE CHOICE 70</h1><p><strong>Questions 11 - 15</strong></p><p>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>.</p><p>11 The speaker says it is surprising that before designing Porto Nuevo station, the architect had never</p><table><thead><tr><th><strong>A</strong>    visited Porto Nuevo city.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    worked on a large project.</td><td></td></tr><tr><td><strong>C</strong>    designed a railway station.</td><td></td></tr></tbody></table><p>12 The speaker says that the construction of the station</p><table><thead><tr><th><strong>A</strong>    cost more than it should have done.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    was finished quicker than expected.</td><td></td></tr><tr><td><strong>C</strong>    was controversial at the time.</td><td></td></tr></tbody></table><p>13 What aspect of the building does the speaker say is impressive?</p><table><thead><tr><th><strong>A</strong>    the size of the roof</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    its use of electricity</td><td></td></tr><tr><td><strong>C</strong>    how the building is lit</td><td></td></tr></tbody></table><p>14 After the station was built, it was criticised for being</p><table><thead><tr><th><strong>A</strong>    too small.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    in the wrong place.</td><td></td></tr><tr><td><strong>C</strong>    designed in an unfashionable style.</td><td></td></tr></tbody></table><p>15 What are the visitors advised to do in the station before catching their train?</p><table><thead><tr><th><strong>A</strong>    take some photographs</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    hire an audio-guide</td><td></td></tr><tr><td><strong>C</strong>    walk around the whole building</td><td></td></tr></tbody></table>",
+          "items": [
+            {
+              "question_id": "q11",
+              "number": 11,
+              "prompt_html": "The speaker says it is surprising that before designing Porto Nuevo station, the architect had never",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q12",
+              "number": 12,
+              "prompt_html": "The speaker says that the construction of the station",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q13",
+              "number": 13,
+              "prompt_html": "What aspect of the building does the speaker say is impressive?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q14",
+              "number": 14,
+              "prompt_html": "After the station was built, it was criticised for being",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q15",
+              "number": 15,
+              "prompt_html": "What are the visitors advised to do in the station before catching their train?",
+              "response_type": "text"
+            }
+          ],
+          "options": [
+            {
+              "label": "A",
+              "text": "take some photographs"
+            },
+            {
+              "label": "B",
+              "text": "hire an audio-guide"
+            },
+            {
+              "label": "C",
+              "text": "walk around the whole building"
+            }
+          ],
+          "question_range": [
+            11,
+            15
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_multiple_choice_70",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_multiple_choice_70",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

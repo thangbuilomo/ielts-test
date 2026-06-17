@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_18",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2018.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Good morning, madam. Welcome to the Lane Hotel. Can I help you?</p><p><strong>Speaker 3:</strong> Yes, please. I would like to check in.</p><p><strong>Speaker 2:</strong> Certainly, madam. Can I take your name, please?</p><p><strong>Speaker 3:</strong> It's Julia Olson. That's O-L-S-O-N.</p><p><strong>Speaker 2:</strong> Thank you. Now, do you have a reservation and reference number?</p><p><strong>Speaker 3:</strong> Yes, I booked with you online. My reference is EZPD3729434.</p><p><strong>Speaker 2:</strong> Which website did you book through?</p><p><strong>Speaker 3:</strong> It was Booknet.com.</p><p><strong>Speaker 2:</strong> Ah, yes. Here's your confirmation. Mrs. Julia Olson. A single comfort room for three nights. Is that right?</p><p><strong>Speaker 3:</strong> Yes, that's right.</p><p><strong>Speaker 2:</strong> Now, you've filled out all your personal details online, so we just need to know how you'd like to pay at the end of your stay. And we'll also need to swipe your credit card.</p><p><strong>Speaker 3:</strong> Here's my credit card. And I'd like to pay with it as well.</p><p><strong>Speaker 2:</strong> Thank you very much. Now, the daily rate for your room is $122, including breakfast.</p><p><strong>Speaker 3:</strong> I thought it was only $120 a night.</p><p><strong>Speaker 2:</strong> Yes, that's the basic charge, but there's a $2 a night local hotel tax. If you look at your reservation printout from your website, it says that just under the reference number.</p><p><strong>Speaker 3:</strong> Oh, yes. That's fine, then. </p><p><strong>Speaker 2:</strong> Here's your credit card back, Mrs. Olson. Thanks. So, your room number is 405 and here's your key card. Your room is on the fourth floor. Will it be possible for me to have an alarm call every morning that I'm here, as I will need to get to some early meetings?</p><p><strong>Speaker 2:</strong> Certainly, Mrs. Olson. At what time would you like the calls?</p><p><strong>Speaker 3:</strong> At 6 a.m., please.</p><p><strong>Speaker 2:</strong> That's fine. The staff on duty in the morning will see to that.</p>"
+    }
+  ]
+}

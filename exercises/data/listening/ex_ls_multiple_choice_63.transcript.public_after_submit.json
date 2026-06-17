@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_63",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2063.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1: Steve James</strong><br />Good afternoon, ladies and gentlemen. Welcome to the launch of the new accommodation building, Park Heights, situated in this lovely little community. My name is Steve James and I'm the sales manager. There are 40 apartments here with four distinct styles in an exclusive private community. Today I'm going to tell you a little about the building, the area and the apartments that we have for sale. </p><p>All of this area was, in the past, an industrial district, but now it is being completely redeveloped. The old metal production factory building next door is now a leisure complex with shops, cafes, bars and even a cinema. The old warehouse for storing machinery has now been transformed into this apartment building and the surrounding delivery and transport areas have been turned into a beautiful green park. </p><p>We began building work here five years ago and all of the buildings have been finished to a very high standard. If you just go out of the exit to the complex down there, there is a sports centre where you can enjoy a range of keep fit activities. We have also developed a number of properties in this area and when I speak to some of the residents there, the thing that lots of people say they most enjoy about the area is being close to the countryside and you can see that the buildings are surrounded by trees here. </p><p>But for those of you that do need to travel into the city, there are great transport options. The bus stop is five minutes walk away and there are bus links to all over the city. Also, a new train station recently opened and now links the area to the centre of the city in 20 minutes. Most of the apartments do come with car parking, but not all of them I'm afraid. But wherever you park your car, you will be able to drive to the international airport in less than an hour.</p>"
+    }
+  ]
+}

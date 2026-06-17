@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_11",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2011.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now, answer the questions on your screen. Good morning everyone, and welcome to your first morning here at the Solaris Hotel and Holiday Village. This little orientation talk this morning will just give you an idea of what to find and expect around the grounds. </p><p><strong>Speaker 1:</strong> Let's begin by looking at meals. We have three different restaurants, and you are at liberty to eat at any of them. They are the Harvest Restaurant, the Dean Restaurant, and the Mekong Restaurant. </p><p><strong>Speaker 1:</strong> Let's begin with breakfast. Breakfast is only served in the Harvest Restaurant. The other two restaurants are only open for lunch and dinner. Breakfast is served between 6:30am and 9:30am seven days a week. There are English, American and continental style breakfasts on offer. </p><p><strong>Speaker 1:</strong> For lunch and dinner, all the restaurants have the same opening hours to make things easier for you. Lunch is served from 12 noon to 2:30pm, and dinner is served from 7pm to 10:30pm. The menus are the same for lunch and dinner, though look at the blackboards displayed in the restaurant for any specials that they are serving for any particular meal. </p><p><strong>Speaker 1:</strong> The style of food is different in each of the restaurants. The Harvest serves traditional English food, though with plenty of the foreign dishes which are popular in the UK, such as curry and spaghetti. The Dean specializes in fish and seafood, and the Mekong offers you a selection of dishes from the Far East, not just from Vietnam as the name suggests, but also Chinese, Thai, Malay and others. </p><p><strong>Speaker 1:</strong> You don't have to pay in any of the restaurants unless an extra supplement is needed for some of the specials. All soft drinks are also free, though we charge for alcoholic drinks. You can choose to pay any bill that you may incur at the end of the meal itself, or you can put it on your main bill which you can pay when you leave at the end of your holiday. </p><p><strong>Speaker 1:</strong> There is also a bar menu in the main bar which serves pretty good pub food, and if you have any late night munchies, there is a takeaway open until 2:30am which sells fast food. Good for those of you who are returning in the early hours from a disco or club.</p><p>Answer Key</p><p>1.**Answer: A<br />Explanation: The Harvest Restaurant serves breakfast, which is one of the three meals mentioned. The other two restaurants, The Dene and The Mekong, only serve lunch and dinner.</p><p>2.Answer: B<br />Explanation: The transcript states that you can choose dishes other than those on the menu in the Mekong and Dene restaurants, but not in the Harvest Restaurant.</p><p>3.Answer: B<br />Explanation: The Dene restaurant specializes in fish and seafood, indicating that its menu is based on a specific food group.</p><p>4.Answer: A<br />Explanation: The transcript mentions that you do not have to pay extra for menu items, but there may be an extra charge for specials and alcoholic drinks.</p><p>5.Answer: B<br />Explanation: The hotel offers a late-night food service, as indicated by the mention of a takeaway open until 2:30 am for those returning from a disco or club.**</p>"
+    }
+  ]
+}

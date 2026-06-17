@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_35",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2035.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Good morning, Ruth.</p><p><strong>Speaker 2:</strong> Morning, Sally.</p><p><strong>Speaker 1:</strong> Hi, Jim.</p><p><strong>Speaker 3:</strong> Morning.</p><p><strong>Speaker 1:</strong> OK, are we ready to make a start then?</p><p><strong>Speaker 3:</strong> Sure.</p><p><strong>Speaker 1:</strong> So, it's very exciting. Our new product, Motivate Me, is ready to go to the product launch phase. It's coming out at the end of November to make the most of the Christmas and New Year shoppers in December. And we need to decide the details of that. Ruth, can you give us an overview of the product to start?</p><p><strong>Speaker 2:</strong> Sure. Motivate Me is a smart watch, as you know. It's got several main features in common with other similar brands – pedometer, GPS, tracking sleep patterns, all the usual points. However, what our innovative design does, which most other products on the market don't, is offer a fully waterproof feature.</p><p><strong>Speaker 3:</strong> Sounds great, but I have to say I've seen other products with that feature too.</p><p><strong>Speaker 2:</strong> You're absolutely right, Jim. What makes ours unique is even the standard model can be completely submerged for extended periods of time. Our product design is solid, though many faults have been reported in our competitors, to be honest, meaning their watches weren't durable. Also, not all models benefited from this feature, so there were many occasions when the device would let customers down. Let's imagine you went running and got caught in a heavy downpour. The device could simply stop working with that level of rain. So we would be looking at pitching it towards not gentle day-to-day activity like walking or jogging, but more towards extreme sports – diving, surfing, winter sports, marathon runners, triathletes, mountain bikers – sports in which you'd expect to get wet and dirty.</p><p><strong>Speaker 1:</strong> I know it was designed with this type of sport in mind.</p><p><strong>Speaker 2:</strong> Indeed, and of course the other special feature of Motivate Me is its hard-wearing design and seven-day battery life.</p><p><strong>Speaker 3:</strong> Ruth's right, and I've been actively involved in that. There really is nothing quite like it on the market at the moment, though our competitors won't take long in bringing out rival products, I suppose.</p><p><strong>Speaker 1:</strong> Exactly, which makes it even more important that we do this launch well and get a real edge in the market before that happens.</p>"
+    }
+  ]
+}

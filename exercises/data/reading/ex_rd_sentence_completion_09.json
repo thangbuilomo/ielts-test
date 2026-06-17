@@ -1,0 +1,95 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_sentence_completion_09",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "sentence_completion",
+  "category_id": "sentence_completion",
+  "title": "Sentence Completion - Exercise 9",
+  "duration_seconds": 0,
+  "content": {
+    "title": "Thermal Vents",
+    "content_html": "<h1>SENTENCE  COMPLETION 09</h1>\n<h2>Thermal Vents</h2>\n<p>Scientists first discovered hydrothermal vents, cracks in the seabed that discharge hot water, while exploring an oceanic spreading ridge near the Galapagos Islands in 1977. To their amazement, the scientists also discovered that the hydrothermal vents were surrounded by large numbers of organisms that had never been seen before. It became apparent that these biological communities depend upon chemical processes that result from the interaction of seawater and hot magma associated with underwater volcanoes.</p>\n<p>Hydrothermal vents are formed as the result of seawater percolating down through fissures in the earth’s crust. These cracks occur either when two tectonic plates move away from each other, or when one slides beneath the other. Below the surface, the cold water is heated by the hot magma, the high temperature of which drives chemical reactions that remove the oxygen, magnesium, sulfates and other chemicals that entered the ocean through rain, rivers, and groundwater. As the temperature of the seawater rises, it also becomes more acidic, which means that it absorbs metals such as iron, zinc, copper, lead, and cobalt from the surrounding rocks. Although the seawater in hydrothermal vents may reach temperatures of over 340 degrees Celcius, it does not boil because of the extreme pressure present at the depths where the vents are formed.</p>\n<p>As it pours out of a vent, the superheated water encounters cold, oxygenated seawater, causing a more rapid series of chemical reactions to occur. Sulfur and other materials precipitate, or come out of solution, to form metal-rich towers and deposits of minerals on the sea floor. The superheated water also contains chemicals that feed microbes at the base of a unique food web that survives independent of the sun. Instead of relying on the sun and photosynthesis to convert carbon dioxide into organic carbon, the bacteria use chemicals such as hydrogen sulfide to provide the energy source that drives their metabolic processes, ultimately supporting a wide range of other organisms such as tube worms, shrimp, and mussels.</p>\n<p>Hydrothermal vents act as natural plumbing systems that transport heat and chemicals from the interior of the earth and also help regulate global ocean chemistry. In the process, vast amounts of potentially valuable minerals accumulate on the sea floor. The mammoth copper mines of Cyprus, for example, were formed by hydrothermal activity millions of years ago before those rocks were uplifted from the sea floor to become dry land. Commercially valuable mineral deposits are believed to exist on the sea floor near hydrothermal vents, and some companies have had plans in development for years to exploit some of them. However, the difficulty of mining in deep water near fragile ecosystems and the relatively small size of ocean bottom deposits compared to those on land have so far prevented sea-floor mining from becoming commercially viable.</p>\n<p>Vents also support complex ecosystems of exotic organisms which have developed unique biochemical adaptations to high temperatures and environmental conditions that humans would consider toxic. Studying these organisms could teach people about the evolution of life on earth and the possibility of life elsewhere in the solar system and the universe. Many previously unknown metabolic processes and compounds found in these vent organisms could also have commercial uses one day.</p>\n<p>Studying the life cycles of vent organisms is difficult. Researchers have visited a mere fraction of the ocean’s thermal vent hot spots and they have been able to observe vent life only by shining bright lights on creatures accustomed to inky darkness. Another frequent problem is that any caught vent specimens die quickly when removed from their unique deep environment due to the swift change in the pressure. Diving is also impossible because of the high temperatures and extreme depths. The only practical method of study is using underwater cameras, which also help scientists make less intrusive observations.</p>\n<p>For the first three decades of hydrothermal vent exploration, the greatest non-natural threat to vent communities was scientific exploration. In response to this realisation, the scientific community adopted a set of guidelines for proper and sustainable conduct of research at deep-sea hydrothermal vents. However, the impact from scientific research is still minuscule compared to the potential disturbance caused by large-scale mining operations. A minimum of 96 active deep-sea hydrothermal vent fields are currently under consideration for deep-sea mineral extraction. That is nearly one-fifth of all known hydrothermal vent fields. Only 8 per cent of these hydrothermal vent fields fall within a marine shielded area and this means that the other 92 per cent can be developed without the company worrying about the ecological effects.</p>\n<p>Unfortunately, it is difficult to predict how deep-sea hydrothermal vent communities will respond to mining pressure. Some vent systems are incredibly dynamic, with individual vents experiencing dramatic natural disturbance on a continuous basis, while other vent systems are relatively stable, and may remain unchanged for centuries. The world must be careful about how it deals with these marine features, as the thermal vent sea-floor deposits are rich in minerals as well as being invaluable social and scientific resources. Not only can vents help redefine what ‘life’ means, but they may even be a window through which scientists can see how life on the planet may have begun.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_sentence_completion_09.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_sentence_completion_09.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "sentence_completion",
+          "skill_tags": [
+            "rd_comp_sentence"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 36 - 40</strong></p>\n<p>Complete the sentences.</p>\n<p>Use <strong>NO MORE THAN THREE WORDS</strong> from the text for each answer.</p>\n<p>36 Research into the</p>\n<p>of thermal vent organisms is complicated by the depth and temperature of their habitat.</p>\n<p>37 Live specimens collected at thermal vents usually die quickly because of the rapid</p>\n<p>reduction that happens when they are brought to the surface.</p>\n<p>38 A</p>\n<p>was developed by scientists in order to ensure responsible studies at deep-sea thermal vents.</p>\n<p>39 Only a fraction of the thermal vents that might be exploited commercially are protected by being located inside a</p>\n<p>.</p>\n<p>40 Vent systems are unpredictable, with some being</p>\n<p>and others being very stable and unchanging.</p>",
+          "items": [
+            {
+              "question_id": "q36",
+              "number": 36,
+              "prompt_html": "Research into the",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q37",
+              "number": 37,
+              "prompt_html": "Live specimens collected at thermal vents usually die quickly because of the rapid",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q38",
+              "number": 38,
+              "prompt_html": "A",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q39",
+              "number": 39,
+              "prompt_html": "Only a fraction of the thermal vents that might be exploited commercially are protected by being located inside a",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q40",
+              "number": 40,
+              "prompt_html": "Vent systems are unpredictable, with some being",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            36,
+            40
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

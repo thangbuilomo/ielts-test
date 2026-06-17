@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_matching_information_31",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MATCHING%20INFORMATION%20TO%20CATEGORIES%2031.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: Lorna<br />This recording is copyright. You will hear two business students, called Lorna and Max, talking about a group project to design and market a smartwatch. You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Max<br />So, Lorna, for our smartwatch project, does it make sense for each group member to have one main responsibility? </p><p><strong>Speaker 1:</strong> Lorna<br />Definitely. Let's talk about who could do what. If I could choose, I'd like to be in charge of planning what proportion of the budget to allocate to different areas, like research and development, marketing, and that kind of thing. </p><p><strong>Speaker 2:</strong> Max<br />OK, you'd be good at that. How about you, Max? </p><p><strong>Speaker 3:</strong> Max<br />I think I've got quite a strong spatial intelligence. You know, I can envisage how things would look. So I could draw up some sketches of the smartwatch, how it could look, then get feedback from other people. </p><p><strong>Speaker 1:</strong> Lorna<br />Definitely. And gradually refine it. Hopefully end up with something that's as stylish and functional as anything on the market. </p><p><strong>Speaker 2:</strong> Max<br />Awesome. What about Jasmine? Where do you think her strengths lie? </p><p><strong>Speaker 1:</strong> Lorna<br />Well, she's got a real way with words, hasn't she? </p><p><strong>Speaker 2:</strong> Max<br />Yeah, she's very articulate. We'd need something saying what this smartwatch does and what makes it special. The words that go with any pictures we might use. Like if we did a press release, Jasmine could produce the text for that. </p><p><strong>Speaker 1:</strong> Lorna<br />OK, I'm sure she'll come up with something persuasive. Great that all of us in the group have different skills, isn't it? </p><p><strong>Speaker 2:</strong> Max<br />Like Dave, he's actually worked in business, hasn't he? </p><p><strong>Speaker 1:</strong> Lorna<br />Yeah, I think that's given him a real sense of what consumers actually want. Some smartwatches even have things like being able to tell you how many metres above sea level you are. I mean, is that worth spending money on? </p><p><strong>Speaker 2:</strong> Max<br />Anyway, Dave's a good critical thinker. He'll be able to see through which smartwatch functions that we could include are just pointless gimmicks and which are actually potential selling points. </p><p><strong>Speaker 1:</strong> Lorna<br />OK, well, I think we're sorted.</p>"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_57",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2057.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Now, initially, we set you up with a debit card, a checkbook if required, and you also have the option of a second debit card for a family member if you need one. Ah, and we send you a card reader. Looks a bit like a calculator, which is where you type in your PIN code when you need to access internet banking.</p><p><strong>Speaker 2:</strong> Will you be setting up an internet banking account? </p><p><strong>Speaker 3:</strong> Definitely. I do all of my banking online, so I'll need that. But I never write checks. Can't remember the last time I wrote one. So no need to send the book, thank you. </p><p><strong>Speaker 2:</strong> And the additional card? </p><p><strong>Speaker 3:</strong> My husband has his own account here with a debit card. In fact, we've thought about making it a joint account, but in the end, we decided it was easier to do it this way. So no, I don't need that either. </p><p><strong>Speaker 3:</strong> Just one question. How do I get my PIN number and account number? </p><p><strong>Speaker 1:</strong> The account number, you'll get that today before you leave, but we'll send an email to confirm everything. The PIN number will arrive by post within the next couple of days, along with your debit card. As for the card reader, that must be picked up in branch, so we'll give you a call when it arrives. </p><p><strong>Speaker 3:</strong> Great. While I'm here, can I take a leaflet about your savings accounts? </p><p><strong>Speaker 1:</strong> Of course. There are three different types of accounts. If you have under £5,000 to save, our bronze account is the best. The silver option is for amounts above this and up to £10,000. And the gold, well, that's for sums over £10,000, but you have to invest for at least three years. </p><p><strong>Speaker 3:</strong> Well, it depends what we decide, but I imagine we'll be putting around £7,000 into it if we decide to go ahead. So I'll take this leaflet. </p><p><strong>Speaker 1:</strong> OK. Any questions before we create the account number?</p>"
+    }
+  ]
+}

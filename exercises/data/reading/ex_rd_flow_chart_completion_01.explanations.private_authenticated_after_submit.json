@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_flow_chart_completion_01",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q35": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 2, bài viết nêu: \"Deep soils tend to produce excessively vigorous trees, also with lower yields. The ideal site for olive oil production is a clay loam soil with good internal and surface drainage. Irrigation is necessary to produce heavy crops and to avoid the trees bearing fruit only in alternate years.\". Cụm yields khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Deep soils tend to produce excessively vigorous trees, also with lower yields. The ideal site for olive oil production is a clay loam soil with good internal and surface drainage. Irrigation is necessary to produce heavy crops and to avoid the trees bearing fruit only in alternate years._"
+    },
+    "q36": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 2, bài viết nêu: \"Care includes regular irrigation, pruning, fertilising and killing pests. The trees will survive on very poor sites with shallow soils but will grow very slowly and yield poorly. Deep soils tend to produce excessively vigorous trees, also with lower yields.\". Cụm pests khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Care includes regular irrigation, pruning, fertilising and killing pests. The trees will survive on very poor sites with shallow soils but will grow very slowly and yield poorly. Deep soils tend to produce excessively vigorous trees, also with lower yields._"
+    },
+    "q37": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"The best olive oils hold a certificate from an independent organisation that authenticates the stone ground and cold pressed extraction process. In this process, olives are first harvested by hand at the proper stage of ripeness and maturity. Experts feel that hand harvesting, as opposed to mechanical harvesting, prevents the fruit from getting bruised, which can give it an unpleasant, acidic flavour.\". Cụm by hand khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The best olive oils hold a certificate from an independent organisation that authenticates the stone ground and cold pressed extraction process. In this process, olives are first harvested by hand at the proper stage of ripeness and maturity. Experts feel that hand harvesting, as opposed to mechanical harvesting, prevents the fruit from getting bruised, which can give it an unpleasant, acidic flavour._"
+    },
+    "q38": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"The harvested olives are transferred daily to the mill. This is very important because this daily transfer minimises the time spent between picking and pressing. Some olive oil producers are known to transfer the olives by multi-ton trucks over long distances, thus exposing the fragile fruit to crushing weight and the hot sun.\". Cụm mill khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The harvested olives are transferred daily to the mill. This is very important because this daily transfer minimises the time spent between picking and pressing. Some olive oil producers are known to transfer the olives by multi-ton trucks over long distances, thus exposing the fragile fruit to crushing weight and the hot sun._"
+    },
+    "q39": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 4, bài viết nêu: \"Crushing and mixing the olives releases the oil from the cells of the olive without heating the paste. A side shutter on the mill’s basin allows the mixed olive paste to be discharged and applied to round mats. The mats are stacked and placed under a hydraulic press frame that applies downward pressure and extracts the oil.\". Cụm paste khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Crushing and mixing the olives releases the oil from the cells of the olive without heating the paste. A side shutter on the mill’s basin allows the mixed olive paste to be discharged and applied to round mats. The mats are stacked and placed under a hydraulic press frame that applies downward pressure and extracts the oil._"
+    },
+    "q40": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 4, bài viết nêu: \"The water and oil are then separated in a centrifuge. The first pressing yields the highest quality oil, and the second and third pressings produce inferior quality oil. Some single estate producers collect only the oil that results from the initial crushing while many other producers use additional pressings to extract more oil.\". Cụm centrifuge khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The water and oil are then separated in a centrifuge. The first pressing yields the highest quality oil, and the second and third pressings produce inferior quality oil. Some single estate producers collect only the oil that results from the initial crushing while many other producers use additional pressings to extract more oil._"
+    }
+  }
+}

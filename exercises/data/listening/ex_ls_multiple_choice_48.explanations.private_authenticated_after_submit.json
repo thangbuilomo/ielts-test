@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_48",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Người nói đang giải thích về giá vé vào công viên và những gì vé bao gồm. Thông tin giúp tìm ra đáp án là việc vé vào cửa bao gồm tất cả các điểm tham quan, trong đó có Biodome. Paraphrase quan trọng ở đây là \"Tickets cover entry to all attractions\", có nghĩa là vé bao gồm tất cả các điểm tham quan. Bẫy ở đây có thể là việc người nghe có thể nghĩ rằng Biodome là một điểm tham quan miễn phí, nhưng thực tế là vé vào cửa đã bao gồm cả Biodome. Do đó, đáp án A là đúng.",
+      "evidence": "Tickets cover entry to all attractions in the park, including the rides, museum, and Biodome."
+    },
+    "q16": {
+      "explanation": "Người nói đang đề cập đến các loại vé và mức giá cho những đối tượng khác nhau. Thông tin giúp tìm ra đáp án là việc có vé giảm giá cho sinh viên và người cao tuổi, và giá vé này giống như vé trẻ em. Paraphrase quan trọng là \"concession ticket for students and those over 65\", tức là vé giảm giá cho sinh viên và người trên 65 tuổi. Bẫy có thể là người nghe có thể không để ý đến thông tin về giá vé giống nhau. Vì vậy, đáp án C là đúng.",
+      "evidence": "Finally, there is a concession ticket for students and those over 65 which costs the same as a child's ticket."
+    },
+    "q17": {
+      "explanation": "Người nói đang giới thiệu về các hoạt động và điểm đến cho trẻ em trong công viên. Thông tin giúp tìm ra đáp án là việc người nói khuyên nên đến Island Play Den cho trẻ nhỏ. Paraphrase quan trọng là \"I would recommend\", có nghĩa là \"tôi khuyên bạn nên\". Bẫy có thể là người nghe có thể nghĩ rằng chỉ có một hoạt động duy nhất cho trẻ em, nhưng thực tế có nhiều lựa chọn. Do đó, đáp án D là đúng.",
+      "evidence": "For younger visitors, I would recommend the Island Play Den next to the cafe, which has a ball pit and excellent supervision from our staff."
+    },
+    "q18": {
+      "explanation": "Người nói đang mô tả một trong những hoạt động dành cho trẻ em trong công viên, cụ thể là trò chơi golf mini. Thông tin giúp tìm ra đáp án là việc có giải thưởng cho trẻ em nếu họ chơi tốt. Paraphrase quan trọng là \"you could win a dinosaur toy\", tức là \"bạn có thể thắng một món đồ chơi khủng long\". Bẫy có thể là người nghe có thể không để ý đến phần thưởng này. Vì vậy, đáp án B là đúng.",
+      "evidence": "You could win a dinosaur toy if you get a good score."
+    },
+    "q19": {
+      "explanation": "Người nói đang thông báo về tình trạng của một trong những điểm tham quan trong công viên. Thông tin giúp tìm ra đáp án là việc Cretaceous Caverns đã đóng cửa cho đến hôm qua và giờ mới mở cửa trở lại. Paraphrase quan trọng là \"was closed for development until yesterday\", tức là \"đã đóng cửa để phát triển cho đến hôm qua\". Bẫy có thể là người nghe nghĩ rằng điểm tham quan này vẫn mở cửa, nhưng thực tế là nó đã đóng cửa. Do đó, đáp án C là đúng.",
+      "evidence": "Our ghost train, the Cretaceous Caverns, is also very popular, especially if you like a scare. It was closed for development until yesterday and is now even more petrifying."
+    },
+    "q20": {
+      "explanation": "Người nói đang đề cập đến các tiện ích dành cho trẻ nhỏ trong công viên. Thông tin giúp tìm ra đáp án là việc Island Play Den có sự giám sát tốt từ nhân viên. Paraphrase quan trọng là \"excellent supervision from our staff\", tức là \"sự giám sát tuyệt vời từ nhân viên\". Bẫy có thể là người nghe không để ý đến mức độ giám sát này. Vì vậy, đáp án E là đúng.",
+      "evidence": "For younger visitors, I would recommend the Island Play Den next to the cafe, which has a ball pit and excellent supervision from our staff."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Now, I'll just mention a few points that visitors often ask about. </p><p><strong>Speaker 1:</strong> Let's start with ticket prices. Tickets cover entry to all attractions in the park, including the rides, museum, and Biodome. Adults must pay £10 for entry and tickets for children cost £5 each, although admission is free for those under six. Finally, there is a concession ticket for students and those over 65 which costs the same as a child's ticket. </p><p><strong>Speaker 1:</strong> If you're interested in making several trips to the park, we also offer a season pass for adults, students, and families. You must have proof of identity and a passport photo with you for this, though. Payment in the ticket office can be by cash or credit card, but it's very important that you make sure you have cash before you go to the cafe as they do not yet have a magnetic card reader. </p><p><strong>Speaker 1:</strong> You'll be happy to know that there's a cash machine you can use on the left as you enter the visitor centre. </p><p><strong>Speaker 1:</strong> Now, as your kids no doubt already know, there is plenty here to keep them entertained. The Pterodactyl is our most popular attraction with children, a roller coaster that is certain to get the adrenaline pumping. Bear in mind, though, that there is a 120cm height requirement for this ride. </p><p><strong>Speaker 1:</strong> In the same area of the park, there's also a crazy golf course with 9 dinosaur themed holes. You could win a dinosaur toy if you get a good score. Our ghost train, the Cretaceous Caverns, is also very popular, especially if you like a scare. It was closed for development until yesterday and is now even more petrifying. </p><p><strong>Speaker 1:</strong> The Treetop Walk is a good choice for kids who like climbing, running and jumping and gives excellent views of the park. For younger visitors, I would recommend the Island Play Den next to the cafe, which has a ball pit and excellent supervision from our staff. </p><p><strong>Speaker 1:</strong> And if you would like some family time, why not finish off by visiting the Riverside Walk's picnic area? </p><p><strong>Speaker 1:</strong> Okay, any questions? </p><p><strong>Speaker 2:</strong> No? </p><p><strong>Speaker 1:</strong> Well, then I hope you enjoy your visit.</p>"
+}

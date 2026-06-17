@@ -4,6 +4,7 @@ const CONFIG = {
   SPREADSHEET_ID: '',
   DEBUG_KEY: 'saola_debug_2026',
   AUTH_TOKEN_SECRET: 'saola_writing_mock_test_token_2026_change_later',
+  GLOBAL_AUTH_TEST_ID: 'saola_global_login',
   TIMEZONE: 'Asia/Ho_Chi_Minh',
   WRITING_ANSWER_SHEET: 'Writing_Answer',
   READING_ANSWER_SHEET: 'mock_reading_attempts',
@@ -543,7 +544,9 @@ function verifyAuthToken_(token, email, testId) {
   try {
     const data = JSON.parse(Utilities.newBlob(Utilities.base64DecodeWebSafe(payload)).getDataAsString());
     if (normalizeEmail_(data.email) !== normalizeEmail_(email)) return false;
-    if (clean_(data.test_id).trim() !== clean_(testId).trim()) return false;
+    const tokenTestId = clean_(data.test_id).trim();
+    const requestedTestId = clean_(testId).trim();
+    if (tokenTestId !== requestedTestId && tokenTestId !== CONFIG.GLOBAL_AUTH_TEST_ID) return false;
     return Number(data.exp) > Date.now();
   } catch (err) {
     return false;

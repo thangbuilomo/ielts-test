@@ -1,0 +1,57 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_50",
+  "module": "listening",
+  "question_count": 10,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q31": {
+      "explanation": "Người nói đang đề cập đến nguồn gốc của phân tích SWOT, cụ thể là Albert Humphrey đã phát triển phương pháp này để giải thích lý do tại sao kế hoạch doanh nghiệp không hiệu quả. Thông tin giúp tìm ra đáp án là từ cụm từ \"failure of corporate planning\", cho thấy rằng từ \"corporate\" là một phần quan trọng trong ngữ cảnh này. Paraphrase quan trọng ở đây là \"kế hoạch doanh nghiệp\", mà trong tiếng Anh là \"corporate planning\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ đồng nghĩa nào gây nhầm lẫn. Đáp án \"corporate\" là chính xác vì nó trực tiếp liên quan đến chủ đề mà người nói đang thảo luận.",
+      "evidence": "in an attempt to explain the failure of corporate planning."
+    },
+    "q32": {
+      "explanation": "Người nói đang giải thích về cơ hội trong phân tích SWOT, nhấn mạnh rằng doanh nghiệp có thể tận dụng những cơ hội này để phát triển. Thông tin giúp tìm ra đáp án là từ \"exploit to its advantage\", cho thấy rằng từ \"exploit\" là từ chính xác để điền vào chỗ trống. Paraphrase quan trọng là \"khai thác\", mà trong tiếng Anh là \"exploit\". Không có bẫy trong câu này vì ý nghĩa rất rõ ràng và không có từ nào gây nhầm lẫn. Đáp án \"exploit\" là chính xác vì nó thể hiện hành động mà doanh nghiệp cần thực hiện để tận dụng cơ hội.",
+      "evidence": "the business could exploit to its advantage."
+    },
+    "q33": {
+      "explanation": "Người nói đang liệt kê các yếu tố nội bộ của một doanh nghiệp, trong đó có nhân viên. Thông tin giúp tìm ra đáp án là cụm từ \"all of the staff\", cho thấy rằng từ \"staff\" là từ cần điền. Paraphrase quan trọng là \"nhân viên\", mà trong tiếng Anh là \"staff\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ nào gây nhầm lẫn. Đáp án \"staff\" là chính xác vì nó đề cập đến một yếu tố quan trọng trong phân tích SWOT.",
+      "evidence": "all of the staff in the company."
+    },
+    "q34": {
+      "explanation": "Người nói đang nói về các yếu tố bên ngoài mà doanh nghiệp không thể kiểm soát, và cách mà việc hiểu biết về chúng có thể giúp giảm thiểu rủi ro. Thông tin giúp tìm ra đáp án là từ \"exposure to shock\", cho thấy rằng từ \"shock\" là từ cần điền. Paraphrase quan trọng là \"cú sốc\", mà trong tiếng Anh là \"shock\". Không có bẫy trong câu này vì ý nghĩa rất rõ ràng và không có từ nào gây nhầm lẫn. Đáp án \"shock\" là chính xác vì nó thể hiện những rủi ro mà doanh nghiệp có thể gặp phải.",
+      "evidence": "limit your organisation's exposure to shock."
+    },
+    "q35": {
+      "explanation": "Người nói đang đề cập đến các yếu tố bên ngoài mà doanh nghiệp cần chú ý, trong đó có các luật pháp. Thông tin giúp tìm ra đáp án là cụm từ \"laws being passed\", cho thấy rằng từ \"laws\" là từ cần điền. Paraphrase quan trọng là \"các luật\", mà trong tiếng Anh là \"laws\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ nào gây nhầm lẫn. Đáp án \"laws\" là chính xác vì nó đề cập đến một yếu tố quan trọng trong môi trường kinh doanh.",
+      "evidence": "laws being passed and trends and factors in the marketplace."
+    },
+    "q36": {
+      "explanation": "Người nói đang nói về tần suất mà các công ty thực hiện phân tích SWOT. Thông tin giúp tìm ra đáp án là cụm từ \"once a year\", cho thấy rằng từ \"year\" là từ cần điền. Paraphrase quan trọng là \"mỗi năm\", mà trong tiếng Anh là \"year\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ nào gây nhầm lẫn. Đáp án \"year\" là chính xác vì nó thể hiện tần suất thực hiện phân tích SWOT.",
+      "evidence": "Many companies perform a SWOT analysis once a year to review strategy."
+    },
+    "q37": {
+      "explanation": "Người nói đang nói về việc các phòng ban trong doanh nghiệp thực hiện phân tích SWOT. Thông tin giúp tìm ra đáp án là cụm từ \"marketing departments\", cho thấy rằng từ \"marketing\" là từ cần điền. Paraphrase quan trọng là \"phòng marketing\", mà trong tiếng Anh là \"marketing departments\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ nào gây nhầm lẫn. Đáp án \"marketing\" là chính xác vì nó đề cập đến một bộ phận quan trọng trong doanh nghiệp.",
+      "evidence": "many marketing departments perform SWOT analyses on all their main competitors."
+    },
+    "q38": {
+      "explanation": "Người nói đang nhấn mạnh rằng phân tích SWOT không chỉ dành cho các công ty kiếm lợi nhuận mà còn cho các tổ chức phi lợi nhuận. Thông tin giúp tìm ra đáp án là cụm từ \"non-profit organisations\", cho thấy rằng từ \"non-profit\" là từ cần điền. Paraphrase quan trọng là \"phi lợi nhuận\", mà trong tiếng Anh là \"non-profit\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ nào gây nhầm lẫn. Đáp án \"non-profit\" là chính xác vì nó thể hiện loại hình tổ chức mà phân tích SWOT cũng có thể áp dụng.",
+      "evidence": "not only profit-making companies that use a SWOT analysis. It has become a very useful organisational tool for charities, community projects and other non-profit organisations."
+    },
+    "q39": {
+      "explanation": "Người nói đang tóm tắt những lợi ích của việc thực hiện phân tích SWOT, trong đó nhấn mạnh rằng nó là một phương pháp tiết kiệm chi phí. Thông tin giúp tìm ra đáp án là từ \"cheap\", cho thấy rằng từ này là từ cần điền. Paraphrase quan trọng là \"rẻ\", mà trong tiếng Anh là \"cheap\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ nào gây nhầm lẫn. Đáp án \"cheap\" là chính xác vì nó thể hiện một trong những lợi ích chính của phân tích SWOT.",
+      "evidence": "the main benefits of conducting a SWOT analysis are that it is cheap and can be done by anybody."
+    },
+    "q40": {
+      "explanation": "Người nói đang nói về một trong những hạn chế của phân tích SWOT, đó là không đánh giá đúng mức độ quan trọng của các yếu tố khác nhau. Thông tin giúp tìm ra đáp án là từ \"relevant\", cho thấy rằng từ này là từ cần điền. Paraphrase quan trọng là \"có liên quan\", mà trong tiếng Anh là \"relevant\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ nào gây nhầm lẫn. Đáp án \"relevant\" là chính xác vì nó thể hiện một trong những hạn chế của phân tích SWOT.",
+      "evidence": "It does not give more importance to some points that could be much more relevant to your business or its upcoming situation."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You will hear part of a lecture for business students about a method of analysing a business known as an SWOT or SWOT analysis. You now have some time to look at the questions on your screen. Now, answer the questions on your screen. </p><p><strong>Speaker 1:</strong> This week, we are going to look at one of the oldest established frameworks for planning business strategy – SWOT, or SWOT analysis. Its exact origins are unclear, but many attribute it to Albert Humphrey working at the Stanford Research Institute in an attempt to explain the failure of corporate planning. </p><p><strong>Speaker 1:</strong> What is SWOT? It is an acronym for Strengths, Weaknesses, Opportunities and Threats. Strengths being the characteristics of a business that would put it at an advantage to its competitors, whereas the weaknesses are those that would disadvantage it. The opportunities are elements in the business environment that the business could exploit to its advantage, whereas threats are those that could cause trouble. </p><p><strong>Speaker 1:</strong> These could then be categorised as internal and external factors. The internal factors are the characteristics of a business that are able to be ranked as strengths or weaknesses. Think about the reputation of a brand leader. This is clearly a strength when compared to a company that is just starting up and doesn't have any recognition. Other internal factors include, but are not limited to, what the company is selling, whether that is a product or a service, how much they are selling it for, all of the staff in the company, the organisation's finances, output possibilities and so on. </p><p><strong>Speaker 1:</strong> Moving on to external factors. These are the areas that are beyond the company. They are out there and exist and you can't change them. However, understanding these things that are beyond your control will limit your organisation's exposure to shock and ensure that you are ready for an ever-evolving business world. These factors include what your competitors are doing, changes in society and fashions, laws being passed and trends and factors in the marketplace. </p><p><strong>Speaker 1:</strong> So, what are the main uses for a SWOT analysis? Existing businesses can perform one at any time to check the changing environment and react accordingly. Many companies perform a SWOT analysis once a year to review strategy. New companies should also perform a SWOT analysis as part of their planning process. This would help them to better understand both the need for their product or service and how equipped they are to fit into the marketplace. </p><p><strong>Speaker 1:</strong> Also, many marketing departments perform SWOT analyses on all their main competitors. Performing this detailed analysis is essential, both for predicting upcoming challenges and also for finding out how to streamline your own business. However, it's not only profit-making companies that use a SWOT analysis. It has become a very useful organisational tool for charities, community projects and other non-profit organisations. It helps them to understand if an objective is viable and helps management to set achievable goals. </p><p><strong>Speaker 1:</strong> So, to recap, the main benefits of conducting a SWOT analysis are that it is cheap and can be done by anybody. Secondly, it gives you a much better understanding of your company or organisation. </p><p><strong>Speaker 1:</strong> OK, so we've looked at the uses and benefits, but there surely must be some limitations to this analysis, you ask. Firstly, it can oversimplify a problem. An effective SWOT analysis is short and gets to the point, and that doesn't allow for a detailed investigation. </p><p><strong>Speaker 1:</strong> Secondly, it really is very subjective. It relies on somebody, or a team of people, making a judgement on what is good and bad. It is very difficult to get the same results all the time. </p><p><strong>Speaker 1:</strong> The final and possibly most significant drawback is that all points are equally weighted in a SWOT analysis. It does not give more importance to some points that could be much more relevant to your business or its upcoming situation. </p><p><strong>Speaker 1:</strong> So, that is a brief overview of the SWOT analysis. In our seminar later, we will be experimenting with performing an analysis on a well-known company and seeing how effective it is in practice.</p>"
+}

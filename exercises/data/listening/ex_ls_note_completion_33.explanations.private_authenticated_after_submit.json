@@ -1,0 +1,45 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_33",
+  "module": "listening",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q24": {
+      "explanation": "Người nói đang thảo luận về mục tiêu của nghiên cứu, cụ thể là xem liệu việc thêm hương liệu vào môi trường có ảnh hưởng đến cách mà con người đưa ra quyết định hay không. Thông tin giúp tìm ra đáp án là cụm từ \"affects human judgment\", cho thấy rằng phán đoán của con người là yếu tố được nghiên cứu. Paraphrase quan trọng ở đây là \"affects\" có thể hiểu là \"ảnh hưởng đến\". Bẫy có thể nằm ở việc người nghe có thể nghĩ rằng câu hỏi đang hỏi về một khía cạnh khác của hành vi con người, nhưng rõ ràng mục tiêu nghiên cứu là phán đoán. Vì vậy, đáp án \"human judgment\" là chính xác.",
+      "evidence": "So the aim of the study is to determine if the addition of certain fragrances to an environment affects human judgment."
+    },
+    "q25": {
+      "explanation": "Người nói đang chỉ ra rằng có những yếu tố quan trọng cần xem xét trong nghiên cứu, cụ thể là các biến liên quan đến hương liệu và quyết định của người tham gia. Thông tin giúp tìm ra đáp án là từ \"variables\", cho thấy rằng đây là những yếu tố cần được theo dõi trong nghiên cứu. Paraphrase quan trọng là \"key variables\" có thể hiểu là \"các yếu tố chính\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án \"variables\" là chính xác vì nó phản ánh đúng nội dung mà người nói đang đề cập.",
+      "evidence": "These are the key variables."
+    },
+    "q26": {
+      "explanation": "Người nói đang mô tả cách thức thu thập dữ liệu từ người tham gia, cụ thể là thông qua các câu hỏi có thể trả lời bằng số hoặc có/không. Thông tin giúp tìm ra đáp án là cụm từ \"numerical data\", cho thấy rằng dữ liệu sẽ được thu thập theo cách định lượng. Paraphrase quan trọng là \"quantitative\" có thể hiểu là \"định lượng\". Bẫy có thể là người nghe có thể nghĩ rằng câu hỏi chỉ hỏi về \"yes/no\", nhưng thực tế là \"numerical\" cũng là một phần quan trọng. Đáp án \"numerical\" là chính xác vì nó phản ánh đúng loại dữ liệu mà nghiên cứu muốn thu thập.",
+      "evidence": "Well, we want to gather quantitative yes, no, or numerical data from 1 to 10, which we can analyze easily."
+    },
+    "q27": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc giữ cho độ mạnh của mùi hương không thay đổi giữa các người tham gia để đảm bảo tính chính xác của dữ liệu thu thập được. Thông tin giúp tìm ra đáp án là từ \"potency\", cho thấy rằng độ mạnh của mùi hương là yếu tố cần được kiểm soát. Paraphrase quan trọng là \"potency of the odor\" có thể hiểu là \"độ mạnh của mùi hương\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án \"potency\" là chính xác vì nó phản ánh đúng nội dung mà người nói đang đề cập.",
+      "evidence": "we must be careful to ensure the potency of the odor is kept consistent in this room for all participants."
+    },
+    "q28": {
+      "explanation": "Người nói đang thảo luận về nội dung mà người tham gia sẽ được giới thiệu trong nghiên cứu, cụ thể là một sản phẩm mới. Thông tin giúp tìm ra đáp án là từ \"product\", cho thấy rằng đây là thứ mà người tham gia sẽ được hỏi ý kiến. Paraphrase quan trọng là \"new product\" có thể hiểu là \"sản phẩm mới\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án \"product\" là chính xác vì nó phản ánh đúng nội dung mà người nói đang đề cập.",
+      "evidence": "we can give a simple informal two-minute presentation about a new product to them."
+    },
+    "q29": {
+      "explanation": "Người nói đang thảo luận về kích thước mẫu cần thiết để đảm bảo rằng kết quả của nghiên cứu có thể được coi là có ý nghĩa. Thông tin giúp tìm ra đáp án là cụm từ \"sample size\", cho thấy rằng đây là yếu tố quan trọng trong thiết kế nghiên cứu. Paraphrase quan trọng là \"confirm significance\" có thể hiểu là \"xác nhận tính quan trọng\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án \"sample size\" là chính xác vì nó phản ánh đúng nội dung mà người nói đang đề cập.",
+      "evidence": "Two groups of 12 should be enough to confirm significance, considering that this is really just a pilot."
+    },
+    "q30": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc tránh tuyển chọn những người tham gia có vấn đề về sức khỏe như dị ứng, điều này có thể ảnh hưởng đến kết quả nghiên cứu. Thông tin giúp tìm ra đáp án là từ \"allergies\", cho thấy rằng đây là yếu tố cần được xem xét khi tuyển chọn người tham gia. Paraphrase quan trọng là \"participants with allergies\" có thể hiểu là \"người tham gia bị dị ứng\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án \"allergies\" là chính xác vì nó phản ánh đúng nội dung mà người nói đang đề cập.",
+      "evidence": "we'll have to be careful not to get any participants with allergies, for obvious reasons."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. So now that we're sure about the topic, let's get some ideas down into the project plan. </p><p><strong>Speaker 2:</strong> Firstly, what research are we building from? Well, several of the studies I looked at showed quite clearly that stimuli to the olfactory system can influence how humans behave. That sounds like quite a solid basis for us to work from.</p><p><strong>Speaker 3:</strong> Yeah, and we can make reference to anecdotal evidence too, such as the effect the smell of roasted coffee has on house viewers, or so they say.</p><p><strong>Speaker 1:</strong> Okay, great. So the aim of the study is to determine if the addition of certain fragrances to an environment affects human judgment. So how are we going to test that?</p><p><strong>Speaker 2:</strong> Well, we have to create a situation in which the participants need to make simple decisions in the presence and absence of fragrance. A simple two-group experiment seems appropriate.</p><p><strong>Speaker 3:</strong> Okay, so what fragrances shall we choose? And what decision? These are the key variables.</p><p><strong>Speaker 1:</strong> You're right. Let's start with the fragrances. How many do we need? Should we have one positive, one neutral, and one negative?</p><p><strong>Speaker 2:</strong> I think we want to start simple and build on it if we notice a pattern. So how about one pleasant-smelling aroma?</p><p><strong>Speaker 3:</strong> Yes, okay. We can do a Google search to find one of the most popular ones. What about the decision the participants are to come to?</p><p><strong>Speaker 1:</strong> Hmm. Well, we want to gather quantitative yes, no, or numerical data from 1 to 10, which we can analyze easily.</p><p><strong>Speaker 2:</strong> Well, with the two-group method, we could have the groups in separate rooms, one which acts as a control and has a completely neutral odor, the other into which we introduce the fragrance.</p><p><strong>Speaker 3:</strong> Yes, however, we must be careful to ensure the potency of the odor is kept consistent in this room for all participants. Otherwise, our data won't be valid.</p><p><strong>Speaker 1:</strong> OK, good point. Now, about the method. Apart from the presence or absence of aroma, the method should be exactly the same. The participant enters, sits down, and what next?</p><p><strong>Speaker 2:</strong> Well, perhaps we can give a simple informal two-minute presentation about a new product to them.</p><p><strong>Speaker 3:</strong> Sure, and we can ask them to complete a form with a series of questions to determine their response to the product. For example, on a scale of 1 to 5, how likely would you be to buy this product? Something like that. We can discuss details later anyway.</p><p><strong>Speaker 1:</strong> OK, what about sample size? Two groups of 12 should be enough to confirm significance, considering that this is really just a pilot.</p><p><strong>Speaker 2:</strong> What are our selection criteria?</p><p><strong>Speaker 3:</strong> Well, we just want a broad range of backgrounds and ages, really. I'll advertise the experiment on the department portal.</p><p><strong>Speaker 1:</strong> Oh, and we'll have to be careful not to get any participants with allergies, for obvious reasons.</p><p><strong>Speaker 2:</strong> OK, good point. Right, should we go and take this to Professor Ingram for approval? We can ask him about possible rooms to use too.</p><p><strong>Speaker 3:</strong> All right, let's go!</p>"
+}

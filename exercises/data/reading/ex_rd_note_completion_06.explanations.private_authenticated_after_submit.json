@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_note_completion_06",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q28": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 2, bài viết nêu: \"Currently under construction, this spent nuclear fuel repository located at the Olkiluoto Nuclear Power Plant in the municipality of Eurajoki is where they plan to bury this nuclear waste 500 metres below ground in the most secure and stable environment known: the bedrock. While above ground there are wars, natural disasters, the rise and fall of civilisations, the bedrock below remains unchanged for millions of years. This stability, argue scientists, makes it ideal for toxic material disposal.\". Cụm bedrock khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Currently under construction, this spent nuclear fuel repository located at the Olkiluoto Nuclear Power Plant in the municipality of Eurajoki is where they plan to bury this nuclear waste 500 metres below ground in the most secure and stable environment known: the bedrock. While above ground there are wars, natural disasters, the rise and fall of civilisations, the bedrock below remains unchanged for millions of years. This stability, argue scientists, makes it ideal for toxic material disposal._"
+    },
+    "q29": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 2, bài viết nêu: \"While above ground there are wars, natural disasters, the rise and fall of civilisations, the bedrock below remains unchanged for millions of years. This stability, argue scientists, makes it ideal for toxic material disposal. After intense screening of possible sites in the Finnish territory, this location was chosen due to the estimated lower geographical and environmental impact it would cause, as well as taking into consideration the consent of the local community.\". Cụm local community khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "While above ground there are wars, natural disasters, the rise and fall of civilisations, the bedrock below remains unchanged for millions of years. This stability, argue scientists, makes it ideal for toxic material disposal. After intense screening of possible sites in the Finnish territory, this location was chosen due to the estimated lower geographical and environmental impact it would cause, as well as taking into consideration the consent of the local community._"
+    },
+    "q30": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"Onkalo means ‘hiding place’ or ‘cavity’ in Finnish, and will live up to its name. On a flat stretch of pine-tree-covered land, kilometres from the nearest town, Rauma, on Olkiluoto Island, stands an unprepossessing metal shutter set between walls of rock. From this entrance, a tunnel will snake down five kilometres, 500m into the depths of the earth, ending in tomb-like storage capsules.\". Cụm storage capsules khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Onkalo means ‘hiding place’ or ‘cavity’ in Finnish, and will live up to its name. On a flat stretch of pine-tree-covered land, kilometres from the nearest town, Rauma, on Olkiluoto Island, stands an unprepossessing metal shutter set between walls of rock. From this entrance, a tunnel will snake down five kilometres, 500m into the depths of the earth, ending in tomb-like storage capsules._"
+    },
+    "q31": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 5, bài viết nêu: \"More outlandish ideas include covering the ground above Onkalo with a concrete forest of enormous thorns, to make the area as foreboding as possible. Also, the very existence of markers may stoke people’s curiosity, driving them to want to find out what has been hidden. Could talk of Onkalo have become mythical, a legend similar to the Lost City of Atlantis, or would future generations even be familiar with the nature of nuclear waste, possibly having invented new energy sources?\". Cụm thorns khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "More outlandish ideas include covering the ground above Onkalo with a concrete forest of enormous thorns, to make the area as foreboding as possible. Also, the very existence of markers may stoke people’s curiosity, driving them to want to find out what has been hidden. Could talk of Onkalo have become mythical, a legend similar to the Lost City of Atlantis, or would future generations even be familiar with the nature of nuclear waste, possibly having invented new energy sources?_"
+    },
+    "q32": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 2, bài viết nêu: \"Currently under construction, this spent nuclear fuel repository located at the Olkiluoto Nuclear Power Plant in the municipality of Eurajoki is where they plan to bury this nuclear waste 500 metres below ground in the most secure and stable environment known: the bedrock. While above ground there are wars, natural disasters, the rise and fall of civilisations, the bedrock below remains unchanged for millions of years. This stability, argue scientists, makes it ideal for toxic material disposal.\". Cụm nuclear waste khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Currently under construction, this spent nuclear fuel repository located at the Olkiluoto Nuclear Power Plant in the municipality of Eurajoki is where they plan to bury this nuclear waste 500 metres below ground in the most secure and stable environment known: the bedrock. While above ground there are wars, natural disasters, the rise and fall of civilisations, the bedrock below remains unchanged for millions of years. This stability, argue scientists, makes it ideal for toxic material disposal._"
+    }
+  }
+}

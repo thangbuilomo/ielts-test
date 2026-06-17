@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_flow_chart_completion_04",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q16": {
+      "explanation": "Người nói đang hướng dẫn về quy trình đăng ký tham gia chương trình. Thông tin giúp tìm ra đáp án là câu nói rõ ràng rằng họ không cần CV nhưng yêu cầu một bức ảnh gần đây. Paraphrase quan trọng ở đây là \"we do not need a CV,\" điều này cho thấy rằng CV không phải là yêu cầu cần thiết trong quá trình nộp đơn. Bẫy có thể là người nghe có thể nghĩ rằng CV là cần thiết, nhưng thực tế là không. Đáp án đúng là A vì nó phản ánh chính xác thông tin trong câu nói.",
+      "evidence": "The form is quite detailed, so we do not need a CV, but we would like you to send us a recent photo as well."
+    },
+    "q17": {
+      "explanation": "Người nói đang yêu cầu người nghe gửi một bức ảnh cùng với mẫu đơn. Thông tin giúp tìm ra đáp án là cụm từ \"send us a recent photo.\" Paraphrase quan trọng là \"a recent photo,\" cho thấy đây là yêu cầu cụ thể mà họ cần. Bẫy có thể là người nghe có thể nhầm lẫn giữa việc gửi CV và gửi ảnh, nhưng câu này rõ ràng chỉ yêu cầu ảnh. Đáp án đúng là C vì nó chính xác với yêu cầu được nêu ra.",
+      "evidence": "but we would like you to send us a recent photo as well."
+    },
+    "q18": {
+      "explanation": "Người nói đang mô tả về quy trình phỏng vấn qua điện thoại và nhấn mạnh rằng tất cả các cuộc phỏng vấn sẽ diễn ra vào cùng một ngày. Thông tin giúp tìm ra đáp án là cụm từ \"same date,\" cho thấy rằng người nghe cần chọn một ngày cụ thể cho cuộc phỏng vấn. Paraphrase quan trọng là \"available times\" và \"same date,\" điều này nhấn mạnh rằng có một ngày nhất định cho tất cả các cuộc phỏng vấn. Bẫy có thể là người nghe có thể nghĩ rằng họ có thể chọn nhiều ngày khác nhau, nhưng thực tế là chỉ có một ngày. Đáp án đúng là H vì nó phản ánh chính xác thông tin trong câu nói.",
+      "evidence": "We will send you a list of available times to choose from. All the phone interviews take place on the same date."
+    },
+    "q19": {
+      "explanation": "Người nói đang mô tả giai đoạn tiếp theo trong quy trình tuyển dụng, đó là phỏng vấn nhóm. Thông tin giúp tìm ra đáp án là cụm từ \"group interview,\" cho thấy đây là bước tiếp theo mà người nghe sẽ tham gia. Paraphrase quan trọng là \"next stage,\" điều này cho thấy rằng đây là một phần quan trọng trong quy trình. Bẫy có thể là người nghe có thể nghĩ rằng có nhiều loại phỏng vấn khác nhau, nhưng câu này rõ ràng chỉ đề cập đến phỏng vấn nhóm. Đáp án đúng là G vì nó chính xác với thông tin được nêu ra.",
+      "evidence": "The next stage is a group interview."
+    },
+    "q20": {
+      "explanation": "Người nói đang mô tả hoạt động mà các ứng viên sẽ tham gia sau khi phỏng vấn nhóm. Thông tin giúp tìm ra đáp án là cụm từ \"go out together for dinner,\" cho thấy rằng có một bữa tối chào mừng cho các ứng viên. Paraphrase quan trọng là \"go out together,\" điều này cho thấy tính chất xã hội của sự kiện này. Bẫy có thể là người nghe có thể nghĩ rằng đây chỉ là một bữa ăn bình thường, nhưng thực tế là đây là một bữa tối chào mừng cho các ứng viên. Đáp án đúng là I vì nó phản ánh chính xác thông tin trong câu nói.",
+      "evidence": "many of our candidates go out together for dinner."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. So, that's some of the projects that we are looking for help on. I hope that there is something there that sounds exciting and worthwhile for you. </p><p><strong>Speaker 1:</strong> Now I'll let you know what you need to do in order to get involved. First, visit our website and check that you meet the requirements. These are mostly to do with qualifications, experience, age and availability. If you meet these requirements, then please register on our site and indicate which of the three countries you would like to go to. </p><p><strong>Speaker 1:</strong> After that, we will send you an application form by email. You need to download the application form, fill it in and send it back to us. The form is quite detailed, so we do not need a CV, but we would like you to send us a recent photo as well. The deadline for us to receive your application is one week from today, so that gives you plenty of time. </p><p><strong>Speaker 1:</strong> We do try and reply to everyone within three days, although this may be difficult if we get lots of applications. If your application is successful, then we will ask you to have a phone interview. We will send you a list of available times to choose from. All the phone interviews take place on the same date. The interview will last for about half an hour and is a chance for us to get to know you better. </p><p><strong>Speaker 1:</strong> The next stage is a group interview. This means we invite you to come to our office in London and take part in some group activities to see how well you work with others. This is actually a lot of fun and not nearly as scary as it sounds, so don't worry. We will pay for your accommodation for the night and many of our candidates go out together for dinner. </p><p><strong>Speaker 1:</strong> At the end of this process, hopefully we will be able to offer you a job. You will return to London for a one-day training session that will be led by your team leader before you fly out to your country where you and your team will be met by the local area manager. </p><p><strong>Speaker 1:</strong> So, I hope that you are interested in our programmes and that I hear from you soon. Does anybody have any questions?</p>"
+}

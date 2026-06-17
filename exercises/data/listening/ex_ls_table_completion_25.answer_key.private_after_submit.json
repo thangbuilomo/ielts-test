@@ -1,0 +1,58 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_ls_table_completion_25",
+  "module": "listening",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 7,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "current"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "5"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "letter"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "two minutes"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "no charge"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "Ashbury"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "GT59HS"
+      ]
+    }
+  }
+}

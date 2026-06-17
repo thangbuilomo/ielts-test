@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_64",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Người nói đang giới thiệu về những điểm đặc biệt của các căn hộ mà họ đang quảng bá. Thông tin giúp tìm ra đáp án là việc nhấn mạnh vào \"lối sống bền vững\" và \"an ninh 24 giờ\". Paraphrase quan trọng ở đây là \"sustainable lifestyle\" (lối sống bền vững) và \"24-hour security\" (an ninh 24 giờ). Bẫy có thể là thông tin về \"các tòa nhà có lịch sử\" mà người nói đề cập đến, nhưng điều này không phải là yếu tố độc đáo mà họ đang tìm kiếm. Đáp án đúng vì lối sống bền vững và an ninh 24 giờ là những yếu tố nổi bật mà người nói khẳng định là đặc trưng của các căn hộ này.",
+      "evidence": "What we have that's unique is the sustainable lifestyle you will be able to enjoy here.\" và \"As well as this, our residents in similar locations all say they value the 24-hour security that helps to reduce crime and makes them feel safe."
+    },
+    "q21": {
+      "explanation": "Người nói đang nói về lý do James chọn vị trí làm việc của mình. Thông tin giúp tìm ra đáp án là sự nhấn mạnh vào sự quan tâm của James đối với sản phẩm. Paraphrase quan trọng là \"the products were the most interesting\" (các sản phẩm là điều thú vị nhất). Không có bẫy rõ ràng trong câu hỏi này, nhưng có thể có sự nhầm lẫn với lý do khác như không nhận được vị trí ở công ty phần mềm. Đáp án đúng vì James đã chọn vị trí này dựa trên sự hứng thú với sản phẩm mà công ty cung cấp.",
+      "evidence": "He thought the products were the most interesting."
+    },
+    "q22": {
+      "explanation": "Người nói đang nói về điều mà James thích nhất trong thời gian thực tập của mình. Thông tin giúp tìm ra đáp án là sự nhấn mạnh vào việc trải nghiệm nhiều bộ phận khác nhau. Paraphrase quan trọng là \"experience many different departments\" (trải nghiệm nhiều bộ phận khác nhau). Bẫy có thể là sự nhầm lẫn với cơ hội phân tích thị trường, nhưng điều này không phải là điều James thích nhất. Đáp án đúng vì James đã tìm thấy giá trị trong việc có cơ hội làm việc ở nhiều bộ phận khác nhau trong công ty.",
+      "evidence": "The chance to experience many different departments."
+    },
+    "q23": {
+      "explanation": "Người nói đang nói về điều mà James không thích khi làm việc cho công ty. Thông tin giúp tìm ra đáp án là việc James cảm thấy không có sự tự do trong công việc của mình. Paraphrase quan trọng là \"always told what to do\" (luôn bị chỉ dẫn phải làm gì). Bẫy có thể là thông tin về rủi ro tài chính, nhưng điều này không phải là lý do chính mà James không thích công việc. Đáp án đúng vì James cảm thấy bị kiểm soát và không có sự tự chủ trong công việc của mình.",
+      "evidence": "He was always told what to do."
+    },
+    "q24": {
+      "explanation": "Người nói đang nói về điều mà James đánh giá cao nhất trong tổ chức đào tạo của mình. Thông tin giúp tìm ra đáp án là sự nhấn mạnh vào chất lượng của các quản lý mà James đã làm việc cùng. Paraphrase quan trọng là \"worked with some really good managers\" (làm việc với một số quản lý rất tốt). Không có bẫy rõ ràng trong câu hỏi này, nhưng có thể có sự nhầm lẫn với các yếu tố khác như không gặp vấn đề hay sự liên tục trong trải nghiệm. Đáp án đúng vì James đã đánh giá cao việc làm việc với những người quản lý giỏi, điều này đã tạo ra một trải nghiệm tích cực cho anh.",
+      "evidence": "He worked with some really good managers."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 1:</strong> I'm sure that some of you have looked at lots of apartments around the city, and you may be asking what makes these flats so different? Well, they are in a building with a lot of history, but so are converted lofts, warehouses, and factories all over the city. </p><p><strong>Speaker 1:</strong> It is also fairly standard these days to have the kind of facilities that we offer here. What we have that's unique is the sustainable lifestyle you will be able to enjoy here. </p><p><strong>Speaker 1:</strong> Most of the power comes from solar panels on the roof, the buildings are designed to reuse rainwater and use less electricity for heating and light. As well as this, our residents in similar locations all say they value the 24-hour security that helps to reduce crime and makes them feel safe. </p><p><strong>Speaker 1:</strong> That and the warm attitude of all our staff and fellow residents make it a great place to live.</p>"
+}

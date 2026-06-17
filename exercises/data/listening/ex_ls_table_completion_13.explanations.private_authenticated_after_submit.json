@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_13",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q6": {
+      "explanation": "Người nói đang hỏi về tên đầy đủ của khách hàng để ghi vào mẫu thông tin. Thông tin giúp tìm ra đáp án là câu trả lời của khách hàng, nơi cô ấy đã cung cấp tên của mình. Paraphrase quan trọng ở đây là \"full name\" (tên đầy đủ) và \"Angela\" là tên đầu tiên, còn \"Bradbury\" là họ. Không có bẫy trong câu hỏi này vì câu hỏi rất rõ ràng và khách hàng đã trả lời trực tiếp. Đáp án đúng là \"Bradbury\" vì đó là họ của khách hàng.",
+      "evidence": "Angela Bradbury."
+    },
+    "q7": {
+      "explanation": "Người nói đang hỏi về ngày mà khách hàng muốn đi du lịch. Thông tin giúp tìm ra đáp án là câu trả lời của khách hàng khi được hỏi về ngày đi. Paraphrase quan trọng là \"on what date\" (vào ngày nào) và \"the 16th\" là ngày cụ thể mà khách hàng đã chọn. Bẫy có thể là sự nhầm lẫn giữa ngày 16 và 17, nhưng khách hàng đã xác nhận rõ ràng rằng cô ấy sẽ đi vào ngày 16. Đáp án đúng là \"16th\" vì đó là ngày mà khách hàng đã xác định.",
+      "evidence": "The 16th. That's right."
+    },
+    "q8": {
+      "explanation": "Người nói đang hỏi khách hàng về loại ghế mà cô ấy muốn đặt cho chuyến đi. Thông tin giúp tìm ra đáp án là câu trả lời của khách hàng khi được hỏi về việc chọn hạng ghế. Paraphrase quan trọng là \"first or economy class\" (hạng nhất hay hạng phổ thông) và \"economy\" là lựa chọn của khách hàng. Không có bẫy trong câu hỏi này vì khách hàng đã đưa ra quyết định rõ ràng. Đáp án đúng là \"economy\" vì đó là hạng ghế mà khách hàng đã chọn.",
+      "evidence": "so I'll go economy."
+    },
+    "q9": {
+      "explanation": "Người nói đang yêu cầu khách hàng đọc số thẻ tín dụng của mình để ghi vào mẫu thông tin. Thông tin giúp tìm ra đáp án là phần đầu của số thẻ mà khách hàng đã đọc. Paraphrase quan trọng là \"card number\" (số thẻ) và \"8362\" là bốn số đầu tiên của số thẻ tín dụng. Bẫy có thể là việc khách hàng có thể đọc toàn bộ số thẻ, nhưng chỉ cần bốn số đầu tiên là đủ. Đáp án đúng là \"8362\" vì đó là bốn số đầu tiên của số thẻ mà khách hàng đã cung cấp.",
+      "evidence": "8362-6028-6481-4724."
+    },
+    "q10": {
+      "explanation": "Người nói đang thông báo cho khách hàng về số hiệu chuyến tàu mà cô ấy sẽ đi. Thông tin giúp tìm ra đáp án là câu nói của người nói khi xác nhận thông tin chuyến tàu. Paraphrase quan trọng là \"train number\" (số chuyến tàu) và \"EU621\" là số hiệu cụ thể của chuyến tàu. Không có bẫy trong câu hỏi này vì thông tin được cung cấp rõ ràng và trực tiếp. Đáp án đúng là \"EU621\" vì đó là số chuyến tàu mà khách hàng sẽ sử dụng.",
+      "evidence": "you are on train number EU621."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. So, let me take some details from you so that we can buy your train ticket. First of all, what's your full name?</p><p><strong>Speaker 2:</strong> Angela Bradbury.</p><p><strong>Speaker 1:</strong> Could you spell Bradbury for me?</p><p><strong>Speaker 2:</strong> B-R-A-D-B-U-R-Y.</p><p><strong>Speaker 1:</strong> And your address?</p><p><strong>Speaker 2:</strong> 23 Brown Street, Toronto.</p><p><strong>Speaker 1:</strong> And the postal code?</p><p><strong>Speaker 2:</strong> M4C3DD. Oh, sorry, I mean TT. That's M4C3TT.</p><p><strong>Speaker 1:</strong> Could I take a contact telephone number, please? Home or cell?</p><p><strong>Speaker 2:</strong> I think cell is usually better. The cell is 07523 937616.</p><p><strong>Speaker 1:</strong> Fine. And on what date and at what time do you wish to travel?</p><p><strong>Speaker 2:</strong> I'll be in London from the 11th of April for five nights and then I can go to Paris.</p><p><strong>Speaker 1:</strong> Will that be the 16th or the 17th?</p><p><strong>Speaker 2:</strong> The 16th. That's right. And I'd like to go in the early afternoon so I won't be rushed. Around 2 o'clock would be good.</p><p><strong>Speaker 1:</strong> There's a train at 2.20 that afternoon.</p><p><strong>Speaker 2:</strong> Oh, that will be perfect. I guess you don't want a return ticket as you're already booked to Canada from Paris to Toronto.</p><p><strong>Speaker 1:</strong> That's right. What is the arrival time of that train?</p><p><strong>Speaker 2:</strong> Let's see. It departs at 2.20 and arrives in Paris at 5.20.</p><p><strong>Speaker 1:</strong> Okay, that's fine. I didn't ask this before, but of course you can travel first or economy class. What would you like?</p><p><strong>Speaker 2:</strong> What's the difference?</p><p><strong>Speaker 1:</strong> The economy is £50 and for that you get a reserved seat from London to Paris. If you book first class, then you get a bigger seat, lunch with drinks is served at your seat and everything looks a bit nicer. That comes in at £108. It's quite a bit more, but you do get the special treatment.</p><p><strong>Speaker 2:</strong> I'm not that worried about lunch. If we leave at 2.20, then I would have eaten already and I want to be hungry for a great first French meal in Paris, so I'll go economy.</p><p><strong>Speaker 1:</strong> So, the exact cost in Canadian dollars is $81.35. How would you like to pay?</p><p><strong>Speaker 2:</strong> With this Mastercard, please.</p><p><strong>Speaker 1:</strong> Could you read me the number, please?</p><p><strong>Speaker 2:</strong> 8362-6028-6481-4724.</p><p><strong>Speaker 1:</strong> Thank you very much. So, here is your reservation sheet and economy ticket confirmation. You will see that you are on train number EU621 and you have seat 30C. To remind you, it departs at 2.20 and arrives in Paris at 5.20. Can you read through and check the details for me, please?</p><p><strong>Speaker 2:</strong> Let's see. That's all fine. Thank you very much.</p><p><strong>Speaker 1:</strong> You're welcome, madam. Have a wonderful time in Paris.</p><p><strong>Speaker 2:</strong> Thank you. Goodbye.</p><p><strong>Speaker 1:</strong> Goodbye.</p>"
+}

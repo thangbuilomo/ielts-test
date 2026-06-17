@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_short_answer_04",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/SHORT%20ANSWER%2004.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now, answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Hi there, all my shopping's done. Have you finished?</p><p><strong>Speaker 1:</strong> Oh, yes. It didn't take me long. It was actually the first thing that I checked out, so I had it all figured out in about five minutes.</p><p><strong>Speaker 2:</strong> What was the problem then?</p><p><strong>Speaker 1:</strong> It was a loose wire. It's amazing that this television even got through its test. I suppose that nowadays not everything is tested properly and they just assume that everything will be alright. With all the things that can go wrong, though, with bad connections, faulty chips, the screen dynamics and everything, it's amazing they all don't go wrong more often.</p><p><strong>Speaker 2:</strong> So, what can you do about it?</p><p><strong>Speaker 1:</strong> We can repair it by tomorrow, or we can just give you a new TV. We can send the old one back to our suppliers.</p><p><strong>Speaker 2:</strong> That sounds best to me. I'll take a new one, please. Do you want the same model and everything?</p><p><strong>Speaker 1:</strong> Yes, please.</p><p><strong>Speaker 2:</strong> Oh, dear. I'm afraid we don't have that one in right now, but we will be able to have it in tomorrow morning, if that's okay.</p><p><strong>Speaker 1:</strong> That's fine. Uh, and while I'm here, I want to get something else. It's my nephew's birthday next Thursday. What would you suggest?</p><p><strong>Speaker 2:</strong> Well, we've got lots of things here, obviously. How old is he?</p><p><strong>Speaker 1:</strong> Let's see. He's the same age as my own son, who's 10 now and his birthday's next week.</p><p><strong>Speaker 2:</strong> Okay. We've got lots of computer games over there. We've got iPods in the corner, if he likes music. He can download music from the Internet onto his computer and then onto his iPod. There are lots of accessories for computers. He could need a new mouse, a wireless keyboard, a camera to use while when he's chatting. There are lots of possibilities and it depends, of course, on how much you want to spend.</p><p><strong>Speaker 1:</strong> I'm pretty sure he'd like a computer game, although I know he's got loads already. I'll tell you what. I'll go back and ask his father what would be the best and I'll come back tomorrow and buy something while I'm picking up the new TV.</p><p><strong>Speaker 2:</strong> What sort of time shall I come tomorrow, then?</p><p><strong>Speaker 1:</strong> We open at 9 o'clock in the morning. I hope our other shop would be able to send the new telly over this afternoon. They might only manage it tomorrow morning, though, so come over at about 11.</p><p><strong>Speaker 2:</strong> I'll come an hour later at noon, then, as I'll be swimming at 11.</p><p><strong>Speaker 1:</strong> That's fine. See you tomorrow, then.</p><p><strong>Speaker 2:</strong> Thanks very much.</p><p><strong>Speaker 1:</strong> You're welcome, madam.</p><p><strong>Speaker 2:</strong> Bye.</p><p><strong>Speaker 1:</strong> Goodbye.</p>"
+    }
+  ]
+}

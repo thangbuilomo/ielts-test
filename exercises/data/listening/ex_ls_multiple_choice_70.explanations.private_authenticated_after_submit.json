@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_70",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Người nói đang đề cập đến việc kiến trúc sư Ricardo Morales chưa từng thiết kế một nhà ga tàu nào trước khi được giao nhiệm vụ này. Thông tin này giúp tìm ra đáp án là C, vì nó khẳng định rằng ông chưa từng thiết kế một nhà ga tàu. Paraphrase quan trọng ở đây là \"never built a train station before\", có nghĩa là \"chưa bao giờ xây dựng một nhà ga tàu\". Bẫy có thể là sự nhầm lẫn với các lựa chọn A và B, nhưng thông tin rõ ràng từ câu nói của người nói đã chỉ ra rằng ông chưa có kinh nghiệm trong lĩnh vực này. Do đó, đáp án C là chính xác.",
+      "evidence": "Now, when the architect Ricardo Morales was appointed to design the building, he'd never built a train station before."
+    },
+    "q12": {
+      "explanation": "Người nói đang nói về quá trình xây dựng nhà ga và nhấn mạnh rằng việc hoàn thành sớm hơn dự kiến là một điều đáng ngạc nhiên. Thông tin cho thấy rằng nhà ga đã được hoàn thành \"chín tháng trước thời hạn\" là yếu tố chính giúp tìm ra đáp án B. Paraphrase quan trọng là \"completed nine months ahead of schedule\", có nghĩa là \"hoàn thành trước thời hạn chín tháng\". Bẫy có thể là sự hiểu lầm rằng việc xây dựng có thể tốn kém hơn hoặc gây tranh cãi, nhưng thực tế là nó đã hoàn thành nhanh chóng. Vì vậy, đáp án B là chính xác.",
+      "evidence": "Morales was lucky in that he basically had as much funding as he needed, which meant that he could hire a huge workforce, enabling the entire building to actually be completed nine months ahead of schedule."
+    },
+    "q13": {
+      "explanation": "Người nói đang mô tả một khía cạnh ấn tượng của nhà ga, đó là cách ánh sáng tự nhiên được đưa vào bên trong. Thông tin này giúp tìm ra đáp án C, vì nó nhấn mạnh sự ấn tượng của cách chiếu sáng trong tòa nhà. Paraphrase quan trọng là \"allows natural light into the whole of the interior\", có nghĩa là \"cho phép ánh sáng tự nhiên vào toàn bộ không gian bên trong\". Bẫy có thể là sự nhầm lẫn với các lựa chọn A và B, nhưng thông tin rõ ràng từ câu nói đã chỉ ra rằng ánh sáng tự nhiên là điểm nổi bật. Do đó, đáp án C là chính xác.",
+      "evidence": "The station's iron structure supports large glass panels in the roof, and this cleverly allows natural light into the whole of the interior."
+    },
+    "q14": {
+      "explanation": "Người nói đang đề cập đến những chỉ trích về vị trí của nhà ga sau khi nó được xây dựng. Thông tin này giúp tìm ra đáp án B, vì nó chỉ ra rằng nhà ga bị chỉ trích vì \"quá xa trung tâm thành phố\". Paraphrase quan trọng là \"too far away from the city centre to be useful\", có nghĩa là \"quá xa trung tâm thành phố để có thể hữu ích\". Bẫy có thể là sự nhầm lẫn với các lựa chọn A và C, nhưng thông tin rõ ràng từ câu nói đã chỉ ra rằng vị trí là vấn đề chính. Do đó, đáp án B là chính xác.",
+      "evidence": "But in the years following its construction, many people argued that it was too far away from the city centre to be useful."
+    },
+    "q15": {
+      "explanation": "Người nói đang khuyên du khách nên chụp ảnh bên trong nhà ga trước khi bắt tàu. Thông tin này giúp tìm ra đáp án A, vì nó nhấn mạnh việc chụp ảnh là điều nên làm. Paraphrase quan trọng là \"get some decent pictures of it from inside\", có nghĩa là \"chụp một số bức ảnh đẹp từ bên trong\". Bẫy có thể là sự nhầm lẫn với các lựa chọn B và C, nhưng thông tin rõ ràng từ câu nói đã chỉ ra rằng việc chụp ảnh là một hoạt động được khuyến khích. Do đó, đáp án A là chính xác.",
+      "evidence": "You'll find the station is too large to get all the way around the building, but you should be able to get some decent pictures of it from inside."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1 (Tour Guide):</strong> Good afternoon, everybody, and welcome to the magnificent train station here in Porto Nuevo. While you're waiting for your train to Seville, I'll tell you a little about the station you're in. </p><p>Now, when the architect Ricardo Morales was appointed to design the building, he'd never built a train station before. But that wasn't unusual because neither had most architects. This was the mid-19th century, after all. Railways were still a new technology. But what I think is amazing is that up till then, Morales had only been involved in very small-scale schemes, mostly in other cities, and this was his first major job. </p><p>In order to build the station, several streets had to be demolished. Nowadays, this would be controversial, but back then, that was just the way it was. Morales was lucky in that he basically had as much funding as he needed, which meant that he could hire a huge workforce, enabling the entire building to actually be completed nine months ahead of schedule. And he created a brilliant piece of architecture. I'm sure you'll agree, especially when you step inside. </p><p>The station's iron structure supports large glass panels in the roof, and this cleverly allows natural light into the whole of the interior. Now, this contrasts with other stations which are often very dark places that need electric lighting, even during the day. A simple idea, but very effective. </p><p>The building has always been a landmark in Porto Nuevo, particularly as the station is rather large for a small city like this. But in the years following its construction, many people argued that it was too far away from the city centre to be useful, and there were plans to pull it down and replace it with a smaller station that was more centrally located, which would probably have been built in a more modern style. Fortunately, that never happened. </p><p>Now, we have a few minutes till our train leaves. You'll find the station is too large to get all the way around the building, but you should be able to get some decent pictures of it from inside. The best viewpoint will be from just inside the main door when we go in. They do hire out audio guides, but the tour takes longer than we've got, I'm afraid, so that'll have to wait for another time.</p>"
+}

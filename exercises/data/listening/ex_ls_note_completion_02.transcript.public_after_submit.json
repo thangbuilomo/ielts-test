@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_02",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2002.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> Good morning and welcome to 2RC, your local radio news service for the Wesley area. And here are your headlines for this morning. </p><p><strong>Speaker 1:</strong> More news from the police into the jewellery robbery that occurred last Tuesday in the centre of town. </p><p><strong>Speaker 1:</strong> CompTech, the local computer hardware manufacturer, has announced it might cut 40 jobs. </p><p><strong>Speaker 1:</strong> New routes open up at the Wesley International Airport. </p><p><strong>Speaker 1:</strong> Plans for the redevelopment of the Oakley Woods have been shelved. </p><p><strong>Speaker 1:</strong> A local cricket team make it to the regional finals. </p><p><strong>Speaker 1:</strong> And get set for a heatwave. </p><p><strong>Speaker 1:</strong> First of all, police have released two descriptions for the two men wanted in connection with the robbery at the local jewellery store Nichols in the centre of town last Tuesday. At 9am, just when the store was opening, two men burst through the door and demanded bags to be filled up with jewellery. </p><p><strong>Speaker 1:</strong> Although the two men were armed with baseball bats, the shopkeepers bravely attacked them and beat them off. </p><p><strong>Speaker 1:</strong> Although the two men had motorcycle helmets on, these were knocked off during the scuffle and the shopkeepers were able to get a good look at them. </p><p><strong>Speaker 1:</strong> The first man is said to be about 2 metres in height, slight build, dark hair and a small moustache. He was wearing blue jeans, a white t-shirt and a black leather jacket. </p><p><strong>Speaker 1:</strong> The second man is much shorter, around 1 metre 83 centimetres, with a fat build and red hair and clean shaven. He was wearing a dark blue sweater and black jeans. </p><p><strong>Speaker 1:</strong> They are both probably in their early twenties. The police hope to issue photofit pictures later today. </p><p><strong>Speaker 1:</strong> The public are urged to call Wesley Police if they think they recognise either of the two men.</p>"
+    }
+  ]
+}

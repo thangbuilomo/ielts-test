@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_01",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q27": {
+      "explanation": "Người nói đang giải thích về cách thức đánh giá trong hai năm đầu tiên của khóa học. Thông tin giúp tìm ra đáp án là việc người nói đã nêu rõ rằng năm đầu tiên và năm thứ hai đều có kỳ thi vào cuối năm học. Câu \"you will have exams at the end of May\" và \"the second year is identical to the first year\" là những paraphrase quan trọng, cho thấy rằng không có sự thay đổi trong cách đánh giá giữa hai năm này. Không có bẫy trong câu hỏi này vì thông tin được trình bày rất rõ ràng. Đáp án đúng là A vì cả hai năm đầu tiên và thứ hai đều có kỳ thi.",
+      "evidence": "In the first year, you will have exams at the end of May. You'll probably have five papers to sit then. The second year is identical to the first year."
+    },
+    "q28": {
+      "explanation": "Người nói đang nói về số lượng kỳ thi mà sinh viên sẽ phải tham gia trong hai năm đầu tiên. Thông tin quan trọng là \"you will have exams at the end of May\" và \"the second year is identical to the first year\", cho thấy rằng sinh viên sẽ có năm bài thi vào cuối năm học trong cả hai năm. Không có bẫy trong câu hỏi này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng là A vì cả hai năm đều có năm kỳ thi.",
+      "evidence": "In the first year, you will have exams at the end of May. You'll probably have five papers to sit then. The second year is identical to the first year."
+    },
+    "q29": {
+      "explanation": "Người nói đang đề cập đến yêu cầu viết luận văn trong năm thứ tư và nhấn mạnh rằng sinh viên sẽ cần phải chuẩn bị cho nó trong năm thứ ba. Thông tin quan trọng là \"most people use their time in the third year when they're working to use as a basis for their dissertation\", cho thấy rằng năm thứ ba là thời gian để chuẩn bị cho luận văn. Không có bẫy trong câu hỏi này vì thông tin được trình bày rõ ràng. Đáp án đúng là B vì sinh viên cần phải sản xuất công việc viết lách mở rộng trong năm thứ ba.",
+      "evidence": "In the fourth year, you will have to write a dissertation of a minimum of 15,000 words and most people use their time in the third year when they're working to use as a basis for their dissertation."
+    },
+    "q30": {
+      "explanation": "Người nói đang nói về số lượng bài thi mà sinh viên sẽ phải tham gia trong năm thứ tư. Thông tin quan trọng là \"There will be eight papers in all during June\", cho thấy rằng sinh viên sẽ có tám bài thi vào cuối năm học. Không có bẫy trong câu hỏi này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng là C vì sinh viên sẽ có tám bài thi vào cuối năm học trong năm thứ tư.",
+      "evidence": "There will be eight papers in all during June and these will be based on work done throughout the entire course."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Is there anything you'd like to ask me about the course?</p><p><strong>Speaker 2:</strong> Yes. The information in the prospectus wasn't very clear about assessment. How will I be assessed over the four years of the course?</p><p><strong>Speaker 1:</strong> Well, as it's a sandwich course, you will be working in industry for the third year and there won't be any exams for that year. In the first year, you will have exams at the end of May. You'll probably have five papers to sit then. The second year is identical to the first year. You have to pass the exams in these years, but they won't actually be part of your degree. </p><p><strong>Speaker 1:</strong> In the fourth year, you will have to write a dissertation of a minimum of 15,000 words and most people use their time in the third year when they're working to use as a basis for their dissertation. So the third year can be spent doing the hard work for the dissertation, leaving the fourth year to polish it and study for your finals. </p><p><strong>Speaker 2:</strong> What will I have to do for the finals?</p><p><strong>Speaker 1:</strong> There will be eight papers in all during June and these will be based on work done throughout the entire course. It's hard and a stressful time, but students usually cope with it. </p><p><strong>Speaker 2:</strong> Anything else?</p><p><strong>Speaker 2:</strong> Yes, I'd like to ask about...</p>"
+}

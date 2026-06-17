@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_19",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2019.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> The term supervolcano has no specifically defined scientific meaning. It is used to refer to volcanoes that have generated Earth's largest volcanic eruptions. </p><p><strong>Speaker 3:</strong> As such, a supervolcano would be one that has produced an exceedingly large, catastrophic explosive eruption and a giant caldera, a caldera being the gigantic crater that the eruption creates. </p><p><strong>Speaker 2:</strong> Whereas normal volcanic craters are measured in the hundreds of meters, a caldera can easily be as large as 40 or 50 miles wide. </p><p><strong>Speaker 1:</strong> Around the world, there are several volcanic areas that can be considered supervolcanoes, such as Long Valley in eastern California, Toba in Indonesia, and Lake Taupo in New Zealand. </p><p><strong>Speaker 3:</strong> There are also other large calderas in Japan, Indonesia, Scotland, and Alaska. Not all the calderas are active, though. </p><p><strong>Speaker 2:</strong> Normal volcanoes are formed by a column of magma rising from deep within the Earth, erupting on the surface and hardening in layers down the sides. This forms the familiar cone-shaped mountain we associate with volcanoes. </p><p><strong>Speaker 1:</strong> Supervolcanoes, however, begin life when magma rises from the Earth's mantle to create a boiling reservoir in the Earth's crust. </p><p><strong>Speaker 3:</strong> This chamber increases to an enormous size, building up colossal pressure until it finally erupts. An explosion like this could send ash, dust, and sulfur dioxide into the atmosphere, reflecting the sun's rays and creating a cold wave lasting several years. </p><p><strong>Speaker 2:</strong> Crops in many areas would fail and many species of animals and plants, including humans, would face extinction. </p><p><strong>Speaker 1:</strong> The most recent caldera-forming eruption in the U.S. was about 650,000 years ago in the northeast United States. </p><p><strong>Speaker 3:</strong> During that eruption, ground-hugging flows of hot volcanic ash, pumice, and gases swept across an area of more than 3,000 square miles. </p><p><strong>Speaker 2:</strong> The eruption also shot a column of volcanic ash and gases high into Earth's stratosphere. </p><p><strong>Speaker 1:</strong> This volcanic cloud circled the globe many times and affected the Earth's climate by reducing the intensity of solar radiation reaching the lower atmosphere and surface. </p><p><strong>Speaker 3:</strong> Fine volcanic ash that fell downwind from the eruption site blanketed much of North America. </p><p><strong>Speaker 2:</strong> This ash layer is still preserved in deposits as far away as Iowa, where it is a few inches thick, and the Gulf of Mexico, where it is recognizable in drill cores from the seafloor.</p>"
+    }
+  ]
+}

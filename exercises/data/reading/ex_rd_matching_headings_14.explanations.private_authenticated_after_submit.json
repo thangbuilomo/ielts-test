@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_14",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q14": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"A tidal power unit is where a dam or barrage is built across an estuary or bay that experiences an adequate tidal range. This tidal range has to be in excess of five metres for the barrage to be feasible.\". Heading vii (How it Works) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "A tidal power unit is where a dam or barrage is built across an estuary or bay that experiences an adequate tidal range. This tidal range has to be in excess of five metres for the barrage to be feasible._"
+    },
+    "q15": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"There are different types of turbines that are now available for use in a tidal barrage. A bulb turbine is one in which water flows around the turbine.\". Heading v (Technical Variations) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "There are different types of turbines that are now available for use in a tidal barrage. A bulb turbine is one in which water flows around the turbine._"
+    },
+    "q16": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Tidal streams are rapidly flowing volumes of water caused by the motion of the tide. In order for tidal stream power plants to be feasible, these tidal streams must occur in shallow seas where a natural constriction exists to force the water to speed up.\". Heading i (A Less Disruptive Approach) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Tidal streams are rapidly flowing volumes of water caused by the motion of the tide. In order for tidal stream power plants to be feasible, these tidal streams must occur in shallow seas where a natural constriction exists to force the water to speed up._"
+    },
+    "q17": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The large capital costs required to start construction of a barrage have been the main stumbling block to their deployment. It is not an attractive proposition to an investor due to long payback periods.\". Heading ii (The Economics of Tidal Power) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The large capital costs required to start construction of a barrage have been the main stumbling block to their deployment. It is not an attractive proposition to an investor due to long payback periods._"
+    },
+    "q18": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"During the construction of a barrage, the amount of traffic and people in the area will increase dramatically and this phenomenon will last for a number of years. This will also bring revenue to the local economy from the tourism and hospitality industry that will accommodate all the different types of visitors that the barrage will bring.\". Heading viii (Side Benefits) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "During the construction of a barrage, the amount of traffic and people in the area will increase dramatically and this phenomenon will last for a number of years. This will also bring revenue to the local economy from the tourism and hospitality industry that will accommodate all the different types of visitors that the barrage will bring._"
+    },
+    "q19": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Perhaps the largest disadvantages of tidal barrages are the ecological effects on the local area. These are very difficult to predict, as each site is different and there are not many projects that are available for study.\". Heading x (The Downside) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Perhaps the largest disadvantages of tidal barrages are the ecological effects on the local area. These are very difficult to predict, as each site is different and there are not many projects that are available for study._"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_05",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q26": {
+      "explanation": "Người nói đang thảo luận về chương trình Exploration Scheme và nhấn mạnh rằng việc xin một vị trí trong chương trình này khá dễ dàng. Thông tin giúp tìm ra đáp án là cụm từ \"guaranteed a placement\", cho thấy rằng người tham gia có khả năng cao để có được một vị trí. Paraphrase quan trọng ở đây là \"first come, first served\", nghĩa là ai nộp đơn trước sẽ có cơ hội cao hơn. Bẫy có thể là sự nhầm lẫn với Overseas Training Scheme (OTS), nhưng thông tin rõ ràng cho thấy OTS không đảm bảo vị trí như Exploration Scheme. Vì vậy, đáp án A là chính xác.",
+      "evidence": "You're pretty much guaranteed a placement."
+    },
+    "q27": {
+      "explanation": "Người nói đang hỏi về chương trình Overseas Training Scheme và nhấn mạnh rằng chương trình này cho phép tham gia đi đến bất kỳ đâu trên thế giới, điều này cho thấy rằng nó cung cấp cơ hội ở Mỹ và Canada. Thông tin quan trọng là cụm từ \"anywhere in the world\", cho thấy tính linh hoạt của chương trình. Bẫy có thể là sự nhầm lẫn với chương trình Exploration Scheme, nhưng rõ ràng là OTS là chương trình duy nhất cung cấp cơ hội này. Do đó, đáp án A là chính xác.",
+      "evidence": "The Overseas Training Scheme allow you to travel, Lisa? Anywhere in the world."
+    },
+    "q28": {
+      "explanation": "Người nói đang nói về chương trình Exploration Scheme và xác nhận rằng một số vị trí trong chương trình này kết hợp giữa làm việc và học tập. Thông tin quan trọng là cụm từ \"involve work and study\", cho thấy rằng chương trình này không chỉ đơn thuần là làm việc. Bẫy có thể là sự nhầm lẫn với OTS, nhưng thông tin rõ ràng cho thấy rằng chỉ có chương trình Exploration Scheme mới có sự kết hợp này. Vì vậy, đáp án B là chính xác.",
+      "evidence": "Some of them involve work and study."
+    },
+    "q29": {
+      "explanation": "Người nói đang thảo luận về việc liệu các chương trình có cung cấp khóa học ngôn ngữ miễn phí hay không. Câu này cho thấy rằng một số chương trình có thể miễn phí, nhưng phần lớn thì không. Thông tin quan trọng là cụm từ \"most aren't\", cho thấy rằng không phải tất cả các chương trình đều miễn phí. Bẫy có thể là sự nhầm lẫn với các chương trình khác, nhưng rõ ràng là cả hai chương trình đều không cung cấp khóa học miễn phí. Do đó, đáp án C là chính xác.",
+      "evidence": "A few are, but most aren't."
+    },
+    "q30": {
+      "explanation": "Người nói đang nói về việc liệu các chương trình có chi trả cho chi phí đi lại và chỗ ở hay không. Câu này cho thấy rằng không có chương trình nào trong số hai chương trình được đề cập chi trả cho những chi phí này. Thông tin quan trọng là cụm từ \"definitely don't get\", cho thấy rằng không có hỗ trợ tài chính cho các chi phí này. Bẫy có thể là sự nhầm lẫn với OTS, nhưng rõ ràng là chỉ OTS mới cung cấp hỗ trợ tài chính. Do đó, đáp án D là chính xác.",
+      "evidence": "you definitely don't get things like accommodation and flights paid for, like you do on the OTS scheme."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. What about you, George? Have you got any ideas about where you can get a work placement?</p><p><strong>Speaker 2:</strong> Well, there's the exploration scheme.</p><p><strong>Speaker 3:</strong> Oh, yes, I heard about that. I've never heard of it.</p><p><strong>Speaker 2:</strong> I don't think you'd be eligible for it, Sarah. It's designed for people who work in industry or construction.</p><p><strong>Speaker 1:</strong> That sounds right up your street, George.</p><p><strong>Speaker 2:</strong> Well, I've been looking into it, and it looks OK at first glance. But I have some reservations.</p><p><strong>Speaker 1:</strong> The application process is simple, and there are loads of options to choose from, but...</p><p><strong>Speaker 3:</strong> Oh, so there's no competition for places at all?</p><p><strong>Speaker 2:</strong> I think it's first come, first served. The earlier you apply, the more likely you are to get on the program you like. It's not like the OTS. You're pretty much guaranteed a placement.</p><p><strong>Speaker 1:</strong> So what's the problem then?</p><p><strong>Speaker 2:</strong> Well, all the placements are in Europe. I really want to go to the USA or Canada.</p><p><strong>Speaker 3:</strong> Even so, there are some great places in Europe.</p><p><strong>Speaker 2:</strong> Yeah, but I'm hopeless at languages.</p><p><strong>Speaker 3:</strong> All the more reason why you should go. It's important to learn other languages. Where did the Overseas Training Scheme allow you to travel, Lisa?</p><p><strong>Speaker 1:</strong> Anywhere in the world.</p><p><strong>Speaker 2:</strong> That's lucky. The programs on the Exploration Scheme aren't all work programs, are they, George?</p><p><strong>Speaker 2:</strong> Some of them involve work and study.</p><p><strong>Speaker 1:</strong> Yes, but I'm not interested in those placements.</p><p><strong>Speaker 3:</strong> I’m not surprised. Studying in another language, now that would be hard.</p><p><strong>Speaker 2:</strong> I think the study courses are all in English, actually. So that's not the reason I'm not interested. I just want a break from studying. I'm sick of all the tests and assignments. I feel as if I've been doing them all my life.</p><p><strong>Speaker 1:</strong> Well, the work placements sound ideal, then.</p><p><strong>Speaker 2:</strong> I suppose so. But the real problem is money.</p><p><strong>Speaker 3:</strong> Aren't the work placements paid?</p><p><strong>Speaker 2:</strong> A few are, but most aren't. And you definitely don't get things like accommodation and flights paid for, like you do on the OTS scheme.</p><p><strong>Speaker 1:</strong> I think you should still try for it, though, George. It should be a great experience for you, and it'll probably help you to get a job in the future.</p><p><strong>Speaker 2:</strong> You're bound to be able to get a loan from the bank to cover those costs.</p><p><strong>Speaker 3:</strong> Maybe, but I'm still going to keep an eye out for other options.</p>"
+}

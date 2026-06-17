@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_flow_chart_completion_05",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/FLOW%20CHART%20COMPLETION%2005.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> OK, so Rick is going to look for information online about health statistics for the town. Yeah, now and three decades ago. </p><p><strong>Speaker 3:</strong> Cool. When do we need that info? </p><p><strong>Speaker 1:</strong> This time next week? </p><p><strong>Speaker 2:</strong> OK, then the three of us need to design the questionnaires. Can we do that now? </p><p><strong>Speaker 3:</strong> I'm sorry, I've got a tutorial in ten minutes. </p><p><strong>Speaker 1:</strong> OK, why don't we each think of some ideas and post them on the Facebook page, then meet at the end of the week to discuss and compile them? </p><p><strong>Speaker 2:</strong> Cool. Good idea. Then we will need to conduct interviews using the questionnaires at each of the four facilities. That's one each, if Rick's better by then. </p><p><strong>Speaker 3:</strong> Would a week be enough for that? </p><p><strong>Speaker 1:</strong> It'll have to be, as we'll need another week or so to analyze and compile all the information, and then to prepare our presentation. </p><p><strong>Speaker 2:</strong> Hmm, you're right. </p><p><strong>Speaker 1:</strong> OK, I'll set up the Facebook page immediately and brief Rick on what he's doing, and we can get on with the rest. Meet here again, same time on Friday? </p><p><strong>Speaker 3:</strong> Fine. </p><p><strong>Speaker 2:</strong> Sure. </p><p><strong>Speaker 1:</strong> That is the end of section three. You will now have half a minute to check your answers.</p><p>Answer Key</p><p>27.Answer: E<br />Explanation: Rick is tasked with researching health statistics online, as mentioned in the transcript where it states he will look for information about health statistics for the town.</p><p>28.Answer: D<br />Explanation: Anna, Karim, and Lucy need to design the questionnaires, which involves finalizing the content of the questionnaires. This is indicated when they discuss the need to design the questionnaires.</p><p>29.Answer: B<br />Explanation: The whole group will conduct interviews using the questionnaires at the facilities. This is confirmed when they mention needing to conduct interviews using the questionnaires at each of the four facilities.</p><p>30.Answer: A<br />Explanation: The whole group will compile and analyze data from all sources. This is stated when they discuss needing another week to analyze and compile all the information before preparing their presentation.</p>"
+    }
+  ]
+}

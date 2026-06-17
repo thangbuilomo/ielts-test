@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_matching_information_10",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MATCHING%20INFORMATION%20TO%20CATEGORIES%2010.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Some listeners are calling in with some questions about the new system. Jane?</p><p><strong>Speaker 2:</strong> Very interesting questions coming in, Peter. Now, some of you have asked about exactly what you can put in the yellow, red and blue bins you have at home, and about the correct use of refuse centres. Let's start with the yellow bin. This is your main recycling bin, meaning you can put things like books, envelopes, paper and also newspapers, cereal packets, anything made from cardboard really, in it. Although you can put some plastic items in this bin, such as clear plastic bottles, margarine or ice cream tubs, more durable plastics, like pipes or old buckets, should not be put here. Put these in the red bin. Larger items, even though they're made of plastic, like computer keyboards, must go to the refuse centre instead. Glass bottles used to go in the yellow bin too, but now you must use the mini recycling sites across the region, otherwise known as bottle banks or bring sites. Here you have to recycle by colour of glass, clear, brown, green, etc., and dispose of them in special containers, one for each colour. These bottle banks and bring sites can often be found in public car parks, supermarkets, etc.</p><p><strong>Speaker 2:</strong> The blue bin is for organic materials only. Things like plants and weeds from the garden can go in here, along with waste from cooking and kitchen leftovers, potato and vegetable skins, that sort of thing. Each household has special biodegradable bags for the blue bin, so avoid using normal plastic bags or not using a bag at all. If you have bigger quantities of garden waste or rubbish left over from building work, you should take this to your local refuse centre. This, and not the coloured bins at home, is also the place to get rid of unwanted household items, including furniture, irons, fridges, freezers, hair dryers, old mobile phones. Some of these items can later be recycled once they've been taken apart. Everything else goes in the red bin, but be careful not to put too much in this one. This rubbish goes directly to a landfill site, so it's important to check if you can be green, so to speak, first. Every little helps.</p>"
+    }
+  ]
+}

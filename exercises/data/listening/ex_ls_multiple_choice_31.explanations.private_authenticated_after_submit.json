@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_31",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói, Bruce Griffin, đang xác nhận rằng anh đã từng ở khách sạn Sunrise hai lần trước đó. Thông tin này giúp tìm ra đáp án vì nó trực tiếp đề cập đến số lần anh đã ở khách sạn. Paraphrase quan trọng ở đây là \"twice before\" có nghĩa là \"hai lần trước\". Bẫy có thể là sự nhầm lẫn với các lựa chọn khác, nhưng câu nói rõ ràng chỉ ra số lần là hai. Do đó, đáp án B là chính xác.",
+      "evidence": "Yes, that's right. I've stayed with you twice before."
+    },
+    "q2": {
+      "explanation": "Người nói đang xác nhận thông tin về nơi cư trú của Bruce Griffin. Thông tin này giúp tìm ra đáp án vì nó chỉ rõ thành phố mà Bruce đến từ. Paraphrase quan trọng là \"from Sydney\" có nghĩa là \"đến từ Sydney\". Bẫy có thể là sự nhầm lẫn với các thành phố khác, nhưng câu nói xác nhận rõ ràng rằng Bruce đến từ Sydney. Vì vậy, đáp án B là chính xác.",
+      "evidence": "So, Bruce Griffin from Sydney, right?"
+    },
+    "q3": {
+      "explanation": "Người nói đang cung cấp số hộ chiếu của mình để xác nhận đặt phòng. Thông tin này giúp tìm ra đáp án vì nó là thông tin cụ thể mà người nghe cần để xác định danh tính của Bruce. Paraphrase quan trọng là \"passport number\" có nghĩa là \"số hộ chiếu\". Bẫy có thể là việc người nghe không chú ý đến chữ cái và số trong số hộ chiếu, nhưng câu nói rõ ràng chỉ ra số hộ chiếu. Do đó, đáp án B là chính xác.",
+      "evidence": "Bruce Griffin, passport number H7637489H30."
+    },
+    "q4": {
+      "explanation": "Người nói đang yêu cầu đặt một phòng đơn cho chuyến công tác của mình. Thông tin này giúp tìm ra đáp án vì nó chỉ rõ loại phòng mà Bruce cần. Paraphrase quan trọng là \"a single room\" có nghĩa là \"một phòng đơn\". Bẫy có thể là sự nhầm lẫn với số đêm, nhưng câu nói không đề cập đến số đêm, chỉ rõ rằng anh cần một phòng đơn. Do đó, đáp án A là chính xác.",
+      "evidence": "Well, I'm on a business trip, so I only need a single room."
+    },
+    "q5": {
+      "explanation": "Người nói đang thông báo thời gian mà anh sẽ đến khách sạn. Thông tin này giúp tìm ra đáp án vì nó chỉ rõ thời gian dự kiến. Paraphrase quan trọng là \"by 10\" có nghĩa là \"trước 10 giờ\". Bẫy có thể là sự nhầm lẫn với thời gian máy bay hạ cánh, nhưng câu nói rõ ràng chỉ ra thời gian đến là 10 giờ. Do đó, đáp án B là chính xác.",
+      "evidence": "I should be at your place by 10."
+    },
+    "q6": {
+      "explanation": "Người nói đang xác nhận loại thức ăn mà anh muốn có trong phòng. Thông tin này giúp tìm ra đáp án vì nó chỉ rõ món ăn mà Bruce muốn. Paraphrase quan trọng là \"just the sandwich\" có nghĩa là \"chỉ cần cái bánh sandwich\". Bẫy có thể là sự nhầm lẫn với các món khác được đề cập, nhưng câu nói rõ ràng chỉ ra rằng anh chỉ muốn bánh sandwich. Do đó, đáp án B là chính xác.",
+      "evidence": "Yes, just the sandwich then."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Sunrise Hotel. Good morning. Barbara speaking.</p><p><strong>Speaker 3:</strong> Hello. My name is Bruce Griffin. I'd like to make a booking for tonight, please. Are there any rooms still available?</p><p><strong>Speaker 2:</strong> Yes, there are a few left. What were you wanting?</p><p><strong>Speaker 3:</strong> Well, I'm on a business trip, so I only need a single room. I don't think that will be a problem.</p><p><strong>Speaker 2:</strong> Let's look. Yes, there's one single room left. Shall I book it for you?</p><p><strong>Speaker 3:</strong> Yes, please. That would be great.</p><p><strong>Speaker 2:</strong> Right then. Let me get a pen. So, what's your name again, please?</p><p><strong>Speaker 3:</strong> Bruce Griffin. That's B-R-U-C-E G-R-I-F-F-I-N.</p><p><strong>Speaker 2:</strong> Okay, I've got that down. Wait a minute. You've been here before, haven't you?</p><p><strong>Speaker 3:</strong> Yes, that's right. I've stayed with you twice before.</p><p><strong>Speaker 2:</strong> Well, we should have your details already. Let's look at the cards. Here we are. So, Bruce Griffin from Sydney, right?</p><p><strong>Speaker 3:</strong> Yes, that's right.</p><p><strong>Speaker 2:</strong> So, tell me if I'm wrong. Bruce Griffin, passport number H7637489H30.</p><p><strong>Speaker 3:</strong> Yes, that's right. I'll just repeat the passport number to make sure you've got it right. H7637489H30.</p><p><strong>Speaker 2:</strong> Thanks. I have it right. So, it's a single room for tonight. Is your credit card number the same to confirm the booking?</p><p><strong>Speaker 3:</strong> Yes, it's the same, but I want you to forward the bill to my company again. Is that okay?</p><p><strong>Speaker 2:</strong> Oh, yes, Mr Griffin. That's no problem at all. Your company have always settled very promptly in the past. And what time can we expect you tonight, Mr Griffin?</p><p><strong>Speaker 3:</strong> Well, the plane lands at 9.15pm. So, by the time I get through the formalities, that should take about 20 minutes. I should be at your place by 10. Will the restaurant still be open at that time, as I'll be hungry? I hate plane food.</p><p><strong>Speaker 2:</strong> I'm afraid it'll be closed by then, Mr Griffin. Can I organise some snacks to be left in your room? A burger, fries, sandwiches?</p><p><strong>Speaker 3:</strong> Yes, that would be great. How about a cheese sandwich with fries?</p><p><strong>Speaker 2:</strong> No problem, sir. I'll see to that. Oh, the fries might be cold when you get in.</p><p><strong>Speaker 3:</strong> Yes, just the sandwich then.</p><p><strong>Speaker 2:</strong> No problem. Anything else, Mr Griffin?</p><p><strong>Speaker 3:</strong> No, that's all. Thank you.</p><p><strong>Speaker 2:</strong> See you tonight.</p><p><strong>Speaker 3:</strong> See you tonight, Mr Griffin. Goodbye.</p><p><strong>Speaker 2:</strong> Goodbye.</p>"
+}

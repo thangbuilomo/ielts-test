@@ -1,0 +1,1019 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Exercise - Saola</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/saola-base.css">
+  <link rel="stylesheet" href="../mock/assets/css/test-engine.css">
+  <style>
+    body { background: #f8fafc; color: #0f172a; }
+    .runner-header {
+      background: #fff;
+      border-bottom: 1px solid #e2e8f0;
+      padding: 14px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    .runner-title-row { display: flex; align-items: center; gap: 16px; min-width: 0; }
+    .runner-actions { display: flex; align-items: center; gap: 12px; }
+    .runner-container { max-width: 1160px; margin: 24px auto; padding: 0 20px; }
+    .question-box {
+      background: #fff;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(15,23,42,0.05);
+      margin-bottom: 24px;
+      font-size: 16px;
+      line-height: 1.65;
+      overflow: hidden;
+    }
+    .group-instruction {
+      font-weight: 700;
+      color: #1e3a8a;
+      margin: 0 0 16px;
+      padding: 12px 16px;
+      background: #eff6ff;
+      border-left: 4px solid #3b82f6;
+      border-radius: 4px;
+    }
+    .options-box {
+      border: 1px solid #cbd5e1;
+      padding: 16px 20px;
+      border-radius: 8px;
+      background: #f8fafc;
+      margin-bottom: 24px;
+      line-height: 1.8;
+    }
+    .options-box p {
+      margin: 8px 0;
+    }
+    .options-box p:first-child { margin-top: 0; }
+    .audio-player { width: 100%; margin-bottom: 18px; }
+    .question-group { margin-bottom: 28px; border-bottom: 1px solid #e2e8f0; padding-bottom: 22px; }
+    .question-group:last-child { border-bottom: 0; margin-bottom: 0; }
+    .group-instruction {
+      font-weight: 700;
+      color: #1e3a8a;
+      margin: 0 0 16px;
+      padding: 12px 16px;
+      background: #eff6ff;
+      border-left: 4px solid #3b82f6;
+      border-radius: 4px;
+    }
+    .options-box p:last-child { margin-bottom: 0; }
+    .prompt-content { background: #f8fafc; border: 1px solid #e2e8f0; padding: 20px; border-radius: 8px; overflow-x: auto; }
+    .prompt-content table { width: 100%; border-collapse: collapse; margin: 14px 0; background: #fff; }
+    .prompt-content td, .prompt-content th { border: 1px solid #cbd5e1; padding: 8px 10px; vertical-align: top; }
+    .prompt-content td,
+    .prompt-content th,
+    .passage-content td,
+    .passage-content th {
+      overflow-wrap: anywhere;
+    }
+    .prompt-content img,
+    .passage-content img {
+      max-width: 100%;
+      height: auto;
+    }
+    .listening-visual {
+      margin: 0 0 18px;
+    }
+    .table-completion-warning {
+      color: #dc2626;
+      font-weight: 700;
+      margin: -6px 0 16px;
+      padding: 0 16px;
+    }
+    .table-first-col-center td:first-child,
+    .table-first-col-center th:first-child,
+    .table-first-col-center .first-col-center,
+    .first-col-center {
+      text-align: center;
+      vertical-align: middle;
+    }
+    .table-roomy-right td:last-child,
+    .table-roomy-right th:last-child {
+      padding-right: 24px;
+    }
+    .table-roomy-right td:last-child .ex-input,
+    .table-roomy-right th:last-child .ex-input {
+      box-sizing: border-box;
+      max-width: calc(100% - 12px);
+    }
+    .table-merged-label,
+    .table-section-row {
+      text-align: center;
+      vertical-align: middle;
+      font-weight: 700;
+    }
+    .loose-controls { margin-top: 20px; display: grid; gap: 12px; }
+    .loose-control { display: grid; grid-template-columns: minmax(160px, 1fr) minmax(120px, 220px); gap: 12px; align-items: center; }
+    .question-label { color: #334155; }
+    .diagram-labelling-group .loose-controls {
+      margin-top: 12px;
+      gap: 8px;
+      max-width: 420px;
+    }
+    .diagram-labelling-group .loose-control {
+      grid-template-columns: max-content minmax(128px, 210px);
+      justify-content: start;
+      gap: 8px;
+      min-width: 0;
+    }
+    .diagram-labelling-group .question-label {
+      min-width: 82px;
+      font-weight: 700;
+    }
+    .diagram-labelling-group .ex-input,
+    .diagram-labelling-group .ex-select {
+      box-sizing: border-box;
+      width: 170px;
+      max-width: 210px;
+      margin: 0;
+    }
+    .map-labelling-group .loose-controls {
+      margin-top: 14px;
+      gap: 10px;
+      max-width: 520px;
+    }
+    .map-labelling-group .loose-control {
+      grid-template-columns: minmax(190px, max-content) minmax(150px, 190px);
+      justify-content: start;
+      gap: 12px;
+      min-width: 0;
+    }
+    .map-labelling-group .question-label {
+      color: #0f172a;
+    }
+    .map-labelling-group .question-label strong {
+      font-weight: 700;
+      margin-right: 6px;
+    }
+    .map-labelling-group .ex-input,
+    .map-labelling-group .ex-select {
+      box-sizing: border-box;
+      width: 180px;
+      min-width: 150px;
+      max-width: 190px;
+      margin: 0;
+    }
+    .short-answer-row {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px 12px;
+      margin: 14px 0;
+      max-width: 100%;
+      min-width: 0;
+    }
+    .short-answer-row .short-answer-question {
+      display: inline;
+      max-width: 100%;
+      min-width: 0;
+      overflow-wrap: anywhere;
+    }
+    .short-answer-row .short-answer-question strong {
+      margin-right: 6px;
+    }
+    .short-answer-row .ex-input {
+      box-sizing: border-box;
+      width: 190px;
+      max-width: 220px;
+      margin: 0;
+    }
+    .ex-input {
+      border: 1px solid #94a3b8;
+      border-radius: 5px;
+      padding: 7px 9px;
+      margin: 0 4px;
+      font-size: 15px;
+      min-width: 72px;
+      max-width: 260px;
+      background: #fff;
+    }
+    .ex-select { min-width: 190px; max-width: 320px; }
+    .ex-input.is-correct { border-color: #2f9e44; background: #ebfbee; color: #2b8a3e; }
+    .ex-input.is-wrong { border-color: #e03131; background: #fff5f5; color: #c92a2a; }
+    .answer-feedback {
+      margin: 8px 0 12px;
+      padding: 9px 12px;
+      background: #e7f5ff;
+      border-left: 4px solid #339af0;
+      font-size: 14px;
+      border-radius: 4px;
+      min-width: 0;
+      word-wrap: break-word;
+      overflow-wrap: anywhere;
+      max-width: 100%;
+      width: 100%;
+      box-sizing: border-box;
+      white-space: normal;
+    }
+    .loose-control > .answer-feedback,
+    .matching-info-question-row > .answer-feedback,
+    .note-summary-row > .answer-feedback {
+      grid-column: 1 / -1;
+      justify-self: stretch;
+    }
+    .short-answer-row > .answer-feedback {
+      flex: 1 0 100%;
+    }
+    .exercise-message {
+      margin: 0 0 14px;
+      padding: 12px 14px;
+      border: 1px solid #fcc419;
+      background: #fff9db;
+      border-radius: 8px;
+      color: #5f3dc4;
+      font-weight: 700;
+    }
+    .btn-submit {
+      background: #1c7ed6;
+      color: white;
+      border: none;
+      padding: 13px 24px;
+      border-radius: 6px;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      width: 100%;
+    }
+    .btn-submit:hover { background: #1971c2; }
+    .btn-submit:disabled { opacity: 0.65; cursor: wait; }
+    .result-section { display: none; margin-top: 32px; padding-top: 32px; border-top: 2px dashed #dee2e6; }
+    .score-card { background: #e7f5ff; border: 1px solid #74c0fc; padding: 24px; border-radius: 8px; text-align: center; margin-bottom: 24px; }
+    .score-title { font-size: 20px; color: #1864ab; margin-bottom: 8px; font-weight: 800; }
+    .follow-up-box { background: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 24px; text-align: center; }
+    .follow-up-title { font-size: 18px; font-weight: bold; margin-bottom: 16px; }
+    .follow-up-buttons { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+    .btn-followup { display: inline-flex; align-items: center; gap: 8px; background: #fff; border: 1px solid #ced4da; padding: 10px 20px; border-radius: 20px; color: #495057; text-decoration: none; font-weight: 500; transition: all 0.2s; }
+    .btn-followup:hover { background: #f1f3f5; border-color: #adb5bd; }
+    .exercise-practice-page .runner-header {
+      position: static;
+      height: 70px;
+      padding: 0 24px;
+      flex-shrink: 0;
+    }
+    .exercise-practice-page .runner-title-row h2 {
+      max-width: min(46vw, 620px);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-family: var(--display-font);
+      font-size: 1.2rem;
+    }
+    .listening-exercise-page .runner-container {
+      flex: 1 1 auto;
+      min-height: 0;
+      width: 100%;
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 24px 20px 88px;
+      overflow-y: auto;
+    }
+    .listening-exercise-page .audio-player {
+      display: block;
+      margin: 0 0 18px;
+      border-radius: 8px;
+      background: #fff;
+    }
+    .listening-exercise-page .question-box {
+      border: 0;
+      border-radius: 0;
+      box-shadow: none;
+      margin: 0;
+      padding: 0;
+      overflow: visible;
+      background: transparent;
+    }
+    .listening-exercise-page .question-group {
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      margin-bottom: 24px;
+      padding: 0;
+      background: #fff;
+      overflow: hidden;
+    }
+    .listening-exercise-page .group-instruction {
+      margin: 0;
+      padding: 14px 18px;
+      background: rgba(37, 99, 235, 0.08);
+      border-left: 4px solid var(--accent-color);
+      color: #1e3a8a;
+    }
+    .listening-exercise-page .prompt-content {
+      border: 0;
+      border-radius: 0;
+      background: #fff;
+      padding: 18px 24px 22px;
+    }
+    .listening-exercise-page .result-section {
+      margin: 0 0 18px;
+      padding: 0;
+      border: 0;
+    }
+    .listening-exercise-page .score-card {
+      padding: 18px 20px;
+      margin-bottom: 16px;
+      text-align: left;
+    }
+    .transcript-box,
+    .transcript-box * {
+      max-width: 100%;
+      overflow-wrap: anywhere;
+    }
+    .reading-exercise-page .runner-header {
+      position: static;
+      height: 70px;
+      padding: 0 24px;
+      flex-shrink: 0;
+    }
+    .reading-exercise-page .runner-title-row h2 {
+      max-width: min(46vw, 620px);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-family: var(--display-font);
+      font-size: 1.2rem;
+    }
+    .reading-exercise-page .runner-container {
+      flex: 1 1 auto;
+      display: flex;
+      flex-direction: column;
+      min-height: 0;
+      width: 100%;
+      max-width: none;
+      margin: 0;
+      padding: 0;
+    }
+    .reading-exercise-page .question-box {
+      border: 0;
+      border-radius: 0;
+      box-shadow: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      flex: 1 1 auto;
+      min-height: 0;
+    }
+    .reading-exercise-page .question-group {
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      margin-bottom: 24px;
+      padding: 0;
+      background: #fff;
+      overflow: hidden;
+    }
+    .reading-exercise-page .group-instruction {
+      margin: 0;
+      padding: 14px 18px;
+      background: rgba(37, 99, 235, 0.08);
+      border-left: 4px solid var(--accent-color);
+      color: #1e3a8a;
+    }
+    .reading-exercise-page .prompt-content {
+      border: 0;
+      border-radius: 0;
+      background: #fff;
+      padding: 18px 24px 22px;
+    }
+    .reading-exercise-page .loose-control {
+      grid-template-columns: minmax(180px, 1fr) minmax(120px, 230px);
+      padding: 9px 0;
+      border-top: 1px solid #eef2f7;
+    }
+    .reading-exercise-page .ex-input {
+      min-height: 34px;
+      border-color: #cbd5e1;
+      font: inherit;
+    }
+    .mcq-rendered-list {
+      display: grid;
+      gap: 18px;
+    }
+    .mcq-intro {
+      margin-bottom: 18px;
+      color: #0f172a;
+    }
+    .mcq-intro p {
+      margin: 0 0 10px;
+    }
+    .mcq-question-card {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      background: #ffffff;
+      padding: 16px;
+      scroll-margin-top: 92px;
+    }
+    .mcq-question-title {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      color: #0f172a;
+      font-weight: 800;
+      line-height: 1.45;
+      margin-bottom: 12px;
+    }
+    .mcq-options-list {
+      display: grid;
+      gap: 8px;
+    }
+    .mcq-choice {
+      display: grid;
+      grid-template-columns: 18px 32px 1fr;
+      align-items: start;
+      gap: 10px;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      background: #f8fafc;
+      padding: 10px 12px;
+      cursor: pointer;
+      line-height: 1.45;
+    }
+    .mcq-choice:hover {
+      border-color: #93c5fd;
+      background: #eff6ff;
+    }
+    .mcq-choice input {
+      margin-top: 3px;
+    }
+    .mcq-choice-label {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 28px;
+      height: 24px;
+      border-radius: 6px;
+      background: #dbeafe;
+      color: #1d4ed8;
+      font-weight: 900;
+    }
+    .mcq-choice-text {
+      min-width: 0;
+      color: #0f172a;
+    }
+    .mcq-slot-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 0 0 12px;
+    }
+    .mcq-slot {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      border: 1px solid #bfdbfe;
+      border-radius: 8px;
+      background: #eff6ff;
+      padding: 6px 8px;
+      font-weight: 800;
+      color: #1e3a8a;
+    }
+    .mcq-slot.is-correct,
+    .mcq-question-card.is-correct {
+      border-color: #86efac;
+      background: #f0fdf4;
+    }
+    .mcq-slot.is-wrong,
+    .mcq-question-card.is-wrong {
+      border-color: #fecaca;
+      background: #fff5f5;
+    }
+    .mcq-slot-value {
+      min-width: 18px;
+      text-align: center;
+    }
+    .matching-info-prompt h1 {
+      margin: 0 0 16px;
+      font-size: 1.35rem;
+      line-height: 1.25;
+      color: #0f172a;
+      text-transform: none;
+    }
+    .matching-info-prompt p {
+      margin: 0 0 10px;
+    }
+    .matching-info-option-bank {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 9px 14px;
+      margin: 16px 0 20px;
+      padding: 14px;
+      border: 1px solid #bfdbfe;
+      border-radius: 8px;
+      background: #eff6ff;
+    }
+    .matching-info-option {
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      min-width: 0;
+      line-height: 1.35;
+    }
+    .matching-info-option-label {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex: 0 0 auto;
+      width: 26px;
+      min-height: 24px;
+      border-radius: 6px;
+      background: #2563eb;
+      color: #fff;
+      font-weight: 900;
+      font-size: 0.88rem;
+    }
+    .matching-info-option-text {
+      min-width: 0;
+      overflow-wrap: anywhere;
+    }
+    .matching-info-row-heading {
+      margin: 10px 0 8px;
+      color: #0f172a;
+      font-weight: 800;
+    }
+    .matching-info-question-list {
+      display: grid;
+      gap: 10px;
+      margin-top: 8px;
+    }
+    .matching-info-question-row {
+      display: grid;
+      grid-template-columns: minmax(150px, 230px) minmax(0, 1fr);
+      gap: 12px;
+      align-items: center;
+      padding: 10px 0;
+      border-top: 1px solid #eef2f7;
+    }
+    .matching-info-question-row:first-child {
+      border-top: 0;
+    }
+    .matching-info-question-row .ex-select {
+      width: 100%;
+      max-width: none;
+      margin: 0;
+    }
+    .matching-info-question-text {
+      min-width: 0;
+      overflow-wrap: anywhere;
+      line-height: 1.45;
+    }
+    .note-summary-prompt {
+      color: #0f172a;
+    }
+    .note-summary-prompt h1 {
+      margin: 0 0 12px;
+      font-size: 1.15rem;
+      line-height: 1.3;
+      color: #0f172a;
+    }
+    .note-summary-option-bank {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(142px, 1fr));
+      gap: 8px 12px;
+      margin: 14px 0 18px;
+      padding: 14px;
+      border: 1px solid #bfdbfe;
+      border-radius: 8px;
+      background: #eff6ff;
+    }
+    .note-summary-option {
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      min-width: 0;
+      line-height: 1.35;
+    }
+    .note-summary-option-label {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex: 0 0 auto;
+      width: 26px;
+      min-height: 24px;
+      border-radius: 6px;
+      background: #2563eb;
+      color: #fff;
+      font-weight: 900;
+      font-size: 0.88rem;
+    }
+    .note-summary-option-text {
+      min-width: 0;
+      overflow-wrap: anywhere;
+    }
+    .note-summary-layout {
+      display: grid;
+      gap: 6px;
+      margin: 14px 0;
+      padding: 12px 0;
+      border-top: 1px solid #e2e8f0;
+      border-bottom: 1px solid #e2e8f0;
+    }
+    .note-summary-line {
+      min-width: 0;
+      line-height: 1.8;
+    }
+    .note-summary-row {
+      display: grid;
+      grid-template-columns: minmax(120px, 0.36fr) minmax(0, 1fr);
+      gap: 14px;
+      min-width: 0;
+      padding: 8px 0;
+      border-bottom: 1px solid #eef2f7;
+    }
+    .note-summary-row:last-child {
+      border-bottom: 0;
+    }
+    .note-summary-term {
+      min-width: 0;
+      color: #334155;
+      font-weight: 800;
+      overflow-wrap: anywhere;
+    }
+    .note-summary-detail {
+      min-width: 0;
+      overflow-wrap: anywhere;
+    }
+    .reading-exercise-page .result-section {
+      margin: 0 0 22px;
+      padding: 0;
+      border: 0;
+    }
+    .reading-exercise-page .score-card {
+      padding: 18px 20px;
+      margin-bottom: 16px;
+      text-align: left;
+    }
+    .reading-exercise-page .follow-up-box {
+      display: none;
+    }
+    .exercise-practice-page .module-submit-btn {
+      width: auto;
+      min-width: 156px;
+      padding: 10px 18px;
+      margin: 0;
+      border-radius: 8px;
+      font-size: 0.92rem;
+    }
+    .reading-exercise-page .passage-content h1 {
+      font-size: 1rem;
+      color: var(--accent-color);
+      background: #2563eb;
+      color: #fff;
+      display: inline-flex;
+      padding: 8px 18px;
+      border-radius: 6px;
+      margin: 0 0 28px;
+    }
+    .reading-exercise-page .passage-content h2 {
+      font-size: 1.85rem;
+      margin-top: 0;
+    }
+    .reading-exercise-page .passage-content table,
+    .reading-exercise-page .prompt-content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 14px 0;
+      background: #fff;
+    }
+    .reading-exercise-page .passage-content td,
+    .reading-exercise-page .passage-content th,
+    .reading-exercise-page .prompt-content td,
+    .reading-exercise-page .prompt-content th {
+      border: 1px solid #cbd5e1;
+      padding: 9px 11px;
+      vertical-align: top;
+    }
+    .nav-questions {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      width: 100%;
+    }
+    .navigation-bar {
+      position: sticky;
+      bottom: 0;
+      height: auto;
+      min-height: 54px;
+      padding: 12px 24px;
+      box-shadow: 0 -2px 10px rgba(0,0,0,0.05);
+    }
+    @media (max-width: 900px) {
+      .runner-header { flex-wrap: wrap; padding: 12px 16px; gap: 12px; align-items: center; }
+      .runner-container {
+        box-sizing: border-box;
+        width: 100%;
+        max-width: 100%;
+        padding: 0 20px;
+      }
+      .question-box,
+      .prompt-content {
+        box-sizing: border-box;
+        max-width: 100%;
+      }
+      .runner-title-row { flex: 1; min-width: 0; }
+      .runner-logo { 
+        position: static !important; 
+        transform: none !important; 
+        width: 100%; 
+        display: flex !important;
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+        justify-content: space-between !important; 
+        align-items: center !important;
+        order: 3; 
+        margin-top: 4px;
+        gap: 8px !important;
+      }
+      .mobile-scroll-hidden {
+        display: none !important;
+      }
+      .header-nav-btn {
+        font-size: 12px !important;
+        padding: 4px 8px !important;
+        white-space: nowrap !important;
+      }
+      .runner-actions { order: 2; }
+      #back-link { display: none !important; }
+      #ex-title { font-size: 15px !important; white-space: normal; }
+      .loose-control { grid-template-columns: 1fr; }
+      .diagram-labelling-group .loose-controls {
+        max-width: 300px;
+        gap: 8px;
+      }
+      .diagram-labelling-group .loose-control {
+        grid-template-columns: max-content minmax(128px, 180px);
+        gap: 8px;
+      }
+      .diagram-labelling-group .ex-input,
+      .diagram-labelling-group .ex-select {
+        width: 180px;
+        max-width: 100%;
+      }
+      .map-labelling-group .loose-controls {
+        max-width: 320px;
+        gap: 12px;
+      }
+      .map-labelling-group .loose-control {
+        grid-template-columns: 1fr;
+        gap: 6px;
+        align-items: start;
+      }
+      .map-labelling-group .ex-input,
+      .map-labelling-group .ex-select {
+        width: 100%;
+        min-width: 0;
+        max-width: 260px;
+      }
+      .short-answer-row {
+        display: block;
+        width: 100%;
+        max-width: calc(100vw - 84px);
+      }
+      .short-answer-row .short-answer-question {
+        display: block;
+        margin-bottom: 6px;
+        max-width: calc(100vw - 84px);
+      }
+      .short-answer-row .ex-input {
+        width: min(100%, 260px);
+        max-width: 100%;
+      }
+      .exercise-practice-page .runner-header { height: auto; padding: 12px 16px; align-items: center; }
+      .exercise-practice-page .runner-title-row h2 { max-width: 100%; }
+      .listening-exercise-page .runner-container {
+        max-width: none;
+        margin: 0;
+        padding: 16px 16px 72px;
+      }
+      .listening-exercise-page .audio-player {
+        margin-bottom: 14px;
+      }
+      .listening-exercise-page .question-group {
+        margin-bottom: 16px;
+      }
+      .listening-exercise-page .prompt-content {
+        padding: 16px;
+      }
+      .listening-exercise-page .score-card,
+      .reading-exercise-page .score-card {
+        padding: 16px 18px;
+      }
+      
+      /* --- Mobile Portrait Reading Layout --- */
+      .reading-exercise-page .split-container {
+        flex-direction: column !important;
+      }
+      .reading-exercise-page .left-panel {
+        width: 100% !important;
+        height: 45vh !important;
+        flex: 0 0 45vh !important;
+        border-right: none !important;
+        border-bottom: 2px solid var(--border-color);
+        padding: 16px 16px 0 !important;
+      }
+      .reading-exercise-page .resizer {
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        width: 100% !important;
+        height: 18px !important;
+        cursor: row-resize !important;
+        background-color: #f8fafc;
+        border-top: 1px solid #cbd5e1;
+        border-bottom: 1px solid #cbd5e1;
+        z-index: 50;
+        touch-action: none !important;
+      }
+      .reading-exercise-page .resizer::after {
+        content: '';
+        width: 36px;
+        height: 4px;
+        background-color: #94a3b8;
+        border-radius: 4px;
+      }
+      .reading-exercise-page .right-panel {
+        width: 100% !important;
+        height: 45vh !important;
+        flex: 1 1 auto !important;
+        padding: 16px 16px 32px !important;
+        font-size: var(--passage-font-size, 1rem) !important;
+      }
+      
+      .navigation-bar {
+        display: flex !important;
+        flex-direction: row;
+        align-items: center;
+        padding: 8px 12px;
+        gap: 8px;
+        flex-wrap: nowrap;
+        background: #fff;
+        height: auto;
+        min-height: 48px;
+        border-top: 1px solid #e2e8f0;
+      }
+      .nav-questions {
+        flex: 1 1 auto;
+        display: flex;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        gap: 6px;
+        padding-bottom: 2px;
+      }
+      .nav-dot {
+        flex: 0 0 auto;
+        width: 28px !important;
+        height: 28px !important;
+        font-size: 13px !important;
+        min-width: 28px !important;
+        padding: 0 !important;
+      }
+      .exercise-practice-page .btn-submit.module-submit-btn.mobile-nav-submit {
+        flex: 0 0 auto;
+        width: auto !important;
+        min-width: 0 !important;
+        padding: 6px 12px !important;
+        font-size: 13px !important;
+        border-radius: 6px !important;
+        white-space: nowrap;
+        margin: 0;
+        box-shadow: none;
+      }
+      /* -------------------------------------- */
+
+      .matching-info-question-row { grid-template-columns: 1fr; gap: 6px; }
+      .note-summary-row { grid-template-columns: 1fr; gap: 4px; }
+    }
+    @media (max-width: 520px) {
+      .prompt-content > p {
+        max-width: 100%;
+        overflow-wrap: anywhere;
+      }
+      .short-answer-row,
+      .short-answer-row .short-answer-question {
+        max-width: 100%;
+      }
+    }
+    
+    .header-nav-btn { display: inline-block; padding: 4px 12px; background: #f8fafc; color: #475569; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 13px; border: 1px solid #cbd5e1; transition: all 0.2s; visibility: hidden; }
+    .header-nav-btn:hover { background: #f1f5f9; border-color: #94a3b8; color: #0f172a; }
+
+    /* Flowchart Styling */
+    .flowchart-option-bank {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(142px, 1fr));
+      gap: 8px 12px;
+      margin: 14px 0 18px;
+      padding: 14px;
+      border: 1px solid #bfdbfe;
+      border-radius: 8px;
+      background: #eff6ff;
+    }
+    .flowchart-option {
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      min-width: 0;
+      line-height: 1.35;
+    }
+    .flowchart-option-label {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex: 0 0 auto;
+      width: 26px;
+      min-height: 24px;
+      border-radius: 6px;
+      background: #2563eb;
+      color: #fff;
+      font-weight: 900;
+      font-size: 0.88rem;
+    }
+    .flowchart-option-text {
+      min-width: 0;
+      overflow-wrap: anywhere;
+    }
+    .flowchart-box {
+      border: 2px solid #cbd5e1;
+      border-radius: 8px;
+      padding: 24px;
+      background: #f8fafc;
+      margin-top: 20px;
+    }
+    .flowchart-box p {
+      text-align: center;
+      margin: 0 0 10px;
+      font-weight: 500;
+      color: #1e293b;
+    }
+    .flowchart-arrow {
+      text-align: center;
+      font-size: 28px;
+      font-weight: 900;
+      color: #64748b;
+      margin: 8px 0 14px;
+    }
+  </style>
+</head>
+<body>
+  <header class="runner-header" style="position: relative;">
+    <div class="runner-title-row">
+      <a id="back-link" href="index.html" style="text-decoration: none; color: #495057; font-weight: bold;">Back</a>
+      <h2 id="ex-title" style="margin: 0; font-size: 18px;">Loading...</h2>
+    </div>
+    <div class="runner-logo" style="position: absolute; left: 50%; transform: translateX(-50%); display: flex; align-items: center; gap: 16px;">
+      <a id="header-nav-prev" href="#" class="header-nav-btn" title="Previous Exercise">&laquo; Previous Exercise</a>
+      <a href="../index.html" title="Go to IELTS Repo" style="display: block;">
+        <img src="../assets/images/logo icon.png" alt="Saola" style="height: 32px; width: auto; display: block;">
+      </a>
+      <a id="header-nav-next" href="#" class="header-nav-btn" title="Next Exercise">Next Exercise &raquo;</a>
+    </div>
+    <div class="runner-actions">
+      <button class="help-icon-btn" id="openHelpBtn" type="button" title="Help" hidden>?</button>
+      <div id="timer" class="timer-box">00:00</div>
+    </div>
+  </header>
+
+  <main class="runner-container">
+    <audio id="audio-player" class="audio-player" controls style="display:none;"></audio>
+
+    <div id="question-content" class="question-box">
+      <p style="padding: 24px;">Loading questions...</p>
+    </div>
+
+    <button id="btn-submit" class="btn-submit">Submit Answers</button>
+
+    <div id="result-section" class="result-section">
+      <div class="score-card">
+        <div class="score-title">Exercise completed.</div>
+        <p>Review your answers below.</p>
+      </div>
+
+      <div class="follow-up-box">
+        <div class="follow-up-title">Next Steps</div>
+        <div class="follow-up-buttons" id="follow-up-container"></div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="navigation-bar" id="navigationBar"></footer>
+
+  <script>
+    const runParams = new URLSearchParams(window.location.search);
+    const runModule = runParams.get('module') || 'listening';
+    document.getElementById('back-link').href = `index.html?module=${encodeURIComponent(runModule)}`;
+  </script>
+  <script src="../assets/js/saola-auth.js" data-widget="off"></script>
+  <script src="../assets/js/exercise-runner.js"></script>
+</body>
+</html>

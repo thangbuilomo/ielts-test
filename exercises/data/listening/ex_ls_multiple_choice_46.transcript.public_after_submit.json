@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_46",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2046.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. I've heard that there is a lot of mathematics needed, is that right?  </p><p><strong>Speaker 2:</strong> Yes, you really need to have a reasonable grasp of maths because so many modules, such as economics and finance, involve some advanced math skills. We realise that this can cause problems for some students, so we provide free emergency remedial maths courses after usual class hours in the first year in order to help students get their math skills up to scratch.  </p><p><strong>Speaker 1:</strong> Oh good, I might need to take advantage of those. Now, what other support is given to students with their studies?  </p><p><strong>Speaker 2:</strong> There's the Students' Union to start with. The Union can provide you with help and advice on all aspects of student life, including housing, finance, legal issues, sports, safety, health and even diet. They also organise lots of social events such as weekday and weekend parties, trips, societies and the summer ball. It costs £10 a year to join. You don't have to join, but nearly all students do as it offers so much. You cannot participate in any student societies or sports without being a member.  </p><p><strong>Speaker 1:</strong> £10 isn't so much for all that.  </p><p><strong>Speaker 2:</strong> Exactly. You'll also need to get a university ID card from the Student Services building to go to the library. Again, there is a small charge for this ID card for the four years, £3, but it lasts for the duration of your course and it gives you access to all the books, periodicals and databases that the university has. It also grants you access to the computer centre and computer labs around the campus. If you don't have the card, you'll need to pay to use a computer each time that you use one on the university campus.  </p><p><strong>Speaker 1:</strong> Are the computers easily available?  </p><p><strong>Speaker 2:</strong> They usually are, as many students nowadays have their own. However, towards exam times and deadlines, computers can get used a lot as students will work more on the campus. You can book computers in advance though online or at the centre. So if you're organised, there usually isn't a problem.  </p><p><strong>Speaker 1:</strong> Will someone show me how to do everything?  </p><p><strong>Speaker 2:</strong> Oh yes. During the orientation week at the start of the first year, there are introductory talks and tours of the library, computer centre, students' union and sports centre. You'll be given unlimited information at the start, too much to process at the start really. It all falls into place fairly soon though.  </p><p><strong>Speaker 1:</strong> You mentioned the sports centre. What does that offer?  </p><p><strong>Speaker 2:</strong> The usual stuff. There's a large fitness studio with weights and cardiovascular machines. There are also lots of classes in the studio such as yoga, circuit training, pilates, as well as others. There are two large sports halls for indoor football and cricket and other sports. There are four squash courts and ten outside tennis courts. That's not everything, but if you go down there they'll give you a more comprehensive information sheet. You need to pay to join, but it's only £50 a year, so it's not very expensive. You need to be a member of the Students' Union though, as the Students' Union membership gives you insurance for using the sports facilities.  </p><p><strong>Speaker 1:</strong> Finally, I'm around for a few days and I was wondering if I could sit in on a lecture to get a feel for things.  </p><p><strong>Speaker 2:</strong> That shouldn't be a problem. Let's look at the schedule for tomorrow. Here we are. There's a Year 1 accountancy lecture at 10am, a Year 2 economics lecture at 2pm and a Year 4 operations management lecture at 3pm. Which one would you like?  </p><p><strong>Speaker 1:</strong> I'm really interested in operations management, but I have a meeting with the bank regarding a loan tomorrow at half past one and I don't know whether I'll be back in time. I'd better go to the first one at 10.  </p><p><strong>Speaker 2:</strong> That's fine. I'm lecturing that one, so just turn up. The lecture hall is in Building 2, Floor 3, Room 14.  </p><p><strong>Speaker 1:</strong> Let me just make a note of that. Building 3, second floor and Room 14?  </p><p><strong>Speaker 2:</strong> No, you've got the room number right, but it's Building 2, third floor.  </p><p><strong>Speaker 1:</strong> OK, I've got that. Well, thank you very much, Dr Smith. You've certainly been very informative.</p>"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_82",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Người nói đang giải thích điều kiện cần thiết để trở thành thành viên sinh viên của Trung tâm Thể thao. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"must be studying a course at the university, part-time or full-time\", cho thấy rằng sinh viên phải có tình trạng học tập tại trường. Paraphrase quan trọng ở đây là \"full-time or part-time student status\" được diễn đạt là \"must be studying a course\". Không có bẫy trong câu này, vì thông tin rất rõ ràng và trực tiếp. Đáp án này đúng vì nó thể hiện điều kiện tiên quyết để tham gia.",
+      "evidence": "any student who wishes to be a student member of the Wesley University Sports Centre must be studying a course at the university, part-time or full-time"
+    },
+    "q16": {
+      "explanation": "Người nói đang chỉ ra rằng để trở thành thành viên của Trung tâm Thể thao, sinh viên cần phải là thành viên của Liên minh Sinh viên. Thông tin này rất rõ ràng và được nhấn mạnh trong câu. Paraphrase quan trọng là \"proof of being a member\" có thể hiểu là \"must be a member\". Không có bẫy trong câu này, vì thông tin được trình bày một cách trực tiếp. Đáp án này đúng vì nó là một trong những yêu cầu cần thiết để tham gia.",
+      "evidence": "must be a member of the Student's Union."
+    },
+    "q17": {
+      "explanation": "Người nói đang liệt kê các bước cần thiết để hoàn tất quy trình đăng ký thành viên. Thông tin quan trọng là \"fill out the application form\", cho thấy rằng việc điền vào mẫu đơn là cần thiết. Paraphrase quan trọng là \"a completed application form\" được diễn đạt là \"fill out the application form\". Không có bẫy trong câu này, vì thông tin rất rõ ràng. Đáp án này đúng vì nó là một trong những yêu cầu để trở thành thành viên.",
+      "evidence": "You must present your NUS card, fill out the application form, and pay the subscription."
+    },
+    "q18": {
+      "explanation": "Người nói đang mô tả quyền lợi của các thành viên khi có thẻ thành viên. Thông tin quan trọng là \"you have the right to use the facilities at any time that we are open\", cho thấy rằng thành viên có thể truy cập vào các tiện nghi trong giờ mở cửa. Paraphrase quan trọng là \"access is permitted to members\" được diễn đạt là \"you have the right to use\". Không có bẫy trong câu này, vì thông tin rất rõ ràng. Đáp án này đúng vì nó mô tả quyền lợi của thành viên.",
+      "evidence": "Once you have your Sports Centre membership card, you have the right to use the facilities at any time that we are open."
+    },
+    "q19": {
+      "explanation": "Người nói đang nói về phí thay thế thẻ thành viên. Thông tin quan trọng là \"you will be charged a replacement fee of £5\", cho thấy rằng có phí thay thế nhưng không phải trả lại phí thành viên. Paraphrase quan trọng là \"there is no fee for replacement membership cards\" được diễn đạt là \"you will not need to pay the subscription of £15 again\". Bẫy ở đây là có phí thay thế nhưng không phải phí thành viên. Đáp án này đúng vì nó phản ánh chính xác thông tin về phí thay thế.",
+      "evidence": "If you need a replacement card at any time, you will be charged a replacement fee of £5, but you will not need to pay the subscription of £15 again."
+    },
+    "q20": {
+      "explanation": "Người nói đang giải thích cách thức đặt sân thể thao. Thông tin quan trọng là \"you may only do this in person\", cho thấy rằng việc đặt sân chỉ có thể thực hiện trực tiếp tại trung tâm. Paraphrase quan trọng là \"courts can be booked only by going to the centre\" được diễn đạt là \"you may only do this in person\". Không có bẫy trong câu này, vì thông tin rất rõ ràng. Đáp án này đúng vì nó mô tả quy trình đặt sân một cách chính xác.",
+      "evidence": "you may only do this in person, not on the phone."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Now, let me tell you how to become a student member of the Sports Centre. First of all, any student who wishes to be a student member of the Wesley University Sports Centre must be studying a course at the university, part-time or full-time, and be a member of the Student's Union. </p><p><strong>Speaker 1:</strong> So, if you wish to join, you must bring your NUS card with you before we can process your application. You must come to the sports hall reception between 9 a.m. and 3.30 p.m. from Tuesday to Saturday. </p><p><strong>Speaker 1:</strong> The Membership Secretary does not come in on Sundays and Mondays. You must present your NUS card, fill out the application form, and pay the subscription. The student subscription for this year is £15. </p><p><strong>Speaker 1:</strong> There is usually a joining fee of £5 to join a sports centre, but this does not apply to student members. You can pay by cash or cheque, but we don't take credit cards. </p><p><strong>Speaker 1:</strong> You used to have to bring two passport photos of yourself, but we've gone digital now, and we have a camera at reception. Once you have your Sports Centre membership card, you have the right to use the facilities at any time that we are open. </p><p><strong>Speaker 1:</strong> You will need to bring your membership card every time you wish to use the facilities, or you will not be allowed to enter. This is part of our insurance agreement. </p><p><strong>Speaker 1:</strong> If you need a replacement card at any time, you will be charged a replacement fee of £5, but you will not need to pay the subscription of £15 again. </p><p><strong>Speaker 1:</strong> You may book courts for sports such as squash and badminton, but you may only do this in person, not on the phone, and you will need the membership card number on your membership card, so don't forget that card. </p><p><strong>Speaker 1:</strong> We are open seven days a week, though opening times vary. Monday through to Saturday, we are open from 8 a.m. to 10 p.m., and Sunday we are open from 9 a.m. to 6 p.m. </p><p><strong>Speaker 1:</strong> Now, any questions so far?</p>"
+}

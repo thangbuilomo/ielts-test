@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_10",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2010.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 1:</strong> As I said earlier, the first industrial accident relating to the industry in the North Sea happened only days after they discovered the first gas. The SeaGem capsized with the loss of 13 lives. There are regular accidents on all oil rigs around the world, but the North Sea is just such a harsh environment that there always seems to be more there. The most famous accident and the worst disaster in the North Sea was the Piper Alpha disaster of 1988. </p><p><strong>Speaker 2:</strong> Yes, I remember that one on the news when it happened.</p><p><strong>Speaker 1:</strong> Today, the industry is very safety conscious. When you first arrive, you are given a safety tour of the installation, detailing all safety aspects, including fire extinguishers, emergency muster stations, lifeboat stations and emergency procedures. You will be introduced to the rig safety program. Everyone attends weekly safety meetings and daily pre-tour meetings. </p><p><strong>Speaker 1:</strong> The weekly meeting is an in-depth look at industry-wide safety news and other safety-related issues on the rig. The companies share safety information with other companies throughout the industry. This helps to avoid repeated incidents. A fire and boat drill is often held on the same day, which involves a mock fire and a mock abandon the rig exercise. </p><p><strong>Speaker 1:</strong> The pre-tour meeting is usually a description of the work carried out when you are off shift, the work you will be doing, the work others are currently doing that may affect you, and any other relevant issues of the day. </p><p><strong>Speaker 1:</strong> Accidents do still happen, as in every industry. However, statistics show that with the massive improvements in offshore safety procedures, you now have a higher chance of having fatal accidents if you work on a building site than you do when on an oil rig. </p><p><strong>Speaker 1:</strong> Well, that's all from me. I'll add lots of details to...</p>"
+    }
+  ]
+}

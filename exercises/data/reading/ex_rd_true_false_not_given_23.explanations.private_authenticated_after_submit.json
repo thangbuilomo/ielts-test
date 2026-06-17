@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_true_false_not_given_23",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q28": {
+      "explanation": "Câu 28 khớp với thông tin ở đoạn 2. Ý chính trong bài là: \"Many skiers now seek the delights of off-piste skiing on untouched snow through forests, but this pleasure comes at a significant cost to the environment. Young mountain trees have a difficult life, requiring 30 to 50 years to grow a mere four metres. They have a growing season of only three months and have to suffer intense cold, heat, frosts and thaws as well as acid rain, air pollution and viruses.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Many skiers now seek the delights of off-piste skiing on untouched snow through forests, but this pleasure comes at a significant cost to the environment. Young mountain trees have a difficult life, requiring 30 to 50 years to grow a mere four metres. They have a growing season of only three months and have to suffer intense cold, heat, frosts and thaws as well as acid rain, air pollution and viruses._"
+    },
+    "q29": {
+      "explanation": "Câu 29 có một số từ khóa gần với đoạn 2, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"Many skiers now seek the delights of off-piste skiing on untouched snow through forests, but this pleasure comes at a significant cost to the environment. Young mountain trees have a difficult life, requiring 30 to 50 years to grow a mere four metres. They have a growing season of only three months and have to suffer intense cold, heat, frosts and thaws as well as acid rain, air pollution and viruses.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "Many skiers now seek the delights of off-piste skiing on untouched snow through forests, but this pleasure comes at a significant cost to the environment. Young mountain trees have a difficult life, requiring 30 to 50 years to grow a mere four metres. They have a growing season of only three months and have to suffer intense cold, heat, frosts and thaws as well as acid rain, air pollution and viruses._"
+    },
+    "q30": {
+      "explanation": "Câu 30 mâu thuẫn với thông tin ở đoạn 3. Bài nêu: \"Off-piste skiing can also cause damage to fauna; mountain animals unaccustomed to human contact instinctively panic and run so hard to avoid skiers that they weaken themselves in the deep snow. These animals’ instinct is to keep on running, even if exhaustion finally kills them. Supporters of skiing claim that most animals avoid areas with skiers and many resorts say they protect wildlife by fencing off ski slopes and areas of hibernation; however, this fencing requires never-ending care and upkeep, which increase costs.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "Off-piste skiing can also cause damage to fauna; mountain animals unaccustomed to human contact instinctively panic and run so hard to avoid skiers that they weaken themselves in the deep snow. These animals’ instinct is to keep on running, even if exhaustion finally kills them. Supporters of skiing claim that most animals avoid areas with skiers and many resorts say they protect wildlife by fencing off ski slopes and areas of hibernation; however, this fencing requires never-ending care and upkeep, which increase costs._"
+    },
+    "q31": {
+      "explanation": "Câu 31 khớp với thông tin ở đoạn 3. Ý chính trong bài là: \"Supporters of skiing claim that most animals avoid areas with skiers and many resorts say they protect wildlife by fencing off ski slopes and areas of hibernation; however, this fencing requires never-ending care and upkeep, which increase costs. In many resorts, sensitive mountain areas such as breeding and tree plantation zones are simply left undefended against off-piste skiers, as their owners are unwilling to pay to install and maintain the fencing.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Supporters of skiing claim that most animals avoid areas with skiers and many resorts say they protect wildlife by fencing off ski slopes and areas of hibernation; however, this fencing requires never-ending care and upkeep, which increase costs. In many resorts, sensitive mountain areas such as breeding and tree plantation zones are simply left undefended against off-piste skiers, as their owners are unwilling to pay to install and maintain the fencing._"
+    },
+    "q32": {
+      "explanation": "Câu 32 mâu thuẫn với thông tin ở đoạn 4. Bài nêu: \"Given the revenue that resorts earn from skiers, even critics of skiing realise that prohibiting off-piste skiing everywhere is unrealistic. The most effective way ahead is a mixture of compromise and education. Resort developers and forest managers must agree on banning skiing in sensitive areas and utilising less vulnerable areas for resorts.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "Given the revenue that resorts earn from skiers, even critics of skiing realise that prohibiting off-piste skiing everywhere is unrealistic. The most effective way ahead is a mixture of compromise and education. Resort developers and forest managers must agree on banning skiing in sensitive areas and utilising less vulnerable areas for resorts._"
+    }
+  }
+}

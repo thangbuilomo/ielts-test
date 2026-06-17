@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_flow_chart_completion_05",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q24": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 9, bài viết nêu: \"Echoic memory is a sensory memory register which stores sound for a short period after we hear it. Even though it is the longest of the sensory memory registers, most of which hold information for under two seconds, echoic memory only lasts for three or four seconds. If you had to rely on your echoic memory for listening, you might forget what word a person had said by the time your long-term memory was able to recall what it meant.\". Cụm echoic memory khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Echoic memory is a sensory memory register which stores sound for a short period after we hear it. Even though it is the longest of the sensory memory registers, most of which hold information for under two seconds, echoic memory only lasts for three or four seconds. If you had to rely on your echoic memory for listening, you might forget what word a person had said by the time your long-term memory was able to recall what it meant._"
+    },
+    "q25": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 8, bài viết nêu: \"Psychologist Nelson Cowan explains that the short-term memory is used as part of a larger cognitive system which is named \"working memory\". Working memory incorporates the short-term memory along with other cognitive processing mechanisms. It acts as a type of buffer, allowing us time to assimilate information – store it in our long-term memory – before we forget it.\". Cụm buffer khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Psychologist Nelson Cowan explains that the short-term memory is used as part of a larger cognitive system which is named \"working memory\". Working memory incorporates the short-term memory along with other cognitive processing mechanisms. It acts as a type of buffer, allowing us time to assimilate information – store it in our long-term memory – before we forget it._"
+    },
+    "q26": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 9, bài viết nêu: \"Echoic memory is a sensory memory register which stores sound for a short period after we hear it. Even though it is the longest of the sensory memory registers, most of which hold information for under two seconds, echoic memory only lasts for three or four seconds. If you had to rely on your echoic memory for listening, you might forget what word a person had said by the time your long-term memory was able to recall what it meant.\". Cụm long-term memory khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Echoic memory is a sensory memory register which stores sound for a short period after we hear it. Even though it is the longest of the sensory memory registers, most of which hold information for under two seconds, echoic memory only lasts for three or four seconds. If you had to rely on your echoic memory for listening, you might forget what word a person had said by the time your long-term memory was able to recall what it meant._"
+    }
+  }
+}

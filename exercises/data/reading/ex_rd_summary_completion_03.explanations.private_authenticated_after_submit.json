@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_summary_completion_03",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q22": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"Today, nearly every port employs pilots licensed by the government of the country, and the use of their services is compulsory, except for local ships whose master holds a current pilotage exemption for a specific port. Pilots are responsible for the safe conduct and navigation of any ship from the time they assume control from the master after boarding at sea until the vessel is safely moored at the allocated wharf, or vice versa in the case of ships that are leaving a harbour.\". Cụm B khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Today, nearly every port employs pilots licensed by the government of the country, and the use of their services is compulsory, except for local ships whose master holds a current pilotage exemption for a specific port. Pilots are responsible for the safe conduct and navigation of any ship from the time they assume control from the master after boarding at sea until the vessel is safely moored at the allocated wharf, or vice versa in the case of ships that are leaving a harbour._"
+    },
+    "q23": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 5, bài viết nêu: \"Most ships today are built for specific cargoes, such as containers, tankers, roll-on-roll-offs, car carriers, bulk carriers and general purpose ships. As a result of this, their appearance and handling differ considerably. For example, a large loaded tanker would not be much affected by wind, but the pilot would have to commence reducing speed about 10 miles before reaching the berth.\". Cụm E khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Most ships today are built for specific cargoes, such as containers, tankers, roll-on-roll-offs, car carriers, bulk carriers and general purpose ships. As a result of this, their appearance and handling differ considerably. For example, a large loaded tanker would not be much affected by wind, but the pilot would have to commence reducing speed about 10 miles before reaching the berth._"
+    },
+    "q24": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 4, bài viết nêu: \"Shipping is a very high cost industry, with running costs for fuel, maintenance and crews easily averaging US $2,000 per ship per hour for every hour of every day. Consequently, shipping is a 24-hour-a-day industry and pilots need to be available at any time to play their part. In fact, the importance of pilot reliability has led to pilots in Australia being self-employed, which means none is a union member and they are therefore never involved in industrial disputes that could cause delays to shipping.\". Cụm F khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Shipping is a very high cost industry, with running costs for fuel, maintenance and crews easily averaging US $2,000 per ship per hour for every hour of every day. Consequently, shipping is a 24-hour-a-day industry and pilots need to be available at any time to play their part. In fact, the importance of pilot reliability has led to pilots in Australia being self-employed, which means none is a union member and they are therefore never involved in industrial disputes that could cause delays to shipping._"
+    },
+    "q25": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"Today, nearly every port employs pilots licensed by the government of the country, and the use of their services is compulsory, except for local ships whose master holds a current pilotage exemption for a specific port. Pilots are responsible for the safe conduct and navigation of any ship from the time they assume control from the master after boarding at sea until the vessel is safely moored at the allocated wharf, or vice versa in the case of ships that are leaving a harbour.\". Cụm A khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Today, nearly every port employs pilots licensed by the government of the country, and the use of their services is compulsory, except for local ships whose master holds a current pilotage exemption for a specific port. Pilots are responsible for the safe conduct and navigation of any ship from the time they assume control from the master after boarding at sea until the vessel is safely moored at the allocated wharf, or vice versa in the case of ships that are leaving a harbour._"
+    },
+    "q26": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"Today, nearly every port employs pilots licensed by the government of the country, and the use of their services is compulsory, except for local ships whose master holds a current pilotage exemption for a specific port. Pilots are responsible for the safe conduct and navigation of any ship from the time they assume control from the master after boarding at sea until the vessel is safely moored at the allocated wharf, or vice versa in the case of ships that are leaving a harbour.\". Cụm G khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Today, nearly every port employs pilots licensed by the government of the country, and the use of their services is compulsory, except for local ships whose master holds a current pilotage exemption for a specific port. Pilots are responsible for the safe conduct and navigation of any ship from the time they assume control from the master after boarding at sea until the vessel is safely moored at the allocated wharf, or vice versa in the case of ships that are leaving a harbour._"
+    }
+  }
+}

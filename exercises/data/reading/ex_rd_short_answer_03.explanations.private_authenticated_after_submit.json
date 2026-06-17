@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_short_answer_03",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q38": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"The North Atlantic Ocean is saltier and colder than the Pacific. As a result, the warm water of the Great Conveyor Belt evaporates out of the North Atlantic, leaving behind saltier waters which are cooled by the cold continental winds off the northern parts of North America. Salty, cool waters settle to the bottom of the sea, most at a point a few hundred kilometres south of the southern tip of Greenland, producing a whirlpool of falling water that is 5 - 10 miles across.\". Cụm a whirlpool khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The North Atlantic Ocean is saltier and colder than the Pacific. As a result, the warm water of the Great Conveyor Belt evaporates out of the North Atlantic, leaving behind saltier waters which are cooled by the cold continental winds off the northern parts of North America. Salty, cool waters settle to the bottom of the sea, most at a point a few hundred kilometres south of the southern tip of Greenland, producing a whirlpool of falling water that is 5 - 10 miles across._"
+    },
+    "q39": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"The North Atlantic Ocean is saltier and colder than the Pacific. As a result, the warm water of the Great Conveyor Belt evaporates out of the North Atlantic, leaving behind saltier waters which are cooled by the cold continental winds off the northern parts of North America. Salty, cool waters settle to the bottom of the sea, most at a point a few hundred kilometres south of the southern tip of Greenland, producing a whirlpool of falling water that is 5 - 10 miles across.\". Cụm 1000 years khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The North Atlantic Ocean is saltier and colder than the Pacific. As a result, the warm water of the Great Conveyor Belt evaporates out of the North Atlantic, leaving behind saltier waters which are cooled by the cold continental winds off the northern parts of North America. Salty, cool waters settle to the bottom of the sea, most at a point a few hundred kilometres south of the southern tip of Greenland, producing a whirlpool of falling water that is 5 - 10 miles across._"
+    },
+    "q40": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 4, bài viết nêu: \"What brought on this sudden effect was that the warm-water currents of the Great Conveyor Belt had shut down. Once the Gulf Stream was no longer flowing, it only took up to 3 years for the last of the residual heat held in the North Atlantic Ocean to dissipate into the air over Europe, and then there was no more warmth to moderate the northern latitudes. When the summer stopped in the north, the rains stopped around the equator.\". Cụm 3 years khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "What brought on this sudden effect was that the warm-water currents of the Great Conveyor Belt had shut down. Once the Gulf Stream was no longer flowing, it only took up to 3 years for the last of the residual heat held in the North Atlantic Ocean to dissipate into the air over Europe, and then there was no more warmth to moderate the northern latitudes. When the summer stopped in the north, the rains stopped around the equator._"
+    }
+  }
+}

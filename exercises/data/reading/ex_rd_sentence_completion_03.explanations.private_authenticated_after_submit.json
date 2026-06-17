@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_sentence_completion_03",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q8": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"Over the last few decades there has been an enormous increase in the number of salmon farms in countries bordering the North Atlantic. This proliferation is most marked in two countries famous for their salmon, Norway and Scotland, where salmon farming has expanded to become a major industry, and as the number of farmed salmon has exploded, the population of their wild relatives has crashed. The rivers of these countries, which had such great summer runs of fish every season that they used to attract thousands of anglers from all over the world, are now in perilous decline.\". Cụm the rivers khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Over the last few decades there has been an enormous increase in the number of salmon farms in countries bordering the North Atlantic. This proliferation is most marked in two countries famous for their salmon, Norway and Scotland, where salmon farming has expanded to become a major industry, and as the number of farmed salmon has exploded, the population of their wild relatives has crashed. The rivers of these countries, which had such great summer runs of fish every season that they used to attract thousands of anglers from all over the world, are now in perilous decline._"
+    },
+    "q9": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 2, bài viết nêu: \"Environmentalists believe that salmon farming has affected wild salmon and the marine environment in various ways. Firstly, they claim that mass escapes of farmed fish present a grave threat to the gene pool of wild salmon stocks. Escapees breed less successfully than wild salmon, but the young of the escapees, known as “parr”, breed aggressively and can reproduce four times more successfully than their wild counterparts.\". Cụm parr or young khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Environmentalists believe that salmon farming has affected wild salmon and the marine environment in various ways. Firstly, they claim that mass escapes of farmed fish present a grave threat to the gene pool of wild salmon stocks. Escapees breed less successfully than wild salmon, but the young of the escapees, known as “parr”, breed aggressively and can reproduce four times more successfully than their wild counterparts._"
+    },
+    "q10": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"Another difficulty, and one of the most worrying side effects of the salmon farm industry, is that these farms cannot function without vast quantities of tiny sea creatures to turn into food pellets to feed their stock. Lars Tennson of the Norwegian Fishermen’s Association complains that “such huge quantities of small fish are caught by industrial trawlers to be turned into feed for fish farms that wild salmon, and other species, are deprived of the food sources they rely on.”.\". Cụm industrial trawlers khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Another difficulty, and one of the most worrying side effects of the salmon farm industry, is that these farms cannot function without vast quantities of tiny sea creatures to turn into food pellets to feed their stock. Lars Tennson of the Norwegian Fishermen’s Association complains that “such huge quantities of small fish are caught by industrial trawlers to be turned into feed for fish farms that wild salmon, and other species, are deprived of the food sources they rely on.”._"
+    },
+    "q11": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 4, bài viết nêu: \"Fish farms are also being blamed for increasing levels of nitrogen in the ocean. Over the last 2 years there have been 26 effluent leaks involving nitrogen-rich fish droppings. Naturally occurring algae feed on this and grow into large toxic blooms that kill most other marine life.\". Cụm nitrogen khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Fish farms are also being blamed for increasing levels of nitrogen in the ocean. Over the last 2 years there have been 26 effluent leaks involving nitrogen-rich fish droppings. Naturally occurring algae feed on this and grow into large toxic blooms that kill most other marine life._"
+    },
+    "q12": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"A combination of high trawler catches, net fishing at estuaries, sport fishing and poaching have all led to stocks of wild salmon diminishing. The UK government likes to think that the roots of the problem have been addressed through legislation - fishermen, at sea and in estuaries, have been set quotas and many salmon rivers have been closed to fishing. Poachers are more difficult to control but their effect is not as marked as that of professional fishermen.\". Cụm quotas khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "A combination of high trawler catches, net fishing at estuaries, sport fishing and poaching have all led to stocks of wild salmon diminishing. The UK government likes to think that the roots of the problem have been addressed through legislation - fishermen, at sea and in estuaries, have been set quotas and many salmon rivers have been closed to fishing. Poachers are more difficult to control but their effect is not as marked as that of professional fishermen._"
+    },
+    "q13": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 7, bài viết nêu: \"The fate of wild Atlantic salmon is anybody’s guess. Farmers and governments seem unworried, environmentalists fear the worst. Wild Scottish salmon stocks have actually gone up this year, a success which the UK’s fisheries department attributes to their policies.\". Cụm environmentalists khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The fate of wild Atlantic salmon is anybody’s guess. Farmers and governments seem unworried, environmentalists fear the worst. Wild Scottish salmon stocks have actually gone up this year, a success which the UK’s fisheries department attributes to their policies._"
+    }
+  }
+}

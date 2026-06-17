@@ -27,6 +27,9 @@
         <h3 style="margin-top: 0; font-size: 1.1rem; margin-bottom: 12px;">Đăng nhập học viên</h3>
         <input type="email" id="studentEmail" placeholder="Email của bạn" style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #cbd5e1; border-radius: 6px;">
         <input type="password" id="studentPassword" placeholder="Mật khẩu" style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #cbd5e1; border-radius: 6px;">
+        <label style="display: flex; align-items: center; gap: 8px; font-size: 0.9rem; color: #475569; margin-bottom: 10px;">
+          <input type="checkbox" id="rememberLogin" checked> Save login
+        </label>
         <button id="loginBtn" class="start-test-btn" style="margin-bottom: 8px;">Đăng nhập & Bắt đầu</button>
         <div id="loginError" style="color: #ef4444; font-size: 0.9rem; display: none;"></div>
       </div>
@@ -117,6 +120,7 @@
     </div>
   </div>
 
-  <script src="test-runner.js?v=20260609-remote-feedback"></script>
+  <script src="../../assets/js/saola-auth.js" data-widget="off"></script>
+  <script src="test-runner.js?v=20260610-saved-login"></script>
 </body>
 </html>

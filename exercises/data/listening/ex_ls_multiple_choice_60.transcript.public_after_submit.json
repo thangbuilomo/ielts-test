@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_60",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2060.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1 (Sophie):</strong> You now have some time to look at the questions on your screen. Hi Greg, are you ready to get started on this end-of-year psychology project?</p><p><strong>Speaker 2 (Greg):</strong> Hi Sophie, I think so. I spent all yesterday evening doing background reading. We've such a lot to think about today. Anyway, I've got a cup of coffee and a free afternoon. Let's see what we can do.</p><p>Speaker 1 (Sophie): OK, great. So, last time we spoke, if I remember correctly, we decided to look into the psychology of smell.</p><p>Speaker 2 (Greg): Yes, that's right. We both agreed it's a fascinating area, but that we wanted to be 100% confident before talking to Professor Ingram about it. So, are you still happy with this topic?</p><p>Speaker 1 (Sophie): Yes, well, honestly, I just couldn't stop reading about it when I got home. At first, I felt that there'd already been quite a lot of research carried out on the relationship between the olfactory system and the human mind. So I wondered whether perhaps we were in danger of just repeating old experiments. However, I then thought that it's really such a broad area of study that we could just choose a new angle.</p><p>Speaker 2 (Greg): I had a similar feeling. Plus, we can easily move to another approach if Professor Ingram doesn't like this one. Anyway, it seems that the effects of smell on memory and perceptions of physical attraction have been well researched already, but there's been much less study into, for example, its effects on decision-making.</p><p>Speaker 1 (Sophie): Indeed, which is a mystery to me, since it seems to be so relevant and applicable to everyday life. I mean, so much of our life nowadays involves making critical decisions, often within a consumer context. You'd think there would be corporate interest in this kind of study.</p><p>Speaker 2 (Greg): You're absolutely right. Well, that certainly should make us more likely to be approved for funding if we decide to extend the study.</p><p>Speaker 1 (Sophie): True, and if our findings are significant, there will definitely be scope for that. OK, should we get something on paper that we can take to Professor Ingram?</p>"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_information_14",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q28": {
+      "explanation": "Câu 28 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 4 chứa căn cứ: \"Finally, \"sequential bilingualism\" describes what takes place when a person learns a second language after having already established a first one, which is the situation for people who become bilingual as adults. Although many people never achieve sufficient mastery of another language to be described as bilingual themselves, the process leading to sequential bilingualism is the most familiar, since the majority of educated adults have had second language classes at school.\". Lựa chọn C (The statement refers to sequential bilingualism.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Finally, \"sequential bilingualism\" describes what takes place when a person learns a second language after having already established a first one, which is the situation for people who become bilingual as adults. Although many people never achieve sufficient mastery of another language to be described as bilingual themselves, the process leading to sequential bilingualism is the most familiar, since the majority of educated adults have had second language classes at school._"
+    },
+    "q29": {
+      "explanation": "Câu 29 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"Simultaneous acquisition occurs when a child is raised bilingually from birth, or when the second language is introduced before the age of 3. Children learning two languages simultaneously go through the same developmental stages as children learning one language and, while simultaneously bilingual children may frequently start talking slightly later than monolingual children, they still begin producing speech within the normal range. From the very beginning of language learning, simultaneous bilinguals seem to acquire the two separate languages.\". Lựa chọn A (The statement refers to simultaneous bilingualism.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Simultaneous acquisition occurs when a child is raised bilingually from birth, or when the second language is introduced before the age of 3. Children learning two languages simultaneously go through the same developmental stages as children learning one language and, while simultaneously bilingual children may frequently start talking slightly later than monolingual children, they still begin producing speech within the normal range. From the very beginning of language learning, simultaneous bilinguals seem to acquire the two separate languages._"
+    },
+    "q30": {
+      "explanation": "Câu 30 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 3 chứa căn cứ: \"Receptive bilingualism in children occurs when they have high exposure to a second language throughout their lives, but have little opportunity to use it. Another reason may be that a child realises that the community language is more prestigious than the language spoken within his or her household. In that case, the child might choose to speak to his or her parents in the community language only, thereby not developing the ability to speak the parents’ language in spite of understanding it.\". Lựa chọn B (The statement refers to receptive bilingualism.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Receptive bilingualism in children occurs when they have high exposure to a second language throughout their lives, but have little opportunity to use it. Another reason may be that a child realises that the community language is more prestigious than the language spoken within his or her household. In that case, the child might choose to speak to his or her parents in the community language only, thereby not developing the ability to speak the parents’ language in spite of understanding it._"
+    },
+    "q31": {
+      "explanation": "Câu 31 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"This usually happens because a child’s parents have different mother tongues, or because the language their family speaks is not that of the country they are living in. Simultaneous acquisition occurs when a child is raised bilingually from birth, or when the second language is introduced before the age of 3. Children learning two languages simultaneously go through the same developmental stages as children learning one language and, while simultaneously bilingual children may frequently start talking slightly later than monolingual children, they still begin producing speech within the normal range.\". Lựa chọn A (The statement refers to simultaneous bilingualism.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "This usually happens because a child’s parents have different mother tongues, or because the language their family speaks is not that of the country they are living in. Simultaneous acquisition occurs when a child is raised bilingually from birth, or when the second language is introduced before the age of 3. Children learning two languages simultaneously go through the same developmental stages as children learning one language and, while simultaneously bilingual children may frequently start talking slightly later than monolingual children, they still begin producing speech within the normal range._"
+    },
+    "q32": {
+      "explanation": "Câu 32 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 3 chứa căn cứ: \"\"Receptive bilingualism\" describes the situation in which a person is able to understand two languages, but can express themselves in only one. Receptive bilingualism is comparable to, but not the same as, mutual intelligibility. An example of this could be a native Spanish speaker who is able to understand Portuguese and vice-versa due to the high lexical and grammatical similarities between Spanish and Portuguese.\". Lựa chọn B (The statement refers to receptive bilingualism.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "\"Receptive bilingualism\" describes the situation in which a person is able to understand two languages, but can express themselves in only one. Receptive bilingualism is comparable to, but not the same as, mutual intelligibility. An example of this could be a native Spanish speaker who is able to understand Portuguese and vice-versa due to the high lexical and grammatical similarities between Spanish and Portuguese._"
+    }
+  }
+}

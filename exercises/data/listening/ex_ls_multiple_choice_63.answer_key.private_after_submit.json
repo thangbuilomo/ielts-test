@@ -1,0 +1,47 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_ls_multiple_choice_63",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 4,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q11": {
+      "answers": [
+        "A (A cinema)",
+        "A"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "B (A sports centre)",
+        "B"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "A (The rural location)",
+        "A"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "A (Twenty minutes by train)",
+        "A"
+      ]
+    }
+  }
+}

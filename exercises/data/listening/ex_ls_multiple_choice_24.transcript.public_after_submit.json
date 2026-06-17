@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_24",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2024.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. So Cassie, tell us all about Paris.</p><p><strong>Speaker 2:</strong> Well, I start pretty much at the end of the semester. I was hoping to negotiate beginning at the start of September, but they said they wanted me two or three months earlier than that at least. Obviously, we're still at college in June, so early July it'll have to be.</p><p><strong>Speaker 1:</strong> Can't you go in August?</p><p><strong>Speaker 2:</strong> We were supposed to go to Spain together in July.</p><p><strong>Speaker 1:</strong> I'm afraid not. You can come and visit me in Paris instead, though. Where will you live?</p><p><strong>Speaker 2:</strong> I've got some options. I have an old aunt who lives in the Paris suburbs. She's happy to put me up. That will be free, but it might curtail my evening activities a little.</p><p><strong>Speaker 1:</strong> I bet it will. I can rent a flat, too. The company has put me in touch with some estate agents there, and I have the details of loads of flats. There are quite a few near where I'll be working, but it's just so pricey.</p><p><strong>Speaker 1:</strong> Well, Paris is expensive. What about a flat share?</p><p><strong>Speaker 2:</strong> That's possible, too, but obviously you have less privacy. That's quite a choice you'll have to make.</p><p><strong>Speaker 1:</strong> I know. I think I've decided that the most economical choice will win, though. I've not much choice on my budget. How hard will you have to work?</p><p><strong>Speaker 2:</strong> Oh, they will get their money's worth, it seems. I was hoping that it wouldn't be full-time, so I could get to see Paris and the surrounding areas, but it looks like it will be Monday to Friday from 9 to 5 or 8 to 4. Occasionally, if there's a big project on, then I was told that many people turn up for a full day on Saturday, and that will be expected of me when necessary, too.</p><p><strong>Speaker 1:</strong> So what kind of work will you be doing for this furniture company?</p><p><strong>Speaker 2:</strong> Well, as I said, they will be launching a whole new range of products. They've designed a range of home furniture, and I'll be working on the advertising. They've even sent me some pictures so I can get working and show them what I can do.</p><p><strong>Speaker 1:</strong> What pictures have they sent?</p><p><strong>Speaker 2:</strong> There are two. The first is a coffee table.</p><p><strong>Speaker 1:</strong> And you have to write marketing on it?</p><p><strong>Speaker 2:</strong> Well, they want a couple of examples of what I can do. The coffee table is pretty standard. You know, rectangular, four legs and a glass top. It's pretty contemporary and fashionable.</p><p><strong>Speaker 1:</strong> What's the second picture?</p><p><strong>Speaker 2:</strong> The second one is a dining chair. It's a bit more traditional, with a wooden frame, no armrests, and a soft, comfortable cushion. Both the pictures are fairly straightforward, but they want some examples of my work so they can give me advice before I start.</p>"
+    }
+  ]
+}

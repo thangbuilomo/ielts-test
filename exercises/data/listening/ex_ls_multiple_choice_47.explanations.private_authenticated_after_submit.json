@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_47",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q6": {
+      "explanation": "Người nói đang thảo luận về cách di chuyển đến cuộc họp tại Chrysler Street. Mặc dù có đề cập đến việc bắt xe buýt, nhưng câu hỏi yêu cầu tìm hiểu phương tiện di chuyển chính xác mà bà Olson sẽ sử dụng. Thông tin quan trọng giúp tìm ra đáp án là việc bà Olson không muốn gặp rắc rối với việc đỗ xe trong thành phố, và người nói đã gợi ý rằng đi tàu là một lựa chọn tốt. Paraphrase quan trọng ở đây là \"catch a bus\" và \"take a train\". Bẫy có thể là việc người nghe có thể nhầm lẫn giữa xe buýt và tàu, nhưng vì bà Olson đã chọn xe buýt cho chuyến đi này, nên đáp án đúng là A (Train).",
+      "evidence": "What I'd do is catch a bus. There's a stop right outside the hotel, and an M-bus will take you all the way there without any changes."
+    },
+    "q7": {
+      "explanation": "Người nói đang tư vấn cho bà Olson về cách di chuyển đến Lincoln Business Park. Thông tin giúp tìm ra đáp án là việc người nói đã nhấn mạnh rằng đi bộ không xa nhưng nếu bà Olson không có nhiều thời gian, taxi sẽ là lựa chọn tốt nhất. Paraphrase quan trọng là \"best bet would be to get a taxi\". Bẫy có thể là việc người nghe có thể nghĩ rằng đi bộ hoặc xe buýt là lựa chọn tốt, nhưng vì thời gian hạn chế, taxi là phương tiện tối ưu. Do đó, đáp án đúng là B (Taxi).",
+      "evidence": "Although it's not really that far by bus or train, you'd have to go into the city and then out again. It's not that far on foot, actually, but if you're lazy, your best bet would be to get a taxi."
+    },
+    "q8": {
+      "explanation": "Người nói đang cung cấp thông tin về chi phí cho chuyến đi bằng taxi đến Lincoln Business Park. Thông tin rõ ràng giúp tìm ra đáp án là câu nói trực tiếp về giá cả. Paraphrase quan trọng là \"cost $15 each way\". Không có bẫy trong câu này vì thông tin rất cụ thể và dễ hiểu. Do đó, đáp án đúng là C ($15).",
+      "evidence": "It would cost $15 each way."
+    },
+    "q9": {
+      "explanation": "Người nói đang mô tả vị trí của khách sạn Greene Hotel và cách di chuyển đến đó. Thông tin giúp tìm ra đáp án là việc người nói đã chỉ rõ rằng xe buýt dừng ngay bên ngoài tòa nhà sân bay. Paraphrase quan trọng là \"right outside the airport building\". Bẫy có thể là việc người nghe có thể nghĩ rằng khách sạn ở xa hơn, nhưng thông tin rõ ràng cho thấy vị trí thuận lợi. Do đó, đáp án đúng là B (Right outside the airport building).",
+      "evidence": "It stops right outside the airport building."
+    },
+    "q10": {
+      "explanation": "Người nói đang trả lời câu hỏi của bà Olson về nơi ăn trưa sau cuộc họp tại Greene Hotel. Thông tin giúp tìm ra đáp án là việc người nói đã xác nhận rằng khách sạn có nhà hàng riêng. Paraphrase quan trọng là \"the Green Hotel itself has a restaurant\". Bẫy có thể là việc bà Olson có thể nghĩ đến các lựa chọn khác, nhưng vì người nói đã nhấn mạnh rằng khách sạn có nhà hàng, nên đáp án đúng là B (At the Greene Hotel restaurant).",
+      "evidence": "Otherwise, the Green Hotel itself has a restaurant, of course, and the airport has a variety of places you can eat."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Actually, I wonder if you could help me with one or two things.</p><p><strong>Speaker 1:</strong> Of course, Mrs. Olsen. As I said, I have some meetings in town. Each morning, the meetings are at 9 a.m. The first day, I need to be downtown at Chrysler Street, and the second morning, I need to get to the company based in the Lincoln Business Park. And on my last morning, I need to be at the Green Hotel near the airport. I was wondering what the best way of getting to these different places would be.</p><p><strong>Speaker 2:</strong> I thought about renting a car. </p><p><strong>Speaker 1:</strong> That's certainly one possibility, but the meeting downtown would be tricky with a car because of all the parking restrictions downtown. The hotel here is about a 10-minute walk from the subway station, and you can take a train downtown. Although, to get to the Chrysler Street station, you'll need to change twice. What I'd do is catch a bus. There's a stop right outside the hotel, and an M-bus will take you all the way there without any changes.</p><p><strong>Speaker 2:</strong> That sounds perfect. I don't want to be stuck looking for parking in a strange city. How long would the bus take?</p><p><strong>Speaker 1:</strong> Around 40 minutes.</p><p><strong>Speaker 2:</strong> That's fine. It'll give me some time to go through some papers on the journey. How about the Lincoln Business Park?</p><p><strong>Speaker 1:</strong> That's a bit trickier. There are no links there from near this hotel. Although it's not really that far by bus or train, you'd have to go into the city and then out again. It's not that far on foot, actually, but if you're lazy, your best bet would be to get a taxi. There are always taxis at the hotel, and it would be just a 10-minute ride from here, and you could call one from the offices that you're visiting for your return trip. We have a list of local taxi companies that we can give you.</p><p><strong>Speaker 2:</strong> Walking would be fun, but I'll be short on time, so I think a cab for the second day. How much would a cab be for that journey, do you think?</p><p><strong>Speaker 1:</strong> It would cost $15 each way. </p><p><strong>Speaker 2:</strong> And the last morning and the journey to the Green Hotel?</p><p><strong>Speaker 1:</strong> Will you be flying out of the airport after the meeting?</p><p><strong>Speaker 2:</strong> Yes, just after lunch.</p><p><strong>Speaker 1:</strong> We run a complimentary shuttle bus to the airport every half an hour, and that takes 35 minutes. It stops right outside the airport building. You could check out from here, take your bags with you on the shuttle bus, leave them at the left luggage, and then the Green Hotel is easily accessible, as it's within the airport building itself.</p><p><strong>Speaker 2:</strong> Is there anywhere I can have lunch after my meeting at the Green Hotel?</p><p><strong>Speaker 1:</strong> There's a great Indian restaurant five minutes' walk from the Green Hotel, and that's where I'd go. They can tell you at the hotel which way to walk. Otherwise, the Green Hotel itself has a restaurant, of course, and the airport has a variety of places you can eat.</p><p><strong>Speaker 2:</strong> I think I'll follow your recommendations. Anyway, that's all. Thanks very much for your advice.</p><p><strong>Speaker 1:</strong> You're welcome, Mrs. Olsen.</p>"
+}

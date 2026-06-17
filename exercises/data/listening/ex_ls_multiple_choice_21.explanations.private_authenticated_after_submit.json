@@ -1,0 +1,21 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_21",
+  "module": "listening",
+  "question_count": 1,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q30": {
+      "explanation": "Người nói đang thảo luận về việc gặp nhau vào buổi chiều. Câu hỏi yêu cầu tìm địa điểm mà John và Jane sẽ gặp nhau sau đó trong ngày. Thông tin giúp tìm ra đáp án là câu hỏi của Speaker 1 về việc gặp nhau ở \"economics common room\" vào lúc 3 giờ chiều. Đây là một địa điểm cụ thể mà họ đã thống nhất để gặp nhau. Paraphrase quan trọng ở đây là \"meet up\" được thay thế bằng \"gặp nhau\" và \"economics common room\" là một thuật ngữ cụ thể trong ngữ cảnh học thuật. Bẫy trong câu hỏi này có thể là sự nhầm lẫn giữa các địa điểm khác như \"the economics course office\" và \"the campus cafeteria\", nhưng thông tin rõ ràng từ câu nói của Speaker 1 đã chỉ ra rằng họ sẽ gặp nhau ở \"economics common room\". Vì vậy, đáp án B là chính xác vì đây là địa điểm mà họ đã đồng ý gặp nhau.",
+      "evidence": "How about 3 this afternoon at the economics common room?"
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. If you want to talk about it, I'm going to be at the campus cafeteria at 1:30 for lunch. </p><p><strong>Speaker 2:</strong> I can't then, as I'll be in the sports hall working out. </p><p><strong>Speaker 1:</strong> How about 3 this afternoon at the economics common room? </p><p><strong>Speaker 2:</strong> That seems okay. We'll be right by the economics course office where the questions are, so that'll be convenient for checking up on them. </p><p><strong>Speaker 1:</strong> Okay, see you then. </p><p><strong>Speaker 2:</strong> Bye. </p><p><strong>Speaker 1:</strong> Bye.</p>"
+}

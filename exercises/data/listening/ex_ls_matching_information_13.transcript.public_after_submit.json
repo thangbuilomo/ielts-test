@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_matching_information_13",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MATCHING%20INFORMATION%20TO%20CATEGORIES%2013.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong> (Lorna): So, Lorna, for our smartwatch project, does it make sense for each group member to have one main responsibility? </p><p>Speaker 2 (Max): Definitely. Let's talk about who could do what. If I could choose, I'd like to be in charge of planning what proportion of the budget to allocate to different areas, like research and development, marketing, and that kind of thing.</p><p>Speaker 1 (Lorna): Okay, you'd be good at that. How about you, Max?</p><p>Speaker2 (Max): I think I've got quite a strong spatial intelligence, you know? I can envisage how things would look. So I could draw up some sketches of the smartwatch, how it could look, then get feedback from other people. Definitely. And gradually refine it. Hopefully end up with something that's as stylish and functional as anything on the market.</p><p>Speaker 1 (Lorna): Awesome. What about Jasmine? Where do you think her strengths lie?</p><p>Speaker 2 (Max): Well, she's got a real way with words, hasn't she? </p><p>Speaker 1 (Lorna): Yeah, she's very articulate. </p><p>Speaker 2 (Max): We'd need something saying what this smartwatch does and what makes it special. The words that go with any pictures we might use. Like, if we did a press release, Jasmine could produce the text for that. </p><p>Speaker 1 (Lorna): Okay, I'm sure she'll come up with something persuasive. Great that all of us in the group have different skills, isn't it? Like Dave. He's actually worked in business, hasn't he?</p><p>Speaker 2 (Max): Yeah, I think that's given him a real sense of what consumers actually want. Some smartwatches even have things like... Being able to tell you how many metres above sea level you are. I mean, is that worth spending money on? </p><p>Speaker 1 (Lorna): Anyway, Dave's a good critical thinker. He'll be able to see through which smartwatch functions that we could include are just pointless gimmicks and which are actually potential selling points.</p><p>Speaker 2 (Max): Okay, well, I think we're sorted.</p>"
+    }
+  ]
+}

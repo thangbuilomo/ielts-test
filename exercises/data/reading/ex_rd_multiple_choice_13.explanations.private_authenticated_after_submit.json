@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_13",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q25": {
+      "explanation": "Căn cứ nằm ở đoạn D: \"The most striking visual difference between the blocks found at Göbekli Tepe and those at Stonehenge is the addition of extraordinary bas-reliefs depicting an array of animals – including lions, snakes, foxes, scorpions and wild boars – to the former, although their precise role is not yet known. What is particularly interesting about the construction of the site is that it would have required a far larger gathering of people than had probably ever happened before, all working without the assistance of the wheel or beasts of burden.\". Phương án A (... why it was not built closer to a water supply.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "The most striking visual difference between the blocks found at Göbekli Tepe and those at Stonehenge is the addition of extraordinary bas-reliefs depicting an array of animals – including lions, snakes, foxes, scorpions and wild boars – to the former, although their precise role is not yet known. What is particularly interesting about the construction of the site is that it would have required a far larger gathering of people than had probably ever happened before, all working without the assistance of the wheel or beasts of burden._"
+    },
+    "q26": {
+      "explanation": "Căn cứ nằm ở đoạn E: \"As is to be expected given the mystery of the site and the novelty of its discovery, there has been much disagreement as to its purpose and meaning. Due to the presence of what is believed to be the world's oldest known temple at Göbekli Tepe, some have argued that this site is the earliest known example of a pilgrimage site.\". Phương án A (... what Göbekli Tepe was actually for.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "As is to be expected given the mystery of the site and the novelty of its discovery, there has been much disagreement as to its purpose and meaning. Due to the presence of what is believed to be the world's oldest known temple at Göbekli Tepe, some have argued that this site is the earliest known example of a pilgrimage site._"
+    },
+    "q27": {
+      "explanation": "Căn cứ nằm ở đoạn G: \"A number of his colleagues have queried his assumption about the site's role and that a lack of evidence of houses means that nobody lived at Göbekli Tepe. In addition, archaeologists are increasingly sceptical of the one-size-fits-all scenario to explain the origins of civilisation as having one fundamental trigger. Instead, they suggest that Göbekli Tepe is an example of numerous experiments taking place throughout the area – in agriculture, art, religion, technology, social organisation - that ultimately combined at a later point.\". Phương án B (... people could have lived at Gobekli Tepe.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "A number of his colleagues have queried his assumption about the site's role and that a lack of evidence of houses means that nobody lived at Göbekli Tepe. In addition, archaeologists are increasingly sceptical of the one-size-fits-all scenario to explain the origins of civilisation as having one fundamental trigger. Instead, they suggest that Göbekli Tepe is an example of numerous experiments taking place throughout the area – in agriculture, art, religion, technology, social organisation - that ultimately combined at a later point._"
+    }
+  }
+}

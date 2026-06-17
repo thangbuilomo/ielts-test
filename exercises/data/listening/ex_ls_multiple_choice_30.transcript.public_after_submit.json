@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_30",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2030.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Thank you all for coming to this talk on environmental issues. Today we are examining the interesting problem of how snakes from India are causing environmental problems in the Everglades of Florida in the southern US.</p><p><strong>Speaker 2:</strong> The snakes in question are Burmese pythons. The snakes are native to India and Southeast Asia, but they've established themselves in the wetlands of southern Florida, and one or two have even been spotted in Tennessee, where they're causing havoc with local wildlife. There is even talk of pythons making their way as far as the north of Mexico in the near future, although research has proved this has not yet occurred.</p><p><strong>Speaker 1:</strong> Burmese pythons are, as the name might suggest, not local to the US, but they are a popular pet imported to the US from their native habitat in India and Southeast Asia. Sometimes these pets escape from their owners or are simply let go, especially in Florida, a nexus of the imported wildlife trade and one of the few parts of the US with a climate and landscape to which the pythons can easily adapt.</p><p><strong>Speaker 2:</strong> That's how hundreds or even thousands of Burmese pythons have managed to establish themselves in the Florida Everglades, the vast protected wetlands in southern Florida where they've become a persistent challenge for local officials tasked with protecting endangered wildlife.</p><p><strong>Speaker 3:</strong> Recent studies have suggested just how big a threat the invasive Burmese pythons have become. Burmese pythons are eating machines. An adult snake can grow to nearly 20 feet, and it can eat anything from raccoons to bobcats to deer to alligators, killing its prey by constriction and then swallowing it whole. In the Florida food chain, the Burmese pythons rest at the top. Experts have shown recently that only birds seem to have escaped their attentions.</p><p><strong>Speaker 2:</strong> The same researchers have also recently looked at the distribution of mammals in the Everglades nearly 20 years ago, before Burmese pythons established themselves in the area, and then more recently. They have found a drastic reduction in the number of small mammals that are typically part of a python's diet, and they also discovered that the remaining mammals tend to be most abundant in areas that are either clear of pythons or where the snakes have only recently been spotted.</p><p><strong>Speaker 1:</strong> The evidence is strong enough to suggest that invasive Burmese pythons are causing significant wildlife loss in the Everglades. The indications are that the problem could worsen as the snakes continue to grow in size and numbers.</p><p><strong>Speaker 3:</strong> As a result of complaints by local farmers whose livestock has been affected and by local trappers who are now controlled by stricter legislation, research has now been undertaken. One method that researchers have used to measure the effect that pythons have had on indigenous species is to look at detailed nighttime roadkill surveys of the Everglades between five years ago and today and compare that data with similar roadkill surveys taken between the same year period before that and again the same year period before that.</p><p><strong>Speaker 2:</strong> The researchers found that there was a 99.3 percent decrease in the frequency of raccoon observations and 98.9 percent decrease in the frequency of opossum observations and 87.5 percent decrease in the frequency of bobcat observations and a total failure to detect any previously widespread rabbits. Since all of these animals can serve as a python's dinner and given the fact that the mammals were more common in areas where the pythons hadn't been seen, it's reasonable to infer that the Burmese pythons are affecting the ecology of the Everglades.</p>"
+    }
+  ]
+}

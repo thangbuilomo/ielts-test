@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_11",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q31": {
+      "explanation": "Người nói đang đề cập đến sự thay thế của các loại màn hình TV, cụ thể là màn hình CRT và màn hình LCD. Thông tin giúp tìm ra đáp án là câu nói khẳng định rằng màn hình LCD đã thay thế màn hình CRT, trong khi màn hình plasma không thể làm được điều đó. Paraphrase quan trọng ở đây là \"replaced by\" (thay thế bởi), cho thấy rằng CRT đã bị thay thế bởi công nghệ mới hơn. Bẫy có thể là việc người nghe có thể nhầm lẫn giữa plasma và LCD, nhưng câu nói rõ ràng chỉ ra rằng CRT là loại đã bị thay thế. Vì vậy, đáp án đúng là A.",
+      "evidence": "It never replaced the CRT monitor in the same way that the LCD screen did..."
+    },
+    "q32": {
+      "explanation": "Người nói đang nói về việc sản xuất TV plasma và các quốc gia liên quan. Thông tin cho thấy rằng plasma TV được sản xuất tại Mỹ và châu Âu, vì vậy đáp án là B. Paraphrase quan trọng là \"manufactured in the USA and Europe\" (sản xuất tại Mỹ và châu Âu). Bẫy có thể là những thông tin về CRT, nhưng câu nói rõ ràng chỉ ra rằng plasma TV là loại đã ngừng sản xuất ở những nơi này. Vì vậy, đáp án đúng là B.",
+      "evidence": "the plasma TV industry has seen a sharp decline, with countries like Japan ceasing production in 2010, followed by the USA and Europe a few years later..."
+    },
+    "q33": {
+      "explanation": "Người nói đang nói về lịch sử của màn hình CRT, khẳng định rằng nó đã được sử dụng từ những năm 1930. Thông tin này giúp xác định rằng CRT là loại màn hình đầu tiên được sản xuất. Paraphrase quan trọng là \"first produced in the 1930s\" (được sản xuất lần đầu vào những năm 1930). Không có bẫy trong câu này, vì thông tin rất rõ ràng. Vì vậy, đáp án đúng là A.",
+      "evidence": "CRT stands for cathode ray tube, and it's the screen which has been in use since the 1930s..."
+    },
+    "q34": {
+      "explanation": "Người nói đang nói về khả năng của TV plasma trong việc mở rộng kích thước màn hình, điều này cho thấy plasma TV có các mẫu thương mại với kích thước lớn. Thông tin này giúp xác định rằng plasma là loại có kích thước lớn hơn. Paraphrase quan trọng là \"large screen size\" (kích thước màn hình lớn). Bẫy có thể là sự nhầm lẫn với CRT, nhưng câu nói rõ ràng chỉ ra rằng plasma là loại có khả năng này. Vì vậy, đáp án đúng là B.",
+      "evidence": "allowed TV manufacturers to significantly expand the screen to great dimensions."
+    },
+    "q35": {
+      "explanation": "Người nói đang nói về vấn đề tái chế của màn hình CRT, cho thấy rằng nó khó tái chế do nguy cơ nổ. Thông tin này giúp xác định rằng CRT là loại khó tái chế. Paraphrase quan trọng là \"difficult to recycle\" (khó tái chế). Bẫy có thể là sự nhầm lẫn với plasma, nhưng câu nói rõ ràng chỉ ra rằng CRT là loại gặp khó khăn trong việc tái chế. Vì vậy, đáp án đúng là A.",
+      "evidence": "the CRT's vacuum tube, which carries the risk of exploding if not disposed of carefully. This makes recycling problematic."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Good afternoon everyone, and welcome to our series of lectures on great works of engineering. </p><p><strong>Speaker 1:</strong> Today we'll be talking about the inner workings of the plasma television screen, one of the great inventions of our time. Have you ever looked at your television screen and wondered what is happening to produce those images? The technology behind your TV screen is, for me, even more exciting than the shows you're watching. </p><p><strong>Speaker 1:</strong> Today I will be talking about two main types of screen, the CRT monitor, and most importantly, the plasma TV screen, which is now sadly obsolete. It never replaced the CRT monitor in the same way that the LCD screen did, because despite its clear image and bright colours, consumers were put off by the high cost of the plasma screen, and as such it never achieved more than a 10% market share. </p><p><strong>Speaker 1:</strong> Like the CRT, the plasma TV industry has seen a sharp decline, with countries like Japan ceasing production in 2010, followed by the USA and Europe a few years later, although China still manufactures a small number for the domestic market. CRT production has also completely halted all over the globe. </p><p><strong>Speaker 1:</strong> To understand the plasma TV's success and failure, we need to look at the features of this technology compared with the CRT screen. CRT stands for cathode ray tube, and it's the screen which has been in use since the 1930s, and is still used in outdated equipment today. </p><p><strong>Speaker 1:</strong> By contrast, the idea for the plasma screen, while first described in the 30s, wasn't put into production until the 60s. One of the main issues with CRT monitors that the plasma screen resolved was the size limitation for home use. It wasn't safe to create TVs much bigger than a mere 30 inches before plasma came along and allowed TV manufacturers to significantly expand the screen to great dimensions. </p><p><strong>Speaker 1:</strong> The reason for this limitation lies in the CRT's vacuum tube, which carries the risk of exploding if not disposed of carefully. This makes recycling problematic. Similarly, plasma TVs contain harmful metals such as mercury in their light-emitting cells that can enter the ground and cause damage to local wildlife. As a result, several countries have strict regulations on the disposal of all types of television set.</p>"
+}

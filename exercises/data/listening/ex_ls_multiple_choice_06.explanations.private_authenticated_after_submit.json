@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_06",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Người nói đang cung cấp thông tin về cầu Sydney Harbour, đặc biệt là về các trụ cầu và nguồn gốc của lực lượng lao động. Thông tin giúp tìm ra đáp án là câu nói về chiều cao và chất liệu của các trụ cầu, cũng như việc lực lượng lao động chủ yếu là người Úc. Paraphrase quan trọng ở đây là \"trụ cầu\" và \"lực lượng lao động\". Bẫy có thể là thông tin về chiều dài của cầu, nhưng câu hỏi yêu cầu về trụ cầu và nguồn gốc công nhân. Đáp án đúng vì cả hai thông tin đều được xác nhận trong transcript.",
+      "evidence": "The two pairs of pylons at each end are about 89 metres high and are made of concrete and granite.\" và \"However, the workforce were all Aussie."
+    },
+    "q12": {
+      "explanation": "Người nói đang nói về những bất công xảy ra trong quá trình xây dựng cầu. Thông tin giúp tìm ra đáp án là việc nhiều gia đình bị buộc phải di dời mà không được bồi thường. Paraphrase quan trọng là \"bị buộc phải di dời\" và \"không được bồi thường\". Bẫy có thể là thông tin về tiền lương thấp của công nhân, nhưng không phải là điều mà người nói nhấn mạnh. Đáp án đúng vì nó phản ánh sự bất công rõ ràng mà người dân phải chịu đựng.",
+      "evidence": "the local government demolished 438 homes which were in the way of the approaches and as many as 800 families living there were displaced without compensation."
+    },
+    "q15": {
+      "explanation": "Người nói đang cung cấp thông tin về lịch sử và sự công nhận của cầu Sydney Harbour. Thông tin giúp tìm ra đáp án là năm khánh thành và sự ngưỡng mộ đối với kỹ thuật xây dựng cầu. Paraphrase quan trọng là \"khánh thành\" và \"ngưỡng mộ kỹ thuật\". Bẫy có thể là thông tin về các bài hát, nhưng không phải là điều mà người nói nhấn mạnh. Đáp án đúng vì cả hai thông tin đều được xác nhận trong transcript và phản ánh sự quan trọng của cầu trong lịch sử.",
+      "evidence": "The bridge was opened in 1932\" và \"In the 1930s people admired the engineering of the bridge."
+    },
+    "q16": {
+      "explanation": "Người nói đang cung cấp thông tin về những thành tựu của cầu Sydney Harbour. Thông tin giúp tìm ra đáp án là việc cầu là cầu vòm thép dài nhất thế giới và sự phát hành tem kỷ niệm. Paraphrase quan trọng là \"cầu vòm thép một nhịp\" và \"tem kỷ niệm\". Bẫy có thể là thông tin về các bài hát, nhưng không phải là điều mà người nói nhấn mạnh. Đáp án đúng vì cả hai thông tin đều được xác nhận trong transcript và thể hiện sự nổi bật của cầu trong lịch sử và văn hóa.",
+      "evidence": "When it was opened, it was the longest single span steel arch bridge in the world\" và \"three postage stamps were issued to commemorate the opening of the bridge and these still exist."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. So, what are you going to talk to us about today, George?  </p><p>Speaker 2 (George): Well, for people from New South Wales and particularly Sydney, this will be of great interest, I hope. I'm going to tell you a little about Sydney Harbour Bridge.  </p><p><strong>Speaker 1:</strong> Wow, that'll be so interesting.  </p><p>Speaker 2 (George): I think so. To start with, I'd like to tell you a little about the size of the bridge. The arch span is 503 metres and the weight of the steel arch is 39,000 tonnes. The summit is 134 metres above mean sea level, though it can actually increase by as much as 18 centimetres on hot days as the result of steel expanding in heat. The two pairs of pylons at each end are about 89 metres high and are made of concrete and granite. The steel used for the bridge was largely imported. About 79% came from the United Kingdom, but the rest was Australian made. The granite was quarried in Moruya down the coast and the concrete is also Australian.  </p><p><strong>Speaker 1:</strong> So most of the steel used to make our great bridge actually came from England?  </p><p>Speaker 2 (George): Yes, I'm afraid so. However, the workforce were all Aussie.  </p><p><strong>Speaker 1:</strong> Thank God for that. When was the bridge actually built?  </p><p>Speaker 2 (George): The bridge was opened in 1932, but work first began in 1924 with the construction of the bridge approaches and spans, with two separate teams building the arch on each side working towards each other. The arch was successfully joined on August 19th, 1930. I'm afraid that working practices weren't very fair in those days and the local government demolished 438 homes which were in the way of the approaches and as many as 800 families living there were displaced without compensation. The standards of industrial safety were inadequate too. 16 workers died during its construction, mainly from falling off the bridge.  </p><p><strong>Speaker 1:</strong> I didn't realise that.  </p><p>Speaker 2 (George): Yes, the bridge was formally opened on the 19th of March 1932 by the Premier of New South Wales, Mr Jack Lang. When it was opened, it was the longest single span steel arch bridge in the world and it was one of the greatest engineering masterpieces of its time. Several songs were also composed in advance for the occasion, but these have now been largely lost or forgotten. However, three postage stamps were issued to commemorate the opening of the bridge and these still exist. One of these stamps with a face value of 5 shillings is now worth several hundred dollars.</p>"
+}

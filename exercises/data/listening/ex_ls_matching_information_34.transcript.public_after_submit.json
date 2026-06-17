@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_matching_information_34",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MATCHING%20INFORMATION%20TO%20CATEGORIES%2034.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: This recording is copyright. You'll hear a sales manager giving a talk at the sales launch of an apartment building called Piano Tower. You now have some time to look at the questions on your screen. Now, answer the questions on your screen.</p><p><strong>Speaker 1:</strong> We actually have over 40 apartments for sale, but please believe me when I tell you that each one is unique in its own way. I'd like to tell you about four of them to show you what I mean. </p><p><strong>Speaker 1:</strong> Starting with the keyboard apartment. Internally, there's one large living and sleeping area. This apartment is competitively priced. The whole apartment is unfurnished, so the buyer will be able to choose whatever kitchen and bathroom they want and add their own touch to make it their perfect home. And externally, there's a lovely shaded courtyard, which will be a perfect spot for eating outdoors on those summer evenings.</p><p><strong>Speaker 1:</strong> For anyone looking for a larger property, we have the Brubach, a four-bedroom flat on the top floor. Part of this was originally the director's office, and the windows stretch all the way around the apartment, giving you a fabulous 360-degree panorama over the rooftops of the city. </p><p><strong>Speaker 1:</strong> As I mentioned, the majority of the apartments are unfurnished. However, our next apartment, Sonata Rooms, is different. It's already got everything you'd need, from a gorgeous, fully-fitted kitchen, even with pots and pans, right through to a huge flat-screen TV. It's literally ready to move into.</p><p><strong>Speaker 1:</strong> And finally, the Nyman Flat, which is on the second floor, in the part of the complex closest to the river, which you can actually see out of every single window in this fantastic three-bedroom flat. So even though you're in the heart of the city, it's a great place to just sit back and watch the wildlife.</p><p><strong>Speaker 1:</strong> Anyway, I've got printed brochures with the specifications of each apartment, along with pricing. So if anyone would like to...</p>"
+    }
+  ]
+}

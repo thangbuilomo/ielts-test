@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_59",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q25": {
+      "explanation": "Người nói đang trình bày một thông tin từ một tài liệu chính phủ về tỷ lệ phụ nữ vào giáo dục đại học so với nam giới. Thông tin giúp tìm ra đáp án là con số \"30%\". Paraphrase quan trọng ở đây là \"proportion\" (tỷ lệ) và \"higher\" (cao hơn). Bẫy có thể là việc người nghe có thể nhầm lẫn giữa các con số khác hoặc không chú ý đến từ \"30%\". Đáp án đúng vì nó chính xác phản ánh thông tin được nêu trong tài liệu.",
+      "evidence": "the proportion of women going into higher education was 30% higher than men."
+    },
+    "q26": {
+      "explanation": "Người nói đang nói về khả năng bỏ học của nam sinh so với nữ sinh trong môi trường đại học. Thông tin giúp tìm ra đáp án là cụm từ \"more likely to drop out\". Paraphrase quan trọng là \"drop out\" (bỏ học). Bẫy có thể là người nghe có thể nghĩ đến các thuật ngữ khác liên quan đến việc học nhưng không chính xác. Đáp án đúng vì nó phản ánh chính xác thông tin về tỷ lệ bỏ học của nam giới.",
+      "evidence": "men are more likely to drop out."
+    },
+    "q27": {
+      "explanation": "Người nói đang đề cập đến sự phân bố giới tính trong các môn học tại các trường đại học. Thông tin giúp tìm ra đáp án là cụm từ \"engineering and science\". Paraphrase quan trọng là \"more men in some subjects\" (nhiều nam giới hơn trong một số môn học). Bẫy có thể là người nghe có thể nghĩ rằng có nhiều môn học khác cũng có sự phân bố giới tính khác nhau. Đáp án đúng vì nó cụ thể chỉ ra một trong những môn học mà nam giới chiếm ưu thế.",
+      "evidence": "there are still more men in some subjects, like engineering and science."
+    },
+    "q28": {
+      "explanation": "Người nói đang nói về sự thiếu hụt giáo viên nam trong hệ thống giáo dục và tác động của điều này đến nam sinh. Thông tin giúp tìm ra đáp án là từ \"teachers\". Paraphrase quan trọng là \"less likely to become\" (ít có khả năng trở thành). Bẫy có thể là người nghe có thể nhầm lẫn với các nghề khác trong giáo dục. Đáp án đúng vì nó phản ánh chính xác lý do thiếu hụt vai trò mẫu mực cho nam sinh.",
+      "evidence": "men were much less likely to become teachers."
+    },
+    "q29": {
+      "explanation": "Người nói đang thảo luận về việc không có bằng chứng cho thấy sự khác biệt giữa nam và nữ trong giáo dục có lợi cho phụ nữ theo cách nào đó. Thông tin giúp tìm ra đáp án là từ \"significant\". Paraphrase quan trọng là \"any evidence to suggest that it is significant\" (bất kỳ bằng chứng nào cho thấy điều đó là quan trọng). Bẫy có thể là người nghe có thể nghĩ rằng có bằng chứng nhưng không phải là \"significant\". Đáp án đúng vì nó thể hiện rõ ràng quan điểm của người nói về sự thiếu hụt bằng chứng.",
+      "evidence": "I couldn't find any evidence to suggest that it is significant."
+    },
+    "q30": {
+      "explanation": "Người nói đang nói về sự thay đổi trong phương pháp đánh giá học sinh từ kỳ thi sang bài tập. Thông tin giúp tìm ra đáp án là từ \"exams\". Paraphrase quan trọng là \"tested students with exams\" (kiểm tra học sinh bằng các kỳ thi). Bẫy có thể là người nghe có thể nghĩ rằng có nhiều hình thức đánh giá khác nhau nhưng không phải là \"exams\". Đáp án đúng vì nó phản ánh chính xác sự thay đổi trong phương pháp đánh giá học sinh.",
+      "evidence": "before the 1980s, schools mostly tested students with exams."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1 (Jamie):</strong> This recording is copyright. You will hear two sociology students, Jamie and Alice, discussing texts they have been reading in order to prepare for a seminar on gender and education. You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2 (Alice):</strong> Yes, I tell you what, shall we share some of the main facts and figures we've read, and then we can both take some notes?</p><p>Speaker 1 (Jamie): OK, that sounds like a plan. Well, I guess the most interesting thing I read was a government paper that said the proportion of women going into higher education was 30% higher than men.</p><p>Speaker 2 (Alice): Yeah, that was really shocking, wasn't it? But it's not just the numbers getting into university. I also read a report by the Higher Education Policy Institute that said when at university, men are more likely to drop out, and those who get a degree are less likely to get a high pass.</p><p>Speaker 1 (Jamie): Yes, but we shouldn't overgeneralise here. Women don't dominate in every field. If we took out some really women-dominated degree subjects, like teaching and nursing, then the overall gap would be much smaller. And there are still more men in some subjects, like engineering and science.</p><p>Speaker 2 (Alice): True, but that gap is closing fast. And in all the others, there are more women in nearly every university in the country.</p><p>Speaker 1 (Jamie): The thing I found confusing, though, is I couldn't really identify any causes for this.</p><p>Speaker 2 (Alice): Well, I read one writer who suggested that men were much less likely to become teachers, and as a result, the education system was more in women's favour, meaning men lack role models.</p><p>Speaker 1 (Jamie): Yes, I read that in a few places. It seemed mostly anecdotal, though. I'm not too sure how much of a difference it would really make.</p><p>Speaker 2 (Alice): And anyway, I read quite a bit and I couldn't find any evidence to suggest that it is significant.</p><p>Speaker 1 (Jamie): Me neither. It seems there needs to be more research in that area.</p><p>Speaker 2 (Alice): Another cause that I found said that one possible reason was the change in how students were assessed. You know, before the 1980s, schools mostly tested students with exams, but then they shifted to mostly using coursework, which apparently suits girls better than it does boys.</p><p>Speaker 1 (Jamie): Really? I guess that's true. I mean, I know that I didn't really like doing coursework. Anyway, I'm looking forward to seeing what the professor says in the lecture.</p><p>Speaker 2 (Alice): Yes, me too. His last one was good.</p>"
+}

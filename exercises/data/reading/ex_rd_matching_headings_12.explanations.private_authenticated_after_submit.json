@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_12",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Today the descendants of the original architects and agriculturalists still farm the Doradian highlands, growing many of the same crops, the majority of which remain unknown outside the area. Some of the challenges that faced their forebears, such as erratic rainfall and difficult terrain, still hold, but a lack of support for rural development is the main factor that has reduced this once proud people to barely scraping a livelihood from the land.\". Heading vi (Poverty in the Mountains) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Today the descendants of the original architects and agriculturalists still farm the Doradian highlands, growing many of the same crops, the majority of which remain unknown outside the area. Some of the challenges that faced their forebears, such as erratic rainfall and difficult terrain, still hold, but a lack of support for rural development is the main factor that has reduced this once proud people to barely scraping a livelihood from the land._"
+    },
+    "q2": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The potato is the most important food security crop, and over 4,000 different varieties are known. Other crops include roots and tubers like yacon, oca and maca, and grains such as quinoa at higher altitudes.\". Heading ix (A Land of Plentiful Produce) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The potato is the most important food security crop, and over 4,000 different varieties are known. Other crops include roots and tubers like yacon, oca and maca, and grains such as quinoa at higher altitudes._"
+    },
+    "q3": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Things are rather different for Doradians farming the coastal region to the west of the mountains. Traditionally popular with beach-seeking tourists, the area is desert, with almost no rainfall year round.\". Heading i (Farming next to the Sea) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Things are rather different for Doradians farming the coastal region to the west of the mountains. Traditionally popular with beach-seeking tourists, the area is desert, with almost no rainfall year round._"
+    },
+    "q4": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Meanwhile the population in the coastal region has been increasing rapidly, with more than 50 per cent of Dorado’s population now living in cities in this region. Farmers have diversified to supply these urban markets with products such as meat, but at the same time they have looked outside the country for other lucrative options.\". Heading xi (Production for Cities and Export) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Meanwhile the population in the coastal region has been increasing rapidly, with more than 50 per cent of Dorado’s population now living in cities in this region. Farmers have diversified to supply these urban markets with products such as meat, but at the same time they have looked outside the country for other lucrative options._"
+    },
+    "q5": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Dorado’s third main eco-region comprises the lush eastern slopes of the central mountain range, with their cascading rivers, huge meandering waterways and dense jungle. And here again, life is very different.\". Heading ii (Riches from the Rainforest) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Dorado’s third main eco-region comprises the lush eastern slopes of the central mountain range, with their cascading rivers, huge meandering waterways and dense jungle. And here again, life is very different._"
+    },
+    "q6": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Many Doradian politicians come to power largely on the strength of promises to help the rural poor, but so far the majority of the promised actions have failed to materialise. Doradian farmers depend on legislation passed in the parliament, and they are susceptible to proposed commitments.\". Heading viii (Let Down by the Law-makers) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Many Doradian politicians come to power largely on the strength of promises to help the rural poor, but so far the majority of the promised actions have failed to materialise. Doradian farmers depend on legislation passed in the parliament, and they are susceptible to proposed commitments._"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_08",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2008.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Good morning, madam. Can I help you? </p><p><strong>Speaker 1:</strong> Yes, please. I bought this small TV set here recently and when I got it home, I couldn't get it to work. </p><p><strong>Speaker 2:</strong> Oh, dear. Well, I'd just better take some details for this worksheet and then we'll have a look at it. OK. Here we are. Now, can you give me your name, please? </p><p><strong>Speaker 1:</strong> Philippa Hutton. </p><p><strong>Speaker 2:</strong> Could you spell Hutton, please? </p><p><strong>Speaker 1:</strong> That's H-U-T-T-O-N. </p><p><strong>Speaker 2:</strong> Thank you. And your address? </p><p><strong>Speaker 1:</strong> 13 Glen Avenue, Westley. </p><p><strong>Speaker 2:</strong> Could you spell Glen too, please? </p><p><strong>Speaker 1:</strong> G-L-E-N. </p><p><strong>Speaker 2:</strong> Thanks. Do you know the postcode? </p><p><strong>Speaker 1:</strong> Yes, it's WE58GF. </p><p><strong>Speaker 2:</strong> And what's your phone number? </p><p><strong>Speaker 1:</strong> My home number is 01748 524 965. And my mobile number is 07745 276 145. </p><p><strong>Speaker 2:</strong> OK, got that. Now, did you still have the receipt for the television? </p><p><strong>Speaker 1:</strong> Yes, it's right here. </p><p><strong>Speaker 2:</strong> Let's have a look. Right, so you bought it on the 5th of June. That's two days ago. So, what exactly is wrong with the TV? </p><p><strong>Speaker 1:</strong> Well, I bought it two days ago so I could watch TV while I was cooking for the family. That's why I just bought a nice small one. It could fit on the shelf next to the dining room door. Anyway, when I got it back and plugged it in, there was no response. Nothing at all. No lights, no sound, no buzz. </p><p><strong>Speaker 2:</strong> And there are no electrical problems in that room? </p><p><strong>Speaker 1:</strong> No, nothing.</p>"
+    }
+  ]
+}

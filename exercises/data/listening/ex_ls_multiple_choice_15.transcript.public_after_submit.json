@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_15",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2015.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Let us examine the kinds of events that correlate with solar flares, starting with those that occur within days or weeks of intense solar activity. Riots, battles, arson attacks, earthquakes and volcanic eruptions have been charted within days or weeks of intense solar activity. For example, in 1980, solar flares in May coincided with riots in Miami and South Korea and the eruption of Mount St. Helens in May and June. </p><p><strong>Speaker 3:</strong> Solar flares also preceded the April 1982 conflict between Great Britain and Argentina over the Falkland Islands and the U.S. attack on Tripoli, Libya on April 14, 1986. By tracking solar flares, biologist Marcia Adams was able to assist the San Francisco Fire Department by predicting arson attacks 72 hours in advance. </p><p><strong>Speaker 2:</strong> She believes that flares affect people within the first few days after they happen. Let's look at a specific example. Recently, a slightly less powerful flare erupted while aimed almost directly at the Earth. </p><p><strong>Speaker 3:</strong> Eight minutes later, traveling at the speed of light, a wave of ultraviolet radiation seared the Earth's upper atmosphere. Low orbiting satellites encountering that fringe and running into increased drag slowed and dropped into lower orbits. </p><p><strong>Speaker 2:</strong> A secret Defense Department satellite began a premature and fatal tumble and the tracking system that keeps exact tabs on some 19,000 objects in Earth orbit briefly lost track of 11,000 of them. </p><p><strong>Speaker 3:</strong> Solar Max, which is a NASA satellite designed to study flares and other solar activity, descended by as much as half a mile in a single day, almost certainly hastening its demise. </p><p><strong>Speaker 2:</strong> On the Earth, the flare's effects were equally disruptive. Shortwave transmissions were interrupted, some for as long as 24 hours, and satellite communication and a Coast Guard loran navigation system were temporarily overwhelmed. </p><p><strong>Speaker 3:</strong> Powerful transient magnetic fields generated in the upper atmosphere by the flare induced problems in transmission lines and wiring, and mystified homeowners reported automatic garage doors opening and closing on their own. </p><p><strong>Speaker 2:</strong> Power surges in transmission lines and transformers in Quebec knocked out power throughout the entire province.</p>"
+    }
+  ]
+}

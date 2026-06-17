@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_diagram_labelling_08",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q6": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"Above this was located a machicolated - or slotted - platform allowing for downward fire on attackers who might attempt to enter. The most visually distinctive feature of the Towers were their flat roofs, or terrepleins. Enclosed by a high parapet to protect from enemy fire, these contained a central raised platform on which a large cannon—very occasionally two—would be attached on a pivot, enabling the weapon to be turned and fired in any direction 360 degrees around the tower.\". Cụm pivot khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Above this was located a machicolated - or slotted - platform allowing for downward fire on attackers who might attempt to enter. The most visually distinctive feature of the Towers were their flat roofs, or terrepleins. Enclosed by a high parapet to protect from enemy fire, these contained a central raised platform on which a large cannon—very occasionally two—would be attached on a pivot, enabling the weapon to be turned and fired in any direction 360 degrees around the tower._"
+    },
+    "q7": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"Above this was located a machicolated - or slotted - platform allowing for downward fire on attackers who might attempt to enter. The most visually distinctive feature of the Towers were their flat roofs, or terrepleins. Enclosed by a high parapet to protect from enemy fire, these contained a central raised platform on which a large cannon—very occasionally two—would be attached on a pivot, enabling the weapon to be turned and fired in any direction 360 degrees around the tower.\". Cụm parapet khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Above this was located a machicolated - or slotted - platform allowing for downward fire on attackers who might attempt to enter. The most visually distinctive feature of the Towers were their flat roofs, or terrepleins. Enclosed by a high parapet to protect from enemy fire, these contained a central raised platform on which a large cannon—very occasionally two—would be attached on a pivot, enabling the weapon to be turned and fired in any direction 360 degrees around the tower._"
+    },
+    "q8": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 4, bài viết nêu: \"The interior of the towers normally consisted of two storeys, although local conditions might allow for the addition of a separate basement if feasible. The ground floors generally comprised two storerooms, the larger holding ammunition, the other containing water and provisions. Above this, the first floor was subdivided into several quarters in which the garrison—consisting of one officer and up to 24 men—would live, eat and sleep.\". Cụm quarters khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The interior of the towers normally consisted of two storeys, although local conditions might allow for the addition of a separate basement if feasible. The ground floors generally comprised two storerooms, the larger holding ammunition, the other containing water and provisions. Above this, the first floor was subdivided into several quarters in which the garrison—consisting of one officer and up to 24 men—would live, eat and sleep._"
+    },
+    "q9": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 4, bài viết nêu: \"The interior of the towers normally consisted of two storeys, although local conditions might allow for the addition of a separate basement if feasible. The ground floors generally comprised two storerooms, the larger holding ammunition, the other containing water and provisions. Above this, the first floor was subdivided into several quarters in which the garrison—consisting of one officer and up to 24 men—would live, eat and sleep.\". Cụm ammunition khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The interior of the towers normally consisted of two storeys, although local conditions might allow for the addition of a separate basement if feasible. The ground floors generally comprised two storerooms, the larger holding ammunition, the other containing water and provisions. Above this, the first floor was subdivided into several quarters in which the garrison—consisting of one officer and up to 24 men—would live, eat and sleep._"
+    }
+  }
+}

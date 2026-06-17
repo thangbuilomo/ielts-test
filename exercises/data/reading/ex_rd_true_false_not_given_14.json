@@ -1,0 +1,101 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_true_false_not_given_14",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 6,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "tfng",
+  "category_id": "true_false_not_given",
+  "title": "True False Not Given - Exercise 14",
+  "duration_seconds": 0,
+  "content": {
+    "title": "The Ecological Impact of Fish Farming",
+    "content_html": "<h1>TRUE - FALSE - NOT GIVEN 14</h1>\n<h2>The Ecological Impact of Fish Farming</h2>\n<p>It has been argued by opponents to beef farming that grain-fed cattle were essentially reverse protein factories because they required many more pounds of plant protein to produce a pound of meat. Now there is a similar dynamic in the global fish farming, or aquaculture, industry, especially as it strains to satisfy consumers’ voracious appetite for top-of-the-food-chain carnivorous fish, such as salmon, tuna and shrimp.</p>\n<p>Close to 40 per cent of the seafood we eat nowadays comes from aquaculture; the $78 billion industry has grown 9 per cent a year since 1975, making it the fastest-growing food group, and global demand has doubled since that time. The problem is that it takes a lot of input in the form of other, lesser fish, also known as “reduction” or “trash” fish, to produce the kind of fish we prefer to eat directly. To create one kilogram of high-protein fishmeal, which is fed to farmed fish, it takes 4.5 kilograms of smaller pelagic, or open-ocean, fish, along with fish oil, which also comes from other fish. “Aquaculture’s current heavy reliance on wild fish for feed carries substantial ecological risks,” says Professor Kate Bagila, a leading scholar on the subject at Stanford University’s Center for Environmental Science and Policy. Professor Bagila goes on to say: “... unless the aquaculture industry finds alternatives to using pelagic fish to sustain fish farms, it could end up depleting an essential food source for many other species in the marine food chain.”</p>\n<p>Industry and publicly funded research have significantly mitigated this inefficiency and reduced the percentage of fish and oil content in aqua-feed, replacing the reliance on the smaller pelagic fish with vegetable proteins and oils. “I would say cost, the sustainability of resources, pelagic fisheries and human health concerns have been driving researchers to find replacements for fishmeal and fish oil, and we are doing this to the greatest extent possible,” says Dr Roy Spalding, a fish nutritionist for the Canadian government who works closely with British Columbia’s $450 million salmon industry. Reducing the fish content in feed also reduces the accumulation of polychlorinated biphenyls (PCBs) in farmed fish. PCBs are mixtures of up to 209 individual chemical compounds. Fish absorb PCBs from contaminated sediments and from their food. Spalding, however, insists that this aspect is not relevant any longer in Canada as PCB levels in fish there are some 50 - 70 times below Food and Drug Administration standards. Be that as it may, such advances have been offset by the industry’s explosive growth. In the salmon industry, the largest aquaculture sector, the amount of wild fish required to produce one unit of salmon was reduced 25 per cent between 1997 and 2001, but total industry yield grew by 60 per cent during the same time.</p>\n<p>“The main trouble is that the West’s fish farms have gone straight to the top of the food chain. We are essentially, as some argue, farming tigers when we raise tuna or striped bass or cod, and this has to be the underlying source of all the difficuties that fish farms generate,” says Steve Ellis, a senior researcher with FishWatch, a California-based environmental non-governmental organisation. In contrast, the fish species at the core of the millennia-long tradition of fish-farming in Asia and parts of Africa - catfish, carp and milkfish - actually require less fish input than is ultimately harvested because they are mostly herbivorous. “Ultimately that is really where the solution is; we need to turn our attention to these plant-eating fish and farm them,” continues Ellis. “Whether we are willing to do that is another thing; but that’s the fundamental solution.”</p>\n<p>Environmentalists and industry dispute whether current wild-fish harvesting is done at sustainable levels, but there is no dispute that it is a finite resource, and demand keeps growing. A staggering 37 per cent of all global seafood is now ground into feed, according to recent research from the Washington Fisheries Centre. “One third of that feed goes to China, where 70 per cent of the world’s fish farming takes place,” says Yu Sung, a marine zoologist working for the Chinese government. She adds that: “China now devotes more resources to fish farming than any other country, and nearly 1 million hectares alone of real estate goes to shrimp farms.” And this is the official figure! Yu Sung also points out: “... about 45 per cent of the global production of fishmeal and fish oil goes to the world’s animal livestock industry.”</p>\n<p>Sustainability, however, is a moveable metric - shaped, at least in the US, largely by restaurants, where 70 per cent of seafood consumption occurs. “As chefs, we need to celebrate diversity in the oceans so that we are not relying too heavily on any one species,” states John Holberry, executive chef at Boston’s Ritz restaurant. Sustainability of fish stocks would also be much easier were people simply to eat more fish that live lower down in the food chain. This would mean significant ecological pluses with no real diminution in human health benefits. That calculus may already be helping to recharge the allure of the modest shellfish, including the oyster, which is the target of reseeding campaigns on the US East Coast, where it has been most successful. Not only are oysters, along with other molluscs, good for you, as they are phenomenally high in zinc, they also feed themselves. What we will have to watch for is replacing excess with excess. As Dr Rob Hall of the US Food Group points out: “Mass production of any foodstuff creates collateral effects and a large-scale increase in oyster farming would have to be carefully monitored to control any harmful side effects.”</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_true_false_not_given_14.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_true_false_not_given_14.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "tfng",
+          "skill_tags": [
+            "rd_tfng"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 9 - 14</strong></p>\n<p>Choose <strong>TRUE</strong> if the statement agrees with the information given in the text, choose <strong>FALSE</strong> if the statement contradicts the information, or choose <strong>NOT GIVEN</strong> if there is no information on this.</p>\n<p>9 More than half the sea food that the world eats today comes from farmed sources.</p>\n<p>10 New government legislation has helped the problem of over-dependence of the aquaculture industry on lesser fish.</p>\n<p>11 The key problem with modern western fish farms is that they are aimed at producing fish that prey on other fish.</p>\n<p>12 Traditionally, Asian fish farming has put less pressure on the need for feed sourced from wild fish catches.</p>\n<p>13 China is under pressure to reduce the amount of fish farms that it has.</p>\n<p>14 Oyster farming is criticised because of the oyster’s dangerously high levels of zinc.</p>",
+          "items": [
+            {
+              "question_id": "q9",
+              "number": 9,
+              "prompt_html": "More than half the sea food that the world eats today comes from farmed sources.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q10",
+              "number": 10,
+              "prompt_html": "New government legislation has helped the problem of over-dependence of the aquaculture industry on lesser fish.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q11",
+              "number": 11,
+              "prompt_html": "The key problem with modern western fish farms is that they are aimed at producing fish that prey on other fish.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q12",
+              "number": 12,
+              "prompt_html": "Traditionally, Asian fish farming has put less pressure on the need for feed sourced from wild fish catches.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q13",
+              "number": 13,
+              "prompt_html": "China is under pressure to reduce the amount of fish farms that it has.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q14",
+              "number": 14,
+              "prompt_html": "Oyster farming is criticised because of the oyster’s dangerously high levels of zinc.",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            9,
+            14
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_14",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q27": {
+      "explanation": "Người nói đang thảo luận về lý do tại sao các quốc gia lớn như Trung Quốc, Nga, Ấn Độ và Brazil đang thay đổi cán cân quyền lực kinh tế thế giới. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"raw material prices,\" cho thấy rằng giá nguyên liệu thô là một yếu tố quan trọng trong sự chuyển dịch này. Paraphrase quan trọng ở đây là \"raw materials\" có thể được hiểu là \"nguyên liệu thô.\" Không có bẫy trong câu này vì thông tin được trình bày rõ ràng. Đáp án đúng vì nó trực tiếp liên quan đến lý do được nêu ra trong câu.",
+      "evidence": "the cheap labor and raw material prices which are available in these countries, are causing this shift."
+    },
+    "q28": {
+      "explanation": "Người nói đang đề cập đến nhu cầu ngày càng tăng về việc học ngôn ngữ, đặc biệt là tiếng Anh. Thông tin giúp tìm ra đáp án là cụm từ \"English language training,\" cho thấy rằng từ \"training\" là từ khóa cần thiết để hoàn thành câu. Paraphrase quan trọng là \"training\" có thể được hiểu là \"đào tạo.\" Không có bẫy trong câu này vì thông tin được trình bày một cách trực tiếp và rõ ràng. Đáp án đúng vì nó phản ánh nhu cầu thực tế trong giáo dục ngôn ngữ hiện nay.",
+      "evidence": "the demand for teachers in English language training is also enormously increasing."
+    },
+    "q29": {
+      "explanation": "Người nói đang thảo luận về tương lai của các quốc gia lớn và khả năng Trung Quốc có thể không còn là cường quốc lớn nhất. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"India's population will soon surpass China's,\" cho thấy rằng Ấn Độ có thể trở thành quốc gia quan trọng hơn trong tương lai. Paraphrase quan trọng là \"surpass\" có thể hiểu là \"vượt qua.\" Bẫy ở đây có thể là việc người nghe có thể nghĩ rằng Trung Quốc vẫn sẽ là cường quốc lớn nhất, nhưng thông tin đã chỉ ra rằng Ấn Độ có thể thay đổi điều đó. Đáp án đúng vì nó phản ánh dự đoán của các chuyên gia về sự thay đổi trong cán cân quyền lực.",
+      "evidence": "many experts predict that India's population will soon surpass China's."
+    },
+    "q30": {
+      "explanation": "Người nói đang cung cấp thông tin về số lượng ngôn ngữ trên thế giới hiện nay. Thông tin giúp tìm ra đáp án là cụm từ \"between 2,500 and 7,000,\" cho thấy rằng 7,000 là con số tối đa trong khoảng này. Paraphrase quan trọng là \"estimated\" có thể hiểu là \"ước tính.\" Không có bẫy trong câu này vì thông tin được trình bày rõ ràng và dễ hiểu. Đáp án đúng vì nó phản ánh số lượng ngôn ngữ được nói trên toàn cầu.",
+      "evidence": "The number of spoken languages nowadays is estimated between 2,500 and 7,000."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now, answer the questions on your screen. </p><p><strong>Speaker 1:</strong> The largest countries that for various reasons are beginning to shift world economic power are China, Russia, India, and Brazil. The sizes of the populations, along with the cheap labor and raw material prices which are available in these countries, are causing this shift. </p><p><strong>Speaker 1:</strong> As a result, every year the demand for people knowing the languages of these countries is growing enormously. In addition, the demand for teachers in English language training is also enormously increasing. </p><p><strong>Speaker 1:</strong> Western teachers are going to the countries, and their nationals are coming over here. As well as business, the education sector is getting a huge boost from the opening up of these economies. </p><p><strong>Speaker 1:</strong> So will China be the major powerhouse, as everyone says? Definitely, but maybe not the biggest. For example, many experts predict that India's population will soon surpass China's. </p><p><strong>Speaker 1:</strong> It still points to world economic power being held in Asia, though. English will probably remain important, though. Chinese is difficult to learn, and English also has some official status in India. </p><p><strong>Speaker 1:</strong> English is easy to learn and has the advantage, for better or worse, of being the language that everyone wants to learn. That won't change in a hurry. </p><p><strong>Speaker 1:</strong> How many people learn English, then? The number of spoken languages nowadays is estimated between 2,500 and 7,000. Out of all these languages, the numbers of those actually studied by non-native speakers is tiny. </p><p><strong>Speaker 1:</strong> There are no official records of numbers studying English worldwide, but today you can safely say that there are not many countries with a structured program of education where English is not taught. </p><p><strong>Speaker 1:</strong> It will take a long time for this habit to be broken. At the moment, it's getting stronger.</p>"
+}

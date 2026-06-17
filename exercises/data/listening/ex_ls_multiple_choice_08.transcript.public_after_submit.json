@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_08",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2008.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 1:</strong> In this short talk, I'm going to go through some of the things you ought to know about life in the hall. I will also go through some rules, so that we can all live together in a satisfactory way for the whole year.</p><p><strong>Speaker 1:</strong> First of all, I would like to go through the eating arrangements. Charleston Hall offers full board accommodation, so there will be breakfast and dinner every day, with lunch also available at weekends. You are not obliged to go to the meals, but they will be there if you wish to take advantage of them. In fact, it would be a waste of money not to, as you're paying for the food in your hall fees.</p><p><strong>Speaker 1:</strong> The times of the meals are as follows. Breakfast is served from 7 a.m. to 8.30 a.m. every day, though these times are an hour later at weekends. Dinner is served at 6.30 p.m. to 7.45 p.m. seven days a week. On Saturday and Sunday, lunch is served at 12.30 p.m. to 1.45 p.m. If you're late, then you will not get any food. Once the hatches are closed in the dining hall, they stay closed.</p><p><strong>Speaker 1:</strong> The dining hall is cafeteria style service, and there's always a selection of food for vegetarians. If there are a lot of people at the dining hall, then please queue up in an orderly manner and wait your turn. Please do not push into the queue.</p><p><strong>Speaker 1:</strong> At the end of your meal, please take your tray over to the side tables and put your dirty plates and utensils in the appropriate places. We do have kitchen staff, but they're not your servants, and we expect you to take your own dishes and cutlery off the table. Rudeness and incivility to the staff will also not be tolerated.</p><p><strong>Speaker 1:</strong> Each evening after dinner, there will be coffee and tea available in the common room until 9.30. Again, please don't leave cups lying around, but put the dirty ones back on the trays provided. The coffee service will be discontinued if the common room becomes an untidy tip.</p><p><strong>Speaker 1:</strong> Other facilities that we have here on site are a TV room and a self-service laundry. The TV room has one set, which can receive the regular channels, but no satellite channels.</p><p><strong>Speaker 1:</strong> The laundry room has eight washing machines and eight dryers. These are all coin operated. You will need one pound in 250 pence pieces for one wash. The dryers take 20 pence pieces and will run for 15 minutes on one 20 pence piece.</p><p><strong>Speaker 1:</strong> We recommend that you buy a box of washing detergent at the local supermarket, but you can buy individual packets of washing powder from a vending machine, providing it hasn't run out. One individual box from the machine is good for one wash.</p>"
+    }
+  ]
+}

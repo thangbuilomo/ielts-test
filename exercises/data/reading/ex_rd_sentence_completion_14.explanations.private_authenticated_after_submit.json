@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_sentence_completion_14",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q14": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 2, bài viết nêu: \"The island’s oldest rocks are the Lewisian gneisses of the Sleat Peninsula, formed underground 2.8 billion years ago from a variety of even older rocks. These were forced to the surface about 1.1 billion years ago before being buried by several thousand metres of gritty and pebbly sandstones from fast-flowing rivers. Looking down upon the island from above, large extinct volcanoes - now much eroded - can be seen forcing their way through the centre of this ancient mass, forming the island’s lofty Cuillin hills.\". Cụm 1.1 billion years khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The island’s oldest rocks are the Lewisian gneisses of the Sleat Peninsula, formed underground 2.8 billion years ago from a variety of even older rocks. These were forced to the surface about 1.1 billion years ago before being buried by several thousand metres of gritty and pebbly sandstones from fast-flowing rivers. Looking down upon the island from above, large extinct volcanoes - now much eroded - can be seen forcing their way through the centre of this ancient mass, forming the island’s lofty Cuillin hills._"
+    },
+    "q15": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"This, combined with the island’s position on the exposed west coast of Britain, notable for its above-average rainfall, resulted in extremely boggy terrain. Plants attracted to the resulting acidic conditions - such as sedges and lichens - began to colonise the landscape, followed by scattered alpines and a variety of rare plants including butterwort, notable for its unusual method of trapping and consuming insects on its sticky leaves.\". Cụm butterwort khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "This, combined with the island’s position on the exposed west coast of Britain, notable for its above-average rainfall, resulted in extremely boggy terrain. Plants attracted to the resulting acidic conditions - such as sedges and lichens - began to colonise the landscape, followed by scattered alpines and a variety of rare plants including butterwort, notable for its unusual method of trapping and consuming insects on its sticky leaves._"
+    },
+    "q16": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"These prove ineffective against larger herbivores though, including the aforementioned deer who feed indiscriminately. Interestingly, perhaps due to the red deer’s dominance, there are relatively few other established land mammal populations on the island. However, with the recent opening of the Skye Bridge, connecting the island to the mainland, further species - most notably pine martens, elusive woodland creatures similar to large weasels - have also arrived and settled permanently.\". Cụm skye bridge khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "These prove ineffective against larger herbivores though, including the aforementioned deer who feed indiscriminately. Interestingly, perhaps due to the red deer’s dominance, there are relatively few other established land mammal populations on the island. However, with the recent opening of the Skye Bridge, connecting the island to the mainland, further species - most notably pine martens, elusive woodland creatures similar to large weasels - have also arrived and settled permanently._"
+    }
+  }
+}

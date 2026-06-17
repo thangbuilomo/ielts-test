@@ -1,0 +1,89 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_true_false_not_given_37",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 4,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "tfng",
+  "category_id": "true_false_not_given",
+  "title": "True False Not Given - Exercise 37",
+  "duration_seconds": 0,
+  "content": {
+    "title": "TO BEE OR NOT TO BEE?",
+    "content_html": "<h1>TRUE - FALSE - NOT GIVEN 37</h1>\n<h2>TO BEE OR NOT TO BEE?</h2>\n<p>The European honey bee is one of the most common bee species worldwide. Not only does it produce honey, it is also one of nature's most prolific pollinators. It is the single most important for agriculture due to its role in the growth of as much as a third of crops, although other bee species - around 250 in the UK and over 4000 in the US - also play their part in this process. Over recent years, however, reports of declining bee populations have increased, leaving concern surrounding the future of this incredibly important insect and its continuing role in providing the food we eat.</p>\n<p>The European honey bee is thought to have originated in Africa or Asia, from where it spread throughout the Middle East and Europe and, with human assistance, is today present in every continent excluding Antarctica. Able to adapt to geographical surroundings and seasonal changes, the honey bee, unlike other species, benefits from perennial colonies that reproduce through the process of 'swarming'. During this process, up to half a colony's members will separate with the existing queen, leaving a successor behind to continue her work. Scout bees then search out a suitable location and the separated cluster relocates, forming a new colony. </p>\n<p>Domestication of the species dates back as far as Ancient Egypt, evidenced in its depiction in tomb paintings. Today it remains one of the only insect species to be farmed, and is primarily chosen due to its honey-making virtues, its usefulness in pollination, and resistance to cold weather and disease. However, beekeepers sounded the alarm for the first time in 2006 reporting declining populations and abandoned hives, resulting in the terming of the syndrome known as Colony Collapse Disorder (CCD). The New York based National Resource Defense Council (NRDC) estimate that nearly one third of North America's bees have simply vanished since then, sending numbers plummeting to a fifty-year low. Additionally, the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), established under the UN in 2012, states that bees and butterflies are 'declining in abundance' across mainly Northwest Europe and North America, though other regions of the world are not escaping unscathed, and warns of the importance of protecting these species to ensure stable fruit and vegetable production, especially faced with a future in which we will have to feed ever-growing populations.</p>\n<p>The consequences of a severely depleted honey bee population would be far-reaching. Considering our main staple crops such as rice, wheat and maize are wind-pollinated, and therefore not reliant on insects, we need not go hungry. However, we would lose essential nutrients from fruits, vegetables, nuts and oils were they to become no longer available or scarcer, potentially resulting in poor health for many. The IPBES cite 'more than three-quarters of the leading types of food crops' require animal pollination to some degree for both yield and quality. Economically speaking, global agricultural production reliant on bees and other insects is estimated at hundreds of billions of dollars a year. Lower yields through a dramatic reduction in pollinators would lead to higher prices for consumers and a serious dent in the profitability of the agriculture sector globally. To avoid this eventuality, research has been completed and more is underway to discover the cause of the phenomenon and possible solutions. </p>\n<p>Yet that might be easier said than done, as the scientific consensus is that there is no one specific cause for CCD and the disappearance of bees. Many researchers believe a combination of factors is to blame. Global warming is causing changes in seasonal blooming, meaning bees may be missing important events in the agricultural calendar as, by the time they come out of hibernation, they arrive too late to pollinate crops. Pesticides are another probable cause. In 2016, an 18-year-long UK study concluded that some specific pesticides could be linked to 'large-scale population extinctions' of wild bees. Their use has been restricted or banned by the EU and parts of the US in response to this. Other suggested factors include a loss of habitat brought about by development of rural land, immunodeficiency in bees causing mass die-offs, GM crops, the use of antibiotics by beekeepers, and migratory beekeeping (the practice of moving hives around a country to aid pollination of crops), to mention just a few.</p>\n<p>However, other voices in the field claim there is no bee crisis. Although they admit that CCD did challenge species in 2006, it is claimed that this is a centuries-old, periodic phenomenon from which bees recover. Some species, including the European honey bee, appear to be doing so and numbers are on the rise. These experts tell us we are worrying about the wrong bees. Those which are in danger of dying out are lesser known, wild species which, despite pollinating naturally, are not the domesticated honeybees we depend so greatly upon for our sustenance. While the extent of the bee decline is still under debate, for many it has served as a means of highlighting the delicate balance that exists in our ecosystem and the need for a greater understanding of agricultural sustainability.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_true_false_not_given_37.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_true_false_not_given_37.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "tfng",
+          "skill_tags": [
+            "rd_tfng"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 10 - 13</strong></p>\n<p>Choose <strong>TRUE</strong> if the statement agrees with the information given in the text, choose <strong>FALSE</strong> if the statement contradicts the information, or choose <strong>NOT GIVEN</strong> if there is no information on this.</p>\n<p>10 A significant fall in the number of animals able to transfer pollen to crops would be costly for both industry and individuals.</p>\n<p>11 Research into alternative methods of pollination has already turned up some potential causes of bees disappearing.</p>\n<p>12 Moving bees to different locations may be one of the causes of CCD.</p>\n<p>13 The future of the honey bee is more certain than other types of bee.</p>",
+          "items": [
+            {
+              "question_id": "q10",
+              "number": 10,
+              "prompt_html": "A significant fall in the number of animals able to transfer pollen to crops would be costly for both industry and individuals.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q11",
+              "number": 11,
+              "prompt_html": "Research into alternative methods of pollination has already turned up some potential causes of bees disappearing.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q12",
+              "number": 12,
+              "prompt_html": "Moving bees to different locations may be one of the causes of CCD.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q13",
+              "number": 13,
+              "prompt_html": "The future of the honey bee is more certain than other types of bee.",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            10,
+            13
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

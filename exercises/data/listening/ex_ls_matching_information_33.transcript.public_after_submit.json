@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_matching_information_33",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MATCHING%20INFORMATION%20TO%20CATEGORIES%2033.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: This recording is copyright. You will hear two literature students preparing for a seminar about a book called Sunrise Lake by the novelist Joyce Clare. You now have some time to look at the questions on your screen. Now, answer the questions on your screen.  </p><p><strong>Speaker 2:</strong> So, we'll need to present a full main female cast list.  </p><p><strong>Speaker 1:</strong> Sure, starting with Bethy.  </p><p><strong>Speaker 2:</strong> Okay. She seems almost naive at the start, doesn't she? Full of youthful optimism.  </p><p><strong>Speaker 1:</strong> Definitely, but she doesn't stay like that for long. I think you were suggesting that she's got a lot of growing up to do, but the thing is, she does just that.  </p><p><strong>Speaker 2:</strong> She certainly grows up over the course of the novel.  </p><p><strong>Speaker 1:</strong> Definitely. You can almost see her gaining confidence scene by scene. What about Sally Baxter?  </p><p><strong>Speaker 2:</strong> Not such a likeable character, I found.  </p><p><strong>Speaker 1:</strong> No, but she had a difficult upbringing and a lot of things go wrong for her.  </p><p><strong>Speaker 2:</strong> Well, that's true. She's often just in the wrong place at the wrong time, through no fault of her own.  </p><p><strong>Speaker 1:</strong> I know what you mean, yeah. She often seems to be a victim.  </p><p><strong>Speaker 2:</strong> Yeah, poor thing. So, what about the other characters, who else is there?  </p><p><strong>Speaker 1:</strong> Oh, well, of course, there's Mrs Dawson. What did you make of her?  </p><p><strong>Speaker 2:</strong> Well, I found it really interesting reading the dialogues involving Mrs Dawson. She was always very perceptive and able to tell the other characters things about themselves that they hadn't realised.  </p><p><strong>Speaker 1:</strong> We certainly heard plenty of wise words from her. She's an excellent problem solver. I was just sorry she didn't feature so much later in the book.  </p><p><strong>Speaker 2:</strong> And then the cook. I don't think we're ever told what her name is.  </p><p><strong>Speaker 1:</strong> No, but she was quite an inspirational character. Once she made up her mind about something, she was going to get it, whatever it took.  </p><p><strong>Speaker 2:</strong> Yes, I thought her approach to life was amazing. She never let setbacks get in her way.  </p><p><strong>Speaker 1:</strong> Yeah, that's right. OK, I think we're on the right track. Shall we have a quick talk about...</p>"
+    }
+  ]
+}

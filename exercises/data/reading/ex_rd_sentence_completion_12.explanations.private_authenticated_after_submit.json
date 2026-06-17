@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_sentence_completion_12",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q8": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"One is found throughout most of Australia, except for the very north and the very south of the country. The other is found in East Timor, parts of Indonesia, and some coastal areas of Australia. Domesticated zebra finches mostly derive from the Australian subspecies.\". Cụm coastal khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "One is found throughout most of Australia, except for the very north and the very south of the country. The other is found in East Timor, parts of Indonesia, and some coastal areas of Australia. Domesticated zebra finches mostly derive from the Australian subspecies._"
+    },
+    "q9": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 2, bài viết nêu: \"Zebra finches may reach five years of age in their natural environment, but can live twice as long as that in captivity. In the wild, zebra finches live in groups on open grasslands where there are some bushes and trees, usually close to water. They also make use of man-made land features, such as watering holes and cultivated fields.\". Cụm captivity khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Zebra finches may reach five years of age in their natural environment, but can live twice as long as that in captivity. In the wild, zebra finches live in groups on open grasslands where there are some bushes and trees, usually close to water. They also make use of man-made land features, such as watering holes and cultivated fields._"
+    },
+    "q10": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"Male and female zebra finches differ in their colouration, with the males really standing out. They have bright red beaks, orange cheek patches, black-and-white bars covering the throat down to a black breast bar (this is the pattern that gives them the ‘zebra’ element in their name), a black ‘teardrop’ extending down from each eye, chestnut-coloured flanks with white spots, and a black-and-white tail. Females are mostly just grey except for the black teardrops and black-and-white tails, and their beaks are a more subdued orange, compared to the bright red of the males.\". Cụm tails khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Male and female zebra finches differ in their colouration, with the males really standing out. They have bright red beaks, orange cheek patches, black-and-white bars covering the throat down to a black breast bar (this is the pattern that gives them the ‘zebra’ element in their name), a black ‘teardrop’ extending down from each eye, chestnut-coloured flanks with white spots, and a black-and-white tail. Females are mostly just grey except for the black teardrops and black-and-white tails, and their beaks are a more subdued orange, compared to the bright red of the males._"
+    },
+    "q11": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 4, bài viết nêu: \"Like budgerigars, canaries and some other domesticated birds, zebra finches in captivity have developed many mutations from the original ‘normal’ form. For example, ‘fawn’ zebra finches are light brown in colour where normal birds are grey, and ‘whites’ are completely colourless, with no markings at all. ‘Chestnut-flanked whites’ are ivory white, with the same markings as on normal birds. In ‘penguin’ zebra finches, the top of the head, back and wings are the normal body colour but the underparts are white.\". Cụm markings khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Like budgerigars, canaries and some other domesticated birds, zebra finches in captivity have developed many mutations from the original ‘normal’ form. For example, ‘fawn’ zebra finches are light brown in colour where normal birds are grey, and ‘whites’ are completely colourless, with no markings at all. ‘Chestnut-flanked whites’ are ivory white, with the same markings as on normal birds. In ‘penguin’ zebra finches, the top of the head, back and wings are the normal body colour but the underparts are white._"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_12",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q10": {
+      "explanation": "Căn cứ nằm ở đoạn 1: \"A In Scotland, between 13,000 and 10,000 years ago, after the last glaciers had melted, there were no trees, and Britain was joined to the continent of Europe, allowing for the migration northwards of plants and animals. The first to colonise the bare rock surfaces were primitive mosses and lichens, followed by low scrub woodland of pioneer tree species, such as juniper, birch, aspen and hazel, then by taller trees such as elm, willow, rowan, wild cherry and eventually by the larger species such as pine and oak.\". Phương án B (They originated when Britain was not an island.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "A In Scotland, between 13,000 and 10,000 years ago, after the last glaciers had melted, there were no trees, and Britain was joined to the continent of Europe, allowing for the migration northwards of plants and animals. The first to colonise the bare rock surfaces were primitive mosses and lichens, followed by low scrub woodland of pioneer tree species, such as juniper, birch, aspen and hazel, then by taller trees such as elm, willow, rowan, wild cherry and eventually by the larger species such as pine and oak._"
+    },
+    "q11": {
+      "explanation": "Căn cứ nằm ở đoạn 1: \"A In Scotland, between 13,000 and 10,000 years ago, after the last glaciers had melted, there were no trees, and Britain was joined to the continent of Europe, allowing for the migration northwards of plants and animals. The first to colonise the bare rock surfaces were primitive mosses and lichens, followed by low scrub woodland of pioneer tree species, such as juniper, birch, aspen and hazel, then by taller trees such as elm, willow, rowan, wild cherry and eventually by the larger species such as pine and oak.\". Phương án D (Small trees developed before larger ones.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "A In Scotland, between 13,000 and 10,000 years ago, after the last glaciers had melted, there were no trees, and Britain was joined to the continent of Europe, allowing for the migration northwards of plants and animals. The first to colonise the bare rock surfaces were primitive mosses and lichens, followed by low scrub woodland of pioneer tree species, such as juniper, birch, aspen and hazel, then by taller trees such as elm, willow, rowan, wild cherry and eventually by the larger species such as pine and oak._"
+    },
+    "q12": {
+      "explanation": "Căn cứ nằm ở đoạn 2: \"B By about 6,000 years ago, forest cover had reached almost to the top of the mountains, but the change to a wetter and windier Atlantic climate since then has resulted in a lowering of the altitudinal limit to around 400 metres (a fraction of the limit in continental Europe) while the development of extensive tracts of peat bog, up to 9 metres deep, especially in the west, largely precluded tree growth there. Elsewhere the extent of the developing forests provided a habitat for many species of animals which have since become extinct in Scotland such as the impressive wild ox, brown bear, lynx, wild boar, elk and wolf. It was this last animal, which threatened domestic grazing stock, that resulted in the deliberate destruction of their forest habitat near human habitation – the last wolf was killed in the mid-eighteenth century.\". Phương án D (Some replanting of the forests occurred before the 20th century.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "B By about 6,000 years ago, forest cover had reached almost to the top of the mountains, but the change to a wetter and windier Atlantic climate since then has resulted in a lowering of the altitudinal limit to around 400 metres (a fraction of the limit in continental Europe) while the development of extensive tracts of peat bog, up to 9 metres deep, especially in the west, largely precluded tree growth there. Elsewhere the extent of the developing forests provided a habitat for many species of animals which have since become extinct in Scotland such as the impressive wild ox, brown bear, lynx, wild boar, elk and wolf. It was this last animal, which threatened domestic grazing stock, that resulted in the deliberate destruction of their forest habitat near human habitation – the last wolf was killed in the mid-eighteenth century._"
+    },
+    "q13": {
+      "explanation": "Căn cứ nằm ở đoạn 4: \"D From mediaeval times onwards, the destruction of woodlands was constrained by the royal houses and landed aristocracy, anxious to preserve their forest hunting grounds, and there were severe penalties for the taking of game species and unpermitted tree cutting. Nevertheless, shipbuilding made huge inroads – one celebrated vessel, commissioned by the king, required the felling of 1,000 mature oak trees in the early sixteenth century while before the extensive use of coal, wood was a main source of fuel. Much timber was imported from Russia and Scandinavia into Scotland, then from North America.\". Phương án E (Plans to increase the amount of forest in Scotland in the early 20th century were initially unsuccessful.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "D From mediaeval times onwards, the destruction of woodlands was constrained by the royal houses and landed aristocracy, anxious to preserve their forest hunting grounds, and there were severe penalties for the taking of game species and unpermitted tree cutting. Nevertheless, shipbuilding made huge inroads – one celebrated vessel, commissioned by the king, required the felling of 1,000 mature oak trees in the early sixteenth century while before the extensive use of coal, wood was a main source of fuel. Much timber was imported from Russia and Scandinavia into Scotland, then from North America._"
+    }
+  }
+}

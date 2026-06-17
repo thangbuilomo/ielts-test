@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_45",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q37": {
+      "explanation": "Người nói đang cung cấp thông tin về thời điểm bắt đầu hoạt động núi lửa tại Công viên Quốc gia Yellowstone. Thông tin giúp tìm ra đáp án là cụm từ \"about two million years ago\", cho thấy thời gian chính xác mà hoạt động núi lửa bắt đầu. Paraphrase quan trọng ở đây là \"about two million years ago\" có thể được hiểu là \"khoảng hai triệu năm trước\". Không có bẫy trong câu này vì thông tin được trình bày rõ ràng và không có sự nhầm lẫn nào. Đáp án A là đúng vì nó phản ánh chính xác thời gian được đề cập trong câu.",
+      "evidence": "Volcanic activity began in the Yellowstone National Park region about two million years ago."
+    },
+    "q38": {
+      "explanation": "Người nói đang nói về lịch sử phun trào của Công viên Yellowstone và cách mà các nhà khoa học đã phát hiện ra chu kỳ phun trào. Thông tin quan trọng là \"a regular eruption cycle of 600,000 years\", cho thấy rằng các vụ phun trào có một mô hình nhất định theo thời gian. Paraphrase ở đây là \"a regular eruption cycle\" có thể hiểu là \"một chu kỳ phun trào đều đặn\". Bẫy có thể nằm ở việc lựa chọn giữa các đáp án, nhưng thông tin rõ ràng cho thấy rằng các vụ phun trào không phải lúc nào cũng lớn hơn mà có một chu kỳ xác định. Đáp án B là đúng vì nó phản ánh chính xác thông tin về mô hình phun trào.",
+      "evidence": "Scientists have revealed that Yellowstone Park has been on a regular eruption cycle of 600,000 years."
+    },
+    "q39": {
+      "explanation": "Người nói đang nói về nhiệm vụ của một lực lượng đặc nhiệm được đề xuất để quản lý tình huống khẩn cấp liên quan đến phun trào núi lửa. Thông tin quan trọng là \"emergency management\", cho thấy rằng nhiệm vụ chính của lực lượng này là quản lý khủng hoảng. Paraphrase ở đây là \"emergency management\" có thể hiểu là \"quản lý khẩn cấp\". Không có bẫy trong câu này vì thông tin được trình bày rõ ràng và không có sự nhầm lẫn nào. Đáp án B là đúng vì nó phản ánh chính xác nhiệm vụ của lực lượng đặc nhiệm.",
+      "evidence": "Geologists have called for a task force to be set up to consider emergency management in the event of a massive volcanic eruption or super eruption."
+    },
+    "q40": {
+      "explanation": "Người nói đang cung cấp thông tin về bằng chứng mà các nhà khoa học đã sử dụng để khẳng định rằng vụ phun trào Toba đã gây ra biến đổi khí hậu thảm khốc. Thông tin quan trọng là \"Signs from DNA\", cho thấy rằng bằng chứng từ DNA đã được sử dụng để hỗ trợ cho tuyên bố này. Paraphrase ở đây là \"Signs from DNA\" có thể hiểu là \"dấu hiệu từ DNA\". Bẫy có thể nằm ở việc lựa chọn giữa các đáp án, nhưng thông tin rõ ràng cho thấy rằng bằng chứng từ DNA là yếu tố chính. Đáp án A là đúng vì nó phản ánh chính xác bằng chứng được đề cập trong câu.",
+      "evidence": "Signs from DNA suggest human numbers could have dropped to about 10,000, probably as a result of the effects of climate change."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> It is little known that lying under one of the United States' largest and most picturesque national parks, Yellowstone Park, is one of the largest supervolcanoes in the world. Volcanic activity began in the Yellowstone National Park region about two million years ago. </p><p><strong>Speaker 3:</strong> Magma rising from deep within the earth has produced three cataclysmic eruptions, more powerful than any in the world's recorded history. The first caldera-forming eruption occurred about 2.1 million years ago. </p><p><strong>Speaker 2:</strong> The eruptive blast removed so much magma from its subsurface storage reservoir that the ground above it collapsed into the magma chamber and left a caldera larger than the state of Rhode Island. </p><p><strong>Speaker 1:</strong> The huge caldera measured as much as 50 miles long, 40 miles wide, and hundreds of meters deep, extending from outside Yellowstone National Park into the central area of the park. </p><p><strong>Speaker 3:</strong> Scientists have revealed that Yellowstone Park has been on a regular eruption cycle of 600,000 years. The last eruption was 640,000 years ago, so the next is overdue. </p><p><strong>Speaker 2:</strong> The next eruption could be 2,500 times the size of the 1980 Mount St. Helens eruption. </p><p><strong>Speaker 1:</strong> Volcanologists have been tracking the movement of magma under the park and have calculated that in parts of Yellowstone the ground has risen over 0.7 of a meter this century. </p><p><strong>Speaker 3:</strong> This means the magma is rising. Geologists have called for a task force to be set up to consider emergency management in the event of a massive volcanic eruption or super eruption. </p><p><strong>Speaker 2:</strong> Experts say such an event would have a colossal impact on a global scale. The fallout from a super eruption could cause a volcanic winter, devastating global agriculture and causing mass starvation. </p><p><strong>Speaker 1:</strong> One past super eruption struck at Toba in Sumatra 74,000 years ago and is thought by some to have driven the human race to the edge of extinction. </p><p><strong>Speaker 3:</strong> Signs from DNA suggest human numbers could have dropped to about 10,000, probably as a result of the effects of climate change.</p>"
+}

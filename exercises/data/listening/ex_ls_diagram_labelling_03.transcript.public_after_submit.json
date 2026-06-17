@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_diagram_labelling_03",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/DIAGRAM%20LABELLING%2003.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen.  </p><p><strong>Speaker 1:</strong> Now I've given you this brief introduction into passive design, I want to look specifically at designing for a hot, arid climate, such as that found in the Middle East.  </p><p><strong>Speaker 1:</strong> Now, designing for climate is not a new thing. Take a look at this slide for example. Here in this picture, you can see a domed building, typical of mosques and also many domestic buildings in such climates.  </p><p><strong>Speaker 1:</strong> Domes are particularly effective because they expose a larger surface area to the sky than a flat roof. As a result, heat that builds up during the day can radiate out at night, so by morning the building is cool again.  </p><p><strong>Speaker 1:</strong> Also during the day, a smaller area is exposed to the sun when it's directly overhead, thus minimising heat absorption at the hottest part of the day.  </p><p><strong>Speaker 1:</strong> Another feature of Islamic buildings is the louvred door, these beautiful, ornate, lace-like screens that you can see here. These not only reduce glare from the sun, but they also allow ventilation by enabling breezes to waft through walls.  </p><p><strong>Speaker 1:</strong> Added to this is the courtyard, another feature which helps to provide a cool environment. Courtyards remain cool because hot air warmed by the sun rises and is replaced by a cooler air from the ground.  </p><p><strong>Speaker 1:</strong> A water feature in the centre, such as a pool or fountain, can produce further cooling through the process of evaporation, while the addition of vegetation, a palm tree for example, can provide shade and increase air movement.  </p><p><strong>Speaker 1:</strong> This cool air that builds up in the courtyard then gets drawn into the home via the louvred doors and windows that I've just mentioned, and this helps to keep the rooms cool and well ventilated.  </p><p><strong>Speaker 1:</strong> Then, by having high windows on the outside of the building, we can encourage any hot air that builds up indoors to escape as it rises.  </p><p><strong>Speaker 1:</strong> Obviously, as the population moves into cities, we can't build these beautiful courtyard residences for everyone. There isn't the space, and people can't always afford them.  </p><p><strong>Speaker 1:</strong> So, we need to integrate technologies which can improve thermal comfort into multi-residency city buildings. Let's look now at some of the ways this can be done.</p>"
+    }
+  ]
+}

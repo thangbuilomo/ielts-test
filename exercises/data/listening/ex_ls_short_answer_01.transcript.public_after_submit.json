@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_short_answer_01",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/SHORT%20ANSWER%2001.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. I know it's early, but do you know anything about the first assignment that we have to do?</p><p><strong>Speaker 2:</strong> Yes, it's already up on the economics faculty notice board. There's a choice of essays up there. I think there are about 10 you can choose from. I can't remember any of the titles, though, apart from the one that I think I'm going to write about.</p><p><strong>Speaker 1:</strong> What's that one, then?</p><p><strong>Speaker 2:</strong> It's about the short-term future of third world economies.</p><p><strong>Speaker 1:</strong> Oh, I don't like the sound of that. It seems very wide-ranging.</p><p><strong>Speaker 2:</strong> It is, but remember that I spent some of the summer vacation traveling in Africa and Asia, so that made me more interested in the subject, and I've also got some first-hand ideas on the subject.</p><p><strong>Speaker 1:</strong> Does the essay list mention how long the essays have to be and the deadlines?</p><p><strong>Speaker 2:</strong> Yes, you remember that last year all the essays had to be 3,000 words in length? Well, that's gone up by 1,000 words.</p><p><strong>Speaker 1:</strong> Oh, no, they'll take ages.</p><p><strong>Speaker 2:</strong> I know. I was hoping that they'd stay at 3,000 words or only go up to 3,500, but no luck, I'm afraid. What about the deadline?</p><p><strong>Speaker 1:</strong> The first one has to be in by the 30th October, and the second by the 30th November. It looks like one essay a month, like last year.</p><p><strong>Speaker 2:</strong> Well, at least that hasn't changed. But as it's at the end of September now, that leaves only a month to get the first one done. I'm going to have to get on to that straight away.</p><p><strong>Speaker 1:</strong> Yes, you'd better. If you want to talk about it, I'm going to be at the campus cafeteria at 1.30 for lunch. We could go over some questions.</p>"
+    }
+  ]
+}

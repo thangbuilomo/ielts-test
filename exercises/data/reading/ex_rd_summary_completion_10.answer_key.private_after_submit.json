@@ -1,0 +1,59 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_rd_summary_completion_10",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 7,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q7": {
+      "answers": [
+        "treatment"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "amygdala"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "diagnosis"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "the individual",
+        "employees"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "adverse effects"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "anxiety"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "understanding"
+      ]
+    }
+  }
+}

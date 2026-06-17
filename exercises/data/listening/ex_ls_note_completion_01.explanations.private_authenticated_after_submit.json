@@ -1,0 +1,21 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_01",
+  "module": "listening",
+  "question_count": 1,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q40": {
+      "explanation": "Người nói đang thông báo cho sinh viên về những thông tin quan trọng mà họ có thể tìm thấy trên bảng thông báo của khoa. Cụ thể, họ đề cập đến danh sách đọc và câu hỏi bài luận, và đặc biệt là hạn chót nộp bài. Thông tin này giúp sinh viên biết được thời gian cần thiết để hoàn thành và nộp bài luận của họ. Paraphrase quan trọng ở đây là \"deadline for submission\", có thể hiểu là \"hạn chót nộp bài\". Đây là một cụm từ thường gặp trong môi trường học thuật, và nó rất quan trọng để sinh viên có thể quản lý thời gian của mình. Bẫy trong câu hỏi này có thể là việc sinh viên có thể nghĩ rằng thông tin cần tìm là một thứ gì đó khác, chẳng hạn như \"seminar dates\" hay \"reading materials\", nhưng thực tế câu hỏi yêu cầu một thông tin cụ thể hơn liên quan đến thời gian nộp bài. Vì sao đáp án đúng? Bởi vì câu hỏi yêu cầu thông tin cụ thể mà người nói đã đề cập đến, và \"deadline for submission\" là thông tin duy nhất phù hợp với yêu cầu của câu hỏi.",
+      "evidence": "You'll find the reading lists and essay questions on the faculty notice boards, along with the deadline for submission."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. </p><p><strong>Speaker 1:</strong> Now, answer the questions on your screen.</p><p><strong>Speaker 1:</strong> Well, that's the end of this section of the lecture on cleaning up spills. This subject is an optional question for your course.</p><p><strong>Speaker 1:</strong> You'll find the reading lists and essay questions on the faculty notice boards, along with the deadline for submission.</p><p><strong>Speaker 1:</strong> If you choose it, seminars will be held at a later date.</p>"
+}

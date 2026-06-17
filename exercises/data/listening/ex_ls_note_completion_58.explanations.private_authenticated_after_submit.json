@@ -1,0 +1,29 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_58",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q8": {
+      "explanation": "Người nói đang phàn nàn về việc thông tin trên trang web không đủ rõ ràng và hữu ích cho khách hàng. Câu này chỉ ra rằng mô tả sản phẩm trên trang web không cung cấp đủ thông tin cần thiết để khách hàng có thể đưa ra quyết định mua hàng. Thông tin giúp tìm ra đáp án là từ \"not very helpful\", cho thấy rằng người nói cảm thấy thông tin không đủ tốt. Paraphrase quan trọng ở đây là \"not very helpful\" có thể được hiểu là \"không hữu ích lắm\". Không có bẫy trong câu này vì thông tin được trình bày khá rõ ràng. Đáp án \"helpful\" là chính xác vì nó phản ánh đúng cảm nhận của khách hàng về thông tin sản phẩm trên trang web.",
+      "evidence": "the product description pages aren't very helpful."
+    },
+    "q9": {
+      "explanation": "Người nói đang chỉ ra rằng thông tin về kích thước và trọng lượng của sản phẩm là rất hạn chế, điều này có thể gây khó khăn cho khách hàng trong việc lựa chọn sản phẩm phù hợp. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"size and weight\", trong đó \"weight\" là từ cần điền. Paraphrase quan trọng là \"not much information about\" có thể hiểu là \"không có nhiều thông tin về\". Không có bẫy trong câu này vì thông tin được cung cấp rất rõ ràng. Đáp án \"weight\" là chính xác vì nó là một trong những thông tin mà khách hàng cảm thấy thiếu.",
+      "evidence": "there's not much information about the size and weight of the items."
+    },
+    "q10": {
+      "explanation": "Người nói đang phê bình về kích thước của các bức ảnh trên trang web, cho rằng chúng không đủ lớn để khách hàng có thể nhìn thấy rõ các chi tiết của sản phẩm. Thông tin giúp tìm ra đáp án là từ \"too small\", cho thấy rằng kích thước của ảnh là vấn đề chính. Paraphrase quan trọng ở đây là \"too small\" có thể hiểu là \"quá nhỏ\". Không có bẫy trong câu này vì thông tin được trình bày rất rõ ràng. Đáp án \"small\" là chính xác vì nó phản ánh đúng vấn đề mà khách hàng đang gặp phải với các bức ảnh trên trang web.",
+      "evidence": "they're sometimes too small to see the details."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You will hear a man phoning a furniture shop to talk about something he bought. You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Now that we've sorted that out, is there anything else I can help you with, Mr Cooper?</p><p><strong>Speaker 3:</strong> Actually, yes, there is. You see, I'm buying furniture for our lounge, so I've been looking online. Your website is very simple to find products on, but then it's difficult to know if what you're looking at is suitable, because the product description pages aren't very helpful.</p><p><strong>Speaker 2:</strong> Well, it's always useful to hear customer suggestions. How do you think we could improve?</p><p><strong>Speaker 3:</strong> Well, I feel there's not much information about the size and weight of the items, as well as the materials used to make them. Also, although the number and content of the pictures is good, they're sometimes too small to see the details.</p><p><strong>Speaker 2:</strong> Okay, I will make a note to pass on to our web development team. Now, to get back to the items you were interested in.</p><p><strong>Speaker 3:</strong> Yes, well, I'm looking for an armchair. The website says that you have the...</p>"
+}

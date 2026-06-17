@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_44",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q6": {
+      "explanation": "Người nói đang mô tả về một căn hộ hai phòng ngủ tại Old Port. Thông tin giúp tìm ra đáp án là cụm từ \"quite a large garden\", cho thấy rằng căn hộ này có một khu vườn lớn, điều này là một điểm cộng cho người thuê. Paraphrase quan trọng ở đây là \"large garden\" được nhắc đến như một đặc điểm nổi bật của căn hộ. Không có bẫy trong câu này vì thông tin rõ ràng và trực tiếp liên quan đến câu hỏi. Đáp án đúng vì nó phản ánh chính xác thông tin mà người nói đã cung cấp về căn hộ.",
+      "evidence": "It also comes with quite a large garden, which would be great in summer."
+    },
+    "q7": {
+      "explanation": "Người nói đang cung cấp thông tin về một căn hộ một phòng ngủ có giá thấp hơn so với căn hộ hai phòng ngủ trước đó. Thông tin giúp tìm ra đáp án là giá £1,000 được nhắc đến rõ ràng. Paraphrase quan trọng là \"a bit more affordable\" cho thấy rằng giá này là hợp lý hơn so với căn hộ trước. Không có bẫy trong câu này vì thông tin rất cụ thể và không gây nhầm lẫn. Đáp án đúng vì nó phản ánh chính xác giá của căn hộ mà người nói đã đề cập.",
+      "evidence": "I do have another place in the Old Port which is a bit more affordable. It comes in at £1,000 a month."
+    },
+    "q8": {
+      "explanation": "Người nói đang giới thiệu về một căn hộ khác, và thông tin quan trọng là nó nằm ở \"the centre\". Điều này giúp xác định vị trí của căn hộ. Paraphrase quan trọng là \"in the centre\" có thể được hiểu là \"city centre\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác vị trí của căn hộ mà người nói đã đề cập.",
+      "evidence": "the final property I have for you is actually in the centre."
+    },
+    "q9": {
+      "explanation": "Người nói đang mô tả một đặc điểm khác của căn hộ, đó là có chỗ đậu xe. Thông tin giúp tìm ra đáp án là cụm từ \"parking space\", cho thấy đây là một lợi thế lớn cho người thuê. Paraphrase quan trọng là \"comes with a parking space\" nhấn mạnh rằng đây là một tiện ích đi kèm. Không có bẫy trong câu này vì thông tin rất rõ ràng và cụ thể. Đáp án đúng vì nó phản ánh chính xác thông tin mà người nói đã cung cấp về căn hộ.",
+      "evidence": "Also, this one comes with a parking space, which is very unusual in that area."
+    },
+    "q10": {
+      "explanation": "Người nói đang thảo luận về thời gian có thể xem các căn hộ. Thông tin giúp tìm ra đáp án là khoảng thời gian từ ngày 1 đến ngày 3, và người nói đã đề xuất ngày 2. Paraphrase quan trọng là \"sometime around then would be ideal\" cho thấy rằng ngày 2 là một lựa chọn tốt. Không có bẫy trong câu này vì thông tin rất rõ ràng và dễ hiểu. Đáp án đúng vì nó phản ánh chính xác thời gian mà người nói đã đề xuất để xem căn hộ.",
+      "evidence": "Well, I'm off work from the 1st to the 3rd, so sometime around then would be ideal."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Hello? </p><p><strong>Speaker 1:</strong> Hi, Ms. Russell. It's James here from Colvin Lettings, just giving you a call back. </p><p><strong>Speaker 2:</strong> Oh, hello, James. Thanks very much. What have you got for me?</p><p><strong>Speaker 1:</strong> Well, as I mentioned earlier, the areas you're looking at are a little expensive for two beds. However, I found a couple of places which might be suitable.</p><p><strong>Speaker 2:</strong> Okay. </p><p><strong>Speaker 1:</strong> The first is in the Old Port. Great location, two-bed flat available on the 12th. It also comes with quite a large garden, which would be great in summer.</p><p><strong>Speaker 2:</strong> Okay, and how much is it?</p><p><strong>Speaker 1:</strong> It's £1,250 per calendar month. </p><p><strong>Speaker 2:</strong> Ah, that is quite a bit out of my budget.</p><p><strong>Speaker 1:</strong> Yeah, well, that's the area for you. These days, it's very up and coming. I do have another place in the Old Port which is a bit more affordable. It comes in at £1,000 a month. </p><p><strong>Speaker 2:</strong> That's a bit more suitable for me.</p><p><strong>Speaker 1:</strong> Yes, but I'm afraid this property is only a one-bed. But it's as spacious as a two-bed, really.</p><p><strong>Speaker 2:</strong> Okay, that could be possible. When is it available from?</p><p><strong>Speaker 1:</strong> From the 9th. </p><p><strong>Speaker 2:</strong> Okay, that'd be fine. And the final property I have for you is actually in the centre. Now, I know you said that you didn't really want to live around there, but this flat happens to be on a quiet little side street and it's a two-bed at £950 a month, available from the 11th.</p><p><strong>Speaker 2:</strong> Okay, I could take a look, I suppose.</p><p><strong>Speaker 1:</strong> Also, this one comes with a parking space, which is very unusual in that area.</p><p><strong>Speaker 2:</strong> I'd prefer a garden, but I suppose that could be useful.</p><p><strong>Speaker 1:</strong> I understand. When would be a good time for you to view the properties?</p><p><strong>Speaker 2:</strong> Well, I'm off work from the 1st to the 3rd, so sometime around then would be ideal.</p><p><strong>Speaker 1:</strong> Okay, well, shall we say the 2nd then? We can confirm for definite over email.</p><p><strong>Speaker 2:</strong> Yeah, that sounds perfect.</p><p><strong>Speaker 1:</strong> Great. Can I take your email address?</p><p><strong>Speaker 2:</strong> Yep, it's b.russell64 at xmail.co.uk.</p><p><strong>Speaker 1:</strong> Okay, great, Ms. Russell. I'll send you the email now. You have a look over it and feel free to email me back with any questions you have.</p><p><strong>Speaker 2:</strong> Will do. Thanks very much, James.</p><p><strong>Speaker 1:</strong> No problem. Speak to you soon. </p><p><strong>Speaker 2:</strong> Bye. </p><p><strong>Speaker 1:</strong> Bye.</p>"
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_rd_matching_sentence_endings_10",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 6,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q20": {
+      "answers": [
+        "D",
+        "... exported paprika to Europe."
+      ]
+    },
+    "q21": {
+      "answers": [
+        "J",
+        "... valued the pepper plant highly due to its physical appearance."
+      ]
+    },
+    "q22": {
+      "answers": [
+        "K",
+        "... were the first to use paprika in cooking."
+      ]
+    },
+    "q23": {
+      "answers": [
+        "G",
+        "... involved two possible ways to dry the peppers."
+      ]
+    },
+    "q24": {
+      "answers": [
+        "H",
+        "... involved separating it into separate parts."
+      ]
+    },
+    "q25": {
+      "answers": [
+        "A",
+        "-"
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_16",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2016.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Good morning, madam. Can I help you? </p><p><strong>Speaker 3:</strong> Actually, yes. I've just got a new flat and I'm going to move my things in tomorrow and I haven't got any insurance yet for my things. I'd like a quotation for my car insurance as well to see if you can give me a better deal. It's coming up for renewal soon, you see.</p><p><strong>Speaker 2:</strong> Fine. That shouldn't be a problem. Let's just take down some details. First of all, can I have your name, please? </p><p><strong>Speaker 3:</strong> Of course. It's Mrs. Norma Willis.</p><p><strong>Speaker 2:</strong> Good. That's Norman without an N, isn't it? </p><p><strong>Speaker 3:</strong> Yes, that's right. </p><p><strong>Speaker 2:</strong> And can I have the address that you're moving to, please? </p><p><strong>Speaker 3:</strong> It's Flat 8, Chepping Dean, 23 Dean Road, Westley. </p><p><strong>Speaker 2:</strong> Can you spell Chepping Dean, please? </p><p><strong>Speaker 3:</strong> Of course. Chepping is spelt C-H-E-P-P-I-N-G and Dean is spelt D-E-N-E. The name of the road, Dean, is spelt in the same way too. </p><p><strong>Speaker 2:</strong> And what's the postcode there? </p><p><strong>Speaker 3:</strong> It's W-E-3-9-H-T. </p><p><strong>Speaker 2:</strong> Can I take a telephone number? </p><p><strong>Speaker 3:</strong> It will have to be only my mobile, I'm afraid, as I haven't installed a landline yet. My mobile is 07525 745642. </p><p><strong>Speaker 2:</strong> Let's look at the car insurance first, quickly. I need the model, age and engine size. </p><p><strong>Speaker 3:</strong> It's a four-year-old Toyota MR2 sports car. It has a two-litre engine. </p><p><strong>Speaker 2:</strong> Will it be parked in a garage, in a drive or in the road? </p><p><strong>Speaker 3:</strong> At my present address, it's in the drive, but the flat I'm moving to tomorrow has a garage provided and tenants are not allowed to leave their cars in the visitor spaces, so it'll be garaged all the time. </p><p><strong>Speaker 2:</strong> Two more questions. The first is, do you have any no-claims bonus? And the second is, do you have any driving convictions? </p><p><strong>Speaker 3:</strong> I have three years' no-claims, but I had a claim for a new windscreen this year and I don't know if that will affect it. </p><p><strong>Speaker 2:</strong> No, that won't count. The no-claims will stand. </p><p><strong>Speaker 2:</strong> Good. As for convictions, I have three points for being caught speeding two years ago.</p>"
+    }
+  ]
+}

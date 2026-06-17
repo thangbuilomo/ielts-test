@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_40",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2040.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> Good morning, Holiday Plus Hotel, East Haven. Can I help you?</p><p><strong>Speaker 2:</strong> Oh, yes, hello. I just booked a couple of rooms online and I think I made a mistake. Can I change it with you?</p><p><strong>Speaker 1:</strong> Of course you can. Could you give me your surname, please?</p><p><strong>Speaker 2:</strong> It's Connor. C-O-N-N-O-R.</p><p><strong>Speaker 1:</strong> Thank you. And your first name?</p><p><strong>Speaker 2:</strong> It's Susan.</p><p><strong>Speaker 1:</strong> I'll have a look for you. Can you confirm your arrival date?</p><p><strong>Speaker 2:</strong> It's the 28th of June.</p><p><strong>Speaker 1:</strong> OK, I've found you here. So, that's a family of two adults and one child, leaving on the 6th of July, which is a total of seven nights. Is that correct?</p><p><strong>Speaker 2:</strong> Oh, no, I don't think so. It's eight, isn't it? Arriving on the Thursday and leaving the following Friday?</p><p><strong>Speaker 1:</strong> You're quite right. Sorry, my mistake. So, you said that you wanted to make changes to your booking? Is it the rooms that you wanted to change?</p><p><strong>Speaker 2:</strong> If possible, yes, please. Your reservation is currently for one double room and one single.</p><p><strong>Speaker 1:</strong> Yes, I still need the double room, but I'd like a twin room instead of the single. You see, my daughter's friend's going to be joining us.</p><p><strong>Speaker 1:</strong> OK, let me just check availability. Yes, we can do that for you. Great. Or, alternatively, could I make a suggestion?</p><p><strong>Speaker 2:</strong> Sure.</p><p><strong>Speaker 1:</strong> Have you considered a family suite? I think you'd be much more comfortable than in the two rooms.</p><p><strong>Speaker 2:</strong> So, what do you get with the suite?</p><p><strong>Speaker 1:</strong> You'd have the two bedrooms that you've requested, as well as a living room. This would also guarantee that your rooms are together and not spread out over the hotel. And you'd get a terrace to enjoy the sun.</p><p><strong>Speaker 2:</strong> I see.</p>"
+    }
+  ]
+}

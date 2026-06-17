@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_matching_information_08",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MATCHING%20INFORMATION%20TO%20CATEGORIES%2008.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. I think the beginning of August would be the best time for the project.</p><p><strong>Speaker 2:</strong> Great. We just have to decide on the charity now. Tom, didn't you have some written down with the assessment guide?</p><p><strong>Speaker 3:</strong> Yes. One was Aid UK and... I wrote one down here. Hard Association.</p><p><strong>Speaker 2:</strong> And Karen, did you suggest another one?</p><p><strong>Speaker 3:</strong> The EFA, Education for All. I thought it would be good to give the funds to a charity connected to learning, but we have to consider that the project focuses on sport. So, I don't know. What else do you know about it, Karen?</p><p><strong>Speaker 3:</strong> Just that it gives aid to poorer families in the UK who can't afford to put their children through university. So, it gives them a chance to fulfill their dreams.</p><p><strong>Speaker 1:</strong> I think I've convinced myself. I would definitely opt for this one.</p><p><strong>Speaker 2:</strong> That one's also my favorite. I agree. It sounds like the best idea too. But we should also consider the other two options. They're all so worthwhile. It's hard to choose.</p><p><strong>Speaker 1:</strong> Let's discuss Hard Association. I mean, the name kind of speaks for itself in terms of what they do.</p><p><strong>Speaker 2:</strong> Then we'll consider Aid UK. That's the sports one.</p><p><strong>Speaker 3:</strong> Well, in my opinion, I'm not sure it's really connected to the project. Do you think the best option could be Aid UK? Because this one is so closely linked to sports, isn't it? What do you know about it, Karen?</p><p><strong>Speaker 3:</strong> Not a lot. Just that they promote sports for people of all ages, so there are parallels with the project. It seems the most connected to our project. It just seems to make the most sense.</p><p><strong>Speaker 1:</strong> I'm not sure. I totally agree with what you say, Karen. But I still think our first choice should stand. We all agreed on that one.</p><p><strong>Speaker 2:</strong> We did. Let's stay with our first choice. All agreed?</p><p><strong>Speaker 3:</strong> Okay for me.</p><p><strong>Speaker 1:</strong> And me.</p>"
+    }
+  ]
+}

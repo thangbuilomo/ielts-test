@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_diagram_labelling_03",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q36": {
+      "explanation": "Người nói đang giới thiệu về thiết kế kiến trúc phù hợp với khí hậu nóng và khô, đặc biệt là ở Trung Đông. Thông tin giúp tìm ra đáp án là cụm từ \"domed building\" (tòa nhà hình vòm) được nhắc đến như một ví dụ điển hình cho kiến trúc trong khí hậu này. Paraphrase quan trọng ở đây là \"typical of mosques and also many domestic buildings\" (điển hình của các nhà thờ Hồi giáo và nhiều tòa nhà dân dụng). Bẫy có thể là việc người nghe có thể bị nhầm lẫn với các loại hình kiến trúc khác, nhưng câu nói rõ ràng chỉ ra rằng tòa nhà hình vòm là đặc trưng. Đáp án này đúng vì nó phản ánh chính xác thông tin mà người nói đã cung cấp về kiến trúc trong khí hậu nóng.",
+      "evidence": "Here in this picture, you can see a domed building, typical of mosques and also many domestic buildings in such climates."
+    },
+    "q37": {
+      "explanation": "Người nói đang mô tả một đặc điểm kiến trúc quan trọng trong các tòa nhà Hồi giáo, đó là cửa louver. Thông tin giúp tìm ra đáp án là cụm từ \"louvred door\" (cửa louver) và mô tả về chúng như \"beautiful, ornate, lace-like screens\" (những màn chắn đẹp mắt, tinh xảo như ren). Paraphrase quan trọng là việc nhấn mạnh tính năng của cửa louver trong việc giảm độ chói từ ánh sáng mặt trời và cho phép thông gió. Bẫy có thể là việc người nghe có thể nghĩ rằng có nhiều loại cửa khác, nhưng câu nói rõ ràng chỉ ra rằng cửa louver là đặc trưng. Đáp án này đúng vì nó phản ánh chính xác một trong những đặc điểm kiến trúc quan trọng trong thiết kế cho khí hậu nóng.",
+      "evidence": "Another feature of Islamic buildings is the louvred door, these beautiful, ornate, lace-like screens that you can see here."
+    },
+    "q38": {
+      "explanation": "Người nói đang giải thích về vai trò của sân trong (courtyard) trong việc duy trì nhiệt độ mát mẻ trong các tòa nhà. Thông tin giúp tìm ra đáp án là cụm từ \"courtyards remain cool\" (các sân trong vẫn mát mẻ) và lý do được đưa ra là không khí nóng bay lên và được thay thế bằng không khí mát hơn. Paraphrase quan trọng là việc nhấn mạnh rằng sân trong không chỉ là một không gian mà còn có chức năng điều hòa nhiệt độ. Bẫy có thể là việc người nghe có thể nghĩ rằng các yếu tố khác cũng có thể làm mát, nhưng câu nói rõ ràng chỉ ra rằng sân trong là một yếu tố chính. Đáp án này đúng vì nó phản ánh chính xác một trong những yếu tố quan trọng trong thiết kế kiến trúc cho khí hậu nóng.",
+      "evidence": "Another feature which helps to provide a cool environment. Courtyards remain cool because hot air warmed by the sun rises and is replaced by a cooler air from the ground."
+    },
+    "q39": {
+      "explanation": "Người nói đang mô tả vai trò của các yếu tố nước trong việc làm mát không gian sống. Thông tin giúp tìm ra đáp án là cụm từ \"water feature in the centre\" (yếu tố nước ở trung tâm) và cách mà nó làm mát thông qua \"the process of evaporation\" (quá trình bay hơi). Paraphrase quan trọng là việc nhấn mạnh rằng nước không chỉ là một yếu tố trang trí mà còn có tác dụng làm mát. Bẫy có thể là việc người nghe có thể nghĩ rằng chỉ cần có nước là đủ, nhưng câu nói chỉ ra rằng quá trình bay hơi là yếu tố chính. Đáp án này đúng vì nó phản ánh chính xác vai trò của yếu tố nước trong thiết kế kiến trúc cho khí hậu nóng.",
+      "evidence": "A water feature in the centre, such as a pool or fountain, can produce further cooling through the process of evaporation."
+    },
+    "q40": {
+      "explanation": "Người nói đang giải thích về cách mà cửa sổ cao giúp cải thiện thông gió trong các tòa nhà. Thông tin giúp tìm ra đáp án là cụm từ \"high windows on the outside of the building\" (cửa sổ cao ở bên ngoài tòa nhà) và cách mà chúng giúp không khí nóng thoát ra. Paraphrase quan trọng là việc nhấn mạnh rằng cửa sổ cao không chỉ là một yếu tố thẩm mỹ mà còn có chức năng quan trọng trong việc điều hòa không khí. Bẫy có thể là việc người nghe có thể nghĩ rằng cửa sổ thấp cũng có thể làm việc này, nhưng câu nói chỉ ra rằng cửa sổ cao là cần thiết để không khí nóng thoát ra. Đáp án này đúng vì nó phản ánh chính xác một trong những yếu tố quan trọng trong thiết kế kiến trúc cho khí hậu nóng.",
+      "evidence": "Then, by having high windows on the outside of the building, we can encourage any hot air that builds up indoors to escape as it rises."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen.  </p><p><strong>Speaker 1:</strong> Now I've given you this brief introduction into passive design, I want to look specifically at designing for a hot, arid climate, such as that found in the Middle East.  </p><p><strong>Speaker 1:</strong> Now, designing for climate is not a new thing. Take a look at this slide for example. Here in this picture, you can see a domed building, typical of mosques and also many domestic buildings in such climates.  </p><p><strong>Speaker 1:</strong> Domes are particularly effective because they expose a larger surface area to the sky than a flat roof. As a result, heat that builds up during the day can radiate out at night, so by morning the building is cool again.  </p><p><strong>Speaker 1:</strong> Also during the day, a smaller area is exposed to the sun when it's directly overhead, thus minimising heat absorption at the hottest part of the day.  </p><p><strong>Speaker 1:</strong> Another feature of Islamic buildings is the louvred door, these beautiful, ornate, lace-like screens that you can see here. These not only reduce glare from the sun, but they also allow ventilation by enabling breezes to waft through walls.  </p><p><strong>Speaker 1:</strong> Added to this is the courtyard, another feature which helps to provide a cool environment. Courtyards remain cool because hot air warmed by the sun rises and is replaced by a cooler air from the ground.  </p><p><strong>Speaker 1:</strong> A water feature in the centre, such as a pool or fountain, can produce further cooling through the process of evaporation, while the addition of vegetation, a palm tree for example, can provide shade and increase air movement.  </p><p><strong>Speaker 1:</strong> This cool air that builds up in the courtyard then gets drawn into the home via the louvred doors and windows that I've just mentioned, and this helps to keep the rooms cool and well ventilated.  </p><p><strong>Speaker 1:</strong> Then, by having high windows on the outside of the building, we can encourage any hot air that builds up indoors to escape as it rises.  </p><p><strong>Speaker 1:</strong> Obviously, as the population moves into cities, we can't build these beautiful courtyard residences for everyone. There isn't the space, and people can't always afford them.  </p><p><strong>Speaker 1:</strong> So, we need to integrate technologies which can improve thermal comfort into multi-residency city buildings. Let's look now at some of the ways this can be done.</p>"
+}

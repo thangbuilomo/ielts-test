@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_12",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2012.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Hi everyone, as Dr. Rees said, Rebecca and I are going to have our demographics presentation. Both Rebecca and I also study languages, so we decided to look at the world's different languages and the ones that are the most important both now and in the future. Rebecca's going to start off.</p><p><strong>Speaker 3:</strong> OK everyone, who knows what the world's most spoken language is? </p><p><strong>Speaker 2:</strong> I thought it was English, isn't it?</p><p><strong>Speaker 3:</strong> Well, it's an ambiguous question. If you just look at how many individual speakers there are around the world, then the answer is Mandarin Chinese, with 836 million speakers. English was second until a few years ago, but has since been overtaken by Hindi, with 333 million speakers, and Spanish with 332 million speakers. English is after Spanish, but the number is not certain. It is over 300 million speakers, though.</p><p><strong>Speaker 2:</strong> Oh yes, South America. I didn't think of that.</p><p><strong>Speaker 3:</strong> Yes, it's easy to forget. You can look at Rebecca's question, though, in a different way. If you look at the number of countries that use English, English is a massive 115, ahead of French, Arabic and Spanish, with 35, 24 and 20 countries respectively. </p><p><strong>Speaker 2:</strong> English has different statuses around the world. Core countries are where English has a full official status, like England, the US and Australia. In outer core countries, English has some official status, as in India. And then there are fringe countries, such as Japan and the UAE, where it's used a lot in business and tourism. </p><p><strong>Speaker 3:</strong> A more important list is the world's most influential languages. This was compiled by weighing six factors, which were the number of primary speakers, the number of secondary speakers, the number and population of the countries where the languages are used, the number of major fields using the language internationally, the economic power of countries using the languages, and socio-literary prestige. And the list shows the following in order of most influential. English, French, Spanish, Russian.</p>"
+    }
+  ]
+}

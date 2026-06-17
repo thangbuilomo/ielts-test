@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_short_answer_05",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/SHORT%20ANSWER%2005.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Although it's not certain when garlic was first discovered, it was probably dispersed by nomadic humans several thousand years ago. Garlic is originally indigenous to Siberia. In this region, the summers are dry and hot, and there's very little precipitation. In order for the wild garlic plant to survive, it had to adapt to this harsh climate. </p><p><strong>Speaker 3:</strong> Garlic had to grow when there was moisture, in the spring and fall, and it also had to be able to survive without water for the exceptionally dry summer and winter months. Garlic adapted to its environment so that the growing cycle began in the autumn, to take advantage of the available precipitation. </p><p><strong>Speaker 2:</strong> When the cold winters or the hot, dry summers arrived, it became dormant. The cloves of the garlic plant store large amounts of food, which enable it to withstand long durations of dormancy. When the spring rains arrive, the plant can continue on its growth process. </p><p><strong>Speaker 1:</strong> Its root system, in conjunction with its relatively small leaves, are the keys to the survival of the plant in harsh conditions. These traits make garlic a very hardy plant, capable of growing in poor soil in harsh climates with little or no care. </p><p><strong>Speaker 2:</strong> Once discovered by humans, it is no wonder that garlic quickly became a staple crop of almost every civilization in the world. An Egyptian papyrus from 1500 BC recommends garlic for 22 ailments. </p><p><strong>Speaker 3:</strong> The Egyptians fed it to slaves building the pyramids to increase their stamina, and during the building of the Great Pyramid, the construction workers lived on a diet consisting primarily of onion and garlic. </p><p><strong>Speaker 1:</strong> When the workers were deprived of their ration of garlic, it caused work stoppages. Garlic was so valuable to the Egyptians that 15 pounds of garlic would purchase a healthy male slave. </p><p><strong>Speaker 2:</strong> Ancient Egyptians worshipped garlic as a god, and its name was often invoked at oath-takings. In ancient Greece and Rome, it was claimed to have more uses. </p><p><strong>Speaker 3:</strong> Everything from repelling scorpions to treating dog bites and bladder infections to curing leprosy and asthma. Chinese scholars mentioned garlic in Sanskrit writings as early as 3000 BC. </p><p><strong>Speaker 1:</strong> Garlic was so prized in ceremony and ritual, it's said that lambs offered for sacrifice in China were seasoned with garlic to make them more pleasing to the gods. </p><p><strong>Speaker 2:</strong> Crusaders returning to Europe after faraway battles are generally credited with bringing garlic back with them to Europe, and there in the Middle Ages, it was thought to prevent the plague.</p>"
+    }
+  ]
+}

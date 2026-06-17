@@ -1,0 +1,59 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_ls_multiple_choice_01",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 6,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q15": {
+      "answers": [
+        "A",
+        "C"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "B",
+        "C"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "C",
+        "D"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "E",
+        "D"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "B",
+        "C"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "C",
+        "E"
+      ]
+    }
+  }
+}

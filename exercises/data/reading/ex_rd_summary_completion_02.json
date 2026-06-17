@@ -1,0 +1,89 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_summary_completion_02",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 4,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "summary_completion",
+  "category_id": "summary_completion",
+  "title": "Summary Completion - Exercise 2",
+  "duration_seconds": 0,
+  "content": {
+    "title": "Monarch Butterflies",
+    "content_html": "<h1>SUMMARY COMPLETION 02</h1>\n<h2>Monarch Butterflies</h2>\n<p>Monarch butterflies are the most beautiful of all butterflies. The coloration of this species is dazzling orange with white and black marks. Their bodies are black and their heads have sets of antennae. Most often, they have orange wings that have black streaks running all over, while the outer edges of their wings have thick black borders. Males have a black mark in the middle of each rear wing, but females do not.</p>\n<p>Monarch butterflies go through four stages during their life cycle. The first stage involves mating and the production of eggs. Monarch butterflies use scent for communicating and the males draw females to mate by discharging chemicals from scent glands in their rear wings. Once together, breeding takes place and the female lays the eggs on milkweed plants. In the second stage, the eggs hatch into caterpillars, called “larvae”. It takes about 4 days for the eggs to hatch and then the baby caterpillar does little more than eat the milkweed it has hatched on in order to grow. After about 2 weeks, when the caterpillar is fully grown, it is ready to start the third stage of the life cycle, the process of metamorphosis. In this stage, the caterpillar attaches itself to a stem or a leaf using silk and then transforms itself into a chrysalis by hardening its skin. Although from the outside the 10 days of the chrysalis phase may appear to be a time when nothing is happening, it is a time of rapid change. Within the chrysalis the body parts of the caterpillar undergo a remarkable transformation to become the beautiful parts that make up the butterfly that emerges. Finally, the monarch butterfly emerges from the chrysalis and flies away, feeding on flowers and enjoying the short life it has left, which is only a month to 6 weeks. Many generations of butterflies can come and go in a single year.</p>\n<p>Every November, monarch butterflies arrive in their preferred breeding environment in central Mexico to spend the winter, having spent around 2 months travelling up to 2,800 miles across fields, mountains, deserts and seas from Canada and the United States. Due to the long distances, monarch butterflies breed as they travel, with none of those setting off ever arriving at their destination. Central Mexico is ideal as the food and protection necessary for prolific breeding is provided by the heavily wooded areas the monarch butterflies choose.</p>\n<p>However, in the most recent migration, fewer of the orange- and red-winged monarchs made it to the end of the journey than ever before. The monarch butterfly population in Mexico was the lowest in 20 years, according to research just released by the WWF-Telcel Alliance and the monarch butterfly Biosphere Reserve Office of the Mexican government. The start of the arrival of the breeding pairs prompted the beginning of the research that showed a 43.7 per cent decrease (nearly three acres) in the total amount of forestland occupied by monarchs in and near Mexico’s monarch butterfly Biosphere Reserve, and a similar decrease in the number of butterflies in the area. The research was conducted over several weeks last year and the decrease is similar to that shown in the research conducted in the year before that.</p>\n<p>The decrease is due to the threats the monarchs experienced at different stages of their journey. At the beginning, their primary food source (milkweed plants) was in short supply because of herbicides used more regularly for agriculture in the US. While en route, the monarch butterflies had to avoid their usual predators and also faced extreme weather conditions, including higher than normal temperatures and storms. The hot temperatures also affect any breeding that occurs during migration, as temperatures above 95°F can be lethal for monarch larvae. Eggs dry out in hot, arid conditions, causing a drastic decrease in hatch rate. Monarchs prefer milder temperatures. Once they reached their winter sites in Mexico, the monarchs encountered scarce and deteriorating forests, the direct result of illegal logging. The lack of suitable environment has had a serious effect on the breeding of the butterflies.</p>\n<p>Recently, however, the Mexican government claimed in a research report that illegal logging has practically been eliminated in western Mexico, the principal wintering grounds of the monarch butterfly. Mexican officials now hope to use the successful programme of anti-logging patrols and payments to rural residents to solve other forestry conflicts throughout the country. The government, environmental groups and private donors have also spent millions of dollars to get residents of forest communities in butterfly reserve areas to plant trees and start eco-tourism businesses in order to benefit from the widespread fascination with the monarchs’ yearly multi-generational migration through Canada, the United States and Mexico.</p>\n<p>While Mexicans have started using monarch butterflies for eco-tourism, Americans and Canadians are using them for butterfly releases, which are now particularly popular at weddings. Dealers in monarch butterflies claim that releases are great for almost any special occasions, but releasing butterflies during a wedding can have a special significance for some couples. Some say it signifies that their love is as beautiful as the butterflies themselves. Others say that it means that their love will soar like butterflies. Some release one butterfly for each vow that they take. However, release should be done in a responsible way. Dealers recommend that the environmental conditions should be right. The temperature should be above 55°F and it should be sunny outside for the best effect, although butterflies can fly in light rain as well. There must still be a little bit of light as monarch butterflies will not fly at night, although sometimes they will fly for about 20 minutes after the sun sets.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_summary_completion_02.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_summary_completion_02.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "summary_completion",
+          "skill_tags": [
+            "rd_comp_summary"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 37 - 40</strong></p>\n<p>Complete the summary below.</p>\n<p>Use <strong>NO MORE THAN THREE WORDS</strong> from the text for each answer.</p>\n<table>\n<tr>\n<td><blank data-qid=\"q37\"/>  reduces the available Mexican forests, where monarch butterflies spend the winter. The Mexican government claims that this has now been stopped where the butterflies breed as a result of patrols and resolving local forestry conflicts. Lots of money has also been spent on planting trees and developing <blank data-qid=\"q38\"/>  related to the monarch butterfly’s migration.<br>North Americans sometimes use monarch butterflies for releases at special events, especially <blank data-qid=\"q39\"/> , where the release can take on various meanings. Releasing responsibly, however, means that <blank data-qid=\"q40\"/>  should be taken into account. The temperature, rain and amount of light can all affect the success of the release.</td>\n</tr>\n</table>",
+          "items": [
+            {
+              "question_id": "q37",
+              "number": 37,
+              "prompt_html": "Question 37",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q38",
+              "number": 38,
+              "prompt_html": "Question 38",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q39",
+              "number": 39,
+              "prompt_html": "Question 39",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q40",
+              "number": 40,
+              "prompt_html": "Question 40",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            37,
+            40
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

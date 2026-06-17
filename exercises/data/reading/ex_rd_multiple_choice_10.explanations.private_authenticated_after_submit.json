@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_10",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Căn cứ nằm ở đoạn B: \"Intelligent labelling and printing, for example, will be capable of communicating directly to the customer via thin film devices that provide sound and visual information in response to touch. Voice-activated safety and disposal instructions on household and pharmaceutical products will be used to tell the consumer how they should be disposed of after consumption. This information will also be used in the recycling industry to help sort packaging materials from waste streams.\". Phương án A (... can provide consumers with more information.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Intelligent labelling and printing, for example, will be capable of communicating directly to the customer via thin film devices that provide sound and visual information in response to touch. Voice-activated safety and disposal instructions on household and pharmaceutical products will be used to tell the consumer how they should be disposed of after consumption. This information will also be used in the recycling industry to help sort packaging materials from waste streams._"
+    },
+    "q22": {
+      "explanation": "Căn cứ nằm ở đoạn C: \"In the future, microbial growth and temperature-time visual indicators based on physical, chemical or enzymatic activity in the food will give a clear, accurate and unambiguous indication of product quality, safety and shelf-life condition. Thus, it will be possible to package a product in a way that communicates that its expected quality is still present. Another smart feature that is currently under development for food labelling is that of a sensor on a self-heating or self-cooling container that can visually indicate to the consumer that the product is at the correct temperature.\". Phương án B (... by activating the package with a finger.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "In the future, microbial growth and temperature-time visual indicators based on physical, chemical or enzymatic activity in the food will give a clear, accurate and unambiguous indication of product quality, safety and shelf-life condition. Thus, it will be possible to package a product in a way that communicates that its expected quality is still present. Another smart feature that is currently under development for food labelling is that of a sensor on a self-heating or self-cooling container that can visually indicate to the consumer that the product is at the correct temperature._"
+    },
+    "q23": {
+      "explanation": "Căn cứ nằm ở đoạn C: \"Food labelling is one area in which smart packaging could have a huge impact. The question as to whether, for example, a chilled ready-prepared meal is safe to consume is currently answered by \"best by\" date stamping.\". Phương án B (... is about to be launched on a product in the USA.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Food labelling is one area in which smart packaging could have a huge impact. The question as to whether, for example, a chilled ready-prepared meal is safe to consume is currently answered by \"best by\" date stamping._"
+    },
+    "q24": {
+      "explanation": "Căn cứ nằm ở đoạn B: \"Intelligent labelling and printing, for example, will be capable of communicating directly to the customer via thin film devices that provide sound and visual information in response to touch. Voice-activated safety and disposal instructions on household and pharmaceutical products will be used to tell the consumer how they should be disposed of after consumption. This information will also be used in the recycling industry to help sort packaging materials from waste streams.\". Phương án C (... will use sounds to limit the harm that could be caused by their products.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Intelligent labelling and printing, for example, will be capable of communicating directly to the customer via thin film devices that provide sound and visual information in response to touch. Voice-activated safety and disposal instructions on household and pharmaceutical products will be used to tell the consumer how they should be disposed of after consumption. This information will also be used in the recycling industry to help sort packaging materials from waste streams._"
+    }
+  }
+}

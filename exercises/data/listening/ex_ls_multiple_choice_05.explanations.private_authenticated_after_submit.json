@@ -1,0 +1,29 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_05",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q28": {
+      "explanation": "Người nói, Melanie, đang giải thích với người hướng dẫn rằng cô ấy chưa bắt đầu viết bài luận của mình. Câu này rõ ràng chỉ ra rằng mặc dù cô đã có một ý tưởng về chủ đề, nhưng cô chưa thực hiện bất kỳ công việc nào liên quan đến nó. Thông tin giúp tìm ra đáp án là cụm từ \"I've not done any work on it yet\" (tôi chưa làm bất kỳ công việc nào về nó). Paraphrase quan trọng ở đây là \"haven't started\" (chưa bắt đầu), vì nó có nghĩa tương tự với việc chưa làm gì cả. Bẫy có thể là việc người nghe có thể nghĩ rằng cô ấy đã có một ý tưởng, nhưng thực tế là cô chưa bắt đầu viết. Đáp án B là đúng vì nó phản ánh chính xác tình trạng của Melanie.",
+      "evidence": "I've got a subject, I think, but I've not done any work on it yet."
+    },
+    "q29": {
+      "explanation": "Melanie đang yêu cầu gia hạn thời gian nộp bài và người hướng dẫn hỏi cô có giấy chứng nhận từ bác sĩ hay không. Câu này cho thấy rằng mặc dù cô không có giấy xác nhận, nhưng việc cô đã đi khám bác sĩ có thể giúp cô có được gia hạn. Thông tin quan trọng là việc cô đã đi khám bác sĩ, điều này có thể được xem như là một lý do hợp lệ để xin gia hạn. Paraphrase quan trọng là \"doctor's note\" (giấy xác nhận của bác sĩ), vì nó thể hiện rằng cô cần một tài liệu chính thức để chứng minh lý do xin gia hạn. Bẫy có thể là việc người nghe có thể nghĩ rằng chỉ cần có đơn thuốc là đủ, nhưng thực tế là giấy chứng nhận từ bác sĩ là cần thiết. Đáp án A là đúng vì nó phản ánh rằng Melanie đã đi khám bác sĩ, điều này có thể giúp cô trong việc xin gia hạn.",
+      "evidence": "I went to the doctors, but I didn't get a note as I didn't realise I would need it."
+    },
+    "q30": {
+      "explanation": "Người hướng dẫn đang khen ngợi sự lựa chọn chủ đề của Melanie và cho rằng nó là một chủ đề tốt. Câu này chỉ ra rằng chủ đề của cô không chỉ thú vị mà còn có nhiều tài liệu để tham khảo. Thông tin giúp tìm ra đáp án là cụm từ \"this has been fairly well documented\" (điều này đã được tài liệu hóa khá tốt), cho thấy rằng có nhiều thông tin có sẵn về chủ đề này. Paraphrase quan trọng là \"it is original\" (nó là độc đáo), vì người hướng dẫn không chỉ nói về sự thú vị mà còn về tính mới mẻ của chủ đề. Bẫy có thể là việc người nghe nghĩ rằng chủ đề chỉ cần thú vị là đủ, nhưng thực tế là việc có nhiều tài liệu hỗ trợ cũng rất quan trọng. Đáp án C là đúng vì nó phản ánh rằng sự lựa chọn chủ đề của Melanie không chỉ thú vị mà còn có nhiều thông tin để cô có thể khai thác.",
+      "evidence": "Certainly an interesting subject, and it should be no great problem getting information as this has been fairly well documented."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> And Melanie, how's your work going?</p><p><strong>Speaker 3:</strong> I'm a bit behind, I'm afraid. I was sick all last week and weekend with flu. I've got a subject, I think, but I've not done any work on it yet. Is there any chance I can get an extension to the submission date?</p><p><strong>Speaker 2:</strong> The policy of the department is not to give any extensions unless there are extenuating circumstances. Do you have a doctor's certificate or anything?</p><p><strong>Speaker 3:</strong> I went to the doctors, but I didn't get a note as I didn't realise I would need it. The doctor will have a record of me, though, as I got a prescription. I'll go back and get one.</p><p><strong>Speaker 2:</strong> Yes, do. If you get one, then there shouldn't be a problem getting an extension. Without it, though, you'll be in trouble. </p><p><strong>Speaker 1:</strong> What subject are you considering, anyway?</p><p><strong>Speaker 3:</strong> I thought I'd do an overview of the UK mortgage interest rates and their effect on housing sales trends over the last ten years. I thought it might be of interest because of the huge increases of house prices over the last decade.</p><p><strong>Speaker 2:</strong> Certainly an interesting subject, and it should be no great problem getting information as this has been fairly well documented. It's a lot of work again, though, and you'll really need to get cracking on it, even with the extension, if you get one.</p><p><strong>Speaker 3:</strong> Well, I've not got much on for the rest of the week, and I've set aside the weekend to really get to grips with it.</p><p><strong>Speaker 2:</strong> Good. Now, is there anything else?</p>"
+}

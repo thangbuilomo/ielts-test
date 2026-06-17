@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_information_18",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q36": {
+      "explanation": "Câu 36 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 6 chứa căn cứ: \"Dr Steven Mazie, a correspondent for The Economist, believes this idea stems from what he calls a \"faddish denial that human beings can think straight\". He is of the opinion that humans are rational creatures, despite the current trend to cast them in the opposite light. Other commentators have also called into question the fundamental basis of rationality communities such as Less Wrong — that being irrational is a bad thing.\". Lựa chọn SM (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Dr Steven Mazie, a correspondent for The Economist, believes this idea stems from what he calls a \"faddish denial that human beings can think straight\". He is of the opinion that humans are rational creatures, despite the current trend to cast them in the opposite light. Other commentators have also called into question the fundamental basis of rationality communities such as Less Wrong — that being irrational is a bad thing._"
+    },
+    "q37": {
+      "explanation": "Câu 37 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 3 chứa căn cứ: \"He further highlights three focus areas: truthseeking, impact and what he simply terms as ‘human’. The first deals with aiming to improve our thinking and applying that knowledge to better understand the world, while the next concerns applying that new mindset to make a real difference in the world. The final focus area relates to one's own life and how it can be improved along with the lives of those close to us through the application of rationality techniques.\". Lựa chọn DB (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "He further highlights three focus areas: truthseeking, impact and what he simply terms as ‘human’. The first deals with aiming to improve our thinking and applying that knowledge to better understand the world, while the next concerns applying that new mindset to make a real difference in the world. The final focus area relates to one's own life and how it can be improved along with the lives of those close to us through the application of rationality techniques._"
+    },
+    "q38": {
+      "explanation": "Câu 38 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 6 chứa căn cứ: \"Dr Steven Mazie, a correspondent for The Economist, believes this idea stems from what he calls a \"faddish denial that human beings can think straight\". He is of the opinion that humans are rational creatures, despite the current trend to cast them in the opposite light. Other commentators have also called into question the fundamental basis of rationality communities such as Less Wrong — that being irrational is a bad thing.\". Lựa chọn EMS (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Dr Steven Mazie, a correspondent for The Economist, believes this idea stems from what he calls a \"faddish denial that human beings can think straight\". He is of the opinion that humans are rational creatures, despite the current trend to cast them in the opposite light. Other commentators have also called into question the fundamental basis of rationality communities such as Less Wrong — that being irrational is a bad thing._"
+    },
+    "q39": {
+      "explanation": "Câu 39 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 6 chứa căn cứ: \"Dr Steven Mazie, a correspondent for The Economist, believes this idea stems from what he calls a \"faddish denial that human beings can think straight\". He is of the opinion that humans are rational creatures, despite the current trend to cast them in the opposite light. Other commentators have also called into question the fundamental basis of rationality communities such as Less Wrong — that being irrational is a bad thing.\". Lựa chọn HB (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Dr Steven Mazie, a correspondent for The Economist, believes this idea stems from what he calls a \"faddish denial that human beings can think straight\". He is of the opinion that humans are rational creatures, despite the current trend to cast them in the opposite light. Other commentators have also called into question the fundamental basis of rationality communities such as Less Wrong — that being irrational is a bad thing._"
+    },
+    "q40": {
+      "explanation": "Câu 40 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 5 chứa căn cứ: \"Science writer David Berreby notes that people generally cannot tell when they are being rational, cannot become more so by willpower alone and often believe their behaviour is rational when, in fact, it is not. He raises the example of court judges, whose remit is to be unbiased authorities of the law. In a research study conducted by German psychologists Englich, Mussweiler and Strack, it was found that judges who rolled a die before adjudicating a case would give a longer sentence if a higher number came up than those who rolled a lower number.\". Lựa chọn EY (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Science writer David Berreby notes that people generally cannot tell when they are being rational, cannot become more so by willpower alone and often believe their behaviour is rational when, in fact, it is not. He raises the example of court judges, whose remit is to be unbiased authorities of the law. In a research study conducted by German psychologists Englich, Mussweiler and Strack, it was found that judges who rolled a die before adjudicating a case would give a longer sentence if a higher number came up than those who rolled a lower number._"
+    }
+  }
+}

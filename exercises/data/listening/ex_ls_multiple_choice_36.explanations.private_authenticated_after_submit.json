@@ -1,0 +1,29 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_36",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q28": {
+      "explanation": "Người nói đang thảo luận về các địa điểm có thể thực hiện khảo sát. Câu nói của Speaker 2 cho thấy sự đồng tình với việc chọn quảng trường là một trong những địa điểm khảo sát. Thông tin giúp tìm ra đáp án là sự nhấn mạnh vào \"the square\" (quảng trường), cho thấy đây là một lựa chọn khả thi. Paraphrase quan trọng ở đây là \"the square\" có thể được hiểu là \"the town square\". Bẫy có thể là sự nhầm lẫn giữa các địa điểm khác, nhưng vì Speaker 2 đã khẳng định rằng quảng trường là một lựa chọn tốt, nên đáp án này là chính xác.",
+      "evidence": "I think the square is great..."
+    },
+    "q29": {
+      "explanation": "Người nói đang xem xét các địa điểm khác nhau cho khảo sát và đã đề cập đến \"the high street corners\" (các góc đường High Street) như là những lựa chọn khả thi. Thông tin này giúp xác định rằng ít nhất một trong những địa điểm được chọn là ở góc đường High Street. Paraphrase quan trọng là \"the high street corners\" có thể liên quan đến \"the corner of the High Street and College Road\". Bẫy có thể là sự nhầm lẫn giữa các góc đường khác, nhưng vì Speaker 2 đã khẳng định rằng hai địa điểm này là tốt, nên đáp án này là chính xác.",
+      "evidence": "I think that the two on the high street corners are good."
+    },
+    "q30": {
+      "explanation": "Người nói đang quyết định về địa điểm cuối cùng cho khảo sát và đã đề xuất sử dụng cửa hàng Dobbins. Thông tin này là rất rõ ràng và trực tiếp, cho thấy rằng Dobbins là một trong những địa điểm được chọn. Paraphrase quan trọng là \"use Dobbin's department store\" có nghĩa là chọn địa điểm này cho khảo sát. Bẫy có thể là sự nhầm lẫn với các địa điểm khác, nhưng vì Speaker 1 đã khẳng định rằng họ sẽ sử dụng cửa hàng Dobbins, nên đáp án này là chính xác.",
+      "evidence": "We should use Dobbin's department store instead."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Now, Professor Walker asked where we were going to do the survey. Does he want to avoid that area then? Probably. </p><p><strong>Speaker 2:</strong> Now, we can either all stay together or split up and do different locations. </p><p><strong>Speaker 3:</strong> Well, if we split up, then I think we've got a better chance of getting more people surveyed. </p><p><strong>Speaker 1:</strong> Yes, I agree with Laura. OK, now I made a list of the possible locations in Wesley where we could station ourselves. There's the town square, at the entrance to the train station, at the university cafeteria, outside Dobbin's department store, on the corner of the high street and college road, the bus station, and the corner of the high street and Wilkins Road. What do you think? </p><p><strong>Speaker 2:</strong> I think the square is great, but the people at the train station will be travelling and often in a hurry. </p><p><strong>Speaker 3:</strong> I agree with all that, and I think the bus station will have the same problem as the train station. </p><p><strong>Speaker 1:</strong> OK, that's those two out then. I think the other ones in town were good too. The cafeteria will have too many students and that will create too great a bias to our survey. We need a good cross-section of the population and anywhere too close to the university won't give us that. </p><p><strong>Speaker 2:</strong> Laura's right. So, out of the other town ones, I think that the two on the high street corners are good. </p><p><strong>Speaker 3:</strong> I don't agree. The high street corner with college road will be good, but the corner with Wilkins Road is too far out. Not enough people will come by there. </p><p><strong>Speaker 1:</strong> Yes, Mel's right there. We should use Dobbin's department store instead. </p><p><strong>Speaker 2:</strong> I can see your point. OK, that's settled then. All three of us will be stationed in town then, but not the Wilkins Road position.</p>"
+}

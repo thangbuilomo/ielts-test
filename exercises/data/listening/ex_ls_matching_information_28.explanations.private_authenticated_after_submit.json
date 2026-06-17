@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_28",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Người nói đang mô tả về khu vực \"forge\" trong bảo tàng, nơi mà du khách có thể tham gia vào việc chế tác các vật dụng. Thông tin giúp tìm ra đáp án là cụm từ \"we get you to do it yourself\", cho thấy rằng hoạt động chính ở đây là học một kỹ năng thực tiễn. Paraphrase quan trọng là \"carefully crafting a useful object\", nhấn mạnh vào việc thực hành. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì khu vực \"forge\" tập trung vào việc học hỏi và thực hành kỹ năng chế tác.",
+      "evidence": "But we don't just tell you about it. We get you to do it yourself, so you'll get experience of carefully crafting a useful object like a knife."
+    },
+    "q16": {
+      "explanation": "Người nói đang giới thiệu về khu vực \"market\", nơi có người giải thích lịch sử sẽ nói chuyện trực tiếp với du khách. Thông tin giúp tìm ra đáp án là cụm từ \"telling you what it was like\", cho thấy đây là một hoạt động nghe trực tiếp. Paraphrase quan trọng là \"historical interpreters will be there in person\", nhấn mạnh vào sự hiện diện của người nói. Không có bẫy trong câu này, vì thông tin rất cụ thể. Đáp án đúng vì khu vực \"market\" chủ yếu là để lắng nghe những câu chuyện về lịch sử.",
+      "evidence": "one of our historical interpreters will be there in person, telling you what it was like to work on a farm growing produce like wheat and vegetables."
+    },
+    "q17": {
+      "explanation": "Người nói đang nói về khu vực \"bakery\", nơi có các món ăn được làm theo phương pháp nấu ăn cổ xưa. Thông tin giúp tìm ra đáp án là cụm từ \"on sale\", cho thấy rằng du khách có thể mua các sản phẩm. Paraphrase quan trọng là \"the kinds of foods that local people would have eaten\", nhấn mạnh vào việc trải nghiệm ẩm thực. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì khu vực \"bakery\" chủ yếu là để mua các món ăn.",
+      "evidence": "These are on sale there for you to try."
+    },
+    "q18": {
+      "explanation": "Người nói đang mô tả khu vực \"building zone\", nơi có một bộ phim hoạt hình về sự phát triển của thành phố. Thông tin giúp tìm ra đáp án là cụm từ \"enjoy the spectacular time-lapse animated movie\", cho thấy hoạt động chính là xem phim. Paraphrase quan trọng là \"sit down to enjoy\", nhấn mạnh vào việc thư giãn khi xem. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì khu vực \"building zone\" chủ yếu là để xem phim.",
+      "evidence": "you have the chance to sit down to enjoy the spectacular time-lapse animated movie of Arvington developing over the last 1,000 years."
+    },
+    "q19": {
+      "explanation": "Người nói đang nói về khu vực \"hall\", nơi mà du khách có thể tham gia vào việc làm quần áo. Thông tin giúp tìm ra đáp án là cụm từ \"have a go at helping\", cho thấy rằng đây là một hoạt động thực hành. Paraphrase quan trọng là \"make a piece of clothing yourself\", nhấn mạnh vào việc học hỏi kỹ năng. Không có bẫy trong câu này vì thông tin rất cụ thể. Đáp án đúng vì khu vực \"hall\" chủ yếu là để học hỏi kỹ năng làm quần áo.",
+      "evidence": "you can have a go at helping one of our historical interpreters to make a piece of clothing yourself."
+    },
+    "q20": {
+      "explanation": "Người nói đang mô tả khu vực \"basement\", nơi có nhiều hàng hóa để mua. Thông tin giúp tìm ra đáp án là cụm từ \"wide variety of merchandise available\", cho thấy rằng du khách có thể mua sắm. Paraphrase quan trọng là \"including books and toys\", nhấn mạnh vào các sản phẩm cụ thể. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì khu vực \"basement\" chủ yếu là để mua sắm hàng hóa.",
+      "evidence": "there's a wide variety of merchandise available, including books and toys."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: This recording is copyright. You will hear a guide welcoming visitors to a museum, which shows how ordinary people lived and worked in the past in a town called Arvington. You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 1:</strong> Let me tell you about some of the areas you'll walk through. The museum is set up so that you walk through displays that take you back through different periods in Arvington's history and see how people lived. </p><p><strong>Speaker 1:</strong> Starting with the forge, you can go back 1,000 years in time and see how skilled workers crafted everyday objects out of wood and metal. But we don't just tell you about it. We get you to do it yourself, so you'll get experience of carefully crafting a useful object like a knife.</p><p><strong>Speaker 1:</strong> And then, in the market, one of our historical interpreters will be there in person, telling you what it was like to work on a farm growing produce like wheat and vegetables, and then carry it all over very long distances to a market to try and sell. You can ask the interpreters questions, of course, and you'll find they're very knowledgeable.</p><p><strong>Speaker 1:</strong> Staying with the subject of food, the next area in the museum is the bakery, where we make the kinds of foods that local people would have eaten in the past, using the original cooking techniques. These are on sale there for you to try. The recipes and cooking methods may be ancient, but 21st century forms of payment are accepted.</p><p><strong>Speaker 1:</strong> Next on the tour is the building zone, where you have the chance to sit down to enjoy the spectacular time-lapse animated movie of Arvington developing over the last 1,000 years, from a tiny village into the town we have today. It's just three minutes long, but you can view it as many times as you like.</p><p><strong>Speaker 1:</strong> After that, you'll come to the hall, a space that's devoted to the clothing industry, which was a huge part of the economy of Arvington and the surrounding area in the past. You can find out how clothing was made when everything was done by hand, and you can have a go at helping one of our historical interpreters to make a piece of clothing yourself. So if you never knew how to sew a button back onto a shirt, you might find it useful.</p><p><strong>Speaker 1:</strong> Finally, the tour ends down in the basement, where there's a wide variety of merchandise available, including books and toys. A final tip, download the museum app and you get an introductory discount voucher, which you can use on purchases in the basement, as well as commentary on all the exhibits in the museum. </p><p><strong>Speaker 1:</strong> Anyway, enjoy your visit.</p>"
+}

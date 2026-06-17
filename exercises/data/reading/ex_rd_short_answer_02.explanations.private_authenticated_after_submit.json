@@ -1,0 +1,24 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_short_answer_02",
+  "module": "reading",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q13": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn E, bài viết nêu: \"This is mainly due to the release of man-made chemicals containing chlorine such as CFCs (chlorofluorocarbons), but also compounds containing bromine, other related halogen compounds and nitrogen oxides. CFCs are a common industrial product, used in refrigeration systems, air conditioners, aerosols, solvents and in the production of some types of packaging. Nitrogen oxides are a by-product of combustion processes, for example aircraft emissions.\". Cụm aircraft emissions khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "This is mainly due to the release of man-made chemicals containing chlorine such as CFCs (chlorofluorocarbons), but also compounds containing bromine, other related halogen compounds and nitrogen oxides. CFCs are a common industrial product, used in refrigeration systems, air conditioners, aerosols, solvents and in the production of some types of packaging. Nitrogen oxides are a by-product of combustion processes, for example aircraft emissions._"
+    },
+    "q14": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn F, bài viết nêu: \"The ozone depletion process begins when CFCs and other ozone depleting substances are emitted into the atmosphere where winds efficiently mix and evenly distribute the gases. CFCs are extremely stable and they do not dissolve in rain. After a period of several years, natural gases in the stratosphere combine with CFCs and this releases chlorine atoms, halons and methyl bromide.\". Cụm winds khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The ozone depletion process begins when CFCs and other ozone depleting substances are emitted into the atmosphere where winds efficiently mix and evenly distribute the gases. CFCs are extremely stable and they do not dissolve in rain. After a period of several years, natural gases in the stratosphere combine with CFCs and this releases chlorine atoms, halons and methyl bromide._"
+    }
+  }
+}

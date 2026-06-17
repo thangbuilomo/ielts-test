@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_matching_information_27",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MATCHING%20INFORMATION%20TO%20CATEGORIES%2027.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. </p><p><strong>Speaker 2:</strong> Now answer the questions on your screen. </p><p><strong>Speaker 3:</strong> The story began a few days before Christmas in 1938, when the first living coelacanth was discovered off the east coast of South Africa at the mouth of the Chalumna River. </p><p><strong>Speaker 1:</strong> The fish was caught in a shark gill net by Captain Goosen and his crew, who, recognising the bizarre nature of their catch, alerted the local museum in the small South African town of East London. </p><p><strong>Speaker 2:</strong> The director of the East London Museum at the time was Miss Marjorie Courtney-Latimer, after whom the coelacanth was eventually named. </p><p><strong>Speaker 3:</strong> Miss Courtney-Latimer offered bounties to fishermen for unfamiliar fish. </p><p><strong>Speaker 1:</strong> It was Miss Courtney-Latimer who alerted the prominent South African ichthyologist Dr JLB Smith, who initially identified the fish and subsequently informed the world about this amazing discovery. </p><p><strong>Speaker 2:</strong> This first coelacanth led to the discovery of the first documented population off the remote Comoros Islands between the mainland of Africa and Madagascar. </p><p><strong>Speaker 3:</strong> For 60 years this was presumed to be the only coelacanth population in existence. </p><p><strong>Speaker 1:</strong> Originally it was a concern that the coelacanth might have a very limited range and that overfishing along the Comoros Islands might wipe it out. </p><p><strong>Speaker 2:</strong> However, scientists were amazed when, on July the 30th, 1998, an American scientist discovered a coelacanth population in Indonesia. </p><p><strong>Speaker 3:</strong> Dr Mark Erdman was on a honeymoon trip to the area investigating a coral reef research site when he spotted a strange fish being wheeled into the fish market. </p><p><strong>Speaker 1:</strong> He recognised the fish as a coelacanth and snapped a picture before it was sold.</p>"
+    }
+  ]
+}

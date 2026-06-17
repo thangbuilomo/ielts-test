@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_30",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2030.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> So, the influence of Magna Carta has been far-reaching. When English colonialists sailed across to America in the early 17th century, they carried with them their own charters. These charters contained clauses very similar to those found in Magna Carta. They focused around providing the new settlers with the same rights that they would have had when in England. </p><p><strong>Speaker 1:</strong> Through these charters, a tradition of English liberties was inculcated in the early U.S. colonies, and when the British government violated one of these liberties, the Americans went to war to protect their rights. This was known as the War of Independence. It lasted over eight years and led to the creation of the 1789 Bill of Rights. </p><p><strong>Speaker 1:</strong> The 1789 Bill of Rights took much of its inspiration from the English Bill of Rights, which was another document highly influenced by Magna Carta. The U.S. version included clauses on such familiar things as trial by jury, due process of law, and freedom from cruel and unusual punishment. It embedded these principles within the U.S. Constitution, forming the keystone for U.S. democracy as we know it today. </p><p><strong>Speaker 1:</strong> If we look further still, Magna Carta can be seen as a precursor to the 1948 Universal Declaration of Human Rights. This document came about as a reaction to the horrors of the Second World War. Just like the 1789 Bill of Rights, it intentionally echoed the clauses of Magna Carta in reference to things like freedom of movement, arbitrary arrest, and trial by jury. </p><p><strong>Speaker 1:</strong> Eleanor Roosevelt even stated that she hoped the Universal Declaration would become the international Magna Carta of all men everywhere. So, as we can see, it is this spirit of freedom and equality, of fairness and justice, that has made Magna Carta such a seminal document. It has inspired many others over the last 800 years and will no doubt continue to do so in the years to come.</p>"
+    }
+  ]
+}

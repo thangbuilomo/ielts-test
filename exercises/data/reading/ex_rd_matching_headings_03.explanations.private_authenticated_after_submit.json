@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_03",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Insomnia occurs most frequently in people over the age of 60, in people with a history of depression, and in women, especially after the menopause. Severe emotional trauma can also cause insomnia, with divorced, widowed and separated people being the most likely to suffer from this sleep disorder.\". Heading viii (The Roots of Insomnia) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Insomnia occurs most frequently in people over the age of 60, in people with a history of depression, and in women, especially after the menopause. Severe emotional trauma can also cause insomnia, with divorced, widowed and separated people being the most likely to suffer from this sleep disorder._"
+    },
+    "q2": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The mechanism that induces sleep and the reason why sleep is necessary for good health and efficient mental functioning is not fully understood. We do know that sleep consists of two very different states: rapid eye movement (REM) sleep and non-REM sleep.\". Heading i (Normal Sleep Patterns) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The mechanism that induces sleep and the reason why sleep is necessary for good health and efficient mental functioning is not fully understood. We do know that sleep consists of two very different states: rapid eye movement (REM) sleep and non-REM sleep._"
+    },
+    "q3": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Researchers and healthcare providers define insomnia in several ways. One way is to categorise insomnia by how often it occurs.\". Heading ix (Classes of Insomnia) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Researchers and healthcare providers define insomnia in several ways. One way is to categorise insomnia by how often it occurs._"
+    },
+    "q4": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Improving one’s sleep hygiene helps improve insomnia in all patients. Relaxing during the hour before you go to sleep and creating a comfortable environment suited for sleep can be helpful.\". Heading vii (When Should Insomnia be Treated?) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Improving one’s sleep hygiene helps improve insomnia in all patients. Relaxing during the hour before you go to sleep and creating a comfortable environment suited for sleep can be helpful._"
+    },
+    "q5": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Not getting enough sleep can make you less productive, irritable and unable to concentrate. Lack of sleep can make it seem as if you “got out of the wrong side of bed\".\". Heading v (Complications for Insomniacs) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Not getting enough sleep can make you less productive, irritable and unable to concentrate. Lack of sleep can make it seem as if you “got out of the wrong side of bed\"._"
+    },
+    "q6": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Establishing certain set routines can help insomniacs get better sleep. Examples of these routines include: going to bed and getting up at the same time every day, avoiding naps, avoiding caffeine, nicotine, alcohol and eating heavily late in the day, exercising regularly and making your bedroom comfortable in terms of the bed, noise and temperature.\". Heading iii (Habits to Promote a Good Night’s Sleep) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Establishing certain set routines can help insomniacs get better sleep. Examples of these routines include: going to bed and getting up at the same time every day, avoiding naps, avoiding caffeine, nicotine, alcohol and eating heavily late in the day, exercising regularly and making your bedroom comfortable in terms of the bed, noise and temperature._"
+    }
+  }
+}

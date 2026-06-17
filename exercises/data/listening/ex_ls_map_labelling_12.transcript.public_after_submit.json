@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_map_labelling_12",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MAP%20LABELLING%2012.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> Hello, everyone. Welcome to Hargrove Nature Reserve, and thank you for coming to help us this weekend. </p><p><strong>Speaker 1:</strong> I'd like to start by showing you the map so you can see the layout of the land we're looking after. As you know, the reserve is about a kilometre away from Hargrove Town Centre, which is just off the map. </p><p><strong>Speaker 1:</strong> And there's a network of paths shown by the dotted lines across the reserve and showing you all the access points. One reason the site is so good for wildlife is that there was already a lot of it nearby, and that's thanks to the allotment gardens, which you can see over on the left of the map. </p><p><strong>Speaker 1:</strong> They're surrounded by the path that leads to the town centre, the nature reserve itself, and the school playing fields. Having a large, uninterrupted area is really good for insects and birds, and that attracts other wildlife too. </p><p><strong>Speaker 1:</strong> We have a little toilet, and that's kind of encircled by trees about halfway up the reserve. Worth knowing where that is. It's open all the time. </p><p><strong>Speaker 1:</strong> There's also a pond which was built by volunteers and where we've already got a healthy population of toads at this time of year. We decided to situate that for the safety of the animals in the bottom right corner of the site, as you look at the map, next to the sharp bend on the road. </p><p><strong>Speaker 1:</strong> There's a big wall, of course, marking the boundary of the reserve, so there's no danger to the animals from vehicles going along the road past the reserve. </p><p><strong>Speaker 1:</strong> While you're working, you'll need various tools which we keep in our shed. Well, that's at the point where several of the footpaths meet. It's kept locked, so just ask one of the volunteer leaders if you need to use it.</p>"
+    }
+  ]
+}

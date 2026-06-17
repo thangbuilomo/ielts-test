@@ -1,0 +1,129 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_summary_completion_07",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "summary_completion",
+  "category_id": "summary_completion",
+  "title": "Summary Completion - Exercise 7",
+  "duration_seconds": 0,
+  "content": {
+    "title": "CREATING WRITING - FROM MIND TO PAGE",
+    "content_html": "<h1>SUMMARY COMPLETION 07</h1>\n<h2>CREATING WRITING - FROM MIND TO PAGE</h2>\n<p><strong>A\n</strong>A common phenomenon in literature, writer's block might be regarded as a dead-end for the creative mind. A psychological condition meaning writers are unable to create new work, writer’s block is historically well-documented through a plethora of famous creative minds whose pools of inspiration dried up suddenly and, seemingly, inexplicably. Few are the writers - professional or otherwise - who can profess to never having suffered from it, yet the causes and possible treatments of this affliction are far from clear-cut.</p>\n<p><strong>B\n</strong>Western understanding of creativity and what it encompasses has changed over the centuries.  In Ancient Greece, art was concerned with imitating something already in existence, hence adhering to rules rather than freedoms. No term existed then for our modern-day understanding of creativity. However, the poet was considered an exception to these 'rules' and later, in Roman times, imagination and inspiration came to be viewed as shared traits among visual artists as well as poets. Throughout the Renaissance, creativity continued its struggle for recognition and was first applied in a modern day context in the seventeenth century. Although this instance only related to poetry, throughout the nineteenth and twentieth centuries the concept developed into what we recognise it as today: the use of imagination and original ideas in the creation of new things. In short, it is inventiveness.</p>\n<p><strong>C\n</strong>The term ‘writer’s block’ was originally coined in 1947 by Edmund Bergler, a Freudian psychoanalyst, who believed it to be a psychological block requiring therapy to recover from, considered by many a rather vague conclusion. However, empirical research in the seventies and eighties by Yale psychologists Jerome Singer and Michael Barrios supported his conclusions. Singer and Barrios took a diverse group of writers both ‘blocked’ and not, who underwent a series of psychological tests. They discovered four groups among the blocked writers, their main common factor being unhappiness and depression. Of the four groups, the first were overly self-critical leading to a lack of motivation to put pen to paper, whereas the second displayed concern about being compared to and criticised by others. A third group were found to lack originality and suffered from feeling constrained by the rules to which they felt they must adhere. The final group showed narcissistic tendencies, extrinsically motivated and craving admiration and recognition. Although the research unearthed fresh data, its conclusion was less so: keep writing, doodling, putting anything on paper to prove the talent still exists and waiting for inspiration - the muse - to strike.</p>\n<p><strong>D\n</strong>This echoes a quote of Picasso’s, that ‘Inspiration exists, but it has to find us working’, a concept introduced by Graham Wallas years prior to Singer and Barrio’s research. Inspiration, or 'illumination' as Wallas terms it, is outlined as the third of a four-stage creative process model in his 1926 publication The Art of Thought, preceded by 'preparation' and 'incubation', and followed by 'verification'. Based on empirical research of inventors and polymaths, this model was later paralleled by Michael Cowley in his 1958 model of the four stages of writing. Both agree that 'illumination' is only possible after the preceding two stages. According to Wallas, the preparation stage concerns research and planning, after which 'incubation' occurs. Wallas describes this as 'voluntary abstention from conscious thought' about the issue at hand while one patiently waits for a 'flash' or 'click' of inspiration, admitting that forcing the muse's hand is not possible. After this finally arrives, 'verification' takes place, which, in the writer's context, concerns the editing and re-editing process.</p>\n<p><strong>E\n</strong>Yet to get to that stage, the writer’s block, or the stress causing it, has to be removed. Under stress, the human brain puts the limbic system rather than the cerebral cortex in control. The former is responsible for emotion, behaviour and the 'fight or flight' response and better deals with stress than the latter, which plays a key role in cognition, awareness, thought and language. The result of this change is a shift in brain function away from creativity and the arrival of the long-awaited inspiration. Suggested coping strategies range from meditation and group discussion, to free writing and brainstorming, techniques suggested by the aforementioned researchers, psychologists and creative geniuses.</p>\n<p><strong>F\n</strong>Some historical cases of writer's block exemplify its debilitating nature. Eighteenth-century poet Samuel Taylor Coleridge produced his best work during his twenties, after which he resorted to opium and became deeply depressed at the loss of his literary 'gift', whereas American novelist Truman Capote is believed to have had a nervous breakdown later in life, contributing to the perpetual 'unfinished' status of his masterpiece Answered Prayers. Horror novelist Stephen King suffered a four-month bout while attending university during which he took to alcohol and soap operas, while English musician Sting was unable to write songs for almost a decade, eventually finding his cure by revisiting his childhood hometown. It would appear, therefore, that each case of writer's block is as individual and unique as the work created in its absence. The only real way to overcome it, as Picasso believed, is to keep working until inspiration finds us.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_summary_completion_07.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_summary_completion_07.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "summary_completion",
+          "skill_tags": [
+            "rd_comp_summary"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 33 - 37</strong></p>\n<p>Complete the summary with the words from the list. Write the correct letter <strong>A - H </strong>for each answer.</p>\n<table>\n<tr>\n<td><strong>A </strong>characteristic</td>\n<td><strong>B </strong>insight</td>\n<td><strong>C </strong>citation</td>\n<td><strong>D </strong>artistic expression</td>\n</tr>\n<tr>\n<td><strong>E </strong>standards</td>\n<td><strong>F</strong> procedure</td>\n<td><strong>G</strong> flow</td>\n<td><strong>H</strong> treatment</td>\n</tr>\n</table>\n\n<table>\n<tr>\n<td>The current Western understanding of creativity had no concrete label until the 1600s, although this only encompassed one discipline of <blank data-qid=\"q33\"/><br>. Before this time, creativity's limitations were due to established <blank data-qid=\"q34\"/><br>until individual vision became a recognised <blank data-qid=\"q35\"/><br>of the concept.<br>Writer's block is an obstruction to this <blank data-qid=\"q36\"/><br>of inspiration, which some experts believe requires <blank data-qid=\"q37\"/><br>to overcome. Others, however, believe that continuing to write despite the block is key to the flair for words returning.</td>\n</tr>\n</table>",
+          "items": [
+            {
+              "question_id": "q33",
+              "number": 33,
+              "prompt_html": "Question 33",
+              "response_type": "select"
+            },
+            {
+              "question_id": "q34",
+              "number": 34,
+              "prompt_html": "Question 34",
+              "response_type": "select"
+            },
+            {
+              "question_id": "q35",
+              "number": 35,
+              "prompt_html": "Question 35",
+              "response_type": "select"
+            },
+            {
+              "question_id": "q36",
+              "number": 36,
+              "prompt_html": "Question 36",
+              "response_type": "select"
+            },
+            {
+              "question_id": "q37",
+              "number": 37,
+              "prompt_html": "Question 37",
+              "response_type": "select"
+            }
+          ],
+          "options": [
+            {
+              "label": "A",
+              "text": "characteristic"
+            },
+            {
+              "label": "B",
+              "text": "insight"
+            },
+            {
+              "label": "C",
+              "text": "citation"
+            },
+            {
+              "label": "D",
+              "text": "artistic expression"
+            },
+            {
+              "label": "E",
+              "text": "standards"
+            },
+            {
+              "label": "F",
+              "text": "procedure"
+            },
+            {
+              "label": "G",
+              "text": "flow"
+            },
+            {
+              "label": "H",
+              "text": "treatment"
+            }
+          ],
+          "question_range": [
+            33,
+            37
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

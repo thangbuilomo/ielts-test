@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_flow_chart_completion_09",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/FLOW%20CHART%20COMPLETION%2009.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong> (Tom): Hi Amy, we're presenting together next week, aren't we?  </p><p>Speaker 2 (Amy): Hi Tom, yeah. Shall we plan how to approach this task?  </p><p>Speaker 1 (Tom): Good idea. So, the impacts of globalisation, huge subject, isn't it?  </p><p>Speaker 2 (Amy): Absolutely, but the tutor told us to first find a specific angle to address.  </p><p>Speaker 1 (Tom): She did, yes, something that shows globalisation in practice, like pharmaceutical companies promoting medications across the world or whatever.  </p><p>Speaker 2 (Amy): That's one option, but we can consider others too.  </p><p>Speaker 1 (Tom): Sure, yeah. And once we've picked one, well, then as we're planning our presentation, we'll need to bear in mind what skills we need to demonstrate to get a decent mark.  </p><p>Speaker 2 (Amy): Yes, there's a section on grading in our module handbook. It says what they'll be basing our scores on. It's quite detailed actually.  </p><p>Speaker 1 (Tom): Right, worth looking at a few times then.  </p><p>Speaker 2 (Amy): Yeah. Another thing we can do is start gathering quantitative data to use in the presentation, like year-on-year increases in a particular country's gross domestic product.  </p><p>Speaker 1 (Tom): Sure, or the proportion of its food that's imported.  </p><p>Speaker 2 (Amy): Exactly. Whatever point we're making, it'll need to be backed up with figures like that.  </p><p>Speaker 1 (Tom): Right, and as soon as we've started collecting that sort of stuff, we'll have to make a note of where we got our information from.  </p><p>Speaker 2 (Amy): Obviously we can use broadcast media as well as the written word. Radio news shows, that kind of thing.  </p><p>Speaker 1 (Tom): Exactly, but we'd need to be able to provide the date of the programme we were referring to, name of the journalist and so on.  </p><p>Speaker 2 (Amy): Yes, because we're expected to include a slide with references, right?  </p><p>Speaker 1 (Tom): Yeah. And in terms of the presentation we deliver on assessment day, it's got to be clear to everyone in the room how it's all going to be sequenced, how one stage leads to another.  </p><p>Speaker 2 (Amy): We'll have to decide how to explain that to them.  </p><p>Speaker 1 (Tom): Probably best to include a slide which shows how it's going to be organised.  </p><p>Speaker 2 (Amy): Right. And once we've put the slides together, it's really essential that we allow ourselves a chance to rehearse, actually deliver the whole presentation, but in private, without an audience.  </p><p>Speaker 1 (Tom): Could maybe film ourselves.  </p><p>Speaker 2 (Amy): Good idea. And double-check how long we've got and make sure we don't go over that.  </p><p>Speaker 1 (Tom): OK, great. Well, I'm glad we've been able to agree on...</p>"
+    }
+  ]
+}

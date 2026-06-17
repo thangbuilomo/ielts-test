@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_22",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2022.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>:You now have some time to look at the questions on your screen. Now answer the questions on your screen. Hi, Max. Hi, John. How are you today? </p><p><strong>Speaker 2:</strong>I'm good, thanks, Max. So, have you come to discuss our trip to New York?</p><p><strong>Speaker 1:</strong>That's right. Is now good for you?</p><p><strong>Speaker 2:</strong>Oh, yes. Just let me get a pen and some paper for some notes. Here we are. Now, we're going from 24th August to 7th September, aren't we?</p><p><strong>Speaker 1:</strong>Almost. It's the 24th to the 6th.</p><p><strong>Speaker 2:</strong>Oh, yes. That's right. I'd better get that correct. So, we're flying out of London Heathrow at 5pm on the 24th and we land in New York at around 7.30pm. Which airport do we fly into? JFK, Newark or LaGuardia?</p><p><strong>Speaker 1:</strong>JFK. And then we'll just get a cab to our hotel in town.</p><p><strong>Speaker 2:</strong>Wouldn't it be cheaper to get the subway or the bus into the city?</p><p><strong>Speaker 1:</strong>Well, yes, it would, but we'll be tired and a cab will take us straight to the hotel. I'll do what you want to do, though. It's just that airport taxis are so expensive and the bus will take us into the Grand Central area anyway, which is where our shortlisted hotels are.</p><p><strong>Speaker 2:</strong>OK, I'm happy with a bus then. Thanks. Now for the hotels. You didn't make a booking yet, did you?</p><p><strong>Speaker 1:</strong>No, I wanted to agree the choice with you first. What are the choices again, then?</p><p><strong>Speaker 2:</strong>Well, there's the Grand Hotel. For our time in New York, it will cost us $700 each. That includes taxes and breakfast and a single room each. It's not as convenient a location as the others, though. The Garden Hotel is right next to where the bus will come in, which is convenient, and it's cheaper, though that's also because they had no singles left and we've only the possibility of a twin room. It's $600 each with taxes, but it doesn't include breakfast. And the last one? It's the cheapest at $580 each with taxes and breakfast. It's the Central Motel, but it's not such a nice place and again, they only have twins available. What do you think?</p><p><strong>Speaker 1:</strong>Well, I think the key factor for me is having my own room. I'll pay the extra for that.</p><p><strong>Speaker 2:</strong>Yes, I agree. In fact, the money that we will save on the taxi from the airport we can use to help pay for the extra on the hotel. That's settled then. And should we bother with breakfast? I've been told that breakfast specials from the delis in New York are so cheap anyway.</p><p><strong>Speaker 1:</strong>Yes, you're right. We'll book without breakfast and that will save some money as well. It'll be nice to eat in different places too.</p>"
+    }
+  ]
+}

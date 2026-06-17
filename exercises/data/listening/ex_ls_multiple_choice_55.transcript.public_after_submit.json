@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_55",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2055.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Hi, Lucy. Hi, Karim. Ready to do this?</p><p><strong>Speaker 2:</strong> Oh, where's Rick? Do you think he's forgotten we're meeting?</p><p><strong>Speaker 3:</strong> No, he's ill. He's down with the flu.</p><p><strong>Speaker 2:</strong> Well, that's a drag. Don't worry, Anna. He says he's happy to do any online research from his bed. We can set up a Facebook group and post what we want him to do.</p><p><strong>Speaker 1:</strong> OK, cool. So, where do we start?</p><p><strong>Speaker 3:</strong> I thought we should create questionnaires first.</p><p><strong>Speaker 2:</strong> I think we should look more closely at the question that Tudor sent first. Here it is. To what extent do the main sports facilities in the town contribute to the health and well-being of the residents?</p><p><strong>Speaker 1:</strong> It's pretty open-ended.</p><p><strong>Speaker 2:</strong> It is. We've got to narrow it down a bit. Let's start with which facilities.</p><p><strong>Speaker 3:</strong> The main sports facilities in the town would be the big ones that are partly funded by the council, right?</p><p><strong>Speaker 1:</strong> Yes, I guess so. What are you doing, Karim?</p><p><strong>Speaker 3:</strong> I'm on it now. Hold on, the page is loading. OK, the top four that come up in a search are the swim centre, the central stadium, the canalside cycle track, and the Westland Leisure Centre. There are lots of other little ones like local tennis courts and stuff, but I imagine that they would have fewer users.</p><p><strong>Speaker 2:</strong> OK, so we go with the big four then.</p><p><strong>Speaker 1:</strong> That seems sensible. So we can create questions about how the people who use these centres feel their health has improved through going there.</p><p><strong>Speaker 3:</strong> Yes, but I still think we need to be more specific about what we want to find out.</p><p><strong>Speaker 2:</strong> All right then, what do you suggest?</p><p><strong>Speaker 1:</strong> Well, questionnaires get subjective data, but what about objective facts? Health statistics across a period of years, for example? And is there a correlation between these and the existence of the sports facilities?</p><p><strong>Speaker 3:</strong> Wow, that's brilliant, Lucy. But how do we get that kind of data?</p><p><strong>Speaker 2:</strong> That's the kind of thing Rick could maybe look up from home, don't you think?</p><p><strong>Speaker 1:</strong> Maybe. He could try. We'd need statistics for this town on rates of heart disease, strokes, high blood pressure.</p><p><strong>Speaker 3:</strong> Diabetes as well?</p><p><strong>Speaker 2:</strong> OK, yes. For now, and what? 20 years ago? More?</p><p><strong>Speaker 1:</strong> Hold on, just checking. OK, all the sports facilities, except the cycle track, which is recent, opened 30 or 35 years ago. So his statistics should be for that time ago, contrasted with now.</p><p><strong>Speaker 3:</strong> That's brill, guys. I'd never have thought of that. But we still need to interview people, don't you think?</p><p><strong>Speaker 2:</strong> Sure, we need subjective data too. People's own use of the facilities and their perceptions of how much better they feel as a result.</p><p><strong>Speaker 1:</strong> Are we including mental health as well?</p><p><strong>Speaker 3:</strong> Why not? Exercise can help a lot with things like depression.</p><p><strong>Speaker 2:</strong> That's true. So we need to design a questionnaire and decide where and how to conduct interviews.</p><p><strong>Speaker 1:</strong> I think outside the various sports centres would be best, where you can interview people on the way in or out.</p><p><strong>Speaker 3:</strong> What about the people who never use any of the facilities? Do you think we need to interview them?</p><p><strong>Speaker 2:</strong> No, why? They may do other things to keep fit.</p><p><strong>Speaker 3:</strong> Or they may be couch potatoes and take no exercise at all.</p><p><strong>Speaker 1:</strong> Yes, but we need to know how many there are. If only 10% of the population ever use the sports facilities, then they obviously don't contribute much to all the residents' health and fitness.</p><p><strong>Speaker 2:</strong> OK, let's add that to Rick's list of stuff to look up then. Look, my head's spinning with all this, guys. Let's recap on what we're doing and when and how.</p><p><strong>Speaker 3:</strong> Sure.</p>"
+    }
+  ]
+}

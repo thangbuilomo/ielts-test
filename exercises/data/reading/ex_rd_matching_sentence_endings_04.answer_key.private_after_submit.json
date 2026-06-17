@@ -1,0 +1,47 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_rd_matching_sentence_endings_04",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 4,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q11": {
+      "answers": [
+        "B",
+        "... are not always affected by insecticides."
+      ]
+    },
+    "q12": {
+      "answers": [
+        "H",
+        ". 11 Anopheline mosquitoes … 12 Parasites located in victims’ livers … 13 Measures to control mosquitoes … 14 Unfinished courses of anti-malarial drugs …"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "E",
+        "... have been implemented for centuries."
+      ]
+    },
+    "q14": {
+      "answers": [
+        "C",
+        "... .have resulted in parasitic resistance to treatment."
+      ]
+    }
+  }
+}

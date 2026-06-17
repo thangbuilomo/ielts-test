@@ -1,0 +1,24 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_summary_completion_09",
+  "module": "reading",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q35": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn F, bài viết nêu: \"This thought experiment is usually called 'The Trolley Problem', and was first proposed by Philippa Foot in 1967. It is traditionally presented thus: A runaway trolley is hurtling down a railway track towards five people who are tied to it. You are standing next to a lever which will divert the trolley if pulled, but doing so would kill one person tied to the parallel track.\". Cụm thought experiment khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "This thought experiment is usually called 'The Trolley Problem', and was first proposed by Philippa Foot in 1967. It is traditionally presented thus: A runaway trolley is hurtling down a railway track towards five people who are tied to it. You are standing next to a lever which will divert the trolley if pulled, but doing so would kill one person tied to the parallel track._"
+    },
+    "q36": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn F, bài viết nêu: \"This thought experiment is usually called 'The Trolley Problem', and was first proposed by Philippa Foot in 1967. It is traditionally presented thus: A runaway trolley is hurtling down a railway track towards five people who are tied to it. You are standing next to a lever which will divert the trolley if pulled, but doing so would kill one person tied to the parallel track.\". Cụm parallel track khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "This thought experiment is usually called 'The Trolley Problem', and was first proposed by Philippa Foot in 1967. It is traditionally presented thus: A runaway trolley is hurtling down a railway track towards five people who are tied to it. You are standing next to a lever which will divert the trolley if pulled, but doing so would kill one person tied to the parallel track._"
+    }
+  }
+}

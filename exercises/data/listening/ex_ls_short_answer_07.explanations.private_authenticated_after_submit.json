@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_short_answer_07",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Người nói, là giáo sư, đang thông báo về môn học mà họ sẽ tiếp tục trong học kỳ này, đó là nông nghiệp. Thông tin giúp tìm ra đáp án là từ khóa \"agriculture\" được nhắc đến rõ ràng trong câu. Paraphrase quan trọng ở đây là \"seminars on agriculture\" có thể hiểu là \"buổi hội thảo về nông nghiệp\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng vì nó chính xác với thông tin được cung cấp.",
+      "evidence": "Well, this semester we will continue our seminars on agriculture."
+    },
+    "q22": {
+      "explanation": "Người nói đang thông báo về thời gian bắt đầu của buổi hội thảo mới. Thông tin giúp tìm ra đáp án là việc họ sẽ bắt đầu muộn hơn một giờ so với thời gian thông thường là ba giờ. Nếu cộng thêm một giờ, thời gian mới sẽ là bốn giờ. Paraphrase quan trọng là \"start one hour later\" có thể hiểu là \"bắt đầu muộn hơn một giờ\". Bẫy ở đây có thể là sự nhầm lẫn với thời gian ban đầu, nhưng thông tin đã được nhấn mạnh rõ ràng. Đáp án đúng vì nó phản ánh chính xác thời gian mới được thông báo.",
+      "evidence": "we'll need to start one hour later."
+    },
+    "q23": {
+      "explanation": "Người nói đang chỉ ra rằng Maggie cần cải thiện điểm danh của mình. Thông tin giúp tìm ra đáp án là cụm từ \"attendance record\" được nhắc đến. Paraphrase quan trọng là \"not a very good attendance record\" có thể hiểu là \"hồ sơ điểm danh không tốt\". Không có bẫy trong câu này vì thông tin được trình bày một cách rõ ràng. Đáp án đúng vì nó phản ánh chính xác điều mà giáo sư yêu cầu Maggie cải thiện.",
+      "evidence": "you haven't got a very good attendance record anyway."
+    },
+    "q24": {
+      "explanation": "Người nói đang thông báo về tình trạng của các bài luận mở rộng của sinh viên. Thông tin giúp tìm ra đáp án là cụm từ \"external examiner\" được nhắc đến rõ ràng. Paraphrase quan trọng là \"with the external examiner\" có thể hiểu là \"ở với giám khảo bên ngoài\". Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh chính xác ai đang giữ các bài luận.",
+      "evidence": "all your extended essays are now with the external examiner getting their second assessment."
+    },
+    "q25": {
+      "explanation": "Người nói đang đánh giá chất lượng của các bài luận mở rộng. Thông tin giúp tìm ra đáp án là cụm từ \"one notable exception\", tức là chỉ có một bài luận không đạt yêu cầu. Paraphrase quan trọng là \"one notable exception\" có thể hiểu là \"một ngoại lệ đáng chú ý\". Bẫy ở đây có thể là sự hiểu nhầm rằng nhiều sinh viên không làm tốt, nhưng thực tế chỉ có một sinh viên. Đáp án đúng vì nó phản ánh chính xác số lượng sinh viên đã làm không tốt trong bài luận mở rộng.",
+      "evidence": "With one notable exception, the essays were of a pretty good standard."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Hello everyone, welcome back from your winter holidays. I hope you had a good time and didn't work too hard. Well, this semester we will continue our seminars on agriculture. Today, like last semester, we are in the MacLeod room, but this will change. Next week, we are going to the Hardy room on the second floor and we will remain there for the duration of the semester. Also, we will have to change the time as the Hardy room is not available at our usual time of three o'clock, so we'll need to start one hour later. Is that okay with everyone?</p><p><strong>Speaker 2:</strong> I've got a problem with that. I have a part-time job in a restaurant in town and finishing an hour later will stop me being on time.</p><p><strong>Speaker 1:</strong> Well, Maggie, there are other seminar times for this particular subject, but you'll need to get someone to swap with you as they're all full. Come by my office tomorrow lunchtime and I'll show you the list. We should find someone willing to change.</p><p><strong>Speaker 2:</strong> What if we can't, though?</p><p><strong>Speaker 1:</strong> Well, you'll have to decide what's more important for you, the degree or the job. You know that attendance is compulsory at the seminars and you haven't got a very good attendance record anyway.</p><p><strong>Speaker 2:</strong> I'll sort something out, I suppose. </p><p><strong>Speaker 3:</strong> Professor Cameron, when do we find out about the extended essay for this semester?</p><p><strong>Speaker 1:</strong> Today, actually, Guy. We'll look at everything in a minute. </p><p><strong>Speaker 3:</strong> Oh, thanks. What about last semester's extended essay?</p><p><strong>Speaker 1:</strong> Well, Monica, all your extended essays are now with the external examiner getting their second assessment. I completed the marking in early January and the external examiner should get them back to me by mid-February.</p><p><strong>Speaker 2:</strong> Mid-February? For three essays?</p><p><strong>Speaker 1:</strong> It's not just your essays, Maggie. There are three of you in this seminar group, but I have five other seminar groups on this subject in your year and they have four students in each. That makes 19 extended essays that I and the external examiner have to mark.</p><p><strong>Speaker 3:</strong> How did we do, Prof?</p><p><strong>Speaker 1:</strong> With one notable exception, the essays were of a pretty good standard. I can't say more than that at this stage, but I was very happy.</p>"
+}

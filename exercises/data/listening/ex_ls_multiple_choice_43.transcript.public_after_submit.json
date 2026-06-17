@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_43",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2043.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong> (Mr. Mike Finn): You now have some time to look at the questions on your screen. Now answer the questions on your screen. Good morning to all you new students here at Wesley University, and thank you for coming to this talk on the sports centre. My name is Mr. Mike Finn. Later, I'll take you around the centre on a tour, but right now, I'll just let you know what we have to offer and how you can become a member. </p><p>We are at present in the main reception of the sports centre. Behind me, we have the main sports hall where a myriad of different sports take place. We have football, hockey, basketball, badminton, martial arts, and netball, to name but a few. We are also planning trampolines in the very near future. Aerobics, modern dance, and spinning are also held in the main sports hall, and yoga classes are coming soon. There is a large schedule up on the wall behind me detailing when each sport is on. It also gives details of which sports you have to pay extra for in order to join in. </p><p>Above us and overlooking the main sports hall, we have our fitness room, which has all the modern weight training machines and aerobic training machines that you could wish for. At present, there are no running machines as there have been a few accidents with these and we're waiting for the university to work out its insurance as regards these before we get them back again. </p><p>Round the back of the main sports hall are our three squash courts. These can be reserved at the reception and can be used for both squash and racquetball. The one important thing with the squash courts is that you must not wear outdoor or black marking soles on them. You will be fined and suspended from the centre if you do. </p><p>Next to that, we have the provisional site of the swimming pool. Details of that are posted on the sports centre newsletter, which is always available on the notice board. We hope that it won't be too long in coming. Outside the hall, we have playing fields where you can play football, rugby, cricket, and hockey.</p>"
+    }
+  ]
+}

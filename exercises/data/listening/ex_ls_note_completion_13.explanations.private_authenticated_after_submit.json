@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_13",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q16": {
+      "explanation": "Người nói đang mô tả về các bãi biển tại Solaris Hotel và Holiday Village. Thông tin giúp tìm ra đáp án là cụm từ \"adult beach\", cho thấy bãi biển này chỉ dành cho người lớn. Paraphrase quan trọng ở đây là \"bãi biển dành cho người lớn\" và \"cấm bất kỳ ai dưới 17 tuổi\". Bẫy có thể là sự nhầm lẫn giữa bãi biển chính và bãi biển dành cho người lớn, nhưng thông tin rõ ràng đã chỉ ra rằng bãi biển dành cho người lớn là đáp án chính xác. Vì vậy, đáp án đúng là \"adult\".",
+      "evidence": "There is also an adult beach, which is prohibited to anyone less than 17 years of age."
+    },
+    "q17": {
+      "explanation": "Người nói đang cung cấp thông tin về các tiện nghi tại bãi biển và khu vực hồ bơi. Thông tin giúp tìm ra đáp án là cụm từ \"fresh water showers\", cho thấy có vòi sen nước ngọt để khách có thể rửa sạch cát sau khi tắm biển. Paraphrase quan trọng là \"vòi sen nước ngọt\". Bẫy có thể là sự nhầm lẫn với các tiện nghi khác, nhưng thông tin rõ ràng đã chỉ ra rằng vòi sen là cần thiết. Do đó, đáp án đúng là \"showers\".",
+      "evidence": "There are also fresh water showers available on the beach and in the pool area."
+    },
+    "q18": {
+      "explanation": "Người nói đang mô tả các hoạt động thể thao và giải trí tại khách sạn. Thông tin giúp tìm ra đáp án là cụm từ \"games room\", nơi có bàn bi-a và bàn bi-a. Paraphrase quan trọng là \"phòng trò chơi\". Bẫy có thể là sự nhầm lẫn giữa các khu vực khác trong khách sạn, nhưng thông tin rõ ràng đã chỉ ra rằng phòng trò chơi là nơi có các bàn bi-a. Vì vậy, đáp án đúng là \"games room\".",
+      "evidence": "We also have 6 full size snooker tables and 5 pool tables in the games room adjoining the bar."
+    },
+    "q19": {
+      "explanation": "Người nói đang cung cấp thông tin về thư viện và các điều khoản sử dụng. Thông tin giúp tìm ra đáp án là cụm từ \"notice board\", nơi khách có thể xem các điều khoản và điều kiện. Paraphrase quan trọng là \"bảng thông báo\". Bẫy có thể là sự nhầm lẫn với các tài liệu khác trong thư viện, nhưng thông tin đã chỉ rõ rằng bảng thông báo là nơi cần tìm. Do đó, đáp án đúng là \"notice board\".",
+      "evidence": "It has certain terms and conditions of use, which you will be able to find on the notice board in the library."
+    },
+    "q20": {
+      "explanation": "Người nói đang thông báo về quy định liên quan đến trẻ em tham dự các buổi chiếu phim. Thông tin giúp tìm ra đáp án là cụm từ \"under the age of 16\", cho thấy độ tuổi tối thiểu để tham dự. Paraphrase quan trọng là \"trẻ em dưới 16 tuổi\". Bẫy có thể là sự nhầm lẫn với độ tuổi khác, nhưng thông tin đã chỉ rõ rằng trẻ em dưới 16 tuổi không được phép. Vì vậy, đáp án đúng là \"16\".",
+      "evidence": "Children under the age of 16 are not permitted to attend the 8.30pm presentations."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Now let's look at some of the things that you can do here during your stay with us. </p><p><strong>Speaker 1:</strong> Of course, we have our main beach, which is popular with everyone. There is also an adult beach, which is prohibited to anyone less than 17 years of age. This allows those of you without children to get some peace and quiet on the beach. </p><p><strong>Speaker 1:</strong> The main beach has two lifeguards on duty from 9am to 6pm. The adult beach has no lifeguards. If you don't like sand and salt, we have a decked area in front of the Harvest restaurant with our 25 metre swimming pool. You can lie here on a sun lounger and swim in the pool with no sand to bother you. </p><p><strong>Speaker 1:</strong> There are steps from the pool area to the beach, so you can go between the two. But if you're coming up from the beach, please walk through the foot pool so that the sand gets washed off and doesn't lie around the pool area. There are also fresh water showers available on the beach and in the pool area. </p><p><strong>Speaker 1:</strong> As for sports, we have 8 tennis courts and 3 squash courts, which can be booked at any time. There is a fully equipped gym with staff on duty to help you. No one under 18 years of age may use the gym though. </p><p><strong>Speaker 1:</strong> We also have 6 full size snooker tables and 5 pool tables in the games room adjoining the bar. There is no charge for use of any of these facilities, though there is a small charge if you need to hire any sports gear. Again, you can pay immediately or put the charges on your main bill. </p><p><strong>Speaker 1:</strong> There are also water skiing and jet skis available, but there are charges for these. Go to the watersports office for details. All the watersports such as snorkelling, inflatables and pedaloes are free. Ask for all details again at the watersports office. </p><p><strong>Speaker 1:</strong> There is a library in the hotel which supplies books, magazines and newspapers. It has certain terms and conditions of use, which you will be able to find on the notice board in the library. </p><p><strong>Speaker 1:</strong> We also have two cinemas which show three different films every day. The showings are in the afternoons at 2pm, the early evening at 5.30pm and at night at 8.30pm. The afternoon and early evening showings always have a film for kids. </p><p><strong>Speaker 1:</strong> Children under the age of 16 are not permitted to attend the 8.30pm presentations.</p>"
+}

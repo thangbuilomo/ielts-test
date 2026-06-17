@@ -1,0 +1,53 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_rd_matching_sentence_endings_12",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 5,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q33": {
+      "answers": [
+        "C",
+        "... involves storing it in cold water."
+      ]
+    },
+    "q34": {
+      "answers": [
+        "A",
+        "-"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "F",
+        "... relates to those it is designed to safeguard."
+      ]
+    },
+    "q36": {
+      "answers": [
+        "E",
+        "... calls for a retrospective view from scientists."
+      ]
+    },
+    "q37": {
+      "answers": [
+        "H",
+        ". 33 The current method of dealing with nuclear waste ... 34 The Onkalo solution ... 35 The principal risk to the protection of Onkalo ... 36 The unforeseeable nature of future civilizations ... 37 The idea by some scientists to hide Onkalo completely ..."
+      ]
+    }
+  }
+}

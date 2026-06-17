@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_sentence_completion_10",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q24": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 5, bài viết nêu: \"The effects on sea currents of the removal of large quantities of water from the Mediterranean is not well understood. Some experts have maintained that coastal erosion would increase as a result of changes in the direction of the most important currents, and of course the coastal areas are precisely those areas of the Mediterranean which are most densely inhabited. A third problem is the cost of construction of the canal - or tunnel, depending on the route chosen - in such difficult terrain.\". Cụm construction khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The effects on sea currents of the removal of large quantities of water from the Mediterranean is not well understood. Some experts have maintained that coastal erosion would increase as a result of changes in the direction of the most important currents, and of course the coastal areas are precisely those areas of the Mediterranean which are most densely inhabited. A third problem is the cost of construction of the canal - or tunnel, depending on the route chosen - in such difficult terrain._"
+    },
+    "q25": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"During the 1960s, Prof Friedrich Bassler, a German engineer, was responsible for planning connected with the Project. He proposed a solution to the problem of excavation costs that today seems extraordinary. Instead of using people and machines to dig a canal, he proposed using a controlled chain of 213 small nuclear explosions to make the canal by force.\". Cụm explosion khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "During the 1960s, Prof Friedrich Bassler, a German engineer, was responsible for planning connected with the Project. He proposed a solution to the problem of excavation costs that today seems extraordinary. Instead of using people and machines to dig a canal, he proposed using a controlled chain of 213 small nuclear explosions to make the canal by force._"
+    },
+    "q26": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"Each explosion would have been a hundred times more powerful than the bomb dropped on Hiroshima. The Egyptian government turned down this proposal; the almost certain contamination of water supplies and of the air were very worrying. They were also concerned that the effect of any such nuclear shock on the region’s underlying tectonic plates might have provoked earthquakes elsewhere in the region.\". Cụm earthquake khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Each explosion would have been a hundred times more powerful than the bomb dropped on Hiroshima. The Egyptian government turned down this proposal; the almost certain contamination of water supplies and of the air were very worrying. They were also concerned that the effect of any such nuclear shock on the region’s underlying tectonic plates might have provoked earthquakes elsewhere in the region._"
+    }
+  }
+}

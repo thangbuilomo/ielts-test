@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_58",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Người nói đang giới thiệu về lịch sử của bảo tàng Arvington, nhấn mạnh thời điểm bắt đầu xây dựng và vai trò của Đại học Blenford trong việc duy trì bảo tàng. Thông tin giúp tìm ra đáp án là câu nói rõ ràng về việc bảo tàng được xây dựng vào năm 1974 (đáp án A) và sự đóng góp của Đại học Blenford (đáp án E). Paraphrase quan trọng ở đây là \"construction started\" và \"generous contributions\". Không có bẫy trong câu này vì thông tin được trình bày rõ ràng. Đáp án đúng vì cả hai thông tin đều được xác nhận trực tiếp trong đoạn văn.",
+      "evidence": "Construction on the museum started in 1974 with the aim of providing a place for local children to learn about the region's rich past and its cultural identity.\" và \"This is all thanks to generous contributions from the nearby Blenford University, as well as voluntary assistance from local residents."
+    },
+    "q12": {
+      "explanation": "Người nói đang nói về lịch sử của thị trấn Arvington, nhấn mạnh rằng nó được xây dựng để phục vụ cho một tu viện và đã bị phá hủy trong một cuộc chiến. Thông tin giúp tìm ra đáp án là việc xây dựng thị trấn để phục vụ cho Claro Abbey (đáp án D) và sự hủy diệt của thị trấn trong cuộc chiến (đáp án C). Paraphrase quan trọng là \"built by monks\" và \"destroyed and never rebuilt\". Không có bẫy trong câu này vì thông tin được trình bày rõ ràng. Đáp án đúng vì cả hai thông tin đều được xác nhận trong đoạn văn.",
+      "evidence": "It's believed that people first built the town to cater for the nearby Claro Abbey, which was built by monks in the 11th century.\" và \"However, during the War of the Roses in 1467, the whole town was destroyed and never rebuilt."
+    },
+    "q15": {
+      "explanation": "Người nói đang mô tả về kích thước của bảo tàng so với thị trấn nguyên thủy. Thông tin giúp tìm ra đáp án là sự so sánh giữa kích thước của bảo tàng và thị trấn nguyên thủy (đáp án A) và số lượng nhà trong bảo tàng (đáp án E). Paraphrase quan trọng là \"three times bigger\" và \"contains only 10 homes\". Không có bẫy trong câu này vì thông tin được trình bày rõ ràng. Đáp án đúng vì cả hai thông tin đều được xác nhận trong đoạn văn.",
+      "evidence": "It is very important to note, though, before you walk around the museum, that the original town was around three times bigger.\" và \"while our village contains only 10 homes in total, just to show you what they would look like."
+    },
+    "q16": {
+      "explanation": "Người nói đang nói về vị trí của bảo tàng trong nước và chất lượng của nó. Thông tin giúp tìm ra đáp án là việc bảo tàng không phải là lớn nhất (đáp án C) và được công nhận là bảo tàng chính xác nhất (đáp án D). Paraphrase quan trọng là \"not the largest\" và \"most accurate medieval museum\". Không có bẫy trong câu này vì thông tin được trình bày rõ ràng. Đáp án đúng vì cả hai thông tin đều được xác nhận trong đoạn văn.",
+      "evidence": "We are not the largest in the country, admittedly, but we pride ourselves on showing what life was really like.\" và \"English History magazine recently described us as the most accurate medieval museum in Britain."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Good afternoon, ladies and gentlemen, and welcome to Arvington Open Air Museum. Before you enter, let me just give you a brief overview so that you understand the place and what can be found here. Construction on the museum started in 1974 with the aim of providing a place for local children to learn about the region's rich past and its cultural identity. It has since grown much larger and now helps to educate people of all ages on life during this unique medieval period of English history. This includes all its features, both pleasant and unpleasant. This is all thanks to generous contributions from the nearby Blenford University, as well as voluntary assistance from local residents. </p><p><strong>Speaker 1:</strong> As you walk around the site, you will meet volunteer actors playing historical roles, as well as guides, students from Blenford University, who will talk you through what you see in greater detail. Their passion for history is what makes Arvington a truly unforgettable experience. </p><p><strong>Speaker 1:</strong> Right, let me tell you a little bit about the inspiration for the museum. Just two miles east of this site, there used to be a market town known, surprisingly enough, as Arvington. This was located on the River Arving, approximately two miles east of this site, and became a successful trading town in the 13th and 14th centuries due to its location on a major trade route. </p><p><strong>Speaker 1:</strong> The earliest records of the town actually go back a few centuries further. It's believed that people first built the town to cater for the nearby Claro Abbey, which was built by monks in the 11th century. However, during the War of the Roses in 1467, the whole town was destroyed and never rebuilt. It is this original settlement that our museum hopes to recreate. </p><p><strong>Speaker 1:</strong> Now, let me tell you a little about what you will find here. We have done our best to include all the features of the original town. It is very important to note, though, before you walk around the museum, that the original town was around three times bigger. The main difference is that at least half of the original town would have been houses, while our village contains only 10 homes in total, just to show you what they would look like. </p><p><strong>Speaker 1:</strong> There are 75 buildings in a total area of 50 acres. We are not the largest in the country, admittedly, but we pride ourselves on showing what life was really like. English History magazine recently described us as the most accurate medieval museum in Britain. </p><p><strong>Speaker 1:</strong> We have tried to use historical construction work where possible, brought from medieval buildings around the country, including parts of the town wall and church, although most of the work is completely new. Now, let's talk in more detail about what you can find here.</p>"
+}

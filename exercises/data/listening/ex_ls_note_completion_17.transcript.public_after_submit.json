@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_17",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2017.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. First of all, can you give me a list of all the things that you want covered by the insurance?</p><p><strong>Speaker 2:</strong> Yes. First of all, there's my electrical goods, like my hi-fi, TV, DVD player, video player, a couple of radios, a hairdryer, my laptop and printer. I've estimated all the values of the electrical goods. There are various DVDs and CDs too. It should come to about £2,500.</p><p><strong>Speaker 1:</strong> Anything else?</p><p><strong>Speaker 2:</strong> Yes, there's my jewellery. I have some necklaces, bracelets, rings and brooches that I inherited. They're all in different metals and with different jewels. I've got a list itemising them all here. I've also got a small strongbox which screws into a cupboard, so they're reasonably safe.</p>"
+    }
+  ]
+}

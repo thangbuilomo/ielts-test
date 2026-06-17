@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_map_labelling_05",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Người nói đang mô tả vị trí của nhà hàng hải sản gần boathouse, nơi mà nhóm sẽ bắt đầu chuyến đi. Thông tin giúp tìm ra đáp án là cụm từ \"great fish restaurant\" và \"right next to us\", cho thấy nhà hàng này nằm ngay bên cạnh boathouse. Paraphrase quan trọng ở đây là \"great fish restaurant\", có thể hiểu là nhà hàng hải sản tuyệt vời. Không có bẫy trong câu này, vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án là A vì nhà hàng hải sản được nhắc đến là điểm gần nhất với boathouse.",
+      "evidence": "Right next to us is a great fish restaurant, which many people choose to go back to later."
+    },
+    "q16": {
+      "explanation": "Người nói đang chỉ ra rằng trong hành trình, nhóm sẽ đi qua ngôi nhà của người quản lý sông, một địa điểm lịch sử quan trọng. Thông tin giúp tìm ra đáp án là cụm từ \"old river master's house on the right\". Paraphrase quan trọng là \"old river master's house\", có thể hiểu là ngôi nhà cũ của người quản lý sông. Không có bẫy trong câu này, vì thông tin rất cụ thể và dễ hiểu. Đáp án là B vì ngôi nhà này được xác định rõ ràng là ở bên phải trong hành trình.",
+      "evidence": "we will pass the old river master's house on the right, where the river master used to collect money from people using the river."
+    },
+    "q17": {
+      "explanation": "Người nói đang mô tả một điểm dừng trong hành trình, nơi có cối xay cũ. Thông tin giúp tìm ra đáp án là cụm từ \"the old mill which stands on the far bank\". Paraphrase quan trọng là \"old mill\", có thể hiểu là cối xay cũ. Không có bẫy trong câu này, vì thông tin rất rõ ràng. Đáp án là C vì cối xay cũ được nhắc đến là một trong những điểm dừng quan trọng trong hành trình.",
+      "evidence": "we will stop here briefly to let you take a picture of it and the old mill which stands on the far bank, just beyond the bridge."
+    },
+    "q18": {
+      "explanation": "Người nói đang chỉ ra rằng nhóm sẽ dừng lại tại một điểm picnic để nghỉ ngơi và ăn nhẹ. Thông tin giúp tìm ra đáp án là cụm từ \"picnic spot on the island in the middle\". Paraphrase quan trọng là \"picnic spot\", có thể hiểu là điểm dừng chân để ăn uống. Không có bẫy trong câu này, vì thông tin rất rõ ràng và cụ thể. Đáp án là D vì điểm picnic được xác định rõ ràng là nơi nhóm sẽ dừng lại.",
+      "evidence": "we will actually stop for tea and a snack at the picnic spot on the island in the middle."
+    },
+    "q19": {
+      "explanation": "Người nói đang thông báo cho nhóm về vị trí của nhà vệ sinh. Thông tin giúp tìm ra đáp án là cụm từ \"toilet facilities behind the cafe\". Paraphrase quan trọng là \"toilet facilities\", có thể hiểu là các tiện nghi toilet. Không có bẫy trong câu này, vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án là E vì nhà vệ sinh được xác định rõ ràng là nằm phía sau quán cafe.",
+      "evidence": "you may want to make use of the toilet facilities, which you can find behind the cafe."
+    },
+    "q20": {
+      "explanation": "Người nói đang hướng dẫn nhóm về cách đến khu cắm trại. Thông tin giúp tìm ra đáp án là cụm từ \"campsite\" và các lựa chọn di chuyển đến đó. Paraphrase quan trọng là \"campsite\", có thể hiểu là khu cắm trại. Không có bẫy trong câu này, vì thông tin rất rõ ràng và cụ thể. Đáp án là F vì khu cắm trại được xác định rõ ràng là điểm đến cho những người cắm trại.",
+      "evidence": "you can either leave your kayaks at the car park and walk to the campsite, or paddle back down river in them."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> OK, we're nearly ready to go, but I'm just going to show you on this map what route we're going to take today. So, we're in the boathouse here on the south side of the river at the left of the map. Can you see that? Right next to us is a great fish restaurant, which many people choose to go back to later. It's the perfect place to enjoy an evening meal with a lovely view of the wood across the river at sunset. </p><p><strong>Speaker 1:</strong> Now, once we get onto our boats, we will be going along the river up to the top to where it gets wider. You can see that we'll be going under two bridges. Soon after going under the first one, we will approach the first of two bends in the river. At this point, we'll pass the old river master's house on the right, where the river master used to collect money from people using the river. This is my favourite of the many historical buildings on this stretch of the river. </p><p><strong>Speaker 1:</strong> Not long after this, we will get to the second bend and the impressive stone bridge, which, by the way, is nearly one thousand years old. We will stop here briefly to let you take a picture of it and the old mill which stands on the far bank, just beyond the bridge. </p><p><strong>Speaker 1:</strong> Continuing further down, the river will begin to open up. On the left, you will see the car park and cafe, but we will actually stop for tea and a snack at the picnic spot on the island in the middle. It's a really nice place to stop and just be surrounded by nature. </p><p><strong>Speaker 1:</strong> By the time we finally do get off the river, you may want to make use of the toilet facilities, which you can find behind the cafe. Ah, and I nearly forgot, I should also mention that those of you who will be camping overnight can either leave your kayaks at the car park and walk to the campsite, or paddle back down river in them. You'll find it just before you get to the footbridge on the north bank, beside the wood. If you are staying overnight at the campsite, you can use this bridge to get over to the restaurant. </p><p><strong>Speaker 1:</strong> OK, should we go and see if we can get on these boats?</p>"
+}

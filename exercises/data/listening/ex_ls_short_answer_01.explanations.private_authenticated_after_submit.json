@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_short_answer_01",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q26": {
+      "explanation": "Người nói đang nói về số lượng tiêu đề bài luận mà sinh viên có thể chọn cho bài tập đầu tiên. Thông tin giúp tìm ra đáp án là câu nói của người nói, trong đó họ ước lượng có khoảng 10 tiêu đề. Paraphrase quan trọng ở đây là \"about 10\", có nghĩa là \"khoảng 10\". Không có bẫy trong câu này vì thông tin được đưa ra một cách rõ ràng. Đáp án đúng là 10 vì đó là số lượng chính xác mà người nói đã đề cập.",
+      "evidence": "I think there are about 10 you can choose from."
+    },
+    "q27": {
+      "explanation": "Người nói đang chia sẻ về những nơi mà họ đã đi du lịch trong kỳ nghỉ hè. Thông tin giúp tìm ra đáp án là việc họ đã đề cập đến hai địa điểm cụ thể là \"Africa\" và \"Asia\". Paraphrase quan trọng là \"traveling in\", có thể hiểu là \"du lịch ở\". Không có bẫy trong câu này vì thông tin được đưa ra một cách trực tiếp và rõ ràng. Đáp án đúng là \"Africa and Asia\" vì đó là những nơi mà người nói đã đề cập đến.",
+      "evidence": "I spent some of the summer vacation traveling in Africa and Asia."
+    },
+    "q28": {
+      "explanation": "Người nói đang nói về sự thay đổi trong yêu cầu về độ dài bài luận so với năm trước. Thông tin giúp tìm ra đáp án là cụm từ \"gone up by 1,000 words\", cho thấy rằng độ dài bài luận đã tăng thêm 1,000 từ. Paraphrase quan trọng là \"gone up by\", có nghĩa là \"tăng lên\". Không có bẫy trong câu này vì thông tin được đưa ra một cách rõ ràng và không có sự mập mờ. Đáp án đúng là 1,000 vì đó là số lượng từ đã tăng thêm.",
+      "evidence": "Well, that's gone up by 1,000 words."
+    },
+    "q29": {
+      "explanation": "Người nói đang thông báo về thời hạn nộp bài luận đầu tiên. Thông tin giúp tìm ra đáp án là cụm từ \"has to be in by the 30th October\", cho thấy rõ ràng thời hạn nộp bài. Paraphrase quan trọng là \"has to be in by\", có nghĩa là \"phải nộp trước\". Không có bẫy trong câu này vì thông tin được cung cấp một cách trực tiếp và rõ ràng. Đáp án đúng là \"30th October\" vì đó là thời hạn cụ thể mà người nói đã đề cập.",
+      "evidence": "The first one has to be in by the 30th October."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. I know it's early, but do you know anything about the first assignment that we have to do?</p><p><strong>Speaker 2:</strong> Yes, it's already up on the economics faculty notice board. There's a choice of essays up there. I think there are about 10 you can choose from. I can't remember any of the titles, though, apart from the one that I think I'm going to write about.</p><p><strong>Speaker 1:</strong> What's that one, then?</p><p><strong>Speaker 2:</strong> It's about the short-term future of third world economies.</p><p><strong>Speaker 1:</strong> Oh, I don't like the sound of that. It seems very wide-ranging.</p><p><strong>Speaker 2:</strong> It is, but remember that I spent some of the summer vacation traveling in Africa and Asia, so that made me more interested in the subject, and I've also got some first-hand ideas on the subject.</p><p><strong>Speaker 1:</strong> Does the essay list mention how long the essays have to be and the deadlines?</p><p><strong>Speaker 2:</strong> Yes, you remember that last year all the essays had to be 3,000 words in length? Well, that's gone up by 1,000 words.</p><p><strong>Speaker 1:</strong> Oh, no, they'll take ages.</p><p><strong>Speaker 2:</strong> I know. I was hoping that they'd stay at 3,000 words or only go up to 3,500, but no luck, I'm afraid. What about the deadline?</p><p><strong>Speaker 1:</strong> The first one has to be in by the 30th October, and the second by the 30th November. It looks like one essay a month, like last year.</p><p><strong>Speaker 2:</strong> Well, at least that hasn't changed. But as it's at the end of September now, that leaves only a month to get the first one done. I'm going to have to get on to that straight away.</p><p><strong>Speaker 1:</strong> Yes, you'd better. If you want to talk about it, I'm going to be at the campus cafeteria at 1.30 for lunch. We could go over some questions.</p>"
+}

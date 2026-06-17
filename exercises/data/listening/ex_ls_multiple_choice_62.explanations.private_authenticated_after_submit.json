@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_62",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q7": {
+      "explanation": "Người nói đang thảo luận về các tùy chọn bữa ăn có sẵn cho khách hàng. Thông tin giúp tìm ra đáp án là câu nói của người nói rằng \"Đặt phòng của bạn đã bao gồm bữa sáng miễn phí\". Điều này cho thấy rằng bữa sáng là lựa chọn mà người phụ nữ đã chọn. Paraphrase quan trọng ở đây là \"half board\" và \"full board\", nhưng người phụ nữ đã quyết định không chọn những tùy chọn này và chỉ giữ lại bữa sáng. Bẫy ở đây là sự hấp dẫn của các gói dịch vụ khác, nhưng cuối cùng, cô ấy vẫn chọn bữa sáng miễn phí. Vì vậy, đáp án đúng là A.",
+      "evidence": "Your booking already comes with breakfast free of charge in the morning, but we also do half board, where you can have dinner with us, or full board, where all food, drinks and lunch are also included."
+    },
+    "q8": {
+      "explanation": "Người nói đang đề cập đến một chương trình khuyến mãi tại công viên nước. Thông tin giúp tìm ra đáp án là câu nói về việc trẻ em có thể vào cửa miễn phí nếu mua vé cho người lớn. Paraphrase quan trọng là \"two full price adult tickets\" và \"three kids can enter for free\". Bẫy có thể là sự nhấn mạnh vào việc giảm giá cho vé người lớn, nhưng thông tin chính là sự miễn phí cho trẻ em. Vì vậy, đáp án đúng là C.",
+      "evidence": "If you buy two full price adult tickets, then up to three kids can enter for free."
+    },
+    "q9": {
+      "explanation": "Người nói đang trả lời câu hỏi về cách di chuyển đến khách sạn. Thông tin giúp tìm ra đáp án là câu nói của người phụ nữ rằng họ sẽ thuê xe. Paraphrase quan trọng là \"hiring a car\" và \"driving ourselves\". Bẫy có thể là các tùy chọn khác như dịch vụ đón khách từ sân bay, nhưng người phụ nữ đã xác nhận rằng họ sẽ tự lái. Vì vậy, đáp án đúng là B.",
+      "evidence": "Well, we're actually hiring a car, so we'll be driving ourselves."
+    },
+    "q10": {
+      "explanation": "Người nói đang cung cấp thông tin về chi phí đỗ xe tại khách sạn. Thông tin giúp tìm ra đáp án là câu nói về việc đặt chỗ trước chỉ tốn 13 bảng. Paraphrase quan trọng là \"reserve a space\" và \"it'll only cost you £13\". Bẫy có thể là thông tin về chi phí cao hơn nếu không đặt trước, nhưng câu trả lời chính xác là mức giá ưu đãi khi đặt trước. Vì vậy, đáp án đúng là A.",
+      "evidence": "If you don't, it'll cost up to five pounds per day, and you could end up paying as much as £60. However, if you reserve a space now, it'll only cost you £13 for your stay with us."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> OK, the room is all booked for you, madam. While you're on the phone, can I just ask if you had a look at the special offers on our website?</p><p><strong>Speaker 1:</strong> No, what are they?</p><p><strong>Speaker 2:</strong> Well, we have discounts available on our meal options. Your booking already comes with breakfast free of charge in the morning, but we also do half board, where you can have dinner with us, or full board, where all food, drinks and lunch are also included. If you book with me now, I can give you 50% off that package.</p><p><strong>Speaker 1:</strong> Wow, that does sound like great value, but when we're on holiday, we normally like to try out local restaurants, so we'll just stick with what we booked. Thank you.</p><p><strong>Speaker 2:</strong> OK, well, we do have a lovely buffet in the morning, so I'm sure you'll like it. What about daytime activities?</p><p><strong>Speaker 1:</strong> The most popular day trip in the area is the water park. We can offer discounted trips to the park. If you buy two full price adult tickets, then up to three kids can enter for free.</p><p><strong>Speaker 2:</strong> Oh, yes, that sounds great. Is there anything else?</p><p><strong>Speaker 1:</strong> Yes, can I ask how you are travelling to us? Many of our guests take advantage of our airport pickup service, where we send a car to collect you. And if you want a cheaper option, you can take our shuttle bus, where you share the journey with other guests.</p><p><strong>Speaker 2:</strong> Well, we're actually hiring a car, so we'll be driving ourselves.</p><p><strong>Speaker 1:</strong> Well, in that case, we do have parking at the hotel, but it's much cheaper if you reserve it in advance. If you don't, it'll cost up to five pounds per day, and you could end up paying as much as £60. However, if you reserve a space now, it'll only cost you £13 for your stay with us.</p><p><strong>Speaker 2:</strong> Oh, yes, can I reserve a parking space then, please?</p><p><strong>Speaker 1:</strong> Yes, of course. So, that's all booked for you. Is there anything else I can help you with?</p><p><strong>Speaker 2:</strong> No, that's everything. Thanks a lot.</p><p><strong>Speaker 1:</strong> Thanks, madam. Look forward to seeing you in June.</p>"
+}

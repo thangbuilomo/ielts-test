@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_34",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2034.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. </p><p><strong>Speaker 1:</strong> Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Another topic of much speculation is what exactly this ferocious compound was made of. The contemporary accounts are unreliable and vague, and some of them may have described other forms of incendiary weapons. </p><p><strong>Speaker 2:</strong> Modern scholarship has largely come to the conclusion that one of the main components may have been naphtha, which is a form of distilled petroleum. As the Byzantine Empire at that time controlled many of the areas where oil can be found very close to the surface of the earth, they would certainly have had access to large quantities of the raw material needed to make naphtha. </p><p><strong>Speaker 2:</strong> From various sources, it seems likely that resin, possibly pine resin, was added to the mix, thus giving the compound its sticky quality. Other possible ingredients are sulfur and quicklime. </p><p><strong>Speaker 2:</strong> The main reason that so little is known about the chemical composition of Greek fire is that the recipe was an extremely closely guarded state secret. It would appear that the secret was so well hidden that it ultimately got lost, because there are few records of the Byzantine Empire deploying it after the end of the 12th century. </p><p><strong>Speaker 2:</strong> However, there is an aspect of this weapon about which there is agreement. Greek fire was deployed in three methods. </p><p><strong>Speaker 2:</strong> The first was as a form of hand grenade. Earthenware pots were filled with the fire and thrown at the enemy. They would shatter on impact with the ground and release their contents, a deployment method that was also used at the time for less deadly incendiary compounds. </p><p><strong>Speaker 2:</strong> At sea, the fire was released by means of large siphons which released jets of fire at high speed and pressure. Eyewitness accounts speak of a terrifying noise that accompanied an attack of this type. </p><p><strong>Speaker 2:</strong> The third method was by means of portable handheld flamethrowers. </p><p><strong>Speaker 2:</strong> If I could just draw your attention to the screen, you will see a...</p>"
+    }
+  ]
+}

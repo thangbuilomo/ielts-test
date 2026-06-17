@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_49",
+  "module": "listening",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2049.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Great! I feel much better now. Oh, you're also gonna have to help me with the bibliography. I think I did it wrong last term. My professor wasn't very happy. </p><p><strong>Speaker 1:</strong> Yeah, they all say they're very important. It's easy, really. Just takes a while. It helps if you do it as you go along. So when we do the research, make a note of all the information that you need.</p><p><strong>Speaker 2:</strong> That's a good idea. So we need the author's name and the title of the chapter. </p><p><strong>Speaker 1:</strong> Oh no, you don't need the chapter title, just the title of the book. </p><p><strong>Speaker 2:</strong> Oh, really? And what about page numbers? </p><p><strong>Speaker 1:</strong> No, not all the time. They are only important if we give direct quotes, and we won't be doing that. </p><p><strong>Speaker 2:</strong> Okay, is that all? </p><p><strong>Speaker 1:</strong> No, you also need to give the year of publication. </p><p><strong>Speaker 2:</strong> Where do you find that? </p><p><strong>Speaker 1:</strong> On the first page, usually next to the ISBN number. Oh, and you need the publisher's name. </p><p><strong>Speaker 2:</strong> Got it. Why is this so important for this presentation anyway? </p><p><strong>Speaker 1:</strong> It's because of the assessment. We get a mark for our research, so we need to show evidence of what we've done. </p><p><strong>Speaker 2:</strong> Really? What else do we get marked on? </p><p><strong>Speaker 1:</strong> Let's see. In my last presentation, we received a mark for delivery, pace, and organisation. </p><p><strong>Speaker 2:</strong> Wow, that's a lot to think about. </p><p><strong>Speaker 1:</strong> Yeah, but it's more simple this time. The only other area we'll be marked on is content. </p><p><strong>Speaker 2:</strong> OK, so we only get two marks? </p><p><strong>Speaker 1:</strong> Yeah, that's right. Anyway, should we get going?</p>"
+    }
+  ]
+}

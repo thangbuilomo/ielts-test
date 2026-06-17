@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_03",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Trong đoạn hội thoại, người nói đang đề cập đến việc có một tiệm giặt (laundrette) tạm thời cho sinh viên trong khi chờ đợi tiệm giặt trong khu ký túc xá được tổ chức. Câu này trực tiếp trả lời cho câu hỏi về một lựa chọn tạm thời. Cụm từ \"little laundrette down the road\" là paraphrase cho \"temporary alternative\". Không có bẫy nào trong câu này vì thông tin rất rõ ràng. Đáp án B là chính xác vì nó đề cập đến tiệm giặt công cộng, trong khi các lựa chọn khác không liên quan đến dịch vụ giặt tạm thời.",
+      "evidence": "In the meantime, there's a little laundrette down the road."
+    },
+    "q12": {
+      "explanation": "Người nói đang chỉ dẫn cho sinh viên mới về việc lấy thông tin cần thiết từ Liên đoàn sinh viên (Students' Union). Câu này cho thấy rằng Liên đoàn sinh viên là nơi cung cấp thông tin và hướng dẫn cho sinh viên, và nó cũng ngụ ý rằng nó nằm trong khoảng cách đi bộ từ các ký túc xá. Cụm từ \"within walking distance\" không được nhắc trực tiếp nhưng có thể suy ra từ ngữ cảnh. Không có bẫy nào trong câu này vì thông tin rất rõ ràng. Đáp án C là chính xác vì nó liên quan trực tiếp đến việc sinh viên cần thông tin và hướng dẫn.",
+      "evidence": "First of all, get the information sheet from the Students' Union, which has lots of guidelines on registering..."
+    },
+    "q13": {
+      "explanation": "Người nói đang giải thích về các tuyến xe buýt và chỉ ra rằng xe buýt số 39 là lựa chọn tốt nhất để đến ga tàu, nơi gần cuối phố chính. Câu này trả lời trực tiếp cho câu hỏi về việc xe buýt nào có thể đến được địa điểm đó. Cụm từ \"the train station\" là thông tin chính xác cho câu hỏi. Không có bẫy nào trong câu này vì thông tin rất rõ ràng. Đáp án E là chính xác vì nó đề cập đến ga tàu mà xe buýt số 39 đi đến.",
+      "evidence": "The 39 goes to the train station, which is very near the end of the high street..."
+    },
+    "q14": {
+      "explanation": "Người nói đang hướng dẫn sinh viên về nơi cần đến để đăng ký thuế hội đồng (council tax). Câu này rõ ràng chỉ ra rằng việc đăng ký nên được thực hiện tại tòa thị chính (town hall). Cụm từ \"should be done at the town hall\" là thông tin trực tiếp cho câu hỏi. Không có bẫy nào trong câu này vì thông tin rất rõ ràng. Đáp án D là chính xác vì nó chỉ rõ địa điểm cần đến để đăng ký.",
+      "evidence": "The actual putting your name on the list, though, should be done at the town hall..."
+    },
+    "q15": {
+      "explanation": "Người nói đang giải thích rằng mặc dù có thông tin sai lệch về việc đăng ký tại đồn cảnh sát, nhưng thực tế là đồn cảnh sát chỉ cung cấp dịch vụ đăng ký cho những người không phải là công dân Vương quốc Anh. Câu này trả lời cho câu hỏi về nơi cung cấp dịch vụ đăng ký cho sinh viên từ nước ngoài. Cụm từ \"registration for non-UK nationals\" là thông tin quan trọng cần chú ý. Không có bẫy nào trong câu này vì thông tin rất rõ ràng. Đáp án A là chính xác vì nó chỉ rõ rằng đồn cảnh sát cung cấp dịch vụ đăng ký cho sinh viên quốc tế.",
+      "evidence": "Some people are told that you can do it at the police station, but that's just the registration for non-UK nationals..."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Hi, I'm Margaret. I'm a student here. I was wondering where I can do my laundry. It won't be long before this is an urgent thing for me.</p><p><strong>Speaker 1:</strong> Here in the residence, we're planning a little laundrette beside reception, but this might take a little time to organize. In the meantime, there's a little laundrette down the road. It's in Queen's Avenue, the same street that the residence is in. You go about 500 meters up the road in the opposite direction to the town center, and it's on the right. They have plenty of machines and dryers, and there's a lady there called Betty who does service washes. You just need to drop it off, and it will be laundered, dried, and ironed the next day. It's a bit more expensive, of course, but good if you're lazy.</p><p><strong>Speaker 3:</strong> Another question. Hi, my name's Joe. I've got a new job at the other end of the high street. I was wondering which the best bus was to go there.</p><p><strong>Speaker 1:</strong> The best bus for the center of town is the 38. That takes you straight to the square. If you work at the end of the high street, though, that still leaves you with about a 10-minute walk. The 39 goes to the train station, which is very near the end of the high street, so that's your best bet probably. The 39 is good for coming home late at night as well, as the station buses go on later than the other buses. There's the 35 bus too, for getting to the high street, but it goes to the near end of the high street, and it's a good 20-minute walk after getting off.</p><p><strong>Speaker 2:</strong> Anyone else? You there.</p><p><strong>Speaker 4:</strong> I'm a student too. I'm new in the area and I have to register for my council tax. Do you know where I have to register?</p><p><strong>Speaker 1:</strong> Yes, we get lots of people in your situation. You other students need to do this too. First of all, get the information sheet from the Students' Union, which has lots of guidelines on registering and the discounts you should get. The Students' Union is in Newbolt Street. I'm sure you know that. The actual putting your name on the list, though, should be done at the town hall, which is right next to the square. Some people are told that you can do it at the police station, but that's just the registration for non-UK nationals, not the council tax.</p>"
+}

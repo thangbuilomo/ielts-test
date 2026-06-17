@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_33",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2033.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You will hear a woman phoning a bank to find out about opening a bank account. You now have some time to look at the questions on your screen. Now, answer the questions on your screen.</p><p><strong>Speaker 2:</strong> That's great. So, if you'd like to open an account, I'll just need some details.</p><p><strong>Speaker 1:</strong> Sure. Can I start with your name, please?</p><p><strong>Speaker 2:</strong> Lisa Ashbury.</p><p><strong>Speaker 1:</strong> Can I just check the spelling of your surname? Is that A-S-H...?</p><p><strong>Speaker 2:</strong> That's right. And then B-E-double-R-Y.</p><p><strong>Speaker 1:</strong> OK, I've got that. Thank you very much. And your address, please?</p><p><strong>Speaker 2:</strong> Of course. It's No. 20, Pricely Lane, and that's in Longstone.</p><p><strong>Speaker 1:</strong> Right, got that. Thank you. And can I take a postcode, please?</p><p><strong>Speaker 2:</strong> It's W23K594.</p><p><strong>Speaker 1:</strong> Thank you. I'll just be a second entering that.</p><p><strong>Speaker 2:</strong> Sure, no problem. </p><p><strong>Speaker 1:</strong> And I need a phone number.</p><p><strong>Speaker 2:</strong> OK. It's 087-958-0662.</p><p><strong>Speaker 1:</strong> OK. So, is this to be an individual account, then? Is it just in your own name?</p><p><strong>Speaker 2:</strong> No, I want to open an account for me and my brother.</p><p><strong>Speaker 1:</strong> Ah, so it's a joint one rather than an individual account.</p><p><strong>Speaker 2:</strong> Oh, yes. Sorry. That's right.</p><p><strong>Speaker 1:</strong> OK, that shouldn't be a problem. I will need a few more details, though.</p><p><strong>Speaker 2:</strong> That's fine.</p><p><strong>Speaker 1:</strong> So, could you tell me what the account will be used for, please?</p><p><strong>Speaker 2:</strong> Well, it's not for my salary and bills. I have a separate account for that. But I'm about to start receiving some rent. It's for a holiday apartment, you see. And so this is for depositing that.</p><p><strong>Speaker 1:</strong> OK, thank you. Right, I now need to read you our terms and conditions.</p>"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_07",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2007.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Good morning everyone and thank you for coming to this lecture on safety. This lecture is of course optional for all students at Wesley University, but it has been laid on by your Students Union to help you. And both the staff at Wesley Police Station and the staff here at the University urge you to attend the other lectures like it and also to get your friends to come too. So that's enough from me. I would like to introduce you to Police Constable Fair from Wesley Police Station, who's going to give you some hints on keeping safe. </p><p>Speaker 2 (PC Fair): Good morning, ladies and gentlemen, and thank you for allowing me to come here to talk to you. It's really a great idea for someone from the police force to come and talk to you, as it may save you time, money, and also it may help to protect you. I hope I don't sound condescending when I point out some ideas, as a lot of things really are just common sense, but it's often forgetting these common sense things that can lead to problems. </p><p>First of all, the thing that students are most likely to suffer from, whether they're in digs or in hall, is theft. You hear a lot of terrible stories about muggings, rape, and fraud, but these are not really that widespread, and we'll talk about some of those things later. Thieves know very well that student lodgings are a good place to find electronic goods, wallets, and bags, and the like, with little or no protection. So make sure that your room, house, or flat is securely locked each time that you go out. Don't leave valuables in the open where they can be spotted from the window. See if you can get an extra lock on your window too. If possible, when you're out, try and leave your valuable things in a cupboard which has an extra lock on it. </p><p>So much for theft prevention. If you do get burgled, though, there are ways to protect yourself here too. Try and get household insurance. Make a valuables list of all the items that you own, including things like keys and bank cards. Estimate their value and take the list to any reputable high street insurance broker and get a quote for household insurance. This isn't very expensive and it will give you peace of mind. </p><p>Another thing you can do is to get an ultraviolet pen and write your name and address on all your valuables. This will not be able to be seen in normal light, so your goods won't look any different, but your goods will be forever marked as your property.</p>"
+    }
+  ]
+}

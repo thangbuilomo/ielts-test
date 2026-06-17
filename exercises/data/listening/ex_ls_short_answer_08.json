@@ -1,0 +1,112 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_short_answer_08",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "short_answer",
+  "category_id": "short_answer",
+  "title": "Short Answer - Exercise 8",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/SHORT%20ANSWER%2008.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_short_answer_08.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_short_answer_08.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_short_answer_08.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "short_answer",
+          "skill_tags": [
+            "ls_short_answer"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>SHORT ANSWER 08</h1><p><strong>Questions 11 - 15</strong></p><p>Answer the questions.</p><p>Use <strong>NO MORE THAN THREE WORDS</strong> for each answer.</p><p class=\"short-answer-row\"><span class=\"short-answer-question\"><strong>11</strong> Where does the tour start?</span><blank data-qid=\"q11\"/></p><p class=\"short-answer-row\"><span class=\"short-answer-question\"><strong>12</strong> What is the first item of interest at the starting point of the tour?</span><blank data-qid=\"q12\"/></p><p class=\"short-answer-row\"><span class=\"short-answer-question\"><strong>13</strong> Where did the Gatfield family eat with their guests?</span><blank data-qid=\"q13\"/></p><p class=\"short-answer-row\"><span class=\"short-answer-question\"><strong>14</strong> Apart from the gardens and the monument, what can be seen from the reception rooms’ windows?</span><blank data-qid=\"q14\"/></p><p class=\"short-answer-row\"><span class=\"short-answer-question\"><strong>15</strong> What events are said to take place in the main reception room?</span><blank data-qid=\"q15\"/></p>",
+          "items": [
+            {
+              "question_id": "q11",
+              "number": 11,
+              "prompt_html": "Where does the tour start?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q12",
+              "number": 12,
+              "prompt_html": "What is the first item of interest at the starting point of the tour?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q13",
+              "number": 13,
+              "prompt_html": "Where did the Gatfield family eat with their guests?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q14",
+              "number": 14,
+              "prompt_html": "Apart from the gardens and the monument, what can be seen from the reception rooms’ windows?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q15",
+              "number": 15,
+              "prompt_html": "What events are said to take place in the main reception room?",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            11,
+            15
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_short_answer_08",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_short_answer_08",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

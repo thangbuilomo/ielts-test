@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_06",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2006.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Good morning, I'm here to get a student bus pass, please.</p><p><strong>Speaker 1:</strong> Of course, madam. Do you want to buy a month pass, a six-month pass, or a year pass?</p><p><strong>Speaker 2:</strong> Just a month pass, please.</p><p><strong>Speaker 1:</strong> Right then. I'll just have to take a few details.</p><p><strong>Speaker 2:</strong> Yes, of course. First of all, what's your name?</p><p><strong>Speaker 2:</strong> Natalie Jameson.</p><p><strong>Speaker 1:</strong> And how do you spell Jameson?</p><p><strong>Speaker 2:</strong> J-A-M-E-S-O-N.</p><p><strong>Speaker 1:</strong> Thank you. And what's your address?</p><p><strong>Speaker 2:</strong> 45 Forest Avenue, Newlands, Adelaide.</p><p><strong>Speaker 1:</strong> Is that Forest with one R or two Rs?</p><p><strong>Speaker 2:</strong> Just one.</p><p><strong>Speaker 1:</strong> And what's the postcode, please?</p><p><strong>Speaker 2:</strong> Oh, yes. It's 8490.</p><p><strong>Speaker 1:</strong> Thanks. Now, what's your date of birth, if you don't mind me asking?</p><p><strong>Speaker 2:</strong> Not at all. It's the 13th May, 1982.</p><p><strong>Speaker 1:</strong> I also need to know your telephone number here in Adelaide.</p><p><strong>Speaker 2:</strong> OK. I just need to check that as I only moved here last week. Now, where is it? Oh, here we are. It's 6249 7152.</p><p><strong>Speaker 1:</strong> Do you need a code or anything?</p><p><strong>Speaker 2:</strong> Oh, no, that's OK, thank you. Can I see your university card, please?</p><p><strong>Speaker 2:</strong> Yes, here it is.</p><p><strong>Speaker 1:</strong> Good. That's fine. Now, for which zone do you need a pass?</p><p><strong>Speaker 2:</strong> Well, I'm not sure. I was hoping you'd be able to help me, as I don't really know my way around here yet. As you know, I live in Newlands and I have to get to the university campus in the centre of town every day.</p><p><strong>Speaker 1:</strong> Well, the university is in Zone 1 and Newlands has two zones. The side nearer to the town centre is Zone 5, but the farer side is Zone 6. What road is it you live on again?</p><p><strong>Speaker 2:</strong> Forest Avenue.</p><p><strong>Speaker 1:</strong> Let's see this on a map. There it is. The nearest bus stop is in Zone 5. That's lucky. Zones 1 through 6 are $15 more expensive.</p><p><strong>Speaker 2:</strong> Great. Make the pass out for zones 1 to 5 then, please.</p>"
+    }
+  ]
+}

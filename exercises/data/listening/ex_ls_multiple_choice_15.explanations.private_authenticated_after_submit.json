@@ -1,0 +1,29 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_15",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q38": {
+      "explanation": "Người nói đang thảo luận về những sự kiện tự nhiên và hành vi của con người có liên quan đến hoạt động của các cơn bão mặt trời. Thông tin giúp tìm ra đáp án là việc người nói đã liệt kê các sự kiện như bạo loạn, động đất và phun trào núi lửa, cho thấy rằng hoạt động mặt trời ảnh hưởng đến cả hiện tượng tự nhiên và hành vi con người. Paraphrase quan trọng ở đây là \"intense solar activity\" (hoạt động mặt trời mạnh) và \"charting events\" (ghi nhận các sự kiện). Bẫy có thể là việc người nghe có thể chỉ chú ý đến một trong hai khía cạnh (tự nhiên hoặc hành vi) mà không nhận ra rằng cả hai đều được đề cập. Đáp án C là đúng vì nó bao hàm cả hai khía cạnh này.",
+      "evidence": "Riots, battles, arson attacks, earthquakes and volcanic eruptions have been charted within days or weeks of intense solar activity."
+    },
+    "q39": {
+      "explanation": "Người nói đang mô tả một sự cố cụ thể xảy ra do bức xạ cực tím từ một cơn bão mặt trời. Thông tin giúp tìm ra đáp án là việc vệ tinh của Bộ Quốc phòng gặp sự cố nghiêm trọng và hệ thống theo dõi mất dấu một số lượng lớn vệ tinh. Paraphrase quan trọng là \"premature and fatal tumble\" (rơi tự do sớm và chết người) và \"tracking system lost track\" (hệ thống theo dõi mất dấu). Bẫy có thể là việc người nghe có thể nghĩ rằng thông tin về \"disruption to flights\" (gián đoạn chuyến bay) là quan trọng, nhưng không có thông tin nào trong đoạn văn đề cập đến điều đó. Đáp án A là đúng vì nó trực tiếp liên quan đến sự cố vệ tinh.",
+      "evidence": "a secret Defense Department satellite began a premature and fatal tumble and the tracking system that keeps exact tabs on some 19,000 objects in Earth orbit briefly lost track of 11,000 of them."
+    },
+    "q40": {
+      "explanation": "Người nói đang mô tả những tác động của cơn bão mặt trời trên Trái đất, đặc biệt là ảnh hưởng đến các thiết bị điện tử. Thông tin giúp tìm ra đáp án là việc các tín hiệu sóng ngắn bị gián đoạn và các hệ thống liên lạc bị quá tải. Paraphrase quan trọng là \"effects were equally disruptive\" (tác động gây rối loạn tương tự) và \"shortwave transmissions were interrupted\" (các tín hiệu sóng ngắn bị gián đoạn). Bẫy có thể là việc người nghe có thể nghĩ rằng \"problems for the transport industry\" (vấn đề cho ngành vận tải) là một lựa chọn hợp lý, nhưng không có thông tin cụ thể nào đề cập đến điều đó. Đáp án B là đúng vì nó phản ánh chính xác những gì đã được nói đến trong đoạn văn.",
+      "evidence": "On the Earth, the flare's effects were equally disruptive. Shortwave transmissions were interrupted, some for as long as 24 hours, and satellite communication and a Coast Guard loran navigation system were temporarily overwhelmed."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Let us examine the kinds of events that correlate with solar flares, starting with those that occur within days or weeks of intense solar activity. Riots, battles, arson attacks, earthquakes and volcanic eruptions have been charted within days or weeks of intense solar activity. For example, in 1980, solar flares in May coincided with riots in Miami and South Korea and the eruption of Mount St. Helens in May and June. </p><p><strong>Speaker 3:</strong> Solar flares also preceded the April 1982 conflict between Great Britain and Argentina over the Falkland Islands and the U.S. attack on Tripoli, Libya on April 14, 1986. By tracking solar flares, biologist Marcia Adams was able to assist the San Francisco Fire Department by predicting arson attacks 72 hours in advance. </p><p><strong>Speaker 2:</strong> She believes that flares affect people within the first few days after they happen. Let's look at a specific example. Recently, a slightly less powerful flare erupted while aimed almost directly at the Earth. </p><p><strong>Speaker 3:</strong> Eight minutes later, traveling at the speed of light, a wave of ultraviolet radiation seared the Earth's upper atmosphere. Low orbiting satellites encountering that fringe and running into increased drag slowed and dropped into lower orbits. </p><p><strong>Speaker 2:</strong> A secret Defense Department satellite began a premature and fatal tumble and the tracking system that keeps exact tabs on some 19,000 objects in Earth orbit briefly lost track of 11,000 of them. </p><p><strong>Speaker 3:</strong> Solar Max, which is a NASA satellite designed to study flares and other solar activity, descended by as much as half a mile in a single day, almost certainly hastening its demise. </p><p><strong>Speaker 2:</strong> On the Earth, the flare's effects were equally disruptive. Shortwave transmissions were interrupted, some for as long as 24 hours, and satellite communication and a Coast Guard loran navigation system were temporarily overwhelmed. </p><p><strong>Speaker 3:</strong> Powerful transient magnetic fields generated in the upper atmosphere by the flare induced problems in transmission lines and wiring, and mystified homeowners reported automatic garage doors opening and closing on their own. </p><p><strong>Speaker 2:</strong> Power surges in transmission lines and transformers in Quebec knocked out power throughout the entire province.</p>"
+}

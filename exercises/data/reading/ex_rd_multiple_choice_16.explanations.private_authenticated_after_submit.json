@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_16",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q32": {
+      "explanation": "Căn cứ nằm ở đoạn 4: \"Through this system on its website and forum, Less Wrong community members debate concepts such as decision making and economic theory, for example, as well as training each other in practical techniques. The project has spawned other rationality communities, including the Center for Applied Rationality, a non-profit organisation in Berkeley, California which runs workshops on critical thinking and setting goals, and offline clubs, such as the New York City Sceptics and Bay Area Rationalist Community.\". Phương án C (It is interested in the practical application of rationalist theory.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Through this system on its website and forum, Less Wrong community members debate concepts such as decision making and economic theory, for example, as well as training each other in practical techniques. The project has spawned other rationality communities, including the Center for Applied Rationality, a non-profit organisation in Berkeley, California which runs workshops on critical thinking and setting goals, and offline clubs, such as the New York City Sceptics and Bay Area Rationalist Community._"
+    },
+    "q33": {
+      "explanation": "Căn cứ nằm ở đoạn 4: \"Through this system on its website and forum, Less Wrong community members debate concepts such as decision making and economic theory, for example, as well as training each other in practical techniques. The project has spawned other rationality communities, including the Center for Applied Rationality, a non-profit organisation in Berkeley, California which runs workshops on critical thinking and setting goals, and offline clubs, such as the New York City Sceptics and Bay Area Rationalist Community.\". Phương án D (Its goals are rendered more easily attainable thanks to its cooperative nature.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Through this system on its website and forum, Less Wrong community members debate concepts such as decision making and economic theory, for example, as well as training each other in practical techniques. The project has spawned other rationality communities, including the Center for Applied Rationality, a non-profit organisation in Berkeley, California which runs workshops on critical thinking and setting goals, and offline clubs, such as the New York City Sceptics and Bay Area Rationalist Community._"
+    },
+    "q34": {
+      "explanation": "Căn cứ nằm ở đoạn 2: \"Any community member can participate by attending regular 'physical' meetups in different cities around the globe or spark debate by posting on its website or forum. User Raemon attempts to define what “the rationalist community” consists of. He outlines two levels of the community as he sees it: the ‘Rationalsphere’, comprising everyone with an interest in rationality, regardless of their interest in joining a community; and the ‘Rationality Community’, containing those who want to connect over their interest.\". Phương án B (Its interaction centres around the analysis of thoughts and theories written by the site's users.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Any community member can participate by attending regular 'physical' meetups in different cities around the globe or spark debate by posting on its website or forum. User Raemon attempts to define what “the rationalist community” consists of. He outlines two levels of the community as he sees it: the ‘Rationalsphere’, comprising everyone with an interest in rationality, regardless of their interest in joining a community; and the ‘Rationality Community’, containing those who want to connect over their interest._"
+    },
+    "q35": {
+      "explanation": "Căn cứ nằm ở đoạn 3: \"C He goes on to define features of those two levels. In reference to the ‘Rationalsphere’, he adds 'overlapping patterns of thought', stating that, although there is no one feature to define people in this camp, they share some habits and patterns, such as being attentive to the unreliability of one’s mind or being willing to change one’s preconceived ideas. He further highlights three focus areas: truthseeking, impact and what he simply terms as ‘human’.\". Phương án D (The site has implemented features which allow members to predict the quality of other users' output.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "C He goes on to define features of those two levels. In reference to the ‘Rationalsphere’, he adds 'overlapping patterns of thought', stating that, although there is no one feature to define people in this camp, they share some habits and patterns, such as being attentive to the unreliability of one’s mind or being willing to change one’s preconceived ideas. He further highlights three focus areas: truthseeking, impact and what he simply terms as ‘human’._"
+    }
+  }
+}

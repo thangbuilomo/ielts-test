@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_14",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2014.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now, answer the questions on your screen. </p><p><strong>Speaker 1:</strong> The largest countries that for various reasons are beginning to shift world economic power are China, Russia, India, and Brazil. The sizes of the populations, along with the cheap labor and raw material prices which are available in these countries, are causing this shift. </p><p><strong>Speaker 1:</strong> As a result, every year the demand for people knowing the languages of these countries is growing enormously. In addition, the demand for teachers in English language training is also enormously increasing. </p><p><strong>Speaker 1:</strong> Western teachers are going to the countries, and their nationals are coming over here. As well as business, the education sector is getting a huge boost from the opening up of these economies. </p><p><strong>Speaker 1:</strong> So will China be the major powerhouse, as everyone says? Definitely, but maybe not the biggest. For example, many experts predict that India's population will soon surpass China's. </p><p><strong>Speaker 1:</strong> It still points to world economic power being held in Asia, though. English will probably remain important, though. Chinese is difficult to learn, and English also has some official status in India. </p><p><strong>Speaker 1:</strong> English is easy to learn and has the advantage, for better or worse, of being the language that everyone wants to learn. That won't change in a hurry. </p><p><strong>Speaker 1:</strong> How many people learn English, then? The number of spoken languages nowadays is estimated between 2,500 and 7,000. Out of all these languages, the numbers of those actually studied by non-native speakers is tiny. </p><p><strong>Speaker 1:</strong> There are no official records of numbers studying English worldwide, but today you can safely say that there are not many countries with a structured program of education where English is not taught. </p><p><strong>Speaker 1:</strong> It will take a long time for this habit to be broken. At the moment, it's getting stronger.</p>"
+    }
+  ]
+}

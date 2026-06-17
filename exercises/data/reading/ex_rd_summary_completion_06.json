@@ -1,0 +1,95 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_summary_completion_06",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "summary_completion",
+  "category_id": "summary_completion",
+  "title": "Summary Completion - Exercise 6",
+  "duration_seconds": 0,
+  "content": {
+    "title": "Into the Unknown: The search for the Northwest Passage",
+    "content_html": "<h1>SUMMARY COMPLETION 06</h1>\n<h2>Into the Unknown: The search for the Northwest Passage</h2>\n<p><img alt=\"SUMMARY COMPLETION 06.jpg\" src=\"SUMMARY COMPLETION 06.jpg\" /></p>\n<p><strong>A\n</strong>Prior to the 19th century, the Canadian Arctic region was largely unknown to Europeans, except for a relatively few whalers and fur hunters. However, for several centuries, explorers had sought to find a passage to the East via the ice-bound waterways of the north, to avoid the long and perilous journey via Cape Horn round the tip of South America and Africa's Cape of Good Hope. The route they sought, between the Atlantic and the North Pacific, was named the Northwest Passage.</p>\n<p><strong>B\n</strong>Following the Napoleonic Wars in the early 19th century, there were many out-of-work naval officers, looking to find employment in the expanding British Empire. One of these was the naval surgeon John Richardson, born in Dumfries, Scotland, in 1787, who became a Fellow of the London Royal College of Surgeons in 1807, following a medical apprenticeship in Edinburgh. The training of medical personnel at this time involved studying a great deal of natural history, particularly of plants and their medicinal properties, and Richardson became a keen naturalist. It was this combination of knowledge and skills which bought him to the attention of Lieutenant John Franklin, who had been commissioned to explore the Northwest Passage in 1819. Richardson enthusiastically took the opportunity to travel with him with the object of collecting geological, plant and animal specimens.</p>\n<p><strong>C\n</strong>At this time, the northern territories of Canada were dominated by two rival companies trading in animal furs and skins, who essentially governed this vast region. Staffed mainly by Scottish workers, but employing French <em>voyageurs</em>* and Native American animal hunters, the violent trading war between these companies destabilised the whole of the region and the food stocks, which the expedition depended on, were simply unavailable. Nevertheless, Franklin’s men succeeded in covering well over 1,000 miles in the first year of their anticipated 2-year expedition. They reached the confluence of the Coppermine and Yellow Rivers in 1820, despite temperatures of 40 degrees below freezing, while in summer the men were plagued by hordes of mosquitoes and biting flies.</p>\n<p><strong>D\n</strong>It was the difficulty of obtaining food which made them seriously consider ending the expedition. Travelling several hundred miles over the waterlogged bog and tundra, the hungry and exhausted travellers were forced to feed on the only plentiful plants they could find - primitive lichens covering otherwise bare rocks. George Back, a member of Richardson’s crew, showed great courage and selflessness in assisting the men stranded at Fort Enterprise, when he volunteered, together with some voyageurs, to undertake a winter journey of 500 miles to reach the camp of the Native American Chief Akaitcho. The chief immediately sent out two sledges loaded with meat to the starving explorers at Fort Enterprise.</p>\n<p><strong>E\n</strong>Meanwhile, Richardson had agreed to stay behind with two sick members of the party, Hood and Hepburn, near the Coppermine River. The three emaciated men survived on insects and sheltered in a small tent, but continued to observe morning and evening religious prayers to maintain morale. Richardson was soon forced to make the most momentous decisions of his life when he encountered one of the Iroquois Indian guides, attached to the main party, who claimed to have lost his way. A number of incidents convinced Richardson that the well-armed guide intended to kill the weakened party of Europeans for food. One morning, one of the men, Hood, was found dead with a gunshot wound to the head. Richardson did not hesitate: he killed the guide in similar fashion.</p>\n<p><strong>F\n</strong>When Richardson and Hepburn later reached Fort Enterprise, they found the main party near to death from starvation and thoroughly demoralised, including their leader, Lieutenant Franklin. It was Richardson who then took charge, clearing out their filthy quarters and organising the sharing of what little sustenance they had, mainly consisting of old bones and scraps found outside. It was from this time that legends of making soup from old animal skins and leather moccasins emerged. Eventually, Chief Akaitcho’s Indians arrived with their stores of food. They treated the weak and starved party with the utmost care, restoring them sufficiently to start the journey to Fort Providence on the Great Slave Lake within a week. There they stayed for five months with the Hudson’s Bay Company, who looked after them very well. They were not able to return to England till the summer of 1822, having, by then, travelled some 5,500 miles by land and sea.</p>\n<p><strong>G\n</strong>Richardson later accompanied a second Franklin expedition in the years 1825-27, which was much better organised, enabling him to consolidate his collections and observations and forming the basis of the very first comprehensive study of the natural history of the Arctic. Following his knighthood in 1846, he led an unsuccessful search expedition to determine what had happened to John Franklin’s last Arctic expedition which had never returned and in which all died. It was not until the 1980s, when forensic science was applied to the buried corpses - perfectly intact in the ice - that it was found that theymost probably died as a result of the latest technology of the time: tinned food. It was seen as the solution to maintaining the health and wellbeing of the expedition and thousands of tins were taken. Unfortunately, the lead used to seal the tins, which were of poor quality, contaminated the food inside and the explorers probably all died of lead poisoning.</p>\n<p>*<em>The name given to the very expert French-Canadian canoe men</em></p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_summary_completion_06.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_summary_completion_06.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "summary_completion",
+          "skill_tags": [
+            "rd_comp_summary"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 36 - 40</strong></p>\n<p>Complete the summary. Write NO MORE THAN TWO WORDS from the text for each answer.</p>\n<table>\n<tr>\n<td><strong>Richardson’s battle for survival</strong><br>Travelling great distances across waterlogged terrain and eating only plants, such as wild <blank data-qid=\"q36\"/>, left the group both exhausted and desperately in need of food.<br>Richardson, Hood and Hepburn were able to stay alive by the Coppermine River by eating <blank data-qid=\"q37\"/> . Richardson had to act quickly against a man who may have shot Hood in the <blank data-qid=\"q38\"/> and wished to do the same to the others.<br>At Fort Enterprise, Richardson found his team feeling completely <blank data-qid=\"q39\"/><br>and very short of food. He fed them soup made from old bones and scraps until Chief Akaitcho arrived, bringing them food and restoring them to full health.<br>Richardson went on other adventures with Franklin during which he consolidated his plant and animal specimens. However, Franklin later died from lead poisoning caused by the consumption of <blank data-qid=\"q40\"/><br>.</td>\n</tr>\n</table>",
+          "items": [
+            {
+              "question_id": "q36",
+              "number": 36,
+              "prompt_html": "Question 36",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q37",
+              "number": 37,
+              "prompt_html": "Question 37",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q38",
+              "number": 38,
+              "prompt_html": "Question 38",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q39",
+              "number": 39,
+              "prompt_html": "Question 39",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q40",
+              "number": 40,
+              "prompt_html": "Question 40",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            36,
+            40
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

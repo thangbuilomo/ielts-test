@@ -1,0 +1,107 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_true_false_not_given_02",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 7,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "tfng",
+  "category_id": "true_false_not_given",
+  "title": "True False Not Given - Exercise 2",
+  "duration_seconds": 0,
+  "content": {
+    "title": "Contaminating the Arctic",
+    "content_html": "<h1>TRUE - FALSE - NOT GIVEN 02</h1>\n<h2>Contaminating the Arctic</h2>\n<p>Our perception of the Arctic region is that its distance from industrial centres keeps it pristine and clear from the impact of pollution. However, through a process known as \"transboundary pollution\", the Arctic is the recipient of contaminants whose sources are thousands of miles away. Large quantities of pollutants pour into our atmosphere, as well as our lakes, rivers, and oceans on a daily basis. In the last 20 years, scientists have detected an increasing variety of toxic contaminants in the north, including pesticides from agriculture, chemicals and heavy metals from industry, and even radioactive fall-out from Chernobyl. These are substances that have invaded ecosystems virtually worldwide, but they are especially worrisome in the Arctic.</p>\n<p>Originally, Arctic contamination was blamed largely on chemical leaks, and these leaks were thought to be “small and localised\". The consensus now is that pollutants from around the world are being carried north by rivers, ocean currents, and atmospheric circulation. Due to extreme conditions in the Arctic, including reduced sunlight, extensive ice cover and cold temperatures, contaminants break down much more slowly than in warmer climates. Contaminants can also become highly concentrated due to their significantly lengthened life span in the Arctic.</p>\n<p>Problems of spring run-off into coastal waters during the growth period of marine life are of critical concern. Spring algae bloom easily, absorbing the concentrated contaminants released by spring melting. These algae are in turn eaten by zooplankton and a wide variety of marine life. The accumulation of these contaminants increases with each step of the food chain or web, and can potentially affect any one of us who eats marine animals near the top of the food chain. Pollutants respect no borders; transboundary pollution is the movement of contaminants across political borders, whether by air, rivers, or ocean currents. The eight circumpolar nations, led by the Finnish Initiative of 1989, established the Arctic Environmental Protection Strategy (AEPS) in which participants agreed to develop an Arctic Monitoring and Assessment Programme (AMAP). AMAP has established an international scientific network to monitor the current condition of the Arctic with respect to specific contaminants. This monitoring programme is extremely important because it will give a scientific basis for understanding the scope of the problem.</p>\n<p>In the 1950s, pilots travelling on weather reconnaissance flights in the Canadian high Arctic reported seeing bands of haze in the springtime in the Arctic region. It was during this time that the term “Arctic haze” was first used, referring to this smog of unknown origin. But it was not until 1972 that Dr Glenn Shaw of the Geophysical Institute at the University of Alaska first put forth ideas concerning the nature and long-range origin of Arctic haze. The idea that the source was long range was very difficult for many to accept. Each winter, cold, dense air settles over the Arctic. In the darkness, the Arctic seems to become more and more polluted by a build-up of mid-latitude emissions from fossil fuel combustion, smelting and other industrial processes. By late winter, the Arctic is covered by a layer of this haze the size of the continent of Africa. When the spring light arrives in the Arctic, there is a smog-like haze, which at times resembles the pollution that hangs over cities such as Los Angeles. This polluted air is a well-known and well-characterised feature of the late winter Arctic environment. In the North American Arctic, episodes of brown or black snow had been blamed on continental storm tracks that deliver gaseous and particulate-associated contaminants from Asian deserts and agricultural areas. It is now known that the contaminants originate largely in Europe and Asia.</p>\n<p>Arctic haze has been studied most extensively in Point Barrow, Alaska, across the Canadian Arctic and in Svalbard (Norway). Evidence from ice cores drilled from the ice sheet of Greenland indicates that these haze particles were not always present in the Arctic, but began to appear only in the last century. The Arctic haze particles appear to be similar to smog particles observed in industrial areas farther south, consisting mostly of sulfates mixed with particles of carbon. It is believed that the particles are formed when gaseous sulfur dioxide produced by burning sulfur-bearing coal is irradiated by sunlight and oxidised to sulfate, a process catalysed by trace elements in the air. These sulfate particles or droplets of sulfuric acid quickly capture the carbon particles, which are also floating in the air. Pure sulfate particles or droplets are colourless, so it is believed that the darkness of the haze is caused by the mixed-in carbon particles.</p>\n<p>The impact of the haze on Arctic ecosystems, as well as the global environment, has not been adequately researched. The pollutants have only been studied in their aerosol form over the Arctic. However, little is known about what eventually happens to them. It is known that they are removed somehow. There is a strong possibility that the contaminants end up in the ocean, most likely in the North Atlantic, the Norwegian Sea and possibly the Bering Sea - all three very important fisheries.</p>\n<p>Currently, the major issue among researchers is to understand the impact of Arctic haze on global climate change. The contaminants absorb sunlight and, in turn, heat up the atmosphere. The global impact of this is currently unknown, but the implications are quite powerful.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_true_false_not_given_02.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_true_false_not_given_02.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "tfng",
+          "skill_tags": [
+            "rd_tfng"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 15 - 21</strong></p>\n<p>Choose <strong>TRUE</strong> if the statement agrees with the information given in the text, choose <strong>FALSE</strong> if the statement contradicts the information, or choose <strong>NOT GIVEN</strong> if there is no information on this.</p>\n<p>15 Industry in the Arctic has increased over the last 20 years.</p>\n<p>16 Arctic conditions mean that the decomposition of pollutants is much accelerated.</p>\n<p>17 Pollution absorbed by Arctic algae may affect humans.</p>\n<p>18 The AEPS has set up scientific stations in the Arctic to track pollution.</p>\n<p>19 Arctic pollution can sometimes resemble US urban pollution.</p>\n<p>20 The colour of Arctic haze is created by the presence of carbon.</p>\n<p>21 Research has shown that airborne Arctic pollutants remain in the air forever.</p>\n<ol>\n<li>\n<p><strong>NG</strong></p>\n</li>\n<li>\n<p><strong>F</strong></p>\n</li>\n<li>\n<p><strong>T</strong></p>\n</li>\n<li>\n<p><strong>NG</strong></p>\n</li>\n<li>\n<p><strong>T</strong></p>\n</li>\n<li>\n<p><strong>T</strong></p>\n</li>\n<li>\n<p><strong>F</strong></p>\n</li>\n</ol>",
+          "items": [
+            {
+              "question_id": "q15",
+              "number": 15,
+              "prompt_html": "Industry in the Arctic has increased over the last 20 years.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q16",
+              "number": 16,
+              "prompt_html": "Arctic conditions mean that the decomposition of pollutants is much accelerated.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q17",
+              "number": 17,
+              "prompt_html": "Pollution absorbed by Arctic algae may affect humans.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q18",
+              "number": 18,
+              "prompt_html": "The AEPS has set up scientific stations in the Arctic to track pollution.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q19",
+              "number": 19,
+              "prompt_html": "Arctic pollution can sometimes resemble US urban pollution.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q20",
+              "number": 20,
+              "prompt_html": "The colour of Arctic haze is created by the presence of carbon.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q21",
+              "number": 21,
+              "prompt_html": "Research has shown that airborne Arctic pollutants remain in the air forever.",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            15,
+            21
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

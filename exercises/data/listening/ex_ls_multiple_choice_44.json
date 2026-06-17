@@ -1,0 +1,126 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_multiple_choice_44",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "mcq_single",
+  "category_id": "multiple_choice",
+  "title": "Multiple Choice - Exercise 44",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2044.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_multiple_choice_44.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_multiple_choice_44.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_multiple_choice_44.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "mcq_single",
+          "skill_tags": [
+            "ls_mcq_single"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>MULTIPLE CHOICE 44</h1><p><strong>Questions 21 - 25</strong></p><p>Choose the correct letter, <strong>A, B or C</strong>.</p><p>21 According to Adrian, what were the origins of the first Australian immigrants?</p><table><thead><tr><th><strong>A</strong>    The ancestors of aborigines</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    Petty criminals</td><td></td></tr><tr><td><strong>C</strong>    Sailors</td><td></td></tr></tbody></table><p>22 What was the name of the first British colony in Australia?</p><table><thead><tr><th><strong>A</strong>    Victoria</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    New South Wales</td><td></td></tr><tr><td><strong>C</strong>    New London</td><td></td></tr></tbody></table><p>23 When was the White Australia Policy started?</p><table><thead><tr><th><strong>A</strong>    Just after the first colony expanded</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    After Australian Federation</td><td></td></tr><tr><td><strong>C</strong>    After the Second World War</td><td></td></tr></tbody></table><p>24 Why was there bad feeling towards many Chinese immigrants in the 1850s?</p><table><thead><tr><th><strong>A</strong>    Because they opened restaurants.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    Because they were searching for gold.</td><td></td></tr><tr><td><strong>C</strong>    Because they would work for less money than the local Australians.</td><td></td></tr></tbody></table><p>25 When were Asian students first allowed to study at Australian universities?</p><table><thead><tr><th><strong>A</strong>    1950</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    1957</td><td></td></tr><tr><td><strong>C</strong>    1973</td><td></td></tr></tbody></table>",
+          "items": [
+            {
+              "question_id": "q21",
+              "number": 21,
+              "prompt_html": "According to Adrian, what were the origins of the first Australian immigrants?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q22",
+              "number": 22,
+              "prompt_html": "What was the name of the first British colony in Australia?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q23",
+              "number": 23,
+              "prompt_html": "When was the White Australia Policy started?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q24",
+              "number": 24,
+              "prompt_html": "Why was there bad feeling towards many Chinese immigrants in the 1850s?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q25",
+              "number": 25,
+              "prompt_html": "When were Asian students first allowed to study at Australian universities?",
+              "response_type": "text"
+            }
+          ],
+          "options": [
+            {
+              "label": "A",
+              "text": "1950"
+            },
+            {
+              "label": "B",
+              "text": "1957"
+            },
+            {
+              "label": "C",
+              "text": "1973"
+            }
+          ],
+          "question_range": [
+            21,
+            25
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_multiple_choice_44",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_multiple_choice_44",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

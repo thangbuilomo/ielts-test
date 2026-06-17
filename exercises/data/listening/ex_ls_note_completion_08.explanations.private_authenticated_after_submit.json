@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_08",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q16": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc đảm bảo an toàn tại nhà, đặc biệt là việc lắp đặt khóa cho cửa phòng ngủ. Thông tin giúp tìm ra đáp án là cụm từ \"Get your landlord to do it,\" cho thấy rằng người thuê nhà nên yêu cầu chủ nhà thực hiện việc này. Paraphrase quan trọng ở đây là \"landlord,\" tức là chủ nhà, người có trách nhiệm trong việc bảo trì và cải thiện an toàn cho người thuê. Bẫy có thể là việc người nghe có thể nghĩ đến việc tự làm hoặc không yêu cầu ai cả, nhưng đáp án đúng là \"landlord\" vì người nói đã chỉ rõ rằng chủ nhà là người có thể giúp đỡ trong tình huống này.",
+      "evidence": "Get your landlord to do it."
+    },
+    "q17": {
+      "explanation": "Người nói đang khuyên người nghe về việc bảo vệ sự riêng tư và an toàn tại nhà bằng cách giữ rèm cửa đóng kín. Thông tin quan trọng giúp tìm ra đáp án là từ \"curtains,\" vì nó liên quan trực tiếp đến việc bảo vệ không gian sống khỏi sự quan sát từ bên ngoài. Paraphrase quan trọng là \"keep curtains closed,\" tức là giữ cho rèm cửa đóng kín. Bẫy có thể là người nghe có thể nghĩ đến việc chỉ cần đóng cửa sổ mà không để ý đến rèm. Đáp án đúng là \"curtains\" vì nó thể hiện rõ ràng cách thức bảo vệ an toàn cho người sống trong nhà.",
+      "evidence": "Keep curtains closed at night, and also during the day too, if you don't mind, so that people can't see in."
+    },
+    "q18": {
+      "explanation": "Người nói đang khuyên người nghe về việc thông báo cho ai đó nếu họ cảm thấy không an toàn hoặc có người lạ quanh khu vực sống của họ. Thông tin giúp tìm ra đáp án là cụm từ \"welfare office,\" cho thấy rằng đây là nơi mà người nghe có thể nhận được sự hỗ trợ và tư vấn. Paraphrase quan trọng là \"welfare,\" tức là phúc lợi, liên quan đến sự chăm sóc và hỗ trợ cho sinh viên. Bẫy có thể là người nghe có thể nghĩ đến việc chỉ cần thông báo cho bạn bè mà không cần đến văn phòng phúc lợi. Đáp án đúng là \"welfare\" vì nó chỉ ra một nguồn hỗ trợ chính thức và đáng tin cậy.",
+      "evidence": "let someone know in your hall, or the welfare office in the union will be able to advise you."
+    },
+    "q19": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc chọn lựa khu vực an toàn khi đi bộ, đặc biệt là vào ban đêm. Thông tin giúp tìm ra đáp án là cụm từ \"busier areas,\" cho thấy rằng những khu vực đông đúc và có ánh sáng tốt sẽ an toàn hơn. Paraphrase quan trọng là \"busy areas,\" tức là những khu vực có nhiều người qua lại. Bẫy có thể là người nghe có thể nghĩ rằng chỉ cần có ánh sáng là đủ mà không cần chú ý đến việc khu vực đó có đông người hay không. Đáp án đúng là \"busy areas\" vì nó nhấn mạnh rằng sự hiện diện của nhiều người có thể giúp tăng cường an toàn.",
+      "evidence": "try to keep to busier areas which are well lit."
+    },
+    "q20": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc không đi một mình để đảm bảo an toàn, đặc biệt là vào ban đêm. Thông tin giúp tìm ra đáp án là cụm từ \"have a friend,\" cho thấy rằng việc có bạn đồng hành sẽ giúp giảm thiểu rủi ro. Paraphrase quan trọng là \"friend,\" tức là một người bạn, người có thể hỗ trợ và bảo vệ nhau. Bẫy có thể là người nghe có thể nghĩ rằng đi một mình là an toàn nếu họ tự tin, nhưng đáp án đúng là \"friend\" vì nó nhấn mạnh rằng sự hiện diện của một người bạn có thể tạo ra sự an toàn hơn.",
+      "evidence": "The cardinal rule is don't be alone. Always have a friend with you if possible."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Now, more seriously, we must look at your personal safety. First, let's look at where you live. Again, wherever you live, you should make sure that your door is locked securely, even when you're at home, and even if you're not alone, as people can leave your house without you knowing. So, in hall, lock that door at all times, especially at night. If you're in digs, keep the front door locked at all times, and your own bedroom as well. If your bedroom has no lock, then get one put in. Get your landlord to do it. They usually will. It's a small price to pay for safety. </p><p><strong>Speaker 1:</strong> Look at the windows in your house. Again, especially the ones in your bedroom. Make sure the window fastens securely, and try to get an extra lock fitted. Keep curtains closed at night, and also during the day too, if you don't mind, so that people can't see in. Get a chain fitted to your front door too, and always have the chain on when you're at home. </p><p><strong>Speaker 1:</strong> If you see someone often hanging around near your home, then let someone know in your hall, or the welfare office in the union will be able to advise you. We, of course, at the police station, will always welcome you, and will never scoff at your worries. We won't laugh at you, and we'll take everything seriously.</p><p><strong>Speaker 1:</strong> Next, let's look at when you're away from your home, and walking about the streets. Naturally, you're more at risk at night, but even in the daytime, try to keep to busier areas which are well lit, and always try to have someone with you when you're travelling on foot. </p><p><strong>Speaker 1:</strong> At night, do the same, but be more careful about it. If you're leaving the union late at night, take advantage of the excellent minibus service that your union puts on for you for your safety. There are two minibuses available every night, leaving at regular intervals. If there isn't one available, wait in the queue until one arrives. They'll get you home safely in the end. </p><p><strong>Speaker 1:</strong> If you're not at the union, and by yourself, try to get a taxi back, rather than walk. I know it's more expensive, but it's worth the cost. I'm sure your parents would prefer you spending the extra money to make you safe. </p><p><strong>Speaker 1:</strong> Also, with taxis, always take a licensed taxi from a proper taxi rank, or call a reputable company. Keep the number of a reputable company in your wallet and saved in your mobile, then you'll always have access to a safe way home. </p><p><strong>Speaker 1:</strong> I hope I haven't panicked you. Very few people do actually get attacked, but of course it does happen. By following these basic safety rules, you vastly reduce your chances of being a victim. The cardinal rule is don't be alone. Always have a friend with you if possible.</p>"
+}

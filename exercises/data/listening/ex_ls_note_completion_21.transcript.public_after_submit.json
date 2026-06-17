@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_21",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2021.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1 (Dr. Smith):</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. I'm Dr. Smith and I'm on duty here to give information to prospective students for today's open day.</p><p><strong>Speaker 2:</strong> Oh good, I've got a few questions for you. I'll take a seat and fire away. </p><p>Speaker 1 (Dr. Smith): Well the first thing is that it seems from your prospectus here that you offer more than one course connected to business and management.</p><p>Speaker 1 (Dr. Smith): That's right. We have the standard Business Studies BA course, which is a sandwich course. Then we have BA courses in advertising, marketing, personnel management, finance and accountancy. These are all three-year courses, not sandwich ones. A sandwich course means that you have an extra year spent working in a placement in the workplace. We also offer postgraduate courses. There are Masters degree courses in advertising, marketing, personnel management, finance and accountancy, and a general MBA. Masters degree courses can be studied full-time in one year, or part-time over two years. The BA courses are all full-time.</p><p><strong>Speaker 2:</strong> I'm interested in the standard Business Studies BA course. Can you let me know a little about the details of the course?</p><p>Speaker 1 (Dr. Smith): Certainly. Over the first two years you study obligatory modules such as economics, research methods, marketing, advertising, operations management, statistics, accountancy, personnel and finance. As I said earlier, the third year is spent working in industry. By the time you come back for the fourth year, we hope that you have more of an idea of what you wish to do as a job after graduation, so we provide a wide range of different modules. You get to select five of these, your four electives as we call them. Some are specialized courses aimed at a particular field of business and some merely extend your knowledge into courses studied in the first two years. As research methods are needed really for the dissertation work in year three, that's not an elective. </p><p><strong>Speaker 2:</strong> And how will I be assessed over the course?</p><p>Speaker 1 (Dr. Smith): In the first two years and the last year, some will be at the end of the first semester, which is in February, and the remainder at the end of the second semester, which is in July. The exams are all between two and three hours in length. Naturally, there are essays and assignments that will be set by your subject lecturers and tutors during the semesters, and each module's grade is based on 50% from coursework and 50% from the exam. You need to pass everything to stay on the course, though we allow you to retake exams over the summer if you've had failures. By the end of the first two years, though, you need to have a passing grade in all modules in order to continue. We only allow students to retake a whole year in exceptional circumstances. The fourth year is the same as years one and two. You will have exams at the end of the first and second semester on the electives that you choose.</p><p><strong>Speaker 2:</strong> Are there any exams during the work experience year?</p><p>Speaker 1 (Dr. Smith): No, but in that year you will need to write a dissertation. The dissertation is usually a research paper on some aspect of the business that you're working in during the work experience year. It has to be between 14,000 and 15,000 words in length. Towards the end of year two, you will liaise with a supervisor with regard to your question, and you will stay in contact with him or her over the year. The dissertation needs to be submitted to the university on the first day of the fourth year, and you'll not be admitted onto the fourth year of the course unless the dissertation is given in.</p><p><strong>Speaker 2:</strong> What happens if I'm sick or something?</p><p>Speaker 1 (Dr. Smith): Of course, there are rules and regulations covering most eventualities, and you'll be given a copy of those when you begin your dissertation. There's also an appeal process for all work marked by the university, with the final appeal being decided on by a panel including staff and students, so we believe you get a fair opportunity with everything.</p><p><strong>Speaker 2:</strong> That does sound fair enough. What does the average working week look like?</p><p>Speaker 1 (Dr. Smith): You'll have two lectures a week for each module that you take in the first two years. In addition, there will also be two seminars and one tutorial. The seminars are also two hours in length, and the tutorial is one hour. The lectures involve everyone on your course. The seminars are in groups of around 15, and the tutorials usually involve only five students. The working day begins at 8 in the morning and it can go on until 7 in the evening.</p>"
+    }
+  ]
+}

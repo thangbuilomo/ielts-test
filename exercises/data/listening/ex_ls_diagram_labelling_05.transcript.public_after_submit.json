@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_diagram_labelling_05",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/DIAGRAM%20LABELLING%2005.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Now, we're going to take a look at the basic design of the plasma screen itself. Two of the key characteristics of the plasma screen, its brightness and its thinness, come from its simple design made up of only a few layers. The whole screen usually has a thickness of around 6 centimetres from front to back. </p><p><strong>Speaker 1:</strong> The plasma display unit is enclosed between two glass plates. The back one keeps dust out of the unit and protects the electronics while the front glass plate is completely clear and scratch resistant to protect the clarity of the screen. </p><p><strong>Speaker 2:</strong> Both of these layers are relatively cheap and easy to replace should there be any damage to the unit. Behind this plate at the front is a protective layer, which is made of a thin transparent polymer that stops any static charge from the glass interfering with the electrical signals in the screen. </p><p><strong>Speaker 3:</strong> Onto the back of this layer a coating of magnesium oxide is sprayed, which further ensures that electrical charge is insulated. Under these layers lies the part of the screen that produces the image, the pixel. Plasma TV screens can have over a million of these small light producing points, and together they produce the colours to create a clear image. </p><p><strong>Speaker 1:</strong> Each pixel is made up of three coloured cells, which are separated by a dividing wall. These cells contain a mixture of gases that light up when electric current is passed through them, producing either red, green or blue light. </p><p><strong>Speaker 2:</strong> In the right combination, they can create any colour our eyes can see. To apply the current, there is an electrical wire behind each cell. A digital processor sends the correct current to each cell to tell it whether to light up or not. </p><p><strong>Speaker 3:</strong> And so, across the whole screen, the minute cells light up in sync to produce the image you see. This screen is usually housed in a metal or plastic casing to hold the extra electronics attached to the screen at the bottom. </p><p><strong>Speaker 1:</strong> As you can imagine, the electrical current required to produce so many different colours is significant and as such the plasma TV consumes a lot of electricity. </p><p><strong>Speaker 2:</strong> Moving on, I'd like to discuss some of the issues the plasma TV manufacturers have had over the years.</p>"
+    }
+  ]
+}

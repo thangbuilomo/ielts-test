@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_34",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q35": {
+      "explanation": "Người nói đang thảo luận về thành phần của \"Greek fire\" (lửa Hy Lạp) và nhấn mạnh rằng naphtha là một trong những thành phần chính. Thông tin giúp tìm ra đáp án là cụm từ \"distilled petroleum\", cho thấy rằng naphtha được sản xuất từ dầu mỏ. Paraphrase quan trọng ở đây là \"distilled petroleum\" có thể được hiểu là \"dầu mỏ đã được chưng cất\". Bẫy có thể là việc người nghe có thể nghĩ đến các thành phần khác nhưng câu này rõ ràng chỉ ra rằng naphtha là một dạng của dầu mỏ. Đáp án đúng vì nó trực tiếp liên quan đến thành phần của naphtha trong lửa Hy Lạp.",
+      "evidence": "one of the main components may have been naphtha, which is a form of distilled petroleum."
+    },
+    "q36": {
+      "explanation": "Người nói đang nói về một thành phần khác trong công thức của lửa Hy Lạp, cụ thể là nhựa. Thông tin giúp tìm ra đáp án là từ \"pine resin\", cho thấy rằng nhựa thông là loại nhựa có khả năng tạo ra độ dính cho hỗn hợp. Paraphrase quan trọng là \"possibly pine resin\" có thể được hiểu là \"có thể là nhựa thông\". Bẫy có thể là việc người nghe có thể nghĩ rằng có nhiều loại nhựa khác nhau, nhưng câu này chỉ rõ rằng nhựa thông là loại được đề cập. Đáp án đúng vì nó xác định rõ ràng loại nhựa được sử dụng trong lửa Hy Lạp.",
+      "evidence": "it seems likely that resin, possibly pine resin, was added to the mix."
+    },
+    "q37": {
+      "explanation": "Người nói đang liệt kê các thành phần có thể có trong lửa Hy Lạp. Thông tin giúp tìm ra đáp án là cụm từ \"Other possible ingredients are sulfur\", cho thấy rằng lưu huỳnh là một trong những thành phần có thể. Paraphrase quan trọng là \"possible ingredients\" có thể được hiểu là \"các thành phần có thể có\". Bẫy có thể là việc người nghe có thể bị phân tâm bởi \"quicklime\", nhưng câu này rõ ràng chỉ ra rằng lưu huỳnh là một thành phần quan trọng. Đáp án đúng vì nó nằm trong danh sách các thành phần được đề cập.",
+      "evidence": "Other possible ingredients are sulfur and quicklime."
+    },
+    "q38": {
+      "explanation": "Người nói đang nói về lý do tại sao thông tin về lửa Hy Lạp lại ít được biết đến. Thông tin giúp tìm ra đáp án là cụm từ \"closely guarded state secret\", cho thấy rằng công thức của lửa Hy Lạp được giữ bí mật rất nghiêm ngặt. Paraphrase quan trọng là \"closely guarded\" có thể được hiểu là \"được bảo vệ chặt chẽ\". Bẫy có thể là việc người nghe có thể nghĩ rằng có nhiều lý do khác, nhưng câu này nhấn mạnh rằng bí mật là lý do chính. Đáp án đúng vì nó xác định rõ ràng tình trạng bảo mật của công thức.",
+      "evidence": "the recipe was an extremely closely guarded state secret."
+    },
+    "q39": {
+      "explanation": "Người nói đang mô tả một trong những phương pháp triển khai lửa Hy Lạp. Thông tin giúp tìm ra đáp án là từ \"Earthenware pots\", cho thấy rằng các chậu đất nung là dụng cụ được sử dụng. Paraphrase quan trọng là \"filled with the fire\" có thể được hiểu là \"đổ đầy lửa\". Bẫy có thể là việc người nghe có thể nghĩ đến các loại vũ khí khác, nhưng câu này rõ ràng chỉ ra rằng chậu đất nung là phương tiện chính. Đáp án đúng vì nó mô tả chính xác cách thức triển khai lửa Hy Lạp.",
+      "evidence": "Earthenware pots were filled with the fire and thrown at the enemy."
+    },
+    "q40": {
+      "explanation": "Người nói đang mô tả một phương pháp khác để triển khai lửa Hy Lạp trên biển. Thông tin giúp tìm ra đáp án là từ \"jets of fire\", cho thấy rằng lửa được phun ra dưới dạng tia. Paraphrase quan trọng là \"released jets\" có thể được hiểu là \"phun ra các tia\". Bẫy có thể là việc người nghe có thể nghĩ rằng có nhiều cách triển khai khác nhau, nhưng câu này chỉ rõ rằng phương pháp này liên quan đến việc phun lửa. Đáp án đúng vì nó xác định rõ ràng hình thức triển khai lửa Hy Lạp trên biển.",
+      "evidence": "which released jets of fire at high speed and pressure."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. </p><p><strong>Speaker 1:</strong> Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Another topic of much speculation is what exactly this ferocious compound was made of. The contemporary accounts are unreliable and vague, and some of them may have described other forms of incendiary weapons. </p><p><strong>Speaker 2:</strong> Modern scholarship has largely come to the conclusion that one of the main components may have been naphtha, which is a form of distilled petroleum. As the Byzantine Empire at that time controlled many of the areas where oil can be found very close to the surface of the earth, they would certainly have had access to large quantities of the raw material needed to make naphtha. </p><p><strong>Speaker 2:</strong> From various sources, it seems likely that resin, possibly pine resin, was added to the mix, thus giving the compound its sticky quality. Other possible ingredients are sulfur and quicklime. </p><p><strong>Speaker 2:</strong> The main reason that so little is known about the chemical composition of Greek fire is that the recipe was an extremely closely guarded state secret. It would appear that the secret was so well hidden that it ultimately got lost, because there are few records of the Byzantine Empire deploying it after the end of the 12th century. </p><p><strong>Speaker 2:</strong> However, there is an aspect of this weapon about which there is agreement. Greek fire was deployed in three methods. </p><p><strong>Speaker 2:</strong> The first was as a form of hand grenade. Earthenware pots were filled with the fire and thrown at the enemy. They would shatter on impact with the ground and release their contents, a deployment method that was also used at the time for less deadly incendiary compounds. </p><p><strong>Speaker 2:</strong> At sea, the fire was released by means of large siphons which released jets of fire at high speed and pressure. Eyewitness accounts speak of a terrifying noise that accompanied an attack of this type. </p><p><strong>Speaker 2:</strong> The third method was by means of portable handheld flamethrowers. </p><p><strong>Speaker 2:</strong> If I could just draw your attention to the screen, you will see a...</p>"
+}

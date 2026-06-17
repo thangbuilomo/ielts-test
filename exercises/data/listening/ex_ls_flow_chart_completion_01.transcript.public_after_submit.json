@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_flow_chart_completion_01",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/FLOW%20CHART%20COMPLETION%2001.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Hi, Amy. Hi, Dan. I'm glad I'm working with you on this presentation. I was a bit confused in that lecture and I'm not really sure what we have to do.</p><p><strong>Speaker 3:</strong> Yes, it was a bit confusing, but I'm sure we can work it out together.</p><p><strong>Speaker 2:</strong> This is the first presentation that I've done on this course and I'm not looking forward to speaking in front of everyone.</p><p><strong>Speaker 3:</strong> I did some on the last module and everyone was very supportive. Don’t worry.</p><p><strong>Speaker 2:</strong> OK, so where do we start? Professor Michael said we could choose any of the topics in our course book and that's over 30. It's going to take ages to go through all of those.</p><p><strong>Speaker 3:</strong> No, he said we had to choose from the topic list he showed us, but that all the topics were covered in the course book. There's actually only six to choose from on the list.</p><p><strong>Speaker 2:</strong> Oh, yes, I see them here. Well, that makes the choice a little easier. How about globalization?</p><p><strong>Speaker 3:</strong> Yes, I think that would be the most interesting.</p><p><strong>Speaker 2:</strong> OK, so we have to do quite a bit of research. We can't just include the information from the course book if we want a good grade for this.</p><p><strong>Speaker 3:</strong> Professor Michael said that he wanted a range of sources. There's the reading list in the course book, so we'll start with some books from the library and then we'll also need to find some articles in the journals and look online.</p><p><strong>Speaker 2:</strong> Lots of reading then.</p><p><strong>Speaker 3:</strong> Yes, and then the next thing to do is to decide on a structure.</p><p><strong>Speaker 2:</strong> Yes, that's right. We need an overview. I know that's really important. Then shall we talk about advantages and disadvantages?</p><p><strong>Speaker 3:</strong> Yes, OK. Shall I take the advantages and you take the disadvantages?</p><p><strong>Speaker 2:</strong> OK, fine. What about any written information?</p><p><strong>Speaker 3:</strong> Well, we don't have to use visuals, but it might help.</p><p><strong>Speaker 2:</strong> Hmm, well, I'm quite good with computers, so I don't mind doing a PowerPoint presentation and then we can print a copy and give it out as a handout.</p><p><strong>Speaker 3:</strong> Brilliant. Oh, it says here that we must give everyone a copy of our bibliography, so maybe include that in the handout.</p><p><strong>Speaker 2:</strong> OK, I have some free time now if you wanted to get started on some research.</p><p><strong>Speaker 3:</strong> Great. We don't need too much information though. It says here in the guidelines that we will lose marks if we talk for too long. It's only 10 minutes, so that's 5 minutes each.</p><p><strong>Speaker 2:</strong> Well, let's make sure we do lots of practice beforehand. Then we can make any changes and also make sure we don't go over the time limit.</p><p><strong>Speaker 3:</strong> Exactly.</p>"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_62",
+  "module": "listening",
+  "question_count": 10,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q31": {
+      "explanation": "Người nói đang mô tả quá trình xảy ra trước khi một vụ phun trào núi lửa, cụ thể là sự tương tác giữa magma và đá trong lớp vỏ trái đất. Thông tin giúp tìm ra đáp án là cụm từ \"magma comes into contact with rocks\", cho thấy magma va chạm với đá là nguyên nhân gây ra động đất nhỏ. Paraphrase quan trọng ở đây là \"magma\" và \"rocks\", vì chúng là những yếu tố chính trong quá trình này. Không có bẫy nào trong câu này, vì thông tin rất rõ ràng và trực tiếp liên quan đến câu hỏi. Đáp án đúng vì nó phản ánh chính xác thành phần mà magma va chạm để gây ra động đất.",
+      "evidence": "As magma comes into contact with **rocks**, they crack, which causes a mini-earthquake."
+    },
+    "q32": {
+      "explanation": "Người nói đang giải thích về cách mà các thiết bị đo lường hoạt động để phát hiện động đất, đặc biệt là trong bối cảnh núi lửa. Thông tin giúp tìm ra đáp án là cụm từ \"measure the motion of the earth's surface\", cho thấy rằng từ \"motion\" là từ khóa chính. Paraphrase quan trọng là \"measure\" và \"motion\", vì chúng thể hiện chức năng của thiết bị. Không có bẫy trong câu này, vì thông tin rất rõ ràng và dễ hiểu. Đáp án đúng vì nó chính xác mô tả chức năng của các thiết bị đo lường.",
+      "evidence": "These are instruments which measure the **motion** of the earth's surface, and a higher frequency of these earthquakes could indicate an upcoming eruption."
+    },
+    "q33": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc theo dõi nhiệt độ xung quanh núi lửa như một chỉ số của hoạt động núi lửa. Thông tin giúp tìm ra đáp án là cụm từ \"temperature around volcanoes\", cho thấy rằng nhiệt độ là yếu tố cần theo dõi. Paraphrase quan trọng là \"temperature\", vì nó là chỉ số chính được đề cập. Không có bẫy trong câu này, vì thông tin rất rõ ràng và trực tiếp liên quan đến câu hỏi. Đáp án đúng vì nó phản ánh chính xác yếu tố cần theo dõi.",
+      "evidence": "Another important area which needs to be monitored is the **temperature** around volcanoes."
+    },
+    "q34": {
+      "explanation": "Người nói đang đề cập đến phương pháp thu thập dữ liệu về hoạt động núi lửa, nhấn mạnh rằng việc sử dụng vệ tinh là cách an toàn nhất. Thông tin giúp tìm ra đáp án là cụm từ \"take images using satellites\", cho thấy rằng vệ tinh là công cụ được sử dụng. Paraphrase quan trọng là \"satellites\", vì nó là công nghệ chính được đề cập. Không có bẫy trong câu này, vì thông tin rất rõ ràng và dễ hiểu. Đáp án đúng vì nó chính xác mô tả công nghệ được sử dụng để thu thập dữ liệu.",
+      "evidence": "The safest way for us to assess this is to take images using **satellites**."
+    },
+    "q35": {
+      "explanation": "Người nói đang nói về các yếu tố khí quyển cần theo dõi để dự đoán hoạt động núi lửa. Thông tin giúp tìm ra đáp án là cụm từ \"atmospheric conditions\", cho thấy rằng điều kiện khí quyển là yếu tố quan trọng. Paraphrase quan trọng là \"conditions\", vì nó mô tả trạng thái của khí quyển. Không có bẫy trong câu này, vì thông tin rất rõ ràng và trực tiếp liên quan đến câu hỏi. Đáp án đúng vì nó phản ánh chính xác yếu tố cần theo dõi.",
+      "evidence": "the final indicator that we assess is the atmospheric **conditions** around the volcano."
+    },
+    "q36": {
+      "explanation": "Người nói đang mô tả cách mà các mẫu khí được phân tích để theo dõi hoạt động núi lửa. Thông tin giúp tìm ra đáp án là cụm từ \"types of chemical sensors\", cho thấy rằng cảm biến hóa học là công cụ được sử dụng. Paraphrase quan trọng là \"chemical\", vì nó mô tả loại cảm biến. Không có bẫy trong câu này, vì thông tin rất rõ ràng và dễ hiểu. Đáp án đúng vì nó chính xác mô tả loại cảm biến được sử dụng trong phân tích khí.",
+      "evidence": "gas samples need to be taken and checked using a **spectrometer**, which are types of **chemical** sensors."
+    },
+    "q37": {
+      "explanation": "Người nói đang nói về các biện pháp cần thực hiện để bảo vệ người dân trong trường hợp núi lửa phun trào. Thông tin giúp tìm ra đáp án là cụm từ \"exclusion zone\", cho thấy rằng khu vực cấm là biện pháp an toàn. Paraphrase quan trọng là \"exclusion\", vì nó thể hiện rõ ràng ý nghĩa của khu vực không được vào. Không có bẫy trong câu này, vì thông tin rất rõ ràng và trực tiếp liên quan đến câu hỏi. Đáp án đúng vì nó phản ánh chính xác biện pháp an toàn được đề cập.",
+      "evidence": "The first is to calculate an **exclusion** zone around a volcano where an eruption is imminent."
+    },
+    "q38": {
+      "explanation": "Người nói đang mô tả tình huống khẩn cấp trong trường hợp núi lửa phun trào và những khó khăn trong việc di chuyển. Thông tin giúp tìm ra đáp án là cụm từ \"transit routes will be quickly blocked\", cho thấy rằng các tuyến đường sẽ bị chặn. Paraphrase quan trọng là \"blocked\", vì nó thể hiện rõ ràng tình trạng giao thông trong tình huống khẩn cấp. Không có bẫy trong câu này, vì thông tin rất rõ ràng và dễ hiểu. Đáp án đúng vì nó chính xác mô tả tình huống có thể xảy ra.",
+      "evidence": "as people will be panicking and major transit routes will be quickly **blocked**."
+    },
+    "q39": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc thông báo cho người dân về những nguy hiểm liên quan đến núi lửa. Thông tin giúp tìm ra đáp án là cụm từ \"notify people of both the dangers\", cho thấy rằng mối nguy hiểm là điều cần được thông báo. Paraphrase quan trọng là \"dangers\", vì nó thể hiện rõ ràng nội dung thông báo. Không có bẫy trong câu này, vì thông tin rất rõ ràng và dễ hiểu. Đáp án đúng vì nó chính xác mô tả nội dung thông báo cần thiết.",
+      "evidence": "Having an advanced communication system in place is a must in order to notify people of both the **dangers** and the action that is being taken."
+    },
+    "q40": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc chuẩn bị các vật dụng cần thiết trong trường hợp khẩn cấp. Thông tin giúp tìm ra đáp án là cụm từ \"basic provisions\", cho thấy rằng các vật dụng cần thiết là điều quan trọng. Paraphrase quan trọng là \"provisions\", vì nó thể hiện rõ ràng nội dung cần chuẩn bị. Không có bẫy trong câu này, vì thông tin rất rõ ràng và dễ hiểu. Đáp án đúng vì nó chính xác mô tả những gì cần chuẩn bị cho tình huống khẩn cấp.",
+      "evidence": "Citizens living near particularly active volcanoes need to be educated about both emergency procedures and also the basic **provisions** that they will need to keep in their house to assist them in times of emergency."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You will hear part of a lecture for geography students about volcanoes. You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 1:</strong> In today's introduction to seismology lecture, we'll be looking at predicting volcanic eruptions. The destruction caused by a large volcano can be devastating. And with more of them being increasingly surrounded by urban areas, it is more important than ever before to be able to predict and plan for an eruption. After all, there's no way to prevent this massive natural force. So, what can we do to predict when a volcano is going to erupt?</p><p><strong>Speaker 1:</strong> The first sign that we need to look for is earthquakes. In the run-up to an eruption, there are often hundreds of small earthquakes caused by magma rising up through cracks in the earth's crust. As magma comes into contact with rocks, they crack, which causes a mini-earthquake. And now, many of these earthquakes are too small to be detected by people, which is why the ground around earthquakes in densely populated areas needs to be constantly monitored by seismometers. These are instruments which measure the motion of the earth's surface, and a higher frequency of these earthquakes could indicate an upcoming eruption.</p><p><strong>Speaker 1:</strong> Another important area which needs to be monitored is the temperature around volcanoes. There are lots of volcanic features like steam vents, geysers and hot springs that are expected to be consistently hot, but any spikes in this could indicate dangerous volcanic activity. Technology has had a huge impact on the way we collate this data. The safest way for us to assess this is to take images using satellites, as collecting this data from the ground can be hazardous.</p><p><strong>Speaker 1:</strong> In addition to the frequency and size of earthquakes, the final indicator that we assess is the atmospheric conditions around the volcano. Now, most active volcanoes release a range of gases, but higher than normal rates of sulphur and carbon dioxide emissions can reveal a lot about the magma system of the volcano and could also be a telltale sign of danger. In order for this to be monitored, gas samples need to be taken and checked using a spectrometer, which are types of chemical sensors. </p><p><strong>Speaker 1:</strong> These monitoring techniques are becoming increasingly advanced and some earthquakes, like Mount St. Helens in the US and Mount Vesuvius in Italy, are monitored 24 hours a day by teams of scientists for the safety of the inhabitants living around them. However, understanding and predicting when a blast is imminent is only the first stage in keeping people safe. We also need to have an effective emergency plan prepared.</p><p><strong>Speaker 1:</strong> When faced with a major volcanic incident, authorities need to take a number of steps to reduce civilian casualties. The first is to calculate an exclusion zone around a volcano where an eruption is imminent. This would stop anyone from entering the area. The size of the zone would vary depending on the predicted scale of eruption. There is one in effect in Montserrat, which has been in place since 1995.</p><p><strong>Speaker 1:</strong> In addition to stopping people entering the zone, authorities need to be ready to get people out. Being prepared for a large-scale evacuation is key, as people will be panicking and major transit routes will be quickly blocked. All of this costs money, so obviously a government needs to have the funds to deal with these emergencies. Having an advanced communication system in place is a must in order to notify people of both the dangers and the action that is being taken.</p><p><strong>Speaker 1:</strong> Finally, it is important to know that an eruption could occur at any time. Citizens living near particularly active volcanoes need to be educated about both emergency procedures and also the basic provisions that they will need to keep in their house to assist them in times of emergency.</p><p><strong>Speaker 1:</strong> Now, let's look in more detail at the design of a seismometer.</p>"
+}

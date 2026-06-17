@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_19",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2019.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>:You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong>Hey, Mark. </p><p><strong>Speaker 1:</strong>Oh, hi, Don. Have you got over that cold yet? </p><p><strong>Speaker 2:</strong>Yes, I got over it by sleeping all day yesterday and skipping my meals. So I'm much better, thanks. Did you go to that workshop on assessments for the business course yesterday? </p><p><strong>Speaker 1:</strong>Yes, I did. I made notes for you as I knew you weren't there. We can go through them now if you want. </p><p><strong>Speaker 2:</strong>That would be really helpful. </p><p><strong>Speaker 1:</strong>Well, they let us know about all the assessments for this year. As you can see, I've broken it down into assessments for Semester 1 and assessments for Semester 2. Do you know the dates for the semesters? </p><p><strong>Speaker 2:</strong>Yes, Semester 1 is from the beginning of October to the end of January. Semester 2 is from the middle of February to the middle of June. </p><p><strong>Speaker 1:</strong>Good. Now then, let's look at the first semester. The assessments on our options for the first semester are divided up into three. There are all the essays and presentations that you do over the semester, and then there are some exams in the second half of January for two weeks on all the options that you've chosen. The five options of the first semester have two essays and two presentations each. As our option, finance is not really an essay subject, we get to do two case studies instead of presentations. The options have one exam each. So, I've got five options like you, so I have five exams. Is that right?</p><p><strong>Speaker 2:</strong>Sort of. All the options have one exam each, but accountancy has two. I do accountancy and you don't, so I get to have one more than you.</p><p><strong>Speaker 1:</strong>Lucky you. </p><p><strong>Speaker 2:</strong>Exactly. So we share the other four options in the first semester. Marketing, Economics, Strategic Planning and Finance. What about deadlines?</p><p><strong>Speaker 1:</strong>They aren't out yet. They say that the deadlines will be orally given when the essays are set by the teachers. After that, the teachers will individually post the given deadlines on the department website. </p><p><strong>Speaker 2:</strong>Not on the department notice boards? </p><p><strong>Speaker 1:</strong>Not this year. They've phased that out as it's too old-fashioned. Anything else about non-exam assessments? </p><p><strong>Speaker 2:</strong>Just that there is now a new standard procedure for essay layout. It covers things like how to do citations and bibliographies, page numbering, cover pages and things like that. Word limits will be the same though. Can we give in our essays by email this year? </p><p><strong>Speaker 1:</strong>Unbelievably, the essays all still must be submitted on paper in the individual teachers' pigeonhole. They're living in the stone age sometimes. </p><p><strong>Speaker 2:</strong>I know.</p>"
+    }
+  ]
+}

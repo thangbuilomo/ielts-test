@@ -1,0 +1,83 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_multiple_choice_13",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 3,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "mcq_single",
+  "category_id": "multiple_choice",
+  "title": "Multiple Choice - Exercise 13",
+  "duration_seconds": 0,
+  "content": {
+    "title": "Göbekli Tepe",
+    "content_html": "<h1>MULTIPLE CHOICE 13</h1>\n<h2>Göbekli Tepe</h2>\n<p><strong>A</strong></p>\n<p>Every year, hundreds of thousands of tourists flock to Turkey for its remarkable wealth of historical sites, from the mosques and minarets of Istanbul to the Roman ruins lying along the western and southern coasts. Further inland, in Cappadocia, they admire ruins from the prehistoric Hittite civilisation that dwelt there well over a millennium before the Greeks and Romans settled along the coast. In the south-east of the region, far from the tourist trail, archaeologists have recently unearthed a mysterious site known as Göbekli Tepe, which is believed to have flourished a further 8,000 years back and has challenged many assumptions about prehistory.</p>\n<p><strong>B</strong></p>\n<p>It all started in the early 1960s, when the top of a pillar jutting out of a dusty mound was noticed by a shepherd working in the area. Archaeologists from the University of Chicago arrived at the site, but quickly dismissed it as being of little interest. Their explanation was that although some signs of Neolithic settlement were possible, the site was in fact predominantly a Byzantine or Islamic cemetery. Some years later, Klaus Schmidt of the German Archaeological Institute happened upon the previous researchers' brief description of the hilltop. Having recently completed work on another Neolithic site in the region, Schmidt was eager to further his work in the area and was immediately intrigued by what he saw.</p>\n<p><strong>C</strong></p>\n<p>Soon after his arrival, it became clear to Schmidt that Göbekli Tepe's significance had been incorrectly assessed. Flint chips found in the area suggested to him that the location had been a working site at some point prior to the development of metal tools and pottery, while he viewed the limestone slabs previously believed to be Byzantine graves as in fact something much older. As the dig progressed, the team first found a ring of standing pillars similar to those at Stonehenge, but predating them by almost half a millennium. Limestone blocks over 2 metres tall formed a ring facing inwards towards a pair of pillars more than twice the size. Three further similar enclosures have since been excavated, and geophysical surveys suggest there may be as many as 20 in total, at different depths below the surface.</p>\n<p><strong>D</strong></p>\n<p>The most striking visual difference between the blocks found at Göbekli Tepe and those at Stonehenge is the addition of extraordinary bas-reliefs depicting an array of animals – including lions, snakes, foxes, scorpions and wild boars – to the former, although their precise role is not yet known. What is particularly interesting about the construction of the site is that it would have required a far larger gathering of people than had probably ever happened before, all working without the assistance of the wheel or beasts of burden. No signs of a mess kitchen, cooking fires or lodgings for the hundreds of workers that would have been required for the construction of the site have yet been unearthed. Furthermore, at this point in mankind's evolution, proximity to some kind of fresh water would have been imperative, yet the nearest stream to Göbekli Tepe was at least 5 kilometres away.</p>\n<p><strong>E</strong></p>\n<p>As is to be expected given the mystery of the site and the novelty of its discovery, there has been much disagreement as to its purpose and meaning. Due to the presence of what is believed to be the world's oldest known temple at Göbekli Tepe, some have argued that this site is the earliest known example of a pilgrimage site. They believe it may have played a key part in alleviating tensions between groups of hunter-gatherers who were settling down to create larger societies. In comparison with their earlier semi-nomadic existence, which focussed mainly on day-to-day existence, a settled society required longer term projects which could only be accomplished if its citizens were able to work together without hostility.</p>\n<p><strong>F</strong></p>\n<p>Indeed, Schmidt believes that this role came prior to many other key features accompanying the dawn of civilisation, including most notably the development of agriculture. He asserts that a way of providing sufficient quantities of food for those gathering at Göbekli Tepe was required and that this in turn led to intensive cultivation of wild crops and the first instances of plant domestication. This is corroborated by independent research suggesting that one centre of early agriculture emerged in the same area of southern Turkey during precisely the same period, as well as discoveries of the closest known wild ancestors of modern wheat just 100 kilometres from the site.</p>\n<p><strong>G</strong></p>\n<p>However, not everyone agrees with Schmidt's theories. A number of his colleagues have queried his assumption about the site's role and that a lack of evidence of houses means that nobody lived at Göbekli Tepe. In addition, archaeologists are increasingly sceptical of the one-size-fits-all scenario to explain the origins of civilisation as having one fundamental trigger. Instead, they suggest that Göbekli Tepe is an example of numerous experiments taking place throughout the area – in agriculture, art, religion, technology, social organisation - that ultimately combined at a later point.</p>\n<p><strong>H</strong></p>\n<p>Given the outlined ambiguities concerning the purpose and nature of the site, it is no surprise that Professor Schmidt feels there is much work yet to be done. He compares the scale of the project to that of other key archaeological sites – among them Troy and Pergamon – where excavation work began more than a century ago. “It’s hard to give a detailed schedule on how long further excavation will take,” he comments, before adding, “There's work for more than one generation of archaeologists at the place.”</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_multiple_choice_13.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_multiple_choice_13.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "mcq_single",
+          "skill_tags": [
+            "rd_mcq_single"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 25 - 27</strong></p>\n<p>Choose the correct answer. Write the appropriate letter <strong>A -D</strong> for each question.</p>\n<p>25 Paragraph D implies that one mystery about Göbekli Tepe is ...</p>\n<table>\n<tr>\n<td><strong>A</strong> ... why it was not built closer to a water supply.</td>\n</tr>\n<tr>\n<td><strong>B</strong> ... what the workers ate while they were building it.</td>\n</tr>\n<tr>\n<td><strong>C </strong>... how people travel there without wheeled transport.</td>\n</tr>\n<tr>\n<td><strong>D</strong> ... what the animals in the bas-reliefs are supposed to be.</td>\n</tr>\n</table>\n\n<p>26 Paragraph E mentions different views about ...</p>\n<table>\n<tr>\n<td><strong>A</strong> ... what Göbekli Tepe was actually for.</td>\n</tr>\n<tr>\n<td><strong>B</strong> ... how old the temple at Göbekli Tepe is.</td>\n</tr>\n<tr>\n<td><strong>C</strong> ... how long it took to construct Göbekli Tepe.</td>\n</tr>\n<tr>\n<td><strong>D</strong> ... what caused disputes between visitors to Göbekli Tepe.</td>\n</tr>\n</table>\n\n<p>27 Other archaeologists believe that ...</p>\n<table>\n<tr>\n<td><strong>A</strong> ... Gobekli Tepe was a pilgrimage site.</td>\n</tr>\n<tr>\n<td><strong>B</strong> ... people could have lived at Gobekli Tepe.</td>\n</tr>\n<tr>\n<td><strong>C</strong> ... Professor Schmidt’s conclusions are premature.</td>\n</tr>\n<tr>\n<td><strong>D</strong> ... a lot more excavation is needed before conclusions can be drawn.</td>\n</tr>\n</table>",
+          "items": [
+            {
+              "question_id": "q25",
+              "number": 25,
+              "prompt_html": "Paragraph D implies that one mystery about Göbekli Tepe is ...",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q26",
+              "number": 26,
+              "prompt_html": "Paragraph E mentions different views about ...",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q27",
+              "number": 27,
+              "prompt_html": "Other archaeologists believe that ...",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            25,
+            27
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

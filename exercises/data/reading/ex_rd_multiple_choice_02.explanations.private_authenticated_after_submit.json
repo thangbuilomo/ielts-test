@@ -1,0 +1,24 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_02",
+  "module": "reading",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q39": {
+      "explanation": "Căn cứ nằm ở đoạn D: \"The hydrogen fuel reacts with oxygen from the air to produce water and electricity, the reverse of the familiar electrolysis process that releases oxygen and hydrogen from water. In reality, of course, it is somewhat more complicated. The big advantage of a fuel cell engine over an internal combustion engine running on hydrogen is its greater efficiency.\". Phương án B (The creation of by-products of the electricity production process.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "The hydrogen fuel reacts with oxygen from the air to produce water and electricity, the reverse of the familiar electrolysis process that releases oxygen and hydrogen from water. In reality, of course, it is somewhat more complicated. The big advantage of a fuel cell engine over an internal combustion engine running on hydrogen is its greater efficiency._"
+    },
+    "q40": {
+      "explanation": "Căn cứ nằm ở đoạn H: \"The best ways to produce, distribute and store the hydrogen still have to be sorted out. In the short term, fossil fuels may remain in demand as a hydrogen source. However, the idea that in the not too distant future most of us will be driving non-polluting cars fuelled by hydrogen from a clean, renewable source is no longer a flight of fantasy.\". Phương án A (A system producing hydrogen from fossil fuels.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "The best ways to produce, distribute and store the hydrogen still have to be sorted out. In the short term, fossil fuels may remain in demand as a hydrogen source. However, the idea that in the not too distant future most of us will be driving non-polluting cars fuelled by hydrogen from a clean, renewable source is no longer a flight of fantasy._"
+    }
+  }
+}

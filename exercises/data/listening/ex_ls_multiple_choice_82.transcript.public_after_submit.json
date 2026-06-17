@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_82",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2082.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Now, let me tell you how to become a student member of the Sports Centre. First of all, any student who wishes to be a student member of the Wesley University Sports Centre must be studying a course at the university, part-time or full-time, and be a member of the Student's Union. </p><p><strong>Speaker 1:</strong> So, if you wish to join, you must bring your NUS card with you before we can process your application. You must come to the sports hall reception between 9 a.m. and 3.30 p.m. from Tuesday to Saturday. </p><p><strong>Speaker 1:</strong> The Membership Secretary does not come in on Sundays and Mondays. You must present your NUS card, fill out the application form, and pay the subscription. The student subscription for this year is £15. </p><p><strong>Speaker 1:</strong> There is usually a joining fee of £5 to join a sports centre, but this does not apply to student members. You can pay by cash or cheque, but we don't take credit cards. </p><p><strong>Speaker 1:</strong> You used to have to bring two passport photos of yourself, but we've gone digital now, and we have a camera at reception. Once you have your Sports Centre membership card, you have the right to use the facilities at any time that we are open. </p><p><strong>Speaker 1:</strong> You will need to bring your membership card every time you wish to use the facilities, or you will not be allowed to enter. This is part of our insurance agreement. </p><p><strong>Speaker 1:</strong> If you need a replacement card at any time, you will be charged a replacement fee of £5, but you will not need to pay the subscription of £15 again. </p><p><strong>Speaker 1:</strong> You may book courts for sports such as squash and badminton, but you may only do this in person, not on the phone, and you will need the membership card number on your membership card, so don't forget that card. </p><p><strong>Speaker 1:</strong> We are open seven days a week, though opening times vary. Monday through to Saturday, we are open from 8 a.m. to 10 p.m., and Sunday we are open from 9 a.m. to 6 p.m. </p><p><strong>Speaker 1:</strong> Now, any questions so far?</p>"
+    }
+  ]
+}

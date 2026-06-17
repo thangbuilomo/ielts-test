@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_59",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Người nói đang giải thích sự khác biệt chính giữa kayak và canoe. Thông tin giúp tìm ra đáp án là câu nói rõ ràng về cách ngồi trong kayak và canoe. Paraphrase quan trọng ở đây là \"sit on top\" (ngồi trên đỉnh) và \"legs are covered\" (chân bị che khuất). Bẫy có thể là những thông tin về chất liệu hoặc hình dạng, nhưng câu trả lời đúng là sự khác biệt trong cách ngồi. Đáp án C là chính xác vì nó nêu rõ sự khác biệt trong hình dạng và cách sử dụng của hai loại thuyền.",
+      "evidence": "The biggest difference is that with kayaks, you sit on top of the boat, whereas you get into a canoe and your legs are covered in the boat."
+    },
+    "q12": {
+      "explanation": "Người nói đang nói về cảm giác của những người mới khi sử dụng kayak. Thông tin giúp tìm ra đáp án là câu nói về cảm giác không ổn định mà người mới trải nghiệm. Paraphrase quan trọng là \"feel more unstable\" (cảm thấy không ổn định). Bẫy có thể là những lý do khác như thời gian vào nước hoặc vị trí ngồi, nhưng câu trả lời đúng là B vì nó phản ánh chính xác cảm giác của người mới khi sử dụng kayak.",
+      "evidence": "But when lots of beginners start, one thing they don't like is that they feel more unstable."
+    },
+    "q13": {
+      "explanation": "Người nói đang hướng dẫn cách xử lý khi rơi xuống nước. Thông tin giúp tìm ra đáp án là lời khuyên không nên cố gắng quay lại thuyền mà chỉ cần ở gần thuyền. Paraphrase quan trọng là \"get back onto the boat\" (quay lại thuyền) và \"stay by your boat\" (ở gần thuyền của bạn). Bẫy có thể là việc bơi vào bờ, nhưng đáp án A là đúng vì nó nhấn mạnh việc cần làm ngay lập tức khi rơi xuống nước.",
+      "evidence": "Now, it is quite difficult to get back on the boat in deep water. So I don't suggest you try that today. Just stay by your boat and we'll come and help you."
+    },
+    "q14": {
+      "explanation": "Người nói đang chỉ ra vấn đề với trang phục mà mọi người đang mặc khi tham gia kayaking. Thông tin giúp tìm ra đáp án là câu nói về sự nặng nề của quần áo khi rơi xuống nước. Paraphrase quan trọng là \"very heavy\" (rất nặng) và \"difficult to move around in\" (khó di chuyển). Bẫy có thể là việc không mặc đủ thiết bị an toàn, nhưng đáp án C là đúng vì nó phản ánh chính xác vấn đề mà người mới có thể gặp phải khi mặc quần áo nặng trong nước.",
+      "evidence": "But when you do fall in, they are very heavy and will be difficult to move around in."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now, answer the questions on your screen. Hello, everybody. Welcome to Southdown Kayaking. I'm going to be your instructor today. Can I just ask if anybody has been kayaking before? </p><p><strong>Speaker 2</strong>: No? </p><p><strong>Speaker 1:</strong> OK, great. So everybody's a beginner. Today we're going to do a special type of kayaking called sit-on-top kayaking. Right, let me first give you some safety information and then I'll tell you a little more about what we're going to do today. You can see all the boats over there. They are kind of the same as canoes. They are made of the same plastic material and they are a similar shape. The biggest difference is that with kayaks, you sit on top of the boat, whereas you get into a canoe and your legs are covered in the boat. </p><p><strong>Speaker 2:</strong> This difference has both good points and bad. </p><p><strong>Speaker 1:</strong> Many people say it makes it easier to get on the boat and you also feel more free as your legs aren't trapped in the boat. It's also so much easier to get into the water in the beginning. But when lots of beginners start, one thing they don't like is that they feel more unstable. It does feel just like you are sat on the water and there's nothing to stop you falling in. </p><p><strong>Speaker 2:</strong> Let's talk about falling in. It will happen. At some point today, you're going to fall off your boat and into the water. So you need to know what to do. </p><p><strong>Speaker 1:</strong> Now, it is quite difficult to get back on the boat in deep water. So I don't suggest you try that today. Just stay by your boat and we'll come and help you. Avoid trying to swim to the land or you may get hit by a boat. Another thing I need to mention is the clothing we're wearing. Obviously, we all need life jackets and helmets on when we're in the water. </p><p><strong>Speaker 2:</strong> But I noticed some of you are wearing heavy trousers and coats. </p><p><strong>Speaker 1:</strong> Now, you might think they'll keep you warm in the boat, but when you do fall in, they are very heavy and will be difficult to move around in. So you will need to change into lightweight clothes.</p>"
+}

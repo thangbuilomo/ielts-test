@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_42",
+  "module": "listening",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2042.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Yes, tell you what, shall we share some of the main facts and figures we've read, and then we can both take some notes?</p><p><strong>Speaker 1:</strong> Okay, that sounds like a plan. Well, I guess the most interesting thing I read was a government paper that said the proportion of women going into higher education was 30% higher than men.</p><p><strong>Speaker 2:</strong> Yeah, that was really shocking, wasn't it? But it's not just the numbers getting into university. I also read a report by the Higher Education Policy Institute that said when at university, men are more likely to drop out, and those who get a degree are less likely to get a high pass.</p><p><strong>Speaker 1:</strong> Yes, but we shouldn't overgeneralise here. Women don't dominate in every field. If we took out some really women-dominated degree subjects like teaching and nursing, then the overall gap would be much smaller. And there are still more men in some subjects like engineering and science.</p><p><strong>Speaker 2:</strong> True, but that gap is closing fast. And in all the others, there are more women in nearly every university in the country.</p><p><strong>Speaker 1:</strong> The thing I found confusing, though, is I couldn't really identify any causes for this.</p><p><strong>Speaker 2:</strong> Well, I read one writer who suggested that men were much less likely to become teachers, and as a result, the education system was more in women's favour, meaning men lack role models.</p><p><strong>Speaker 1:</strong> Yes, I read that in a few places. It seemed mostly anecdotal, though. I'm not too sure how much of a difference it would really make. And anyway, I read quite a bit and I couldn't find any evidence to suggest that it is significant.</p><p><strong>Speaker 2:</strong> Me neither. It seems there needs to be more research in that area.</p><p><strong>Speaker 1:</strong> Another cause that I found said that one possible reason was the change in how students were assessed. You know, before the 1980s, schools mostly tested students with exams, but then they shifted to mostly using coursework, which apparently suits girls better than it does boys.</p><p><strong>Speaker 2:</strong> Really? I guess that's true. I mean, I know that I didn't really like doing coursework, but surely that can't have had that much of an impact.</p><p><strong>Speaker 1:</strong> Well, there is something going on. I read an OECD paper that said girls, on average, spend an hour more a week on homework and boys are 8% more likely than girls to see school as a waste of time.</p><p><strong>Speaker 2:</strong> Yes, my experience is that boys mess around more, but that might just have been my school. Anyway, I'm looking forward to seeing what the professor says in the lecture.</p><p><strong>Speaker 1:</strong> Yes, me too. His last one was good.</p>"
+    }
+  ]
+}

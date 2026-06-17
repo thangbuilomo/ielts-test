@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_matching_information_09",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MATCHING%20INFORMATION%20TO%20CATEGORIES%2009.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Well, let's think about exactly which means of communication we should be employing to get this off the ground. TV advertising is obviously the most costly, but at the same time, probably one of the most widely used forms of media where we could get the most exposure, although social media is starting to take over in terms of effectiveness these days. </p><p><strong>Speaker 2:</strong> We'd have to consider costs, both of the airtime itself and how we'd make the advertisements. I mean, do we get a famous sports person to endorse it for us and make the ads?</p><p><strong>Speaker 3:</strong> Why not simply get an endorsement from a well-known sports person, but not necessarily on TV? There might be a saving in that. We could contract someone professional to wear and motivate me when competing.</p><p><strong>Speaker 1:</strong> I really like that idea, Ruth, though I'm not sure it'd be cheaper. If we want someone really famous, we'd be looking at a significant sum to get them to do this for us at real events.</p><p><strong>Speaker 2:</strong> Couldn't we get local events organizers to do that for us? They could get participants or teams wearing our device in different cities during sports competitions without having to pay out huge sums for a Rafa Nadal or a Leo Messi, for example. </p><p><strong>Speaker 3:</strong> That could really work. Great idea, Jim. Yes, I definitely support investigating that possibility further. Ruth?</p><p><strong>Speaker 1:</strong> Definitely. Good thinking, Jim. As for shooting an advert for TV, we should consider doing that without an endorsement, I think. Though maybe we could look at contracting it out to a media company.</p><p><strong>Speaker 2:</strong> Let's move on to social networking for now. Jim mentioned it before. Could we arrange to do it in-house? Maybe we could pay a digital marketing company to manage that for us. It's something that seems so easy to do, but it's not simple to do effectively, believe me.</p><p><strong>Speaker 3:</strong> Well, maybe we do need to outsource that work then. We used a company a couple of years ago for something similar. I could get a quote and some ideas from them.</p><p><strong>Speaker 1:</strong> I agree with that, Ruth. </p><p><strong>Speaker 2:</strong> Me too. Now, what about magazine advertising?</p>"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_sentence_completion_05",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 4,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "sentence_completion",
+  "category_id": "sentence_completion",
+  "title": "Sentence Completion - Exercise 5",
+  "duration_seconds": 0,
+  "content": {
+    "title": "DETECTING DECEPTION",
+    "content_html": "<h1>SENTENCE  COMPLETION 05</h1>\n<h2>DETECTING DECEPTION</h2>\n<p>According to lay theory there are three core basic signs for spotting liars. These are speaking quickly with excessive fluctuations in pitch of voice, the liar becoming fidgety and hesitant when questioned on detail, and failure to make eye-contact. There is nothing too perplexing about that. Yet, a good liar will be just as aware of these as the person they are lying to and thus will ensure that eye contact especially is evident. Shifty eyes can indicate that someone is feeling emotional perhaps from a lie, or perhaps just from nerves as a result of lying. Of course, this does not apply to instances where eye contact is non-existent, like during a telephone conversation. Psychologist Paul Eckman states that extensive use of details can make lies more believable. But this strategy can also often trip up the liar. If the details change or contradict each other, you should suspect you are being had.</p>\n<p>There is an intrinsic link between emotional connections and effective lying. The notion is that it is harder to lie to those whom we know well and care for. There are two reasons for this: firstly, those close to us are more aware of our mannerisms and behavioural patterns and can more readily detect our default lying techniques. The second reason is that people we do not know lack the emotional response to lying that people we are intimate with have. Robert Galatzer-Levy, MD, a psychoanalyst in private practice, reasons that: “The good liar doesn’t feel bad or have a guilty conscience, so it’s much more difficult to pick up on cues that they are lying.” This is why it is apparently so easy for salesmen and politicians alike to lie so effortlessly.</p>\n<p>Recently a lot of politicians have been making outrageous claims about their ability to tell when a person is lying. Many lay people apparently believe that people can make a pretty good assessment of when a person is lying or not. Research illustrates, however, that nothing could be further from the truth.</p>\n<p>University of Maryland professor, Patricia Wallace, an expert on deception detection states: “Psychological research on deception shows that most of us are poor judges of truthfulness and this applies even to professionals such as police and customs inspectors whose jobs are supposed to include some expertise at lie detection.” She then goes on to describe two of the many experiments in the psychological research literature that support this contention.</p>\n<p>The first study was conducted in 1987 and looked at whether police officers could be trained to detect deceptive eyewitness statements. They watched videotaped statements of witnesses, some of whom were truthful and others who were not. They were told to pay close attention to non-verbal cues, such as body movements and posture, gestures, and facial expressions. They were also instructed to pay attention to the tempo and pitch of voices. In the end, however, the officers did only slightly better than chance at determining whether the witnesses were being truthful. And the more confident the officer was of his or her judgement, the more likely he or she was to be wrong.</p>\n<p>Airline customs inspectors, whose very job is to try to determine suspiciousness and lying, and lay people were used in another experiment. The inspectors and lay people in this experiment were not given any specific training or instructions on what to look for. They were simply told to judge the truthfulness of mock inspection interviews viewed on videotape and determine whether the passenger was carrying contraband and lying about it. The “passengers” being interviewed were actually paid volunteers whose job it was to try to fool the inspectors. Neither lay people nor inspectors did much better than chance. When questioned about what types of signs they looked for to determine lying behaviour, the inspectors and lay people relied largely on preconceived notions about liars in general: liars will give short answers, volunteer extra information, show poor eye contact and nervous movements and evade questions.</p>\n<p>What nearly all deception experiments have in common to date is that they use videotape instead of live people in their design. Some might argue that it is this very difference which politicians and others are trying to emphasise. This is that people cannot tell when people are lying on videotape but can when the person is there, live, in front of them. Without research teasing out these subtle differences, however, it would be a leap of logic to simply assume that something is missing in a videotaped interview. This is a seemingly baseless assumption. A person interviewed on videotape is very much live to the people doing the interviewing. It is simply a recording of a live event. While there may be differences, we simply do not know that any indeed exist. Without that knowledge, anyone who claims to know is simply speaking from ignorance or prejudice.</p>\n<p>The conclusions from this research are obvious. Trained professionals and untrained lay people, in general, cannot tell when a person is lying. If you have known someone for years, your chances for detecting truthfulness are likely higher, but strangers trying to guess truthfulness in other strangers will do no better than chance in their accuracy.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_sentence_completion_05.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_sentence_completion_05.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "sentence_completion",
+          "skill_tags": [
+            "rd_comp_sentence"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 21 - 24</strong></p>\n<p>Complete the sentences below. Use <strong>NO MORE THAN TWO WORDS</strong> from the text for each answer.</p>\n<p>21 Nerves and emotion from telling lies may be indicated in the liars’ pitch of voice and .</p>\n<p>22 One study investigated whether misleading could be detected through the observation of body language.</p>\n<p>23 The airline customs inspectors and lay people watched interviews with</p>\n<p>who were told to lie.</p>\n<p>24 It has been put forward that politicians use the between speaking live and on television to help them fool people.</p>",
+          "items": [
+            {
+              "question_id": "q21",
+              "number": 21,
+              "prompt_html": "Nerves and emotion from telling lies may be indicated in the liars’ pitch of voice and .",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q22",
+              "number": 22,
+              "prompt_html": "One study investigated whether misleading could be detected through the observation of body language.",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q23",
+              "number": 23,
+              "prompt_html": "The airline customs inspectors and lay people watched interviews with",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q24",
+              "number": 24,
+              "prompt_html": "It has been put forward that politicians use the between speaking live and on television to help them fool people.",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            21,
+            24
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

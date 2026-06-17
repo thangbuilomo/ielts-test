@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_61",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2061.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> To continue our lecture series on medieval warfare, I shall be telling you today about a weapon known as liquid fire, sea fire, or sticky fire in medieval times. It is better known nowadays by the term Greek fire. </p><p><strong>Speaker 1:</strong> I'd like to start with a very brief historical recap. You may recall from your school history lessons that when Rome fell in 476 AD, the lights went out, as it were, all over the western part of the former Roman Empire, and what were known as the Dark Ages began. </p><p><strong>Speaker 1:</strong> What you may not recall or may not have been taught is that the Eastern Roman Empire, also known to us as Byzantium or the Byzantine Empire, continued to flourish for nearly a thousand years after the fall of Rome. </p><p><strong>Speaker 1:</strong> During those years, Byzantium was a centre of scholarship and kept much of the knowledge from ancient Greece and Rome alive. For most of this period, the Byzantine Empire was also at war, fighting to protect its borders and provinces against Islamic expansion in the south and east and attackers from the north. </p><p><strong>Speaker 1:</strong> Greek fire was one of the weapons that kept these attackers at bay. So, what was Greek fire? What was it made of and when was it invented? </p><p><strong>Speaker 1:</strong> Sadly, I cannot give you definitive answers to these questions. We do know that it was a terrifying weapon that proved particularly effective in sea battles as it could burn on water and had the property of sticking to whatever it touched. </p><p><strong>Speaker 1:</strong> Some sources suggest that it ignited when it came into contact with water, but there is no general consensus on this point. There is more agreement on what substances could be used to put it out, namely sand or strong vinegar. </p><p><strong>Speaker 1:</strong> The American military historian Alex Rowland has suggested that stale urine may also have been used to douse Greek fire. The origins and composition of Greek fire are equally hotly debated, if I may make a small pun here. </p><p><strong>Speaker 1:</strong> The most widely accepted story is that first related by the Byzantine chronicler Theophanes. He said that the recipe for Greek fire was brought to Constantinople, the capital of the Empire, by Calinicus, a native of what is now Syria. </p><p><strong>Speaker 1:</strong> The same historian recounts the first recorded use of Greek fire, which took place in 672 AD. At this time, Arab ships were blockading Constantinople. The Byzantine fleet deployed Greek fire to devastating effect and the siege was lifted.</p>"
+    }
+  ]
+}

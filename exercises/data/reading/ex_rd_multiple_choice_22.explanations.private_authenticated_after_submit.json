@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_22",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q12": {
+      "explanation": "Căn cứ nằm ở đoạn 6: \"Short-term problems are similar to the symptoms, but long-term high blood sugar levels can lead to heart attacks, strokes, kidney failure, amputations and blindness. Patients whose blood pressure and cholesterol levels are outside the recommended ranges face even higher risks of heart attacks and strokes; in fact two out of three people with diabetes eventually die of these complications. Adults aged 18 - 44 who get type 2 diabetes are 14 times more likely to suffer a heart attack, and are up to 30 times more likely to have a stroke than their peers without diabetes.\". Phương án B (theo key) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Short-term problems are similar to the symptoms, but long-term high blood sugar levels can lead to heart attacks, strokes, kidney failure, amputations and blindness. Patients whose blood pressure and cholesterol levels are outside the recommended ranges face even higher risks of heart attacks and strokes; in fact two out of three people with diabetes eventually die of these complications. Adults aged 18 - 44 who get type 2 diabetes are 14 times more likely to suffer a heart attack, and are up to 30 times more likely to have a stroke than their peers without diabetes._"
+    },
+    "q13": {
+      "explanation": "Căn cứ nằm ở đoạn 2: \"When this occurs, insulin enables the body to convert the extra glucose into a different substance that can be stored, in the liver or muscle tissues, for use later. In diabetes, the pancreas either cannot make insulin or produces it in insufficient quantities. Because of this, glucose builds up in the blood, causing hyperglycaemia, which in turn produces unpleasant symptoms and can, in the long term, result in severe health problems.\". Phương án D (theo key) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "When this occurs, insulin enables the body to convert the extra glucose into a different substance that can be stored, in the liver or muscle tissues, for use later. In diabetes, the pancreas either cannot make insulin or produces it in insufficient quantities. Because of this, glucose builds up in the blood, causing hyperglycaemia, which in turn produces unpleasant symptoms and can, in the long term, result in severe health problems._"
+    },
+    "q14": {
+      "explanation": "Căn cứ nằm ở đoạn 6: \"Short-term problems are similar to the symptoms, but long-term high blood sugar levels can lead to heart attacks, strokes, kidney failure, amputations and blindness. Patients whose blood pressure and cholesterol levels are outside the recommended ranges face even higher risks of heart attacks and strokes; in fact two out of three people with diabetes eventually die of these complications. Adults aged 18 - 44 who get type 2 diabetes are 14 times more likely to suffer a heart attack, and are up to 30 times more likely to have a stroke than their peers without diabetes.\". Phương án E (theo key) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Short-term problems are similar to the symptoms, but long-term high blood sugar levels can lead to heart attacks, strokes, kidney failure, amputations and blindness. Patients whose blood pressure and cholesterol levels are outside the recommended ranges face even higher risks of heart attacks and strokes; in fact two out of three people with diabetes eventually die of these complications. Adults aged 18 - 44 who get type 2 diabetes are 14 times more likely to suffer a heart attack, and are up to 30 times more likely to have a stroke than their peers without diabetes._"
+    }
+  }
+}

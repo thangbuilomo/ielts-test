@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_10",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói đang cung cấp thông tin về địa chỉ của mình khi được hỏi. Thông tin giúp tìm ra đáp án là từ \"Green\" trong câu trả lời của người thuê xe. Paraphrase quan trọng ở đây là từ \"Green\" được nhắc đến như một màu sắc, điều này giúp xác định rằng đây là tên của con đường. Không có bẫy trong câu hỏi này vì thông tin được cung cấp rất rõ ràng. Đáp án đúng vì \"Green\" là phần không thể thiếu trong địa chỉ mà người nói đã cung cấp.",
+      "evidence": "95 Green Lane, Manchester."
+    },
+    "q2": {
+      "explanation": "Người nói đang cung cấp số điện thoại di động của mình cho nhân viên cho thuê xe. Thông tin giúp tìm ra đáp án là số \"868\" ở cuối câu. Paraphrase quan trọng là \"mobile\" có thể được hiểu là \"điện thoại di động\". Không có bẫy trong câu hỏi này vì thông tin được đưa ra rất cụ thể và dễ hiểu. Đáp án đúng vì \"868\" là phần cuối cùng của số điện thoại di động mà người nói đã cung cấp.",
+      "evidence": "My mobile is 0779-724-868."
+    },
+    "q3": {
+      "explanation": "Người nói đang cung cấp số giấy phép lái xe của mình khi được yêu cầu. Thông tin giúp tìm ra đáp án là phần đầu tiên \"WIL\" trong số giấy phép. Paraphrase quan trọng là \"driving licence number\" có thể được hiểu là \"số giấy phép lái xe\". Không có bẫy trong câu hỏi này vì thông tin được cung cấp rất rõ ràng. Đáp án đúng vì \"WIL\" là phần đầu của số giấy phép lái xe mà người nói đã cung cấp.",
+      "evidence": "It's WIL948578269."
+    },
+    "q4": {
+      "explanation": "Người nói đang xác định thời gian mà họ sẽ trả lại xe. Thông tin giúp tìm ra đáp án là từ \"Monday\" trong câu trả lời của người thuê xe. Paraphrase quan trọng là \"the whole weekend\" có thể được hiểu là từ thứ Sáu đến thứ Hai. Không có bẫy trong câu hỏi này vì thông tin được cung cấp rất rõ ràng. Đáp án đúng vì \"Monday\" là ngày mà người nói đã xác định để trả lại xe.",
+      "evidence": "I'll bring it back on Monday morning."
+    },
+    "q5": {
+      "explanation": "Người nói đang chọn loại nhiên liệu cho chiếc xe mà họ muốn thuê. Thông tin giúp tìm ra đáp án là từ \"diesel\" trong câu trả lời của người thuê xe. Paraphrase quan trọng là \"petrol or diesel model\" có thể được hiểu là \"mô hình xăng hoặc diesel\". Không có bẫy trong câu hỏi này vì thông tin được cung cấp rất rõ ràng. Đáp án đúng vì \"diesel\" là loại nhiên liệu mà người nói đã chọn cho chiếc xe của mình.",
+      "evidence": "I'll take the diesel as that will be more economical."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Good morning, sir. Welcome to Cheapy's car hire. Can I help you?</p><p><strong>Speaker 3:</strong> Yes, please. I need to rent a car.</p><p><strong>Speaker 2:</strong> That's no problem, sir. When would you like it?</p><p><strong>Speaker 3:</strong> Tomorrow morning.</p><p><strong>Speaker 2:</strong> Let's look then. Today's the 6th of August, so you'll need it on the 7th of August.</p><p><strong>Speaker 3:</strong> That's right.</p><p><strong>Speaker 2:</strong> Now, I'll just need to take some details from you, sir. Can I take your name, please?</p><p><strong>Speaker 3:</strong> John Wilson.</p><p><strong>Speaker 2:</strong> And your home address?</p><p><strong>Speaker 3:</strong> 95 Green Lane, Manchester.</p><p><strong>Speaker 2:</strong> Green like the colour?</p><p><strong>Speaker 3:</strong> Yes, that's right.</p><p><strong>Speaker 2:</strong> And the postcode is MW74DF.</p><p><strong>Speaker 3:</strong> OK, got that.</p><p><strong>Speaker 2:</strong> Can I have your telephone numbers, please?</p><p><strong>Speaker 3:</strong> My home number is 020-6834-6387 and my mobile is 0779-724-868.</p><p><strong>Speaker 2:</strong> Sorry, I missed the mobile.</p><p><strong>Speaker 3:</strong> It's 0779-724-868.</p><p><strong>Speaker 2:</strong> Thanks. Now, are you the holder of a full current driver's license?</p><p><strong>Speaker 3:</strong> Yes, I am.</p><p><strong>Speaker 2:</strong> Could I take the number of the license, please?</p><p><strong>Speaker 3:</strong> Sure, let's have a look now. It's WIL948578269.</p><p><strong>Speaker 2:</strong> And will there be any other drivers or just you?</p><p><strong>Speaker 3:</strong> Only me, please.</p><p><strong>Speaker 2:</strong> OK, you said that you wanted the car tomorrow, but how long will you want it for?</p><p><strong>Speaker 3:</strong> Well, tomorrow's Friday the 7th and I want it for the whole weekend, so I'll bring it back on Monday morning.</p><p><strong>Speaker 2:</strong> I'll have to charge you for all Friday and Monday, sir.</p><p><strong>Speaker 3:</strong> That's OK.</p><p><strong>Speaker 2:</strong> Good. Now, what kind of car were you looking for, sir?</p><p><strong>Speaker 3:</strong> I'd like a fairly small car as I'll be driving a lot around town and a smaller car will be easier to get around and to park.</p><p><strong>Speaker 2:</strong> Yes, that's true. Well, I've got small sizes in the following types of car. A Ford, a Renault and a Toyota. They're pretty much the same, though the Toyota is in a cheaper price category.</p><p><strong>Speaker 3:</strong> I'll take the cheapest one, please.</p><p><strong>Speaker 2:</strong> And we can offer you a petrol or a diesel model with that car.</p><p><strong>Speaker 3:</strong> Oh, in that case, I'll take the diesel as that will be more economical.</p>"
+}

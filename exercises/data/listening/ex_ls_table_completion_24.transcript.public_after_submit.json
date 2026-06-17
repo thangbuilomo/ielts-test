@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_24",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2024.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Hello, Global Internet. How may I help you?</p><p><strong>Speaker 1:</strong> Hello, I've just moved house and I want to get my internet set up.</p><p><strong>Speaker 2:</strong> Okay, sir. Could I take your name, please?</p><p><strong>Speaker 1:</strong> Yes, it's James, James Sloan.</p><p><strong>Speaker 2:</strong> How do you spell Sloan?</p><p><strong>Speaker 1:</strong> It's S-L-O-A-N-E.</p><p><strong>Speaker 2:</strong> Okay, Mr. Sloan. What sort of package are you looking for?</p><p><strong>Speaker 1:</strong> I'm not sure, really.</p><p><strong>Speaker 2:</strong> Okay, that's no problem. Well, if I can just start by taking your address first.</p><p><strong>Speaker 1:</strong> Okay, great. I live at 17 Melrose Drive.</p><p><strong>Speaker 2:</strong> Sorry, did you say 70?</p><p><strong>Speaker 1:</strong> No, sorry, 17.</p><p><strong>Speaker 2:</strong> OK. And the city and postcode?</p><p><strong>Speaker 1:</strong> Yes, the city is Exeter and the postcode is EX349QY.</p><p><strong>Speaker 2:</strong> OK, that's great. I'm just putting that into the computer now. OK, so you said you aren't sure what package you would like. Is that correct?</p><p><strong>Speaker 1:</strong> Yes, that's right.</p><p><strong>Speaker 2:</strong> OK, well, I'll ask you a few questions that can help you choose the best package for you.</p><p><strong>Speaker 1:</strong> OK, that sounds great.</p><p><strong>Speaker 2:</strong> First, how many people will use the internet in your house?</p><p><strong>Speaker 1:</strong> Well, there's me and my wife and our four-year-old daughter, but she's too young to use it. So just two of you?</p><p><strong>Speaker 1:</strong> No, let's say three. Our daughter might need to use it when she starts school next year.</p><p><strong>Speaker 2:</strong> OK. And which of the following things do you use the internet for? Downloading films and music?</p><p><strong>Speaker 1:</strong> No, never. Though, but my wife sometimes does, so let's say yes.</p><p><strong>Speaker 2:</strong> OK. Streaming videos, for example YouTube?</p><p><strong>Speaker 1:</strong> Not me, and my wife doesn't either.</p><p><strong>Speaker 2:</strong> Alright. And what about making video calls, like Skype?</p><p><strong>Speaker 1:</strong> All the time. I do a lot of work online, so I need to be able to contact people.</p><p><strong>Speaker 2:</strong> OK, great. And how about playing online games?</p><p><strong>Speaker 1:</strong> I don't have the time for that.</p>"
+    }
+  ]
+}

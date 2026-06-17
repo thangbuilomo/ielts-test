@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_12",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2012.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> As I said, sir, most Mediterranean destinations are easily within your preferred flight time. You can choose really between Spain, France, Italy, the old Yugoslavia, Greece or Turkey, as well as the Mediterranean islands. </p><p><strong>Speaker 1:</strong> Wow, what a great choice! What are the different costs involved? </p><p><strong>Speaker 2:</strong> With you wanting a four-star hotel and pool, some countries will definitely be cheaper than others. Price-wise, Italy and France will be at the top end, Spain, Greece and Turkey will be at the lower end. Here are some brochures. This is the Hotel Tropicana, and this is the Palm Hotel. Both of them are in Crete. In Rhodes, we have the Ocean Hotel and Hotel Spiros. </p><p><strong>Speaker 1:</strong> Can you tell me a bit about them? </p><p><strong>Speaker 2:</strong> Of course. The Hotel Tropicana is about one mile from the beach, and it's a safe walk along a path through some fields to get there. They have a nice pool, which you can see in the photo. There are only a few beach bars and restaurants, though. It's really quiet, away from all the bustle of other tourist destinations. </p><p><strong>Speaker 1:</strong> The Palm Hotel? </p><p><strong>Speaker 2:</strong> The Palm Hotel is further from the beach, about two miles, but it has a minibus service that goes to and from the beach all day. The hotel itself is in quite a busy tourist town that has lots of bars, restaurants and discos. It's great for going out. </p><p><strong>Speaker 1:</strong> I don't know if either of those suits us. We don't want noisy and we don't want a long way to the beach. Let's have a look at the Rhodes hotels, then. </p><p><strong>Speaker 2:</strong> The Ocean Hotel is right on the beach. It's less than five minutes usually to get to the beach area from the rooms. The hotel is quite a long way from the main town, and people usually take all their meals in the hotel. The hotel is four-star, though, and we know the food is quite good, as we've been told so by previous holidaymakers. </p><p><strong>Speaker 1:</strong> What about Hotel Spiros? </p><p><strong>Speaker 2:</strong> Hotel Spiros is a family-run hotel, also quite close to the beach, about a five or ten-minute walk. It's in a small village and has a small swimming pool as well. There are a few restaurants scattered around the village, but again, it's not a big tourist village, so there's not much to do.</p>"
+    }
+  ]
+}

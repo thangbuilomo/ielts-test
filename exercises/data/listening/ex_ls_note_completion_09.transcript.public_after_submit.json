@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_09",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2009.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Now, how much will this cost me? </p><p><strong>Speaker 2:</strong> Well, the daily rate is £50, but it's only £40 if you take the car for four days or more. Let's see. There's also an additional £10 for insurance. That's not obligatory, but we do recommend that you take the insurance. </p><p><strong>Speaker 1:</strong> Yes, definitely. So that'll be £170 for the four days then. Fine. Where can I pick it up? </p><p><strong>Speaker 2:</strong> You can pick it up here, at the airport, or at your hotel. Which hotel are you in? </p><p><strong>Speaker 1:</strong> I'm staying at a friend's house next to the International Hotel. So, can you leave it at the International Hotel and then I can walk around to pick it up? </p><p><strong>Speaker 2:</strong> I'll drop it off at the same place if that's okay. </p><p><strong>Speaker 1:</strong> Yes, that's fine. By the way, if you have a breakdown or an accident, we'll supply you with a new hire car ASAP. Our emergency number is on this customer information leaflet, which also has other information. Here you are, and here is a spare set of keys for the car. </p><p><strong>Speaker 2:</strong> Now, let me tell you about some things in the car that will be there to help you. First of all, your insurance documents will be in the glove compartment, along with a Wesley City map and the car manual. On the back seat there will be a larger area map of the local district. If you need a map of any other place, like London, then give us a call and we'll make sure it's there. </p><p><strong>Speaker 1:</strong> No, I won't need that. </p><p><strong>Speaker 2:</strong> In the boot you'll find a spare wheel and a set of tools in case you have a problem. We have membership with the RAC, so you can call them if you're really in trouble. The membership card and phone number is in the glove compartment too. There will be a small fire extinguisher under the passenger seat, but I hope you won't have to use that.</p>"
+    }
+  ]
+}

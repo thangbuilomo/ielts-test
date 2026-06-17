@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_04",
+  "module": "listening",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2004.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Hello there. Do you work in the computer room? </p><p><strong>Speaker 1:</strong> Yes, I do. Can I help you? </p><p><strong>Speaker 2:</strong> Well, I'm a first year and I know that I'll need to use the computer room for my work, as I don't have a computer of my own. So I thought I'd get down here and see what I have to do in order to get time on one of the university's computers. </p><p><strong>Speaker 1:</strong> OK, there are four computer labs open to undergraduates. The others can only be used by the staff and postgraduates. The names of the four labs that you can use are Wimborne, Franklin, Salisbury and Court. Wimborne and Court are in this building, the Johnson building. Franklin is in the computer sciences building and Salisbury is in the library. </p><p><strong>Speaker 2:</strong> So I can use them whenever I like? </p><p><strong>Speaker 1:</strong> Well, you can use them, but not whenever you like. As you can imagine, they're in quite a lot of demand, so you have to reserve your time on a computer. In each of the labs, there is a reservation book and you can reserve your time on a computer in that for two hours daily. If a computer is free, though, you can go on it straight away. It's quite straightforward, but be sure to always write your name in the reservation book in pen or someone can rub it out and put their name in instead. </p><p><strong>Speaker 2:</strong> Oh my God, does that really happen? </p><p><strong>Speaker 1:</strong> I'm afraid so. And far more often than you would think. When people are stressed about their assignments, they'll do anything to get some time on the computers. Better not try it yourself, though, or you'll be banned from the computers for the rest of your academic year and your password and username will be taken away. </p><p><strong>Speaker 2:</strong> That reminds me, I've got to get a username and password. How do I go about that then? </p><p><strong>Speaker 1:</strong> Well, what I'll do is pass you over to my colleague, Jane, as she's in charge of all that. Jane. </p><p><strong>Speaker 3:</strong> Yes, Dave. </p><p><strong>Speaker 1:</strong> I've got a new student here wanting to find out about usernames and passwords. Can you help him out with that? </p><p><strong>Speaker 3:</strong> Yeah, sure. Hi there. </p><p><strong>Speaker 2:</strong> Hi. </p><p><strong>Speaker 3:</strong> Well, it's a straightforward process. First of all, tell me your name and I'll type it into the system. </p><p><strong>Speaker 2:</strong> James Smith. </p><p><strong>Speaker 3:</strong> Right, let me do that. You see, all students are automatically given a username and then they just choose a password themselves. </p><p><strong>Speaker 2:</strong> OK, so your username is James Smith 2. That's all small case. That means there must be more than one of you at the university at the moment. </p><p><strong>Speaker 3:</strong> Well, what do you want your password to be? </p><p><strong>Speaker 2:</strong> I think I'll choose biology as that's the subject that I'm studying, though my girlfriend Mary will be upset that it's not her name I'm using. </p><p><strong>Speaker 3:</strong> Well, that's done. You can now use any of the four undergraduate computer labs. By the way, can I print out stuff at the labs? </p><p><strong>Speaker 1:</strong> Yes, you can, but sometimes it's not quick. When you print, it goes into a queue and it will be left in a tray in Franklin, as that's where all the main printers are. The good bit is that, although last year it cost three pence per page, now it doesn't cost you anything.</p>"
+    }
+  ]
+}

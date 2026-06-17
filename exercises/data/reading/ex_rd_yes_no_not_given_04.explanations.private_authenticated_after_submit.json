@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_yes_no_not_given_04",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Câu 15 khớp với thông tin ở đoạn 9. Ý chính trong bài là: \"Choose YES if the statement agrees with the writer, choose NO if the statement contradicts the writer, or choose NOT GIVEN if it is impossible to say what the writer thinks about this.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là YES.",
+      "evidence": "Choose YES if the statement agrees with the writer, choose NO if the statement contradicts the writer, or choose NOT GIVEN if it is impossible to say what the writer thinks about this._"
+    },
+    "q16": {
+      "explanation": "Câu 16 khớp với thông tin ở đoạn 9. Ý chính trong bài là: \"Choose YES if the statement agrees with the writer, choose NO if the statement contradicts the writer, or choose NOT GIVEN if it is impossible to say what the writer thinks about this.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là YES.",
+      "evidence": "Choose YES if the statement agrees with the writer, choose NO if the statement contradicts the writer, or choose NOT GIVEN if it is impossible to say what the writer thinks about this._"
+    },
+    "q17": {
+      "explanation": "Câu 17 có một số từ khóa gần với đoạn 9, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"Choose YES if the statement agrees with the writer, choose NO if the statement contradicts the writer, or choose NOT GIVEN if it is impossible to say what the writer thinks about this.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "Choose YES if the statement agrees with the writer, choose NO if the statement contradicts the writer, or choose NOT GIVEN if it is impossible to say what the writer thinks about this._"
+    },
+    "q18": {
+      "explanation": "Câu 18 mâu thuẫn với thông tin ở đoạn 9. Bài nêu: \"Choose YES if the statement agrees with the writer, choose NO if the statement contradicts the writer, or choose NOT GIVEN if it is impossible to say what the writer thinks about this.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là NO.",
+      "evidence": "Choose YES if the statement agrees with the writer, choose NO if the statement contradicts the writer, or choose NOT GIVEN if it is impossible to say what the writer thinks about this._"
+    },
+    "q19": {
+      "explanation": "Câu 19 mâu thuẫn với thông tin ở đoạn 9. Bài nêu: \"Choose YES if the statement agrees with the writer, choose NO if the statement contradicts the writer, or choose NOT GIVEN if it is impossible to say what the writer thinks about this.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là NO.",
+      "evidence": "Choose YES if the statement agrees with the writer, choose NO if the statement contradicts the writer, or choose NOT GIVEN if it is impossible to say what the writer thinks about this._"
+    },
+    "q20": {
+      "explanation": "Câu 20 có một số từ khóa gần với đoạn 9, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"Choose YES if the statement agrees with the writer, choose NO if the statement contradicts the writer, or choose NOT GIVEN if it is impossible to say what the writer thinks about this.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "Choose YES if the statement agrees with the writer, choose NO if the statement contradicts the writer, or choose NOT GIVEN if it is impossible to say what the writer thinks about this._"
+    }
+  }
+}

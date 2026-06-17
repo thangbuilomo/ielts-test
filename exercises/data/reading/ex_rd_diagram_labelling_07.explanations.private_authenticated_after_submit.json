@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_diagram_labelling_07",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q7": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"It is located far from the water heater itself, usually in the middle of the house, and the two devices are connected by two long wires. By placing it at a significant distance from any radiators, it can more accurately measure the ambient temperature. The user sets their desired temperature by turning a knob or programming a digital display via buttons.\". Cụm ambient temperature khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "It is located far from the water heater itself, usually in the middle of the house, and the two devices are connected by two long wires. By placing it at a significant distance from any radiators, it can more accurately measure the ambient temperature. The user sets their desired temperature by turning a knob or programming a digital display via buttons._"
+    },
+    "q8": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"It is located far from the water heater itself, usually in the middle of the house, and the two devices are connected by two long wires. By placing it at a significant distance from any radiators, it can more accurately measure the ambient temperature. The user sets their desired temperature by turning a knob or programming a digital display via buttons.\". Cụm wires khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "It is located far from the water heater itself, usually in the middle of the house, and the two devices are connected by two long wires. By placing it at a significant distance from any radiators, it can more accurately measure the ambient temperature. The user sets their desired temperature by turning a knob or programming a digital display via buttons._"
+    },
+    "q9": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"A crucial part of these modern systems is the thermostat. This is a device containing a sensor to detect the ambient temperature of the room and is most commonly used to switch a boiler on and off. It is located far from the water heater itself, usually in the middle of the house, and the two devices are connected by two long wires.\". Cụm (the) thermostat khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "A crucial part of these modern systems is the thermostat. This is a device containing a sensor to detect the ambient temperature of the room and is most commonly used to switch a boiler on and off. It is located far from the water heater itself, usually in the middle of the house, and the two devices are connected by two long wires._"
+    }
+  }
+}

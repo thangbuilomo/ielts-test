@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_map_labelling_08",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q16": {
+      "explanation": "Người nói đang chỉ cho người nghe vị trí của khu cắm trại trên bản đồ. Thông tin giúp tìm ra đáp án là cụm từ \"directly across the river,\" cho thấy khu cắm trại nằm đối diện với boathouse. Paraphrase quan trọng ở đây là \"opposite bank,\" tức là bờ bên kia của con sông. Bẫy có thể là việc người nghe có thể nhầm lẫn với các địa điểm khác trên bản đồ, nhưng thông tin rõ ràng về vị trí \"directly across\" giúp xác định chính xác khu cắm trại. Vì vậy, đáp án A là đúng.",
+      "evidence": "the campsite, as you can see, is directly across the river from here on the opposite bank."
+    },
+    "q17": {
+      "explanation": "Người nói đang hướng dẫn người nghe về lộ trình đi đến nhà hàng cá. Thông tin giúp tìm ra đáp án là cụm từ \"on your left after you go under the old stone bridge,\" cho thấy vị trí của nhà hàng cá rất cụ thể. Paraphrase quan trọng là \"soon come to,\" tức là bạn sẽ đến đó nhanh chóng. Bẫy có thể là việc người nghe có thể nhầm lẫn với các địa điểm khác gần đó, nhưng thông tin rõ ràng về việc nó nằm bên trái sau cầu giúp xác định chính xác. Do đó, đáp án B là đúng.",
+      "evidence": "You'll soon come to the fish restaurant. It's on your left after you go under the old stone bridge."
+    },
+    "q18": {
+      "explanation": "Người nói đang mô tả một địa điểm lý tưởng cho việc tổ chức picnic. Thông tin giúp tìm ra đáp án là cụm từ \"really good spot for that,\" cho thấy đây là nơi thích hợp cho việc ăn uống ngoài trời. Paraphrase quan trọng là \"where the river splits in two,\" tức là nơi con sông chia nhánh, giúp xác định vị trí cụ thể. Bẫy có thể là việc người nghe có thể nghĩ rằng có nhiều địa điểm picnic khác, nhưng thông tin rõ ràng về vị trí giúp xác định chính xác. Vì vậy, đáp án C là đúng.",
+      "evidence": "there's also a really good spot for that, with benches for you to sit on. And you'll find this where the river splits in two."
+    },
+    "q19": {
+      "explanation": "Người nói đang chỉ dẫn về vị trí của nhà vệ sinh. Thông tin giúp tìm ra đáp án là cụm từ \"go to the west of where we are now,\" cho thấy vị trí của nhà vệ sinh nằm ở phía tây. Paraphrase quan trọng là \"loo's are on the far side of the car park,\" tức là nhà vệ sinh nằm ở phía xa của bãi đậu xe. Bẫy có thể là việc người nghe có thể nhầm lẫn với các địa điểm khác gần đó, nhưng thông tin rõ ràng về hướng đi giúp xác định chính xác. Do đó, đáp án D là đúng.",
+      "evidence": "If you need a toilet, you'll have to go to the west of where we are now."
+    },
+    "q20": {
+      "explanation": "Người nói đang giới thiệu về một địa điểm đặc biệt gọi là Đá Ếch. Thông tin giúp tìm ra đáp án là cụm từ \"a rock in the shape of a frog,\" cho thấy đây là một viên đá có hình dạng đặc trưng. Paraphrase quan trọng là \"when you're travelling west and you see a wooden bridge,\" tức là khi bạn đi về phía tây và thấy cầu gỗ, điều này giúp xác định vị trí của Đá Ếch. Bẫy có thể là việc người nghe có thể nhầm lẫn với các viên đá khác, nhưng thông tin rõ ràng về hình dạng và vị trí giúp xác định chính xác. Vì vậy, đáp án E là đúng.",
+      "evidence": "And then we have Frog Rock. That's a rock in the shape of a frog."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> OK, we're nearly ready. You'll be going off in your boats soon. I'm just going to show you on this map what route you can take today. So we're at the boathouse here, on the south side of the river, in the middle of the map. And the campsite, as you can see, is directly across the river from here on the opposite bank. The river's current is very gentle, so you can paddle either way. </p><p><strong>Speaker 1:</strong> If you start going east, that's toward the right on the map. You'll soon come to the fish restaurant. It's on your left after you go under the old stone bridge. There's space to moor your boat if you want to stop for lunch. </p><p><strong>Speaker 1:</strong> Or you might prefer to have a picnic of your own, and there's also a really good spot for that, with benches for you to sit on. And you'll find this where the river splits in two. So when you're having your sandwiches, you'll actually be on your very own island. </p><p><strong>Speaker 1:</strong> If you need a toilet, you'll have to go to the west of where we are now. If you see how the car park is almost surrounded by the river, well, the loo's are on the far side of the car park from here, so just beyond it, in other words, but on the same side of the water, the south side, I mean. </p><p><strong>Speaker 1:</strong> It's just by the sharp bend in the river. And then we have Frog Rock. That's a rock in the shape of a frog. At least, some people think it is. So to get there, when you're travelling west and you see a wooden bridge, there are some rocks there, but that's not Frog Rock. You need to keep going, and then it's on the right after you go under the bridge.</p>"
+}

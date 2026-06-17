@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_matching_information_02",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MATCHING%20INFORMATION%20TO%20CATEGORIES%2002.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> OK then, on to the layout of the library. We're on the ground floor of the library at the moment. Here we have the reception, the computers, which you can use to search for books and their location, and the bathrooms which are behind the reception. </p><p><strong>Speaker 1:</strong> The rest of the ground floor is taken up by the non-lending section of the library. Here we keep all the books, which are either too valuable or are used too much to lend out. You can reserve time with these books at reception and use them during any time that the library is open, but, of course, you may not remove them from the library. </p><p><strong>Speaker 1:</strong> On the first floor above us, we have the arts section, which includes books that students will need for such subjects as languages, literature, art and history. </p><p><strong>Speaker 1:</strong> On the second floor is a science section. We'll see these in a minute. Of course, individual departments will usually have their specialist libraries in their buildings, though the computer catalogues here will list them, so you know where to find everything, whether it's here or in the specialist libraries. </p><p><strong>Speaker 1:</strong> Finally, in the basement, we have the stack system, which contains the university collection of magazines and journals that we have collected and to which we subscribe. </p><p><strong>Speaker 1:</strong> If there is anything that we do not have or that you can't find, please go to reception and let them know the details.</p>"
+    }
+  ]
+}

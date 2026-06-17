@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_32",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q16": {
+      "explanation": "Người nói đang nói về việc xử lý pin tại các trung tâm tái chế ở Bookwall. Thông tin giúp tìm ra đáp án là lời khuyên rằng người dân nên gọi điện để hỏi trước về loại pin mà họ muốn mang đến. Paraphrase quan trọng ở đây là \"inquire ahead\" (hỏi trước) và \"explain exactly what type of battery you have\" (giải thích chính xác loại pin bạn có). Bẫy ở đây có thể là việc người nghe có thể nghĩ rằng họ có thể mang pin đến bất cứ lúc nào mà không cần hỏi trước, nhưng thực tế là họ cần phải kiểm tra thông tin trước. Vì vậy, đáp án đúng là C.",
+      "evidence": "the best advice is to inquire ahead. Phone if in doubt and explain exactly what type of battery you have, and our staff will be able to advise."
+    },
+    "q17": {
+      "explanation": "Người nói đang nói về việc tiếp nhận quần áo tại các trung tâm tái chế. Thông tin giúp tìm ra đáp án là việc họ khẳng định rằng người dân có thể đến bất cứ lúc nào để mang quần áo. Paraphrase quan trọng là \"turn up whenever you want\" (đến bất cứ lúc nào bạn muốn). Không có bẫy trong câu này, vì thông tin rất rõ ràng. Do đó, đáp án đúng là B.",
+      "evidence": "If there's anything you don't wear anymore or you've outgrown it, we'd love to accept it, so you can just turn up whenever you want at one of our centres."
+    },
+    "q18": {
+      "explanation": "Người nói đang nói về việc xử lý vật liệu xây dựng tại các trung tâm tái chế. Thông tin giúp tìm ra đáp án là yêu cầu đặt chỗ trước với thông báo vài ngày. Paraphrase quan trọng là \"reserve a slot\" (đặt chỗ). Bẫy ở đây có thể là người nghe nghĩ rằng họ có thể mang vật liệu xây dựng mà không cần đặt chỗ, nhưng thực tế là họ cần phải thông báo trước. Vì vậy, đáp án đúng là A.",
+      "evidence": "to do this, we ask you to reserve a slot at the recycling centre with a couple of days' notice if you can, please."
+    },
+    "q19": {
+      "explanation": "Người nói đang nói về việc tiếp nhận đồ nội thất tại các trung tâm tái chế. Thông tin giúp tìm ra đáp án là việc khuyên người dân nên xem trang web trước để biết thông tin chi tiết. Paraphrase quan trọng là \"have a look on the website in advance\" (xem trang web trước). Bẫy ở đây có thể là người nghe nghĩ rằng họ có thể đến mà không cần kiểm tra thông tin trước, nhưng thực tế là họ cần phải tìm hiểu trước để tránh chuyến đi không cần thiết. Vì vậy, đáp án đúng là C.",
+      "evidence": "it's worth having a look on the website in advance. It tells you exactly what can be recycled and where, so you can potentially save yourselves a wasted trip."
+    },
+    "q20": {
+      "explanation": "Người nói đang nói về việc tiếp nhận đồ điện tử tại các trung tâm tái chế. Thông tin giúp tìm ra đáp án là việc họ khẳng định rằng người dân có thể đến bất cứ lúc nào để gửi đồ điện tử. Paraphrase quan trọng là \"feel free to just turn up and drop them off\" (hãy thoải mái đến và gửi chúng). Không có bẫy trong câu này, vì thông tin rất rõ ràng. Do đó, đáp án đúng là B.",
+      "evidence": "you can deposit these at all of our sites. So, feel free to just turn up and drop them off."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: This recording is copyright. You will hear a man speaking on the radio about recycling in a town called Bookwall. You now have some time to look at the questions on your screen. Now, answer the questions on your screen. </p><p>Speaker 2 (Kevin): So, Kevin, can people take anything to the recycling centres in Bookwall? </p><p><strong>Speaker 3:</strong> I'm glad you asked me. It depends. Let's start with batteries. Now, there are many different types, from the little ones that go into our car keys and small disposable ones, right through to vehicle batteries. At the moment, not all our recycling centres can take every kind, so the best advice is to inquire ahead. Phone if in doubt and explain exactly what type of battery you have, and our staff will be able to advise. It's better to do that than bring something in but then find that we can't accept it. </p><p><strong>Speaker 2:</strong> What else?</p><p><strong>Speaker 3:</strong> Clothes. If there's anything you don't wear anymore or you've outgrown it, we'd love to accept it, so you can just turn up whenever you want at one of our centres. Clothing can often be redistributed to those who need it, which is great. </p><p><strong>Speaker 2:</strong> And what about building materials? </p><p><strong>Speaker 3:</strong> You can dispose of these if it's your own small-scale renovation project, but to do this, we ask you to reserve a slot at the recycling centre with a couple of days' notice if you can, please. But this service excludes professional builders, I'm afraid. Tradespeople will need to make their own arrangements or hire a skip. </p><p><strong>Speaker 2:</strong> What about furniture? </p><p><strong>Speaker 3:</strong> Most of our sites can accept furniture, but this is a bit more complicated. Some of our smaller centres can't accept larger items, such as beds, so it's worth having a look on the website in advance. It tells you exactly what can be recycled and where, so you can potentially save yourselves a wasted trip. </p><p><strong>Speaker 2:</strong> What about electronics?</p><p><strong>Speaker 3:</strong> Goods such as laptops, phones and TVs generally have plenty of components that can be salvaged, so you can deposit these at all of our sites. So, feel free to just turn up and drop them off. No need to book an appointment. We just ask you to make sure you put them in the right skip once you're there.</p>"
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_60",
+  "module": "listening",
+  "question_count": 10,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q31": {
+      "explanation": "Người nói đang nói về nguồn gốc của màn hình plasma, cụ thể là sự phát triển đầu tiên của nó tại một trường đại học. Thông tin này giúp tìm ra đáp án là \"university\" vì nó chỉ rõ nơi mà công nghệ plasma được phát triển. Paraphrase quan trọng ở đây là \"university staff\" (nhân viên đại học) và \"educational purposes\" (mục đích giáo dục). Không có bẫy trong câu này vì thông tin rất rõ ràng và trực tiếp. Đáp án đúng vì nó phản ánh chính xác nguồn gốc của công nghệ plasma.",
+      "evidence": "Its origins date back to the 1960s, when university staff were trying to come up with a way of getting a high-quality visual display that could be used for educational purposes."
+    },
+    "q32": {
+      "explanation": "Người nói đang mô tả cách mà màn hình plasma được sử dụng trong các doanh nghiệp, đặc biệt là trong khách sạn. Thông tin giúp tìm ra đáp án là \"lobby\" vì nó chỉ rõ vị trí mà màn hình plasma được đặt để truyền đạt thông tin. Paraphrase quan trọng là \"convey details to guests\" (truyền đạt thông tin cho khách) và \"prominently in their lobby\" (nổi bật ở sảnh của họ). Không có bẫy trong câu này, và đáp án đúng vì nó phản ánh chính xác cách sử dụng màn hình plasma trong môi trường kinh doanh.",
+      "evidence": "These large plasma screens were ideal for use in businesses, like hotels. If they wanted to convey details to guests about restaurant opening times or whatever, they'd stick one prominently in their lobby."
+    },
+    "q33": {
+      "explanation": "Người nói đang nói về một trong những lợi ích của công nghệ plasma, đó là khả năng gắn TV lên tường. Thông tin giúp tìm ra đáp án là \"wall\" vì nó chỉ rõ cách mà plasma TV có thể được lắp đặt. Paraphrase quan trọng là \"wall-mounted\" (gắn trên tường) và \"saving space\" (tiết kiệm không gian). Không có bẫy trong câu này, và đáp án đúng vì nó phản ánh chính xác một trong những cải tiến của TV plasma.",
+      "evidence": "But plasma changed all that and meant that for the first time, TVs could be wall-mounted, which was a great way of saving space."
+    },
+    "q34": {
+      "explanation": "Người nói đang so sánh giữa TV cũ và TV plasma, nhấn mạnh rằng plasma cho phép người xem nhìn từ nhiều góc độ khác nhau mà không làm giảm chất lượng hình ảnh. Thông tin giúp tìm ra đáp án là \"angles\" vì nó chỉ rõ đặc điểm của TV plasma. Paraphrase quan trọng là \"wider range of angles\" (nhiều góc độ rộng hơn). Không có bẫy trong câu này, và đáp án đúng vì nó phản ánh chính xác một trong những lợi ích của TV plasma.",
+      "evidence": "With older TVs, the viewer had to be looking pretty much from directly in front for the picture to be clear. With plasma, that was no longer an issue as the image was great when viewed at a wider range of angles..."
+    },
+    "q35": {
+      "explanation": "Người nói đang mô tả chất lượng hình ảnh của TV plasma, nhấn mạnh rằng hình ảnh luôn sắc nét. Thông tin giúp tìm ra đáp án là \"sharp\" vì nó chỉ rõ đặc điểm nổi bật của hình ảnh trên TV plasma. Paraphrase quan trọng là \"image quality always remained absolutely sharp\" (chất lượng hình ảnh luôn giữ được độ sắc nét tuyệt đối). Không có bẫy trong câu này, và đáp án đúng vì nó phản ánh chính xác một trong những ưu điểm của công nghệ plasma.",
+      "evidence": "The technology could display movement without any blur and meant that image quality always remained absolutely sharp."
+    },
+    "q36": {
+      "explanation": "Người nói đang nói về sự thay đổi kích thước của màn hình plasma theo thời gian, cụ thể là sự giảm kích thước của chúng. Thông tin giúp tìm ra đáp án là \"decrease\" vì nó chỉ rõ sự thay đổi về kích thước. Paraphrase quan trọng là \"getting thinner\" (ngày càng mỏng hơn) và \"down by 75%\" (giảm 75%). Không có bẫy trong câu này, và đáp án đúng vì nó phản ánh chính xác sự thay đổi trong kích thước của màn hình plasma.",
+      "evidence": "Plus the screens were getting thinner every time a new model was released, down by 75% in the five-year period between 2006 and 2011."
+    },
+    "q37": {
+      "explanation": "Người nói đang chỉ ra một nhược điểm của TV plasma, đó là khả năng hiển thị màu sắc không mạnh mẽ, đặc biệt là khi xem thể thao. Thông tin giúp tìm ra đáp án là \"sports\" vì nó chỉ rõ lĩnh vực mà plasma TV không hoạt động tốt. Paraphrase quan trọng là \"intense colours\" (màu sắc mạnh mẽ) và \"particular issue for sport\" (vấn đề đặc biệt đối với thể thao). Không có bẫy trong câu này, và đáp án đúng vì nó phản ánh chính xác một trong những nhược điểm của TV plasma.",
+      "evidence": "One drawback is that the plasma technology couldn't yield such intense colours as other kinds of TV have been able to. This was a particular issue for sport..."
+    },
+    "q38": {
+      "explanation": "Người nói đang chỉ ra rằng plasma TV không hoạt động tốt trong điều kiện ánh sáng ban ngày, điều này làm giảm chất lượng hình ảnh. Thông tin giúp tìm ra đáp án là \"daylight\" vì nó chỉ rõ thời điểm mà plasma TV không thể hiện tốt. Paraphrase quan trọng là \"blackout curtains\" (rèm chắn sáng) và \"not really able to sell themselves during the day\" (không thực sự có thể tự bán mình vào ban ngày). Không có bẫy trong câu này, và đáp án đúng vì nó phản ánh chính xác điều kiện mà plasma TV gặp khó khăn.",
+      "evidence": "To really get the benefit, you'd need to be in a room with blackout curtains. For similar reasons, it was also argued that plasma TVs rather underperformed and weren't really able to sell themselves when showrooms had them out on display... during the day."
+    },
+    "q39": {
+      "explanation": "Người nói đang so sánh TV OLED với TV plasma, nhấn mạnh rằng OLED tiêu thụ ít năng lượng hơn. Thông tin giúp tìm ra đáp án là \"energy\" vì nó chỉ rõ loại tài nguyên mà TV plasma tiêu thụ nhiều hơn. Paraphrase quan trọng là \"used far less energy\" (tiêu thụ ít năng lượng hơn nhiều). Không có bẫy trong câu này, và đáp án đúng vì nó phản ánh chính xác một trong những lợi thế của TV OLED so với plasma.",
+      "evidence": "One selling point of these was that they used far less energy than the amount consumed by plasma TVs."
+    },
+    "q40": {
+      "explanation": "Người nói đang nói về sự thành công của TV plasma trong một khoảng thời gian nhất định, cụ thể là năm 2010 là năm mà số lượng mua sắm đạt đỉnh. Thông tin giúp tìm ra đáp án là \"peaked\" vì nó chỉ rõ thời điểm mà doanh số bán hàng cao nhất. Paraphrase quan trọng là \"purchase numbers had peaked\" (số lượng mua sắm đã đạt đỉnh). Không có bẫy trong câu này, và đáp án đúng vì nó phản ánh chính xác thời điểm thành công nhất của TV plasma.",
+      "evidence": "They'd had a few strong years and purchase numbers had peaked worldwide in 2010..."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You will hear part of a lecture for electrical engineering students about the history of plasma screen televisions. You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 1:</strong> So often, when we look at the history of technology, we see products that seemed to be cutting-edge for a time, but were soon superseded and replaced by something newer and better. One such example is the plasma TV, which was popular in the early 2000s until LCD and OLED TVs arrived on the scene and effectively made old plasma TVs obsolete.</p><p><strong>Speaker 1:</strong> Just to quickly explain the technology, a plasma screen features millions of cells filled with gas packed in between two sheets of glass. When these are charged, they light up and collectively form the image on the screen. So I'm going to trace the rapid rise and fall of the plasma television.</p><p><strong>Speaker 1:</strong> Its origins date back to the 1960s, when university staff were trying to come up with a way of getting a high-quality visual display that could be used for educational purposes. And for this reason, they produced the first plasma screens. These large plasma screens were ideal for use in businesses, like hotels. If they wanted to convey details to guests about restaurant opening times or whatever, they'd stick one prominently in their lobby. They were also suited for clearly displaying numbers and so on in stock exchanges and places like that.</p><p><strong>Speaker 1:</strong> Plasma also started to break through in the domestic television market as they had a number of key selling points. Now bear in mind that before the arrival of plasma, the TV set in a person's home would have effectively been a piece of furniture, taking up space on the floor or on top of something else. But plasma changed all that and meant that for the first time, TVs could be wall-mounted, which was a great way of saving space.</p><p><strong>Speaker 1:</strong> Another improvement was connected to the way people watched. With older TVs, the viewer had to be looking pretty much from directly in front for the picture to be clear. With plasma, that was no longer an issue as the image was great when viewed at a wider range of angles, which effectively made it feasible for larger numbers of people to watch TV together, even in a small room.</p><p><strong>Speaker 1:</strong> The technology could display movement without any blur and meant that image quality always remained absolutely sharp. So it delivered what, at the time, was considered an unrivalled viewing experience. And so from about 2000 onwards, plasma TVs gained popularity. Consumers benefited from an economy of scale as prices dropped. Plus the screens were getting thinner every time a new model was released, down by 75% in the five-year period between 2006 and 2011.</p><p><strong>Speaker 1:</strong> Having said all that, not everyone was won over by plasma. One drawback is that the plasma technology couldn't yield such intense colours as other kinds of TV have been able to. This was a particular issue for sport, which would often be broadcast during daylight hours, meaning that the image quality wasn't so impressive. To really get the benefit, you'd need to be in a room with blackout curtains. For similar reasons, it was also argued that plasma TVs rather underperformed and weren't really able to sell themselves when showrooms had them out on display. Again, because the TVs couldn't really compete so well with the ambient brightness levels during the hours of daylight.</p><p><strong>Speaker 1:</strong> Anyway, before long, the next generation of TVs arrived, the OLED. One selling point of these was that they used far less energy than the amount consumed by plasma TVs. And it may have been this, more than anything else, that spelled the beginning of the end for plasma. They'd had a few strong years and purchase numbers had peaked worldwide in 2010, but consumers were now ready for something else. </p><p><strong>Speaker 1:</strong> In 2014, Panasonic, LG and Samsung all withdrew them from production. Having so recently been a must-have gadget, the plasma TV was consigned to history.</p>"
+}

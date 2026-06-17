@@ -1,0 +1,101 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_matching_headings_06",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 6,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "matching_headings",
+  "category_id": "matching_headings",
+  "title": "Matching Headings To Paragraphs - Exercise 6",
+  "duration_seconds": 0,
+  "content": {
+    "title": "The Can - A Brief History Lesson",
+    "content_html": "<h1>MATCHING HEADINGS TO PARAGRAPHS 06</h1>\n<h2>The Can - A Brief History Lesson</h2>\n<p><strong>A\n</strong>The story of the can begins in 1795 when Nicholas Appert, a Parisian, had an idea: why not pack food in bottles like wine? Fifteen years later, after researching and testing his idea, he published his theory: if food is sufficiently heated and sealed in an airtight container, it will not spoil. In 1810 Peter Durand, an Englishman, wanted to surpass Appert’s invention, so he elected to try tin instead of glass. Like glass, tin could be sealed airtight, but tin was not breakable and was much easier to handle. Durand himself did no canning, but two other Englishmen, Bryan Donkin and John Hall, used Durand’s patent. After experimenting for more than a year, they set up the world’s first commercial canning factory in London in 1812, and by 1814 they were sending tins of food to British army and navy authorities for trial.</p>\n<p><strong>B\n</strong>Perhaps the greatest encouragement to the newborn canning industry was the explosion in the number of new colonial territories. As people and goods were being transported to all parts of the world, the can industry itself was growing in new territories. Englishmen who emigrated to America took their newfound knowledge with them. One such man was Thomas Kensett, who might fairly be called the father of the can manufacturing industry in the United States. In 1813 he set up a small plant on the New York waterfront to can the first hermetically sealed products in the United States.</p>\n<p><strong>C\n</strong>Just before the Civil War, a technical advance by canners enabled them to speed up production. Adding calcium chloride to the water in which cans were cooked raised the water temperature, so speeding up the canning process. For almost 100 years, tin cans were made by artisans by hand. It was a laborious process, requiring considerable skill and muscle. As the industrial revolution took hold in the United States, the demand for cans increased and machines began to replace the artisans’ handiwork. A good artisan could make only 10 cans a day. True production progress in can making began in 1922, when American engineers perfected the body-making process, and soon production increased to as many as 250 cans a minute.</p>\n<p><strong>D\n</strong>As early as 1940, can manufacturers began to explore the possibility of adapting cans to package carbonated soft drinks. The can had to be strengthened to accommodate higher internal pressures created by carbonation (especially during warm summer months), which meant increasing the thickness of the metal used in the can ends. Another concern for the new beverage can was its shelf life. Even small amounts of dissolved tin or iron from the can could impair the drinks. In addition, the carbonic, citric and phosphoric acids in soft drinks presented a risk for the rapid corrosion of exposed tin and iron in the can. To counter this, the can was upgraded by improving the organic coatings used to line them. Can manufacturers then embarked on a programme of material and cost savings, reducing both the amounts of steel and coating used in can making. These efforts were in part inspired by a new competitor - aluminium.</p>\n<p><strong>E\n</strong>Beverage cans made of aluminium were introduced in 1965. This was an exciting innovation for the packaging industry because the aluminium can was made with only two pieces - a body and an end. This made production easier. Some of the reasons for the aluminium can’s acceptance were its ductility, its support of carbonation pressure, its lighter weight and the fact that aluminium does not rust. Both steel and aluminium cans used an easy-open end tab, but the aluminium tab was much easier to make. Perhaps the most critical element in the aluminium can’s market success was its recycling value. Aluminium can recycling excelled economically in the competition with steel cans due to the efficiencies that could be gained by using recycled materials to make new cans.</p>\n<p><strong>F\n</strong>Prior to 1970, can makers, customers and consumers alike were unaware of the impact that the mining and manufacturing of steel or aluminium had on the environment. The concept of natural resource preservation was not an issue of great importance and the low growth of population during these early years further de-emphasised concerns for resource depletion. Both industries, however, came to realise the importance of reducing their impact on the environment in the late 1960s and early 1970s as a new, environmentally conscious generation emerged. Manufacturers began to recognise the economics of recycling, namely lower manufacturing costs from using less material and less energy. By the 1980s and 1990s, recycling had become a way of life. Aluminium can recycling has become a billion-dollar business and one of the world’s most successful environmental enterprises. Over the years, the aluminium can has come to be known as America’s most recyclable package, with over 60 per cent of cans being recycled annually.</p>\n<p><strong>G\n</strong>Advances in can manufacturing technology have also brought us lighter aluminium cans. In 1972, 1 pound of aluminium yielded only 21.75 cans. Today, by using less material to make each can, 1 pound of aluminium makes approximately 32 cans - a 47 per cent improvement. Just the lightening of can ends makes a huge difference. When you multiply the savings by the 100 billion cans that are made each year, the weight and cost reductions are phenomenal.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_matching_headings_06.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_matching_headings_06.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "matching_headings",
+          "skill_tags": [
+            "rd_matching_headings"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 14 - 19</strong></p>\n<p>The text has seven paragraphs. Choose the correct heading for each paragraph. Write the appropriate number (i - xi).</p>\n<table>\n<tr>\n<td>*Example*</td>\n<td>*Answer*</td>\n</tr>\n<tr>\n<td>Paragraph A</td>\n<td><strong>*iv</strong>*</td>\n</tr>\n</table>\n\n<p>14 Paragraph B</p>\n<p>15 Paragraph C</p>\n<p>16 Paragraph D</p>\n<p>17 Paragraph E</p>\n<p>18 Paragraph F</p>\n<p>19 Paragraph G</p>\n<table>\n<tr>\n<td><strong>i</strong></td>\n<td>A Useful New Material</td>\n</tr>\n<tr>\n<td><strong>ii</strong></td>\n<td>Technological Breakthroughs</td>\n</tr>\n<tr>\n<td><strong>iii</strong></td>\n<td>Canning and the Beer Industry</td>\n</tr>\n<tr>\n<td><strong>iv</strong></td>\n<td>The Invention</td>\n</tr>\n<tr>\n<td><strong>v</strong></td>\n<td>Canning and War</td>\n</tr>\n<tr>\n<td><strong>vi</strong></td>\n<td>Further Manufacturing Advances</td>\n</tr>\n<tr>\n<td><strong>vii</strong></td>\n<td>Problems with Spoiled Contents</td>\n</tr>\n<tr>\n<td><strong>viii</strong></td>\n<td>Expansion of the Industry</td>\n</tr>\n<tr>\n<td><strong>ix</strong></td>\n<td>Today’s Uses for Canning</td>\n</tr>\n<tr>\n<td><strong>x</strong></td>\n<td>Drinks Canning</td>\n</tr>\n<tr>\n<td><strong>xi</strong></td>\n<td>Cans and the Environment</td>\n</tr>\n</table>",
+          "items": [
+            {
+              "question_id": "q14",
+              "number": 14,
+              "prompt_html": "Paragraph B",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q15",
+              "number": 15,
+              "prompt_html": "Paragraph C",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q16",
+              "number": 16,
+              "prompt_html": "Paragraph D",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q17",
+              "number": 17,
+              "prompt_html": "Paragraph E",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q18",
+              "number": 18,
+              "prompt_html": "Paragraph F",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q19",
+              "number": 19,
+              "prompt_html": "Paragraph G",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            14,
+            19
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

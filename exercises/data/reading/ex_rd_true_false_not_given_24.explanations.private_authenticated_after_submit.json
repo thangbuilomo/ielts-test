@@ -1,0 +1,44 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_true_false_not_given_24",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q14": {
+      "explanation": "Câu 14 khớp với thông tin ở đoạn 2. Ý chính trong bài là: \"Swarms of Mediterranean jellyfish, for example, have been sighted in the North Atlantic, where once they would have died because of the difference in environment. Now warming ocean currents are making this difference less significant. Because jellyfish are predators of small fish, the movement of large swarms potentially threatens the spawning populations of other fish which were not previously subject to this predation.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Swarms of Mediterranean jellyfish, for example, have been sighted in the North Atlantic, where once they would have died because of the difference in environment. Now warming ocean currents are making this difference less significant. Because jellyfish are predators of small fish, the movement of large swarms potentially threatens the spawning populations of other fish which were not previously subject to this predation._"
+    },
+    "q15": {
+      "explanation": "Câu 15 khớp với thông tin ở đoạn 3. Ý chính trong bài là: \"Overfishing is the key one, creating more opportunity for jellyfish to feed and breed. The overfishing of salmon in particular removes one of the jellyfish’s few predators. Without a curb on their population, growing hordes of jellyfish start eating the eggs of smaller fish, as well as their food supply.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Overfishing is the key one, creating more opportunity for jellyfish to feed and breed. The overfishing of salmon in particular removes one of the jellyfish’s few predators. Without a curb on their population, growing hordes of jellyfish start eating the eggs of smaller fish, as well as their food supply._"
+    },
+    "q16": {
+      "explanation": "Câu 16 khớp với thông tin ở đoạn 4. Ý chính trong bài là: \"This occurs when sewage, fertilisers and pesticides, and other substances rich in phosphorus and nitrogen, are washed into the ocean by rivers. These chemicals affect plankton, the tiny aquatic plants that constitute the food source for vast numbers of sea creatures. Normally, plankton live on nutrients from chemicals released by the sea bed, but their populations explode when feeding on the nitrogen and phosphorous the pollution brings.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "This occurs when sewage, fertilisers and pesticides, and other substances rich in phosphorus and nitrogen, are washed into the ocean by rivers. These chemicals affect plankton, the tiny aquatic plants that constitute the food source for vast numbers of sea creatures. Normally, plankton live on nutrients from chemicals released by the sea bed, but their populations explode when feeding on the nitrogen and phosphorous the pollution brings._"
+    },
+    "q17": {
+      "explanation": "Câu 17 mâu thuẫn với thông tin ở đoạn 4. Bài nêu: \"When these small organisms die, they absorb oxygen from the sea, creating “dead zones”. Since most marine creatures can’t survive in areas with little oxygen, their numbers fall. Jellyfish, however, are an exception as they need very little oxygen to survive.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "When these small organisms die, they absorb oxygen from the sea, creating “dead zones”. Since most marine creatures can’t survive in areas with little oxygen, their numbers fall. Jellyfish, however, are an exception as they need very little oxygen to survive._"
+    },
+    "q18": {
+      "explanation": "Câu 18 mâu thuẫn với thông tin ở đoạn 6. Bài nêu: \"One of the key effects of the increase in jellyfish numbers in the Mediterranean is their influence on fish stocks there. This was demonstrated in the early 1980s when Mnemiopsis leidyi, a jellyfish species that normally resides in the Atlantic, was accidentally introduced into the Black Sea and had such an overwhelming impact on fish populations there that fisheries almost collapsed. This shows that, although normally only the impact of human fishing activities is taken into account when setting sustainable fishing limits, jellyfish numbers should be factored in as well.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "One of the key effects of the increase in jellyfish numbers in the Mediterranean is their influence on fish stocks there. This was demonstrated in the early 1980s when Mnemiopsis leidyi, a jellyfish species that normally resides in the Atlantic, was accidentally introduced into the Black Sea and had such an overwhelming impact on fish populations there that fisheries almost collapsed. This shows that, although normally only the impact of human fishing activities is taken into account when setting sustainable fishing limits, jellyfish numbers should be factored in as well._"
+    },
+    "q19": {
+      "explanation": "Câu 19 mâu thuẫn với thông tin ở đoạn 6. Bài nêu: \"One of the key effects of the increase in jellyfish numbers in the Mediterranean is their influence on fish stocks there. This was demonstrated in the early 1980s when Mnemiopsis leidyi, a jellyfish species that normally resides in the Atlantic, was accidentally introduced into the Black Sea and had such an overwhelming impact on fish populations there that fisheries almost collapsed. This shows that, although normally only the impact of human fishing activities is taken into account when setting sustainable fishing limits, jellyfish numbers should be factored in as well.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "One of the key effects of the increase in jellyfish numbers in the Mediterranean is their influence on fish stocks there. This was demonstrated in the early 1980s when Mnemiopsis leidyi, a jellyfish species that normally resides in the Atlantic, was accidentally introduced into the Black Sea and had such an overwhelming impact on fish populations there that fisheries almost collapsed. This shows that, although normally only the impact of human fishing activities is taken into account when setting sustainable fishing limits, jellyfish numbers should be factored in as well._"
+    },
+    "q20": {
+      "explanation": "Câu 20 có một số từ khóa gần với đoạn 7, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"There are now Mediterranean beaches where swimming without the danger of being stung is feasible for only 1 week in the summer. Throughout the rest of the season, tourists have to find other methods of keeping cool. This will affect the numbers of tourists in following years, as they avoid resorts where swimming can result in very painful stings, and in turn will have a negative impact on the revenue earned from tourism.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "There are now Mediterranean beaches where swimming without the danger of being stung is feasible for only 1 week in the summer. Throughout the rest of the season, tourists have to find other methods of keeping cool. This will affect the numbers of tourists in following years, as they avoid resorts where swimming can result in very painful stings, and in turn will have a negative impact on the revenue earned from tourism._"
+    }
+  }
+}

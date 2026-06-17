@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_39",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Người nói đang thảo luận về chủ đề mà Rachel đã chọn cho bài luận mở rộng của mình. Thông tin giúp tìm ra đáp án là câu nói của Dr. Jones khi ông nhắc đến việc Rachel đã muốn viết về điều kiện làm việc trong các nhà máy. Paraphrase quan trọng ở đây là \"working conditions in 19th century factories\" có thể được hiểu là \"điều kiện làm việc trong các nhà máy\". Bẫy ở đây có thể là sự nhầm lẫn giữa các chủ đề khác mà Rachel đã cân nhắc, nhưng câu trả lời đúng là chủ đề mà cô đã quyết định ban đầu.",
+      "evidence": "Yes, you initially wanted to write about working conditions in 19th century factories..."
+    },
+    "q22": {
+      "explanation": "Rachel đang nói về nguồn tài liệu mà cô đã sử dụng để hỗ trợ cho bài luận của mình. Câu này cho thấy rằng mặc dù cô đã tìm kiếm sách, nhưng không có gì hữu ích, và cuối cùng cô đã tìm thấy thông tin tốt trên internet. Thông tin này giúp xác định rằng internet là nguồn chính mà Rachel đã sử dụng. Paraphrase quan trọng là \"nothing really to help me\" có thể hiểu là không có tài liệu nào hữu ích. Bẫy ở đây có thể là sự nhầm lẫn với sách, nhưng Rachel đã chỉ ra rằng internet là nguồn chính.",
+      "evidence": "I found lots of books, but nothing really to help me, even on the internet."
+    },
+    "q23": {
+      "explanation": "Rachel đang bày tỏ cảm xúc của mình về bài luận. Cô cho biết rằng mặc dù đã dành nhiều thời gian, nhưng cô chỉ cảm thấy hài lòng một phần. Thông tin này cho thấy rằng cô không hoàn toàn hài lòng, nhưng cũng không cảm thấy quá tồi tệ. Paraphrase quan trọng là \"80% happy\" có thể hiểu là \"hài lòng tương đối\". Bẫy ở đây có thể là sự nhầm lẫn với cảm giác hoàn toàn không hài lòng, nhưng câu trả lời đúng là cô ấy cảm thấy tương đối hài lòng.",
+      "evidence": "I've spent ages on it, but I'm only about 80% happy with it."
+    },
+    "q24": {
+      "explanation": "Dr. Jones đang đánh giá các phần của bài luận của Rachel và ông đã chỉ ra rằng ông thích phần giới thiệu. Thông tin này giúp xác định rằng phần giới thiệu là phần mà ông đánh giá cao nhất. Paraphrase quan trọng là \"set out your ideas clearly\" có thể hiểu là \"trình bày ý tưởng rõ ràng\". Bẫy ở đây có thể là sự nhầm lẫn với các phần khác của bài luận, nhưng câu trả lời đúng là phần giới thiệu.",
+      "evidence": "I liked the introduction which really set out your ideas clearly."
+    },
+    "q25": {
+      "explanation": "Dr. Jones đang chỉ ra phần mà ông muốn Rachel thay đổi trong bài luận của cô. Ông nhấn mạnh rằng phân tích thống kê là phần cần cải thiện. Thông tin này giúp xác định rằng phân tích thống kê là phần mà Dr. Jones muốn Rachel tập trung vào. Paraphrase quan trọng là \"main problem lies with your analysis\" có thể hiểu là \"vấn đề chính nằm ở phân tích của bạn\". Bẫy ở đây có thể là sự nhầm lẫn với các phần khác, nhưng câu trả lời đúng là phân tích thống kê.",
+      "evidence": "The main problem lies with your analysis of the statistics."
+    },
+    "q26": {
+      "explanation": "Dr. Jones đang thông báo cho Rachel về thời hạn nộp bài luận. Thông tin này giúp xác định rằng hạn chót là ngày 28 tháng 4. Paraphrase quan trọng là \"the deadline is\" có thể hiểu là \"hạn chót là\". Bẫy ở đây có thể là sự nhầm lẫn với các ngày khác mà họ đã thảo luận, nhưng câu trả lời đúng là ngày 28 tháng 4.",
+      "evidence": "The deadline is the 28th of April."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: Dr. Jones<br />You now have some time to look at the questions on your screen. Now answer the questions on your screen. Come in. Ah, good morning, Rachel. Have you come to talk about your extended essay?</p><p><strong>Speaker 2:</strong> Rachel<br />That's right, Dr. Jones. Have I come at a bad time?  </p><p><strong>Speaker 1:</strong> Dr. Jones<br />No, not at all. This is a good time, in fact.  </p><p><strong>Speaker 2:</strong> Rachel<br />Good, because I wanted to ask you what you thought about my decision on the subject.  </p><p><strong>Speaker 1:</strong> Dr. Jones<br />Yes, you initially wanted to write about working conditions in 19th century factories, but you were later contemplating looking at the conditions inside hospitals in 19th century northern towns.  </p><p><strong>Speaker 2:</strong> Rachel<br />That's right. I thought about it for a long time and weighed up the pros and cons, and I didn't decide for ages.  </p><p><strong>Speaker 1:</strong> Dr. Jones<br />Well, I think you were right to stick with your first idea. There's so many better sources available on the subject. There are plenty of articles and magazines and the odd TV and radio programme on the other subjects, but everything is rather superficial. There's no real academic knowledge to draw on.  </p><p><strong>Speaker 2:</strong> Rachel<br />Yes, I found that out. I found lots of books, but nothing really to help me, even on the internet. In the end, when I decided on my first choice topic, I found lots of really good stuff in magazines, books and the internet, particularly one book which is the major reference that you'll see quoted all over the place.  </p><p><strong>Speaker 1:</strong> Dr. Jones<br />Well, I'm glad you came to that decision. Let's have a look at that essay now. What did you think?  </p><p><strong>Speaker 2:</strong> Rachel<br />I've spent ages on it, but I'm only about 80% happy with it.  </p><p><strong>Speaker 1:</strong> Dr. Jones<br />Well, I wouldn't be too down about it. I think most of it is pretty good. I liked the introduction which really set out your ideas clearly. The middle needs some attention, but the end was really first rate.  </p><p><strong>Speaker 2:</strong> Rachel<br />What are the areas that need more work, then?  </p><p><strong>Speaker 1:</strong> Dr. Jones<br />The main problem lies with your analysis of the statistics. You quote all the right numbers and you've got lots of fine tables and everything, but you need to look more closely at what the numbers mean and what implications they hold. Look at them again and try and explain more clearly the important parts. After that, you need to have a look at your bibliography, which is a bit shoddy.  </p><p><strong>Speaker 2:</strong> Rachel<br />Yes, I was afraid of that. I always think that once I've finished the essay, then I'm done, and so I don't put enough care into things like the bibliography. Still, I have plenty of time to get that and the other stuff sorted out.  </p><p><strong>Speaker 1:</strong> Dr. Jones<br />You've plenty of time, but don't leave it until the last minute because you'll need to check it all again carefully when you're finished, and it would be a good idea if I looked it over again before its final submission. The deadline is the 28th of April, so shall I get it to you on the 24th? Will that be okay?  </p><p><strong>Speaker 2:</strong> Rachel<br />Well, that won't leave you much time to change anything if I find anything else to do. How about a few days earlier than that, the 21st of April?  </p><p><strong>Speaker 1:</strong> Dr. Jones<br />I'll be able to get it back to you the day after on the 22nd, then.  </p><p><strong>Speaker 2:</strong> Rachel<br />That sounds great. Thank you.</p>"
+}

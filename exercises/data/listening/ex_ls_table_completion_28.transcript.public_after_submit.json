@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_28",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2028.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Good morning, Holiday Plus Hotel, East Haven. Can I help you?</p><p><strong>Speaker 3:</strong> Oh, yes. Hello. I just booked a couple of rooms online and I think I made a mistake. Can I change it with you?</p><p><strong>Speaker 2:</strong> Of course you can, madam. Give me your surname and I'll have a look for you.</p><p><strong>Speaker 3:</strong> It's Connor. C-O-W-N-O-R. </p><p><strong>Speaker 2:</strong> And your first name?</p><p><strong>Speaker 3:</strong> It's Susan.</p><p><strong>Speaker 2:</strong> Okay, I think I have you here. Can you confirm your arrival date?</p><p><strong>Speaker 3:</strong> It's the 18th of June.</p><p><strong>Speaker 2:</strong> Okay, I've found you here. So that's leaving on the 2nd of July, which is a total of 15 nights. Is that correct?</p><p><strong>Speaker 3:</strong> Oh, no, I don't think so. It's two weeks, so it's actually only 14 days, I think.</p><p><strong>Speaker 2:</strong> Oh, yes. Sorry, madam. 14. Okay, I've found you. And you said that you wanted to make some changes to your booking? Is it the dates that you wanted to change?</p><p><strong>Speaker 3:</strong> Oh, no, it's not the dates. That's our family holiday. But I think that I made a mistake with the rooms that I booked.</p><p><strong>Speaker 2:</strong> So we've got you for one double room and one single room at the moment.</p><p><strong>Speaker 3:</strong> Yes, I still need the double room, but I would like a twin room instead of the single. You see, my daughter's friend is going to be joining us.</p><p><strong>Speaker 2:</strong> Let me just have a look and see if that's available, Mrs. Connor. Okay, so we do have a double and a twin available at that point.</p><p><strong>Speaker 3:</strong> Great. Can I book that, please?</p><p><strong>Speaker 2:</strong> Of course, but could I make a suggestion?</p><p><strong>Speaker 3:</strong> Sure.</p><p><strong>Speaker 2:</strong> Have you considered a family suite? I think you'd be much more comfortable than in the two rooms.</p><p><strong>Speaker 3:</strong> So what do you get with the suite?</p><p><strong>Speaker 2:</strong> It consists of one double room, a twin and a living room. This would also guarantee that your rooms are together and not spread out over the hotel. It also means that you get an outside terrace to enjoy the sun.</p><p><strong>Speaker 3:</strong> No, I'm not sure about that. It sounds expensive.</p><p><strong>Speaker 2:</strong> Actually, it would only be 5% more expensive. The cost of the two rooms separately would be £700 and the suite would be £735.</p><p><strong>Speaker 3:</strong> Yes, okay, that would be great.</p><p><strong>Speaker 2:</strong> Okay, I've booked that for you now.</p><p><strong>Speaker 3:</strong> Lovely, thanks.</p>"
+    }
+  ]
+}

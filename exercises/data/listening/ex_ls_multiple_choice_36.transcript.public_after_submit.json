@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_36",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2036.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Now, Professor Walker asked where we were going to do the survey. Does he want to avoid that area then? Probably. </p><p><strong>Speaker 2:</strong> Now, we can either all stay together or split up and do different locations. </p><p><strong>Speaker 3:</strong> Well, if we split up, then I think we've got a better chance of getting more people surveyed. </p><p><strong>Speaker 1:</strong> Yes, I agree with Laura. OK, now I made a list of the possible locations in Wesley where we could station ourselves. There's the town square, at the entrance to the train station, at the university cafeteria, outside Dobbin's department store, on the corner of the high street and college road, the bus station, and the corner of the high street and Wilkins Road. What do you think? </p><p><strong>Speaker 2:</strong> I think the square is great, but the people at the train station will be travelling and often in a hurry. </p><p><strong>Speaker 3:</strong> I agree with all that, and I think the bus station will have the same problem as the train station. </p><p><strong>Speaker 1:</strong> OK, that's those two out then. I think the other ones in town were good too. The cafeteria will have too many students and that will create too great a bias to our survey. We need a good cross-section of the population and anywhere too close to the university won't give us that. </p><p><strong>Speaker 2:</strong> Laura's right. So, out of the other town ones, I think that the two on the high street corners are good. </p><p><strong>Speaker 3:</strong> I don't agree. The high street corner with college road will be good, but the corner with Wilkins Road is too far out. Not enough people will come by there. </p><p><strong>Speaker 1:</strong> Yes, Mel's right there. We should use Dobbin's department store instead. </p><p><strong>Speaker 2:</strong> I can see your point. OK, that's settled then. All three of us will be stationed in town then, but not the Wilkins Road position.</p>"
+    }
+  ]
+}

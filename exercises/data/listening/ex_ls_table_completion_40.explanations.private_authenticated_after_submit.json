@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_40",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói (Speaker 2) đang cung cấp thông tin về tên họ của mình cho nhân viên khách sạn (Speaker 1) để xác nhận đặt phòng. Thông tin giúp tìm ra đáp án là khi người nói đã nói rõ tên họ của mình là \"Connor\". Paraphrase quan trọng ở đây là \"surname\" (tên họ) được nhắc đến trong câu hỏi. Không có bẫy trong câu này vì thông tin được cung cấp rất rõ ràng và trực tiếp. Đáp án đúng là \"Connor\" vì đây là tên họ mà người nói đã xác nhận.",
+      "evidence": "It's Connor. C-O-N-N-O-R."
+    },
+    "q2": {
+      "explanation": "Người nói đang xác nhận ngày đến của mình cho nhân viên khách sạn. Thông tin giúp tìm ra đáp án là câu trả lời trực tiếp từ người nói về ngày đến. Paraphrase quan trọng là \"arrival date\" (ngày đến) được đề cập trong câu hỏi. Không có bẫy trong câu này vì người nói đã cung cấp thông tin chính xác mà không có sự nhầm lẫn. Đáp án đúng là \"28th of June\" vì đây là ngày mà người nói đã xác nhận.",
+      "evidence": "It's the 28th of June."
+    },
+    "q3": {
+      "explanation": "Người nói đang sửa lại thông tin về số đêm lưu trú mà nhân viên khách sạn đã cung cấp. Thông tin giúp tìm ra đáp án là câu trả lời của người nói khi họ nhận ra rằng số đêm là 8 thay vì 7. Paraphrase quan trọng là \"number of nights\" (số đêm) được đề cập trong câu hỏi. Bẫy ở đây có thể là sự nhầm lẫn giữa 7 và 8, nhưng người nói đã nhanh chóng nhận ra và sửa lại. Đáp án đúng là \"8\" vì đây là số đêm chính xác mà người nói đã xác nhận.",
+      "evidence": "Oh, no, I don't think so. It's eight, isn't it?"
+    },
+    "q4": {
+      "explanation": "Người nói đang yêu cầu thay đổi loại phòng từ phòng đơn sang phòng đôi. Thông tin giúp tìm ra đáp án là yêu cầu cụ thể của người nói về loại phòng mà họ muốn. Paraphrase quan trọng là \"twin room\" (phòng đôi) được nhắc đến trong câu hỏi. Không có bẫy trong câu này vì người nói đã rõ ràng trong yêu cầu của mình. Đáp án đúng là \"twin\" vì đây là loại phòng mà người nói đã yêu cầu.",
+      "evidence": "I'd like a twin room instead of the single."
+    },
+    "q5": {
+      "explanation": "Người nói đang đề xuất một lựa chọn khác cho khách hàng, đó là một phòng suite gia đình. Thông tin giúp tìm ra đáp án là từ \"family suite\" mà nhân viên khách sạn đã đề cập. Paraphrase quan trọng là \"accommodation offered\" (chỗ ở được cung cấp) trong câu hỏi. Không có bẫy trong câu này vì thông tin được cung cấp rõ ràng. Đáp án đúng là \"family\" vì đây là loại phòng mà nhân viên khách sạn đã đề xuất cho khách hàng.",
+      "evidence": "Have you considered a family suite?"
+    },
+    "q6": {
+      "explanation": "Người nói đang mô tả những tiện nghi mà phòng suite gia đình sẽ cung cấp, bao gồm cả một sân thượng. Thông tin giúp tìm ra đáp án là phần mô tả về tiện nghi của phòng suite. Paraphrase quan trọng là \"living room\" (phòng khách) và \"terrace\" (sân thượng) được nhắc đến trong câu hỏi. Không có bẫy trong câu này vì thông tin được cung cấp rất rõ ràng và cụ thể. Đáp án đúng là \"terrace\" vì đây là một trong những tiện nghi mà người nói đã đề cập đến.",
+      "evidence": "And you'd get a terrace to enjoy the sun."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> Good morning, Holiday Plus Hotel, East Haven. Can I help you?</p><p><strong>Speaker 2:</strong> Oh, yes, hello. I just booked a couple of rooms online and I think I made a mistake. Can I change it with you?</p><p><strong>Speaker 1:</strong> Of course you can. Could you give me your surname, please?</p><p><strong>Speaker 2:</strong> It's Connor. C-O-N-N-O-R.</p><p><strong>Speaker 1:</strong> Thank you. And your first name?</p><p><strong>Speaker 2:</strong> It's Susan.</p><p><strong>Speaker 1:</strong> I'll have a look for you. Can you confirm your arrival date?</p><p><strong>Speaker 2:</strong> It's the 28th of June.</p><p><strong>Speaker 1:</strong> OK, I've found you here. So, that's a family of two adults and one child, leaving on the 6th of July, which is a total of seven nights. Is that correct?</p><p><strong>Speaker 2:</strong> Oh, no, I don't think so. It's eight, isn't it? Arriving on the Thursday and leaving the following Friday?</p><p><strong>Speaker 1:</strong> You're quite right. Sorry, my mistake. So, you said that you wanted to make changes to your booking? Is it the rooms that you wanted to change?</p><p><strong>Speaker 2:</strong> If possible, yes, please. Your reservation is currently for one double room and one single.</p><p><strong>Speaker 1:</strong> Yes, I still need the double room, but I'd like a twin room instead of the single. You see, my daughter's friend's going to be joining us.</p><p><strong>Speaker 1:</strong> OK, let me just check availability. Yes, we can do that for you. Great. Or, alternatively, could I make a suggestion?</p><p><strong>Speaker 2:</strong> Sure.</p><p><strong>Speaker 1:</strong> Have you considered a family suite? I think you'd be much more comfortable than in the two rooms.</p><p><strong>Speaker 2:</strong> So, what do you get with the suite?</p><p><strong>Speaker 1:</strong> You'd have the two bedrooms that you've requested, as well as a living room. This would also guarantee that your rooms are together and not spread out over the hotel. And you'd get a terrace to enjoy the sun.</p><p><strong>Speaker 2:</strong> I see.</p>"
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_flow_chart_completion_05",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q27": {
+      "explanation": "Trong đoạn hội thoại, người nói đang thảo luận về nhiệm vụ của Rick trong dự án nghiên cứu. Câu nói này chỉ rõ rằng Rick sẽ tìm kiếm thông tin về thống kê sức khỏe, điều này liên quan trực tiếp đến câu hỏi 27, yêu cầu tìm hoạt động đầu tiên của Rick. Paraphrase cần chú ý ở đây là \"look for information online\" có thể hiểu là \"research online\". Không có bẫy nào trong câu này, vì thông tin rất rõ ràng. Đáp án E là chính xác vì nó phản ánh đúng nhiệm vụ của Rick. Các khả năng khác như A, B, C, D, và F không liên quan đến nhiệm vụ đầu tiên của Rick.",
+      "evidence": "Rick is going to look for information online about health statistics for the town."
+    },
+    "q28": {
+      "explanation": "Trong đoạn hội thoại, Anna, Karim và Lucy đang thảo luận về việc thiết kế bảng câu hỏi cho dự án. Câu này chỉ rõ rằng họ cần phải \"finalise the content of questionnaires\", tức là hoàn thiện nội dung của bảng câu hỏi. Paraphrase cần chú ý là \"design the questionnaires\" có thể hiểu là \"finalise the content\". Không có bẫy nào trong câu này, thông tin rất rõ ràng và liên quan trực tiếp đến câu hỏi. Đáp án D là chính xác vì nó thể hiện đúng nhiệm vụ của nhóm trong giai đoạn này. Các lựa chọn khác như A, B, C, E, và F không phù hợp với nội dung của câu hỏi.",
+      "evidence": "the three of us need to design the questionnaires."
+    },
+    "q29": {
+      "explanation": "Trong đoạn hội thoại, nhóm đang thảo luận về việc thực hiện phỏng vấn tại các cơ sở khác nhau. Câu này chỉ rõ rằng họ sẽ \"conduct interviews\" với các bảng câu hỏi. Paraphrase cần chú ý là \"conduct interviews\" có thể hiểu là \"interview\". Không có bẫy nào trong câu này, vì thông tin rất rõ ràng và liên quan trực tiếp đến câu hỏi. Đáp án B là chính xác vì nó phản ánh đúng hoạt động mà nhóm sẽ thực hiện. Các lựa chọn khác như A, C, D, E, và F không liên quan đến hoạt động phỏng vấn.",
+      "evidence": "we will need to conduct interviews using the questionnaires at each of the four facilities."
+    },
+    "q30": {
+      "explanation": "Trong đoạn hội thoại, nhóm đang thảo luận về việc phân tích và tổng hợp thông tin sau khi thực hiện phỏng vấn. Câu này chỉ rõ rằng họ sẽ \"compile and analyse data\" từ tất cả các nguồn. Paraphrase cần chú ý là \"analyze and compile\" có thể hiểu là \"compile and analyse\". Không có bẫy nào trong câu này, vì thông tin rất rõ ràng và liên quan trực tiếp đến câu hỏi. Đáp án A là chính xác vì nó phản ánh đúng hoạt động mà nhóm sẽ thực hiện sau khi thu thập dữ liệu. Các lựa chọn khác như B, C, D, E, và F không phù hợp với nội dung của câu hỏi.",
+      "evidence": "we'll need another week or so to analyze and compile all the information."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> OK, so Rick is going to look for information online about health statistics for the town. Yeah, now and three decades ago. </p><p><strong>Speaker 3:</strong> Cool. When do we need that info? </p><p><strong>Speaker 1:</strong> This time next week? </p><p><strong>Speaker 2:</strong> OK, then the three of us need to design the questionnaires. Can we do that now? </p><p><strong>Speaker 3:</strong> I'm sorry, I've got a tutorial in ten minutes. </p><p><strong>Speaker 1:</strong> OK, why don't we each think of some ideas and post them on the Facebook page, then meet at the end of the week to discuss and compile them? </p><p><strong>Speaker 2:</strong> Cool. Good idea. Then we will need to conduct interviews using the questionnaires at each of the four facilities. That's one each, if Rick's better by then. </p><p><strong>Speaker 3:</strong> Would a week be enough for that? </p><p><strong>Speaker 1:</strong> It'll have to be, as we'll need another week or so to analyze and compile all the information, and then to prepare our presentation. </p><p><strong>Speaker 2:</strong> Hmm, you're right. </p><p><strong>Speaker 1:</strong> OK, I'll set up the Facebook page immediately and brief Rick on what he's doing, and we can get on with the rest. Meet here again, same time on Friday? </p><p><strong>Speaker 3:</strong> Fine. </p><p><strong>Speaker 2:</strong> Sure. </p><p><strong>Speaker 1:</strong> That is the end of section three. You will now have half a minute to check your answers.</p><p>Answer Key</p><p>27.Answer: E<br />Explanation: Rick is tasked with researching health statistics online, as mentioned in the transcript where it states he will look for information about health statistics for the town.</p><p>28.Answer: D<br />Explanation: Anna, Karim, and Lucy need to design the questionnaires, which involves finalizing the content of the questionnaires. This is indicated when they discuss the need to design the questionnaires.</p><p>29.Answer: B<br />Explanation: The whole group will conduct interviews using the questionnaires at the facilities. This is confirmed when they mention needing to conduct interviews using the questionnaires at each of the four facilities.</p><p>30.Answer: A<br />Explanation: The whole group will compile and analyze data from all sources. This is stated when they discuss needing another week to analyze and compile all the information before preparing their presentation.</p>"
+}

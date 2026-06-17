@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_35",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Người nói đang thông báo về thời điểm ra mắt sản phẩm mới \"Motivate Me\". Thông tin giúp tìm ra đáp án là việc sản phẩm được ra mắt vào cuối tháng 11 để tận dụng mùa mua sắm trong tháng 12. Paraphrase quan trọng ở đây là \"make the most of\" có nghĩa là tận dụng tối đa. Bẫy có thể là việc người nghe có thể nghĩ rằng sản phẩm sẽ ra mắt vào tháng 11, nhưng thực tế là tháng 12 mới là thời điểm quan trọng để tăng doanh số. Đáp án đúng là \"December\" vì nó phản ánh thời điểm mà sản phẩm sẽ được hưởng lợi từ lượng khách hàng lớn trong mùa lễ hội.",
+      "evidence": "It's coming out at the end of November to make the most of the Christmas and New Year shoppers in December."
+    },
+    "q22": {
+      "explanation": "Người nói đang mô tả một trong những tính năng nổi bật của sản phẩm \"Motivate Me\". Thông tin giúp tìm ra đáp án là việc nhấn mạnh rằng sản phẩm này có tính năng chống nước mà các sản phẩm khác không có. Paraphrase quan trọng là \"fully waterproof feature\" có thể hiểu là tính năng hoàn toàn chống nước. Bẫy có thể là việc người nghe có thể nhầm lẫn với các tính năng khác của sản phẩm. Đáp án đúng là \"waterproof\" vì đây là tính năng đặc biệt giúp sản phẩm nổi bật trên thị trường.",
+      "evidence": "However, what our innovative design does, which most other products on the market don't, is offer a fully waterproof feature."
+    },
+    "q23": {
+      "explanation": "Người nói đang so sánh thiết kế của sản phẩm \"Motivate Me\" với các sản phẩm của đối thủ. Thông tin giúp tìm ra đáp án là việc đề cập đến \"many faults\" ở các sản phẩm của đối thủ. Paraphrase quan trọng là \"faults\" có thể hiểu là lỗi hoặc vấn đề. Bẫy có thể là việc người nghe có thể nghĩ đến các từ đồng nghĩa khác như \"issues\" nhưng không chính xác. Đáp án đúng là \"faults\" vì nó thể hiện rõ ràng vấn đề mà các sản phẩm đối thủ gặp phải.",
+      "evidence": "Our product design is solid, though many faults have been reported in our competitors, to be honest, meaning their watches weren't durable."
+    },
+    "q24": {
+      "explanation": "Người nói đang đưa ra một ví dụ về tình huống mà sản phẩm có thể gặp vấn đề nếu không có tính năng chống nước. Thông tin giúp tìm ra đáp án là hành động \"running\" mà người dùng có thể thực hiện. Paraphrase quan trọng là \"went running\" có thể hiểu là đi chạy bộ. Bẫy có thể là việc người nghe có thể nghĩ đến các hoạt động thể chất khác nhưng không chính xác. Đáp án đúng là \"running\" vì nó phản ánh đúng tình huống mà người nói đang mô tả.",
+      "evidence": "Let's imagine you went running and got caught in a heavy downpour."
+    },
+    "q25": {
+      "explanation": "Người nói đang xác định đối tượng mục tiêu cho sản phẩm \"Motivate Me\". Thông tin giúp tìm ra đáp án là việc nhấn mạnh rằng sản phẩm sẽ không dành cho các hoạt động nhẹ nhàng mà là cho các môn thể thao mạo hiểm. Paraphrase quan trọng là \"extreme sports\" có thể hiểu là các môn thể thao có tính chất mạo hiểm cao. Bẫy có thể là việc người nghe có thể nghĩ đến các hoạt động thể chất khác nhưng không chính xác. Đáp án đúng là \"extreme sports\" vì nó phản ánh đúng đối tượng mà sản phẩm hướng tới.",
+      "evidence": "So we would be looking at pitching it towards not gentle day-to-day activity like walking or jogging, but more towards extreme sports."
+    },
+    "q26": {
+      "explanation": "Người nói đang cảnh báo về sự cạnh tranh trong thị trường smartwatch. Thông tin giúp tìm ra đáp án là việc đề cập đến \"rival products\" mà các đối thủ sẽ sớm phát hành. Paraphrase quan trọng là \"rival products\" có thể hiểu là các sản phẩm cạnh tranh. Bẫy có thể là việc người nghe có thể nghĩ đến các từ khác như \"new products\" nhưng không chính xác. Đáp án đúng là \"rival products\" vì nó thể hiện rõ ràng sự cạnh tranh mà sản phẩm \"Motivate Me\" sẽ phải đối mặt trong tương lai gần.",
+      "evidence": "though our competitors won't take long in bringing out rival products, I suppose."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Good morning, Ruth.</p><p><strong>Speaker 2:</strong> Morning, Sally.</p><p><strong>Speaker 1:</strong> Hi, Jim.</p><p><strong>Speaker 3:</strong> Morning.</p><p><strong>Speaker 1:</strong> OK, are we ready to make a start then?</p><p><strong>Speaker 3:</strong> Sure.</p><p><strong>Speaker 1:</strong> So, it's very exciting. Our new product, Motivate Me, is ready to go to the product launch phase. It's coming out at the end of November to make the most of the Christmas and New Year shoppers in December. And we need to decide the details of that. Ruth, can you give us an overview of the product to start?</p><p><strong>Speaker 2:</strong> Sure. Motivate Me is a smart watch, as you know. It's got several main features in common with other similar brands – pedometer, GPS, tracking sleep patterns, all the usual points. However, what our innovative design does, which most other products on the market don't, is offer a fully waterproof feature.</p><p><strong>Speaker 3:</strong> Sounds great, but I have to say I've seen other products with that feature too.</p><p><strong>Speaker 2:</strong> You're absolutely right, Jim. What makes ours unique is even the standard model can be completely submerged for extended periods of time. Our product design is solid, though many faults have been reported in our competitors, to be honest, meaning their watches weren't durable. Also, not all models benefited from this feature, so there were many occasions when the device would let customers down. Let's imagine you went running and got caught in a heavy downpour. The device could simply stop working with that level of rain. So we would be looking at pitching it towards not gentle day-to-day activity like walking or jogging, but more towards extreme sports – diving, surfing, winter sports, marathon runners, triathletes, mountain bikers – sports in which you'd expect to get wet and dirty.</p><p><strong>Speaker 1:</strong> I know it was designed with this type of sport in mind.</p><p><strong>Speaker 2:</strong> Indeed, and of course the other special feature of Motivate Me is its hard-wearing design and seven-day battery life.</p><p><strong>Speaker 3:</strong> Ruth's right, and I've been actively involved in that. There really is nothing quite like it on the market at the moment, though our competitors won't take long in bringing out rival products, I suppose.</p><p><strong>Speaker 1:</strong> Exactly, which makes it even more important that we do this launch well and get a real edge in the market before that happens.</p>"
+}

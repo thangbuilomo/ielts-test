@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_57",
+  "module": "listening",
+  "question_count": 10,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2057.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You'll hear part of an environmental science lecture about invasive species, in other words, plants or animals which are living away from their usual habitat and which are causing harm in their new one. You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Right, so now I would like to focus on invasive species, which I'm defining as a plant or animal which has become established outside of its usual range and is causing damage in its new location. I'm going to explain how many of these were spread by people quite inadvertently throughout the 19th century, probably without them having any notion at the time that their actions may turn out to be harmful. </p><p><strong>Speaker 2:</strong> Throughout history, whenever migrants have headed off to make a new home, they've often taken food with them, and a good example of this is the rabbits, which were first transported to Australia by migrants from Britain starting a new life in the southern hemisphere. In 1859, a farmer took a group of a dozen or so rabbits to a place called Barren Park, just east of Melbourne, and let them go. We can't know his reasoning, but within 50 years of this release, that same species of rabbits occupied much of the Australian continent and were causing difficulties by devouring grass that was intended for sheep to consume and managing to out-eat them. </p><p><strong>Speaker 2:</strong> They were also consuming saplings, preventing them from growing into adult trees and presenting major challenges to the forestry sector. Before long, the rabbit population of Australia was in the billions and they appeared unstoppable. Even the fences erected in haste to prevent their continued migration were unable to do so. It's a problem that Australia is struggling with to this day. </p><p><strong>Speaker 2:</strong> But back in the 1860s, if someone wanted to import animals for a new business venture, there was nothing to prevent it. That's what happened with a Frenchman called Etienne Trouvillot, who introduced the gypsy moth from Europe to the United States in the hope that the silk produced by the worm could be used for the manufacture of clothing. Well, of course, it couldn't. </p><p><strong>Speaker 2:</strong> But what it could do, and did, was escape from captivity. And before long, it had settled throughout the northeast of the United States. A small mercy is that the male of the species is the only one to fly, which has of course slowed its spread, as the female cannot. Even so, the impact has been devastating, with the destruction caused by this moth alone costing some $3 billion a year across North America. </p><p><strong>Speaker 2:</strong> This just illustrates the huge problems that invasive species can present. Nowadays, this is well known, but that wasn't the case in the past. In those days, there was a great deal of interest in the idea of acclimatization, the idea that you could benefit the ecology of one region by introducing variety in the form of species from another region. </p><p><strong>Speaker 2:</strong> An example of this principle was demonstrated in 1890 by a German immigrant to America called Eugene Schieflin. He was a great admirer of Shakespeare and came up with a scheme to release every single bird species that featured in the great writer's plays. So, for example, he freed a group of 60 starlings in New York's Central Park. With no natural predators, Schieflin's introductions thrived and had soon spread right across North America, where they would often descend on orchards and eat everything in sight.</p><p><strong>Speaker 2:</strong> Now, for an example of an invasive plant species introduced from Europe to the so-called New World, we can consider gorse, which is an evergreen shrub with needle-like leaves. These prevent it from being eaten by grazing animals. Because of these properties, 19th century settlers figured it would be ideal for hedges and, to this end, they shipped some out to New Zealand. </p><p><strong>Speaker 2:</strong> What they didn't envisage, of course, was the way it would just spread out of control, invading pastureland and altering habitats for native wildlife. Setting fire to the stuff didn't have the desired effect of destroying it, as fresh seedlings just rose from the ashes. So, if anything, this attempted solution actually just made things worse. </p><p><strong>Speaker 2:</strong> So, now I'd like to turn...</p>"
+    }
+  ]
+}

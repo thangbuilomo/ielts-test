@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_55",
+  "module": "listening",
+  "question_count": 10,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2055.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> This recording is copyright. You will hear part of a lecture for students on a sustainability course about passive homes, buildings which are designed to be highly energy efficient. You now have some time to look at the questions on your screen. Now answer the questions on your screen. Welcome to today's lecture, in which I'd like to focus on buildings which achieve extremely high standards of energy efficiency through their design, especially with regard to heating or cooling. </p><p><strong>Speaker 1:</strong> Now, the buildings I'd like to tell you about today are all farmhouses. The first of these passive homes is Coom's Farm, built for a couple who'd spent much of their life living in buildings on farms which were often hundreds of years old. But these were very difficult to heat and keep warm. They tended to be damp. Plus, the tiny windows meant that light levels were low. So they wanted a new build which would be completely different.</p><p><strong>Speaker 1:</strong> When they engaged an architect to build them a new eco-house, she had to work around the very strict planning laws that were in place in the region. One of these stated that any new building needed to include a chimney, but as the house was designed with a heat pump, this was unnecessary. And the planners agreed in the end not to insist on this, which saved a substantial amount of money.</p><p><strong>Speaker 1:</strong> The building is a mix of ancient and modern technologies. So, for example, the roof, like many period buildings in the region, is built of slate, giving it quite a conventional look. But then the windows are triple glazed to the highest specifications, minimizing heat loss and the building also features solar thermal panels, helping to make it largely self-sufficient in terms of energy. And rather than send the sewage off down the mains to be disposed of and possibly ending up being dumped in the local river, the owners were keen for it to be dealt with in a compost tank right by the house. And the idea is that it will ultimately be used as fertilizer for the garden.</p><p><strong>Speaker 1:</strong> The next farmhouse I'm going to discuss is called Ballcross. And this case study illustrates how farm owners are often well placed to take advantage of the resources available on their land, which has the double advantage of saving cost and reducing the environmental impact of the building process. This was certainly the case at Ballcross. There were rocks across the owner's land, absolutely loads of them, something like 500 tons were collected in total. And these were used to construct the external walls of the new farmhouse. Obviously, doing that was inexpensive and it was carbon neutral.</p><p><strong>Speaker 1:</strong> Internally, the stairs, floors and various other components were constructed from the oak, which was sourced from around the farm, again, effectively at zero cost. The owners are sheep farmers. And so to insulate the walls, roof and floors, perhaps unsurprisingly, they turned to the wool from their own livestock. It did need to undergo some processing before being usable as an insulating material. But again, it was readily available, virtually free and, of course, completely renewable.</p><p><strong>Speaker 1:</strong> And finally, there's Edensor Farm. This house is designed around a courtyard, which forms the heart of the building. And the windows are carefully aligned with the sun to try and get solar heat gain to a maximum. And it's a really effective system. So much so that the entire house is heated by a single radiator, which is remarkable when you think about it. All the energy is sustainably sourced with a large array of photovoltaic panels on the roof that generate much of the electricity used in and by the house. And no gas whatsoever is needed by the building, enabling it to achieve a very low carbon footprint.</p><p><strong>Speaker 1:</strong> So going forward, it is high performing buildings like these which are driving the move towards decarbonisation. And there's no doubt that once you guys are starting your careers,</p>"
+    }
+  ]
+}

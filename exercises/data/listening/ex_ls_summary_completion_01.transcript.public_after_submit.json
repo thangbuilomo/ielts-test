@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_summary_completion_01",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/SUMMARY%20COMPLETION%2001.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Modern research has confirmed the health benefits of garlic that our ancestors believed in. Garlic may even prevent cancer because it contains vitamins such as C, A and B, which stimulate the immune system to eliminate toxins and combat carcinogens.</p><p><strong>Speaker 1:</strong> Research in 1858 by Louis Pasteur documented that garlic also kills bacteria. During World War II, when penicillin and sulfa drugs were scarce, garlic was used as an antiseptic to disinfect open wounds and prevent gangrene.</p><p><strong>Speaker 2:</strong> The properties responsible for these medicinal effects are not clearly understood. Recent research identifies hundreds of volatile sulfur compounds in the herb. For this reason, it may also become a valuable treatment for AIDS.</p><p><strong>Speaker 3:</strong> A study in China showed that people with the highest levels of dietary garlic have a reduced risk of stomach cancer. It can also kill 60 types of fungi and yeast, among them the common cause of athlete's foot.</p><p><strong>Speaker 1:</strong> Japanese scientists test its effects on patients with lumbago and arthritis. Experts split on the recommended daily amount of dietary garlic, from 1 to 10 cloves. However, most agree that fresh garlic is better than in supplement form.</p><p><strong>Speaker 2:</strong> How garlic is prepared also affects how it can be used. When the clove is cut or crushed, an enzyme contained within the plant's cells combines with an amino acid. This creates a new compound called allicin, which has been shown to kill 23 types of bacteria, including salmonella and staphylococcus.</p><p><strong>Speaker 3:</strong> When garlic is heated, a different compound is formed that can prevent arteries from clogging, and reduce blood pressure and cholesterol levels. Blood-thinning quality of garlic may also be helpful in preventing heart attacks and strokes.</p><p><strong>Speaker 1:</strong> Indian doctors have long pointed to studies that demonstrate garlic has a preventative effect on the development of arteriosclerosis, thrombosis and hypertension.</p>"
+    }
+  ]
+}

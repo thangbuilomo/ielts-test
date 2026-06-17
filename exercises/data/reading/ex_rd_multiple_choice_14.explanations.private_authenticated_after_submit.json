@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_14",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q14": {
+      "explanation": "Căn cứ nằm ở đoạn 7: \"We use segmentation to turn speech into comprehensible units and then use chunking to store those units in our short-term memory. This process works because the memory is able to process concepts, not just individual words. The more experienced you become in a language, the more meaningful each chunk becomes; the result being that you will be able to store more information in your short-term memory.\". Phương án A (Chunking means we can make better use of our short-term memory.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "We use segmentation to turn speech into comprehensible units and then use chunking to store those units in our short-term memory. This process works because the memory is able to process concepts, not just individual words. The more experienced you become in a language, the more meaningful each chunk becomes; the result being that you will be able to store more information in your short-term memory._"
+    },
+    "q15": {
+      "explanation": "Căn cứ nằm ở đoạn 3: \"The concept of chunking was first introduced by psychologist George Miller. Following experiments in 1956, he concluded that the short-term memory was capable of retaining between five and nine pieces of information at any one time. More recent studies have found that we can actually remember even fewer than this: between three and five pieces of information.\". Phương án B (Chunking reduces the individual pieces of information we have to remember.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "The concept of chunking was first introduced by psychologist George Miller. Following experiments in 1956, he concluded that the short-term memory was capable of retaining between five and nine pieces of information at any one time. More recent studies have found that we can actually remember even fewer than this: between three and five pieces of information._"
+    },
+    "q16": {
+      "explanation": "Căn cứ nằm ở đoạn 3: \"The concept of chunking was first introduced by psychologist George Miller. Following experiments in 1956, he concluded that the short-term memory was capable of retaining between five and nine pieces of information at any one time. More recent studies have found that we can actually remember even fewer than this: between three and five pieces of information.\". Phương án C (Chunking helps us to remember strings of numbers.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "The concept of chunking was first introduced by psychologist George Miller. Following experiments in 1956, he concluded that the short-term memory was capable of retaining between five and nine pieces of information at any one time. More recent studies have found that we can actually remember even fewer than this: between three and five pieces of information._"
+    },
+    "q17": {
+      "explanation": "Căn cứ nằm ở đoạn 3: \"So, why are we better at memorisation than monkeys are? The reason is that humans are much more skilled at chunking that information. While a monkey could only remember \"a bit of apple, a bit of banana, a bit of melon, and a bit of pineapple\", a human could store all of these as one information chunk – a fruit salad.\". Phương án F (Humans are more capable of chunking than another animal.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "So, why are we better at memorisation than monkeys are? The reason is that humans are much more skilled at chunking that information. While a monkey could only remember \"a bit of apple, a bit of banana, a bit of melon, and a bit of pineapple\", a human could store all of these as one information chunk – a fruit salad._"
+    },
+    "q18": {
+      "explanation": "Căn cứ nằm ở đoạn 4: \"Chunking is a particularly important concept in language learning, as it goes some way to explaining why listening is harder in a second language. This is particularly true during the early stages of learning, when the learner is likely to store chunks containing individual words rather than larger concepts. A novice language learner might hear the phrase \"the Empire State Building\" and hear every word individually, resulting in four chunks of information; this would effectively fill up their entire short-term memory.\". Phương án J (Being able to recognise chunks of language improves listening ability.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Chunking is a particularly important concept in language learning, as it goes some way to explaining why listening is harder in a second language. This is particularly true during the early stages of learning, when the learner is likely to store chunks containing individual words rather than larger concepts. A novice language learner might hear the phrase \"the Empire State Building\" and hear every word individually, resulting in four chunks of information; this would effectively fill up their entire short-term memory._"
+    }
+  }
+}

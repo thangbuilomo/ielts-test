@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_map_labelling_08",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MAP%20LABELLING%2008.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> OK, we're nearly ready. You'll be going off in your boats soon. I'm just going to show you on this map what route you can take today. So we're at the boathouse here, on the south side of the river, in the middle of the map. And the campsite, as you can see, is directly across the river from here on the opposite bank. The river's current is very gentle, so you can paddle either way. </p><p><strong>Speaker 1:</strong> If you start going east, that's toward the right on the map. You'll soon come to the fish restaurant. It's on your left after you go under the old stone bridge. There's space to moor your boat if you want to stop for lunch. </p><p><strong>Speaker 1:</strong> Or you might prefer to have a picnic of your own, and there's also a really good spot for that, with benches for you to sit on. And you'll find this where the river splits in two. So when you're having your sandwiches, you'll actually be on your very own island. </p><p><strong>Speaker 1:</strong> If you need a toilet, you'll have to go to the west of where we are now. If you see how the car park is almost surrounded by the river, well, the loo's are on the far side of the car park from here, so just beyond it, in other words, but on the same side of the water, the south side, I mean. </p><p><strong>Speaker 1:</strong> It's just by the sharp bend in the river. And then we have Frog Rock. That's a rock in the shape of a frog. At least, some people think it is. So to get there, when you're travelling west and you see a wooden bridge, there are some rocks there, but that's not Frog Rock. You need to keep going, and then it's on the right after you go under the bridge.</p>"
+    }
+  ]
+}

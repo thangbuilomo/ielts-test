@@ -1,0 +1,44 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_09",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q27": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The advantages of hydrogen are enormous: no more smog-forming exhaust fumes, no more carbon dioxide emissions that contribute to global warming, no more worries about diminishing oil supplies and rising prices. But some tricky questions need to be answered before mass-produced hydrogen cars start appearing on the streets.\". Heading vi (Hydrogen as a Fuel – Benefits and Concerns) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The advantages of hydrogen are enormous: no more smog-forming exhaust fumes, no more carbon dioxide emissions that contribute to global warming, no more worries about diminishing oil supplies and rising prices. But some tricky questions need to be answered before mass-produced hydrogen cars start appearing on the streets._"
+    },
+    "q28": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Two kinds of engines can use hydrogen as a fuel: those that have an internal combustion engine converted to use it and those that are made up of a stack of fuel cells. Internal combustion engines have powered cars since they first began to replace horse-drawn carriages more than 100 years ago.\". Heading xi (The Engine Dilemma) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Two kinds of engines can use hydrogen as a fuel: those that have an internal combustion engine converted to use it and those that are made up of a stack of fuel cells. Internal combustion engines have powered cars since they first began to replace horse-drawn carriages more than 100 years ago._"
+    },
+    "q29": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Fuel cell technology sounds simple. The hydrogen fuel reacts with oxygen from the air to produce water and electricity, the reverse of the familiar electrolysis process that releases oxygen and hydrogen from water.\". Heading viii (How the Process Works) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Fuel cell technology sounds simple. The hydrogen fuel reacts with oxygen from the air to produce water and electricity, the reverse of the familiar electrolysis process that releases oxygen and hydrogen from water._"
+    },
+    "q30": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Hydrogen has many advantages as a fuel for vehicles, but a big disadvantage is that it is difficult to store. This is because at normal temperatures hydrogen is a gas.\". Heading i (Where and How to Keep the Fuel) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Hydrogen has many advantages as a fuel for vehicles, but a big disadvantage is that it is difficult to store. This is because at normal temperatures hydrogen is a gas._"
+    },
+    "q31": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Although there is no risk that we will ever run out of hydrogen, on earth it exists naturally only in chemical compounds, not as hydrogen gas. A relatively simple principal technology, steam reforming, can produce hydrogen gas for cars at central plants or filling stations.\". Heading ix (Hydrogen Sources and Production) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Although there is no risk that we will ever run out of hydrogen, on earth it exists naturally only in chemical compounds, not as hydrogen gas. A relatively simple principal technology, steam reforming, can produce hydrogen gas for cars at central plants or filling stations._"
+    },
+    "q32": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"\"Remember the Hindenburg\" is a phrase often heard when hydrogen is discussed. This German passenger airship, kept aloft by hydrogen, crashed in flames as it came in to land at Lakehurst, New Jersey, USA in May 1937 killing 35 people.\". Heading iii (The Possible Danger of Combustible Hydrogen) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "\"Remember the Hindenburg\" is a phrase often heard when hydrogen is discussed. This German passenger airship, kept aloft by hydrogen, crashed in flames as it came in to land at Lakehurst, New Jersey, USA in May 1937 killing 35 people._"
+    },
+    "q33": {
+      "explanation": "Đoạn H tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Recent technological advances, particularly in fuel cell design, have made hydrogen-powered cars a practical proposition, and car manufacturers expect to start mass-producing them within the next decade or so. Their power and acceleration should match those of today’s conventionally powered vehicles, but they may have to be refuelled more often.\". Heading v (Looking Forward) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Recent technological advances, particularly in fuel cell design, have made hydrogen-powered cars a practical proposition, and car manufacturers expect to start mass-producing them within the next decade or so. Their power and acceleration should match those of today’s conventionally powered vehicles, but they may have to be refuelled more often._"
+    }
+  }
+}

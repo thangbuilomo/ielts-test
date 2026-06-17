@@ -1,0 +1,24 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_sentence_completion_15",
+  "module": "reading",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q26": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn D, bài viết nêu: \"As demand for greater quality increased, so the process became more refined with crushing stages being repeated numerous times, creating a finer powder. This led to the Pálffy brothers technique - the so-called ‘splitting process’ - involving the removal of stalks and seeds from the pods, leaving a semi-sweet paprika. The reason for this change in flavour is that the seeds contain capsaicin, the component which gives peppers their piquancy (and which is even more plentiful in chili peppers).\". Cụm capsaicin khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "As demand for greater quality increased, so the process became more refined with crushing stages being repeated numerous times, creating a finer powder. This led to the Pálffy brothers technique - the so-called ‘splitting process’ - involving the removal of stalks and seeds from the pods, leaving a semi-sweet paprika. The reason for this change in flavour is that the seeds contain capsaicin, the component which gives peppers their piquancy (and which is even more plentiful in chili peppers)._"
+    },
+    "q27": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn F, bài viết nêu: \"With an increase of public awareness of the nutritional value of ingredients, it is of comfort to learn that paprika has much to offer in this capacity. Szent Gyorgyi’s 1937 Nobel Prize-winning inquiry into the vitamin C content of pepper pods revealed they contain approximately seven times the immunity-boosting compound of oranges, although much of this is destroyed as the peppers are processed. It is nonetheless an excellent source of beta-carotene and potassium, which can be used to fight cholesterol, and the potential of creams containing capsaicin to aid in the reduction of joint pain and muscle stiffness has also led some nutritionists to suggest to elderly patients the use of the spice as a seasoning.\". Cụm immunity-boosting khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "With an increase of public awareness of the nutritional value of ingredients, it is of comfort to learn that paprika has much to offer in this capacity. Szent Gyorgyi’s 1937 Nobel Prize-winning inquiry into the vitamin C content of pepper pods revealed they contain approximately seven times the immunity-boosting compound of oranges, although much of this is destroyed as the peppers are processed. It is nonetheless an excellent source of beta-carotene and potassium, which can be used to fight cholesterol, and the potential of creams containing capsaicin to aid in the reduction of joint pain and muscle stiffness has also led some nutritionists to suggest to elderly patients the use of the spice as a seasoning._"
+    }
+  }
+}

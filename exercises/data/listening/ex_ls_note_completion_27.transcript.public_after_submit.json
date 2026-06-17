@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_27",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2027.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> So I've entered your details. Will you be coming to your classes by car?</p><p><strong>Speaker 1:</strong> Yes.</p><p><strong>Speaker 2:</strong> Where would be the best place to park?</p><p><strong>Speaker 1:</strong> Well, car parks C and D are both located next to the teaching buildings, but car park C is slightly closer to where you will be.</p><p><strong>Speaker 2:</strong> OK, thanks. And how do I get to my classrooms from there?</p><p><strong>Speaker 1:</strong> You need to find the Chroma building first. It's just past the big red Harper building, which you will see immediately opposite you as you enter the car park. Once you're inside the building, go to the second floor and look for room 316.</p><p><strong>Speaker 2:</strong> OK, great. Thanks. And who will the teacher be?</p><p><strong>Speaker 1:</strong> My friend mentioned a Mrs. Halliday and said she was excellent, though that was some years ago and she may have retired by now.</p><p><strong>Speaker 2:</strong> Actually, she's still working here, but she teaches the intermediate course. You'll be taking the starter course and the teacher for that is Mrs. Coley. She has written a book about glassmaking, so there's nobody better suited to introducing the subject.</p><p><strong>Speaker 1:</strong> Oh, good. It sounds like I've chosen the right course. </p><p><strong>Speaker 2:</strong> Oh, one other thing.</p><p><strong>Speaker 1:</strong> Yes?</p><p><strong>Speaker 2:</strong> Is there any kind of assessment? Will we get a certificate or anything when we finish the course?</p><p><strong>Speaker 1:</strong> Yes, you'll get a certificate if you attend at least 50% of the classes. There is also a final project, which will take place over the last three classes, but there is no formal assessment based on the work you do as part of it, and you get to take the pieces you've created home with you at the end of the course.</p><p><strong>Speaker 2:</strong> OK, that's perfect. I don't want to have to take it all too seriously. </p><p><strong>Speaker 1:</strong> So that just leaves the question of payment. You can pay for the whole course in one upfront payment, or you can pay on a lesson-by-lesson basis. If you pay upfront, you'll get a reduction of 10% on the total price.</p><p><strong>Speaker 2:</strong> Ah, OK. Well, unfortunately, my salary won't be in my bank account until next week, so I'll go for the pay-as-you-go option.</p><p><strong>Speaker 1:</strong> Sorry, I didn't make myself clear. You don't need to pay for it all today. You can still get the 10% reduction if you pay when you come for the first class, if you prefer.</p><p><strong>Speaker 2:</strong> Perfect. I'll do that then.</p><p><strong>Speaker 1:</strong> Fine. I've made a note of that.</p>"
+    }
+  ]
+}

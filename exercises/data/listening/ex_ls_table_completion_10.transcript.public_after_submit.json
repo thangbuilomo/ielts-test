@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_10",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2010.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Good morning, sir. Welcome to Cheapy's car hire. Can I help you?</p><p><strong>Speaker 3:</strong> Yes, please. I need to rent a car.</p><p><strong>Speaker 2:</strong> That's no problem, sir. When would you like it?</p><p><strong>Speaker 3:</strong> Tomorrow morning.</p><p><strong>Speaker 2:</strong> Let's look then. Today's the 6th of August, so you'll need it on the 7th of August.</p><p><strong>Speaker 3:</strong> That's right.</p><p><strong>Speaker 2:</strong> Now, I'll just need to take some details from you, sir. Can I take your name, please?</p><p><strong>Speaker 3:</strong> John Wilson.</p><p><strong>Speaker 2:</strong> And your home address?</p><p><strong>Speaker 3:</strong> 95 Green Lane, Manchester.</p><p><strong>Speaker 2:</strong> Green like the colour?</p><p><strong>Speaker 3:</strong> Yes, that's right.</p><p><strong>Speaker 2:</strong> And the postcode is MW74DF.</p><p><strong>Speaker 3:</strong> OK, got that.</p><p><strong>Speaker 2:</strong> Can I have your telephone numbers, please?</p><p><strong>Speaker 3:</strong> My home number is 020-6834-6387 and my mobile is 0779-724-868.</p><p><strong>Speaker 2:</strong> Sorry, I missed the mobile.</p><p><strong>Speaker 3:</strong> It's 0779-724-868.</p><p><strong>Speaker 2:</strong> Thanks. Now, are you the holder of a full current driver's license?</p><p><strong>Speaker 3:</strong> Yes, I am.</p><p><strong>Speaker 2:</strong> Could I take the number of the license, please?</p><p><strong>Speaker 3:</strong> Sure, let's have a look now. It's WIL948578269.</p><p><strong>Speaker 2:</strong> And will there be any other drivers or just you?</p><p><strong>Speaker 3:</strong> Only me, please.</p><p><strong>Speaker 2:</strong> OK, you said that you wanted the car tomorrow, but how long will you want it for?</p><p><strong>Speaker 3:</strong> Well, tomorrow's Friday the 7th and I want it for the whole weekend, so I'll bring it back on Monday morning.</p><p><strong>Speaker 2:</strong> I'll have to charge you for all Friday and Monday, sir.</p><p><strong>Speaker 3:</strong> That's OK.</p><p><strong>Speaker 2:</strong> Good. Now, what kind of car were you looking for, sir?</p><p><strong>Speaker 3:</strong> I'd like a fairly small car as I'll be driving a lot around town and a smaller car will be easier to get around and to park.</p><p><strong>Speaker 2:</strong> Yes, that's true. Well, I've got small sizes in the following types of car. A Ford, a Renault and a Toyota. They're pretty much the same, though the Toyota is in a cheaper price category.</p><p><strong>Speaker 3:</strong> I'll take the cheapest one, please.</p><p><strong>Speaker 2:</strong> And we can offer you a petrol or a diesel model with that car.</p><p><strong>Speaker 3:</strong> Oh, in that case, I'll take the diesel as that will be more economical.</p>"
+    }
+  ]
+}

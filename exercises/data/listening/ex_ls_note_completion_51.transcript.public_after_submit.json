@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_51",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2051.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> Good morning. I'm planning a trip to Thailand soon and I'd like to make a visa application, please. There seem to be so many different types.</p><p><strong>Speaker 2:</strong> You're right, there are, but there are two popular, more common ones.</p><p><strong>Speaker 1:</strong> What are the main differences between them?</p><p><strong>Speaker 2:</strong> The business visa lasts for 90 days. This is for people coming to begin work or do business in the country. The other one, which is for people going on holiday or for medical treatment, lasts 60 days.</p><p><strong>Speaker 1:</strong> Are you planning on travelling for work or pleasure?</p><p><strong>Speaker 1:</strong> I'm actually going to visit a friend who works over there, so for pleasure. I'll be doing a lot of travelling and sightseeing, I imagine.</p><p><strong>Speaker 2:</strong> OK, so you need the tourist visa. There are several things you need to make the application. Now, depending on your situation, we might have to ask you for additional documents, such as a birth certificate or driving licence, but we do need to see a passport in all cases.</p><p><strong>Speaker 1:</strong> I've got that here with me, and I've also taken a copy of it for you. I thought it might be necessary.</p><p><strong>Speaker 2:</strong> Let me see. I'm afraid you will need to apply for a new one. This one runs out in November, which is in five months, and it has to have at least six left on it for the visa application.</p><p><strong>Speaker 1:</strong> Right, I see. OK, I can do that. What else?</p><p><strong>Speaker 2:</strong> You need to complete this tourist visa application form and attach two photographs too. Do you have any passport photos?</p><p><strong>Speaker 1:</strong> No, but when I apply for my new passport, I will get some. Do they need to be the same size?</p><p><strong>Speaker 2:</strong> Exactly the same. They must be recent too, but that won't be a problem if you're getting some done anyway. Next thing is to complete the application form.</p><p><strong>Speaker 1:</strong> OK, let's see.</p>"
+    }
+  ]
+}

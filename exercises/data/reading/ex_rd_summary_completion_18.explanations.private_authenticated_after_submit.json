@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_summary_completion_18",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 2, bài viết nêu: \"Being formed by wind, desert sand is incredibly fine and rounded, with none of the sharp edges needed for human purposes, whereas sand dredged from rivers and ocean beds is perfect, as the water has insulated the grains, preventing them from rubbing against each other and losing their angular edges. In addition to beaches and riverbeds, we can also mine quartz sand from open pits, but these sources are rapidly depleting.\". Cụm rounded khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Being formed by wind, desert sand is incredibly fine and rounded, with none of the sharp edges needed for human purposes, whereas sand dredged from rivers and ocean beds is perfect, as the water has insulated the grains, preventing them from rubbing against each other and losing their angular edges. In addition to beaches and riverbeds, we can also mine quartz sand from open pits, but these sources are rapidly depleting._"
+    },
+    "q22": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 2, bài viết nêu: \"Being formed by wind, desert sand is incredibly fine and rounded, with none of the sharp edges needed for human purposes, whereas sand dredged from rivers and ocean beds is perfect, as the water has insulated the grains, preventing them from rubbing against each other and losing their angular edges. In addition to beaches and riverbeds, we can also mine quartz sand from open pits, but these sources are rapidly depleting.\". Cụm grains khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Being formed by wind, desert sand is incredibly fine and rounded, with none of the sharp edges needed for human purposes, whereas sand dredged from rivers and ocean beds is perfect, as the water has insulated the grains, preventing them from rubbing against each other and losing their angular edges. In addition to beaches and riverbeds, we can also mine quartz sand from open pits, but these sources are rapidly depleting._"
+    },
+    "q23": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 4, bài viết nêu: \"Extensive extraction alters rivers and coastal ecosystems and research shows sand mining has an adverse effect on many species - including dolphins, fish, crocodiles and crustaceans - due to their loss of habitats. The impact on humans is also potentially devastating because of the erosion of beaches and wetlands, whose geographical features protect communities from floods and storm surges and whose loss could be catastrophic.\". Cụm (coastal) ecosystems khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Extensive extraction alters rivers and coastal ecosystems and research shows sand mining has an adverse effect on many species - including dolphins, fish, crocodiles and crustaceans - due to their loss of habitats. The impact on humans is also potentially devastating because of the erosion of beaches and wetlands, whose geographical features protect communities from floods and storm surges and whose loss could be catastrophic._"
+    },
+    "q24": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 4, bài viết nêu: \"Extensive extraction alters rivers and coastal ecosystems and research shows sand mining has an adverse effect on many species - including dolphins, fish, crocodiles and crustaceans - due to their loss of habitats. The impact on humans is also potentially devastating because of the erosion of beaches and wetlands, whose geographical features protect communities from floods and storm surges and whose loss could be catastrophic.\". Cụm erosions khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Extensive extraction alters rivers and coastal ecosystems and research shows sand mining has an adverse effect on many species - including dolphins, fish, crocodiles and crustaceans - due to their loss of habitats. The impact on humans is also potentially devastating because of the erosion of beaches and wetlands, whose geographical features protect communities from floods and storm surges and whose loss could be catastrophic._"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_sentence_endings_04",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Câu 11 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn B chứa căn cứ: \"The males do not transmit the disease as they feed only on plant juices. There are about 380 species of anopheline mosquito, but only 60 or so are able to transmit the parasite. Their sensitivity to insecticides is also highly variable.\". Lựa chọn B (... are not always affected by insecticides.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "The males do not transmit the disease as they feed only on plant juices. There are about 380 species of anopheline mosquito, but only 60 or so are able to transmit the parasite. Their sensitivity to insecticides is also highly variable._"
+    },
+    "q12": {
+      "explanation": "Câu 12 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn C chứa căn cứ: \"Plasmodium develops in the gut of the mosquito and is passed on in the saliva of an infected insect each time it takes a new blood meal. The parasites are then carried by the blood into the victim’s liver where they invade the cells and multiply. After 9 to 16 days they return to the blood and penetrate the red cells where they multiply again, progressively breaking down the red cells.\". Lựa chọn H (... are later found again in the bloodstream.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Plasmodium develops in the gut of the mosquito and is passed on in the saliva of an infected insect each time it takes a new blood meal. The parasites are then carried by the blood into the victim’s liver where they invade the cells and multiply. After 9 to 16 days they return to the blood and penetrate the red cells where they multiply again, progressively breaking down the red cells._"
+    },
+    "q13": {
+      "explanation": "Câu 13 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn E chứa căn cứ: \"Quinine, the active ingredient of this potion, was first isolated by pharmacists in 1820. Although people were unaware of the origin of malaria and the mode of transmission, protective measures against the mosquito have been used for many hundreds of years. There are records that those living in swampy regions in Egypt slept in tower-like structures out of the reach of mosquitoes, whereas others slept under nets as early as 450 BC.\". Lựa chọn E (... have been implemented for centuries.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Quinine, the active ingredient of this potion, was first isolated by pharmacists in 1820. Although people were unaware of the origin of malaria and the mode of transmission, protective measures against the mosquito have been used for many hundreds of years. There are records that those living in swampy regions in Egypt slept in tower-like structures out of the reach of mosquitoes, whereas others slept under nets as early as 450 BC._"
+    },
+    "q14": {
+      "explanation": "Câu 14 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn G chứa căn cứ: \"In many areas of conflict, economic crises and administrative disorganisation can result in the disruption of health services. The absence of adequate health services frequently results in recourse to self-administration of drugs, often with incomplete treatment. This is a major factor in the increase in resistance of the parasites to previously effective drugs.\". Lựa chọn C (... .have resulted in parasitic resistance to treatment.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "In many areas of conflict, economic crises and administrative disorganisation can result in the disruption of health services. The absence of adequate health services frequently results in recourse to self-administration of drugs, often with incomplete treatment. This is a major factor in the increase in resistance of the parasites to previously effective drugs._"
+    }
+  }
+}

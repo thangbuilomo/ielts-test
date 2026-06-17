@@ -1,0 +1,126 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_multiple_choice_14",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "mcq_single",
+  "category_id": "multiple_choice",
+  "title": "Multiple Choice - Exercise 14",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2014.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_multiple_choice_14.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_multiple_choice_14.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_multiple_choice_14.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "mcq_single",
+          "skill_tags": [
+            "ls_mcq_single"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>MULTIPLE CHOICE 14</h1><p><strong>Questions 16 - 20</strong></p><p>Choose the correct letter, <strong>A, B or C</strong>.</p><p><strong>Westley Youth Centre - Evening Activities</strong></p><p>16 The Youth Centre's theatre workshop ...</p><table><thead><tr><th><strong>A</strong>    ... is free to join.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    ... lasts for 2 hours.</td><td></td></tr><tr><td><strong>C</strong>    ... puts on shows in a theatre in town.</td><td></td></tr></tbody></table><p>17 The Youth Centre's film evenings ...</p><table><thead><tr><th><strong>A</strong>    ... take place every week.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    ... show the latest film releases.</td><td></td></tr><tr><td><strong>C</strong>    ... are sponsored by a local film rental business.</td><td></td></tr></tbody></table><p>18 The Youth Centre's discos ...</p><table><thead><tr><th><strong>A</strong>    ... cost nothing extra for Youth Centre members.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    ... feature a professional disc jockey.</td><td></td></tr><tr><td><strong>C</strong>    ... are run under adult supervision.</td><td></td></tr></tbody></table><p>19 If any child repeatedly misbehaves ...</p><table><thead><tr><th><strong>A</strong>    ... they will be warned.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    ... the Youth Centre will contact their parents.</td><td></td></tr><tr><td><strong>C</strong>    ... they will be banned from entry to the Youth Centre for 1 month.</td><td></td></tr></tbody></table><p>20 Information about the Youth Centre can be found ...</p><table><thead><tr><th><strong>A</strong>    ... in the Youth Centre leaflets.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    ... on the Youth Centre website.</td><td></td></tr><tr><td><strong>C</strong>    ... in both the Youth Centre's leaflets and its website.</td><td></td></tr></tbody></table>",
+          "items": [
+            {
+              "question_id": "q16",
+              "number": 16,
+              "prompt_html": "The Youth Centre's theatre workshop ...",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q17",
+              "number": 17,
+              "prompt_html": "The Youth Centre's film evenings ...",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q18",
+              "number": 18,
+              "prompt_html": "The Youth Centre's discos ...",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q19",
+              "number": 19,
+              "prompt_html": "If any child repeatedly misbehaves ...",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q20",
+              "number": 20,
+              "prompt_html": "Information about the Youth Centre can be found ...",
+              "response_type": "text"
+            }
+          ],
+          "options": [
+            {
+              "label": "A",
+              "text": "... in the Youth Centre leaflets."
+            },
+            {
+              "label": "B",
+              "text": "... on the Youth Centre website."
+            },
+            {
+              "label": "C",
+              "text": "... in both the Youth Centre's leaflets and its website."
+            }
+          ],
+          "question_range": [
+            16,
+            20
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_multiple_choice_14",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_multiple_choice_14",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

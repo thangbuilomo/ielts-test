@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_29",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2029.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Would you be able to help me complete it?</p><p><strong>Speaker 2:</strong> Of course. Let's have a look.</p><p><strong>Speaker 1:</strong> Right, so fill in all your personal information.</p><p><strong>Speaker 2:</strong> Great. Nationality is British, surname is Johnston, and first name is Alan. Can I just confirm your middle name? It's not very clear on the form. Is that Senmor? S-E-N.</p><p><strong>Speaker 1:</strong> No, sorry, it's my handwriting. It should say Seymour. That's S-E-Y-M-O-U-R.</p><p><strong>Speaker 2:</strong> Thank you, I've got that now. So we also need your mobile number. Could I make a note of it?</p><p><strong>Speaker 1:</strong> Sure, it's 07822 953 007.</p><p><strong>Speaker 2:</strong> OK, so that's 07822 951 007.</p><p><strong>Speaker 1:</strong> No, sorry, it's 953 007.</p><p><strong>Speaker 2:</strong> Got it. Everything seems to be in order in that section of the form. Let's have a look at the next part about previous travel to the country.</p><p><strong>Speaker 1:</strong> Yes, do I need to complete that section, or is that only for long-term visas?</p><p><strong>Speaker 2:</strong> No, no, you have to complete it. So the first point asks if you have traveled to Thailand before.</p><p><strong>Speaker 1:</strong> Yes, but it was many years ago, in 1992 and 1990. Let me think. 1996. No, wait, that was the year I traveled to Vietnam. 1998.</p><p><strong>Speaker 2:</strong> OK. And when are you going to travel to Thailand this time? The date you give me must be no more than three months after the issue date of the visa.</p><p><strong>Speaker 1:</strong> I understand. Well, I'm supposed to be there for my friend's birthday in September.</p><p><strong>Speaker 2:</strong> And when exactly is your friend's birthday?</p><p><strong>Speaker 1:</strong> 15th of September.</p><p><strong>Speaker 2:</strong> Let's put down the first of that month, so you've got plenty of time to travel to the wedding.</p><p><strong>Speaker 1:</strong> Great. And what about this last part on the form, here? It asks about departure from Thailand. What should I write there?</p><p><strong>Speaker 2:</strong> If you're going to travel to another country after Thailand, instead of returning to England, you just need to write that in the space.</p><p><strong>Speaker 1:</strong> My friend and I are talking about going on to Bali after Thailand. But really, I think I'm going to come back home to England. He might go to Bali alone.</p><p><strong>Speaker 2:</strong> OK, so we can fill that part in. And that's everything. Now come back again with your new passport as soon as you have it, and we can issue your visa.</p><p><strong>Speaker 1:</strong> Thanks a lot for your help.</p>"
+    }
+  ]
+}

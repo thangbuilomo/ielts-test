@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_41",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q16": {
+      "explanation": "Người nói đang thông báo về công việc đầu tiên mà nhóm A cần thực hiện trong ngày tình nguyện. Thông tin giúp tìm ra đáp án là cụm từ \"clear the weeds\", cho thấy rằng công việc là dọn cỏ dại. Paraphrase quan trọng ở đây là \"clear the weeds\" có thể hiểu là \"dọn sạch cỏ dại\". Bẫy có thể là việc người nghe có thể nghĩ đến các loại cây khác nhưng thực tế câu hỏi yêu cầu cụ thể về cỏ dại. Đáp án đúng vì nó chính xác với thông tin được cung cấp trong câu nói.",
+      "evidence": "Most important today, and first on the list, is to clear the weeds from around the main walkway."
+    },
+    "q17": {
+      "explanation": "Người nói đang mô tả công việc của nhóm B trong khu vực lớn hơn. Thông tin giúp tìm ra đáp án là cụm từ \"cutting and clearing\", cho thấy rằng công việc bao gồm cả việc cắt và dọn dẹp. Paraphrase quan trọng là \"clearing\" có thể hiểu là \"dọn dẹp\". Bẫy có thể là người nghe có thể nghĩ rằng chỉ cần một từ liên quan đến cắt, nhưng thực tế cần cả hai từ. Đáp án đúng vì nó phản ánh chính xác công việc mà nhóm B sẽ thực hiện.",
+      "evidence": "Yes, once again, we'll be cutting and clearing, though we have some special large lawnmowers and strimmers for this."
+    },
+    "q18": {
+      "explanation": "Người nói đang chỉ ra rằng nhóm B sẽ thực hiện công việc sơn cầu. Thông tin giúp tìm ra đáp án là từ \"bridge\", cho thấy rằng đây là nơi cần được sơn. Paraphrase quan trọng là \"the bridge looks a little neglected\" có thể hiểu là \"cây cầu trông có vẻ bị bỏ bê\". Bẫy có thể là người nghe có thể nghĩ rằng có nhiều thứ cần sơn, nhưng thực tế chỉ có cầu được đề cập. Đáp án đúng vì nó chính xác với thông tin được cung cấp.",
+      "evidence": "As we make our way over there later, you'll probably notice the bridge looks a little neglected."
+    },
+    "q19": {
+      "explanation": "Người nói đang mô tả công việc của nhóm A trong việc thu hoạch rau. Thông tin giúp tìm ra đáp án là cụm từ \"large green bags\", cho thấy rằng đây là nơi mà rau sẽ được chuyển đến. Paraphrase quan trọng là \"transferring them to these large green bags\" có thể hiểu là \"chuyển chúng vào những chiếc túi lớn\". Bẫy có thể là người nghe có thể nghĩ rằng có thể có nhiều loại chứa khác nhau, nhưng thực tế chỉ có túi xanh lớn được đề cập. Đáp án đúng vì nó phản ánh chính xác thông tin trong câu nói.",
+      "evidence": "That's job for Group A, so they'll be doing some of that and transferring them to these large green bags."
+    },
+    "q20": {
+      "explanation": "Người nói đang mô tả công việc cuối cùng của nhóm B trong cửa hàng. Thông tin giúp tìm ra đáp án là từ \"serving\", cho thấy rằng công việc là phục vụ khách hàng. Paraphrase quan trọng là \"taking a turn serving customers\" có thể hiểu là \"thay phiên phục vụ khách hàng\". Bẫy có thể là người nghe có thể nghĩ rằng có nhiều công việc khác nhau, nhưng thực tế chỉ có phục vụ khách hàng được nhắc đến. Đáp án đúng vì nó chính xác với thông tin được cung cấp trong câu nói.",
+      "evidence": "before taking a turn serving customers at the till in the shop."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. We're going to have some breakfast first in the dining area of the main building, and then we'll get started with the jobs.  </p><p><strong>Speaker 1:</strong> We'll be splitting into two groups, A and B. Most important today, and first on the list, is to clear the weeds from around the main walkway. As you can see, they have grown somewhat over the summer. So we need to clear those so visitors, and ourselves, can walk up and down the path easily. That's the first job for Group A, please.  </p><p><strong>Speaker 1:</strong> Group B will be moving over the bridge and working in the larger overgrown area. Yes, once again, we'll be cutting and clearing, though we have some special large lawnmowers and strimmers for this. So even though it is a huge area of land, it shouldn't take too long.  </p><p><strong>Speaker 1:</strong> Once we have this part finished, we'll be doing a little painting. As we make our way over there later, you'll probably notice the bridge looks a little neglected. We've got some special paint, which is the same as the paint on the main building. Group B will do this, while Group A prepares lunch.  </p><p><strong>Speaker 1:</strong> After lunch, we'll be going down to the greenhouses and vegetable patches. There are lots of vegetables to pick and bring in. That's job for Group A, so they'll be doing some of that and transferring them to these large green bags, as well as, yes, you've guessed it, some more weeding for Group B, putting that waste into the brown bags.  </p><p><strong>Speaker 1:</strong> Then, on to the farm shop. Group A will separate the different vegetables, wash them, and put them into the plastic storage boxes. The final job for Group B will be to collect some eggs from the chicken coops and take them to the shop before taking a turn serving customers at the till in the shop, while Group A makes us all a well-deserved cup of tea, before we close at six o'clock.</p>"
+}

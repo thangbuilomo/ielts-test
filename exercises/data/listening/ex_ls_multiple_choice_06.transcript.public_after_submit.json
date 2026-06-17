@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_06",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2006.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. So, what are you going to talk to us about today, George?  </p><p>Speaker 2 (George): Well, for people from New South Wales and particularly Sydney, this will be of great interest, I hope. I'm going to tell you a little about Sydney Harbour Bridge.  </p><p><strong>Speaker 1:</strong> Wow, that'll be so interesting.  </p><p>Speaker 2 (George): I think so. To start with, I'd like to tell you a little about the size of the bridge. The arch span is 503 metres and the weight of the steel arch is 39,000 tonnes. The summit is 134 metres above mean sea level, though it can actually increase by as much as 18 centimetres on hot days as the result of steel expanding in heat. The two pairs of pylons at each end are about 89 metres high and are made of concrete and granite. The steel used for the bridge was largely imported. About 79% came from the United Kingdom, but the rest was Australian made. The granite was quarried in Moruya down the coast and the concrete is also Australian.  </p><p><strong>Speaker 1:</strong> So most of the steel used to make our great bridge actually came from England?  </p><p>Speaker 2 (George): Yes, I'm afraid so. However, the workforce were all Aussie.  </p><p><strong>Speaker 1:</strong> Thank God for that. When was the bridge actually built?  </p><p>Speaker 2 (George): The bridge was opened in 1932, but work first began in 1924 with the construction of the bridge approaches and spans, with two separate teams building the arch on each side working towards each other. The arch was successfully joined on August 19th, 1930. I'm afraid that working practices weren't very fair in those days and the local government demolished 438 homes which were in the way of the approaches and as many as 800 families living there were displaced without compensation. The standards of industrial safety were inadequate too. 16 workers died during its construction, mainly from falling off the bridge.  </p><p><strong>Speaker 1:</strong> I didn't realise that.  </p><p>Speaker 2 (George): Yes, the bridge was formally opened on the 19th of March 1932 by the Premier of New South Wales, Mr Jack Lang. When it was opened, it was the longest single span steel arch bridge in the world and it was one of the greatest engineering masterpieces of its time. Several songs were also composed in advance for the occasion, but these have now been largely lost or forgotten. However, three postage stamps were issued to commemorate the opening of the bridge and these still exist. One of these stamps with a face value of 5 shillings is now worth several hundred dollars.</p>"
+    }
+  ]
+}

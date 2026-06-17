@@ -1,0 +1,45 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_25",
+  "module": "listening",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói đang nói về loại tài khoản mà họ muốn mở tại ngân hàng UKB. Câu này cung cấp thông tin rõ ràng về loại tài khoản mà khách hàng quan tâm, đó là \"current account\" (tài khoản thanh toán). Paraphrase quan trọng ở đây là \"current account\" không được thay đổi trong ngữ cảnh, vì vậy nó là một từ khóa chính xác. Bẫy có thể là sự nhầm lẫn giữa \"savings account\" và \"current account\", nhưng câu hỏi yêu cầu thông tin cụ thể về tài khoản mà khách hàng muốn mở. Do đó, đáp án \"current\" là chính xác.",
+      "evidence": "Yes, I want to open a savings account, but today I'd like to find out more about opening a current account."
+    },
+    "q2": {
+      "explanation": "Người nói đang giải thích về chính sách thưởng cho khách hàng khi họ thực hiện nhiều giao dịch. Thông tin quan trọng giúp tìm ra đáp án là số tiền thưởng cụ thể được đề cập là £5. Paraphrase không có ở đây vì thông tin được trình bày rất rõ ràng. Bẫy có thể là sự nhầm lẫn với các con số khác, nhưng câu hỏi yêu cầu một con số cụ thể liên quan đến số tiền thưởng. Vì vậy, đáp án \"5\" là chính xác.",
+      "evidence": "We credit your account with £5 if you've made more than 10 transactions in the previous month."
+    },
+    "q3": {
+      "explanation": "Người nói đang mô tả cách ngân hàng thông báo cho khách hàng về các vấn đề liên quan đến tài khoản của họ. Thông tin quan trọng là ngân hàng không chỉ gửi tin nhắn mà còn gửi một bức thư. Paraphrase ở đây là \"letter\" không được thay đổi, và nó là một từ khóa quan trọng trong ngữ cảnh này. Bẫy có thể là sự nhầm lẫn với các hình thức giao tiếp khác, nhưng câu hỏi yêu cầu một hình thức cụ thể, đó là \"letter\". Do đó, đáp án \"letter\" là chính xác.",
+      "evidence": "In addition, we immediately send out a letter with this information too."
+    },
+    "q4": {
+      "explanation": "Người nói đang nói về chính sách trả lời cuộc gọi của ngân hàng. Thông tin quan trọng là thời gian cụ thể mà ngân hàng cam kết trả lời cuộc gọi là \"two minutes\". Paraphrase không có ở đây vì thông tin được trình bày rất rõ ràng. Bẫy có thể là sự nhầm lẫn với các khoảng thời gian khác, nhưng câu hỏi yêu cầu một khoảng thời gian cụ thể. Vì vậy, đáp án \"two minutes\" là chính xác.",
+      "evidence": "At our centre, our policy is to pick up the phone within two minutes."
+    },
+    "q5": {
+      "explanation": "Người nói đang nói về chính sách phí cho thẻ ghi nợ. Thông tin quan trọng là ngân hàng đã thay đổi chính sách và hiện tại không tính phí cho thẻ ghi nợ. Paraphrase ở đây là \"no charge\", điều này có nghĩa là không có phí nào được tính. Bẫy có thể là sự nhầm lẫn với các mức phí trước đây, nhưng câu hỏi yêu cầu thông tin về tình trạng hiện tại. Do đó, đáp án \"no charge\" là chính xác.",
+      "evidence": "We used to charge £10 per year, but now there's no charge."
+    },
+    "q6": {
+      "explanation": "Người nói đang xác nhận họ của khách hàng. Thông tin quan trọng là họ được đề cập trực tiếp và không có sự thay đổi nào. Paraphrase không có ở đây vì tên họ được nêu rõ ràng. Bẫy có thể là sự nhầm lẫn với các tên khác, nhưng câu hỏi yêu cầu họ cụ thể của khách hàng. Do đó, đáp án \"Ashbury\" là chính xác.",
+      "evidence": "And the surname is Ashbury."
+    },
+    "q7": {
+      "explanation": "Người nói đang cung cấp địa chỉ của khách hàng. Thông tin quan trọng là mã bưu điện được nêu rõ ràng và không có sự thay đổi nào. Paraphrase không có ở đây vì mã bưu điện được trình bày rất rõ ràng. Bẫy có thể là sự nhầm lẫn với các mã bưu điện khác, nhưng câu hỏi yêu cầu mã bưu điện cụ thể của địa chỉ. Do đó, đáp án \"GT59HS\" là chính xác.",
+      "evidence": "20 Pricely Lane, GT59HS."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1 (Tom Marsh):</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Thanks for coming in to see us about opening an account. I'm Tom Marsh. I'm the manager here at this branch of UKB Bank.</p><p><strong>Speaker 2 (Lisa Ashbury):</strong> Nice to meet you. Please, take a seat. So, I understand you're interested in opening an account with us?</p><p>Speaker 1 (Tom Marsh): Yes, I want to open a savings account, but today I'd like to find out more about opening a current account. Can you give me some details about it?</p><p>Speaker 1 (Tom Marsh): Of course. Well, there are no charges for using this type of account with us, like there are with some other banks. In fact, we reward you with a type of bonus at the end of each month. We credit your account with £5 if you've made more than 10 transactions in the previous month.</p><p>Speaker 2 (Lisa Ashbury): Great, but tell me, how good are you at getting in touch with customers? My current bank are not very good at communicating if there's a problem. No message, no call, no letter.</p><p>Speaker 1 (Tom Marsh): I see. We work in a slightly different way here at UKB. Any issues we see on the account and we send you a text message to your phone to advise you. In addition, we immediately send out a letter with this information too.</p><p>Speaker 2 (Lisa Ashbury): That sounds great. I know your customer service centre won an award last year for excellent service. I'm afraid I can't say the same for my existing bank. They take at least 20 minutes to even answer your call.</p><p>Speaker 1 (Tom Marsh): At our centre, our policy is to pick up the phone within two minutes. If this isn't possible due to high demand, we'll ring you back at a suitable time.</p><p>Speaker 2 (Lisa Ashbury): Sounds promising. So, what do you need from me to open the account?</p><p>Speaker 1 (Tom Marsh): Let's start with some personal details and then we'll get you an account number and card set up. By the way, is there a charge to have a debit card for the account? My current bank charges around £15 a year. No, maybe it's £20. Yes, I'm sure it is.</p><p>Speaker 1 (Tom Marsh): We used to charge £10 per year, but now there's no charge. And a checkbook is free of charge if you need one.</p><p>Speaker 2 (Lisa Ashbury): Great, let's open the account then.</p><p>Speaker 1 (Tom Marsh): OK. First name is Lisa, L-I-S-A, correct?</p><p>Speaker 2 (Lisa Ashbury): That's right.</p><p>Speaker 1 (Tom Marsh): And the surname is Ashbury. Can you just confirm the spelling of that for me?</p><p>Speaker 2 (Lisa Ashbury): Sure. It's A-S-H-B-E-R-R-Y, Mrs. Great. And your address, please?</p><p>Speaker 2 (Lisa Ashbury): 20 Pricely Lane, GT59HS.</p><p>Speaker 1 (Tom Marsh): Is that Pricely with an S?</p><p>Speaker 2 (Lisa Ashbury): A C.</p><p>Speaker 1 (Tom Marsh): And the postcode is GT59H for hotel, F for Freddie?</p><p>Speaker 2 (Lisa Ashbury): S.</p><p>Speaker 1 (Tom Marsh): No, it's S for sugar.</p><p>Speaker 2 (Lisa Ashbury): OK, I've got that. Now let's set up your bank accounts.</p>"
+}

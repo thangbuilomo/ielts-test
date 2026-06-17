@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_41",
+  "module": "listening",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2041.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now, answer the questions on your screen. Now I need to ask some things about the flat. What floor is it on?</p><p><strong>Speaker 2:</strong> Well, I wanted a first floor flat, but this is a ground floor one. I can use the garden with it, though.</p><p><strong>Speaker 1:</strong> Hmm, yes, but the premium will be a little higher, because, of course, a burglar finds it more difficult to enter a flat on the first floor.</p><p><strong>Speaker 2:</strong> Oh, I never thought about that. What about safety measures in the flat?</p><p><strong>Speaker 1:</strong> Well, there are two different keys for the front door, and one of them is a deadbolt, so that's quite good. I've been to the local shop and ordered a burglar alarm, too, which has a motion sensor and everything. It's not in yet, but it will be soon.</p><p><strong>Speaker 2:</strong> That's good. The windows are quite new and all double-glazed, so like all windows nowadays, they have extra locks on them, so that makes it quite secure.</p><p><strong>Speaker 1:</strong> That's good, too. So really, it's reasonably safe. That will make a difference on the premium. Do you know if there's a smoke alarm fitted in the flat?</p><p><strong>Speaker 2:</strong> I never thought of that. I think it's the law now if you're renting, so there must be.</p><p><strong>Speaker 1:</strong> Well, that's about it. Let's look now. I've got two quotes for you. First the car, and then the household. £750 fully comp for the car, or £500 third-party fire and theft. The contents is £100.</p><p><strong>Speaker 2:</strong> Does the contents cover me if I lose something or am robbed outside the home?</p><p><strong>Speaker 1:</strong> As long as it's in this country and on the list of items covered, yes.</p><p><strong>Speaker 2:</strong> Well, I'll keep the old car insurance as my present deal is better, and I'll take the contents. Can I pay by cheque?</p><p><strong>Speaker 1:</strong> Cash, cheque, credit card, anything you want.</p>"
+    }
+  ]
+}

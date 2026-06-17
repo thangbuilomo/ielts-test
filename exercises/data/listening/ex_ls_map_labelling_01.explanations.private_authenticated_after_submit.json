@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_map_labelling_01",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Người nói đang mô tả vị trí của Liên hiệp Sinh viên trong khuôn viên trường đại học. Thông tin giúp tìm ra đáp án là khi người nói nhắc đến \"the focal point of a lot of university life for most students,\" điều này cho thấy đây là một địa điểm quan trọng và phổ biến đối với sinh viên. Paraphrase quan trọng ở đây là \"focal point,\" có nghĩa là trung tâm hoặc điểm nhấn. Bẫy có thể là việc người nghe có thể nhầm lẫn với các địa điểm khác, nhưng câu nói rõ ràng chỉ định \"Students' Union\" là địa điểm chính. Vì vậy, đáp án A là chính xác.",
+      "evidence": "This is, of course, the Students' Union."
+    },
+    "q12": {
+      "explanation": "Người nói đang chỉ ra vị trí của Thư viện Đại học và so sánh nó với Liên hiệp Sinh viên. Thông tin giúp tìm ra đáp án là khoảng cách \"150 yards on the left of the Union,\" điều này giúp xác định vị trí chính xác của thư viện. Paraphrase quan trọng là \"focal point for the students,\" cho thấy thư viện cũng là một địa điểm quan trọng, mặc dù không phổ biến bằng Liên hiệp. Bẫy có thể là việc người nghe có thể nhầm lẫn với các địa điểm khác, nhưng câu nói rõ ràng chỉ định \"the University Library.\" Vì vậy, đáp án B là chính xác.",
+      "evidence": "About 150 yards on the left of the Union, as you look at it from here, is another focal point for the students, though not as popular as the Union, the University Library."
+    },
+    "q13": {
+      "explanation": "Người nói đang mô tả vị trí của nhà ăn trong khuôn viên trường. Thông tin giúp tìm ra đáp án là cụm từ \"behind the library,\" cho thấy vị trí của nhà ăn nằm ngay sau thư viện. Paraphrase quan trọng là \"main university refectory,\" có nghĩa là nhà ăn chính của trường. Bẫy có thể là việc người nghe có thể nghĩ đến các địa điểm ăn uống khác, nhưng câu nói rõ ràng chỉ định \"the main university refectory.\" Vì vậy, đáp án C là chính xác.",
+      "evidence": "Behind the library is the main university refectory where many students eat both lunch and dinner."
+    },
+    "q14": {
+      "explanation": "Người nói đang chỉ ra vị trí của nhà thể thao trong khuôn viên trường. Thông tin giúp tìm ra đáp án là cụm từ \"behind the hall that we are in now,\" cho thấy vị trí của nhà thể thao nằm ngay sau hội trường hiện tại. Paraphrase quan trọng là \"sports hall and grounds,\" có nghĩa là nhà thể thao và khu vực xung quanh. Bẫy có thể là việc người nghe có thể nhầm lẫn với các địa điểm khác, nhưng câu nói rõ ràng chỉ định \"the sports hall.\" Vì vậy, đáp án D là chính xác.",
+      "evidence": "Behind the hall that we are in now is the sports hall and grounds."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. If you look at the map on the overhead projector, let me talk you through some of the locations before describing some of them in more detail. </p><p><strong>Speaker 1:</strong> Well, at present, we are in the university's main lecture hall. If you go out of the main front entrance, then you will see opposite across the car park the entrance for the focal point of a lot of university life for most students. This is, of course, the Students' Union. </p><p><strong>Speaker 1:</strong> About 150 yards on the left of the Union, as you look at it from here, is another focal point for the students, though not as popular as the Union, the University Library. </p><p><strong>Speaker 1:</strong> Behind the library is the main university refectory where many students eat both lunch and dinner. On the other side of the Union is the college chapel, and behind that there is a small hall of residence. </p><p><strong>Speaker 1:</strong> There are three other halls of residence behind the Students' Union. Behind the hall that we are in now is the sports hall and grounds, and either side of us are academic departments with lecturers' offices, lecture halls, and various labs. </p><p><strong>Speaker 1:</strong> You will find it all a bit confusing at first, but you'll get to know your way around fairly quickly.</p>"
+}

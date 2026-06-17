@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_51",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q31": {
+      "explanation": "Người nói đang giải thích về khái niệm thiết kế thụ động trong kiến trúc. Thông tin giúp tìm ra đáp án là cụm từ \"designed to ensure thermal comfort\" và \"minimal use of heating or cooling equipment\", cho thấy rằng thiết kế thụ động nhằm giảm thiểu nhu cầu sử dụng năng lượng cho việc sưởi ấm và làm mát. Paraphrase quan trọng ở đây là \"ensure thermal comfort\" có thể hiểu là \"đảm bảo sự thoải mái nhiệt\". Bẫy có thể nằm ở các lựa chọn khác, nhưng chỉ có lựa chọn A là chính xác vì nó nêu rõ mục tiêu của thiết kế thụ động. Đáp án A đúng vì nó phản ánh đúng nội dung mà người nói đã trình bày.",
+      "evidence": "Passive design refers to the way buildings are designed to ensure thermal comfort for occupants within the building, with minimal use of heating or cooling equipment."
+    },
+    "q32": {
+      "explanation": "Người nói đang nói về xu hướng trong thiết kế nhà ở, nhấn mạnh rằng các tòa nhà sử dụng thiết kế thụ động có thể trở nên phổ biến hơn trong tương lai. Thông tin giúp tìm ra đáp án là cụm từ \"shift towards a greater upfront cost\" cho thấy sự thay đổi trong cách tiếp cận chi phí. Paraphrase quan trọng là \"greater upfront cost\" có thể hiểu là \"chi phí ban đầu cao hơn\". Bẫy có thể là sự nhầm lẫn với các lựa chọn khác liên quan đến chi phí, nhưng chỉ có lựa chọn B là chính xác vì nó phản ánh xu hướng tăng trưởng trong sự phổ biến của thiết kế thụ động. Đáp án B đúng vì nó phù hợp với nhận định của người nói về tương lai của thiết kế nhà ở.",
+      "evidence": "But lately, there has been a shift towards a greater upfront cost, balanced out by lower operational costs."
+    },
+    "q33": {
+      "explanation": "Người nói đang đề cập đến nhu cầu ngày càng tăng đối với các tòa nhà được xây dựng bằng các kỹ thuật và vật liệu tiết kiệm năng lượng. Thông tin giúp tìm ra đáp án là cụm từ \"looking to traditional solutions\" cho thấy sự quan tâm đến các phương pháp tiết kiệm năng lượng. Paraphrase quan trọng là \"low energy techniques and materials\" có thể hiểu là \"các kỹ thuật và vật liệu tiết kiệm năng lượng\". Bẫy có thể là sự nhầm lẫn với các lựa chọn khác liên quan đến chi phí, nhưng chỉ có lựa chọn A là chính xác vì nó phản ánh đúng nhu cầu trong tương lai. Đáp án A đúng vì nó phù hợp với xu hướng mà người nói đã đề cập.",
+      "evidence": "Accordingly, architects and designers have been looking to traditional solutions to these problems that can be found in different architectural traditions."
+    },
+    "q34": {
+      "explanation": "Người nói đang mô tả về sự không thoải mái tâm lý liên quan đến nhiệt độ trong không gian sống. Thông tin giúp tìm ra đáp án là cụm từ \"feel uncomfortable even if the room is a perfectly good temperature\" cho thấy rằng cảm giác không thoải mái có thể xảy ra trong những điều kiện lý tưởng. Paraphrase quan trọng là \"sitting beside a cold window\" có thể hiểu là \"ngồi bên cạnh một cửa sổ lạnh\". Bẫy có thể là sự nhầm lẫn với các lựa chọn khác liên quan đến cảm giác nhiệt, nhưng chỉ có lựa chọn B là chính xác vì nó phản ánh đúng nội dung mà người nói đã trình bày. Đáp án B đúng vì nó mô tả chính xác một ví dụ về sự không thoải mái tâm lý.",
+      "evidence": "I'm sure you've all noticed that we often feel uncomfortable even if the room is a perfectly good temperature, if we're, say, sitting in a draft or next to a cold window."
+    },
+    "q35": {
+      "explanation": "Người nói đang nói về vai trò của phần mềm thiết kế trong việc tạo ra sự thoải mái cho người sử dụng. Thông tin giúp tìm ra đáp án là cụm từ \"both physically and psychologically comfortable\" cho thấy rằng phần mềm có thể tạo ra cả hai loại sự thoải mái. Paraphrase quan trọng là \"physically thermal comfort\" và \"psychological comfort\" có thể hiểu là \"sự thoải mái nhiệt lý tưởng\" và \"sự thoải mái tâm lý\". Bẫy có thể là sự nhầm lẫn với các lựa chọn khác chỉ nói về một trong hai loại sự thoải mái, nhưng chỉ có lựa chọn C là chính xác vì nó nêu rõ rằng phần mềm có thể tạo ra cả hai loại sự thoải mái. Đáp án C đúng vì nó phản ánh đúng nội dung mà người nói đã trình bày.",
+      "evidence": "And although we can design buildings with a very good physical thermal comfort using software modelling techniques, psychological comfort is much more difficult to get right."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Today, we're going to start our series of lectures on designing buildings in relation to the climate. An important term in this context is passive design. Passive design refers to the way buildings are designed to ensure thermal comfort for occupants within the building, with minimal use of heating or cooling equipment. </p><p><strong>Speaker 1:</strong> It's said that about 40% of household energy use goes into heating or cooling the air in order to maintain a comfortable temperature. Obviously, with increasing energy insecurity, there is more and more pressure to reduce this figure, and with sensitive and intelligent passive design, we could easily decrease this percentage to 20% in the short term, and it is hoped, eventually eliminate it altogether. </p><p><strong>Speaker 1:</strong> In the past few decades, one of the main driving forces behind architectural design has been, I'm sorry to say, affordability. In other words, cheap houses made with cheap materials in basic designs. The reduction in construction cost has been passed on to the occupiers, who can then buy or rent their property without it costing them the earth. </p><p><strong>Speaker 1:</strong> But lately, there has been a shift towards a greater upfront cost, balanced out by lower operational costs. That is to say, the building may cost more to build, buy or rent, but it will cost less to maintain it at a comfortable temperature. </p><p><strong>Speaker 1:</strong> In terms of thermal comfort, humans are notoriously hard to please. Humans are sensitive not only to temperature, but also humidity, air movement, and exposure to heat sources or cool surfaces. Get any of these wrong, and humans will instinctively reach for some sort of appliance to make themselves more comfortable. </p><p><strong>Speaker 1:</strong> What's more, human thermal comfort is both physical and psychological. I'm sure you've all noticed that we often feel uncomfortable even if the room is a perfectly good temperature, if we're, say, sitting in a draft or next to a cold window. </p><p><strong>Speaker 1:</strong> And although we can design buildings with a very good physical thermal comfort using software modelling techniques, psychological comfort is much more difficult to get right. Accordingly, architects and designers have been looking to traditional solutions to these problems that can be found in different architectural traditions.</p>"
+}

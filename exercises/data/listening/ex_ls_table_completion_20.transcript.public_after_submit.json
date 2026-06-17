@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_20",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2020.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> So now let me tell you about some of the things that are going on right now in Wesley. At the museum, there is a special exhibition of Roman artifacts that have been found in the local area. You may not have known that there is the site of an old Roman town just outside the town of Wesley. </p><p><strong>Speaker 1:</strong> In the exhibition, you can see coins, weapons, pots and jewelry, amongst other ancient treasures. It is one of the best regarded exhibitions of its kind in the country. Normal entry to the museum is £10, but you can get a 50% reduction if you show a voucher from this hotel. These are available for free at the reception. </p><p><strong>Speaker 1:</strong> The cinema has a special season of old black and white films on at the moment. Every afternoon this week, there is a choice of three black and white films, different ones every day. Tickets are priced at £3. The schedule for the festival can be found at reception. </p><p><strong>Speaker 1:</strong> If you want to go to the cinema in the evening, then you will find the usual blockbusters available for £9 a film. The films for this week are on the same schedule as the festival one available at reception. </p><p><strong>Speaker 1:</strong> Tomorrow morning is the Wesley Market, which starts at 5am in the old market square. The market has an enormous variety of things for sale, from local fresh food and arts and crafts to second hand bargains and antiques. Go and have a browse or just wander for pleasure and eat at one of the many food stalls. </p><p><strong>Speaker 1:</strong> The weather forecast for tomorrow morning is excellent, so you could have a very interesting morning. The market closes at midday, but you might find all the bargains are gone if you arrive too late. </p><p><strong>Speaker 1:</strong> Finally, Wesley Town Football Club are playing their semi-final game in the County Cup tomorrow afternoon. You will be guaranteed an amazing atmosphere and an exciting afternoon sport, so sports lovers should not miss this. The game kicks off at 3pm and entry is priced at £5. Go early as the game will be popular and it will no doubt sell out before the game starts.</p>"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_summary_completion_03",
+  "module": "listening",
+  "question_count": 2,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q19": {
+      "explanation": "Người nói đang nói về vai trò của giáo dục trong việc cải thiện cuộc sống của các cô gái tại trường Maloto. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"out of poverty\", chỉ ra rằng cuộc sống mà các cô gái đang trải qua là nghèo đói. Paraphrase quan trọng ở đây là \"a life of poverty\" có thể được hiểu là \"cuộc sống nghèo khó\". Bẫy có thể là việc người nghe có thể nghĩ đến các từ khác như \"hardship\" hay \"struggle\", nhưng trong ngữ cảnh này, \"poverty\" là từ chính xác nhất. Đáp án đúng vì nó phản ánh chính xác tình trạng mà các cô gái đang phải đối mặt và mục tiêu của giáo dục mà trường Maloto hướng tới.",
+      "evidence": "It is their education that can lead them and their families out of poverty..."
+    },
+    "q20": {
+      "explanation": "Người nói đang đề cập đến việc trường Maloto tìm kiếm cách thức để hỗ trợ tài chính cho các cô gái trong quá trình học tập của họ. Thông tin quan trọng là cụm từ \"financial support\", cho thấy rằng các cô gái cần sự giúp đỡ về tài chính để có thể hoàn thành việc học đại học của mình. Paraphrase quan trọng ở đây là \"support\" có thể được hiểu là \"hỗ trợ\", và \"financial\" chỉ rõ rằng đó là hỗ trợ về mặt tiền bạc. Bẫy có thể là việc người nghe có thể nghĩ đến các từ như \"scholarship\" hay \"aid\", nhưng trong ngữ cảnh này, \"financial support\" là cụm từ chính xác nhất. Đáp án đúng vì nó thể hiện rõ ràng nhu cầu của các cô gái trong việc tiếp tục học tập và hoàn thành sự nghiệp đại học của họ.",
+      "evidence": "we are exploring avenues to continue to give financial support to these girls as their education continues."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Our operation is basic. Only one classroom, only one teacher, only 17 pupils. There are basic materials and there are no computers. Computers are a pipe dream for 10 years in the future. But the future is what we look to. These girls can be the future in their country and it is their education that can lead them and their families out of poverty and into a life of opportunities. Already three of our girls have achieved places at the area capital's university and we are exploring avenues to continue to give financial support to these girls as their education continues. </p><p><strong>Speaker 1:</strong> Now, does anyone have any initial questions?</p>"
+}

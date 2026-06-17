@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_flow_chart_completion_06",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/FLOW%20CHART%20COMPLETION%2006.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Do you have your notes?</p><p><strong>Speaker 2:</strong> Yes, here they are. Um, so what I'm not really sure about is how to structure it.</p><p><strong>Speaker 1:</strong> Well, what you need to start by doing is looking at the module handbook. This tells you the knowledge and skills that you have to demonstrate. If you take notes on these things, then you will have the content that you need.</p><p><strong>Speaker 2:</strong> OK, I'll have a look at that again. That's good to know. But I'm still not sure about the structure. Is it like an essay?</p><p><strong>Speaker 1:</strong> No, the portfolio has a different structure. I don't really want to tell you exactly how to do it, as there are different ways that are good for different people. After organizing your notes, you could go to the library and look at the student assignment there from last year. It's in the section near the study skills books. It was a really good example and you can get some ideas about layout. I'll email you the details.</p><p><strong>Speaker 2:</strong> Thanks, that would be great. So, do I need to choose some headings?</p><p><strong>Speaker 1:</strong> Yes, you can look at the learning objectives for the course to get ideas about that. There's a list of different things which you could discuss in each section. Evidence of problem solving, understanding of organizational structure, evaluation of training, and so on.</p><p><strong>Speaker 2:</strong> OK, that's kind of clear. So, can I write a draft and then get some feedback from you?</p><p><strong>Speaker 1:</strong> Well, like all written work, I can only give you feedback on 20% of it. So, I suggest that you write a couple of sections and I'll look at that.</p><p><strong>Speaker 2:</strong> Thanks, that'll help a lot, just to let me know if I'm on the right track. Also, there's another great place to check suggestions, get feedback and bounce ideas around, and that's the online forum. All of your classmates are posting and can answer any questions you have. And getting into a discussion online is a great way to develop your thoughts further.</p><p><strong>Speaker 2:</strong> Yes, I'd forgotten about that. Thanks, you've given me a lot to get on with.</p><p><strong>Speaker 1:</strong> Oh, one last thing. Make sure that after you've finished, you get somebody else to proofread it for you. If you do it yourself, then you might miss things. I always recommend that my students swap papers to look for errors and make suggestions.</p><p><strong>Speaker 2:</strong> OK, will do. Thanks a lot, Sarah. </p><p><strong>Speaker 1:</strong> No problem. I look forward to seeing what you come up with.</p>"
+    }
+  ]
+}

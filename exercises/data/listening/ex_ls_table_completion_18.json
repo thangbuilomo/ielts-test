@@ -1,0 +1,112 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_table_completion_18",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "table_completion",
+  "category_id": "table_completion",
+  "title": "Table Completion - Exercise 18",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2018.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_table_completion_18.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_table_completion_18.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_table_completion_18.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "table_completion",
+          "skill_tags": [
+            "ls_comp_table"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>TABLE COMPLETION 18</h1><p><strong>Questions 1 - 5</strong></p><p>Complete the notes.</p><p>Use <strong>NO MORE THAN FOUR WORDS AND / OR A NUMBER / SOME LETTERS</strong> for each answer.</p><p><strong>The Laine Hotel</strong></p><p>Booking Notes</p><table class=\"table-first-col-center\"><thead><tr><th>Name</th><th>Julia Olson</th></tr></thead><tbody><tr><td>Reference number</td><td><blank data-qid=\"q1\"/> 3729 434</td></tr><tr><td>Website</td><td>booknet.com</td></tr><tr><td>Room type</td><td>Single comfort</td></tr><tr><td>Length of stay</td><td><blank data-qid=\"q2\"/></td></tr><tr><td>Method of payment</td><td><blank data-qid=\"q3\"/></td></tr><tr><td>Full daily rate</td><td><blank data-qid=\"q4\"/> $ <blank/></td></tr><tr><td>(including breakfast and taxes)</td><td></td></tr><tr><td>Room number</td><td><blank data-qid=\"q5\"/></td></tr><tr><td>Alarm call time</td><td>6 a.m.</td></tr></tbody></table>",
+          "items": [
+            {
+              "question_id": "q1",
+              "number": 1,
+              "prompt_html": "Question 1",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q2",
+              "number": 2,
+              "prompt_html": "Question 2",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q3",
+              "number": 3,
+              "prompt_html": "Question 3",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q4",
+              "number": 4,
+              "prompt_html": "Question 4",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q5",
+              "number": 5,
+              "prompt_html": "Question 5",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            1,
+            5
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_table_completion_18",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_table_completion_18",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

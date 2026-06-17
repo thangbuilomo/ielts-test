@@ -1,0 +1,101 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_matching_headings_13",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 6,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "matching_headings",
+  "category_id": "matching_headings",
+  "title": "Matching Headings To Paragraphs - Exercise 13",
+  "duration_seconds": 0,
+  "content": {
+    "title": "Whale Sharks",
+    "content_html": "<h1>MATCHING HEADINGS TO PARAGRAPHS 13</h1>\n<h2>Whale Sharks</h2>\n<p><strong>A\n</strong>Whale sharks are the largest fish in the world, with the longest ever recorded at over 13.5 metres. Fortunately, they are gentle filter feeders that suck in plankton and small fish. Curiously, there are rows of tiny teeth within the whale shark’s impressively large mouth, the purpose of which nobody as yet understands. The whale shark is generally considered harmless and is not aggressive towards humans in the water. There have, however, been a few instances of boats being butted by whale sharks, possibly after the sharks had been provoked. Divers are also warned to steer clear of the powerful tail and follow the Whale Shark Code of Conduct at all times.</p>\n<p><strong>B\n</strong>There are several significant threats to whale sharks’ survival. Healthy ecosystems are essential for the continuing presence of whale sharks and the destruction or spoiling of their environments directly affects whale shark populations. Environment loss occurs in many ways. For example, overfishing of reef fish allows population explosions of coral grazers, causing a reduction in food. Maritime construction and development again cause damage and environment loss, but also lead to an increase in pollution. Pollution from land, increased boat traffic and tourism can affect whale sharks both directly and indirectly, most significantly by destroying prey populations. Another issue is that habitat destruction, elevated noise and pollution from boat traffic may affect migration patterns, and migration is an essential part of the whale shark’s life history in order to feed, mate and give birth.</p>\n<p><strong>C\n</strong>Disturbance or harassment of individual sharks by boats and divers have an unknown impact on sharks and their migration. Furthermore, whale sharks are vulnerable to damage from being struck by boats whilst they are feeding at the surface and many whale sharks have boat scars from previous impacts. There is no information, however, on how significant this threat is to whale sharks nor how commonly this occurs. Often the shark is used as an indicator of waters rich in plankton-feeding fish that will, in turn, attract more valuable species such as tuna, and so whale sharks can be disturbed by boats hunting these other fish.</p>\n<p><strong>D\n</strong>Whale shark catches have greatly declined over recent years, and this is due to the underlying decline in population. All of the whale shark fisheries in India, Taiwan and the Philippines reported declines not only in catches but in the average size of sharks caught too. This, however, has not reduced the consumption of whale shark. Despite the fact that these animals are protected under international law, whale shark products are readily available where fisheries remain and continue to fetch high prices on the international market.</p>\n<p><strong>E\n</strong>Fishing for meat and the fins of the whale shark poses a very serious threat to whale shark populations and their survival. The meat is highly valued and sells for a high price in many Asian countries with the flesh of the whale shark being consumed fresh, frozen and salted for meat. Many other body parts of the shark are also sought after; the liver is processed for oil, the fins for soup, the offal for fish meal, the cartilage for health supplements in Chinese medicine and the skin has been used for leather or shagreen products. Even the liver oil is utilised for waterproofing wooden fishing boats and other appliances, for the manufacture of shoe polish and as a treatment for some skin diseases.</p>\n<p><strong>F\n</strong>The whale shark’s large size and specialised diet means this species is difficult to keep in marine zoos, and it has, as yet, not become a mainstream show species. Individuals have, however, been kept in aquaria in Japan, although scientific opinion is divided as to whether this will be able to positively affect wild populations of whale sharks.</p>\n<p><strong>G\n</strong>The whale shark has an enormous mouth that can be more than 1.5 metres wide. Whereas other plankton-feeders swim slowly through the water, mouth agape, with the forward motion driving plankton-laden water into their mouths, the whale shark distends its jaws and actively sucks, drawing water containing microscopic, free-swimming items, such as small crustaceans, fishes and squids, into its mouth. Gill rakers - special structures on the gills - filter out any organism over 2 to 3 millimetres in size, meaning that almost nothing but liquid passes back out through the gills. Whale sharks have been observed \"coughing\", which is thought to be a method of clearing food particles that have accumulated on the gill rakers. Prey items are located primarily by olfactory senses. Whereas the eyes of the whale shark are tiny with relatively poor vision, the well developed nostrils located on either side of the upper jaw are thought to sense plankton density. Furthermore, whale sharks are seen to sweep their heads from side to side as they swim to maximise plankton intake, turning frequently to remain in denser plankton patches. Whilst usually solitary creatures, there are reports of groups of whale sharks feeding at the same time, however, this may be more linked to plankton density than a desire to congregate.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_matching_headings_13.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_matching_headings_13.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "matching_headings",
+          "skill_tags": [
+            "rd_matching_headings"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 15 - 20</strong></p>\n<p>The text has seven paragraphs, <strong>A - G</strong>.</p>\n<p>Choose the correct heading for each paragraph.</p>\n<p>Write the appropriate number (<strong>i - x</strong>).</p>\n<table>\n<tr>\n<td>*Example*</td>\n<td>*Answer*</td>\n</tr>\n<tr>\n<td>Paragraph A</td>\n<td><strong>*iv</strong>*</td>\n</tr>\n</table>\n\n<p>15 Paragraph B</p>\n<p>16 Paragraph C</p>\n<p>17 Paragraph D</p>\n<p>18 Paragraph E</p>\n<p>19 Paragraph F</p>\n<p>20 Paragraph G</p>\n<table>\n<tr>\n<td><strong>i</strong></td>\n<td>Products for Human Consumption</td>\n</tr>\n<tr>\n<td><strong>ii</strong></td>\n<td>Numbers and Trade</td>\n</tr>\n<tr>\n<td><strong>iii</strong></td>\n<td>Partnership Conservation</td>\n</tr>\n<tr>\n<td><strong>iv</strong></td>\n<td>The Threat to Humans</td>\n</tr>\n<tr>\n<td><strong>v</strong></td>\n<td>The Whale Shark in Captivity</td>\n</tr>\n<tr>\n<td><strong>vi</strong></td>\n<td>Diet and Method of Feeding</td>\n</tr>\n<tr>\n<td><strong>vii</strong></td>\n<td>Human Interference</td>\n</tr>\n<tr>\n<td><strong>viii</strong></td>\n<td>Japanese Whale Shark Fishing</td>\n</tr>\n<tr>\n<td><strong>ix</strong></td>\n<td>Habitat Damage</td>\n</tr>\n<tr>\n<td><strong>x</strong></td>\n<td>Hopes for the Future</td>\n</tr>\n</table>",
+          "items": [
+            {
+              "question_id": "q15",
+              "number": 15,
+              "prompt_html": "Paragraph B",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q16",
+              "number": 16,
+              "prompt_html": "Paragraph C",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q17",
+              "number": 17,
+              "prompt_html": "Paragraph D",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q18",
+              "number": 18,
+              "prompt_html": "Paragraph E",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q19",
+              "number": 19,
+              "prompt_html": "Paragraph F",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q20",
+              "number": 20,
+              "prompt_html": "Paragraph G",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            15,
+            20
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

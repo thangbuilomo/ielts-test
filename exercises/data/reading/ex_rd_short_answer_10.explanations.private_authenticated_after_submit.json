@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_short_answer_10",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q9": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn A, bài viết nêu: \"Throughout the last century, numerous foods have hit the headlines as a threat to human health. In the 1920s, milk was supposedly full of dangerous bacteria; in the 80s, America was told that chemicals on apples caused cancer, and cholesterol has been hero and villain several times over. Reducing our fat intake has been the main message of health marketing in recent years, but many medical experts say this is trivial compared to the dangers posed by sugar.\". Cụm apples khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Throughout the last century, numerous foods have hit the headlines as a threat to human health. In the 1920s, milk was supposedly full of dangerous bacteria; in the 80s, America was told that chemicals on apples caused cancer, and cholesterol has been hero and villain several times over. Reducing our fat intake has been the main message of health marketing in recent years, but many medical experts say this is trivial compared to the dangers posed by sugar._"
+    },
+    "q10": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn B, bài viết nêu: \"It also increased our fat-storing ability, useful as winter approached. We evolved to seek out these energy-dense foods through tongue receptors that responded positively to the taste of fructose. This was beneficial when sweet snacks were seldom found in the wild, but today, with mass sugarcane plantations, and sugar-rich snacks available in every store, we still crave the rare treats that aren’t so rare anymore.\". Cụm fructose khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "It also increased our fat-storing ability, useful as winter approached. We evolved to seek out these energy-dense foods through tongue receptors that responded positively to the taste of fructose. This was beneficial when sweet snacks were seldom found in the wild, but today, with mass sugarcane plantations, and sugar-rich snacks available in every store, we still crave the rare treats that aren’t so rare anymore._"
+    },
+    "q11": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn C, bài viết nêu: \"A UK study found nearly half of all mothers believed their children to be addicted to sugar, but the same study showed very few of those mothers were aware just how much everyday food, like fruit juice, or even fat-free yoghurt contained. Besides causing a number of health-related risks, constantly feeding it to children can make them dependent on it and change their perception of sweetness. Children who are used to sweet food won’t appreciate more subtle, delicate flavours; fizzy drinks and sweets may be ruining their palate.\". Cụm palate khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "A UK study found nearly half of all mothers believed their children to be addicted to sugar, but the same study showed very few of those mothers were aware just how much everyday food, like fruit juice, or even fat-free yoghurt contained. Besides causing a number of health-related risks, constantly feeding it to children can make them dependent on it and change their perception of sweetness. Children who are used to sweet food won’t appreciate more subtle, delicate flavours; fizzy drinks and sweets may be ruining their palate._"
+    },
+    "q12": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn F, bài viết nêu: \"Some of these bacteria feed on the sugars we eat and release acids which dissolve and erode our tooth enamel, resulting in cavities. Nevertheless, brushing your teeth regularly may not be the solution. Professor of dentistry at St Louis University, Glennon Engleman, warns regular brushers: “Many people think that if they indulge in their favourite sugary snacks, it won’t damage their teeth as long as they brush them straight after.” He even gives evidence that brushing may be causing more harm than good. “The bacteria’s acid weakens the enamel,so brushing will damage or remove the protective layers of your teeth.” So, what solution does Engleman propose? “Just cut out the sugar!\". Cụm brushing khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Some of these bacteria feed on the sugars we eat and release acids which dissolve and erode our tooth enamel, resulting in cavities. Nevertheless, brushing your teeth regularly may not be the solution. Professor of dentistry at St Louis University, Glennon Engleman, warns regular brushers: “Many people think that if they indulge in their favourite sugary snacks, it won’t damage their teeth as long as they brush them straight after.” He even gives evidence that brushing may be causing more harm than good. “The bacteria’s acid weakens the enamel,so brushing will damage or remove the protective layers of your teeth.” So, what solution does Engleman propose? “Just cut out the sugar!_"
+    },
+    "q13": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn H, bài viết nêu: \"Healthy eating advocates say the first step is to be aware of the amounts in our food. For example, seemingly healthy orange juice could contain as much sugar as cola. Ingredient labels can be misleading, as it can have many names: sucrose, fructose and corn syrup are three of the main offenders.\". Cụm labels khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Healthy eating advocates say the first step is to be aware of the amounts in our food. For example, seemingly healthy orange juice could contain as much sugar as cola. Ingredient labels can be misleading, as it can have many names: sucrose, fructose and corn syrup are three of the main offenders._"
+    }
+  }
+}

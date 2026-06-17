@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_24",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q16": {
+      "explanation": "Người nói đang mô tả về bộ sưu tập nổi tiếng của Gatfield Park, đặc biệt là đồ sứ. Thông tin giúp tìm ra đáp án là cụm từ \"the china for which Gatfield Park is so justly famous\", cho thấy rằng đồ sứ là một phần quan trọng trong bộ sưu tập của công viên. Paraphrase quan trọng ở đây là \"a lot of the china\", tức là \"nhiều đồ sứ\". Bẫy có thể là việc người nghe có thể nghĩ đến các bộ sưu tập khác nhưng câu nói rõ ràng chỉ ra rằng đồ sứ là thứ nổi bật nhất. Vì vậy, đáp án \"china\" là chính xác.",
+      "evidence": "There is also a lot of the china for which Gatfield Park is so justly famous."
+    },
+    "q17": {
+      "explanation": "Người nói đang mô tả nội thất của các phòng ngủ, đặc biệt là phòng ngủ chính của Lord Gatfield. Thông tin giúp tìm ra đáp án là cụm từ \"antique furniture\", cho thấy rằng đồ nội thất là một phần quan trọng trong trải nghiệm tham quan. Paraphrase quan trọng ở đây là \"antique furniture\", tức là \"đồ nội thất cổ\". Bẫy có thể là việc người nghe có thể nghĩ rằng có nhiều thứ khác trong phòng, nhưng câu nói rõ ràng chỉ ra rằng đồ nội thất cổ là thứ nổi bật nhất. Vì vậy, đáp án \"furniture\" là chính xác.",
+      "evidence": "You will see the antique furniture, carpets and the superb view over the gardens."
+    },
+    "q18": {
+      "explanation": "Người nói đang nói về những người làm việc trong nhà Gatfield Park, nhấn mạnh rằng có một đội ngũ lớn phục vụ cho các nhu cầu của gia đình. Thông tin giúp tìm ra đáp án là cụm từ \"large staff\", cho thấy rằng đội ngũ nhân viên là một phần quan trọng trong hoạt động của ngôi nhà. Paraphrase quan trọng ở đây là \"staff\", tức là \"đội ngũ nhân viên\". Bẫy có thể là việc người nghe có thể nghĩ đến các thành viên trong gia đình, nhưng câu nói rõ ràng chỉ ra rằng đội ngũ nhân viên là những người sống và làm việc ở đó. Vì vậy, đáp án \"staff\" là chính xác.",
+      "evidence": "For houses of this size, a large staff was required to clean, cook, serve and garden."
+    },
+    "q19": {
+      "explanation": "Người nói đang mô tả các khu vực phía sau của ngôi nhà, nơi mà nhân viên sống và làm việc. Thông tin giúp tìm ra đáp án là cụm từ \"laundry rooms\", cho thấy rằng phòng giặt là một phần quan trọng trong không gian sống của nhân viên. Paraphrase quan trọng ở đây là \"laundry rooms\", tức là \"phòng giặt\". Bẫy có thể là việc người nghe có thể nghĩ rằng có nhiều loại phòng khác, nhưng câu nói rõ ràng chỉ ra rằng phòng giặt là một phần không thể thiếu. Vì vậy, đáp án \"laundry\" là chính xác.",
+      "evidence": "you will also see their rooms and the back corridors, kitchens, laundry rooms, storerooms, amongst others."
+    },
+    "q20": {
+      "explanation": "Người nói đang mô tả các tiện ích có sẵn sau khi tham quan Gatfield Park, đặc biệt là các cửa hàng gần lối vào. Thông tin giúp tìm ra đáp án là cụm từ \"main gateway entrance\", cho thấy rằng lối vào chính là nơi có các cửa hàng. Paraphrase quan trọng ở đây là \"entrance\", tức là \"lối vào\". Bẫy có thể là việc người nghe có thể nghĩ rằng có nhiều địa điểm khác nhau, nhưng câu nói rõ ràng chỉ ra rằng lối vào chính là nơi có cửa hàng. Vì vậy, đáp án \"entrance\" là chính xác.",
+      "evidence": "There are two small shops at the main gateway entrance."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. After the reception rooms, we will pass into the library where you will see the family's collection of over 4,000 books, some of which are extremely rare and valuable. There is also a lot of the china for which Gatfield Park is so justly famous.</p><p><strong>Speaker 1:</strong> After the library, we will have a quick view of the billiard room. This is where the gentlemen of the house would play snooker or billiards in the evening and smoke their cigars and drink their brandies.</p><p><strong>Speaker 1:</strong> After the billiard room, we will go upstairs and look over the bedrooms and bathrooms. Again, we will have a window into the past, albeit a very wealthy past. You will see rooms decorated to the most lavish degree.</p><p><strong>Speaker 1:</strong> The most impressive is the master bedroom of Lord Gatfield, which is larger than the average family's floor space in their house. You will see the antique furniture, carpets and the superb view over the gardens.</p><p><strong>Speaker 1:</strong> When we have finished looking at the bedrooms and bathrooms, we will look at the behind the scenes areas that most people do not think about nowadays. For houses of this size, a large staff was required to clean, cook, serve and garden. These people had to live, work and sleep as well at Gatfield Park, so you will also see their rooms and the back corridors, kitchens, laundry rooms, storerooms, amongst others.</p><p><strong>Speaker 1:</strong> After the tour of the inside of Gatfield Park, you will be at liberty to wander around the gardens until 5 pm, which is when Gatfield Park closes. There are two small shops at the main gateway entrance.</p><p><strong>Speaker 1:</strong> If you get hungry, there is a small cafe that sells hot and cold food, along with drinks, and also a gift shop where you can buy souvenirs of the house and literature on the house and local area.</p>"
+}

@@ -1,0 +1,118 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_note_completion_21",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 6,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "note_completion",
+  "category_id": "note_completion",
+  "title": "Note Completion - Exercise 21",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2021.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_note_completion_21.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_note_completion_21.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_note_completion_21.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "note_completion",
+          "skill_tags": [
+            "ls_comp_note"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>NOTE COMPLETION 21</h1><p><strong>Questions 21 - 26</strong></p><p>Complete the table and the notes.</p><p>Use <strong>NO MORE THAN TWO WORDS AND / OR A NUMBER</strong> for each answer.</p><table><thead><tr><th><strong>Undergraduate Courses</strong></th><th><strong>Duration (all full time)</strong></th></tr></thead><tbody><tr><td>Business Studies</td><td>4 years</td></tr><tr><td>Advertising</td><td>3 years</td></tr><tr><td>Marketing</td><td>3 years</td></tr><tr><td>Personnel Management</td><td>3 years</td></tr><tr><td><blank data-qid=\"q21\"/></td><td>3 years</td></tr><tr><td>Accountancy</td><td>3 years</td></tr></tbody></table><p><strong>Masters Courses</strong></p><p>Advertising, Marketing, Personnel Management, Finance, Accountancy and general MBA (1 year full time and 2 years part time)</p><p><strong>Business Studies BA Course</strong></p><p>Years 1 and 2: Obligatory modules: economics, research methods, marketing, advertising, operations management, statistics, accountancy, personnel and finance.</p><p>Year 3: working in industry.</p><p>Year 4: Electives: Year 1 and 2 subjects + specialised courses. Only <blank data-qid=\"q22\"/> not offered as an elective from year 1 and 2 subjects.</p><p><strong>Assessment</strong></p><ul><li><p>Years 1, 2 and 4 exams take place at the end of each <blank data-qid=\"q23\"/></p></li><li><p>All exams 2 - 3 hours in length</p></li><li><p>Students can take exams again over the summer</p></li><li><p>Students can only study a whole year again, if there are <blank data-qid=\"q24\"/></p></li><li><p>All grades can be appealed; final appeal board made up of staff and students</p></li><li><p>Year 3 assessment is a <blank data-qid=\"q25\"/> of 14,000 - 15,000 words. Due 1st day of year 4.</p></li></ul><p><strong>Weekly Workload</strong></p><table><thead><tr><th>2 lectures per module / elective</th><th>All students on the course</th></tr></thead><tbody><tr><td>2 seminars</td><td>15 students approx.</td></tr><tr><td><blank data-qid=\"q26\"/></td><td>5 students approx.</td></tr></tbody></table><p><em>Long working day!!</em></p>",
+          "items": [
+            {
+              "question_id": "q21",
+              "number": 21,
+              "prompt_html": "Question 21",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q22",
+              "number": 22,
+              "prompt_html": "Question 22",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q23",
+              "number": 23,
+              "prompt_html": "Question 23",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q24",
+              "number": 24,
+              "prompt_html": "Question 24",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q25",
+              "number": 25,
+              "prompt_html": "Question 25",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q26",
+              "number": 26,
+              "prompt_html": "Question 26",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            21,
+            26
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_note_completion_21",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_note_completion_21",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

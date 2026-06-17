@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_04",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2004.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Hello, I've just moved to Melbourne for a new job and I've been advised to register with a new doctor for myself and my family. I think that this surgery is the nearest one to where I live.</p><p><strong>Speaker 1:</strong> What's the name of the road that you live in, sir?</p><p><strong>Speaker 2:</strong> Dawson Road.</p><p><strong>Speaker 1:</strong> Yes, that's in our area. Would you like to register with us now?</p><p><strong>Speaker 2:</strong> Yes, please.</p><p><strong>Speaker 1:</strong> Right, I'll just have to take some details. First of all, could you give me your name?</p><p><strong>Speaker 2:</strong> It's Mike Jacobs. J-A-C-O-B-S.</p><p><strong>Speaker 1:</strong> And your family?</p><p><strong>Speaker 2:</strong> My wife's name is Janet and I have one little boy whose name is Rod.</p><p><strong>Speaker 1:</strong> Ron?</p><p><strong>Speaker 2:</strong> No, no, Rod. R-O-D.</p><p><strong>Speaker 1:</strong> Good, that's fine. And what is your address here in Melbourne?</p><p><strong>Speaker 2:</strong> 52 Dawson Road, Highfield, Melbourne.</p><p><strong>Speaker 1:</strong> Highfield. H-I-G-H-F-I-E-L-D. Good. And I'll need to know your health card number.</p><p><strong>Speaker 2:</strong> It's NH871812C.</p><p><strong>Speaker 1:</strong> What about my family?</p><p><strong>Speaker 2:</strong> Oh, only yours for now. Do you know the name of your old doctor?</p><p><strong>Speaker 2:</strong> It was Dr. Graham Mackenzie in Perth. </p><p><strong>Speaker 1:</strong> Now, we've got four doctors here. There's Dr. Susan Larkins, Dr. Kevin White, Dr. James Nicholson and Dr. Linda Williams. Which one would you like to register with?</p><p><strong>Speaker 2:</strong> Oh, I didn't think of that. Well, I think I would like my doctor to be a man. I'll go for the last one.</p><p><strong>Speaker 1:</strong> Was that one a man?</p><p><strong>Speaker 2:</strong> No, that was Dr. Linda. How about Dr. Kevin?</p><p><strong>Speaker 2:</strong> Yes, that'll be fine.</p><p><strong>Speaker 1:</strong> Right, Dr. White it is.</p>"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_flow_chart_completion_04",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q38": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 2, bài viết nêu: \"For example, some of the early powdered versions did not dissolve easily in water, leaving clumps of damp powder floating in the cup. Coffee aroma dissipates easily, so manufacturers have now developed artificial treatments that will make a jar of instant coffee smell like freshly ground coffee when it is opened. Some modern manufacturing processes also make instant coffee granules that look more like ground coffee.\". Cụm ground khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "For example, some of the early powdered versions did not dissolve easily in water, leaving clumps of damp powder floating in the cup. Coffee aroma dissipates easily, so manufacturers have now developed artificial treatments that will make a jar of instant coffee smell like freshly ground coffee when it is opened. Some modern manufacturing processes also make instant coffee granules that look more like ground coffee._"
+    },
+    "q39": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"The freeze-drying method preserves more of the original coffee flavour, but it is a more complex and therefore more expensive procedure. First, the coffee is allowed to sit so that the water evaporates naturally, leaving a concentrated coffee solution. This concentrate is then frozen to around minus 40 degrees Celsius.\". Cụm concentrate khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "The freeze-drying method preserves more of the original coffee flavour, but it is a more complex and therefore more expensive procedure. First, the coffee is allowed to sit so that the water evaporates naturally, leaving a concentrated coffee solution. This concentrate is then frozen to around minus 40 degrees Celsius._"
+    },
+    "q40": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 7, bài viết nêu: \"As the droplets fall, the remaining water evaporates. Dry coffee crystals then fall to the bottom of the chamber. One drawback with this method is that the high temperatures involved affect the oils in the coffee and therefore more flavour is lost.\". Cụm coffee crystal khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "As the droplets fall, the remaining water evaporates. Dry coffee crystals then fall to the bottom of the chamber. One drawback with this method is that the high temperatures involved affect the oils in the coffee and therefore more flavour is lost._"
+    }
+  }
+}

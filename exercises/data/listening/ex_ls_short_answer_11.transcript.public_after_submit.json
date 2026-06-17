@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_short_answer_11",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/SHORT%20ANSWER%2011.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Good afternoon, everyone. Today I'd like to speak to you about time and how people have measured it throughout history. Humans have always had a desire to keep track of time, whether it be the passing of days in a year or the hours in a day. There is evidence that the earliest civilizations created elaborate calendars, which charted the changing cycles of the moon or the seasons. A famous example of this is the 5000-year-old stone circle at Stonehenge in England, as can be seen on this slide. </p><p><strong>Speaker 1:</strong> This ancient structure is believed to have been built by, or for, a group of people known as Druids, who were the priestly class of the inhabitants of the British Isles in pre-Roman times. Very little is known about these early settlers, and the only evidence experts have comes from a small number of archaeological finds. However, their astronomical and architectural skills must have been excellent, as the large stone monoliths of Stonehenge are perfectly aligned to frame the sun as it rises on the summer solstice each year. </p><p><strong>Speaker 1:</strong> The first time that days were divided into 12 periods of daylight was by using sundials or shadow clocks. These have been found during excavations in Egypt and feature a tall stick or column which casts a shadow onto the ground. By marking the hours with numbers or symbols, observers could tell the time by seeing where the shadow pointed. Some of the sundials were made with huge stone obelisks many metres high. </p><p><strong>Speaker 1:</strong> Many cultures around the world developed water clocks, which were the first time-keeping devices with moving parts. Water would flow into various containers that would fill up in a fixed amount of time. However, the cold temperature of some places made the water freeze up, leaving the clocks unusable. Engineers in 11th century China solved this problem by using liquid mercury, or much later, sand. </p><p><strong>Speaker 1:</strong> The first mechanical clock that we know of was built in the German town of Magdeburg and dates from the late 10th century. The only mention of this clock comes from written texts in much later centuries, but we know it was built by a bishop called Gerbert, who later became Pope Sylvester II. </p><p><strong>Speaker 1:</strong> A monk in 14th century England built one of the oldest clocks still in existence, a remarkable feat of engineering. It is currently kept in the city of Salisbury, which is coincidentally only 8 miles from Stonehenge. The mechanical device had a bell which rang every hour and can still be seen by tourists visiting the cathedral today. You can see a diagram of the clock up on the slide here. </p><p><strong>Speaker 1:</strong> Beginning in the 15th century, clockmakers channelled their energy into making clocks lighter and more accurate. This was necessary as they were used to aid navigation. Sailors needed to know the time of day to calculate their position from the angle of the sun. </p><p><strong>Speaker 1:</strong> In 1658, the great English clockmaker Thomas Tompion created a prototype of the first pocket watch by fitting a small mechanism called a spiral balance into a clock, which allowed the clock to be made small and portable. One of the first two that he created was given to Charles II, the king of England at that time. For this invention, Tompion is credited with being the father of English clockmaking.</p>"
+    }
+  ]
+}

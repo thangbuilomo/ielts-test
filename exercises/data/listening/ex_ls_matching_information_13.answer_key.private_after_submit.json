@@ -1,0 +1,47 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_ls_matching_information_13",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 4,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q27": {
+      "answers": [
+        "A",
+        "writing publicity materials"
+      ]
+    },
+    "q28": {
+      "answers": [
+        "C",
+        "deciding what to spend money on"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "E",
+        "identifying which smartwatch features would be attractive to customers"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "B",
+        "researching other available smartwatches"
+      ]
+    }
+  }
+}

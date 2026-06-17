@@ -1,0 +1,129 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_matching_sentence_endings_12",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "matching_sentence_endings",
+  "category_id": "matching_sentence_endings",
+  "title": "Matching Sentence Endings - Exercise 12",
+  "duration_seconds": 0,
+  "content": {
+    "title": "ONKALO",
+    "content_html": "<h1>READING- MATCHING SENTENCE ENDINGS 12</h1>\n<h2>ONKALO</h2>\n<p>Despite nuclear energy generally being considered an environmentally friendly source of electricity, the radioactive waste it leaves remains hazardous to life for at least 100,000 years. What to do with this unwanted by-product and how to protect people and the environment from it is a major challenge facing the proponents of nuclear power generation. Currently, it is mostly stored in cool water, which acts as a seal for the radiation, in facilities requiring round-the-clock guarding, surveillance, and maintenance. This may be an effective storage method for now, however, a solution is needed for the next hundred millennia and so scientists have been researching one.</p>\n<p>In a remote area on the west coast of Finland, there may be an answer: Onkalo. Currently under construction, this spent nuclear fuel repository located at the Olkiluoto Nuclear Power Plant in the municipality of Eurajoki is where they plan to bury this nuclear waste 500 metres below ground in the most secure and stable environment known: the bedrock. While above ground there are wars, natural disasters, the rise and fall of civilisations, the bedrock below remains unchanged for millions of years. This stability, argue scientists, makes it ideal for toxic material disposal. After intense screening of possible sites in the Finnish territory, this location was chosen due to the estimated lower geographical and environmental impact it would cause, as well as taking into consideration the consent of the local community. Construction began in 2004 and is expected to be finished in 2100,  when Onkalo will be sealed, hopefully never to be opened again.</p>\n<p>Onkalo means ‘hiding place’ or ‘cavity’ in Finnish, and will live up to its name. On a flat stretch of pine-tree-covered land, kilometres from the nearest town, Rauma, on Olkiluoto Island, stands an unprepossessing metal shutter set between walls of rock. From this entrance, a tunnel will snake down five kilometres, 500m into the depths of the earth, ending in tomb-like storage capsules. Nothing like Onkalo has been attempted by humanity before. The facility must last, undisturbed, for 100,000 years – an unimaginably long time, far longer than any other manmade structure so far. The Giza Pyramids, for example, currently the world’s oldest free-standing buildings, have yet to reach the 5000 year mark, a mere one-twentieth of the time Onkalo must withstand.</p>\n<p>The main purpose of Onkalo is to keep future generations safe from the lethal waste buried within. It is ironic, then, that the main threat to the facility’s security is the very people it aims to protect. Scientists are concerned about future generations finding and opening Onkalo, and perhaps not understanding what they come across. These future generations are essentially unknowable. While it may be possible to predict the nature of people in a hundred years, Onkalo has to consider them in 1,000, 10,000, 100,000 years. The future becomes very foggy when thinking in these timescales and so, when thinking of the future, scientists often look to the past first. Considering 100,000 years ago Neanderthals still walked the Earth, it stands to reason that in another 100,000 people will be unimaginably different from us now. They may have more advanced technology, or, is it possible some disaster will have led them to lose it entirely? Is it equally possible that such poor environmental conditions mean life is only possible underground, or only on other planets? Future generations may interpret Onkalo as something religious, a burial ground, a hidden treasure. The human race could have ceased to exist at all.</p>\n<p>There are many conflicting ideas about how to tackle this potential problem. One of the fiercest debates is whether to leave warnings for future generations in the form of markers. These would be penned in all major UN languages plus pictographs engraved in stone monoliths around the site. But others point out that anybody able to heed the warning may have died long before these messages were ever discovered. Even pictographs, which we instinctively feel are universal, may be interpreted differently in 50,000 years. More outlandish ideas include covering the ground above Onkalo with a concrete forest of enormous thorns, to make the area as foreboding as possible. Also, the very existence of markers may stoke people’s curiosity, driving them to want to find out what has been hidden. Could talk of Onkalo have become mythical, a legend similar to the Lost City of Atlantis, or would future generations even be familiar with the nature of nuclear waste, possibly having invented new energy sources? Again, we can connect to the past and the discovery of ancient Egyptian tombs; these were covered in warnings to leave well alone that were either not understood or completely disregarded. There is no reason to think the people of the future would be any different. This has led many scientists to conclude no markers should be left and that Onkalo should simply be sealed, covered, and forgotten.</p>\n<p>Onkalo may very well end up being the longest lasting trace of Western civilisation, yet it will not be a thing of wonder like the Pyramids. It is something that must never be opened, for the safety of the future, though the Ancient Egyptians thought similarly and the deterrents they left were ultimately ignored. Despite the question of whether the past can help us to predict the future remaining moot,  the need for a place like Onkalo leaves one with a certain feeling of ambivalence towards nuclear energy. This waste that comes as part and parcel of generating electricity in this manner is, for many, too high a price to pay.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_matching_sentence_endings_12.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_matching_sentence_endings_12.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "matching_sentence_endings",
+          "skill_tags": [
+            "rd_matching_sentence_endings"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 33 - 37</strong></p>\n<p>Complete each sentence with the correct ending. Write the appropriate letters, <strong>A </strong>-<strong> H</strong>.</p>\n<p>33 The current method of dealing with nuclear waste ...</p>\n<p>34 The Onkalo solution ...</p>\n<p>35 The principal risk to the protection of Onkalo ...</p>\n<p>36 The unforeseeable nature of future civilizations ...</p>\n<p>37 The idea by some scientists to hide Onkalo completely ...</p>\n<table>\n<tr>\n<td><strong>A</strong></td>\n<td>... involves digging deep into the earth.</td>\n</tr>\n<tr>\n<td><strong>B</strong></td>\n<td>... calls for careful consideration of the site's protection.</td>\n</tr>\n<tr>\n<td><strong>C</strong></td>\n<td>... involves storing it in cold water.</td>\n</tr>\n<tr>\n<td><strong>D</strong></td>\n<td>... suggests the extinction of the human race.</td>\n</tr>\n<tr>\n<td><strong>E</strong></td>\n<td>... calls for a retrospective view from scientists.</td>\n</tr>\n<tr>\n<td><strong>F</strong></td>\n<td>... relates to those it is designed to safeguard.</td>\n</tr>\n<tr>\n<td><strong>G</strong></td>\n<td>... presumes a threat to the future of nuclear power.</td>\n</tr>\n<tr>\n<td><strong>H</strong></td>\n<td>... assumes the similarity of future humans to us.</td>\n</tr>\n</table>",
+          "items": [
+            {
+              "question_id": "q33",
+              "number": 33,
+              "prompt_html": "The current method of dealing with nuclear waste ...",
+              "response_type": "select"
+            },
+            {
+              "question_id": "q34",
+              "number": 34,
+              "prompt_html": "The Onkalo solution ...",
+              "response_type": "select"
+            },
+            {
+              "question_id": "q35",
+              "number": 35,
+              "prompt_html": "The principal risk to the protection of Onkalo ...",
+              "response_type": "select"
+            },
+            {
+              "question_id": "q36",
+              "number": 36,
+              "prompt_html": "The unforeseeable nature of future civilizations ...",
+              "response_type": "select"
+            },
+            {
+              "question_id": "q37",
+              "number": 37,
+              "prompt_html": "The idea by some scientists to hide Onkalo completely ...",
+              "response_type": "select"
+            }
+          ],
+          "options": [
+            {
+              "label": "A",
+              "text": "-"
+            },
+            {
+              "label": "B",
+              "text": "... calls for careful consideration of the site's protection."
+            },
+            {
+              "label": "C",
+              "text": "... involves storing it in cold water."
+            },
+            {
+              "label": "D",
+              "text": "... suggests the extinction of the human race."
+            },
+            {
+              "label": "E",
+              "text": "... calls for a retrospective view from scientists."
+            },
+            {
+              "label": "F",
+              "text": "... relates to those it is designed to safeguard."
+            },
+            {
+              "label": "G",
+              "text": "... presumes a threat to the future of nuclear power."
+            },
+            {
+              "label": "H",
+              "text": ". 33 The current method of dealing with nuclear waste ... 34 The Onkalo solution ... 35 The principal risk to the protection of Onkalo ... 36 The unforeseeable nature of future civilizations ... 37 The idea by some scientists to hide Onkalo completely ..."
+            }
+          ],
+          "question_range": [
+            33,
+            37
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_short_answer_12",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/SHORT%20ANSWER%2012.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Yes, I liked that part too. And then at the end of the final day, we had a short feedback session and then they handed out certificates of attendance.</p><p><strong>Speaker 1:</strong> Oh, not individual reports. I understood those were included too.</p><p><strong>Speaker 2:</strong> Yes, but they come later, by post, I think.</p><p><strong>Speaker 1:</strong> I see, okay. So overall, apart from some practical aspects, you seem to have been satisfied.</p><p><strong>Speaker 2:</strong> Yes, it was a very comprehensive course. So there was nothing that you felt could have been improved?</p><p><strong>Speaker 3:</strong> Well, sometimes I felt I wasn't being challenged quite enough. For example, we did quite a few role plays, but these were semi-scripted. I'd have preferred to have a freer hand when it came to doing those.</p><p><strong>Speaker 2:</strong> I agree. I think some of those were a bit repetitive. On the whole, I would like to have seen more discussions and fewer role plays throughout the workshop.</p><p><strong>Speaker 1:</strong> Mm-hmm. And what about the instructors? How did you find them?</p><p><strong>Speaker 3:</strong> Well, the two senior instructors were fantastic, very professional and thorough. But sometimes we had classes with one of the assistant instructors. There were four of them and they weren't quite as good.</p><p><strong>Speaker 2:</strong> I thought all of the training were great, but yes, I agree with Adam that some were better than others.</p><p><strong>Speaker 1:</strong> So, all in all, would you say it's worth our going ahead with this training workshop for the other members of staff?</p><p><strong>Speaker 3:</strong> Yes, but if all our sales staff are going, could we ask them to adapt some of the material to our specific needs? For example, since we're a multinational company, more cross-cultural training would be really interesting.</p><p><strong>Speaker 1:</strong> Right, that's an interesting point. I shall look into it. So, I have taken up enough of your time. Thanks to both of you for your feedback.</p><p><strong>Speaker 2:</strong> You're welcome.</p><p><strong>Speaker 3:</strong> Not at all.</p>"
+    }
+  ]
+}

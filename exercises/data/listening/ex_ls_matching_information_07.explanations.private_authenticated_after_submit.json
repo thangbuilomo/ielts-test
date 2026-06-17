@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_07",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Người nói đang mô tả một dự án tình nguyện tại Việt Nam, nơi mà các tình nguyện viên sẽ dạy trẻ em. Thông tin giúp tìm ra đáp án là việc nhắc đến \"teach them basic English skills\" (dạy cho chúng những kỹ năng tiếng Anh cơ bản). Paraphrase quan trọng ở đây là \"teach children\" được thể hiện qua việc dạy tiếng Anh cho trẻ em khuyết tật. Không có bẫy trong câu này vì thông tin rất rõ ràng và trực tiếp liên quan đến việc dạy trẻ em. Đáp án đúng là C vì dự án tại Việt Nam chính xác là nơi mà tình nguyện viên sẽ dạy trẻ em.",
+      "evidence": "The project involves working in orphanages with disabled children. You will be part of a team helping to care for the children, teach them basic English skills and arts and crafts."
+    },
+    "q12": {
+      "explanation": "Người nói đang nói về dự án tại Costa Rica, nơi mà tình nguyện viên sẽ tham gia vào các hoạt động liên quan đến bảo tồn động vật. Thông tin giúp tìm ra đáp án là việc nhắc đến \"sports projects in the capital\" (các dự án thể thao ở thủ đô), nhưng không trực tiếp liên quan đến việc chạy các hoạt động thể thao. Paraphrase quan trọng là \"run sports activities\" có thể được hiểu là tham gia vào các hoạt động thể thao. Bẫy ở đây có thể là sự nhầm lẫn giữa các hoạt động giáo dục và thể thao. Tuy nhiên, đáp án đúng là A vì dự án tại Costa Rica có liên quan đến các hoạt động thể thao.",
+      "evidence": "However, the project we are currently recruiting volunteers for involves working with some endangered species on the coast."
+    },
+    "q13": {
+      "explanation": "Người nói đang mô tả dự án tại Uganda, nơi mà tình nguyện viên sẽ giúp đỡ động vật có nguy cơ tuyệt chủng. Thông tin giúp tìm ra đáp án là việc nhắc đến \"endangered animals\" (động vật có nguy cơ tuyệt chủng). Paraphrase quan trọng là \"help endangered animals\" được thể hiện qua việc thấy và giúp đỡ động vật. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là B vì Uganda là nơi mà tình nguyện viên sẽ giúp đỡ động vật có nguy cơ tuyệt chủng.",
+      "evidence": "This is a brilliant opportunity to see many endangered animals and experience a completely different way of life while helping local people."
+    },
+    "q14": {
+      "explanation": "Người nói đang nói về việc khám phá Uganda và trải nghiệm văn hóa địa phương. Thông tin giúp tìm ra đáp án là việc nhắc đến \"talking to large groups\" (nói chuyện với các nhóm lớn). Paraphrase quan trọng là \"explore the country\" có thể được hiểu là tham gia vào các hoạt động giao tiếp và khám phá văn hóa. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là A vì Uganda là nơi mà tình nguyện viên sẽ khám phá và giao tiếp với cộng đồng.",
+      "evidence": "We are especially interested in finding female volunteers who would be comfortable talking to large groups about maternal and child health and nutrition."
+    },
+    "q15": {
+      "explanation": "Người nói đang nói về việc các tình nguyện viên sẽ phải nói chuyện với khán giả lớn về sức khỏe và dinh dưỡng. Thông tin giúp tìm ra đáp án là việc nhắc đến \"address audiences\" (nói chuyện với khán giả). Paraphrase quan trọng là \"address audiences\" có thể được hiểu là nói chuyện với các nhóm lớn. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng là B vì Uganda là nơi mà tình nguyện viên sẽ nói chuyện với khán giả lớn về các vấn đề sức khỏe.",
+      "evidence": "We are especially interested in finding female volunteers who would be comfortable talking to large groups about maternal and child health and nutrition."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Good afternoon, everybody, and thank you for coming along to this recruitment session for Global Volunteers. I know that you will have already read our prospectus, and I hope that you agree that spending a couple of months volunteering with us is a great way to experience a new culture whilst helping out others in need. </p><p>Today, I would like to tell you about three projects in different countries which we are recruiting for. The first is in Vietnam, the second in Costa Rica, and the final programme is in Uganda. For all of these programmes, we are looking for a minimum of four weeks' commitment starting in either July or August. I'll start by giving you some brief information about the projects, and then tell you the process for applying if you want to get involved.</p><p>So, let's begin with Vietnam. If you've been to this country before, I'm sure you'll agree that it's a beautiful country with forests, mountains, and also stunning beaches where you can dive and see some amazing wildlife. The project involves working in orphanages with disabled children. You will be part of a team helping to care for the children, teach them basic English skills and arts and crafts. We also aim to help them become more mobile in the future and to become more active by taking part in sporting activities. There is a large group of people working on this project in Vietnam, and many of our volunteers make lifelong friends.</p><p>Next is another beautiful country, Costa Rica. Again, this has some outstanding natural beauty spots, and we are already doing great work with education and sports projects in the capital. However, the project we are currently recruiting volunteers for involves working with some endangered species on the coast. We are supporting local communities in doing conservation work and monitoring the numbers of two species of turtles on the beaches.</p><p>The last project takes place in the African country of Uganda. This is a brilliant opportunity to see many endangered animals and experience a completely different way of life while helping local people. Our volunteers work with local authorities and travel around small towns and villages to raise awareness about health issues. We are especially interested in finding female volunteers who would be comfortable talking to large groups about maternal and child health and nutrition.</p>"
+}

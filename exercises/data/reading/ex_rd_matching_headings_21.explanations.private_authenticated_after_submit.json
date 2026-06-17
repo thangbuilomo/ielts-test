@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_21",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The European honey bee is thought to have originated in Africa or Asia, from where it spread throughout the Middle East and Europe and, with human assistance, is today present in every continent excluding Antarctica. Able to adapt to geographical surroundings and seasonal changes, the honey bee, unlike other species, benefits from perennial colonies that reproduce through the process of 'swarming'.\". Heading iii (Expanding populations) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The European honey bee is thought to have originated in Africa or Asia, from where it spread throughout the Middle East and Europe and, with human assistance, is today present in every continent excluding Antarctica. Able to adapt to geographical surroundings and seasonal changes, the honey bee, unlike other species, benefits from perennial colonies that reproduce through the process of 'swarming'._"
+    },
+    "q2": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Domestication of the species dates back as far as Ancient Egypt, evidenced in its depiction in tomb paintings. Today it remains one of the only insect species to be farmed, and is primarily chosen due to its honey-making virtues, its usefulness in pollination, and resistance to cold weather and disease.\". Heading i (Falling figures) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Domestication of the species dates back as far as Ancient Egypt, evidenced in its depiction in tomb paintings. Today it remains one of the only insect species to be farmed, and is primarily chosen due to its honey-making virtues, its usefulness in pollination, and resistance to cold weather and disease._"
+    },
+    "q3": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The consequences of a severely depleted honey bee population would be far-reaching. Considering our main staple crops such as rice, wheat and maize are wind-pollinated, and therefore not reliant on insects, we need not go hungry.\". Heading vi (The cost of collapse) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The consequences of a severely depleted honey bee population would be far-reaching. Considering our main staple crops such as rice, wheat and maize are wind-pollinated, and therefore not reliant on insects, we need not go hungry._"
+    },
+    "q4": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Yet that might be easier said than done, as the scientific consensus is that there is no one specific cause for CCD and the disappearance of bees. Many researchers believe a combination of factors is to blame.\". Heading viii (The roots of the problem) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Yet that might be easier said than done, as the scientific consensus is that there is no one specific cause for CCD and the disappearance of bees. Many researchers believe a combination of factors is to blame._"
+    },
+    "q5": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"However, other voices in the field claim there is no bee crisis. Although they admit that CCD did challenge species in 2006, it is claimed that this is a centuries-old, periodic phenomenon from which bees recover.\". Heading v (Questioning the claims) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "However, other voices in the field claim there is no bee crisis. Although they admit that CCD did challenge species in 2006, it is claimed that this is a centuries-old, periodic phenomenon from which bees recover._"
+    }
+  }
+}

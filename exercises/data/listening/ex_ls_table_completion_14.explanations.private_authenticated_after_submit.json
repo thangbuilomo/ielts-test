@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_14",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói đang hỏi về họ của John, và John đã xác nhận rằng họ của anh là \"Thomson\". Thông tin giúp tìm ra đáp án là khi John trả lời câu hỏi về họ của mình và cách viết. Paraphrase quan trọng ở đây là \"surname\" (họ) và \"Thomson\" là tên họ mà John đã cung cấp. Không có bẫy trong câu hỏi này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng vì John đã xác nhận họ của mình là \"Thomson\".",
+      "evidence": "And you said your surname is Thomson? Is that with an H and a P?"
+    },
+    "q2": {
+      "explanation": "Người nói đang cung cấp số điện thoại di động của mình cho dịch vụ khách hàng. Thông tin giúp tìm ra đáp án là số điện thoại di động mà John đã cung cấp. Paraphrase quan trọng là \"cell number\" (số điện thoại di động) và \"8541\" là phần cuối cùng của số điện thoại mà John đã nói. Không có bẫy trong câu hỏi này vì John đã nói rõ ràng số điện thoại của mình. Đáp án đúng vì đây là thông tin chính xác mà John đã cung cấp.",
+      "evidence": "and my cell number is 0176-6329-8541."
+    },
+    "q3": {
+      "explanation": "Người nói đang giải thích về phương thức thanh toán mà công ty sử dụng. Thông tin giúp tìm ra đáp án là cụm từ \"direct debit payment\" mà Linda đã sử dụng để mô tả phương thức thanh toán. Paraphrase quan trọng là \"usual way to pay\" (cách thanh toán thông thường) và \"direct debit\" là phương thức mà John sẽ sử dụng. Không có bẫy trong câu hỏi này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng vì đây là phương thức thanh toán mà công ty đã đề cập.",
+      "evidence": "the usual way to pay is to set up a direct debit payment."
+    },
+    "q4": {
+      "explanation": "Người nói đang cung cấp tên ngân hàng của mình cho dịch vụ khách hàng. Thông tin giúp tìm ra đáp án là câu trả lời trực tiếp của John về ngân hàng của anh. Paraphrase quan trọng là \"bank\" (ngân hàng) và \"London Credit\" là tên ngân hàng mà John đã cung cấp. Không có bẫy trong câu hỏi này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng vì đây là tên ngân hàng mà John đã nói.",
+      "evidence": "My bank is London Credit."
+    },
+    "q5": {
+      "explanation": "Người nói đang cung cấp số tài khoản ngân hàng của mình cho dịch vụ khách hàng. Thông tin giúp tìm ra đáp án là số tài khoản mà John đã cung cấp. Paraphrase quan trọng là \"account number\" (số tài khoản) và \"753\" là phần cuối cùng của số tài khoản mà John đã nói. Không có bẫy trong câu hỏi này vì John đã nói rõ ràng số tài khoản của mình. Đáp án đúng vì đây là thông tin chính xác mà John đã cung cấp.",
+      "evidence": "and my account number is 629-861-753."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1: Linda</strong><br />You now have some time to look at the questions on your screen. Now, answer the questions on your screen. Welcome to Netfone. My name is Linda. Please sit down.</p><p><strong>Speaker 2: John</strong><br />Thanks very much. I've just recently moved into the area and bought a new house, so I need to have a new phone line installed.</p><p><strong>Speaker 1:</strong> Linda<br />That's fine. OK, let's first start by taking a few personal details down. What's your first name?</p><p><strong>Speaker 2:</strong> John<br />It's John. That's J-O-H-N, not J-O-N.</p><p><strong>Speaker 1:</strong> Linda<br />And you said your surname is Thomson? Is that with an H and a P?</p><p><strong>Speaker 2:</strong> John<br />Yes, it's with an H and a P. It's spelled T-H-O-M-P-S-O-N.</p><p><strong>Speaker 1:</strong> Linda<br />And what is the address of your new house?</p><p><strong>Speaker 2:</strong> John<br />It's 14 London Road, Wesley. The postcode is WE62FF.</p><p><strong>Speaker 1:</strong> Linda<br />Of course, you don't have a home phone number yet, but can we have a work number or a mobile phone number?</p><p><strong>Speaker 2:</strong> John<br />I can give you both. Work is 01836-829-748, and my cell number is 0176-6329-8541.</p><p><strong>Speaker 1:</strong> Linda<br />Sorry, could you say the mobile one again?</p><p><strong>Speaker 2:</strong> John<br />Of course. It's 0176-6329-8541.</p><p><strong>Speaker 1:</strong> Linda<br />That's fine, thank you. Have you had a phone connection with us before?</p><p><strong>Speaker 2:</strong> John<br />No. Where I lived before, my connection was through Medicom. Is there any chance of keeping my old number?</p><p><strong>Speaker 1:</strong> Linda<br />Where did you live before?</p><p><strong>Speaker 2:</strong> John<br />Toronto.</p><p><strong>Speaker 1:</strong> Linda<br />That won't be possible then, I'm afraid. With a change in town comes a change in code, and you can't keep the old Toronto code if you're not there.</p><p><strong>Speaker 2:</strong> John<br />Ah, yes. I suppose that's logical. Now, the usual way to pay is to set up a direct debit payment, so that what you owe will come directly off your bank account each month. Is that OK with you?</p><p><strong>Speaker 2:</strong> John<br />That's fine. Will I still receive a bill through the post, though, so I know how much I've spent each month?</p><p><strong>Speaker 1:</strong> Linda<br />Oh, yes. We send out bills each month, unless you'd like to get them by email.</p><p><strong>Speaker 2:</strong> John<br />Not right now. With my new job here in Wesley, I will need a new email address, and that's not ready right now. Can I change later on?</p><p><strong>Speaker 1:</strong> Linda<br />Yes, you can. You don't even need to come into the office. You can call our helpline for that or do it online on our website.</p><p><strong>Speaker 2:</strong> John<br />Good. So, let me take your bank details for your direct debit. I'll need your bank's name, the sort code, and your bank account number.</p><p><strong>Speaker 2:</strong> John<br />My bank is London Credit. The sort code is 1340-25, and my account number is 629-861-753.</p><p><strong>Speaker 1:</strong> Linda<br />That was a bit fast. Can you say the account number again, please?</p><p><strong>Speaker 2:</strong> John<br />It's 629-861-753.</p><p><strong>Speaker 1:</strong> Linda<br />Thank you. At the end, I'll print out a confirmation for you to sign.</p>"
+}

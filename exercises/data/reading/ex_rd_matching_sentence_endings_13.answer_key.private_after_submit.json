@@ -1,0 +1,58 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_rd_matching_sentence_endings_13",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 7,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q14": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "G"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "H"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "F"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "I"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "D"
+      ]
+    }
+  }
+}

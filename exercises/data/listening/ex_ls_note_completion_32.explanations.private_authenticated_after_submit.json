@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_32",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q37": {
+      "explanation": "Người nói đang nói về các bước cần thực hiện để giảm thiểu thương vong cho dân thường khi xảy ra sự cố núi lửa. Thông tin giúp tìm ra đáp án là cụm từ \"exclusion zone\", nghĩa là khu vực cấm, được nhắc đến ngay từ đầu khi nói về việc bảo vệ người dân. Paraphrase quan trọng ở đây là \"exclusion zone\" có thể được hiểu là khu vực không được phép vào. Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ đồng nghĩa nào gây nhầm lẫn. Đáp án đúng vì nó chính xác với yêu cầu của câu hỏi và nội dung được đề cập trong đoạn hội thoại.",
+      "evidence": "The first is to calculate an exclusion zone around a volcano where an eruption is imminent."
+    },
+    "q38": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc chuẩn bị cho một cuộc sơ tán khi có sự cố núi lửa. Thông tin giúp tìm ra đáp án là cụm từ \"large-scale evacuation\", cho thấy quy mô của cuộc sơ tán cần phải được chuẩn bị. Paraphrase quan trọng là \"large-scale\" có thể hiểu là quy mô lớn. Không có bẫy trong câu này, vì thông tin rất rõ ràng và không có từ nào gây nhầm lẫn. Đáp án đúng vì nó phản ánh chính xác yêu cầu của câu hỏi và nội dung được đề cập.",
+      "evidence": "Being prepared for a large-scale evacuation is key, as people will be panicking and major transit routes will be quickly blocked."
+    },
+    "q39": {
+      "explanation": "Người nói đang nói về tầm quan trọng của hệ thống thông tin liên lạc trong việc thông báo cho người dân về các nguy hiểm trong trường hợp núi lửa phun trào. Thông tin giúp tìm ra đáp án là cụm từ \"communication system\", cho thấy đây là một yếu tố quan trọng trong việc ứng phó với tình huống khẩn cấp. Paraphrase quan trọng là \"advanced communication system\" có thể hiểu là hệ thống thông tin liên lạc tiên tiến. Không có bẫy trong câu này, vì thông tin rất rõ ràng và không có từ nào gây nhầm lẫn. Đáp án đúng vì nó phản ánh chính xác yêu cầu của câu hỏi và nội dung được đề cập.",
+      "evidence": "Having an advanced communication system in place is a must, in order to notify people of both the dangers and the action that is being taken."
+    },
+    "q40": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc chuẩn bị các nhu yếu phẩm cho người dân sống gần núi lửa. Thông tin giúp tìm ra đáp án là cụm từ \"basic provisions\", cho thấy những thứ cần thiết mà người dân nên chuẩn bị. Paraphrase quan trọng là \"provisions\" có thể hiểu là nhu yếu phẩm. Không có bẫy trong câu này, vì thông tin rất rõ ràng và không có từ nào gây nhầm lẫn. Đáp án đúng vì nó phản ánh chính xác yêu cầu của câu hỏi và nội dung được đề cập.",
+      "evidence": "Citizens living near particularly active volcanoes need to be educated about both emergency procedures and also the basic provisions that they will need to keep in their house to assist them in times of emergency."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> When faced with a major volcanic incident, authorities need to take a number of steps to reduce civilian casualties. The first is to calculate an exclusion zone around a volcano where an eruption is imminent. This would stop anyone from entering the area. The size of the zone would vary depending on the predicted scale of eruption. There is one in effect in Montserrat, which has been in place since 1995.</p><p><strong>Speaker 3:</strong> In addition to stopping people entering the zone, authorities need to be ready to get people out. Being prepared for a large-scale evacuation is key, as people will be panicking and major transit routes will be quickly blocked. All of this costs money, so obviously a government needs to have the funds to deal with these emergencies.</p><p><strong>Speaker 1:</strong> Having an advanced communication system in place is a must, in order to notify people of both the dangers and the action that is being taken. </p><p><strong>Speaker 2:</strong> Finally, it is important to know that an eruption could occur at any time. Citizens living near particularly active volcanoes need to be educated about both emergency procedures and also the basic provisions that they will need to keep in their house to assist them in times of emergency. </p><p><strong>Speaker 3:</strong> Now, let's look in more detail at the design of a seismometer.</p>"
+}

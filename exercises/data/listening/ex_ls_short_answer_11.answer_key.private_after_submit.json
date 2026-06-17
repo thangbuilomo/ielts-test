@@ -1,0 +1,49 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_ls_short_answer_11",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 5,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q31": {
+      "answers": [
+        "sundials",
+        "shadow clocks"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "sundials"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "late 10th century"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "navigation"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "pocket watch"
+      ]
+    }
+  }
+}

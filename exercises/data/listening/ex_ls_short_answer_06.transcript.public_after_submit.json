@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_short_answer_06",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/SHORT%20ANSWER%2006.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Listen, why don't you and Kate come over for dinner sometime? </p><p><strong>Speaker 1:</strong> That's a great idea. When? </p><p><strong>Speaker 2:</strong> How about next Friday? </p><p><strong>Speaker 1:</strong> Can't do Friday, I'm afraid. Both Kate and I have a parent-teacher afternoon on Friday after school. And then we'll have to do the paperwork in the evening. What about Saturday then?</p><p><strong>Speaker 2:</strong> That would normally be fine, but our babysitter's away that night and we won't be able to find one at such short notice. </p><p><strong>Speaker 1:</strong> Why don't you and Gordon come over for dinner at ours and then we'll be able to look after the kids? You'll be able to meet them too. </p><p><strong>Speaker 2:</strong> Okay, let's do that then. Gordon will be happy. He won't have to wash up.</p><p><strong>Speaker 1:</strong> I'll be doing the cooking when you come round. I love cooking. So what time shall we come round? </p><p><strong>Speaker 2:</strong> Eight o'clock? </p><p><strong>Speaker 1:</strong> Well, we'll be home around six that night as we're going out for the afternoon with the kids. I'd say come at seven o'clock. </p><p><strong>Speaker 2:</strong> Are you sure that's long enough to get things ready? </p><p><strong>Speaker 1:</strong> Well, that'll be an hour. I don't need more than that. And what's your phone number, just in case? </p><p><strong>Speaker 2:</strong> 01347 835 825. That's the home number. And the mobile is 07978 290 512. What about you? </p><p><strong>Speaker 1:</strong> I've only got a mobile. It's 07623 963 957. </p><p><strong>Speaker 2:</strong> What was that last bit again? </p><p><strong>Speaker 1:</strong> I'll say it all again. 07623 963 957. And I better give you the address. </p><p><strong>Speaker 2:</strong> Oh yes, that would help. </p><p><strong>Speaker 1:</strong> We live at flat 3, Evergreen Terrace. It's just past the church on the right. We've got a park entrance opposite us and a doctor's surgery next door. </p><p><strong>Speaker 2:</strong> I should be able to find that. Anything you don't like to eat? </p><p><strong>Speaker 1:</strong> Well, I hate fish and seafood, and Gordon doesn't care much for red meat. He likes white meat, though. How about chicken? </p><p><strong>Speaker 2:</strong> That should be fine. </p><p><strong>Speaker 1:</strong> Oh yes, when you arrive, none of the bells is marked for security and there are four buttons. You need to press the bell second from the bottom. </p><p><strong>Speaker 2:</strong> Second from the bottom. OK, got that. I'll be able to buzz you in and then come up to the first floor and the door will be open. </p><p><strong>Speaker 1:</strong> Great. Well, it's so good to see you again, Heath. I'll really look forward to seeing you on Saturday and meeting Kate again. And the kids, of course. </p><p><strong>Speaker 2:</strong> Yes, and I'm looking forward to meeting Gordon. See you on Saturday then. </p><p><strong>Speaker 1:</strong> Goodbye. </p><p><strong>Speaker 2:</strong> Goodbye.</p>"
+    }
+  ]
+}

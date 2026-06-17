@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_yes_no_not_given_09",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q23": {
+      "explanation": "Câu 23 mâu thuẫn với thông tin ở đoạn 3. Bài nêu: \"For the most part, and certainly relative to the Britain of today, the country was rather disconnected. There were, of course, roads connecting all settlements regardless of size, but because journeys between them were slow there was little call for exact measurements of duration. Besides, each little town kept its own time, based on its own astronomical observations - specifically the location of the sun throughout the day - and thus kept their own slow pace.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là NO.",
+      "evidence": "For the most part, and certainly relative to the Britain of today, the country was rather disconnected. There were, of course, roads connecting all settlements regardless of size, but because journeys between them were slow there was little call for exact measurements of duration. Besides, each little town kept its own time, based on its own astronomical observations - specifically the location of the sun throughout the day - and thus kept their own slow pace._"
+    },
+    "q24": {
+      "explanation": "Câu 24 khớp với thông tin ở đoạn 2. Ý chính trong bài là: \"You might be surprised to learn that time as we know it - a precise measurement structured into ordered geographic zones of regular intervals - is a relatively recent phenomenon. If you went back as few as two or three centuries, you would find the human experience of time to be quite different, especially if your time travel was followed by travel of the traditional variety. For example, whereas now London and Bristol - approximately 100 miles apart - share the exact same time, Bristol of the early 1800s was approximately ten minutes behind the capital.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là YES.",
+      "evidence": "You might be surprised to learn that time as we know it - a precise measurement structured into ordered geographic zones of regular intervals - is a relatively recent phenomenon. If you went back as few as two or three centuries, you would find the human experience of time to be quite different, especially if your time travel was followed by travel of the traditional variety. For example, whereas now London and Bristol - approximately 100 miles apart - share the exact same time, Bristol of the early 1800s was approximately ten minutes behind the capital._"
+    },
+    "q25": {
+      "explanation": "Câu 25 khớp với thông tin ở đoạn 8. Ý chính trong bài là: \"However, the French fervently refused to acknowledge the decision, instead establishing their meridian within Paris until 1911. Rather than suffer the indignity of giving in to their fierce historical rivals, they finally succumbed to using Greenwich Mean Time (later renamed as Coordinated Universal Time (UTC) but retained national pride by labelling it as ‘Paris Mean Time minus 9 minutes and 21 seconds’. Not long after, France switched to Central European Time, on which it has remained ever since.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là YES.",
+      "evidence": "However, the French fervently refused to acknowledge the decision, instead establishing their meridian within Paris until 1911. Rather than suffer the indignity of giving in to their fierce historical rivals, they finally succumbed to using Greenwich Mean Time (later renamed as Coordinated Universal Time (UTC) but retained national pride by labelling it as ‘Paris Mean Time minus 9 minutes and 21 seconds’. Not long after, France switched to Central European Time, on which it has remained ever since._"
+    },
+    "q26": {
+      "explanation": "Câu 26 có một số từ khóa gần với đoạn 1, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"From observations of the moon’s phases to the introduction of the quartz crystal - regardless of our ever-improving capacity to measure time, its fundamental nature remains an enigma. Despite this intangible intrigue, we must accept time as the driver of our lives. It can be found everywhere that humankind is, and increasingly pursues us on our daily routes - on our wrists, in our pockets, possibly even, in the not-too-distant future, on our retinas.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "From observations of the moon’s phases to the introduction of the quartz crystal - regardless of our ever-improving capacity to measure time, its fundamental nature remains an enigma. Despite this intangible intrigue, we must accept time as the driver of our lives. It can be found everywhere that humankind is, and increasingly pursues us on our daily routes - on our wrists, in our pockets, possibly even, in the not-too-distant future, on our retinas._"
+    },
+    "q27": {
+      "explanation": "Câu 27 có một số từ khóa gần với đoạn 7, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"Not long after the establishment of time zones in North America, interest began to emerge for a standardised system worldwide, largely due to the booming shipping industry, which found itself in a situation not unlike that of the aforementioned railroads. They needed to agree upon just one prime meridian - a global standard. A number of meridians had been used for longitudinal references in the late 1800s but that in Greenwich became almost universally accepted at the International Meridian Conference in 1884.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "Not long after the establishment of time zones in North America, interest began to emerge for a standardised system worldwide, largely due to the booming shipping industry, which found itself in a situation not unlike that of the aforementioned railroads. They needed to agree upon just one prime meridian - a global standard. A number of meridians had been used for longitudinal references in the late 1800s but that in Greenwich became almost universally accepted at the International Meridian Conference in 1884._"
+    }
+  }
+}

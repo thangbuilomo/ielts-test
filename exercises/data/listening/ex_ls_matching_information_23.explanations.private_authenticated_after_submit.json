@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_23",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Người nói đang đề cập đến một giải pháp tạm thời cho việc giặt giũ của sinh viên, vì tiệm giặt là trong khuôn viên trường chưa được hoàn thành. Thông tin giúp tìm ra đáp án là cụm từ \"In the meantime,\" cho thấy đây là một lựa chọn tạm thời. Paraphrase quan trọng ở đây là \"little launderette down the road,\" tức là một tiệm giặt là nhỏ gần đó. Bẫy có thể là việc người nghe có thể nghĩ rằng các lựa chọn khác như \"the police station\" hay \"the town hall\" cũng có thể là giải pháp tạm thời, nhưng không có thông tin nào cho thấy chúng có dịch vụ giặt là. Vì vậy, đáp án đúng là \"the public launderette.\"",
+      "evidence": "In the meantime, there's a little launderette down the road."
+    },
+    "q12": {
+      "explanation": "Người nói đang hướng dẫn sinh viên mới về nơi để lấy thông tin cần thiết cho việc đăng ký thuế hội đồng. Thông tin giúp tìm ra đáp án là cụm từ \"walking distance,\" cho thấy rằng Students' Union là nơi gần gũi và dễ tiếp cận. Paraphrase quan trọng là \"get the information sheet,\" tức là nơi này cung cấp thông tin cần thiết. Bẫy có thể là việc người nghe có thể nghĩ rằng các địa điểm khác như \"the town hall\" cũng gần, nhưng không có thông tin nào cho thấy điều đó. Vì vậy, đáp án đúng là \"the Students' Union.\"",
+      "evidence": "First of all, get the information sheet from the Students' Union."
+    },
+    "q13": {
+      "explanation": "Người nói đang cung cấp thông tin về các tuyến xe buýt và địa điểm mà chúng đi đến. Thông tin giúp tìm ra đáp án là cụm từ \"The 39 goes to the train station,\" cho thấy đây là lựa chọn phù hợp. Paraphrase quan trọng là \"very near the end of the high street,\" tức là ga tàu nằm gần cuối đường phố chính. Bẫy có thể là việc người nghe có thể nghĩ rằng các địa điểm khác cũng có thể được tiếp cận bằng xe buýt, nhưng không có thông tin nào cho thấy điều đó. Vì vậy, đáp án đúng là \"the train station.\"",
+      "evidence": "The 39 goes to the train station, which is very near the end of the high street."
+    },
+    "q14": {
+      "explanation": "Người nói đang hướng dẫn sinh viên về nơi cần đến để đăng ký thuế hội đồng. Thông tin giúp tìm ra đáp án là cụm từ \"should be done at the town hall,\" cho thấy đây là địa điểm chính xác để thực hiện việc này. Paraphrase quan trọng là \"putting your name on the list,\" tức là việc đăng ký. Bẫy có thể là việc người nghe có thể nghĩ rằng có thể đăng ký ở \"the police station,\" nhưng thông tin rõ ràng cho thấy điều đó không đúng. Vì vậy, đáp án đúng là \"the town hall.\"",
+      "evidence": "The actual putting your name on the list, though, should be done at the town hall."
+    },
+    "q15": {
+      "explanation": "Người nói đang cung cấp thông tin cho sinh viên quốc tế về nơi có thể nhận được sự hỗ trợ trong việc đăng ký. Thông tin giúp tìm ra đáp án là cụm từ \"guidelines on registering,\" cho thấy Students' Union có thông tin cần thiết cho sinh viên từ nước ngoài. Paraphrase quan trọng là \"information sheet,\" tức là nơi này cung cấp thông tin hữu ích. Bẫy có thể là việc người nghe có thể nghĩ rằng các địa điểm khác cũng có thể cung cấp dịch vụ tương tự, nhưng không có thông tin nào cho thấy điều đó. Vì vậy, đáp án đúng là \"the Students' Union.\"",
+      "evidence": "get the information sheet from the Students' Union, which has lots of guidelines on registering."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Hi, I'm Margaret. I'm a student here. I was wondering where I can do my laundry. It won't be long before this is an urgent thing for me.</p><p><strong>Speaker 1:</strong> Here in the residence, we're planning a little launderette beside reception, but this might take a little time to organise. In the meantime, there's a little launderette down the road. It's in Queen's Avenue, the same street that the residence is in. You go about 500 metres up the road in the opposite direction to the town centre, and it's on the right. They have plenty of machines and dryers, and there's a lady there called Betty who does service washes. You just need to drop it off, and it will be laundered, dried and ironed the next day. It's a bit more expensive, of course, but good if you're lazy.</p><p><strong>Speaker 3:</strong> Another question. Hi, my name's Joe. I've got a new job at the other end of the high street. I was wondering which the best bus was to go there.</p><p><strong>Speaker 1:</strong> The best bus for the centre of town is the 38. That takes you straight to the square. If you work at the end of the high street, though, that still leaves you with about a 10-minute walk. The 39 goes to the train station, which is very near the end of the high street, so that's your best bet, probably. The 39 is good for coming home late at night as well, as the station buses go on later than the other buses. There's the 35 bus, too, for getting to the high street, but it goes to the near end of the high street, and it's a good 20-minute walk after getting off.</p><p><strong>Speaker 2:</strong> Anyone else? You there? I'm a student, too. I'm new in the area, and I have to register for my council tax. Do you know where I have to register?</p><p><strong>Speaker 1:</strong> Yes, we get lots of people in your situation. You other students need to do this, too. First of all, get the information sheet from the Students' Union, which has lots of guidelines on registering and the discounts you should get. The Students' Union is in Newbolt Street. I'm sure you know that. The actual putting your name on the list, though, should be done at the town hall, which is right next to the square. Some people are told that you can do it at the police station, but that's just the registration for non-UK nationals, not the council tax.</p>"
+}

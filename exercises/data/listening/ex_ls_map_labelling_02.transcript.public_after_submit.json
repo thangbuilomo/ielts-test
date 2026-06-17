@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_map_labelling_02",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MAP%20LABELLING%2002.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Good morning. I'm happy to see so many of you have come to listen to me tell you about how to get to and around the town of Westley. I hope you've enjoyed your first breakfast here at the Lenton Hotel and that you're ready to venture out and explore our lovely town. </p><p><strong>Speaker 1:</strong> Now, we are around 15 miles out from Westley town centre, and we are located just outside the village of Tintin, across the road from the banks of Lake Lenton. The easiest way to get into the town of Westley is to take a bus. If you leave our gates, turn right and walk for about 200 metres, then you will find the bus stop. It's easy to find as there is a pub right across the road from it called the Red Lion. The bus stop is called Greenfields. </p><p><strong>Speaker 1:</strong> The bus takes 40 minutes to reach Westley and when you get there, you can choose from five stops. The first is White Bridge, which is rightly named as it is located near the white railway bridge over the River Twine. Get off here if you would like to visit the Westley Museum or the Sport Centre. </p><p><strong>Speaker 1:</strong> The next stop is called Five Ways. This is next to Westley's main shopping mall, which is known as Westgate. The next stop is City Stop and get off here if you want to wander around the town centre and shop or see our sights, such as the Town Hall, the Old Market Square or the Memorial Fountain. </p><p><strong>Speaker 1:</strong> The fourth stop is Main Station. You can access rail services here if you would like to visit any nearby towns. This stop is also near the town cinema. Finally, the bus terminates at the Central Bus Station. Here you can change to any bus that is on the Westley network and you can also find nearby the football and rugby clubs, the ice skating rink and Westley Library, which is just before the bus station.</p>"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_75",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Người nói đang thảo luận về lý do tại sao Vua John không được yêu thích. Simon đã chỉ ra rằng sự không phổ biến của Vua John liên quan đến việc mất lãnh thổ mà nước Anh đã kiểm soát ở Pháp. Thông tin này giúp tìm ra đáp án A, vì nó chỉ rõ rằng Vua John bị đổ lỗi cho việc mất lãnh thổ. Paraphrase quan trọng ở đây là \"was blamed for the loss of territory\" (bị đổ lỗi cho việc mất lãnh thổ). Bẫy có thể là việc người nghe có thể nghĩ rằng lý do khác cũng có thể đúng, nhưng thông tin rõ ràng từ Simon cho thấy lý do chính là việc mất lãnh thổ. Do đó, đáp án A là chính xác.",
+      "evidence": "True, but that was because England had been in control of land in France, but the French managed to take it back."
+    },
+    "q22": {
+      "explanation": "Jess đang giải thích về mục đích của Magna Carta, nhấn mạnh rằng nó nhằm chấm dứt sự đối đầu giữa nhà vua và tầng lớp cầm quyền ở Anh. Thông tin này giúp tìm ra đáp án B, vì nó trực tiếp nói về việc giải quyết xung đột liên quan đến nhà vua. Paraphrase quan trọng là \"the main purpose of Magna Carta\" (mục đích chính của Magna Carta). Bẫy có thể là người nghe có thể nghĩ rằng Magna Carta có mục đích khác, nhưng Jess đã chỉ rõ rằng mục đích chính là để giải quyết xung đột. Vì vậy, đáp án B là chính xác.",
+      "evidence": "the whole point of Magna Carta was to put an end to that confrontation."
+    },
+    "q23": {
+      "explanation": "Simon đang chia sẻ điều mà anh ấy đã học được từ bài giảng, đó là quý tộc là những người được hưởng lợi nhiều nhất từ Magna Carta. Thông tin này giúp tìm ra đáp án A, vì nó nói rõ ai là người hưởng lợi nhiều nhất từ Magna Carta. Paraphrase quan trọng là \"who benefited most from Magna Carta\" (ai là người hưởng lợi nhiều nhất từ Magna Carta). Bẫy có thể là người nghe có thể nghĩ rằng có nhiều nhóm khác cũng được hưởng lợi, nhưng Simon đã chỉ rõ rằng quý tộc là nhóm chính. Do đó, đáp án A là chính xác.",
+      "evidence": "I wasn't surprised to hear that it was the aristocracy who had the most to gain from getting the king to agree to Magna Carta."
+    },
+    "q24": {
+      "explanation": "Jess đang nói về việc Magna Carta được cập nhật thường xuyên, điều này cho thấy nó được coi là một công cụ hiệu quả để hạn chế quyền lực của nhà vua. Thông tin này giúp tìm ra đáp án C, vì nó chỉ rõ rằng Magna Carta được xem như một phương tiện hiệu quả để hạn chế quyền lực của nhà vua. Paraphrase quan trọng là \"an effective means of limiting the king’s power\" (một phương tiện hiệu quả để hạn chế quyền lực của nhà vua). Bẫy có thể là người nghe có thể nghĩ rằng việc cập nhật là do văn bản kém, nhưng Jess đã chỉ rõ rằng việc cập nhật chứng tỏ giá trị của Magna Carta. Vì vậy, đáp án C là chính xác.",
+      "evidence": "Just goes to show that Magna Carta was valued, I suppose as a way of placing legal restrictions on the authority of the king."
+    },
+    "q25": {
+      "explanation": "Jess đang so sánh những thách thức mà Vua John phải đối mặt với những vị vua khác trong lịch sử. Câu này cho thấy rằng các cuộc nổi dậy mà John gặp phải là điều phổ biến trong thời kỳ đó. Thông tin này giúp tìm ra đáp án C, vì nó chỉ ra rằng những cuộc nổi dậy như vậy là điều bình thường trong thời gian đó. Paraphrase quan trọng là \"rebellions like the ones John faced were common in those times\" (các cuộc nổi dậy như những gì John phải đối mặt là phổ biến trong thời kỳ đó). Bẫy có thể là người nghe có thể nghĩ rằng Jess đang chỉ trích John, nhưng thực tế là cô ấy đang đưa ra một quan điểm lịch sử. Do đó, đáp án C là chính xác.",
+      "evidence": "the opposition John encountered wasn't much different from that."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1: Jess</strong><br />Hello, Simon. Today's lecture about Magna Carta was interesting. Did you already know about it?</p><p><strong>Speaker 2: Simon</strong><br />Only from history at school, that the bishops and barons forced King John to accept their terms in a document called Magna Carta.</p><p><strong>Speaker 1:</strong> Jess<br />Yes, Latin for Great Charter. Thing is, King John didn't have much negotiating power. He was really unpopular.</p><p><strong>Speaker 2:</strong> Simon<br />True, but that was because England had been in control of land in France, but the French managed to take it back.</p><p><strong>Speaker 1:</strong> Jess<br />Right, and I suppose ordinary people held John responsible.</p><p><strong>Speaker 2:</strong> Simon<br />Exactly. And then he wanted to raise taxes to pay for his wars. So perhaps we should be looking at Magna Carta in the context of the wars between England and France.</p><p><strong>Speaker 1:</strong> Jess<br />That was what had created a dispute between the king and the ruling class in England, and the whole point of Magna Carta was to put an end to that confrontation. Arguably, there ended up being some benefits for ordinary people, but achieving those wasn't a top priority.</p><p><strong>Speaker 2:</strong> Simon<br />Right. Yes, I'd done some reading before the lecture, so I wasn't surprised to hear that it was the aristocracy who had the most to gain from getting the king to agree to Magna Carta. But what I hadn't been aware of was that Magna Carta has had so much influence overseas.</p><p><strong>Speaker 1:</strong> Jess<br />Especially in the US.</p><p><strong>Speaker 2:</strong> Simon<br />Yeah, and the teacher said their constitution even borrows some exact wording from Magna Carta.</p><p><strong>Speaker 1:</strong> Jess<br />Yeah, it's interesting that after the original Magna Carta was sealed in the year 1215, it was then tweaked and reissued in 1216, then in 1225 and 1297. Just goes to show that Magna Carta was valued, I suppose as a way of placing legal restrictions on the authority of the king, not just under King John, but during the reigns of his successors too.</p><p><strong>Speaker 2:</strong> Simon<br />Yeah, John's gone down in history as being an awful king. Do you think he was just unlucky for being king at a difficult time?</p><p><strong>Speaker 1:</strong> Jess<br />I don't buy that. You see, if you look at his predecessors...</p><p><strong>Speaker 2:</strong> Simon<br />Other kings in the 1100s before he was crowned.</p><p><strong>Speaker 1:</strong> Jess<br />Yes, Henry I, King Stephen, King Richard I. All of them had to deal with revolts or uprisings of one sort or another during their reigns. So, in a way, the opposition John encountered wasn't much different from that. So, I don't think he was particularly unlucky.</p>"
+}

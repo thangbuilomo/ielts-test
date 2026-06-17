@@ -29,7 +29,7 @@ const state = {
 };
 
 const MODULE_NAME = 'Listening';
-const EXAM_BRAND = 'Saola IELTS Actual Exam Vault 9';
+const EXAM_BRAND = 'Saola Placement Test';
 
 function testNumber() {
   const match = String(state.testId || '').match(/(\d+)/);
@@ -288,9 +288,11 @@ function setupHelpUi() {
       kicker.textContent = 'Practice Mode';
       startCard.insertBefore(kicker, startCard.firstElementChild);
     }
+    const title = startCard.querySelector('h1');
     const desc = startCard.querySelector('h1 + p');
     if (desc) {
-      desc.textContent = 'Bai luyen tap kiem tra ky nang IELTS Listening dua tren bo de Saola IELTS Actual Exam Vault 9. Audio se tu dong chay khi bat dau.';
+      title.textContent = `${EXAM_BRAND} - Test ${state.testId.replace('TEST_', '')}`;
+      desc.textContent = 'Bài kiểm tra kỹ năng Nghe (Listening) - Phát âm thanh tự động.';
     }
   }
   if (loginBox) loginBox.classList.add('start-auth-panel');
@@ -1481,13 +1483,14 @@ function processFeedbackV2(feedback) {
   scoreBox.style.display = 'block';
   scoreBox.innerHTML = `
     <div class="score-box">
-      <h2>Káº¿t Quáº£ Cá»§a Báº¡n</h2>
+      <h2>Your Result</h2>
       <div class="score-value">${score} / ${scoreMax}</div>
-      <p>KÃ©o sang pháº§n Tapescript (Transcript) bÃªn trÃ¡i Ä‘á»ƒ xem pháº§n Ä‘á»c, hoáº·c cuá»™n xuá»‘ng xem giáº£i thÃ­ch.</p>
+      <p>Use the transcript panel on the left, or scroll down to review answers and explanations.</p>
+      <div style="margin-top: 24px;">
+        <a href="../index.html" class="primary-btn" style="text-decoration: none; display: inline-block;">Trở về trang IELTS Test</a>
+      </div>
     </div>
   `;
-  scoreBox.querySelector('h2').textContent = 'Your Result';
-  scoreBox.querySelector('p').textContent = 'Use the transcript panel on the left, or scroll down to review answers and explanations.';
 
   document.getElementById('rightPanel').style.width = '50%';
   document.getElementById('leftPanel').style.width = '50%';
@@ -1660,6 +1663,9 @@ function processFeedback(feedback) {
       <h2>Kết Quả Của Bạn</h2>
       <div class="score-value">${score} / 40</div>
       <p>Kéo sang phần Tapescript (Transcript) bên trái để xem phần đọc, hoặc cuộn xuống xem giải thích.</p>
+      <div style="margin-top: 24px;">
+        <a href="../index.html" class="primary-btn" style="text-decoration: none; display: inline-block;">Trở về trang IELTS Test</a>
+      </div>
     </div>
   `;
 

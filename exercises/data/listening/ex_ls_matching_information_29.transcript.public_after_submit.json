@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_matching_information_29",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MATCHING%20INFORMATION%20TO%20CATEGORIES%2029.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: This recording is copyright. You will hear two students of environmental science discussing their research into an early environmentalist called Alexander von Humboldt. You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> So in our talk, why don't we link the places Humboldt travelled to what he accomplished while he was there? </p><p><strong>Speaker 1:</strong> Good idea. I read that when Humboldt visited Lake Valencia, he was told by local residents that the area had got a whole lot drier in recent years. So he investigated and concluded that it was because of what people were doing to the landscape. </p><p><strong>Speaker 2:</strong> Right. Hadn't there been cutting down loads of trees? </p><p><strong>Speaker 1:</strong> Exactly, which dried out the land, so there was less rain. So people's interactions with their environment were actually altering the weather. </p><p><strong>Speaker 2:</strong> Which we know about now, but he worked it out 200 years ago. </p><p><strong>Speaker 1:</strong> Right. And when he climbed Mount Chimborazo, aiming to identify what plants grew at different altitudes, he developed acute mountain sickness. But having such a keen analytical mind, he was able to conclude that it must have been due to low oxygen levels at higher altitudes. </p><p><strong>Speaker 2:</strong> Interesting. Again, common knowledge now. But not back then. </p><p><strong>Speaker 1:</strong> True. I read that during his time in Cuba, as well as studying the wildlife, he also analysed the technology and trade. </p><p><strong>Speaker 2:</strong> Sugar production, you mean? </p><p><strong>Speaker 1:</strong> That's right. Then he made suggestions as to how it could be enhanced, so as to be more profitable. </p><p><strong>Speaker 2:</strong> Wow. And in Venezuela, hadn't he heard rumours of a natural waterway that supposedly connected two separate river systems? </p><p><strong>Speaker 1:</strong> It's just that such things are rare, and he wanted to verify if it really existed. </p><p><strong>Speaker 2:</strong> That's right. The Casiquiare Canal, I think it's called. </p><p><strong>Speaker 1:</strong> Yeah, well, sure enough, he found it and mapped it. </p><p><strong>Speaker 2:</strong> Mm, what an amazing guy.</p>"
+    }
+  ]
+}

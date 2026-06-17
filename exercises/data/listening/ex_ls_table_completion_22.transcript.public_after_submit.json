@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_22",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2022.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Hello, Hembridge College, can I help you? </p><p><strong>Speaker 3:</strong> Hello, I saw a jewellery-making course on your website that interests me, but I wasn't able to sign up for it online. I got a message telling me to phone this number, so can you tell me if there are any places left on the course? </p><p><strong>Speaker 2:</strong> Yes, no problem. Do you know the course code by any chance? </p><p><strong>Speaker 3:</strong> Yes, I wrote it down. It's JM1309. </p><p><strong>Speaker 2:</strong> JM1309. Ah, yes, that's the jewellery-making course on Thursday evenings from 6.30 until 8.30 p.m. </p><p><strong>Speaker 3:</strong> That's the one. </p><p><strong>Speaker 2:</strong> I'm afraid there aren't any places left on that course. It's fully booked. </p><p><strong>Speaker 3:</strong> Oh dear, I expected that might be the case. There's another jewellery-making course on Tuesdays, JM1308. </p><p><strong>Speaker 2:</strong> Oh, is there? </p><p><strong>Speaker 1:</strong> Yes, from 10 a.m. until midday. </p><p><strong>Speaker 3:</strong> Oh, that's no good. I work then. I'm only available in the evenings. </p><p><strong>Speaker 2:</strong> That's a shame. I'd really like to do a course. What about the working with glass course on Friday evenings? Are there any spaces on that? </p><p><strong>Speaker 1:</strong> Sorry, which course? </p><p><strong>Speaker 3:</strong> Working with glass. The code is GL1378. </p><p><strong>Speaker 2:</strong> Ah, yes, Fridays from 6.15 until 8.45 p.m. That's the one. Are there any places on that? </p><p><strong>Speaker 1:</strong> Let me see. Yes, we do have spaces. </p><p><strong>Speaker 3:</strong> Excellent. So can I book that, please? </p><p><strong>Speaker 2:</strong> Sure. Can I take your name? </p><p><strong>Speaker 3:</strong> Yes, it's Mrs…</p>"
+    }
+  ]
+}

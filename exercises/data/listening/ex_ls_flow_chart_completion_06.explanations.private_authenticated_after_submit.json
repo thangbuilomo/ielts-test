@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_flow_chart_completion_06",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q25": {
+      "explanation": "Người nói đang hướng dẫn người nghe về bước đầu tiên trong quá trình chuẩn bị cho bài tập của mình. Thông tin giúp tìm ra đáp án là việc người nói nhấn mạnh tầm quan trọng của cẩm nang môn học trong việc cung cấp kiến thức và kỹ năng cần thiết. Paraphrase quan trọng ở đây là \"looking at the module handbook\" (xem lại cẩm nang môn học). Bẫy có thể là việc người nghe có thể nghĩ rằng có thể bắt đầu từ một tài liệu khác, nhưng rõ ràng người nói đã chỉ định cẩm nang môn học là bước đầu tiên. Đáp án đúng vì nó trực tiếp liên quan đến việc xác định nội dung cần có cho bài tập.",
+      "evidence": "Well, what you need to start by doing is looking at the module handbook."
+    },
+    "q26": {
+      "explanation": "Người nói đang đề xuất một nguồn tài liệu để người nghe có thể tham khảo về cách trình bày thông tin. Thông tin giúp tìm ra đáp án là việc người nói nhắc đến \"student assignment\" (bài tập của sinh viên) như một ví dụ tốt để tham khảo. Paraphrase quan trọng là \"look at the student assignment\" (xem bài tập của sinh viên). Bẫy có thể là người nghe có thể nghĩ rằng có nhiều tài liệu khác để tham khảo, nhưng người nói đã chỉ rõ rằng bài tập của sinh viên là một ví dụ cụ thể. Đáp án đúng vì nó cung cấp một nguồn thông tin cụ thể để người nghe có thể hình dung cách trình bày.",
+      "evidence": "After organizing your notes, you could go to the library and look at the student assignment there from last year."
+    },
+    "q27": {
+      "explanation": "Người nói đang khuyên người nghe nên tham khảo các mục tiêu học tập để xác định các tiêu đề cho phần của mình. Thông tin giúp tìm ra đáp án là việc người nói nhấn mạnh rằng các mục tiêu học tập sẽ cung cấp ý tưởng cho các tiêu đề. Paraphrase quan trọng là \"learning objectives for the course\" (các mục tiêu học tập của khóa học). Bẫy có thể là người nghe có thể nghĩ rằng có thể lấy ý tưởng từ một nguồn khác, nhưng người nói đã chỉ rõ rằng mục tiêu học tập là nguồn thông tin chính. Đáp án đúng vì nó liên quan trực tiếp đến việc xác định nội dung cho các phần của bài tập.",
+      "evidence": "Yes, you can look at the learning objectives for the course to get ideas about that."
+    },
+    "q28": {
+      "explanation": "Người nói đang đề cập đến việc người nghe cần viết một số phần của bài tập để nhận phản hồi. Thông tin giúp tìm ra đáp án là việc người nói đã khuyên người nghe nên viết \"a couple of sections\" (một vài phần) để nhận được phản hồi. Paraphrase quan trọng là \"write a couple of sections\" (viết một vài phần). Bẫy có thể là người nghe có thể nghĩ rằng cần phải viết toàn bộ bài tập trước khi nhận phản hồi, nhưng người nói đã chỉ rõ rằng chỉ cần viết một vài phần là đủ. Đáp án đúng vì nó phản ánh chính xác yêu cầu của người nói về việc viết và nhận phản hồi.",
+      "evidence": "I suggest that you write a couple of sections and I'll look at that."
+    },
+    "q29": {
+      "explanation": "Người nói đang giới thiệu một nguồn tài nguyên bổ sung cho người nghe để phát triển ý tưởng. Thông tin giúp tìm ra đáp án là việc người nói đã nhắc đến \"the online forum\" (diễn đàn trực tuyến) như một nơi để trao đổi ý tưởng và nhận phản hồi. Paraphrase quan trọng là \"the online forum\" (diễn đàn trực tuyến). Bẫy có thể là người nghe có thể nghĩ rằng chỉ cần dựa vào phản hồi từ giáo viên, nhưng người nói đã chỉ rõ rằng diễn đàn trực tuyến cũng rất hữu ích. Đáp án đúng vì nó cung cấp một nguồn thông tin bổ sung cho việc phát triển ý tưởng.",
+      "evidence": "Also, there's another great place to check suggestions, get feedback and bounce ideas around, and that's the online forum."
+    },
+    "q30": {
+      "explanation": "Người nói đang nhấn mạnh tầm quan trọng của việc có người khác kiểm tra bài viết để phát hiện lỗi. Thông tin giúp tìm ra đáp án là việc người nói đã khuyên người nghe nên nhờ người khác \"proofread it\" (kiểm tra lại). Paraphrase quan trọng là \"get somebody else to proofread it\" (nhờ ai đó kiểm tra lại). Bẫy có thể là người nghe có thể nghĩ rằng tự mình kiểm tra là đủ, nhưng người nói đã chỉ rõ rằng việc có người khác kiểm tra là rất cần thiết. Đáp án đúng vì nó nhấn mạnh tầm quan trọng của việc kiểm tra lại bài viết để đảm bảo chất lượng.",
+      "evidence": "Make sure that after you've finished, you get somebody else to proofread it for you."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Do you have your notes?</p><p><strong>Speaker 2:</strong> Yes, here they are. Um, so what I'm not really sure about is how to structure it.</p><p><strong>Speaker 1:</strong> Well, what you need to start by doing is looking at the module handbook. This tells you the knowledge and skills that you have to demonstrate. If you take notes on these things, then you will have the content that you need.</p><p><strong>Speaker 2:</strong> OK, I'll have a look at that again. That's good to know. But I'm still not sure about the structure. Is it like an essay?</p><p><strong>Speaker 1:</strong> No, the portfolio has a different structure. I don't really want to tell you exactly how to do it, as there are different ways that are good for different people. After organizing your notes, you could go to the library and look at the student assignment there from last year. It's in the section near the study skills books. It was a really good example and you can get some ideas about layout. I'll email you the details.</p><p><strong>Speaker 2:</strong> Thanks, that would be great. So, do I need to choose some headings?</p><p><strong>Speaker 1:</strong> Yes, you can look at the learning objectives for the course to get ideas about that. There's a list of different things which you could discuss in each section. Evidence of problem solving, understanding of organizational structure, evaluation of training, and so on.</p><p><strong>Speaker 2:</strong> OK, that's kind of clear. So, can I write a draft and then get some feedback from you?</p><p><strong>Speaker 1:</strong> Well, like all written work, I can only give you feedback on 20% of it. So, I suggest that you write a couple of sections and I'll look at that.</p><p><strong>Speaker 2:</strong> Thanks, that'll help a lot, just to let me know if I'm on the right track. Also, there's another great place to check suggestions, get feedback and bounce ideas around, and that's the online forum. All of your classmates are posting and can answer any questions you have. And getting into a discussion online is a great way to develop your thoughts further.</p><p><strong>Speaker 2:</strong> Yes, I'd forgotten about that. Thanks, you've given me a lot to get on with.</p><p><strong>Speaker 1:</strong> Oh, one last thing. Make sure that after you've finished, you get somebody else to proofread it for you. If you do it yourself, then you might miss things. I always recommend that my students swap papers to look for errors and make suggestions.</p><p><strong>Speaker 2:</strong> OK, will do. Thanks a lot, Sarah. </p><p><strong>Speaker 1:</strong> No problem. I look forward to seeing what you come up with.</p>"
+}

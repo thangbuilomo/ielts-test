@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_flow_chart_completion_02",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/FLOW%20CHART%20COMPLETION%2002.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Hey, Lisa, you went abroad as part of your social work course, didn't you?  </p><p><strong>Speaker 2:</strong> Yes, I did. I spent a year in South Africa the year before I graduated. It was a great experience. I'd like to do something similar. I've always wanted to spend some time overseas and do something useful while I'm there, not just be a tourist. It can be hard to find good placements, though. And often you have to pay a lot of money for the opportunity. It's not fair when education is already so expensive and you're working, after all.  </p><p><strong>Speaker 1:</strong> Did you have to pay for your work experience, Lisa?  </p><p><strong>Speaker 2:</strong> No, I was lucky. I managed to get a place on a scheme called the Overseas Training Scheme, or OTS. That meant that I worked as a volunteer for the overseas organisation, but the scheme paid for my flights and gave me a living wage while I was out there.  </p><p><strong>Speaker 3:</strong> That's ideal. How can I get on that scheme?  </p><p><strong>Speaker 2:</strong> Well, first, you'd have to check that you're eligible. I don't think the scheme is open to people doing any subject. The OTS only offers places to people who are interested in working in the community. You know, like social work, nursing or education.  </p><p><strong>Speaker 1:</strong> Well, I study public health and nutrition.  </p><p><strong>Speaker 2:</strong> You'd probably be eligible then, Sarah. I don't know about you, though, George. Mechanics doesn't really fall into that category.  </p><p><strong>Speaker 3:</strong> No, I don't think so. So what would I need to do?  </p><p><strong>Speaker 2:</strong> You have to complete an application form, which you can download from the OTS website. And then you have to get a member of the college staff to verify that you're a student here and write you a reference.  </p><p><strong>Speaker 1:</strong> Who did you get to do that?  </p><p><strong>Speaker 2:</strong> My personal tutor. I'm sure your tutor would help you out with it, Sarah.  </p><p><strong>Speaker 1:</strong> OK, and how soon after you send the application do you know whether you're successful?  </p><p><strong>Speaker 2:</strong> Oh, not for ages. There's a long selection process. They choose a load of candidates and if you're one of the ones shortlisted, you'll be invited to attend an interview.  </p><p><strong>Speaker 3:</strong> Oh, I didn't realise there was such competition for places.  </p><p><strong>Speaker 2:</strong> Yes, it's tough. Only a small percentage of applicants are successful.  </p><p><strong>Speaker 3:</strong> It hardly seems worth the bother.  </p><p><strong>Speaker 2:</strong> That's a bit pessimistic, George. I think it's definitely worth a try. If the OTS can arrange a placement for you and pay you to do it, then...  </p><p><strong>Speaker 3:</strong> Well, they don't find the placement for you.  </p><p><strong>Speaker 2:</strong> Don't they?  </p><p><strong>Speaker 2:</strong> No, you have to do that yourself. You have to contact organisations that interest you and find a placement that suits your skills. Don't worry about that, though. The college can help you. It didn't take me long to find my placement in South Africa. Once you've got confirmation of that, the OTS will book your flight.  </p><p><strong>Speaker 1:</strong> It sounds great. I really want to try it.  </p><p><strong>Speaker 2:</strong> Well, don't set your hopes on it. As I said, places are highly sought after and you can't guarantee you'll get one. You'll have to keep an eye open for alternative options.</p>"
+    }
+  ]
+}

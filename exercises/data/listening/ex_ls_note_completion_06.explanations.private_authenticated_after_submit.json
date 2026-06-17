@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_06",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Người nói đang hướng dẫn cách tham gia thư viện và nhấn mạnh rằng bạn cần phải điền vào một mẫu đơn đăng ký. Thông tin giúp tìm ra đáp án là cụm từ \"application form\" được nhắc đến rõ ràng. Paraphrase quan trọng ở đây là \"mẫu đơn đăng ký\" có thể được hiểu là \"form\" mà bạn cần để tham gia thư viện. Không có bẫy trong câu này vì thông tin rất rõ ràng và trực tiếp. Đáp án đúng vì nó chính xác với yêu cầu của câu hỏi.",
+      "evidence": "At the reception, they'll give you an application form."
+    },
+    "q12": {
+      "explanation": "Người nói đang giải thích về các yêu cầu để tham gia thư viện, trong đó có một khoản phí. Thông tin giúp tìm ra đáp án là cụm từ \"fee of £5\". Paraphrase quan trọng là \"phí\" có thể được hiểu là \"số tiền cần phải trả\". Không có bẫy trong câu này vì thông tin rất cụ thể và không gây nhầm lẫn. Đáp án đúng vì nó phản ánh chính xác yêu cầu về phí tham gia thư viện.",
+      "evidence": "After you fill that in, you'll have to give us the fee of £5."
+    },
+    "q13": {
+      "explanation": "Người nói đang cung cấp thông tin về giờ mở cửa của quầy tiếp tân, đặc biệt là vào thứ Sáu. Thông tin giúp tìm ra đáp án là từ \"Fridays\", cho thấy ngày cụ thể mà giờ mở cửa được kéo dài. Paraphrase quan trọng là \"thứ Sáu\" có thể được hiểu là ngày cuối tuần trước khi nghỉ. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó chính xác với yêu cầu của câu hỏi.",
+      "evidence": "although this is extended to 6.30 p.m. on Fridays."
+    },
+    "q14": {
+      "explanation": "Người nói đang phân biệt giữa số lượng sách mà sinh viên đại học và sau đại học có thể mượn. Thông tin giúp tìm ra đáp án là số \"six\", cho thấy số lượng sách mà sinh viên sau đại học được phép mượn. Paraphrase quan trọng là \"sáu cuốn sách\" có thể được hiểu là số lượng tối đa cho phép. Không có bẫy trong câu này vì thông tin rất cụ thể và không gây nhầm lẫn. Đáp án đúng vì nó phản ánh chính xác quy định về số lượng sách mượn.",
+      "evidence": "Postgraduates may borrow six books at a time."
+    },
+    "q15": {
+      "explanation": "Người nói đang giải thích về quy định gia hạn thời gian mượn sách. Thông tin giúp tìm ra đáp án là cụm từ \"one week\", cho thấy thời gian gia hạn cụ thể. Paraphrase quan trọng là \"một tuần\" có thể được hiểu là khoảng thời gian cho phép để gia hạn. Không có bẫy trong câu này vì thông tin rất rõ ràng và không gây nhầm lẫn. Đáp án đúng vì nó phản ánh chính xác quy định về gia hạn thời gian mượn sách.",
+      "evidence": "Borrowing time can be extended by a period of one week per book."
+    },
+    "q16": {
+      "explanation": "Người nói đang thông báo về hình phạt khi trả sách muộn. Thông tin giúp tìm ra đáp án là số tiền \"£2\", cho thấy mức phạt cụ thể. Paraphrase quan trọng là \"phạt £2\" có thể được hiểu là số tiền phải trả khi vi phạm quy định. Không có bẫy trong câu này vì thông tin rất cụ thể và không gây nhầm lẫn. Đáp án đúng vì nó phản ánh chính xác mức phạt cho việc trả sách muộn.",
+      "evidence": "you'll be charged a fine of £2 for every week that you are late."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. So, to join a library, you need to go to the reception between the hours of 9 a.m. and 5 p.m. After that, the reception closes, though all the other facilities will stay open until 10 p.m. At the reception, they'll give you an application form. After you fill that in, you'll have to give us the fee of £5, which you have to give us every year that you're a member of the library. We will also need to see your university card to confirm that you're a student of the university. And finally, we'll need two passport photos, one for our records and the other for your library card. You will need to do all this as soon as possible so you'll be able to use the facilities at once. I'm sure your workload will begin to build up soon.</p><p><strong>Speaker 1:</strong> Now, let me tell you a bit about the facilities. The library opens daily from 8 a.m. to 10 p.m., though, as I told you earlier, the reception operates only between the hours of 9 a.m. and 5 p.m., although this is extended to 6.30 p.m. on Fridays to give students more time to organise their book requirements for the weekend. The reception is closed on Sundays. </p><p><strong>Speaker 1:</strong> Undergraduate students are permitted to take out four books at any one time, and each book may be borrowed for a period of two weeks. Postgraduates may borrow six books at a time. Borrowing time can be extended by a period of one week per book if the student comes into the library in person with the book in question so it can be re-stamped. We do not renew book borrowing over the phone. </p><p><strong>Speaker 1:</strong> If you are late in returning any book, then you'll be charged a fine of £2 for every week that you are late. You won't be able to take out any other books until this fine is paid. This is not a method of earning money for the library, but merely what we have to do to ensure that...</p>"
+}

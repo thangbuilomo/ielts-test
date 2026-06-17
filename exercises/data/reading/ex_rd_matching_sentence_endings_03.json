@@ -1,0 +1,123 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_matching_sentence_endings_03",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 4,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "matching_sentence_endings",
+  "category_id": "matching_sentence_endings",
+  "title": "Matching Sentence Endings - Exercise 3",
+  "duration_seconds": 0,
+  "content": {
+    "title": "The Ozone Hole",
+    "content_html": "<h1>READING- MATCHING SENTENCE ENDINGS 03</h1>\n<h2>The Ozone Hole</h2>\n<p><strong>A</strong></p>\n<p>The earth’s atmosphere is composed of several layers. We live in the troposphere, from ground level up to about 10 kilometres high, where most of the weather occurs, such as rain, snow and clouds. Supersonic passenger jets fly just above the troposphere, whereas subsonic commercial airliners usually operate well within it. Above that is the stratosphere, an important region in which effects such as the ozone hole and global warming originate. After that are two more layers, known as the mesosphere and the thermosphere, then the final layer next to space is known as the exosphere.</p>\n<p><strong>B</strong></p>\n<p>Ozone is a bluish gas that occurs naturally in the atmosphere, with nearly 90 per cent of it in the stratosphere, constituting what is referred to as the ozone layer. It is created when ultraviolet radiation in the form of sunlight strikes the stratosphere, splitting oxygen molecules to form atomic oxygen. The atomic oxygen quickly combines with further oxygen molecules to form ozone. Although ozone is harmful if breathed in, it has the beneficial effect of absorbing a band of ultraviolet radiation called UVB. Laboratory and epidemiological studies demonstrate that UVB causes non-melanoma skin cancer and plays a major role in malignant melanoma development. In addition, UVB has been linked to cataracts.</p>\n<p><strong>C</strong></p>\n<p>Ozone forms a layer in the stratosphere, thinnest in the tropics and denser towards the poles. The amount of ozone above a point on the earth’s surface is measured in Dobson units (DU) - typically ~260 DU near the tropics and higher elsewhere, though there are large seasonal fluctuations. Although the tropical and equatorial regions are where the most amount of ozone is created, owing to the increased sunlight in these areas, the large-scale air circulation of the planet moves these gases to the northern and southern extremes over time.</p>\n<p><strong>D</strong></p>\n<p>Dramatic loss of ozone in the lower stratosphere over Antarctica was first noticed in the 1970s by a research group from the British Antarctic Survey (BAS) who were monitoring the atmosphere above Antarctica from a research station. Folklore has it that when the first measurements were taken in 1975, the drop in ozone levels in the stratosphere was so dramatic that at first the scientists thought their instruments were faulty. Replacement instruments were built and flown out and it was not until several months later, when they confirmed the earlier measurements, that the ozone depletion observed was accepted as genuine. Another story goes that the BAS satellite data did not show the dramatic loss of ozone because the software processing the raw ozone data from the satellite was programmed to treat very low values of ozone as bad readings. Later analysis of the raw data, when the results from the British Antarctic Survey team were published, confirmed the results and showed that the loss was rapid and large scale over most of the continent of Antarctica.</p>\n<p><strong>E</strong></p>\n<p>In the popular press the ozone hole is often confused with the problem of global warming. Whilst there is a connection because ozone contributes to the greenhouse effect, the ozone hole is a separate issue. Over Antarctica (and recently over the Arctic), stratospheric ozone has been depleted in the last 15 years at certain times of the year. This is mainly due to the release of man-made chemicals containing chlorine such as CFCs (chlorofluorocarbons), but also compounds containing bromine, other related halogen compounds and nitrogen oxides. CFCs are a common industrial product, used in refrigeration systems, air conditioners, aerosols, solvents and in the production of some types of packaging. Nitrogen oxides are a by-product of combustion processes, for example aircraft emissions.</p>\n<p><strong>F</strong></p>\n<p>The ozone depletion process begins when CFCs and other ozone depleting substances are emitted into the atmosphere where winds efficiently mix and evenly distribute the gases. CFCs are extremely stable and they do not dissolve in rain. After a period of several years, natural gases in the stratosphere combine with CFCs and this releases chlorine atoms, halons and methyl bromide. These in turn all release bromine atoms, and it is these atoms that actually destroy ozone. It is estimated that one chlorine atom can destroy over 100,000 ozone molecules before it is removed from the stratosphere.</p>\n<p><strong>G</strong></p>\n<p>The first global agreement to restrict CFCs came with the signing of the Montreal Protocol in 1987, ultimately aiming to reduce them by half by the year 2000. Two revisions of this agreement were made in the light of advances in scientific understanding. Agreement has now been reached on the control of industrial production of many halocarbons until the year 2030. The main CFCs should not have been produced by any of the signatories after the end of 1995, except for a limited amount for essential uses, such as for medical sprays. The countries of the European Union have adopted even stricter measures. Recognising their responsibility to the global environment, they agreed to halt production of the main CFCs from the beginning of 1995. It was anticipated that these limitations would lead to a recovery of the ozone layer by 2050. The World Meteorological Organisation estimated 2045, but recent investigations suggest the problem is perhaps on a much larger scale than anticipated. On a positive note, it is also generally agreed that, in the end, all countries will consent to joining the worldwide treaties and stop all CFC gas discharge.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_matching_sentence_endings_03.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_matching_sentence_endings_03.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "matching_sentence_endings",
+          "skill_tags": [
+            "rd_matching_sentence_endings"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 7 - 12</strong></p>\n<p>Complete each sentence with the correct ending. Write the appropriate letters, <strong>A </strong>-<strong> H</strong>.</p>\n<p>7 The thickness of the ozone layer varies with ...</p>\n<p>8 An apocryphal BAS story claims that equipment was changed to verify ...</p>\n<p>9 It is a common mistake to associate the ozone hole problem with ...</p>\n<p>10 Common household appliances contribute to ...</p>\n<p>11 The ozone layer is destroyed when CFCs react with ...</p>\n<p>12 International agreements will eventually lead to ...</p>\n<table>\n<tr>\n<td><strong>A</strong></td>\n<td>... the location of the layer relative to the Earth.</td>\n</tr>\n<tr>\n<td><strong>B</strong></td>\n<td>... the discharge of synthetic chemicals into the atmosphere.</td>\n</tr>\n<tr>\n<td><strong>C</strong></td>\n<td>... the satellite orbiting the earth.</td>\n</tr>\n<tr>\n<td><strong>D</strong></td>\n<td>... the normal components of the earth’s atmosphere.</td>\n</tr>\n<tr>\n<td><strong>E</strong></td>\n<td>... the apparently anomalous readings taken earlier.</td>\n</tr>\n<tr>\n<td><strong>F</strong></td>\n<td>... the issue of the heating up of the earth’s atmosphere.</td>\n</tr>\n<tr>\n<td><strong>G</strong></td>\n<td>... recent investigations into the strength of Dobson Units.</td>\n</tr>\n<tr>\n<td><strong>H</strong></td>\n<td>... the cessation of the release of most CFC gases into the atmosphere.</td>\n</tr>\n</table>",
+          "items": [
+            {
+              "question_id": "q7",
+              "number": 7,
+              "prompt_html": "The thickness of the ozone layer varies with ...",
+              "response_type": "select"
+            },
+            {
+              "question_id": "q8",
+              "number": 8,
+              "prompt_html": "An apocryphal BAS story claims that equipment was changed to verify ...",
+              "response_type": "select"
+            },
+            {
+              "question_id": "q9",
+              "number": 9,
+              "prompt_html": "It is a common mistake to associate the ozone hole problem with ...",
+              "response_type": "select"
+            },
+            {
+              "question_id": "q10",
+              "number": 10,
+              "prompt_html": "Common household appliances contribute to ...",
+              "response_type": "select"
+            }
+          ],
+          "options": [
+            {
+              "label": "A",
+              "text": "-"
+            },
+            {
+              "label": "B",
+              "text": "... the discharge of synthetic chemicals into the atmosphere."
+            },
+            {
+              "label": "C",
+              "text": "... the satellite orbiting the earth."
+            },
+            {
+              "label": "D",
+              "text": "... the normal components of the earth’s atmosphere."
+            },
+            {
+              "label": "E",
+              "text": "... the apparently anomalous readings taken earlier."
+            },
+            {
+              "label": "F",
+              "text": "... the issue of the heating up of the earth’s atmosphere."
+            },
+            {
+              "label": "G",
+              "text": "... recent investigations into the strength of Dobson Units."
+            },
+            {
+              "label": "H",
+              "text": ". 7 The thickness of the ozone layer varies with ... 8 An apocryphal BAS story claims that equipment was changed to verify ... 9 It is a common mistake to associate the ozone hole problem with ... 10 Common household appliances contribute to ... 11 The ozone layer is destroyed when CFCs react with ... 12 International agreements will eventually lead to ..."
+            }
+          ],
+          "question_range": [
+            7,
+            10
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

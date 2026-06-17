@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_07",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q34": {
+      "explanation": "Căn cứ nằm ở đoạn 5: \"Monarchs prefer milder temperatures. Once they reached their winter sites in Mexico, the monarchs encountered scarce and deteriorating forests, the direct result of illegal logging. The lack of suitable environment has had a serious effect on the breeding of the butterflies.\". Phương án A (Forests) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Monarchs prefer milder temperatures. Once they reached their winter sites in Mexico, the monarchs encountered scarce and deteriorating forests, the direct result of illegal logging. The lack of suitable environment has had a serious effect on the breeding of the butterflies._"
+    },
+    "q35": {
+      "explanation": "Căn cứ nằm ở đoạn 4: \"However, in the most recent migration, fewer of the orange- and red-winged monarchs made it to the end of the journey than ever before. The monarch butterfly population in Mexico was the lowest in 20 years, according to research just released by the WWF-Telcel Alliance and the monarch butterfly Biosphere Reserve Office of the Mexican government. The start of the arrival of the breeding pairs prompted the beginning of the research that showed a 43.7 per cent decrease (nearly three acres) in the total amount of forestland occupied by monarchs in and near Mexico’s monarch butterfly Biosphere Reserve, and a similar decrease in the number of butterflies in the area.\". Phương án B (The area inhabited by butterflies and the area’s butterfly population density) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "However, in the most recent migration, fewer of the orange- and red-winged monarchs made it to the end of the journey than ever before. The monarch butterfly population in Mexico was the lowest in 20 years, according to research just released by the WWF-Telcel Alliance and the monarch butterfly Biosphere Reserve Office of the Mexican government. The start of the arrival of the breeding pairs prompted the beginning of the research that showed a 43.7 per cent decrease (nearly three acres) in the total amount of forestland occupied by monarchs in and near Mexico’s monarch butterfly Biosphere Reserve, and a similar decrease in the number of butterflies in the area._"
+    },
+    "q36": {
+      "explanation": "Căn cứ nằm ở đoạn 4: \"The monarch butterfly population in Mexico was the lowest in 20 years, according to research just released by the WWF-Telcel Alliance and the monarch butterfly Biosphere Reserve Office of the Mexican government. The start of the arrival of the breeding pairs prompted the beginning of the research that showed a 43.7 per cent decrease (nearly three acres) in the total amount of forestland occupied by monarchs in and near Mexico’s monarch butterfly Biosphere Reserve, and a similar decrease in the number of butterflies in the area.\". Phương án D (An increase in predator numbers) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "The monarch butterfly population in Mexico was the lowest in 20 years, according to research just released by the WWF-Telcel Alliance and the monarch butterfly Biosphere Reserve Office of the Mexican government. The start of the arrival of the breeding pairs prompted the beginning of the research that showed a 43.7 per cent decrease (nearly three acres) in the total amount of forestland occupied by monarchs in and near Mexico’s monarch butterfly Biosphere Reserve, and a similar decrease in the number of butterflies in the area._"
+    }
+  }
+}

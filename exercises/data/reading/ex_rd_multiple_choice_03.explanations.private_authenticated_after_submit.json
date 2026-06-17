@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_multiple_choice_03",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q28": {
+      "explanation": "Căn cứ nằm ở đoạn 1: \"Three basic grades of olive oil are most often available to the consumer: extra virgin, virgin and olive oil. In addition to the basic grades, olive oil differs from one country or region to another because of the types of olives that are grown, the harvesting methods, the time of the harvest and the pressing techniques. These factors all contribute to the individual characteristics of the olive oil.\". Phương án D (Access to water) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Three basic grades of olive oil are most often available to the consumer: extra virgin, virgin and olive oil. In addition to the basic grades, olive oil differs from one country or region to another because of the types of olives that are grown, the harvesting methods, the time of the harvest and the pressing techniques. These factors all contribute to the individual characteristics of the olive oil._"
+    },
+    "q29": {
+      "explanation": "Căn cứ nằm ở đoạn 2: \"Deep soils tend to produce excessively vigorous trees, also with lower yields. The ideal site for olive oil production is a clay loam soil with good internal and surface drainage. Irrigation is necessary to produce heavy crops and to avoid the trees bearing fruit only in alternate years.\". Phương án C (Clay loam soils) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Deep soils tend to produce excessively vigorous trees, also with lower yields. The ideal site for olive oil production is a clay loam soil with good internal and surface drainage. Irrigation is necessary to produce heavy crops and to avoid the trees bearing fruit only in alternate years._"
+    },
+    "q30": {
+      "explanation": "Căn cứ nằm ở đoạn 2: \"The ideal site for olive oil production is a clay loam soil with good internal and surface drainage. Irrigation is necessary to produce heavy crops and to avoid the trees bearing fruit only in alternate years. The site must be free of hard winter frosts because wood damage will occur at temperatures below 15 degrees Fahrenheit and a lengthy spell of freezing weather can ruin any chances for a decent crop.\". Phương án C (The standard of fruit can be affected.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "The ideal site for olive oil production is a clay loam soil with good internal and surface drainage. Irrigation is necessary to produce heavy crops and to avoid the trees bearing fruit only in alternate years. The site must be free of hard winter frosts because wood damage will occur at temperatures below 15 degrees Fahrenheit and a lengthy spell of freezing weather can ruin any chances for a decent crop._"
+    },
+    "q31": {
+      "explanation": "Căn cứ nằm ở đoạn 3: \"Some olive oil producers are known to transfer the olives by multi-ton trucks over long distances, thus exposing the fragile fruit to crushing weight and the hot sun. This practice causes the olives to begin oxidising and so become acidic. In addition to the time lapse between harvesting and pressing, in order to be considered virgin or extra virgin, the oil must be obtained using mechanical processes only.\". Phương án D (Using water in the extraction process.) diễn đạt đúng ý trong bài; các phương án còn lại không khớp với chi tiết này hoặc thêm thông tin không được nêu.",
+      "evidence": "Some olive oil producers are known to transfer the olives by multi-ton trucks over long distances, thus exposing the fragile fruit to crushing weight and the hot sun. This practice causes the olives to begin oxidising and so become acidic. In addition to the time lapse between harvesting and pressing, in order to be considered virgin or extra virgin, the oil must be obtained using mechanical processes only._"
+    }
+  }
+}

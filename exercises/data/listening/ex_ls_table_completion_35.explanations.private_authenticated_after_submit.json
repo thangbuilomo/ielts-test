@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_35",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói đang nói về một khóa học mà họ quan tâm, cụ thể là khóa học liên quan đến việc tạo ra trang sức. Thông tin này giúp tìm ra đáp án vì nó trực tiếp đề cập đến nội dung của khóa học mà người gọi đang hỏi. Paraphrase quan trọng ở đây là \"creating jewellery\" có thể được hiểu là \"tạo ra trang sức\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng là \"jewellery\" vì nó chính xác phản ánh nội dung khóa học mà người nói đang tìm kiếm.",
+      "evidence": "It was about creating jewellery."
+    },
+    "q2": {
+      "explanation": "Người nói đang cung cấp mã khóa học cho nhân viên của Henbridge College. Thông tin này giúp tìm ra đáp án vì mã khóa học là một phần quan trọng để xác định khóa học cụ thể mà người gọi đang quan tâm. Paraphrase quan trọng ở đây là \"course code\" được nhắc đến trực tiếp. Không có bẫy trong câu này vì mã khóa học được nêu rõ ràng và không có thông tin nào gây nhầm lẫn. Đáp án đúng là \"JM309\" vì đây là mã khóa học chính xác mà người nói đã cung cấp.",
+      "evidence": "Yes, it's JM309."
+    },
+    "q3": {
+      "explanation": "Người nói đang xác nhận thời gian của khóa học mà họ đang thảo luận. Thông tin này giúp tìm ra đáp án vì nó cho biết thời gian kết thúc của khóa học. Paraphrase quan trọng ở đây là \"from 6.30 to 7.45\" có nghĩa là khóa học bắt đầu vào lúc 6.30 và kết thúc vào lúc 7.45. Không có bẫy trong câu này vì thời gian được nêu rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng là \"7.45\" vì đây là thời gian kết thúc chính xác của khóa học.",
+      "evidence": "From 6.30 to 7.45?"
+    },
+    "q4": {
+      "explanation": "Người nói đang giới thiệu một khóa học khác có tên là \"Working with Glass\". Thông tin này giúp tìm ra đáp án vì nó cho biết nội dung của khóa học mới mà người gọi có thể quan tâm. Paraphrase quan trọng ở đây là \"Working with Glass\" có thể hiểu là \"Làm việc với Kính\". Không có bẫy trong câu này vì tên khóa học được nêu rõ ràng. Đáp án đúng là \"Glass\" vì đây là phần quan trọng trong tên khóa học mà người nói đã đề cập.",
+      "evidence": "There's one called Working with Glass..."
+    },
+    "q5": {
+      "explanation": "Người nói đang nói về lịch trình của mình và cho biết họ không có thời gian vào thứ Ba. Thông tin này giúp tìm ra đáp án vì nó chỉ ra ngày mà người nói không thể tham gia khóa học. Paraphrase quan trọng ở đây là \"except Tuesday\" có nghĩa là họ không có thời gian vào ngày đó. Bẫy ở đây có thể là sự nhầm lẫn giữa các ngày trong tuần, nhưng thông tin rất rõ ràng. Đáp án đúng là \"Monday\" vì đây là ngày mà người nói có thể tham gia khóa học.",
+      "evidence": "I'm free every evening during the week, except Tuesday."
+    },
+    "q6": {
+      "explanation": "Người nói đang cung cấp thông tin về thời gian của khóa học Pottery. Thông tin này giúp tìm ra đáp án vì nó cho biết thời gian kết thúc của khóa học. Paraphrase quan trọng ở đây là \"runs until 5.30\" có nghĩa là khóa học sẽ kết thúc vào lúc 5 giờ 30. Không có bẫy trong câu này vì thời gian được nêu rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng là \"5.30\" vì đây là thời gian kết thúc chính xác của khóa học Pottery.",
+      "evidence": "It starts at quarter past 4 and runs until 5.30."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> Hello, Henbridge College. Can I help you?</p><p><strong>Speaker 2:</strong> Hello, I saw a course on your website that I'm interested in. It was about creating jewellery. The thing is, though, I wasn't able to reserve a place. Are you able to help me with that?</p><p><strong>Speaker 1:</strong> Certainly, I'll see what I can do. Do you know the course code, by any chance?</p><p><strong>Speaker 2:</strong> Yes, it's JM309.</p><p><strong>Speaker 1:</strong> Great, thank you. That makes it easier for me to find it on the system.</p><p><strong>Speaker 2:</strong> Sure, that's why I made a note of it.</p><p><strong>Speaker 1:</strong> OK, yes, I've found it here. That's the one on Thursday, isn't it? From 6.30 to 7.45?</p><p><strong>Speaker 2:</strong> That's the one.</p><p><strong>Speaker 1:</strong> Right, it's saying there aren't any places available, I'm afraid. That'll be why you couldn't book a place.</p><p><strong>Speaker 2:</strong> Oh, that's a shame. What other evening courses are there?</p><p><strong>Speaker 1:</strong> There's one called Working with Glass, which is very popular. Course WG891. Does that sound like something that might interest you?</p><p><strong>Speaker 2:</strong> Maybe, but it depends what it is. I'm free every evening during the week, except Tuesday.</p><p><strong>Speaker 1:</strong> Oh, right, that's when it is. From 5.45 until 7. And there are a few places, but I understand that wouldn't be possible for you. Is that right?</p><p><strong>Speaker 2:</strong> I'm afraid so. We also run a pottery course, P168. That's every Friday, but it's earlier.</p><p><strong>Speaker 2:</strong> Well, that might work, because I only work until 2 on Fridays. What time?</p><p><strong>Speaker 1:</strong> It starts at quarter past 4 and runs until 5.30. There's still space if you're interested.</p><p><strong>Speaker 2:</strong> Great, I'll take that place then, please.</p>"
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_diagram_labelling_02",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q36": {
+      "explanation": "Người nói đang mô tả về chất liệu và thiết kế của đồng hồ cây (grandfather clock). Thông tin giúp tìm ra đáp án là cụm từ \"made of wood\" (làm bằng gỗ) và \"elaborately carved\" (chạm khắc tinh xảo), cho thấy rằng thân đồng hồ có chất liệu gỗ và có sự trang trí công phu. Paraphrase quan trọng ở đây là \"body\" (thân) và \"wood\" (gỗ), giúp người nghe dễ dàng nhận diện. Bẫy có thể là việc người nghe có thể nhầm lẫn với các chất liệu khác hoặc các chi tiết không quan trọng khác trong mô tả. Đáp án đúng vì nó chính xác mô tả phần thân của đồng hồ cây.",
+      "evidence": "The body was made of wood, often elaborately carved."
+    },
+    "q37": {
+      "explanation": "Người nói đang nói về cách mà thời gian được hiển thị trên đồng hồ cây. Thông tin quan trọng là \"main dial\" (mặt đồng hồ chính) và \"decorative design\" (thiết kế trang trí), cho thấy rằng mặt đồng hồ không chỉ có chức năng hiển thị thời gian mà còn có tính thẩm mỹ. Paraphrase quan trọng là \"displayed\" (hiển thị) và \"decorative\" (trang trí). Bẫy có thể là việc người nghe có thể bị phân tâm bởi các chi tiết khác về đồng hồ. Đáp án đúng vì nó chính xác mô tả chức năng của mặt đồng hồ.",
+      "evidence": "The time was displayed on the main dial, which often had a decorative design."
+    },
+    "q38": {
+      "explanation": "Người nói đang giải thích về cơ chế hoạt động của đồng hồ cây, cụ thể là vai trò của con lắc. Thông tin quan trọng là \"regular rhythm\" (nhịp điệu đều đặn) và \"swinging of the pendulum\" (sự dao động của con lắc), cho thấy con lắc là yếu tố chính giúp đồng hồ hoạt động chính xác. Paraphrase quan trọng là \"maintained\" (duy trì) và \"swinging\" (dao động). Bẫy có thể là việc người nghe có thể nhầm lẫn với các bộ phận khác của đồng hồ. Đáp án đúng vì nó chính xác mô tả cách thức hoạt động của đồng hồ.",
+      "evidence": "The regular rhythm of the clock was maintained by the swinging of the pendulum."
+    },
+    "q39": {
+      "explanation": "Người nói đang mô tả cách thức hoạt động của đồng hồ cây liên quan đến việc lên dây cót. Thông tin quan trọng là \"heavy objects\" (vật nặng) và \"fall to the bottom\" (rơi xuống đáy), cho thấy rằng đồng hồ sử dụng trọng lực để hoạt động. Paraphrase quan trọng là \"raise them to the top\" (nâng chúng lên đỉnh) và \"wind up\" (lên dây cót). Bẫy có thể là việc người nghe có thể bị nhầm lẫn với các bộ phận khác không liên quan. Đáp án đúng vì nó chính xác mô tả quy trình lên dây cót cho đồng hồ.",
+      "evidence": "These heavy objects would slowly fall to the bottom of the clock, and then the owner would raise them to the top again to wind up the clock."
+    },
+    "q40": {
+      "explanation": "Người nói đang nói về thiết kế bên ngoài của đồng hồ cây, cụ thể là lớp kính bảo vệ. Thông tin quan trọng là \"glass casing\" (lớp kính) và \"show off the mechanism\" (khoe cơ chế), cho thấy rằng lớp kính không chỉ bảo vệ mà còn làm nổi bật cơ chế bên trong. Paraphrase quan trọng là \"had\" (có) và \"show off\" (khoe). Bẫy có thể là việc người nghe có thể nhầm lẫn với các chi tiết khác về thiết kế. Đáp án đúng vì nó chính xác mô tả một đặc điểm nổi bật của đồng hồ cây.",
+      "evidence": "Most grandfather clocks had a glass casing to show off the mechanism inside."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> The first accurate timekeeping device to be popularly used in Europe was the long case clock, also known as the grandfather clock. </p><p><strong>Speaker 1:</strong> These machines were usually about two metres tall and needed to be wound up by hand every day or sometimes every week for more expensive models. </p><p><strong>Speaker 2:</strong> The body was made of wood, often elaborately carved. The plinth at the bottom was solid and strong to hold the weight of the clock. </p><p><strong>Speaker 1:</strong> The time was displayed on the main dial, which often had a decorative design. The clock featured only two hands, the hour hand and the minute hand. </p><p><strong>Speaker 2:</strong> The second hand was not introduced until much later. Just above this was the moon dial, which was used to keep track of the phases of the lunar cycle. </p><p><strong>Speaker 1:</strong> This was more for decoration than for actual functional use. The regular rhythm of the clock was maintained by the swinging of the pendulum, which hung down lower than the rest of the mechanism and swung at an angle of about five degrees. </p><p><strong>Speaker 2:</strong> The clock was powered by a weight, with some clocks having up to three. These heavy objects would slowly fall to the bottom of the clock, and then the owner would raise them to the top again to wind up the clock. </p><p><strong>Speaker 1:</strong> They were suspended at the end of a long cable, the other end of which would be pulled up slowly as the weight fell. </p><p><strong>Speaker 2:</strong> Most grandfather clocks had a glass casing to show off the mechanism inside, and would often have a beautiful carved pediment at the top. </p><p><strong>Speaker 1:</strong> Now, as you can see…</p>"
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_09",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2009.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> I'd also like to ask you about that presentation that I have to give next month. </p><p><strong>Speaker 1:</strong> Yes, what's the problem? </p><p><strong>Speaker 2:</strong> Well, I've started work on it, as I want to do a good job, but I can't seem to find much information on the subject in the library. </p><p><strong>Speaker 1:</strong> OK, I'll jot down some ideas for you, then. What's the subject are you presenting again? </p><p><strong>Speaker 2:</strong> The three C's of the Great Reform Act in England in 1832. </p><p><strong>Speaker 1:</strong> Yes, the causes, course, and consequences. Well, there should be plenty of material in the library on that, as it's such an important subject. </p><p><strong>Speaker 2:</strong> Well, there should be, but it looks as though some first years are doing an essay on it, and so most of the books are out. I also don't want the run-of-the-mill books. I want my presentation to be a bit more in-depth. </p><p><strong>Speaker 1:</strong> The best book for you would be Great 19th Century Reform by Mark Needham. That book you can't take out. It's in the reference section only. You'll have to read it, actually, in the library itself. </p><p><strong>Speaker 2:</strong> Then there was a great article in History Monthly on the Great Reform Act by Jim Wood. The issue was August 2003, I think. You'll find it in the library stack system. </p><p><strong>Speaker 1:</strong> That's great. Anything else? </p><p><strong>Speaker 2:</strong> Yes, there's another really good book on the subject that looks at the whole thing from a slightly different point of view. I remember when it came out, it ruffled a few feathers. It's called Political Reform, and it's by Rob Jenkins. </p><p><strong>Speaker 1:</strong> The thing is, though, that I know our library hasn't got it. As you're preparing so far in advance, though, you'll be able to order it through interlibrary loan. Just go to the library reception and they'll give you the forms to fill out. It'll come in about a week, I expect. </p><p><strong>Speaker 2:</strong> OK, I'll do that straight away. </p><p><strong>Speaker 1:</strong> Finally, there's the book Reform and the 19th Century, which I actually wrote. The library used to have a copy, but it's been lost, I think. I've got a copy at home, so I'll bring it in tomorrow. If you pop in tomorrow morning sometime, I'll let you borrow it for a week or so. </p><p><strong>Speaker 2:</strong> Oh, that's fantastic. I didn't know you were an author, Dr. Jones. </p><p><strong>Speaker 1:</strong> Yes, I've done a few things. You'd better not lose it or spill coffee on it or anything, though. </p><p><strong>Speaker 2:</strong> I'll take very good care of it, I promise you. </p><p><strong>Speaker 1:</strong> I know you will, or I wouldn't lend it to you. So I'll see you tomorrow, then. </p><p><strong>Speaker 2:</strong> Yes, thanks again. See you tomorrow. </p><p><strong>Speaker 1:</strong> Bye. </p><p><strong>Speaker 2:</strong> Bye.</p>"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_multiple_choice_04",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 4,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "mcq_multi",
+  "category_id": "multiple_choice",
+  "title": "Multiple Choice - Exercise 4",
+  "duration_seconds": 0,
+  "content": {
+    "title": "The History of Paper",
+    "content_html": "<h1>MULTIPLE CHOICE 04</h1>\n<h2>The History of Paper</h2>\n<p><strong>A\n</strong>When we think of the origins of paper, our minds might wander back over 5,000 years to the Nile river valley in Egypt. It was here that a marsh grass called <em>Cyperous papyrus</em> flourished. The Egyptians cut thin strips from the plant’s stem and softened them in the muddy waters of the Nile. These strips were then layered in right angles to form a kind of mat. The mat was then pounded into a thin sheet and left in the sun to dry. The resulting sheets were ideal for writing on. Since they were also lightweight and portable they became the writing medium of choice of the Egyptians, Greeks and Romans for record keeping, spiritual texts and works of art.</p>\n<p><strong>B\n</strong>Paper as we know it today comes from another source - China. It was not until the third century AD that the secret art of papermaking began to creep out of China, first to Vietnam and later to India. It made its true push westward in 751 AD when the Tang Dynasty was at war with the Islamic world. During a battle on the banks of the Tarus River, Islamic warriors captured a Chinese caravan which happened to include several papermakers. They spirited them away to Samarkand, which soon became a great centre for paper production. Finally, when the Moors from north Africa invaded Spain and Portugal they brought the technology with them, and so it was that papermaking entered Europe in the twelfth century.</p>\n<p><strong>C</strong></p>\n<p>In Europe, the use of papyrus for writing on had been abandoned in the ninth century. The preferred medium for the artists and writers of the time was the smooth and lustrous parchment. However, parchment - made from animal skin - was extremely expensive, so using old rags instead made the paper making process much cheaper. The notion of paper being used as a practical everyday item did not occur until the fifteenth century when Johann Gutenburg perfected movable type and sparked off a revolution in mass communication. The birth of the modern paper and printing industry is commonly marked from this time.</p>\n<p><strong>D\n</strong>Printing technology rapidly developed and created an ever-increasing demand for paper. Early European paper was made from recycled cotton and linen - and a huge trade quickly sprung up around the trading of old rags. It is said that the black plague entered England from Europe on these old rags. Other manufacturers experimented with fibres such as straw, cabbage, wasp nests and finally wood. This resulted in inexpensive - and replaceable - materials for papermaking. Today, the long soft fibres of softwoods, such as spruce, have become the most suitable source of pulp for mass production.</p>\n<p><strong>E\n</strong>The demand for paper also created the need for greater efficiency in production. In the late eighteenth century, the labours of Nicholas Luis Robert resulted in the creation of a machine that could produce a seamless length of paper on an endless wire mesh with squeeze rollers at one end. Perfected and marketed by the Fourdrinier brothers, the new machine made papers that soon replaced traditional hand-made single sheets. In Europe and America, the mass production of paper became a thriving industry supplying huge volumes of paper for a whole range of purposes.</p>\n<p><strong>F\n</strong>Papermaking in essence is a simple process. Whether using recycled materials or fresh organic matter, the process starts as the material is shredded into small strips and soaked overnight to loosen the fibres. Next, the fibres are boiled for 2 - 6 hours, and are turned every so often. When finished, the fibres are washed in fresh water to remove impurities and then small particles or specks are removed by hand. The fibres are beaten in a blender, creating a creamy pulp. At this stage, dyes can be added to create coloured papers. The pulp is then poured into a large tub and the fibres are suspended in the water. Framed screens are lowered into the water and then lifted to the surface catching the fibres on the screen. The screens are then dried, pressed and smoothed.</p>\n<p><strong>G\n</strong>In the West, as industrial paper production boomed, the art of hand papermaking has been driven nearly to extinction, being practised only by a few fine artists and crafts people. However, in small areas throughout Asia, the tradition has lived on through regular and rice paper made by hand. Incidentally, the traditional Asian paper, which is often referred to as “rice paper”, is not made from rice fibres at all. More commonly it is made from the versatile mulberry tree, varieties of which are also used for feeding silkworms and in medicine. In contrast to the cold precision and standardisation that industrial production demands, the soft, subtle textures and natural feel of hand-made paper is said to echo the warm heart of the papermaker who makes each sheet with devotion.</p>\n<p><strong>H\n</strong>This millennium will be dominated by the tremendous progress that has been made in computer science, thus triggering a complete change in our commercial and private communication and information behaviour. Does this mean that the paper era will come to an end? The answer is most definitely “No”. Clearly a huge amount of data will be generated electronically, but the issue is how to preserve it. The difficulties of data storage over a long period of time are well known (for example, the durability of disks; frequent changes of hardware and software; electronic breakdowns etc.). Once again, paper offers the most convenient and durable storage option.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_multiple_choice_04.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_multiple_choice_04.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "mcq_multi",
+          "skill_tags": [
+            "rd_mcq_multi"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 35 - 38</strong></p>\n<p>Choose <strong>TWO</strong> letters (from <strong>A - E</strong>) and write them in any order in the answer boxes.</p>\n<p>Which TWO statements are true of the early development of paper?</p>\n<p>(35)</p>\n<p>(36)</p>\n<table>\n<tr>\n<td><strong>A    </strong>Papyrus was a popular material for writing because it could be transported easily.</td>\n<td></td>\n</tr>\n<tr>\n<td><strong>B    </strong>Paper travelled to Europe on trade routes from China.</td>\n<td></td>\n</tr>\n<tr>\n<td><strong>C    </strong>Paper arrived in Europe soon after its introduction into the Islamic world.</td>\n<td></td>\n</tr>\n<tr>\n<td><strong>D    </strong>Papyrus was used as a writing material in Europe up until the introduction of paper.</td>\n<td></td>\n</tr>\n<tr>\n<td><strong>E    </strong>The majority of Europeans could not afford parchment made from animal skin for writing.</td>\n<td></td>\n</tr>\n</table>\n\n<p>Which TWO statements are true of the modern development of paper?</p>\n<p>(37)</p>\n<p>(38)</p>\n<table>\n<tr>\n<td><strong>A    </strong>The material used to make paper has not changed since its introduction to Europe.</td>\n<td></td>\n</tr>\n<tr>\n<td><strong>B    </strong>The Fourdinier brothers marketed a version of a papermaking machine which was identical to that created by Nicholas Luis Robert.</td>\n<td></td>\n</tr>\n<tr>\n<td><strong>C    </strong>Paper is no longer hand-made anywhere in the West.</td>\n<td></td>\n</tr>\n<tr>\n<td><strong>D    </strong>The material used to make one type of paper in Asia has a misleading name.</td>\n<td></td>\n</tr>\n<tr>\n<td><strong>E    </strong>The author believes paper will continue to be used in the future.</td>\n<td></td>\n</tr>\n</table>\n\n<ol>\n<li>\n<p>A / E</p>\n</li>\n<li>\n<p>D / E</p>\n</li>\n</ol>",
+          "items": [
+            {
+              "question_id": "q35",
+              "number": 35,
+              "prompt_html": "(35)",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q36",
+              "number": 36,
+              "prompt_html": "(36)",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q37",
+              "number": 37,
+              "prompt_html": "(37)",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q38",
+              "number": 38,
+              "prompt_html": "(38)",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            35,
+            38
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

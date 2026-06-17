@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_01",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q28": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The news of this energy-laden fruit quickly moved throughout the region. Coffee berries were transported from Ethiopia to the Arabian Peninsula, and were first cultivated in what today is the country of Yemen.\". Heading Viii (The Spread of Coffee) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The news of this energy-laden fruit quickly moved throughout the region. Coffee berries were transported from Ethiopia to the Arabian Peninsula, and were first cultivated in what today is the country of Yemen._"
+    },
+    "q29": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Coffee was first eaten as a food but later people in Arabia made a drink by boiling the beans, creating a drink known as “qahwa”, a word which, literally translated, means “that which prevents sleep”. It was much later, in Turkey, that the notion of roasting the beans before boiling them came about, possibly more by accident than by design.\". Heading Ix (Consuming Coffee) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Coffee was first eaten as a food but later people in Arabia made a drink by boiling the beans, creating a drink known as “qahwa”, a word which, literally translated, means “that which prevents sleep”. It was much later, in Turkey, that the notion of roasting the beans before boiling them came about, possibly more by accident than by design._"
+    },
+    "q30": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"If you were to explore the planet for coffee, you would find about 60 species of coffee plants growing wild in Africa, Malaysia and other regions. But only about ten of them are actually cultivated.\". Heading vi (Coffee Varieties) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "If you were to explore the planet for coffee, you would find about 60 species of coffee plants growing wild in Africa, Malaysia and other regions. But only about ten of them are actually cultivated._"
+    },
+    "q31": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Although wild coffee plants can reach 10 - 12 metres, the plantation varieties grow to a height of around 4 metres only. This makes harvesting easier and cultivation more economical.\". Heading xi (What the Coffee Plant Looks Like) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Although wild coffee plants can reach 10 - 12 metres, the plantation varieties grow to a height of around 4 metres only. This makes harvesting easier and cultivation more economical._"
+    },
+    "q32": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Coffee plants require special conditions in order to yield a satisfactory crop. The climate needs to be hot-wet or hot-temperate, with frequent rains and temperatures varying from 15 - 25 degrees centigrade, conditions which are usually found between the Tropics of Cancer and Capricorn.\". Heading i (Growing Coffee) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Coffee plants require special conditions in order to yield a satisfactory crop. The climate needs to be hot-wet or hot-temperate, with frequent rains and temperatures varying from 15 - 25 degrees centigrade, conditions which are usually found between the Tropics of Cancer and Capricorn._"
+    },
+    "q33": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Harvesting time depends on the geographic situation, and it can therefore vary greatly according to the particular environment. During harvesting, the ripe beans are first picked from the branches.\". Heading iii (Processing the Bean) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Harvesting time depends on the geographic situation, and it can therefore vary greatly according to the particular environment. During harvesting, the ripe beans are first picked from the branches._"
+    }
+  }
+}

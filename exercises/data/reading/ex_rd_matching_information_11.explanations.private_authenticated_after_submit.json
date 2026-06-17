@@ -1,0 +1,40 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_information_11",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q15": {
+      "explanation": "Câu 15 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 3 chứa căn cứ: \"If you want to go straight, just shift the weight forward to tilt the nose down a bit. Then to rise, electricity from a battery between the tail wings is used to pump an oil contained inside central hull tanks next to the mid wings into external containment bladders behind the nose. This simple manoeuver increases the craft’s volume, and thus lowers its density just enough for the surrounding water to push it upward.\". Lựa chọn PW (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "If you want to go straight, just shift the weight forward to tilt the nose down a bit. Then to rise, electricity from a battery between the tail wings is used to pump an oil contained inside central hull tanks next to the mid wings into external containment bladders behind the nose. This simple manoeuver increases the craft’s volume, and thus lowers its density just enough for the surrounding water to push it upward._"
+    },
+    "q16": {
+      "explanation": "Câu 16 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 1 chứa căn cứ: \"A strange-looking yellow \"fish\" has been lurking in the waters off the southern coast of Vancouver Island recently. Called a Slocum underwater glider, the 1.5-metre-long, 52-kilogram torpedo-shaped vehicle is under evaluation by the federal government’s Institute of Ocean Sciences (IOS). Driven entirely by a variable buoyancy system instead of a propeller, it needs no mother ship for tethering or support.\". Lựa chọn RK (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "A strange-looking yellow \"fish\" has been lurking in the waters off the southern coast of Vancouver Island recently. Called a Slocum underwater glider, the 1.5-metre-long, 52-kilogram torpedo-shaped vehicle is under evaluation by the federal government’s Institute of Ocean Sciences (IOS). Driven entirely by a variable buoyancy system instead of a propeller, it needs no mother ship for tethering or support._"
+    },
+    "q17": {
+      "explanation": "Câu 17 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"Matt Russi, an aerospace and ocean engineer at Virginia Tech developing internal controls suitable for gliders, points out that: “Slocums should not disturb the environment which they are sampling. For propeller-powered underwater vehicles, this might mean avoiding stirring up sediment on the ocean floor, which happens when a vehicle uses external thrusters. With gliders there is no exhaust, no discharge and no lubricants.” A colleague of Russi, Dr Rob Kirwan, also adds that “since there are no external actuators, the vehicles are robust to corrosion.”\". Lựa chọn SW (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Matt Russi, an aerospace and ocean engineer at Virginia Tech developing internal controls suitable for gliders, points out that: “Slocums should not disturb the environment which they are sampling. For propeller-powered underwater vehicles, this might mean avoiding stirring up sediment on the ocean floor, which happens when a vehicle uses external thrusters. With gliders there is no exhaust, no discharge and no lubricants.” A colleague of Russi, Dr Rob Kirwan, also adds that “since there are no external actuators, the vehicles are robust to corrosion.”_"
+    },
+    "q18": {
+      "explanation": "Câu 18 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"And, as there is no propeller, such an undersea craft does not contaminate its environment with lubricants needed to smooth propeller motion. Matt Russi, an aerospace and ocean engineer at Virginia Tech developing internal controls suitable for gliders, points out that: “Slocums should not disturb the environment which they are sampling. For propeller-powered underwater vehicles, this might mean avoiding stirring up sediment on the ocean floor, which happens when a vehicle uses external thrusters.\". Lựa chọn MR (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "And, as there is no propeller, such an undersea craft does not contaminate its environment with lubricants needed to smooth propeller motion. Matt Russi, an aerospace and ocean engineer at Virginia Tech developing internal controls suitable for gliders, points out that: “Slocums should not disturb the environment which they are sampling. For propeller-powered underwater vehicles, this might mean avoiding stirring up sediment on the ocean floor, which happens when a vehicle uses external thrusters._"
+    },
+    "q19": {
+      "explanation": "Câu 19 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 6 chứa căn cứ: \"“At present, we are simply learning what the Slocum can do,” says Darren Larsen, engineering manager for IOS. “I confess that my initial motivation was to develop the vehicle. However, once we were able to add sensors to address biology in the water column, my personal interest has increased beyond the engineering aspects.” The Slocum is equipped with various sensors to identify chlorophyll fluorescence, dissolved organic material, and particle scattering. “The sensors provide us with information about the water mass and the physics,” says Steve Wilson, IOS research scientist. “They also provide us with information about microscopic life in the ocean.”\". Lựa chọn DL (Darren Larsen) là lựa chọn khớp với chi tiết này.",
+      "evidence": "“At present, we are simply learning what the Slocum can do,” says Darren Larsen, engineering manager for IOS. “I confess that my initial motivation was to develop the vehicle. However, once we were able to add sensors to address biology in the water column, my personal interest has increased beyond the engineering aspects.” The Slocum is equipped with various sensors to identify chlorophyll fluorescence, dissolved organic material, and particle scattering. “The sensors provide us with information about the water mass and the physics,” says Steve Wilson, IOS research scientist. “They also provide us with information about microscopic life in the ocean.”_"
+    },
+    "q20": {
+      "explanation": "Câu 20 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 3 chứa căn cứ: \"If you want to go straight, just shift the weight forward to tilt the nose down a bit. Then to rise, electricity from a battery between the tail wings is used to pump an oil contained inside central hull tanks next to the mid wings into external containment bladders behind the nose. This simple manoeuver increases the craft’s volume, and thus lowers its density just enough for the surrounding water to push it upward.\". Lựa chọn PL (theo bảng đáp án) là lựa chọn khớp với chi tiết này.",
+      "evidence": "If you want to go straight, just shift the weight forward to tilt the nose down a bit. Then to rise, electricity from a battery between the tail wings is used to pump an oil contained inside central hull tanks next to the mid wings into external containment bladders behind the nose. This simple manoeuver increases the craft’s volume, and thus lowers its density just enough for the surrounding water to push it upward._"
+    }
+  }
+}

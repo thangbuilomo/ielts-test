@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_65",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2065.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Now that we've sorted that out, is there anything else I can help you with, Mr. Cooper?  </p><p><strong>Speaker 2:</strong> Actually, yes, there is. You see, I'm buying furniture for our lounge, so I've been looking online. Your website is very simple to find products on, but then it's difficult to know if what you're looking at is suitable because the product description pages aren't very helpful.  </p><p><strong>Speaker 1:</strong> Well, it's always useful to hear customer suggestions. How do you think we could improve?  </p><p><strong>Speaker 2:</strong> Well, I feel there's not much information about the size and weight of the items, as well as the materials used to make them. Also, although the number and content of the pictures is good, they're sometimes too small to see the details.  </p><p><strong>Speaker 1:</strong> OK, I will make a note to pass on to our web development team. Now, to get back to the items you were interested in...  </p><p><strong>Speaker 2:</strong> Yes, well, I'm looking for an armchair. The website says that you have the Washington Deluxe chair in red and in grey, but that the one I'm interested in, the blue one, is out of stock. Do you know when this will be available to order?  </p><p><strong>Speaker 1:</strong> Just a second. Yes, we'll have it in the warehouse this Friday. Would you like me to order one for you?  </p><p><strong>Speaker 2:</strong> I'm not sure yet. Firstly, how heavy is it?  </p><p><strong>Speaker 1:</strong> Just a second. It weighs 20 kilograms.  </p><p><strong>Speaker 2:</strong> Oh, that's very good. I was worried that it would be too heavy. Great. And finally, can you tell me what material it's made of? It's not leather, is it?  </p><p><strong>Speaker 1:</strong> No, it's not. It says here that the fabric is wool.  </p><p><strong>Speaker 2:</strong> Thanks. I couldn't see because the picture was so small. Anyway, I'd like to take two of those, please.  </p><p><strong>Speaker 1:</strong> OK, I'll add that to your order. Are there any other items you're interested in?  </p><p><strong>Speaker 2:</strong> Yes, I was looking at your collection of coffee tables and, um...</p>"
+    }
+  ]
+}

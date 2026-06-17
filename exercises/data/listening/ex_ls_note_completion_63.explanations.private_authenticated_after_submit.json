@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_63",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q7": {
+      "explanation": "Người nói đang chỉ vị trí của phòng tập yoga, nói rằng nó nằm trên cùng một con phố với phần còn lại của phòng gym, ngay bên cạnh trung tâm thể dục. Thông tin này giúp tìm ra đáp án vì từ \"fitness\" được nhắc đến rõ ràng trong câu. Paraphrase quan trọng ở đây là \"fitness centre\" có thể hiểu là \"trung tâm thể dục\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ đồng nghĩa nào gây nhầm lẫn. Đáp án đúng là \"fitness\" vì nó chính xác mô tả vị trí của phòng tập yoga.",
+      "evidence": "just next to the fitness centre."
+    },
+    "q8": {
+      "explanation": "Người nói đang nói về trang phục mà các thành viên trong lớp yoga thường mặc. Họ thường không mang giày, điều này cho thấy sự thoải mái trong lớp học. Thông tin này giúp tìm ra đáp án vì từ \"shoes\" được nhắc đến rõ ràng. Paraphrase quan trọng là \"any shoes of any kind\" có thể hiểu là \"không mang giày\". Không có bẫy trong câu này vì thông tin rất cụ thể và không có từ nào gây nhầm lẫn. Đáp án đúng là \"shoes\" vì nó phản ánh chính xác sự lựa chọn của các thành viên trong lớp.",
+      "evidence": "most of the class members choose not to wear any shoes of any kind."
+    },
+    "q9": {
+      "explanation": "Người nói đang đề cập đến các tiện nghi mà phòng gym cung cấp cho khách hàng, cụ thể là khăn tắm. Thông tin này giúp tìm ra đáp án vì từ \"towel\" được nhắc đến rõ ràng. Paraphrase quan trọng là \"provide a towel\" có thể hiểu là \"cung cấp một chiếc khăn\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ nào gây nhầm lẫn. Đáp án đúng là \"towel\" vì nó chính xác mô tả vật dụng mà khách hàng có thể mượn.",
+      "evidence": "we provide a towel for our customers at no extra cost."
+    },
+    "q10": {
+      "explanation": "Người nói đang giới thiệu về một lớp học tự vệ mới có giảng viên đến từ Trung Quốc. Thông tin này giúp tìm ra đáp án vì từ \"China\" được nhắc đến rõ ràng. Paraphrase quan trọng là \"instructor from China\" có thể hiểu là \"giảng viên đến từ Trung Quốc\". Không có bẫy trong câu này vì thông tin rất cụ thể và không có từ nào gây nhầm lẫn. Đáp án đúng là \"China\" vì nó phản ánh chính xác nguồn gốc của giảng viên.",
+      "evidence": "We have an instructor from China who has come to our gym to teach a self-defence class."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> Could I ask you exactly where the yoga studio is? I've never been there before.  </p><p><strong>Speaker 2:</strong> Yes, of course. The studio is on the same street as the rest of the gym, just next to the fitness centre.  </p><p><strong>Speaker 1:</strong> Ah, I see. That shouldn't be too difficult to find.  </p><p><strong>Speaker 2:</strong> No, none of our customers have got lost so far.  </p><p><strong>Speaker 1:</strong> And is there anything special I need to bring for the class?  </p><p><strong>Speaker 2:</strong> You don't need any special equipment, but you should come wearing some comfortable clothes. Also, most of the class members choose not to wear any shoes of any kind.  </p><p><strong>Speaker 1:</strong> Yes, I thought as much. OK, I'll remember to pack a change of clothes in my bag then. Um, I'm probably going to want to have a wash after the class. Are there showers nearby?  </p><p><strong>Speaker 2:</strong> Yes, we have showers in all of the changing rooms and we provide a towel for our customers at no extra cost. There's also a vending machine where you can buy soap and shampoo.  </p><p><strong>Speaker 1:</strong> That's good to know. Thank you for all the information.  </p><p><strong>Speaker 2:</strong> Before you go, could I interest you in another class that we are offering?  </p><p><strong>Speaker 1:</strong> Maybe. What's the class?  </p><p><strong>Speaker 2:</strong> We have an instructor from China who has come to our gym to teach a self-defence class. The class this Saturday is a trial for new customers.  </p><p><strong>Speaker 1:</strong> I suppose it might be useful to learn how to defend myself, but unfortunately, I think I'm busy on Saturday.  </p><p><strong>Speaker 2:</strong> All right, never mind. I've got you down for the yoga classes in the evening and we'll see you when you come in on Wednesday.  </p><p><strong>Speaker 1:</strong> Great. Thank you for your help.  </p><p><strong>Speaker 2:</strong> No problem. Goodbye.  </p><p><strong>Speaker 1:</strong> Bye.</p>"
+}

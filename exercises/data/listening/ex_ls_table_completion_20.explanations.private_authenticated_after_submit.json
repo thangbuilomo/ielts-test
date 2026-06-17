@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_20",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q16": {
+      "explanation": "Người nói đang mô tả về một triển lãm đặc biệt tại bảo tàng Westley, nơi trưng bày các hiện vật La Mã. Thông tin giúp tìm ra đáp án là danh sách các hiện vật được đề cập, trong đó có \"weapons\" (vũ khí). Paraphrase quan trọng ở đây là \"weapons\" được nhắc đến như một trong những hiện vật bên cạnh \"coins\" và \"jewelry\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ đồng nghĩa gây nhầm lẫn. Đáp án đúng vì \"weapons\" là một trong những hiện vật được liệt kê trong câu.",
+      "evidence": "In the exhibition, you can see coins, weapons, pots and jewelry, amongst other ancient treasures."
+    },
+    "q17": {
+      "explanation": "Người nói đang cung cấp thông tin về cách giảm giá vé vào bảo tàng. Thông tin quan trọng để tìm ra đáp án là \"voucher\" được nhắc đến như một điều kiện để nhận giảm giá. Paraphrase quan trọng là \"voucher\" có thể được hiểu là \"phiếu giảm giá\". Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ đồng nghĩa gây nhầm lẫn. Đáp án đúng vì \"voucher\" là từ chính xác được sử dụng để chỉ phiếu giảm giá.",
+      "evidence": "Normal entry to the museum is £10, but you can get a 50% reduction if you show a voucher from this hotel."
+    },
+    "q18": {
+      "explanation": "Người nói đang giới thiệu về một sự kiện đặc biệt tại rạp chiếu phim Westley. Thông tin giúp tìm ra đáp án là cụm từ \"black and white films\" (phim đen trắng) được nhắc đến. Paraphrase quan trọng ở đây là \"old black and white films\" có thể hiểu là các bộ phim cổ điển. Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ đồng nghĩa gây nhầm lẫn. Đáp án đúng vì \"black and white\" là mô tả chính xác về loại phim đang được chiếu.",
+      "evidence": "The cinema has a special season of old black and white films on at the moment."
+    },
+    "q19": {
+      "explanation": "Người nói đang mô tả về chợ Westley và các mặt hàng có sẵn. Thông tin giúp tìm ra đáp án là cụm từ \"second hand bargains\" (món hời đã qua sử dụng) được liệt kê trong danh sách các mặt hàng. Paraphrase quan trọng là \"second hand bargains\" có thể hiểu là những món đồ đã qua sử dụng với giá rẻ. Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ đồng nghĩa gây nhầm lẫn. Đáp án đúng vì \"second hand bargains\" là một trong những loại hàng hóa được đề cập.",
+      "evidence": "The market has an enormous variety of things for sale, from local fresh food and arts and crafts to second hand bargains and antiques."
+    },
+    "q20": {
+      "explanation": "Người nói đang thông báo về trận đấu bóng đá của câu lạc bộ Westley Town. Thông tin giúp tìm ra đáp án là giá vé vào cửa được nêu rõ là \"£5\". Paraphrase quan trọng ở đây là \"entry is priced at £5\" có thể hiểu là giá vé vào cửa là £5. Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ đồng nghĩa gây nhầm lẫn. Đáp án đúng vì \"5\" là giá vé chính xác được đề cập.",
+      "evidence": "The game kicks off at 3pm and entry is priced at £5."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> So now let me tell you about some of the things that are going on right now in Wesley. At the museum, there is a special exhibition of Roman artifacts that have been found in the local area. You may not have known that there is the site of an old Roman town just outside the town of Wesley. </p><p><strong>Speaker 1:</strong> In the exhibition, you can see coins, weapons, pots and jewelry, amongst other ancient treasures. It is one of the best regarded exhibitions of its kind in the country. Normal entry to the museum is £10, but you can get a 50% reduction if you show a voucher from this hotel. These are available for free at the reception. </p><p><strong>Speaker 1:</strong> The cinema has a special season of old black and white films on at the moment. Every afternoon this week, there is a choice of three black and white films, different ones every day. Tickets are priced at £3. The schedule for the festival can be found at reception. </p><p><strong>Speaker 1:</strong> If you want to go to the cinema in the evening, then you will find the usual blockbusters available for £9 a film. The films for this week are on the same schedule as the festival one available at reception. </p><p><strong>Speaker 1:</strong> Tomorrow morning is the Wesley Market, which starts at 5am in the old market square. The market has an enormous variety of things for sale, from local fresh food and arts and crafts to second hand bargains and antiques. Go and have a browse or just wander for pleasure and eat at one of the many food stalls. </p><p><strong>Speaker 1:</strong> The weather forecast for tomorrow morning is excellent, so you could have a very interesting morning. The market closes at midday, but you might find all the bargains are gone if you arrive too late. </p><p><strong>Speaker 1:</strong> Finally, Wesley Town Football Club are playing their semi-final game in the County Cup tomorrow afternoon. You will be guaranteed an amazing atmosphere and an exciting afternoon sport, so sports lovers should not miss this. The game kicks off at 3pm and entry is priced at £5. Go early as the game will be popular and it will no doubt sell out before the game starts.</p>"
+}

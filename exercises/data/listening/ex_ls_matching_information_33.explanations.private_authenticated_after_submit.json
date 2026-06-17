@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_matching_information_33",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q27": {
+      "explanation": "Người nói đang nói về nhân vật Betty trong cuốn tiểu thuyết \"Sunrise Lake\". Họ thảo luận về sự phát triển tính cách của cô ấy trong suốt câu chuyện. Thông tin giúp tìm ra đáp án là cụm từ \"growing up to do\" và \"she does just that\", cho thấy rằng Betty đã trưởng thành và phát triển tính cách của mình. Paraphrase quan trọng ở đây là \"growing up\" có thể hiểu là sự phát triển tính cách. Không có bẫy trong câu này vì thông tin rất rõ ràng. Đáp án đúng vì nó phản ánh sự thay đổi và phát triển của Betty trong suốt câu chuyện.",
+      "evidence": "I think you were suggesting that she's got a lot of growing up to do, but the thing is, she does just that."
+    },
+    "q28": {
+      "explanation": "Người nói đang thảo luận về nhân vật Sally Baxter và cảm giác của họ về cô ấy. Câu này cho thấy rằng Sally là một nhân vật không may mắn, thường gặp phải những tình huống xấu mà không phải do lỗi của bản thân. Thông tin giúp tìm ra đáp án là cụm từ \"feel sorry for her\", cho thấy sự đồng cảm với hoàn cảnh của Sally. Paraphrase quan trọng là \"wrong place at the wrong time\", thể hiện sự bất hạnh của cô. Không có bẫy trong câu này, vì thông tin rất rõ ràng và dễ hiểu. Đáp án đúng vì nó phản ánh cảm xúc của những nhân vật khác đối với Sally.",
+      "evidence": "She's often just in the wrong place at the wrong time, through no fault of her own."
+    },
+    "q29": {
+      "explanation": "Người nói đang nói về nhân vật đầu bếp, người mà họ cho là có sự quyết tâm mạnh mẽ. Câu này thể hiện sự ngưỡng mộ đối với tính cách kiên định của cô ấy. Thông tin giúp tìm ra đáp án là cụm từ \"admire her determination\", cho thấy sự tôn trọng đối với quyết tâm của nhân vật này. Paraphrase quan trọng là \"made up her mind\", có nghĩa là quyết định và kiên trì theo đuổi mục tiêu. Không có bẫy trong câu này, vì thông tin rất rõ ràng và tích cực. Đáp án đúng vì nó phản ánh sự ngưỡng mộ của những nhân vật khác đối với sự quyết tâm của đầu bếp.",
+      "evidence": "Once she made up her mind about something, she was going to get it, whatever it took."
+    },
+    "q30": {
+      "explanation": "Người nói đang thảo luận về nhân vật Mrs Dawson và khả năng của cô ấy trong việc hiểu biết về người khác. Câu này cho thấy rằng Mrs Dawson là một nhân vật thông minh và nhạy bén. Thông tin giúp tìm ra đáp án là cụm từ \"very perceptive\", cho thấy sự thông minh và khả năng quan sát của cô. Paraphrase quan trọng là \"tell the other characters things about themselves\", thể hiện sự hiểu biết sâu sắc. Không có bẫy trong câu này, vì thông tin rất rõ ràng và tích cực. Đáp án đúng vì nó phản ánh sự thông minh và khả năng của Mrs Dawson trong việc hiểu người khác.",
+      "evidence": "She was always very perceptive and able to tell the other characters things about themselves that they hadn't realised."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: This recording is copyright. You will hear two literature students preparing for a seminar about a book called Sunrise Lake by the novelist Joyce Clare. You now have some time to look at the questions on your screen. Now, answer the questions on your screen.  </p><p><strong>Speaker 2:</strong> So, we'll need to present a full main female cast list.  </p><p><strong>Speaker 1:</strong> Sure, starting with Bethy.  </p><p><strong>Speaker 2:</strong> Okay. She seems almost naive at the start, doesn't she? Full of youthful optimism.  </p><p><strong>Speaker 1:</strong> Definitely, but she doesn't stay like that for long. I think you were suggesting that she's got a lot of growing up to do, but the thing is, she does just that.  </p><p><strong>Speaker 2:</strong> She certainly grows up over the course of the novel.  </p><p><strong>Speaker 1:</strong> Definitely. You can almost see her gaining confidence scene by scene. What about Sally Baxter?  </p><p><strong>Speaker 2:</strong> Not such a likeable character, I found.  </p><p><strong>Speaker 1:</strong> No, but she had a difficult upbringing and a lot of things go wrong for her.  </p><p><strong>Speaker 2:</strong> Well, that's true. She's often just in the wrong place at the wrong time, through no fault of her own.  </p><p><strong>Speaker 1:</strong> I know what you mean, yeah. She often seems to be a victim.  </p><p><strong>Speaker 2:</strong> Yeah, poor thing. So, what about the other characters, who else is there?  </p><p><strong>Speaker 1:</strong> Oh, well, of course, there's Mrs Dawson. What did you make of her?  </p><p><strong>Speaker 2:</strong> Well, I found it really interesting reading the dialogues involving Mrs Dawson. She was always very perceptive and able to tell the other characters things about themselves that they hadn't realised.  </p><p><strong>Speaker 1:</strong> We certainly heard plenty of wise words from her. She's an excellent problem solver. I was just sorry she didn't feature so much later in the book.  </p><p><strong>Speaker 2:</strong> And then the cook. I don't think we're ever told what her name is.  </p><p><strong>Speaker 1:</strong> No, but she was quite an inspirational character. Once she made up her mind about something, she was going to get it, whatever it took.  </p><p><strong>Speaker 2:</strong> Yes, I thought her approach to life was amazing. She never let setbacks get in her way.  </p><p><strong>Speaker 1:</strong> Yeah, that's right. OK, I think we're on the right track. Shall we have a quick talk about...</p>"
+}

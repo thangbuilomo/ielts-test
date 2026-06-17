@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_short_answer_08",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Người nói đang giới thiệu về điểm bắt đầu của tour tham quan Gatfield Park. Thông tin giúp tìm ra đáp án là cụm từ \"entrance hall\", nơi mà du khách sẽ đến. Paraphrase quan trọng ở đây là \"the start of the tour\" và \"where visitors... would arrive\". Bẫy có thể là những từ khác trong đoạn văn như \"great hall\", nhưng rõ ràng người nói đã xác định rõ \"entrance hall\" là nơi bắt đầu. Đáp án đúng vì nó chính xác phản ánh địa điểm mà tour bắt đầu.",
+      "evidence": "So right now at the start of the tour, we are in the entrance hall, where visitors to Gatfield Park would arrive and be met."
+    },
+    "q12": {
+      "explanation": "Người nói đang mô tả những điểm thú vị đầu tiên mà du khách sẽ thấy khi bắt đầu tour. Thông tin giúp tìm ra đáp án là cụm từ \"fine paintings\". Paraphrase quan trọng là \"the first thing that strikes you\". Bẫy có thể là những mô tả khác về sảnh vào, nhưng cụm từ \"fine paintings\" đã được nhấn mạnh là điểm đầu tiên đáng chú ý. Đáp án đúng vì nó chính xác phản ánh vật đầu tiên mà du khách sẽ thấy.",
+      "evidence": "You can see that the first thing that strikes you are the fine paintings hanging here..."
+    },
+    "q13": {
+      "explanation": "Người nói đang chỉ ra nơi mà gia đình Gatfield đã ăn uống với khách. Thông tin giúp tìm ra đáp án là cụm từ \"great hall\". Paraphrase quan trọng là \"entertain and dine or lunch with their guests\". Bẫy có thể là những từ khác như \"private apartment\", nhưng rõ ràng \"great hall\" là nơi được nhắc đến cụ thể cho hoạt động ăn uống. Đáp án đúng vì nó chính xác phản ánh địa điểm mà gia đình đã ăn cùng khách.",
+      "evidence": "From here, we will move to the right into the great hall, which is where the Gatfield family would entertain and dine or lunch with their guests."
+    },
+    "q14": {
+      "explanation": "Người nói đang mô tả những gì có thể nhìn thấy từ các phòng tiếp tân. Thông tin giúp tìm ra đáp án là cụm từ \"views over the garden\". Paraphrase quan trọng là \"fine views out over the garden\". Bẫy có thể là \"monument\", nhưng rõ ràng câu nói đã chỉ ra rằng \"views over the garden\" là điều đáng chú ý. Đáp án đúng vì nó chính xác phản ánh những gì có thể nhìn thấy từ các phòng tiếp tân.",
+      "evidence": "From the reception rooms, there are fine views out over the garden towards the monument in front of the forest."
+    },
+    "q15": {
+      "explanation": "Người nói đang nói về các sự kiện có thể diễn ra trong phòng tiếp tân chính. Thông tin giúp tìm ra đáp án là cụm từ \"summer parties\". Paraphrase quan trọng là \"could be held both indoors and outdoors\". Bẫy có thể là các sự kiện khác, nhưng rõ ràng \"summer parties\" là sự kiện chính được nhắc đến. Đáp án đúng vì nó chính xác phản ánh loại sự kiện diễn ra trong phòng tiếp tân chính.",
+      "evidence": "From the main reception room, big double doors open out to the garden so that summer parties could be held both indoors and outdoors."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Good morning, ladies and gentlemen, and welcome to this tour of Gatfield Park. As you will know, Gatfield Park is the ancestral home of the Gatfield family, and they have been living here for over 600 years. Today I will guide you around the building, pointing out to you on the way all the particular points of interest.</p><p><strong>Speaker 1:</strong> Before we start, I would like to give you a brief overview of where we will go and what you will see. So right now at the start of the tour, we are in the entrance hall, where visitors to Gatfield Park would arrive and be met. You can see that the first thing that strikes you are the fine paintings hanging here, but we will go more into those in just a minute.</p><p><strong>Speaker 1:</strong> From here, we will move to the right into the great hall, which is where the Gatfield family would entertain and dine or lunch with their guests. It's an enormous room that can sit up to 100 people. You will not be surprised to hear that the family rarely eat there now. Nowadays, they eat in a more normal sized dining room adjacent to the kitchen, which is all part of their private apartment in the left wing of the house. </p><p><strong>Speaker 1:</strong> We will avoid the family's private rooms, but they are not of interest, as they are merely the modern day rooms that resemble the usual living spaces of the average family today. </p><p><strong>Speaker 1:</strong> After the great hall, we will go through a series of reception rooms. These are decorated in a most flamboyant manner and reflect the different ages that the house went through. From the reception rooms, there are fine views out over the garden towards the monument in front of the forest. From the main reception room, big double doors open out to the garden so that summer parties could be held both indoors and outdoors.</p>"
+}

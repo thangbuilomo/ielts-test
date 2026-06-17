@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_20",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói đang cung cấp thông tin về thời gian hành trình của chuyến tàu từ London đến Paris. Thông tin quan trọng giúp tìm ra đáp án là cụm từ \"in three hours\", cho biết thời gian chính xác của chuyến đi. Paraphrase quan trọng ở đây là \"three hours\" được nhắc đến nhiều lần trong ngữ cảnh của các phương tiện giao thông khác nhau. Không có bẫy trong câu này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng vì nó phản ánh chính xác thời gian hành trình của chuyến tàu trực tiếp từ London đến Paris.",
+      "evidence": "This will then take you under the sea in the Channel Tunnel directly to the Gare du Nord in the centre of Paris in three hours."
+    },
+    "q2": {
+      "explanation": "Người nói đang liệt kê các sân bay ở London mà hành khách có thể sử dụng để bay đến Paris. Thông tin giúp tìm ra đáp án là danh sách các sân bay, trong đó \"City\" là một trong những sân bay được đề cập. Paraphrase quan trọng là \"different London airports\", cho thấy có nhiều lựa chọn cho hành khách. Không có bẫy trong câu này vì danh sách sân bay được nêu rõ ràng. Đáp án đúng vì \"City\" là một trong những sân bay được nhắc đến trong ngữ cảnh của câu hỏi.",
+      "evidence": "You can fly to Paris from different London airports such as Heathrow, Gatwick, City, Luton and Stansted..."
+    },
+    "q3": {
+      "explanation": "Người nói đang nói về thời gian bổ sung cần thiết để di chuyển đến sân bay và từ sân bay vào Paris. Thông tin giúp tìm ra đáp án là cụm từ \"an extra two hours\", cho biết thời gian cần thiết để di chuyển trong London. Paraphrase quan trọng là \"extra travel time needed for flying\", nhấn mạnh rằng đây là thời gian bổ sung ngoài thời gian bay. Không có bẫy trong câu này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng vì nó phản ánh chính xác thời gian bổ sung cần thiết khi bay từ London đến Paris.",
+      "evidence": "That can take an extra two hours in London and one and a half hours in Paris."
+    },
+    "q4": {
+      "explanation": "Người nói đang cung cấp thông tin về chi phí của chuyến bay từ London đến Paris. Thông tin giúp tìm ra đáp án là cụm từ \"about 90 Canadian dollars\", cho biết chi phí quy đổi sang đô la Canada. Paraphrase quan trọng là \"cost\", nhấn mạnh rằng đây là thông tin về giá cả. Không có bẫy trong câu này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng vì nó phản ánh chính xác chi phí của chuyến bay.",
+      "evidence": "The plane will cost about £60 if we book now, which is about 90 Canadian dollars."
+    },
+    "q5": {
+      "explanation": "Người nói đang cung cấp thông tin về cách di chuyển từ London đến cảng phà Dover. Thông tin giúp tìm ra đáp án là cụm từ \"Central Bus Station\", cho biết địa điểm khởi hành của xe buýt. Paraphrase quan trọng là \"get a bus to Dover\", nhấn mạnh rằng đây là phương tiện di chuyển chính. Không có bẫy trong câu này vì thông tin rất rõ ràng và không có sự nhầm lẫn nào. Đáp án đúng vì nó phản ánh chính xác địa điểm khởi hành của xe buýt đến Dover.",
+      "evidence": "You can get a bus to Dover from Central Bus Station in London..."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Good morning. Welcome to Rocky's Travel Agency. My name is Robert. Can I help you?</p><p><strong>Speaker 2:</strong> Yes, please. My name is Angela. I'm travelling to London in a couple of weeks and I will have to go to Paris before returning home to Toronto, Canada. My firm has booked my ticket out to London and back from Paris, but they have let me choose how I wish to travel to Paris.</p><p><strong>Speaker 1:</strong> Wow, you're lucky. I've never been to Paris, though I see enough pictures of the place working here. So, what are my options?</p><p><strong>Speaker 1:</strong> There are three main ones. You can take the train, fly or take a ferry. For the ferry, you will also need to take a train or bus or drive yourself. What would you recommend?</p><p><strong>Speaker 1:</strong> Well, it depends on what you want. For convenience, the train is excellent. It leaves from the centre of London. From Waterloo Station. It used to go from there. Now it leaves from St. Pancras Station, which is next to King's Cross Station. This will then take you under the sea in the Channel Tunnel directly to the Gare du Nord in the centre of Paris in three hours.</p><p><strong>Speaker 2:</strong> Wow, that is convenient. Then there is travelling by plane. You can fly to Paris from different London airports such as Heathrow, Gatwick, City, Luton and Stansted, as well as other airports around the country. The actual travel time is quite short, about 40 minutes only, but you'll need to get outside London to the airports, check in and wait, and then transfer into Paris when you arrive at the airport there. That can take an extra two hours in London and one and a half hours in Paris.</p><p><strong>Speaker 1:</strong> OK. And what about the other option?</p><p><strong>Speaker 1:</strong> There is a variety of ports from which you can get a ferry to France, though the fastest journey is from Dover to Calais, which is about an hour. You will need to take a train or bus to the port first and the same when you arrive in France to get to Paris. Alternatively, you can hire a car and drive yourself.</p><p><strong>Speaker 2:</strong> That too seems much longer.</p><p><strong>Speaker 1:</strong> Well, for sure. The advantage for a visitor like you, though, is that you can get to see the English and French countryside and other towns much more closely. You don't even have to do it in one journey, but you can stay somewhere and explore, either in England or in France.</p><p><strong>Speaker 2:</strong> What are the costs involved?</p><p><strong>Speaker 1:</strong> The train directly to Paris is £50, which is about 80 Canadian dollars. The plane will cost about £60 if we book now, which is about 90 Canadian dollars. The ferry is about £30, which is about 45 Canadian dollars, but of course you will need to get to the British ferry port from London and to Paris from the French ferry port.</p><p><strong>Speaker 2:</strong> How would I do that?</p><p><strong>Speaker 1:</strong> You can get a bus to Dover from Central Bus Station in London, which is the nearest ferry port to France. You can get a train from Charing Cross Station in London to Dover as well. From Calais to Paris, I would recommend getting the train from the station in Calais.</p>"
+}

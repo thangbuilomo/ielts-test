@@ -1,0 +1,89 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_note_completion_05",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 4,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "note_completion",
+  "category_id": "note_completion",
+  "title": "Note Completion - Exercise 5",
+  "duration_seconds": 0,
+  "content": {
+    "title": "CENTRAL HEATING",
+    "content_html": "<h1>NOTE COMPLETION 05</h1>\n<h2>CENTRAL HEATING</h2>\n<p>Central heating refers to any system which warms a building by circulating heated fluid — most often air, water or steam — through its rooms, usually via piping or ducts. Throughout history, most central heating systems have used a fundamentally similar principle. The technology has advanced over time and some modern systems are impressively sophisticated, but essentially still work in the same way. Most modern central heating systems work by blowing hot air through ducts or pumping hot water through pipes.</p>\n<p>The first evidence of humans controlling home temperatures dates as far back as 3000 BC. Egyptologist Bob Briar notes that temperatures in Egypt are extreme due to a lack of humidity in arid desert regions, ranging from 0°C at night to 50°C at noon. Ancient Egyptians employed clever architectural design techniques to regulate this, incorporating pools of water into their homes which helped to channel the cool desert breeze inside during the day, while storing daytime heat to create a comfortably habitable climate at night.</p>\n<p>Central heating systems as we would recognise them today were invented in Ancient Greece around 350 BCE. These early designs were fuelled by a central furnace, from which hot air was circulated throughout the building via a hypocaust — a series of brick pipes built into the walls and floors. However, these systems were only found within the homes of the affluent, as well as some public buildings such as temples. Later, hypocausts were also employed by the Ancient Romans to heat their public baths, where they were used to warm the sweat rooms. In some towns, geothermal energy was also harnessed via a local system of hot springs which filled the baths to temperatures of over 70°C.</p>\n<p>Around the turn of the 19th century, another form of central heating was developed which circulated steam instead of hot air. In his home, inventor of the steam engine James Watt built the first working system in the 1790s, aided by his associate Matthew Bolton. The prototype included one of the first radiators, which was made of copper and was likely considerably smaller than modern radiators due to the high temperatures steam allows. This benefit was also one of the technology's drawbacks as it increases the chance of burning. Steam systems are considered more dangerous, complex and noisy than other types of central heating. As a result, they are rarely used to heat individual homes these days. However, they are used on larger scales, probably the most famous example being the New York City steam system in lower Manhattan. Every year, it pumps 11 million tonnes of steam from generating stations into local apartments and businesses.</p>\n<p>Hydronic heating systems are probably the most common type of heating in modern homes. They heat water in a central boiler and pump it through metal pipes to the rest of the building. One of the first examples was used in 1710 to heat the Summer Palace in St Petersburg, Russia. However, it wasn't until 1836, when an English civil engineer called Thomas Tredgold developed the technology, that these systems really took off. This was followed by rapid development of the technology and by the late 19th century low-cost radiators could be found across the USA and Europe. By 2011, at least 83% of all English and Welsh households used gas or oil boilers within hydronic central heating systems.</p>\n<p>A crucial part of these modern systems is the thermostat. This is a device containing a sensor to detect the ambient temperature of the room and is most commonly used to switch a boiler on and off. It is located far from the water heater itself, usually in the middle of the house, and the two devices are connected by two long wires. By placing it at a significant distance from any radiators, it can more accurately measure the ambient temperature. The user sets their desired temperature by turning a knob or programming a digital display via buttons. When the sensor detects that it is too cold, it connects the two wires together, activating the boiler. After the heat has risen to an appropriate level, it disconnects the two wires, which shuts off the heat.</p>\n<p>So-called smart thermostats have entered the market recently and allow homeowners to control the temperature of their houses more precisely by incorporating smart phone apps and advanced timers. Some can also even learn homeowners’ habits and adapt automatically to suit their needs. They can be easily retrofitted to many existing central heating systems thanks to the fact that even the most advanced models function in essentially the same way — they simply turn the boiler on when it is too cold and off when it is too hot. Fitting one is often simple, involving removal of the old thermostat using a screwdriver and attachment of the new, smart model into the same socket.</p>\n<p>Modern central heating systems are much more efficient than ever before. Because it is only activated when necessary, the boiler consumes less energy overall. Some smart heating systems even have the ability to detect which rooms are occupied and operate radiators to ensure only those which are in use are heated. Efficiency will continue to be a driving force in the improvement of system designs, as energy prices continue to rise. While looking for ways to reduce energy bills and the cost of the technology decreases, consumers will turn to smart central heating systems to meet their heating needs.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_note_completion_05.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_note_completion_05.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "note_completion",
+          "skill_tags": [
+            "rd_comp_note"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 10 - 13</strong></p>\n<p>Complete the notes. Write NO MORE THAN THREE WORDS from the text for each answer.</p>\n<p><strong>Advantages of Smart central heating systems:</strong></p>\n<ul>\n<li>\n<p>Integration with <blank data-qid=\"q10\"/></p>\n</li>\n<li>\n<p>allows more exact temperature control</p>\n</li>\n<li>\n<p>Can ‘learn’ habits of homeowners</p>\n</li>\n<li>\n<p>Smart thermostats can easily be fitted to older systems using a <blank data-qid=\"q11\"/></p>\n</li>\n<li>\n<p>to replace the redundant model</p>\n</li>\n<li>\n<p>Only heats rooms which are <blank data-qid=\"q12\"/></p>\n</li>\n</ul>\n<p>As a result:</p>\n<ul>\n<li>\n<p><blank data-qid=\"q13\"/></p>\n</li>\n<li>\n<p>of modern central heating has greatly increased</p>\n</li>\n<li>\n<p>Will continue to be important as time goes on</p>\n</li>\n</ul>",
+          "items": [
+            {
+              "question_id": "q10",
+              "number": 10,
+              "prompt_html": "Question 10",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q11",
+              "number": 11,
+              "prompt_html": "Question 11",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q12",
+              "number": 12,
+              "prompt_html": "Question 12",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q13",
+              "number": 13,
+              "prompt_html": "Question 13",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            10,
+            13
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

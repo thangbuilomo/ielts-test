@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_54",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2054.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 1:</strong> Welcome to the third in our series of lectures on innovative urban architecture. Today I'll be telling you about an award-winning pair of tall buildings called Bosco Verticale, or Vertical Forest, which are in the Italian city of Milan. </p><p><strong>Speaker 1:</strong> First, however, let me recap on some of the themes we have been studying, and then I can present this project's response to some of the typical problems of modern urban planning. </p><p><strong>Speaker 1:</strong> We have seen that, in the face of burgeoning population growth and increasing urbanization, cities have begun growing upwards instead of sprawling ever further horizontally. While this solution preserves greenbelt land around cities for agricultural or recreational purposes, it results in what are sometimes described as concrete jungles. </p><p><strong>Speaker 1:</strong> In densely populated areas of high-rise buildings, people can feel alienated through the lack of contact with nature. Furthermore, high-rise residential areas place a big strain on the provision and use of energy, clean water, wastewater management, and transport systems.</p><p><strong>Speaker 1:</strong> In addition to these factors, we have also touched upon the problem of soaring air pollution in cities, both worldwide and in Europe. </p><p><strong>Speaker 1:</strong> The project I shall be presenting today is an innovative attempt to address some of these problems while avoiding urban sprawl. </p><p><strong>Speaker 1:</strong> The Vertical Forest project comprises two residential tower blocks situated in a central district of Milan, about half an hour's walk from the Cathedral, another iconic piece of Milanese architecture. </p><p><strong>Speaker 1:</strong> One of the towers is 110 meters in height and has 26 floors, while the other is 76 meters high and comprises 18 floors. </p><p><strong>Speaker 1:</strong> The balconies of these two high-rise blocks have been planted with 900 trees, ranging in height from 3.6 to 9 meters tall each. In addition, 20,000 shrubs have been planted. </p><p><strong>Speaker 1:</strong> In total, if the trees and other plants on these two tower blocks were planted on flat ground, they would represent a forest that was 7,000 square meters in area.</p><p><strong>Speaker 1:</strong> Apart from making the buildings look more attractive, both to observers from the street and for residents looking out from inside, the trees offer several environmental benefits. </p><p><strong>Speaker 1:</strong> On an urban scale, they absorb carbon dioxide from the atmosphere, release oxygen, and cool the air. For residents of the buildings, they also filter small dust particles out of the air. </p><p><strong>Speaker 1:</strong> All of these are helpful processes in Milan, which features among the top 20 European cities afflicted with air pollution. </p><p><strong>Speaker 1:</strong> In addition, they regulate humidity naturally and offer shade in summer, thus reducing or eliminating the need for air conditioning. </p><p><strong>Speaker 1:</strong> A further benefit is that they reduce noise pollution.</p>"
+    }
+  ]
+}

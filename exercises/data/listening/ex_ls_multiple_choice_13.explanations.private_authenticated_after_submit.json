@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_13",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q16": {
+      "explanation": "Người nói đang hướng dẫn sinh viên về cách xử lý khi có hỏa hoạn trong khu cư trú. Thông tin quan trọng giúp tìm ra đáp án là câu \"If the fire is in any way large, just get out and go to the assembly point on the front lawn.\" Câu này nhấn mạnh rằng trong trường hợp có hỏa hoạn lớn, sinh viên cần phải rời khỏi tòa nhà ngay lập tức và đến điểm tập trung. Paraphrase quan trọng ở đây là \"get out\" (ra ngoài) và \"assembly point\" (điểm tập trung), điều này cho thấy rằng việc rời khỏi tòa nhà là ưu tiên hàng đầu. Bẫy có thể là các lựa chọn khác như \"assemble in the hall\" (tập trung trong hội trường) hoặc \"phone the fire brigade\" (gọi cứu hỏa), nhưng người nói đã chỉ rõ rằng không cần gọi cứu hỏa vì hệ thống báo động đã liên kết với họ. Do đó, đáp án B là chính xác.",
+      "evidence": "If the fire is in any way large, just get out and go to the assembly point on the front lawn."
+    },
+    "q17": {
+      "explanation": "Người nói đang cảnh báo về hành vi nguy hiểm trong trường hợp có hỏa hoạn. Câu \"Don't panic and rush around. That gets people hurt.\" chỉ ra rằng hành vi hoảng loạn và chạy loạn có thể dẫn đến thương tích. Thông tin này giúp xác định đáp án C là đúng, vì nó nhấn mạnh rằng việc không giữ bình tĩnh là hành vi nguy hiểm nhất trong tình huống khẩn cấp. Paraphrase quan trọng là \"Don't panic\" (Đừng hoảng loạn) và \"rush around\" (chạy quanh), điều này cho thấy rằng sự bình tĩnh là rất quan trọng. Các lựa chọn khác như \"not reading the safety notices\" (không đọc thông báo an toàn) hay \"not knowing where the fire exits are\" (không biết lối thoát hiểm) không được nhấn mạnh như hành vi nguy hiểm nhất. Vì vậy, đáp án C là chính xác.",
+      "evidence": "Don't panic and rush around. That gets people hurt."
+    },
+    "q18": {
+      "explanation": "Người nói đang thông báo về lịch trình diễn tập chữa cháy trong khu cư trú. Câu \"Once every six months we have a fire drill\" cho thấy rằng các buổi diễn tập này diễn ra định kỳ, và thông tin \"One of these might be at night\" cho thấy rằng có thể có buổi diễn tập vào ban đêm. Điều này giúp xác định đáp án A là đúng, vì nó chỉ ra rằng các buổi diễn tập sẽ diễn ra trong suốt cả ngày. Paraphrase quan trọng là \"fire drill\" (diễn tập chữa cháy) và \"might be at night\" (có thể vào ban đêm). Các lựa chọn khác không phù hợp vì không có thông tin nào cho thấy diễn tập sẽ diễn ra vào ban đêm hay không có thời gian cụ thể nào được đề cập. Do đó, đáp án A là chính xác.",
+      "evidence": "Once every six months we have a fire drill which is attended by someone from the fire service to make sure we're up to scratch. One of these might be at night, so be ready."
+    },
+    "q19": {
+      "explanation": "Người nói đang giải thích về việc xem phim khuya trong khu cư trú. Câu \"I know that some people want to watch late night films, but then you'll just have to buy your own TVs for your rooms\" cho thấy rằng sinh viên không được phép xem phim khuya trong phòng khách, vì điều này có thể làm phiền người khác. Thông tin này giúp xác định đáp án C là đúng, vì nó chỉ ra rằng việc xem phim khuya có thể gây rối cho những sinh viên khác. Paraphrase quan trọng là \"buy your own TVs\" (mua TV riêng) và \"disturbs other students\" (gây rối cho sinh viên khác). Các lựa chọn khác không chính xác vì không có thông tin nào cho thấy sinh viên được phép xem phim trong phòng khách hay phải làm ồn ào. Do đó, đáp án C là chính xác.",
+      "evidence": "I know that some people want to watch late night films, but then you'll just have to buy your own TVs for your rooms."
+    },
+    "q20": {
+      "explanation": "Người nói đang thông báo về các nhà hàng gần khu cư trú và dịch vụ giao hàng của họ. Câu \"They all deliver apart from the Mexican\" chỉ ra rằng nhà hàng Mexico là nhà hàng duy nhất không giao hàng. Thông tin này giúp xác định đáp án B là đúng, vì nó nhấn mạnh rằng nhà hàng Mexico không cung cấp dịch vụ giao hàng. Paraphrase quan trọng là \"does not bring food to campus\" (không mang thức ăn đến khuôn viên). Các lựa chọn khác không chính xác vì không có thông tin nào cho thấy nhà hàng Mexico có ưu đãi đặc biệt cho sinh viên hay bán cá và khoai tây chiên. Do đó, đáp án B là chính xác.",
+      "evidence": "They all deliver apart from the Mexican, but that's only five minutes walk away."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. Any more questions?</p><p><strong>Speaker 2:</strong> Come on, I'm sure you must have some more. Yes, I was wondering what we do in the case of a fire here at the residence.</p><p><strong>Speaker 1:</strong> Well, the first thing to do is to raise the alarm by setting off the electric alarm system. Then, if the fire's not big, try and use the fire extinguishers that you'll find round the residence. If the fire is in any way large, just get out and go to the assembly point on the front lawn. Try not to go in the front or back car parks as that's where the fire brigade will set up their stuff. You don't need to call the fire brigade as our residence alarm is linked up with their system. Make sure you read the fire notices around so you know where the nearest fire escape is to your room. Don't panic and rush around. That gets people hurt. Just go briskly to the assembly point. Once every six months we have a fire drill which is attended by someone from the fire service to make sure we're up to scratch. One of these might be at night, so be ready.</p><p><strong>Speaker 3:</strong> Hi everyone, I just wanted to ask what time the TV room closes for the night. It's just that my room is just across from it and I don't want to be kept awake all night.</p><p><strong>Speaker 1:</strong> The usual cut off time for the TV room is 11pm, although this is extended by one hour on Fridays and Saturdays. I know that some people want to watch late night films, but then you'll just have to buy your own TVs for your rooms. If you do have a TV in your room, then please think of others and keep the volume down. We take a very dim view of people disturbing others in the residence. The same goes for the TV room itself. Just keep the volume levels down. Anything else from anybody?</p><p><strong>Speaker 2:</strong> I've got a question too, actually. I've got a job that will get me back late in the evening and I won't be always able to eat. Are there any good places nearby that deliver food?</p><p><strong>Speaker 1:</strong> The quick answer is yes, there are lots of places. There is an Indian nearby, fish and chips is sold in a shop that is, funnily enough, run by a Chinese family. There is a good Thai restaurant, a Mexican and an Italian pizzeria. They all deliver apart from the Mexican, but that's only five minutes walk away. All the telephone numbers are up on the residence notice board. The first time you order from each of them, just ask them to stick a menu into the bag and you'll build up a library in no time. Now, let me tell you about...</p>"
+}

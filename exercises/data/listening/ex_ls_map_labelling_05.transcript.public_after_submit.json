@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_map_labelling_05",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MAP%20LABELLING%2005.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> OK, we're nearly ready to go, but I'm just going to show you on this map what route we're going to take today. So, we're in the boathouse here on the south side of the river at the left of the map. Can you see that? Right next to us is a great fish restaurant, which many people choose to go back to later. It's the perfect place to enjoy an evening meal with a lovely view of the wood across the river at sunset. </p><p><strong>Speaker 1:</strong> Now, once we get onto our boats, we will be going along the river up to the top to where it gets wider. You can see that we'll be going under two bridges. Soon after going under the first one, we will approach the first of two bends in the river. At this point, we'll pass the old river master's house on the right, where the river master used to collect money from people using the river. This is my favourite of the many historical buildings on this stretch of the river. </p><p><strong>Speaker 1:</strong> Not long after this, we will get to the second bend and the impressive stone bridge, which, by the way, is nearly one thousand years old. We will stop here briefly to let you take a picture of it and the old mill which stands on the far bank, just beyond the bridge. </p><p><strong>Speaker 1:</strong> Continuing further down, the river will begin to open up. On the left, you will see the car park and cafe, but we will actually stop for tea and a snack at the picnic spot on the island in the middle. It's a really nice place to stop and just be surrounded by nature. </p><p><strong>Speaker 1:</strong> By the time we finally do get off the river, you may want to make use of the toilet facilities, which you can find behind the cafe. Ah, and I nearly forgot, I should also mention that those of you who will be camping overnight can either leave your kayaks at the car park and walk to the campsite, or paddle back down river in them. You'll find it just before you get to the footbridge on the north bank, beside the wood. If you are staying overnight at the campsite, you can use this bridge to get over to the restaurant. </p><p><strong>Speaker 1:</strong> OK, should we go and see if we can get on these boats?</p>"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_ls_note_completion_55",
+  "module": "listening",
+  "question_count": 10,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 10,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q31": {
+      "answers": [
+        "damp"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "chimney"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "slate"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "sewage"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "rocks"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "oak"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "wool"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "courtyard"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "radiator"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "gas"
+      ]
+    }
+  }
+}

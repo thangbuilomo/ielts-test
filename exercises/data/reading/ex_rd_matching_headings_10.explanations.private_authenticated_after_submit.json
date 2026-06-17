@@ -1,0 +1,44 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_headings_10",
+  "module": "reading",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q28": {
+      "explanation": "Đoạn B tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Paper as we know it today comes from another source - China. It was not until the third century AD that the secret art of papermaking began to creep out of China, first to Vietnam and later to India.\". Heading vi (The Spread of Papermaking around the World) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Paper as we know it today comes from another source - China. It was not until the third century AD that the secret art of papermaking began to creep out of China, first to Vietnam and later to India._"
+    },
+    "q29": {
+      "explanation": "Đoạn C tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"In Europe, the use of papyrus for writing on had been abandoned in the ninth century. The preferred medium for the artists and writers of the time was the smooth and lustrous parchment.\". Heading xi (Changes in the Materials Used for Making Paper) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "In Europe, the use of papyrus for writing on had been abandoned in the ninth century. The preferred medium for the artists and writers of the time was the smooth and lustrous parchment._"
+    },
+    "q30": {
+      "explanation": "Đoạn D tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Printing technology rapidly developed and created an ever-increasing demand for paper. Early European paper was made from recycled cotton and linen - and a huge trade quickly sprung up around the trading of old rags.\". Heading viii (The Age of Experimentation) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Printing technology rapidly developed and created an ever-increasing demand for paper. Early European paper was made from recycled cotton and linen - and a huge trade quickly sprung up around the trading of old rags._"
+    },
+    "q31": {
+      "explanation": "Đoạn E tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"The demand for paper also created the need for greater efficiency in production. In the late eighteenth century, the labours of Nicholas Luis Robert resulted in the creation of a machine that could produce a seamless length of paper on an endless wire mesh with squeeze rollers at one end.\". Heading v (From Craft to Industry) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "The demand for paper also created the need for greater efficiency in production. In the late eighteenth century, the labours of Nicholas Luis Robert resulted in the creation of a machine that could produce a seamless length of paper on an endless wire mesh with squeeze rollers at one end._"
+    },
+    "q32": {
+      "explanation": "Đoạn F tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"Papermaking in essence is a simple process. Whether using recycled materials or fresh organic matter, the process starts as the material is shredded into small strips and soaked overnight to loosen the fibres.\". Heading x (How Paper Is Made) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "Papermaking in essence is a simple process. Whether using recycled materials or fresh organic matter, the process starts as the material is shredded into small strips and soaked overnight to loosen the fibres._"
+    },
+    "q33": {
+      "explanation": "Đoạn G tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"In the West, as industrial paper production boomed, the art of hand papermaking has been driven nearly to extinction, being practised only by a few fine artists and crafts people. However, in small areas throughout Asia, the tradition has lived on through regular and rice paper made by hand.\". Heading ii (Preserving Ancient Practices) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "In the West, as industrial paper production boomed, the art of hand papermaking has been driven nearly to extinction, being practised only by a few fine artists and crafts people. However, in small areas throughout Asia, the tradition has lived on through regular and rice paper made by hand._"
+    },
+    "q34": {
+      "explanation": "Đoạn H tập trung vào ý chính được thể hiện qua câu/cụm thông tin: \"This millennium will be dominated by the tremendous progress that has been made in computer science, thus triggering a complete change in our commercial and private communication and information behaviour. Does this mean that the paper era will come to an end?\". Heading vii (The Prospects for Paper) bao quát nội dung của đoạn tốt hơn các heading còn lại.",
+      "evidence": "This millennium will be dominated by the tremendous progress that has been made in computer science, thus triggering a complete change in our commercial and private communication and information behaviour. Does this mean that the paper era will come to an end?_"
+    }
+  }
+}

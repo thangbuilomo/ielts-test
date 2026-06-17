@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_03",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2003.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Hello there. It's Robert Johnson, isn't it?  </p><p><strong>Speaker 2:</strong> Yes, that's right.  </p><p><strong>Speaker 1:</strong> First of all, thanks for coming to this interview, and thanks for applying to the engineering department of Wesley University. This is a fairly informal interview where I just get to know you and find out what kind of person you are. There won't be any technical questions as we've got all your education background from your application form.  </p><p><strong>Speaker 2:</strong> Oh, that's good.  </p><p><strong>Speaker 1:</strong> Now, I know you have applied to us to study civil engineering, so can you tell me why you chose this field?  </p><p><strong>Speaker 2:</strong> It's a mixture of reasons, really. First of all, I've always been fascinated by building things. Whenever the family was on holiday, I would always be interested in the local bridge and all that. My father is a civil engineer, too, so he'd always be able to explain things, and it was he, I suppose, who really fostered my interest in these things. I'm lucky as well because my best subjects at school were maths and physics, which are the ones that are of particular use for engineering.  </p><p><strong>Speaker 1:</strong> So you'll be keeping it in the family, then?  </p><p><strong>Speaker 2:</strong> Yes. My brother wants to do the same thing as well, so you'll probably get an application from him in another two years.  </p><p><strong>Speaker 1:</strong> Great. Now then, I noticed from your application form that you took a year off between school and university. What did you do during this year?  </p><p><strong>Speaker 2:</strong> Well, I'd like to say that I got plenty of work experience, but what I did was travel. I went over to Australia for the year and spent the time travelling and working all around the country. At the end, I went to New Zealand and travelled around there for a couple of months.  </p><p><strong>Speaker 1:</strong> What kind of work did you do out there?  </p><p><strong>Speaker 2:</strong> It was fairly menial stuff. I delivered furniture, worked in a pub, worked in a hotel, and worked on a building site for a couple of months too.  </p><p><strong>Speaker 1:</strong> Working on a building site must have been some good experience for engineering.  </p><p><strong>Speaker 2:</strong> I suppose so. I mean, it was interesting to see the brass tacks side of things, and a good engineer has to get his hands dirty, my father says. He's absolutely right as well.  </p><p><strong>Speaker 1:</strong> Now, why did you choose Wesley University to study civil engineering?  </p><p><strong>Speaker 2:</strong> Well, first of all, I know that the department has a very good reputation in this field, and before applying, I checked out the stats and saw that the percentage of graduates going straight into industry was very good.  </p><p><strong>Speaker 1:</strong> Yes, we're very proud of that.  </p><p><strong>Speaker 2:</strong> I'm also very interested in mountaineering, and your campus here in the Midlands is within reasonable distance of Snowdonia, so I'll be able to go hiking at weekends when work allows it.  </p><p><strong>Speaker 1:</strong> That's good. It's very important for students to have interests outside of their studies. It helps deal with the stress.  </p><p><strong>Speaker 2:</strong> I also play a lot of football, and the university runs quite a few teams in the local leagues, so I'd like to get into that.</p>"
+    }
+  ]
+}

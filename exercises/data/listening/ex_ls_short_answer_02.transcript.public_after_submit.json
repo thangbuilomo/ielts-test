@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_short_answer_02",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/SHORT%20ANSWER%2002.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Oh, Mark, that was Mr Griffin, you know, that nice man from Sydney who's been here a couple of times before? He's booked a single room for tonight, from tonight.</p><p><strong>Speaker 1:</strong> Ah, good. Wait a moment, what, uh, which room have you put him in?</p><p><strong>Speaker 2:</strong> Well, I put him in number 22. Is that OK?</p><p><strong>Speaker 1:</strong> I think so. Let me just check. Oh, blast! There was a booking earlier this morning. All the singles are now gone.</p><p><strong>Speaker 2:</strong> Oh dear, I'm so sorry. I didn't realise.</p><p><strong>Speaker 1:</strong> Don't worry, it's not a problem. We'll stick him in number 34. It's a double room, but it shouldn't matter.</p><p><strong>Speaker 2:</strong> What about the price? The double is $150 a night, and he's going to be expecting $100 a night for a single.</p><p><strong>Speaker 1:</strong> Well, we don't want to upset him. We want him to come back. Make a note that we'll give him the single rate, and he's got a free upgrade.</p><p><strong>Speaker 2:</strong> I'm so sorry, Mark. I should have let him know that there weren't any singles left.</p><p><strong>Speaker 1:</strong> No, it's not your fault. I took the booking earlier, but the computers were down. I should have made a note of the booking so that everyone knew. It's my fault.</p><p><strong>Speaker 2:</strong> Mr Griffin has ordered a cheese sandwich to be left in his room, too, as the restaurant will be closed when he gets in.</p><p><strong>Speaker 1:</strong> That's no problem. Just leave a message for my wife in the order book there. She'll make sure that it's prepared by the kitchen staff, and then room service can take it to his room just before he arrives.</p><p><strong>Speaker 2:</strong> How much shall I charge him for the sandwich?</p><p><strong>Speaker 1:</strong> What is it again? Ah, yes, cheese. Well, beef and chicken are both $10, and salad is $8. Just make it $9. That should be OK.</p><p><strong>Speaker 2:</strong> OK, thanks, Mark.</p>"
+    }
+  ]
+}

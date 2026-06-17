@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_64",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2064.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 1:</strong> I'm sure that some of you have looked at lots of apartments around the city, and you may be asking what makes these flats so different? Well, they are in a building with a lot of history, but so are converted lofts, warehouses, and factories all over the city. </p><p><strong>Speaker 1:</strong> It is also fairly standard these days to have the kind of facilities that we offer here. What we have that's unique is the sustainable lifestyle you will be able to enjoy here. </p><p><strong>Speaker 1:</strong> Most of the power comes from solar panels on the roof, the buildings are designed to reuse rainwater and use less electricity for heating and light. As well as this, our residents in similar locations all say they value the 24-hour security that helps to reduce crime and makes them feel safe. </p><p><strong>Speaker 1:</strong> That and the warm attitude of all our staff and fellow residents make it a great place to live.</p>"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_04",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q35": {
+      "explanation": "Người nói đang so sánh giữa hệ thống tàu điện (Shinkansen) và tàu hỏa đầu máy truyền thống. Thông tin giúp tìm ra đáp án là sự khác biệt giữa cách thức hoạt động của tàu điện và tàu đầu máy. Paraphrase quan trọng ở đây là \"locomotive pulls the passenger coaches,\" cho thấy tàu đầu máy kéo các toa hành khách, trong khi tàu điện thì không. Bẫy có thể là sự nhầm lẫn giữa các loại tàu, nhưng câu này rõ ràng chỉ ra sự khác biệt. Đáp án đúng là C (vị trí nguồn điện) và D (sự hiện diện hoặc vắng mặt của đầu máy kéo tàu).",
+      "evidence": "This is in contrast to locomotive trains, in which the locomotive pulls the passenger coaches."
+    },
+    "q37": {
+      "explanation": "Người nói đang mô tả điều kiện hoạt động của tàu ở châu Âu so với Nhật Bản. Thông tin quan trọng là sự khác biệt về loại đường ray mà tàu chạy. Paraphrase quan trọng là \"straight tracks in wide plains,\" cho thấy rằng đường ray ở châu Âu thường thẳng và ổn định. Bẫy có thể là sự nhầm lẫn với các yếu tố khác như số lượng hành khách. Đáp án đúng là A (số lượng đường ray mà tàu chạy) và C (địa hình mà đường ray được đặt).",
+      "evidence": "It's a system suitable to European railways, which run basically on straight tracks in wide plains with solid foundations."
+    },
+    "q39": {
+      "explanation": "Người nói đang nêu ra những lợi ích của hệ thống điện cho tàu cao tốc. Thông tin giúp tìm ra đáp án là khả năng của động cơ trong việc giảm tốc độ. Paraphrase quan trọng là \"motor functions as a brake,\" cho thấy rằng động cơ không chỉ giúp tàu di chuyển mà còn có thể dừng lại. Bẫy có thể là những lợi ích khác của hệ thống, nhưng câu này rõ ràng chỉ ra hai lợi ích chính. Đáp án đúng là A (phương pháp này sử dụng ít năng lượng hơn các hệ thống khác) và C (nó cho phép tăng hoặc giảm tốc độ của tàu một cách thường xuyên).",
+      "evidence": "One of the advantages of the electric car system is that the motor functions as a brake to reduce the speed of the train."
+    },
+    "q40": {
+      "explanation": "Người nói đang nói về những lợi ích của hệ thống điện trong tàu cao tốc. Thông tin quan trọng là khả năng của động cơ trong việc dừng tàu. Paraphrase quan trọng là \"can be used to stop the train,\" cho thấy rằng động cơ có thể thực hiện nhiều chức năng. Bẫy có thể là sự nhầm lẫn với các lợi ích khác, nhưng câu này rõ ràng chỉ ra rằng động cơ có thể dừng tàu. Đáp án đúng là B (động cơ có thể được sử dụng để dừng tàu cũng như để di chuyển nó) và C (nó cho phép tăng hoặc giảm tốc độ của tàu một cách thường xuyên).",
+      "evidence": "The motors can be used to stop the train as well as to move it."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> I'd like now to talk a little bit about the technology involved in bullet trains. The Shinkansens and bullet trains consist of electrically powered cars. That means basically all individual cars are equipped with electric motor driving systems. This is in contrast to locomotive trains, in which the locomotive pulls the passenger coaches.</p><p><strong>Speaker 3:</strong> The realization of the high-speed Shinkansen with the electric train system had a great significance. The French train à grande vitesse, or TGV, runs on a centralized power system, in which the heavyweight, high-output locomotives at both ends pull the passenger coaches. It's a system suitable to European railways, which run basically on straight tracks in wide plains with solid foundations.</p><p><strong>Speaker 2:</strong> However, it is unsuitable in Japan, where the ground is flimsy, and the tracks full of curves and undulations, and intercity distances are short, making it necessary for the trains to accelerate and decelerate frequently. One of the advantages of the electric car system is that the motor functions as a brake to reduce the speed of the train.</p><p><strong>Speaker 3:</strong> When the power feed to the electric car motors is stopped, the wheels continue revolving, keeping the motors rotating, resulting in electricity generation by magnetic induction. As the force acts in the direction opposite to the axle's motion, it functions as a brake to the train. All the motors equipped on each coach can be utilized effectively to reduce the speed, making the electric train system advantageous on Japanese railways, which involve frequent deceleration and acceleration.</p><p><strong>Speaker 2:</strong> In addition, by virtue of the remarkable progress achieved recently in semiconductor technologies, the electric train system has undergone tremendous improvements in power, operability, and safety administration. So the system is becoming increasingly advantageous.</p>"
+}

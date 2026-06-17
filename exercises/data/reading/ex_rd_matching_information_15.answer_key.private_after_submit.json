@@ -1,0 +1,53 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_rd_matching_information_15",
+  "module": "reading",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 6,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "JK"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "SJ"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "RC"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "NW"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "SJ"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "EP"
+      ]
+    }
+  }
+}

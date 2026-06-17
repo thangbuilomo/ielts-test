@@ -1,0 +1,53 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "exercise_id": "ex_rd_matching_sentence_endings_11",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "scoring": {
+    "raw_score_max": 5,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q18": {
+      "answers": [
+        "D",
+        "... to come to the correct conclusion."
+      ]
+    },
+    "q19": {
+      "answers": [
+        "B",
+        "... to explain why the problem was interesting."
+      ]
+    },
+    "q20": {
+      "answers": [
+        "E",
+        "... to see how another area of maths could help him solve the problem."
+      ]
+    },
+    "q21": {
+      "answers": [
+        "C",
+        "... to visualise the problem."
+      ]
+    },
+    "q22": {
+      "answers": [
+        "F",
+        "... to complete the original task."
+      ]
+    }
+  }
+}

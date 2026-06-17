@@ -1,0 +1,126 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_multiple_choice_26",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 5,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "mcq_single",
+  "category_id": "multiple_choice",
+  "title": "Multiple Choice - Exercise 26",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2026.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_multiple_choice_26.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_multiple_choice_26.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_multiple_choice_26.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "mcq_single",
+          "skill_tags": [
+            "ls_mcq_single"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>MULTIPLE CHOICE 26</h1><p><strong>Questions 36 - 40</strong></p><p>Choose the correct letter, <strong>A, B or C</strong>.</p><p>36 Microbursts ...</p><table><thead><tr><th><strong>A</strong>    ... can create very strong winds.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    ... influence the appearance of thunderstorms.</td><td></td></tr><tr><td><strong>C</strong>    ... can appear due to a lack of rainfall.</td><td></td></tr></tbody></table><p>37 Which of the following human activities is said to increase the likelihood of haboobs?</p><table><thead><tr><th><strong>A</strong>    Driving off road</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    Farming</td><td></td></tr><tr><td><strong>C</strong>    Building dams</td><td></td></tr></tbody></table><p>38 How much of Texas is said to be suffering from a lack of rain?</p><table><thead><tr><th><strong>A</strong>    19 per cent</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    92 per cent</td><td></td></tr><tr><td><strong>C</strong>    90 per cent</td><td></td></tr></tbody></table><p>39 How does the speaker compare the possible future problems?</p><table><thead><tr><th><strong>A</strong>    She says that they will be slightly better than the period of drought in the 1930s.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    She says that they will be a lot worse than the period of drought in the 1930s.</td><td></td></tr><tr><td><strong>C</strong>    She says that they will be more or less the same as the period of drought in the 1930s.</td><td></td></tr></tbody></table><p>40  What have meteorologists said about the scale and strength of some of last year's storms?</p><table><thead><tr><th><strong>A</strong>    They were caused by an excessive amount of sand.</th><th></th></tr></thead><tbody><tr><td><strong>B</strong>    They were due to the excessive temperatures in the region.</td><td></td></tr><tr><td><strong>C</strong>    One particular reason for the power of the storms has not been identified.</td><td></td></tr></tbody></table>",
+          "items": [
+            {
+              "question_id": "q36",
+              "number": 36,
+              "prompt_html": "Microbursts ...",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q37",
+              "number": 37,
+              "prompt_html": "Which of the following human activities is said to increase the likelihood of haboobs?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q38",
+              "number": 38,
+              "prompt_html": "How much of Texas is said to be suffering from a lack of rain?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q39",
+              "number": 39,
+              "prompt_html": "How does the speaker compare the possible future problems?",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q40",
+              "number": 40,
+              "prompt_html": "What have meteorologists said about the scale and strength of some of last year's storms?",
+              "response_type": "text"
+            }
+          ],
+          "options": [
+            {
+              "label": "A",
+              "text": "They were caused by an excessive amount of sand."
+            },
+            {
+              "label": "B",
+              "text": "They were due to the excessive temperatures in the region."
+            },
+            {
+              "label": "C",
+              "text": "One particular reason for the power of the storms has not been identified."
+            }
+          ],
+          "question_range": [
+            36,
+            40
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_multiple_choice_26",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_multiple_choice_26",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

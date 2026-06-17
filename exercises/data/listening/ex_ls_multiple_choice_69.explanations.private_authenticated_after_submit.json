@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_69",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Người nói đang thảo luận về cách nhận diện các bức tranh của Cotman. Thông tin giúp tìm ra đáp án là câu nói \"You can tell a Cotman painting as soon as you see one,\" cho thấy rằng có một yếu tố đặc trưng nào đó khiến người ta dễ dàng nhận ra tranh của Cotman. Paraphrase quan trọng ở đây là \"you can tell\" có thể hiểu là \"nhận ra\" hoặc \"dễ dàng xác định\". Bẫy có thể là sự nhầm lẫn giữa các yếu tố như \"subject matter\" (nội dung) hoặc \"style of painting\" (phong cách vẽ), nhưng câu nói rõ ràng chỉ ra rằng sự nhận diện đến từ một yếu tố cụ thể, đó là \"his signature\" (chữ ký của ông). Vì vậy, đáp án A là chính xác.",
+      "evidence": "You can tell a Cotman painting as soon as you see one."
+    },
+    "q22": {
+      "explanation": "Sue so sánh Cotman với Van Gogh để chỉ ra rằng không phải ai cũng biết về Cotman như họ. Thông tin giúp tìm ra đáp án là câu nói \"not everybody will be,\" cho thấy rằng có thể có những người không quen thuộc với Cotman. Paraphrase quan trọng ở đây là \"not everybody\" có thể hiểu là \"các sinh viên khác có thể không biết nhiều về Cotman.\" Bẫy có thể là sự nhầm lẫn giữa việc Cotman có ảnh hưởng đến các nghệ sĩ lớn hay không, nhưng câu nói rõ ràng chỉ ra rằng sự quen thuộc không đồng đều giữa các sinh viên. Do đó, đáp án A là chính xác.",
+      "evidence": "You and I were both familiar with him, but not everybody will be."
+    },
+    "q23": {
+      "explanation": "Paul nói về lý do Cotman thường xuyên đến Brandsby, đó là để tìm kiếm khách hàng mới. Thông tin giúp tìm ra đáp án là câu nói \"they introduced him to wealthy people who would offer him work,\" cho thấy rằng mục đích của việc đến đó là để tìm kiếm cơ hội làm việc. Paraphrase quan trọng ở đây là \"offer him work\" có thể hiểu là \"đề nghị công việc.\" Bẫy có thể là việc nghĩ rằng ông ấy đến đó để mua nhà hoặc chỉ để vẽ tranh, nhưng câu nói rõ ràng chỉ ra rằng ông ấy đang tìm kiếm cơ hội làm việc. Vì vậy, đáp án A là chính xác.",
+      "evidence": "Oh, he stayed with friends who owned a house there when he was on painting tours, and they introduced him to wealthy people who would offer him work."
+    },
+    "q24": {
+      "explanation": "Paul phản đối ý tưởng của Sue về việc đưa vào cuộc sống cá nhân của Cotman vì nó có thể không liên quan đến chủ đề chính của bài thuyết trình. Thông tin giúp tìm ra đáp án là câu nói \"that might be off-topic,\" cho thấy rằng việc đưa vào thông tin cá nhân có thể không phù hợp với yêu cầu của bài thuyết trình. Paraphrase quan trọng ở đây là \"off-topic\" có thể hiểu là \"không liên quan.\" Bẫy có thể là việc nghĩ rằng thông tin cá nhân có thể thú vị, nhưng Paul nhấn mạnh rằng nó không phù hợp với mục tiêu của bài thuyết trình. Vì vậy, đáp án A là chính xác.",
+      "evidence": "I mean, plenty of them have survived, but to be honest, that might be off-topic, and it would take ages."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1 (Sue):</strong> All right, Sue, do you want to work with me on this presentation we need to give next week?</p><p><strong>Speaker 2 (Paul):</strong> Hey, Paul, sure. So we've got to talk about one artist and show up to six of their artworks.</p><p>Speaker 1 (Sue): Yes, that's right. We could talk about John Sell Cotman. The English watercolour painter from the 1800s.</p><p>Speaker 2 (Paul): That's the one. You can tell a Cotman painting as soon as you see one.</p><p>Speaker 1 (Sue): Definitely. I mean, he painted landscapes and architecture just like his contemporaries, but Cotman had this unique way of applying colour.</p><p>Speaker 2 (Paul): Yes, he'd put on one layer of paint, let it dry, then do another layer on top of that to make the colour more intense.</p><p>Speaker 1 (Sue): So regardless of whether he signed the picture, you immediately know it's a Cotman.</p><p>Speaker 2 (Paul): Yeah. Thing is, when we present to the other students, well, Cotman, he's not exactly Van Gogh, is he?</p><p>Speaker 1 (Sue): As in, he's not a world-famous painter who had a huge influence.</p><p>Speaker 2 (Paul): Exactly. You and I were both familiar with him, but not everybody will be. So we can't assume any prior knowledge.</p><p>Speaker 1 (Sue): Sure. I read that he often stayed somewhere called Bransby, but I'm not aware he ever painted Bransby, so I'm not sure why he went.</p><p>Speaker 2 (Paul): Oh, he stayed with friends who owned a house there when he was on painting tours, and they introduced him to wealthy people who would offer him work, maybe to paint their portraits or whatever.</p><p>Speaker 1 (Sue): I see. So he was on the lookout for his next commission.</p><p>Speaker 2 (Paul): Right. It was in his interest to keep getting invited back. Shall we focus on Cotman's friendships and talk about his love life and family? Personalise it. Make our classmates feel they're getting to know Cotman, the man. What do you think?</p><p>Speaker 1 (Sue): Well, we could in theory go through some of the letters he wrote. I mean, plenty of them have survived, but to be honest, that might be off-topic, and it would take ages. I say we keep to the brief and limit ourselves to his artworks. Make sure our audience knows what makes his paintings so fascinating.</p><p>Speaker 2 (Paul): Okay.</p>"
+}

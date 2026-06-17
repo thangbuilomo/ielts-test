@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_sentence_completion_06",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q34": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn A, bài viết nêu: \"But what if, instead of petrol, your car ran on the most abundant element in our universe, hydrogen, which will never be in short supply? Many experts think this will replace petrol, diesel and natural gas as the main fuel for cars, buses and lorries over the next few decades. Already car manufacturers around the world have invested billions of dollars in research and development, aiming to bring hydrogen cars a step closer.\". Cụm most abundant element khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "But what if, instead of petrol, your car ran on the most abundant element in our universe, hydrogen, which will never be in short supply? Many experts think this will replace petrol, diesel and natural gas as the main fuel for cars, buses and lorries over the next few decades. Already car manufacturers around the world have invested billions of dollars in research and development, aiming to bring hydrogen cars a step closer._"
+    },
+    "q35": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn A, bài viết nêu: \"But what if, instead of petrol, your car ran on the most abundant element in our universe, hydrogen, which will never be in short supply? Many experts think this will replace petrol, diesel and natural gas as the main fuel for cars, buses and lorries over the next few decades. Already car manufacturers around the world have invested billions of dollars in research and development, aiming to bring hydrogen cars a step closer.\". Cụm billions of dollars khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "But what if, instead of petrol, your car ran on the most abundant element in our universe, hydrogen, which will never be in short supply? Many experts think this will replace petrol, diesel and natural gas as the main fuel for cars, buses and lorries over the next few decades. Already car manufacturers around the world have invested billions of dollars in research and development, aiming to bring hydrogen cars a step closer._"
+    },
+    "q36": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn F, bài viết nêu: \"Although there is no risk that we will ever run out of hydrogen, on earth it exists naturally only in chemical compounds, not as hydrogen gas. A relatively simple principal technology, steam reforming, can produce hydrogen gas for cars at central plants or filling stations. Alternatively, fuel tanks could be filled with petrol or methanol, with the cars using on-board reformers to generate hydrogen for their fuel cells.\". Cụm on-board reformers khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Although there is no risk that we will ever run out of hydrogen, on earth it exists naturally only in chemical compounds, not as hydrogen gas. A relatively simple principal technology, steam reforming, can produce hydrogen gas for cars at central plants or filling stations. Alternatively, fuel tanks could be filled with petrol or methanol, with the cars using on-board reformers to generate hydrogen for their fuel cells._"
+    },
+    "q37": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn G, bài viết nêu: \"Nowadays helium, which cannot burn, is the gas of choice for lighter-than-air craft. Hydrogen is highly flammable, but recent research has indicated that the airship’s fabric, not hydrogen, was the culprit in the Hindenburg disaster. Properly handled, there is no reason to think hydrogen is any more dangerous as a fuel than petrol, the explosive liquid now carried safely in the tanks of millions of motor vehicles.\". Cụm the airship’s fabric khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Nowadays helium, which cannot burn, is the gas of choice for lighter-than-air craft. Hydrogen is highly flammable, but recent research has indicated that the airship’s fabric, not hydrogen, was the culprit in the Hindenburg disaster. Properly handled, there is no reason to think hydrogen is any more dangerous as a fuel than petrol, the explosive liquid now carried safely in the tanks of millions of motor vehicles._"
+    },
+    "q38": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn H, bài viết nêu: \"Recent technological advances, particularly in fuel cell design, have made hydrogen-powered cars a practical proposition, and car manufacturers expect to start mass-producing them within the next decade or so. Their power and acceleration should match those of today’s conventionally powered vehicles, but they may have to be refuelled more often. The best ways to produce, distribute and store the hydrogen still have to be sorted out.\". Cụm acceleration khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Recent technological advances, particularly in fuel cell design, have made hydrogen-powered cars a practical proposition, and car manufacturers expect to start mass-producing them within the next decade or so. Their power and acceleration should match those of today’s conventionally powered vehicles, but they may have to be refuelled more often. The best ways to produce, distribute and store the hydrogen still have to be sorted out._"
+    }
+  }
+}

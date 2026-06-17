@@ -1,0 +1,45 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_30",
+  "module": "listening",
+  "question_count": 7,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation": "Người nói đang cung cấp địa chỉ của mình cho nhân viên dịch vụ khách hàng. Thông tin giúp tìm ra đáp án là từ \"Woolbridge Lane\", nơi mà \"Lane\" là từ cần điền vào ô trống. Paraphrase quan trọng ở đây là \"Lane\" có thể được hiểu là một loại đường phố. Bẫy có thể là việc người nghe có thể nhầm lẫn với các từ khác như \"Street\" hoặc \"Avenue\", nhưng trong ngữ cảnh này, \"Lane\" là chính xác. Đáp án đúng vì nó hoàn toàn khớp với thông tin được cung cấp trong câu nói.",
+      "evidence": "It's 77 Woolbridge Lane, White Sands, and the postcode is WS178GP."
+    },
+    "q2": {
+      "explanation": "Người nói đang cung cấp mã bưu chính cho địa chỉ của mình. Thông tin giúp tìm ra đáp án là câu nói trực tiếp về mã bưu chính. Paraphrase quan trọng là \"postcode\" có thể được hiểu là mã bưu chính. Không có bẫy trong câu này vì thông tin rất rõ ràng và không có từ nào có thể gây nhầm lẫn. Đáp án đúng vì nó chính xác như đã được nêu trong câu.",
+      "evidence": "the postcode is WS178GP."
+    },
+    "q3": {
+      "explanation": "Người nói đang mô tả loại sản phẩm mà họ đã đặt hàng. Thông tin giúp tìm ra đáp án là từ \"bookcase\", từ này được nhắc đến rõ ràng trong câu. Paraphrase quan trọng là \"a large pine bookcase\" có thể được hiểu là một kệ sách lớn làm từ gỗ thông. Không có bẫy trong câu này vì từ \"bookcase\" là rất cụ thể và không thể nhầm lẫn với các loại đồ nội thất khác. Đáp án đúng vì nó hoàn toàn khớp với thông tin được cung cấp.",
+      "evidence": "It's a large pine bookcase."
+    },
+    "q4": {
+      "explanation": "Người nói đang cung cấp số đơn hàng của họ cho nhân viên dịch vụ khách hàng. Thông tin giúp tìm ra đáp án là số đơn hàng \"PT94775\" được nhắc đến rõ ràng. Paraphrase quan trọng là \"order number\" có thể được hiểu là số đơn hàng. Bẫy có thể là việc người nghe có thể nhầm lẫn giữa các phần của số đơn hàng, nhưng trong ngữ cảnh này, \"94775\" là phần cần thiết. Đáp án đúng vì nó chính xác như đã được nêu trong câu.",
+      "evidence": "Ah, yes, here we are. PT94775."
+    },
+    "q5": {
+      "explanation": "Người nói đang mô tả phần bị hư hỏng của sản phẩm mà họ đã nhận. Thông tin giúp tìm ra đáp án là từ \"top\", từ này được nhắc đến rõ ràng khi nói về kệ bị hỏng. Paraphrase quan trọng là \"top shelf\" có thể được hiểu là kệ trên cùng. Bẫy có thể là việc người nghe có thể nhầm lẫn với các từ khác như \"middle\" hoặc \"bottom\", nhưng trong ngữ cảnh này, \"top\" là chính xác. Đáp án đúng vì nó hoàn toàn khớp với thông tin được cung cấp.",
+      "evidence": "The top shelf. It's broken down the middle."
+    },
+    "q6": {
+      "explanation": "Người nói đang đề xuất thời gian cho việc thu hồi hàng hóa. Thông tin giúp tìm ra đáp án là thời gian \"4.45\" được nhắc đến rõ ràng. Paraphrase quan trọng là \"4.45\" có thể được hiểu là thời gian cụ thể. Bẫy có thể là việc người nghe có thể nhầm lẫn với các thời gian khác được đề cập trước đó, nhưng trong ngữ cảnh này, \"4.45\" là thời gian chính xác mà người nói đã chọn. Đáp án đúng vì nó hoàn toàn khớp với thông tin được cung cấp.",
+      "evidence": "In that case, 4.45 would be OK."
+    },
+    "q7": {
+      "explanation": "Người nói đang cung cấp địa chỉ email của mình cho nhân viên dịch vụ khách hàng. Thông tin giúp tìm ra đáp án là phần \"gcooper45\" trong địa chỉ email được nhắc đến rõ ràng. Paraphrase quan trọng là \"email address\" có thể được hiểu là địa chỉ email. Bẫy có thể là việc người nghe có thể nhầm lẫn giữa các con số trong địa chỉ email, nhưng trong ngữ cảnh này, \"gcooper45\" là phần cần thiết. Đáp án đúng vì nó chính xác như đã được nêu trong câu.",
+      "evidence": "My email address is gcooper45@mail.com."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Good afternoon, Furniture Planet. How can I help you?</p><p><strong>Speaker 3:</strong> Hi, I'm calling about an item I ordered from your website last week. The package arrived safely, but when I opened it, I noticed that there was a part missing and that one of the pieces was broken.</p><p><strong>Speaker 2:</strong> Oh, I'm sorry to hear that. In order to get new parts sent out to you, I need to take a few details. Is that alright?</p><p><strong>Speaker 3:</strong> Of course.</p><p><strong>Speaker 2:</strong> Great. First of all, can I take your full name, please?</p><p><strong>Speaker 3:</strong> Sure, it's Gordon Cooper.</p><p><strong>Speaker 2:</strong> OK, great. Got that. And your address, please, Mr Cooper?</p><p><strong>Speaker 3:</strong> It's 77 Woolbridge Lane, White Sands, and the postcode is WS178GP.</p><p><strong>Speaker 2:</strong> Great, thank you. And the postcode was WS178GP.</p><p><strong>Speaker 3:</strong> Right, got that. So, you mentioned before that you received a damaged item from us recently.</p><p><strong>Speaker 3:</strong> Well, yes, damaged, but there was also a part missing.</p><p><strong>Speaker 2:</strong> OK, and can you tell me the name of the item?</p><p><strong>Speaker 3:</strong> Sure, no problem. It's a large pine bookcase. Main classic, I think it was called.</p><p><strong>Speaker 2:</strong> Yes, that's right. OK, thank you. And do you have the order number there?</p><p><strong>Speaker 3:</strong> Hold on, that'll be in the email you sent over. The order number. Let me check. Ah, yes, here we are. PT94775.</p><p><strong>Speaker 2:</strong> Great, thanks. I've just entered that into the system. Yes, I can see the bookcase here. Can I ask which parts were missing?</p><p><strong>Speaker 3:</strong> Well, there should be three drawers to go in at the bottom, but there were only two.</p><p><strong>Speaker 2:</strong> Right, got that. And which part was damaged, Mr Cooper?</p><p><strong>Speaker 3:</strong> The top shelf. It's broken down the middle.</p><p><strong>Speaker 2:</strong> Oh, that's strange. I'm very sorry about that. Hold on, I'll check what we can do about it.</p><p><strong>Speaker 2:</strong> OK. Right, well, we will offer you a complete replacement. First, we will arrange for a courier to collect the old package from you. When would be a good time for that?</p><p><strong>Speaker 3:</strong> Well, I'm busy tomorrow, so that won't do. Late Wednesday afternoon would be perfect, though. Could we say 5.30?</p><p><strong>Speaker 2:</strong> I'm sorry, the courier only works until 5pm.</p><p><strong>Speaker 3:</strong> Oh, OK. In that case, 4.45 would be OK.</p><p><strong>Speaker 2:</strong> Perfect. I'll pencil you in then at quarter to five. After that, you will receive the replacement item within five days, so that should be before this coming Saturday.</p><p><strong>Speaker 3:</strong> Great, thanks. And finally, if there is any problem, how would you like us to contact you, by email or by telephone?</p><p><strong>Speaker 3:</strong> By email, please. My email address is gcooper45@mail.com.</p><p><strong>Speaker 2:</strong> Sorry, was that 35 or 45?</p><p><strong>Speaker 3:</strong> 45.</p><p><strong>Speaker 2:</strong> OK, thank you, Mr Cooper. We'll be sure to let you know if there are any problems.</p>"
+}

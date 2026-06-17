@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_sentence_endings_02",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q20": {
+      "explanation": "Câu 20 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn E chứa căn cứ: \"Beverage cans made of aluminium were introduced in 1965. This was an exciting innovation for the packaging industry because the aluminium can was made with only two pieces - a body and an end. This made production easier.\". Lựa chọn F (1965) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Beverage cans made of aluminium were introduced in 1965. This was an exciting innovation for the packaging industry because the aluminium can was made with only two pieces - a body and an end. This made production easier._"
+    },
+    "q21": {
+      "explanation": "Câu 21 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn B chứa căn cứ: \"Englishmen who emigrated to America took their newfound knowledge with them. One such man was Thomas Kensett, who might fairly be called the father of the can manufacturing industry in the United States. In 1813 he set up a small plant on the New York waterfront to can the first hermetically sealed products in the United States.\". Lựa chọn C (1813) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Englishmen who emigrated to America took their newfound knowledge with them. One such man was Thomas Kensett, who might fairly be called the father of the can manufacturing industry in the United States. In 1813 he set up a small plant on the New York waterfront to can the first hermetically sealed products in the United States._"
+    },
+    "q22": {
+      "explanation": "Câu 22 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn A chứa căn cứ: \"Like glass, tin could be sealed airtight, but tin was not breakable and was much easier to handle. Durand himself did no canning, but two other Englishmen, Bryan Donkin and John Hall, used Durand’s patent. After experimenting for more than a year, they set up the world’s first commercial canning factory in London in 1812, and by 1814 they were sending tins of food to British army and navy authorities for trial.\". Lựa chọn B (1812) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Like glass, tin could be sealed airtight, but tin was not breakable and was much easier to handle. Durand himself did no canning, but two other Englishmen, Bryan Donkin and John Hall, used Durand’s patent. After experimenting for more than a year, they set up the world’s first commercial canning factory in London in 1812, and by 1814 they were sending tins of food to British army and navy authorities for trial._"
+    },
+    "q23": {
+      "explanation": "Câu 23 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn D chứa căn cứ: \"As early as 1940, can manufacturers began to explore the possibility of adapting cans to package carbonated soft drinks. The can had to be strengthened to accommodate higher internal pressures created by carbonation (especially during warm summer months), which meant increasing the thickness of the metal used in the can ends. Another concern for the new beverage can was its shelf life.\". Lựa chọn E (1940) là lựa chọn khớp với chi tiết này.",
+      "evidence": "As early as 1940, can manufacturers began to explore the possibility of adapting cans to package carbonated soft drinks. The can had to be strengthened to accommodate higher internal pressures created by carbonation (especially during warm summer months), which meant increasing the thickness of the metal used in the can ends. Another concern for the new beverage can was its shelf life._"
+    },
+    "q24": {
+      "explanation": "Câu 24 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn C chứa căn cứ: \"As the industrial revolution took hold in the United States, the demand for cans increased and machines began to replace the artisans’ handiwork. A good artisan could make only 10 cans a day. True production progress in can making began in 1922, when American engineers perfected the body-making process, and soon production increased to as many as 250 cans a minute.\". Lựa chọn D (1922) là lựa chọn khớp với chi tiết này.",
+      "evidence": "As the industrial revolution took hold in the United States, the demand for cans increased and machines began to replace the artisans’ handiwork. A good artisan could make only 10 cans a day. True production progress in can making began in 1922, when American engineers perfected the body-making process, and soon production increased to as many as 250 cans a minute._"
+    }
+  }
+}

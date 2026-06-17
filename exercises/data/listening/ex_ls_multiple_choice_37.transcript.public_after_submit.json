@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_37",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2037.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Dr. Erdman's subsequent research revealed that the people from Sulawesi had a name for it, Raja, King of the Sea. </p><p><strong>Speaker 3:</strong> The Sulawesi coelacanth colony is about 10,000 kilometers east of where the coelacanths were previously known to occur in the West Indian Ocean.</p><p><strong>Speaker 2:</strong> Both Sulawesi and Comoros coelacanths are quite different from all other living fish. But perhaps the most interesting feature of the coelacanth is that it has paired, lobed fins, which move in a similar fashion to our arms and legs. </p><p><strong>Speaker 3:</strong> Coelacanths also have an extra lobe on their tail and a vertebral column that is not fully developed. They are the only living animal to have a fully functional intracranial joint, a division that separates the ear and brain from the nasal organs and eye, and allows the front part of the head to be lifted when the fish is feeding.</p><p><strong>Speaker 2:</strong> The brown Sulawesi coelacanth and the steel-blue Comoros coelacanth share these unusual characteristics. </p><p><strong>Speaker 3:</strong> The discovery of the coelacanth in 1938 is still considered to be the zoological find of the century. This living fossil comes from a lineage of fish that was thought to have been extinct since the time of dinosaurs.</p><p><strong>Speaker 2:</strong> Coelacanths are known from the fossil record dating back over 360 million years and peaked in abundance about 240 million years ago. </p><p><strong>Speaker 3:</strong> Before 1938, they were believed to have become extinct approximately 80 million years ago after mysteriously disappearing from the fossil record. </p><p><strong>Speaker 2:</strong> How could the coelacanth disappear for over 80 million years and then turn up alive and well in the 20th century? </p><p><strong>Speaker 3:</strong> The answer seems to be that fossil coelacanths appeared to live in environments with clay sedimentation with plenty of volcanic activity. </p><p><strong>Speaker 2:</strong> Modern coelacanths, both in the Comoros and Sulawesi, inhabit caves and overhangs in vertical marine reefs at about 200 meters, environments not conducive to fossil creation.</p><p><strong>Speaker 3:</strong> In 1991, scientists got a better understanding of the fish when the Comoros got their independence from France and French restrictions on research were lifted. </p><p><strong>Speaker 2:</strong> This allowed scientists to study the fish off the Comoros Islands. As the animal hides in underwater caves some 300 to 700 feet down during the day and comes out at night to feed, diving is not an option and previously only fishermen's specimens had been available for study. </p><p><strong>Speaker 3:</strong> But this time the scientists had their own submarine so they could study the coelacanth in its natural habitat through portholes.</p>"
+    }
+  ]
+}

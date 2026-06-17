@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_matching_sentence_endings_06",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q33": {
+      "explanation": "Câu 33 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 3 chứa căn cứ: \"\"Receptive bilingualism\" describes the situation in which a person is able to understand two languages, but can express themselves in only one. Receptive bilingualism is comparable to, but not the same as, mutual intelligibility. An example of this could be a native Spanish speaker who is able to understand Portuguese and vice-versa due to the high lexical and grammatical similarities between Spanish and Portuguese.\". Lựa chọn E (... equal competence in two languages can never be achieved.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "\"Receptive bilingualism\" describes the situation in which a person is able to understand two languages, but can express themselves in only one. Receptive bilingualism is comparable to, but not the same as, mutual intelligibility. An example of this could be a native Spanish speaker who is able to understand Portuguese and vice-versa due to the high lexical and grammatical similarities between Spanish and Portuguese._"
+    },
+    "q34": {
+      "explanation": "Câu 34 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 2 chứa căn cứ: \"This usually happens because a child’s parents have different mother tongues, or because the language their family speaks is not that of the country they are living in. Simultaneous acquisition occurs when a child is raised bilingually from birth, or when the second language is introduced before the age of 3. Children learning two languages simultaneously go through the same developmental stages as children learning one language and, while simultaneously bilingual children may frequently start talking slightly later than monolingual children, they still begin producing speech within the normal range.\". Lựa chọn B (... one of their languages has a low status.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "This usually happens because a child’s parents have different mother tongues, or because the language their family speaks is not that of the country they are living in. Simultaneous acquisition occurs when a child is raised bilingually from birth, or when the second language is introduced before the age of 3. Children learning two languages simultaneously go through the same developmental stages as children learning one language and, while simultaneously bilingual children may frequently start talking slightly later than monolingual children, they still begin producing speech within the normal range._"
+    },
+    "q35": {
+      "explanation": "Câu 35 yêu cầu nối thông tin trong câu hỏi với một lựa chọn. Đoạn 6 chứa căn cứ: \"Some of the first research on bilingualism, conducted primarily between 1920 and 1960, appeared to support this view. Indeed, these studies often associated bilingual children with the term ‘linguistically handicapped’. General indications from these early studies were that monolingual children were up to 3 years ahead of bilingual children in various skills relating to verbal and non-verbal intelligence.\". Lựa chọn D (... bilingualism is an asset rather than a hindrance.) là lựa chọn khớp với chi tiết này.",
+      "evidence": "Some of the first research on bilingualism, conducted primarily between 1920 and 1960, appeared to support this view. Indeed, these studies often associated bilingual children with the term ‘linguistically handicapped’. General indications from these early studies were that monolingual children were up to 3 years ahead of bilingual children in various skills relating to verbal and non-verbal intelligence._"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_65",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q8": {
+      "explanation": "Người nói (Speaker 2) đang nói về trải nghiệm của mình khi sử dụng trang web của Furniture Planet. Anh ấy cho biết rằng mặc dù việc tìm kiếm sản phẩm trên trang web rất đơn giản, nhưng việc xác định xem sản phẩm có phù hợp hay không lại khó khăn do các trang mô tả sản phẩm không cung cấp đủ thông tin. Thông tin này giúp tìm ra đáp án là B, vì nó chỉ ra rằng cần có thêm thông tin về từng sản phẩm. Paraphrase quan trọng ở đây là \"không hữu ích lắm\", điều này cho thấy sự thiếu sót trong thông tin. Bẫy có thể là sự nhầm lẫn giữa việc dễ dàng tìm kiếm sản phẩm và việc thiếu thông tin chi tiết. Đáp án B là đúng vì nó phản ánh chính xác ý kiến của người nói về việc cần cải thiện thông tin trên trang web.",
+      "evidence": "but then it's difficult to know if what you're looking at is suitable because the product description pages aren't very helpful."
+    },
+    "q9": {
+      "explanation": "Người nói (Speaker 2) đang tìm một chiếc ghế armchair và cụ thể là chiếc Washington Deluxe. Anh ấy đã nêu rõ rằng mình muốn mua chiếc ghế màu xanh, nhưng hiện tại nó đã hết hàng. Thông tin này giúp xác định đáp án là C, vì nó chỉ ra màu sắc mà người nói muốn mua. Paraphrase quan trọng ở đây là \"cái màu xanh\", điều này khẳng định rõ ràng lựa chọn của anh ấy. Không có bẫy trong câu hỏi này vì thông tin rất rõ ràng. Đáp án C là đúng vì nó phản ánh chính xác màu sắc mà người nói muốn mua.",
+      "evidence": "the website says that you have the Washington Deluxe chair in red and in grey, but that the one I'm interested in, the blue one, is out of stock."
+    },
+    "q10": {
+      "explanation": "Người nói (Speaker 2) đang hỏi về các thông số của chiếc ghế mà anh ấy quan tâm. Câu hỏi của anh ấy chỉ ra rằng anh đang tìm hiểu về trọng lượng của ghế, nhưng không hỏi về kích thước hay chất liệu. Thông tin này giúp xác định đáp án là A, vì câu hỏi về trọng lượng là câu hỏi duy nhất mà anh ấy đặt ra. Paraphrase quan trọng ở đây là \"không hỏi về kích thước hay chất liệu\", điều này cho thấy những gì anh ấy không quan tâm. Bẫy có thể là việc người nghe có thể nghĩ rằng tất cả các thông số đều quan trọng, nhưng thực tế là anh ấy chỉ hỏi về trọng lượng. Đáp án A là đúng vì nó phản ánh chính xác điều mà người nói không hỏi về chiếc ghế.",
+      "evidence": "Firstly, how heavy is it?"
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Now that we've sorted that out, is there anything else I can help you with, Mr. Cooper?  </p><p><strong>Speaker 2:</strong> Actually, yes, there is. You see, I'm buying furniture for our lounge, so I've been looking online. Your website is very simple to find products on, but then it's difficult to know if what you're looking at is suitable because the product description pages aren't very helpful.  </p><p><strong>Speaker 1:</strong> Well, it's always useful to hear customer suggestions. How do you think we could improve?  </p><p><strong>Speaker 2:</strong> Well, I feel there's not much information about the size and weight of the items, as well as the materials used to make them. Also, although the number and content of the pictures is good, they're sometimes too small to see the details.  </p><p><strong>Speaker 1:</strong> OK, I will make a note to pass on to our web development team. Now, to get back to the items you were interested in...  </p><p><strong>Speaker 2:</strong> Yes, well, I'm looking for an armchair. The website says that you have the Washington Deluxe chair in red and in grey, but that the one I'm interested in, the blue one, is out of stock. Do you know when this will be available to order?  </p><p><strong>Speaker 1:</strong> Just a second. Yes, we'll have it in the warehouse this Friday. Would you like me to order one for you?  </p><p><strong>Speaker 2:</strong> I'm not sure yet. Firstly, how heavy is it?  </p><p><strong>Speaker 1:</strong> Just a second. It weighs 20 kilograms.  </p><p><strong>Speaker 2:</strong> Oh, that's very good. I was worried that it would be too heavy. Great. And finally, can you tell me what material it's made of? It's not leather, is it?  </p><p><strong>Speaker 1:</strong> No, it's not. It says here that the fabric is wool.  </p><p><strong>Speaker 2:</strong> Thanks. I couldn't see because the picture was so small. Anyway, I'd like to take two of those, please.  </p><p><strong>Speaker 1:</strong> OK, I'll add that to your order. Are there any other items you're interested in?  </p><p><strong>Speaker 2:</strong> Yes, I was looking at your collection of coffee tables and, um...</p>"
+}

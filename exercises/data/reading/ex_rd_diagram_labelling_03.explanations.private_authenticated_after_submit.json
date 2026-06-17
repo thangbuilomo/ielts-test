@@ -1,0 +1,28 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_diagram_labelling_03",
+  "module": "reading",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"If you want to go straight, just shift the weight forward to tilt the nose down a bit. Then to rise, electricity from a battery between the tail wings is used to pump an oil contained inside central hull tanks next to the mid wings into external containment bladders behind the nose. This simple manoeuver increases the craft’s volume, and thus lowers its density just enough for the surrounding water to push it upward.\". Cụm battery khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "If you want to go straight, just shift the weight forward to tilt the nose down a bit. Then to rise, electricity from a battery between the tail wings is used to pump an oil contained inside central hull tanks next to the mid wings into external containment bladders behind the nose. This simple manoeuver increases the craft’s volume, and thus lowers its density just enough for the surrounding water to push it upward._"
+    },
+    "q22": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"If you want to go straight, just shift the weight forward to tilt the nose down a bit. Then to rise, electricity from a battery between the tail wings is used to pump an oil contained inside central hull tanks next to the mid wings into external containment bladders behind the nose. This simple manoeuver increases the craft’s volume, and thus lowers its density just enough for the surrounding water to push it upward.\". Cụm central hull tanks khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "If you want to go straight, just shift the weight forward to tilt the nose down a bit. Then to rise, electricity from a battery between the tail wings is used to pump an oil contained inside central hull tanks next to the mid wings into external containment bladders behind the nose. This simple manoeuver increases the craft’s volume, and thus lowers its density just enough for the surrounding water to push it upward._"
+    },
+    "q23": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"If you want to go straight, just shift the weight forward to tilt the nose down a bit. Then to rise, electricity from a battery between the tail wings is used to pump an oil contained inside central hull tanks next to the mid wings into external containment bladders behind the nose. This simple manoeuver increases the craft’s volume, and thus lowers its density just enough for the surrounding water to push it upward.\". Cụm external containment bladders khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "If you want to go straight, just shift the weight forward to tilt the nose down a bit. Then to rise, electricity from a battery between the tail wings is used to pump an oil contained inside central hull tanks next to the mid wings into external containment bladders behind the nose. This simple manoeuver increases the craft’s volume, and thus lowers its density just enough for the surrounding water to push it upward._"
+    }
+  }
+}

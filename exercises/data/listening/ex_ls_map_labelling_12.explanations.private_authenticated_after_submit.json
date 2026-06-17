@@ -1,0 +1,33 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_map_labelling_12",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q11": {
+      "explanation": "Người nói đang giới thiệu về Hargrove Nature Reserve và nhấn mạnh tầm quan trọng của những khu vườn phân lô (allotment gardens) trong việc thu hút động vật hoang dã đến khu vực này. Thông tin giúp tìm ra đáp án là cụm từ \"you can see over on the left of the map,\" cho thấy vị trí của khu vườn phân lô trên bản đồ. Paraphrase quan trọng ở đây là \"allotment gardens\" có thể hiểu là \"khu vườn phân lô.\" Bẫy có thể là việc người nghe có thể bị nhầm lẫn với các khu vực khác trên bản đồ, nhưng thông tin rõ ràng về vị trí bên trái giúp xác định đúng đáp án. Vì vậy, đáp án A là chính xác.",
+      "evidence": "that's thanks to the allotment gardens, which you can see over on the left of the map."
+    },
+    "q12": {
+      "explanation": "Người nói đang chỉ ra vị trí của toilet trong khu bảo tồn. Thông tin quan trọng để xác định đáp án là cụm từ \"encircled by trees\" và \"about halfway up the reserve,\" cho thấy vị trí của toilet. Paraphrase ở đây là \"a little toilet\" có thể hiểu là \"một cái toilet nhỏ.\" Bẫy có thể là việc người nghe có thể nghĩ rằng có nhiều toilet khác nhau, nhưng thông tin rõ ràng về vị trí và đặc điểm của toilet này giúp xác định đúng đáp án. Do đó, đáp án C là chính xác.",
+      "evidence": "We have a little toilet, and that's kind of encircled by trees about halfway up the reserve."
+    },
+    "q13": {
+      "explanation": "Người nói đang mô tả về cái ao trong khu bảo tồn và nhấn mạnh sự đóng góp của các tình nguyện viên. Thông tin quan trọng để xác định đáp án là cụm từ \"a pond which was built by volunteers,\" cho thấy vị trí của ao. Paraphrase ở đây là \"a pond\" có thể hiểu là \"một cái ao.\" Bẫy có thể là việc người nghe có thể nhầm lẫn với các đặc điểm khác của khu bảo tồn, nhưng thông tin rõ ràng về sự tồn tại của ao và vai trò của tình nguyện viên giúp xác định đúng đáp án. Vì vậy, đáp án D là chính xác.",
+      "evidence": "There's also a pond which was built by volunteers and where we've already got a healthy population of toads at this time of year."
+    },
+    "q14": {
+      "explanation": "Người nói đang chỉ ra vị trí của nhà kho (tool shed) trong khu bảo tồn. Thông tin quan trọng để xác định đáp án là cụm từ \"the point where several of the footpaths meet,\" cho thấy vị trí của nhà kho. Paraphrase ở đây là \"tool shed\" có thể hiểu là \"nhà kho dụng cụ.\" Bẫy có thể là việc người nghe có thể nghĩ rằng có nhiều nhà kho khác nhau, nhưng thông tin rõ ràng về vị trí giao nhau của các con đường mòn giúp xác định đúng đáp án. Do đó, đáp án E là chính xác.",
+      "evidence": "Well, that's at the point where several of the footpaths meet."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> Hello, everyone. Welcome to Hargrove Nature Reserve, and thank you for coming to help us this weekend. </p><p><strong>Speaker 1:</strong> I'd like to start by showing you the map so you can see the layout of the land we're looking after. As you know, the reserve is about a kilometre away from Hargrove Town Centre, which is just off the map. </p><p><strong>Speaker 1:</strong> And there's a network of paths shown by the dotted lines across the reserve and showing you all the access points. One reason the site is so good for wildlife is that there was already a lot of it nearby, and that's thanks to the allotment gardens, which you can see over on the left of the map. </p><p><strong>Speaker 1:</strong> They're surrounded by the path that leads to the town centre, the nature reserve itself, and the school playing fields. Having a large, uninterrupted area is really good for insects and birds, and that attracts other wildlife too. </p><p><strong>Speaker 1:</strong> We have a little toilet, and that's kind of encircled by trees about halfway up the reserve. Worth knowing where that is. It's open all the time. </p><p><strong>Speaker 1:</strong> There's also a pond which was built by volunteers and where we've already got a healthy population of toads at this time of year. We decided to situate that for the safety of the animals in the bottom right corner of the site, as you look at the map, next to the sharp bend on the road. </p><p><strong>Speaker 1:</strong> There's a big wall, of course, marking the boundary of the reserve, so there's no danger to the animals from vehicles going along the road past the reserve. </p><p><strong>Speaker 1:</strong> While you're working, you'll need various tools which we keep in our shed. Well, that's at the point where several of the footpaths meet. It's kept locked, so just ask one of the volunteer leaders if you need to use it.</p>"
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_matching_information_06",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MATCHING%20INFORMATION%20TO%20CATEGORIES%2006.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> The first in ancient Greek and Roman pies was of course often olive oil. The Romans were particularly fond of pies that contained oysters, mussels, and other shellfish. Later in Roman times, a pie called placenta became popular. This dish consisted of several layers of dough interspersed with cheese and honey. Sounds delicious, doesn't it?</p><p><strong>Speaker 3:</strong> With the Roman conquest, the recipe for pastry travelled into northern Europe, where olive oil was not available. The fat content of the pastry was replaced with solid fats, lard, or butter. The ensuing pastry was more flexible. It could be rolled and moulded, and this resulted in the true pies we know today. </p><p><strong>Speaker 2:</strong> I'm going to jump forward several centuries now and talk about the pies of 14th century Europe. Now, I'm sure you are familiar with the old nursery rhyme. Sing a song of sixpence, a pocket full of rye, four and twenty blackbirds baked in a pie. When the pie was opened, the birds began to sing, wasn't that a dainty dish to set before the king? </p><p><strong>Speaker 3:</strong> However, you might not be aware that for many years it was extremely common to have creatures emerging from these animated pies when they were served in order to entertain important diners at feasts. The creatures weren't really baked, of course. They were inserted into the crust to be released when the crust was cut. </p><p><strong>Speaker 2:</strong> In fact, four and twenty blackbirds is pretty tame, actually. It was quite common to have anything from rabbits, frogs, turtles, and even small people sealed in pies. And there is documented evidence that the French nobleman, the Duke of Burgundy, had 24 musicians entertain his diners from the inside of a giant pie during a banquet in 1454. </p><p><strong>Speaker 3:</strong> At this time, pies were known as coffins. Strictly speaking, a coffin was a tall, straight-sided pie with a thick, tough pastry. This was not generally eaten because it was so hard. The point of the crust was to preserve the meat inside. This was particularly important on long sea voyages where fresh meat was not available unless live animals were brought on board. </p><p><strong>Speaker 2:</strong> Finally, I'll mention the mince pie, a popular food for British people in the days leading up to Christmas. This pie dates back to the 13th century when exotic spices and fruits were brought back from the Middle East. In the past, they contained a mixture of meat, fruits, and spices, but nowadays they tend to only contain sweet ingredients. </p><p><strong>Speaker 3:</strong> Interestingly, eating mince pies was forbidden during the English Civil War in the mid-17th century. At this time, the indulgences and frivolities associated with Christmas were not accepted by the authorities. Pie eating was done in secret until the ban was lifted 16 years later in 1660. </p><p><strong>Speaker 2:</strong> Right, well, I think that's enough background. Shall we get on with the tasting now?</p>"
+    }
+  ]
+}

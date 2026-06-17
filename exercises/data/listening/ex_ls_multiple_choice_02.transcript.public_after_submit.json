@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_02",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2002.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Comtech last night announced that they must release 40 workers. This was blamed on a downturn in sales and increased competition. The jobs to be lost will be a mixture of early retirement offerings and a spread from all departments in the company. </p><p><strong>Speaker 3:</strong> Wesley International Airport has been awarded by Cheap Air, the new low-cost carrier, four new routes into Europe. The new routes will be into four European countries, though the details have not yet been released. When the deals have been finalized, this will lead to a significant number of jobs.</p><p><strong>Speaker 2:</strong> Environmentalists were delighted this morning by the news that plans by the local council to develop the Oakley Woods area have been shelved. The woods were to have been developed into a shopping area, but opposition from local residents and local environmental groups has led to a turnaround by the local council and they will now look for an alternative site. </p><p><strong>Speaker 1:</strong> Wesley Green, a local pressure group, says they are ecstatic that the council has bowed to the wishes of the people in the area. Mr. George Finchley, mayor of Wesley, made the announcement and said that the committee responsible took all available information into account before taking the decision and he hopes that Wesley residents are happy that the local council are sensitive to their wishes when making decisions.</p><p><strong>Speaker 3:</strong> Eastmore CC, a local league cricket club, has made it to the finals of the Sunday League knockout cricket competition. They will play the final at home on Sunday 30th August against Newbury CC. Go along and support if you are around that day, as you will be assured a great Sunday afternoon sport. </p><p><strong>Speaker 2:</strong> And finally, get set for a heatwave for the remainder of the month of August. Weather experts have assured us that we will have three weeks of unbroken sunshine till the end of the month. Great news, but those of us who are experienced with British weather will most likely greet this news with, let's wait and see.</p>"
+    }
+  ]
+}

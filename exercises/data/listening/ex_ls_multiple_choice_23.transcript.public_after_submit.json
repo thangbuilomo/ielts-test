@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_23",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2023.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> Oil tankers are the largest ships to sail in the ocean. For countries such as Japan that have no oil deposits of their own, tankers are the only way that the oil needed to power their economies can be moved. They are designed to hold millions of barrels of crude or refined oil in reasonable safety and without damage to the environment. </p><p><strong>Speaker 3:</strong> When oil is released from these ships, the oil spreads out over the surface of the water in a large slick. These oil slicks can cover hundreds of miles and they cause huge environmental damage. Oil is released for varying reasons. </p><p><strong>Speaker 2:</strong> Accidents while loading and unloading and deliberate spills account for many slicks today. But it is ships hitting other ships or rocks which is the major cause of slicks. </p><p><strong>Speaker 3:</strong> Because oil slicks are so damaging to the environment, numerous ways of containing them and cleaning them up have been developed. </p><p><strong>Speaker 2:</strong> In previous years, slick cleaners would sometimes try to set fire to the slicks and burn them off, but this is rarely done nowadays because, surprisingly, nearly all oil slicks consist of compounds that aren't flammable. </p><p><strong>Speaker 3:</strong> Combustibility comes after refining.</p>"
+    }
+  ]
+}

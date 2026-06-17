@@ -1,0 +1,32 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_short_answer_11",
+  "module": "reading",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q24": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"Called a Slocum underwater glider, the 1.5-metre-long, 52-kilogram torpedo-shaped vehicle is under evaluation by the federal government’s Institute of Ocean Sciences (IOS). Driven entirely by a variable buoyancy system instead of a propeller, it needs no mother ship for tethering or support. The evaluation project is a formal collaboration between Fisheries and Oceans Canada and the Canadian Centre for Ocean Gliders (CCOG).\". Cụm D khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Called a Slocum underwater glider, the 1.5-metre-long, 52-kilogram torpedo-shaped vehicle is under evaluation by the federal government’s Institute of Ocean Sciences (IOS). Driven entirely by a variable buoyancy system instead of a propeller, it needs no mother ship for tethering or support. The evaluation project is a formal collaboration between Fisheries and Oceans Canada and the Canadian Centre for Ocean Gliders (CCOG)._"
+    },
+    "q25": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"Traditional underwater gliders work by being buoyantly nearly neutral while near the water’s surface, so that they sink slowly down. If you want to go straight, just shift the weight forward to tilt the nose down a bit. Then to rise, electricity from a battery between the tail wings is used to pump an oil contained inside central hull tanks next to the mid wings into external containment bladders behind the nose.\". Cụm H khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Traditional underwater gliders work by being buoyantly nearly neutral while near the water’s surface, so that they sink slowly down. If you want to go straight, just shift the weight forward to tilt the nose down a bit. Then to rise, electricity from a battery between the tail wings is used to pump an oil contained inside central hull tanks next to the mid wings into external containment bladders behind the nose._"
+    },
+    "q26": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 3, bài viết nêu: \"Although this is cutting-edge technology, it seems nature beat human engineers to it. Marine biologists were for a long time mystified by how dolphins could cross greater distances than their muscle power and oxygen intake should allow. Many researchers attributed this to an even skin coating that would reduce water friction, but new evidence points to gliding enabled by buoyancy changes when water pressure compresses air in the respiratory system.\". Cụm B khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Although this is cutting-edge technology, it seems nature beat human engineers to it. Marine biologists were for a long time mystified by how dolphins could cross greater distances than their muscle power and oxygen intake should allow. Many researchers attributed this to an even skin coating that would reduce water friction, but new evidence points to gliding enabled by buoyancy changes when water pressure compresses air in the respiratory system._"
+    },
+    "q27": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 1, bài viết nêu: \"Called a Slocum underwater glider, the 1.5-metre-long, 52-kilogram torpedo-shaped vehicle is under evaluation by the federal government’s Institute of Ocean Sciences (IOS). Driven entirely by a variable buoyancy system instead of a propeller, it needs no mother ship for tethering or support. The evaluation project is a formal collaboration between Fisheries and Oceans Canada and the Canadian Centre for Ocean Gliders (CCOG).\". Cụm C khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Called a Slocum underwater glider, the 1.5-metre-long, 52-kilogram torpedo-shaped vehicle is under evaluation by the federal government’s Institute of Ocean Sciences (IOS). Driven entirely by a variable buoyancy system instead of a propeller, it needs no mother ship for tethering or support. The evaluation project is a formal collaboration between Fisheries and Oceans Canada and the Canadian Centre for Ocean Gliders (CCOG)._"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_short_answer_06",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q6": {
+      "explanation": "Người nói đang thảo luận về thời gian mà Sally và Gordon nên đến ăn tối. Trong đoạn hội thoại, Speaker 1 đã đề xuất thời gian cụ thể cho bữa tối. Thông tin giúp tìm ra đáp án là câu nói của Speaker 1 khi họ quyết định thời gian. Paraphrase quan trọng ở đây là \"come at seven o'clock,\" có nghĩa là \"đến lúc bảy giờ.\" Không có bẫy trong câu hỏi này vì thông tin được đưa ra rất rõ ràng. Đáp án đúng là 7 o'clock vì đó là thời gian mà Speaker 1 đã xác nhận.",
+      "evidence": "I'd say come at seven o'clock."
+    },
+    "q7": {
+      "explanation": "Người nói đang cung cấp số điện thoại di động của mình cho Speaker 1. Thông tin giúp tìm ra đáp án là câu nói trực tiếp của Speaker 2 khi họ liệt kê số điện thoại. Paraphrase quan trọng ở đây là \"the mobile is,\" có nghĩa là \"số điện thoại di động là.\" Không có bẫy trong câu hỏi này vì thông tin được cung cấp một cách rõ ràng và chính xác. Đáp án đúng là 07978 290 512 vì đó là số điện thoại di động mà Speaker 2 đã nêu.",
+      "evidence": "And the mobile is 07978 290 512."
+    },
+    "q8": {
+      "explanation": "Người nói đang mô tả vị trí của căn hộ của họ và những gì xung quanh. Thông tin giúp tìm ra đáp án là cụm từ \"park entrance,\" cho biết có một lối vào công viên ở phía đối diện. Paraphrase quan trọng ở đây là \"opposite us,\" có nghĩa là \"đối diện với chúng tôi.\" Không có bẫy trong câu hỏi này vì thông tin được đưa ra rất rõ ràng. Đáp án đúng là park entrance vì đó là thông tin cụ thể về địa điểm mà Speaker 1 đã đề cập.",
+      "evidence": "We've got a park entrance opposite us..."
+    },
+    "q9": {
+      "explanation": "Người nói đang trả lời câu hỏi về những món ăn mà họ không thích. Thông tin giúp tìm ra đáp án là câu nói của Speaker 1 khi họ liệt kê những món ăn mà họ không thích. Paraphrase quan trọng ở đây là \"I hate,\" có nghĩa là \"tôi ghét.\" Không có bẫy trong câu hỏi này vì thông tin được đưa ra một cách rõ ràng và trực tiếp. Đáp án đúng là fish and seafood vì đó là những món ăn mà Speaker 1 đã xác nhận là không thích.",
+      "evidence": "I hate fish and seafood..."
+    },
+    "q10": {
+      "explanation": "Người nói đang chỉ dẫn về cách vào căn hộ của họ và vị trí của nó. Thông tin giúp tìm ra đáp án là cụm từ \"first floor,\" cho biết căn hộ nằm ở tầng một. Paraphrase quan trọng ở đây là \"come up to the first floor,\" có nghĩa là \"lên tầng một.\" Không có bẫy trong câu hỏi này vì thông tin được đưa ra rất rõ ràng. Đáp án đúng là first floor vì đó là thông tin cụ thể về vị trí của căn hộ mà Speaker 1 đã đề cập.",
+      "evidence": "I'll be able to buzz you in and then come up to the first floor..."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Listen, why don't you and Kate come over for dinner sometime? </p><p><strong>Speaker 1:</strong> That's a great idea. When? </p><p><strong>Speaker 2:</strong> How about next Friday? </p><p><strong>Speaker 1:</strong> Can't do Friday, I'm afraid. Both Kate and I have a parent-teacher afternoon on Friday after school. And then we'll have to do the paperwork in the evening. What about Saturday then?</p><p><strong>Speaker 2:</strong> That would normally be fine, but our babysitter's away that night and we won't be able to find one at such short notice. </p><p><strong>Speaker 1:</strong> Why don't you and Gordon come over for dinner at ours and then we'll be able to look after the kids? You'll be able to meet them too. </p><p><strong>Speaker 2:</strong> Okay, let's do that then. Gordon will be happy. He won't have to wash up.</p><p><strong>Speaker 1:</strong> I'll be doing the cooking when you come round. I love cooking. So what time shall we come round? </p><p><strong>Speaker 2:</strong> Eight o'clock? </p><p><strong>Speaker 1:</strong> Well, we'll be home around six that night as we're going out for the afternoon with the kids. I'd say come at seven o'clock. </p><p><strong>Speaker 2:</strong> Are you sure that's long enough to get things ready? </p><p><strong>Speaker 1:</strong> Well, that'll be an hour. I don't need more than that. And what's your phone number, just in case? </p><p><strong>Speaker 2:</strong> 01347 835 825. That's the home number. And the mobile is 07978 290 512. What about you? </p><p><strong>Speaker 1:</strong> I've only got a mobile. It's 07623 963 957. </p><p><strong>Speaker 2:</strong> What was that last bit again? </p><p><strong>Speaker 1:</strong> I'll say it all again. 07623 963 957. And I better give you the address. </p><p><strong>Speaker 2:</strong> Oh yes, that would help. </p><p><strong>Speaker 1:</strong> We live at flat 3, Evergreen Terrace. It's just past the church on the right. We've got a park entrance opposite us and a doctor's surgery next door. </p><p><strong>Speaker 2:</strong> I should be able to find that. Anything you don't like to eat? </p><p><strong>Speaker 1:</strong> Well, I hate fish and seafood, and Gordon doesn't care much for red meat. He likes white meat, though. How about chicken? </p><p><strong>Speaker 2:</strong> That should be fine. </p><p><strong>Speaker 1:</strong> Oh yes, when you arrive, none of the bells is marked for security and there are four buttons. You need to press the bell second from the bottom. </p><p><strong>Speaker 2:</strong> Second from the bottom. OK, got that. I'll be able to buzz you in and then come up to the first floor and the door will be open. </p><p><strong>Speaker 1:</strong> Great. Well, it's so good to see you again, Heath. I'll really look forward to seeing you on Saturday and meeting Kate again. And the kids, of course. </p><p><strong>Speaker 2:</strong> Yes, and I'm looking forward to meeting Gordon. See you on Saturday then. </p><p><strong>Speaker 1:</strong> Goodbye. </p><p><strong>Speaker 2:</strong> Goodbye.</p>"
+}

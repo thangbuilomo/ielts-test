@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_26",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q31": {
+      "explanation": "Trong đoạn này, người nói đang giải thích về nguyên nhân gây ra các trận động đất trước khi một vụ phun trào núi lửa xảy ra. Thông tin liên quan trực tiếp đến câu hỏi là \"magma rising up through cracks in the Earth's crust\", cho thấy magma va chạm với lớp vỏ trái đất là nguyên nhân gây ra động đất. Cụm từ \"the Earth's crust\" là một paraphrase quan trọng mà thí sinh cần chú ý. Không có bẫy nào trong câu này, vì thông tin rất rõ ràng. Đáp án \"crust\" là chính xác vì nó trực tiếp liên quan đến lớp vỏ trái đất mà magma va chạm. Các khả năng khác sai vì không có thông tin nào khác đề cập đến một yếu tố khác gây ra động đất trong ngữ cảnh này.",
+      "evidence": ""
+    },
+    "q32": {
+      "explanation": "Người nói đang mô tả về vai trò của seismometers trong việc theo dõi động đất. Thông tin quan trọng là \"measure the motion of the Earth's surface\", cho thấy rằng seismometers được sử dụng để đo chuyển động của mặt đất. Cụm từ \"motion of the Earth's surface\" là một paraphrase cần chú ý. Không có bẫy nào ở đây, vì thông tin rất rõ ràng và không có yếu tố gây nhầm lẫn. Đáp án \"motion\" là chính xác vì nó trực tiếp liên quan đến chức năng của seismometers. Các khả năng khác sai vì không có thông tin nào khác liên quan đến việc đo lường trong ngữ cảnh này.",
+      "evidence": ""
+    },
+    "q33": {
+      "explanation": "Trong đoạn này, người nói đang nhấn mạnh tầm quan trọng của việc theo dõi nhiệt độ xung quanh núi lửa. Thông tin liên quan là \"spikes in temperature could indicate worrying levels of magma\", cho thấy rằng sự gia tăng nhiệt độ có thể là dấu hiệu của magma. Cụm từ \"levels of magma\" là một paraphrase quan trọng. Không có bẫy nào trong câu này, vì thông tin rất rõ ràng. Đáp án \"magma\" là chính xác vì nó là yếu tố chính được đề cập. Các khả năng khác sai vì không có thông tin nào khác liên quan đến mức độ magma trong ngữ cảnh này.",
+      "evidence": ""
+    },
+    "q34": {
+      "explanation": "Người nói đang thảo luận về công nghệ trong việc thu thập dữ liệu về núi lửa. Thông tin quan trọng là \"take images using satellites\", cho thấy rằng vệ tinh được sử dụng để thu thập thông tin hình ảnh. Cụm từ \"using satellites\" là một paraphrase cần chú ý. Không có bẫy nào ở đây, vì thông tin rất rõ ràng và không có yếu tố gây nhầm lẫn. Đáp án \"satellites\" là chính xác vì nó trực tiếp liên quan đến công nghệ được sử dụng. Các khả năng khác sai vì không có thông tin nào khác đề cập đến phương pháp thu thập dữ liệu trong ngữ cảnh này.",
+      "evidence": ""
+    },
+    "q35": {
+      "explanation": "Người nói đang đề cập đến các yếu tố khí quyển cần được theo dõi để dự đoán hoạt động núi lửa. Thông tin quan trọng là \"Changes in atmospheric conditions\", cho thấy rằng điều kiện khí quyển là một chỉ số quan trọng. Cụm từ \"atmospheric conditions\" là một paraphrase cần chú ý. Không có bẫy nào trong câu này, vì thông tin rất rõ ràng. Đáp án \"conditions\" là chính xác vì nó trực tiếp liên quan đến điều kiện khí quyển. Các khả năng khác sai vì không có thông tin nào khác liên quan đến yếu tố khí quyển trong ngữ cảnh này.",
+      "evidence": ""
+    },
+    "q36": {
+      "explanation": "Người nói đang mô tả quy trình phân tích mẫu khí để theo dõi hoạt động núi lửa. Thông tin quan trọng là \"checked using a spectrometer\", cho thấy rằng máy quang phổ được sử dụng để phân tích mẫu khí. Cụm từ \"using a spectrometer\" là một paraphrase cần chú ý. Không có bẫy nào ở đây, vì thông tin rất rõ ràng và không có yếu tố gây nhầm lẫn. Đáp án \"spectrometer\" là chính xác vì nó là thiết bị được sử dụng để phân tích. Các khả năng khác sai vì không có thông tin nào khác đề cập đến thiết bị phân tích trong ngữ cảnh này.",
+      "evidence": ""
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> In today's introduction to seismology lecture, we'll be looking at predicting volcanic eruptions. The destruction caused by a large volcano can be devastating, and with more of them being increasingly surrounded by urban areas, it is more important than ever before to be able to predict and plan for an eruption. After all, there's no way to prevent this massive natural force. So what can we do to predict when a volcano is going to erupt? </p><p><strong>Speaker 1:</strong> The first sign that we need to look for is earthquakes. In the run-up to an eruption, there are often hundreds of small earthquakes caused by magma rising up through cracks in the Earth's crust. As magma comes into contact with rocks, they crack, which causes a mini-earthquake. </p><p><strong>Speaker 1:</strong> And now, many of these earthquakes are too small to be detected by people, which is why the ground around earthquakes in densely populated areas needs to be constantly monitored by seismometers. These are instruments which measure the motion of the Earth's surface, and a higher frequency of these earthquakes could indicate an upcoming eruption. </p><p><strong>Speaker 1:</strong> Another important area which needs to be monitored is the temperature around volcanoes. There are lots of volcanic features like steam vents, geysers, and hot springs that are expected to be consistently hot, but any spikes in this could indicate dangerous volcanic activity. </p><p><strong>Speaker 1:</strong> Technology has had a huge impact on the way we collate this data. The safest way for us to assess this is to take images using satellites, as collecting this data from the ground can be hazardous. </p><p><strong>Speaker 1:</strong> In addition to the frequency and size of earthquakes and the temperature around volcanoes, the final indicator that we assess is the atmospheric conditions around the volcano. Now, most active volcanoes release a range of gases, but higher than normal rates of sulfur and carbon dioxide emissions can reveal a lot about the magma system of the volcano and could also be a telltale sign of danger. </p><p><strong>Speaker 1:</strong> In order for this to be monitored, gas samples need to be taken and checked using a spectrometer, which are types of chemical sensors. These monitoring techniques are becoming increasingly advanced, and some earthquakes, like Mount St. Helens in the US and Mount Vesuvius in Italy, are monitored 24 hours a day by teams of scientists for the safety of the inhabitants living around them. </p><p><strong>Speaker 1:</strong> However, understanding and predicting when a blast is imminent is only the first stage in keeping people safe. We also need to have an effective emergency plan prepared.</p>"
+}

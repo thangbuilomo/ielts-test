@@ -1,0 +1,37 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_note_completion_12",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q6": {
+      "explanation": "Người nói đang so sánh giá cả của các điểm đến du lịch Địa Trung Hải. Thông tin giúp tìm ra đáp án là câu nói rõ ràng về việc Tây Ban Nha nằm trong nhóm các quốc gia có mức giá thấp hơn. Paraphrase quan trọng ở đây là \"top end\" và \"bottom end\", nghĩa là mức giá cao và thấp. Bẫy có thể là việc người nghe có thể nghĩ rằng chỉ có Italy và Pháp là đắt nhất, nhưng thực tế là Tây Ban Nha cũng nằm trong nhóm giá thấp. Đáp án đúng vì câu nói đã chỉ rõ rằng Tây Ban Nha là một trong những lựa chọn có giá cả phải chăng hơn.",
+      "evidence": "Price-wise, Italy and France will be at the top end, Spain, Greece and Turkey will be at the lower end."
+    },
+    "q7": {
+      "explanation": "Người nói đang mô tả cách đi từ khách sạn Tropicana đến bãi biển. Thông tin giúp tìm ra đáp án là từ \"path\", chỉ rõ rằng có một lối đi an toàn. Paraphrase quan trọng là \"safe walk along a path\", nghĩa là đi bộ an toàn trên một con đường. Bẫy có thể là việc người nghe có thể nghĩ rằng có nhiều cách đi khác nhau, nhưng câu nói đã chỉ rõ rằng chỉ có một lối đi an toàn. Đáp án đúng vì nó phản ánh chính xác thông tin về cách di chuyển đến bãi biển.",
+      "evidence": "It's a safe walk along a path through some fields to get there."
+    },
+    "q8": {
+      "explanation": "Người nói đang mô tả dịch vụ của khách sạn Palm Hotel. Thông tin giúp tìm ra đáp án là từ \"minibus service\", cho thấy khách sạn có phương tiện di chuyển đến bãi biển. Paraphrase quan trọng là \"service that goes to and from the beach\", nghĩa là dịch vụ đưa đón đến bãi biển. Bẫy có thể là việc người nghe có thể nghĩ rằng chỉ có một cách đi bộ, nhưng thực tế là có dịch vụ xe buýt. Đáp án đúng vì nó cung cấp thông tin cụ thể về dịch vụ của khách sạn.",
+      "evidence": "but it has a minibus service that goes to and from the beach all day."
+    },
+    "q9": {
+      "explanation": "Người nói đang mô tả khoảng cách từ Ocean Hotel đến bãi biển. Thông tin giúp tìm ra đáp án là cụm từ \"less than five minutes\", chỉ rõ thời gian di chuyển. Paraphrase quan trọng là \"usually to get to the beach area\", nghĩa là thời gian thường mất để đến bãi biển. Bẫy có thể là việc người nghe có thể nghĩ rằng thời gian có thể lâu hơn, nhưng câu nói đã chỉ rõ rằng thời gian thực tế là rất ngắn. Đáp án đúng vì nó phản ánh chính xác thông tin về khoảng cách.",
+      "evidence": "It's less than five minutes usually to get to the beach area from the rooms."
+    },
+    "q10": {
+      "explanation": "Người nói đang mô tả Hotel Spiros và nhấn mạnh rằng đây là một khách sạn do gia đình điều hành. Thông tin giúp tìm ra đáp án là cụm từ \"family-run\", cho thấy tính chất của khách sạn. Paraphrase quan trọng là \"a hotel run by a family\", nghĩa là khách sạn do một gia đình quản lý. Bẫy có thể là việc người nghe có thể nghĩ rằng khách sạn này không có gì đặc biệt, nhưng thực tế là nó có một đặc điểm nổi bật. Đáp án đúng vì nó cung cấp thông tin cụ thể về loại hình khách sạn.",
+      "evidence": "Hotel Spiros is a family-run hotel, also quite close to the beach."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> As I said, sir, most Mediterranean destinations are easily within your preferred flight time. You can choose really between Spain, France, Italy, the old Yugoslavia, Greece or Turkey, as well as the Mediterranean islands. </p><p><strong>Speaker 1:</strong> Wow, what a great choice! What are the different costs involved? </p><p><strong>Speaker 2:</strong> With you wanting a four-star hotel and pool, some countries will definitely be cheaper than others. Price-wise, Italy and France will be at the top end, Spain, Greece and Turkey will be at the lower end. Here are some brochures. This is the Hotel Tropicana, and this is the Palm Hotel. Both of them are in Crete. In Rhodes, we have the Ocean Hotel and Hotel Spiros. </p><p><strong>Speaker 1:</strong> Can you tell me a bit about them? </p><p><strong>Speaker 2:</strong> Of course. The Hotel Tropicana is about one mile from the beach, and it's a safe walk along a path through some fields to get there. They have a nice pool, which you can see in the photo. There are only a few beach bars and restaurants, though. It's really quiet, away from all the bustle of other tourist destinations. </p><p><strong>Speaker 1:</strong> The Palm Hotel? </p><p><strong>Speaker 2:</strong> The Palm Hotel is further from the beach, about two miles, but it has a minibus service that goes to and from the beach all day. The hotel itself is in quite a busy tourist town that has lots of bars, restaurants and discos. It's great for going out. </p><p><strong>Speaker 1:</strong> I don't know if either of those suits us. We don't want noisy and we don't want a long way to the beach. Let's have a look at the Rhodes hotels, then. </p><p><strong>Speaker 2:</strong> The Ocean Hotel is right on the beach. It's less than five minutes usually to get to the beach area from the rooms. The hotel is quite a long way from the main town, and people usually take all their meals in the hotel. The hotel is four-star, though, and we know the food is quite good, as we've been told so by previous holidaymakers. </p><p><strong>Speaker 1:</strong> What about Hotel Spiros? </p><p><strong>Speaker 2:</strong> Hotel Spiros is a family-run hotel, also quite close to the beach, about a five or ten-minute walk. It's in a small village and has a small swimming pool as well. There are a few restaurants scattered around the village, but again, it's not a big tourist village, so there's not much to do.</p>"
+}

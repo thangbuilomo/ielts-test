@@ -1,0 +1,71 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_rd_flow_chart_completion_07",
+  "delivery_type": "exercise",
+  "module": "reading",
+  "question_count_policy": "flexible",
+  "question_count": 1,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "flowchart_completion",
+  "category_id": "flow_chart_completion",
+  "title": "Flow Chart Completion - Exercise 7",
+  "duration_seconds": 0,
+  "content": {
+    "title": "Cleaning up the Thames",
+    "content_html": "<h1>FLOW CHART COMPLETION 07</h1>\n<h2>Cleaning up the Thames</h2>\n<p>The River Thames, which was biologically “dead” as recently as the 1960s, is now the cleanest metropolitan river in the world, according to the Thames Water Company. The company says that thanks to major investment in better sewage treatment in London and the Thames Valley, the river that flows through the United Kingdom capital and the Thames Estuary into the North Sea is cleaner now than it has been for 130 years. The Fisheries Department, which is responsible for monitoring fish levels in the River Thames, has reported that the river has again become the home to 115 species of fish including sea bass, flounder, salmon, smelt, and shad. Recently, a porpoise was spotted cavorting in the river near central London.</p>\n<p>But things were not always so rosy. In the 1950s, sewer outflows and industrial effluent had killed the river. It was starved of oxygen and could no longer support aquatic life. Until the early 1970s, if you fell into the Thames you would have had to be rushed to hospital to get your stomach pumped. A clean-up operation began in the 1960s. Several Parliamentary Committees and Royal Commissions were set up, and, over time, legislation has been introduced that puts the onus on polluters - effluent-producing premises and businesses - to dispose of waste responsibly. In 1964 the Greater London Council (GLC) began work on much enlarged sewage works, which were completed in 1974.</p>\n<p>The Thames clean-up is not over though. It is still going on, and it involves many disparate arms of government and a wide range of non-government stakeholder groups, all representing a necessary aspect of the task. Each of the urban and non-urban London boroughs that flanks the river has its own reasons to keep the river clean, and if these reasons do not hold out a sufficiently attractive carrot, the government also wields a compelling stick. The 2000 Local Government Act requires each local borough to “prepare a community strategy for promoting or improving the economic, social and environmental well-being of their area\". And if your area includes a stretch of river, that means a sustainable river development strategy.</p>\n<p>Further laws aimed at improving and sustaining the river’s viability have been proposed. There is now legislation that protects the River Thames, either specifically or as part of a general environmental clause, in the Local Government Act, the London Acts and the law that created the post of the mayor of London. And these are only the tip of an iceberg that includes industrial, public health and environmental protection regulations. The result is a wide range of bodies officially charged, in one way or another, with maintaining the Thames as a public amenity. For example, Transport for London - the agency responsible for transport in the capital - plays a role in regulating river use and river users. It is now responsible for controlling the effluents and rubbish coming from craft using the Thames. This is carried out by officers on official vessels regularly inspecting craft and doing spot checks.</p>\n<p>Another example is that Thames Water (TW) has now been charged to reduce the amount of litter that finds its way into the tidal river and its tributaries. TW’s environment and quality manager, Dr Peter Spillett, said: “This project will build on our investment which has dramatically improved the water quality of the river. London should not be spoiled by litter which belongs in the bin not the river.” Thousands of tons of rubbish end up in the river each year, from badly stored waste, people throwing litter off boats, and rubbish in the street being blown or washed into the river. Once litter hits the water it becomes too heavy to be blown away again and therefore the river acts as a sink in the system.</p>\n<p>While the Port of London already collects up to 3,000 tons of solid waste from the tideway every year, Thames Water now plans to introduce a new device to capture more rubbish floating down the river. It consists of a huge cage that sits in the flow of water and gathers the passing rubbish. Moored just offshore in front of the Royal Naval College at Greenwich, southeast London, the device is expected to capture up to 20 tons of floating litter each year. If washed out to sea, this rubbish can kill marine mammals, fish and birds. This machine, known as the “Rubbish Muncher”, is hoped to be the first of many, as the TW is now looking for sponsors to pay for more cages elsewhere along the Thames.</p>\n<p>Monitoring of the cleanliness of the River Thames in the past was the responsibility of a welter of agencies - British Waterways, Port of London Authority, the Environment Agency, the Health and Safety Commission, Thames Water - as well as academic departments and national and local environment groups. If something was not right, someone was bound to call foul and hold somebody to account, whether it was the local authority, an individual polluter or any of the many public and private sector bodies that bore a share of the responsibility for maintaining the River Thames as a public amenity. Although they will all still have their part to play, there is now a central department in the Environment Agency, which has the remit of monitoring the Thames. This centralisation of accountability will, it is hoped, lead to more efficient control and enforcement.</p>"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_rd_flow_chart_completion_07.answer_key.private_after_submit.json",
+    "explanations": "ex_rd_flow_chart_completion_07.explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "r1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "flowchart_completion",
+          "skill_tags": [
+            "rd_comp_flowchart"
+          ],
+          "instruction": "Answer the questions based on the passage.",
+          "prompt_html": "<p><strong>Questions 1 - 6</strong></p>\n<p>Choose the agency that is responsible for each activity.</p>\n<p><strong>1 Operating the rubbish muncher</strong></p>\n<p>A - The Environment Agency</p>\n<p>B - Transport for London</p>\n<p>C - The Greater London Council</p>\n<p>D - Thames Water</p>\n<p>E - Port of London</p>\n<p>F - Local boroughs</p>\n<p><strong>2 Creating community strategies</strong></p>\n<p>A - The Environment Agency</p>\n<p>B - Transport for London</p>\n<p>C - The Greater London Council</p>\n<p>D - Thames Water</p>\n<p>E - Port of London</p>\n<p>F - Local boroughs</p>\n<p><strong>3 Monitoring the cleanliness of the river</strong></p>\n<p>A - The Environment Agency</p>\n<p>B - Transport for London</p>\n<p>C - The Greater London Council</p>\n<p>D - Thames Water</p>\n<p>E - Port of London</p>\n<p>F - Local boroughs</p>\n<p><strong>4 Collecting solid waste from the tideway</strong></p>\n<p>A - The Environment Agency</p>\n<p>B - Transport for London</p>\n<p>C - The Greater London Council</p>\n<p>D - Thames Water</p>\n<p>E - Port of London</p>\n<p>F - Local boroughs</p>\n<p><strong>5 Creating enlarged sewage works</strong></p>\n<p>A - The Environment Agency</p>\n<p>B - Transport for London</p>\n<p>C - The Greater London Council</p>\n<p>D - Thames Water</p>\n<p>E - Port of London</p>\n<p>F - Local boroughs</p>\n<p><strong>6 Controlling traffic on the river</strong></p>\n<p>A - The Environment Agency</p>\n<p>B - Transport for London</p>\n<p>C - The Greater London Council</p>\n<p>D - Thames Water</p>\n<p>E - Port of London</p>\n<p>F - Local boroughs</p>",
+          "items": [
+            {
+              "question_id": "q1",
+              "number": 1,
+              "prompt_html": "Question 1",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            1,
+            1
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": []
+}

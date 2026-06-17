@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_true_false_not_given_21",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q33": {
+      "explanation": "Câu 33 mâu thuẫn với thông tin ở đoạn 1. Bài nêu: \"Instant coffee has been widely used for decades because of its convenience. During the height of its popularity in the 1970s, nearly a third of the roasted coffee imported into the United States was converted into an instant product, resulting in annual sales of more than $300 million. Today, about 15 per cent of the coffee consumed in the United States is prepared by mixing instant granules with hot water, either at home, in offices, or in vending machines.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "Instant coffee has been widely used for decades because of its convenience. During the height of its popularity in the 1970s, nearly a third of the roasted coffee imported into the United States was converted into an instant product, resulting in annual sales of more than $300 million. Today, about 15 per cent of the coffee consumed in the United States is prepared by mixing instant granules with hot water, either at home, in offices, or in vending machines._"
+    },
+    "q34": {
+      "explanation": "Câu 34 khớp với thông tin ở đoạn 2. Ý chính trong bài là: \"For example, some of the early powdered versions did not dissolve easily in water, leaving clumps of damp powder floating in the cup. Coffee aroma dissipates easily, so manufacturers have now developed artificial treatments that go into the product and give a jar of instant coffee the smell of freshly ground coffee when it is opened. Some modern manufacturing processes also make instant coffee granules that look more like ground coffee.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "For example, some of the early powdered versions did not dissolve easily in water, leaving clumps of damp powder floating in the cup. Coffee aroma dissipates easily, so manufacturers have now developed artificial treatments that go into the product and give a jar of instant coffee the smell of freshly ground coffee when it is opened. Some modern manufacturing processes also make instant coffee granules that look more like ground coffee._"
+    },
+    "q35": {
+      "explanation": "Câu 35 mâu thuẫn với thông tin ở đoạn 8. Bài nêu: \"For instance, caffeine sublimates (goes from a solid to a gaseous state without passing through an intermediate liquid state) at 180 degrees Celsius at atmospheric pressure. This high temperature in spray-drying chambers may affect instant coffee’s caffeine content and the content of organic compounds that provide taste and aroma. Whichever process is used, the final product is usually packaged in low oxygen conditions, because the presence of oxygen will cause further loss of aroma and flavour.\". Câu hỏi đã đổi một chi tiết quan trọng hoặc đảo ngược ý trong bài, nên đáp án là FALSE.",
+      "evidence": "For instance, caffeine sublimates (goes from a solid to a gaseous state without passing through an intermediate liquid state) at 180 degrees Celsius at atmospheric pressure. This high temperature in spray-drying chambers may affect instant coffee’s caffeine content and the content of organic compounds that provide taste and aroma. Whichever process is used, the final product is usually packaged in low oxygen conditions, because the presence of oxygen will cause further loss of aroma and flavour._"
+    },
+    "q36": {
+      "explanation": "Câu 36 có một số từ khóa gần với đoạn 2, nhưng bài không cung cấp đủ chi tiết để xác nhận hay phủ định toàn bộ mệnh đề. Câu gần nhất là: \"Since its invention, researchers have sought to improve instant coffee in a variety of ways. For example, some of the early powdered versions did not dissolve easily in water, leaving clumps of damp powder floating in the cup. Coffee aroma dissipates easily, so manufacturers have now developed artificial treatments that go into the product and give a jar of instant coffee the smell of freshly ground coffee when it is opened.\". Vì thiếu thông tin trực tiếp, đáp án là NOT GIVEN.",
+      "evidence": "Since its invention, researchers have sought to improve instant coffee in a variety of ways. For example, some of the early powdered versions did not dissolve easily in water, leaving clumps of damp powder floating in the cup. Coffee aroma dissipates easily, so manufacturers have now developed artificial treatments that go into the product and give a jar of instant coffee the smell of freshly ground coffee when it is opened._"
+    },
+    "q37": {
+      "explanation": "Câu 37 khớp với thông tin ở đoạn 9. Ý chính trong bài là: \"Although the price of any retail instant coffee is determined largely by costs related to distribution, freeze-dried instant coffee production costs are 35 per cent higher than the costs of production by spray-drying. Another reason the freeze-drying process is more expensive is because making the same amount of instant coffee by freeze-drying methods requires larger quantities of better-quality beans than does the spray-drying process.\". Vì câu hỏi diễn đạt lại cùng một ý, đáp án là TRUE.",
+      "evidence": "Although the price of any retail instant coffee is determined largely by costs related to distribution, freeze-dried instant coffee production costs are 35 per cent higher than the costs of production by spray-drying. Another reason the freeze-drying process is more expensive is because making the same amount of instant coffee by freeze-drying methods requires larger quantities of better-quality beans than does the spray-drying process._"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": "saola.exercise.v2",
+  "exercise_id": "ex_ls_note_completion_54",
+  "delivery_type": "exercise",
+  "module": "listening",
+  "question_count_policy": "flexible",
+  "question_count": 4,
+  "question_numbering": {
+    "source_numbers_preserved": true,
+    "requires_1_to_40": false
+  },
+  "focus_type": "note_completion",
+  "category_id": "note_completion",
+  "title": "Note Completion - Exercise 54",
+  "duration_seconds": 300,
+  "audio": {
+    "src": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2054.mp3",
+    "format": "mp3"
+  },
+  "visibility": {
+    "exercise": "public_before_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit",
+    "transcript": "public_after_submit"
+  },
+  "file_refs": {
+    "answer_key": "ex_ls_note_completion_54.answer_key.private_after_submit.json",
+    "explanations": "ex_ls_note_completion_54.explanations.private_authenticated_after_submit.json",
+    "transcript": "ex_ls_note_completion_54.transcript.public_after_submit.json"
+  },
+  "load_sequence": {
+    "before_submit": [
+      "exercise"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "transcript"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "explanations",
+      "transcript"
+    ]
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "groups": [
+        {
+          "group_id": "g1",
+          "question_type": "note_completion",
+          "skill_tags": [
+            "ls_comp_note"
+          ],
+          "instruction": "Answer the questions based on the audio.",
+          "prompt_html": "<h1>NOTE COMPLETION 54</h1><p><strong>Questions 7 - 10</strong></p><p>Complete the notes.</p><p>Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.</p><p><strong>Pottery course at Henbridge College</strong></p><p>Date when course starts: <blank data-qid=\"q7\"/></p><p>Location of classes: the <blank data-qid=\"q8\"/></p><p>Building</p><p>Best car park to use: by the <blank data-qid=\"q9\"/> , opposite the college</p><p>First project: making a <blank data-qid=\"q10\"/></p>",
+          "items": [
+            {
+              "question_id": "q7",
+              "number": 7,
+              "prompt_html": "Question 7",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q8",
+              "number": 8,
+              "prompt_html": "Question 8",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q9",
+              "number": 9,
+              "prompt_html": "Question 9",
+              "response_type": "text"
+            },
+            {
+              "question_id": "q10",
+              "number": 10,
+              "prompt_html": "Question 10",
+              "response_type": "text"
+            }
+          ],
+          "question_range": [
+            7,
+            10
+          ]
+        }
+      ]
+    }
+  ],
+  "follow_up_links": [
+    {
+      "task_type": "dictation",
+      "task_id": "dict_ex_ls_note_completion_54",
+      "label": "Dictation",
+      "icon": "headphones"
+    },
+    {
+      "task_type": "shadowing",
+      "task_id": "shad_ex_ls_note_completion_54",
+      "label": "Shadowing",
+      "icon": "mic"
+    }
+  ]
+}

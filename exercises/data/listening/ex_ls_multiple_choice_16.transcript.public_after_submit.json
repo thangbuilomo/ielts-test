@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_16",
+  "module": "listening",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2016.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Today, we look at the Channel Tunnel, which is the tunnel built between the south of England and the north of France. The Channel Tunnel's construction has been an easier option for travel back and forth between the United Kingdom and the continent. It has also helped to boost what was already a very lucrative second home market in France for British investors, and it is this that will be our area of interest today, after I have given you the background to the building of the tunnel.</p><p><strong>Speaker 1:</strong> While the history of the Channel Tunnel is controversial, to say the least, it has been identified as one of the seven wonders of the modern world by the American Society of Civil Engineers, and has the longest portion of any tunnel in the world below sea level. It is truly an engineering masterpiece, but few people will know that the first link between France and Britain was actually suggested back in 1802 when Albert Matthew suggested the creation of a towering mid-channel artificial landmass which would have depended on special horse-drawn carts to ship people between the countries.</p><p><strong>Speaker 1:</strong> Before construction commenced, many government ministers in Europe were excited about the opening up of trade, especially France, Belgium, Holland and the United Kingdom, as these countries are closest to where France and the United Kingdom would be connected. However, the latter country's government, the country being an island, was very apprehensive about opening up the country's borders and facing the potential problems which this could have brought.</p><p><strong>Speaker 1:</strong> Anyway, the first actual construction of a channel tunnel began in 1974 when work from both the French and the British side commenced. Unfortunately, the British government had a change of mind shortly after work began and the project was cancelled for financial reasons two years later.</p><p><strong>Speaker 1:</strong> 1985 was the money breakthrough when consultation started about continuing the project. After two years of consideration, the project restarted in 1987 and finally ended in 1993 when the Channel Tunnel was born and connections between France and Britain changed forever.</p><p><strong>Speaker 1:</strong> One of the decisions that had to be made was the route of the tunnel. Two towns on each side of the tunnel were in the running for being the sites for the French and British entrances for the tunnel.</p><p><strong>Speaker 1:</strong> Hythe in England had the support of many people but the bedrock below Folkestone was regarded as more suitable and so the latter was selected. On the French side, the Hythe-Boulogne route was by far the more popular choice, but after the British Folkestone selection, Calais had to be chosen as the Folkestone-Calais distance was slightly shorter.</p>"
+    }
+  ]
+}

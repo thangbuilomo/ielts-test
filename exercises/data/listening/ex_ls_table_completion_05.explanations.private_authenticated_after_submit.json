@@ -1,0 +1,41 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_table_completion_05",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q35": {
+      "explanation": "Người nói đang mô tả một ví dụ về sóng thần xảy ra vào năm 1992 và nguyên nhân của nó. Thông tin giúp tìm ra đáp án là cụm từ \"an offshore landslide\" được nhắc đến ngay sau khi nói về năm 1992. Paraphrase quan trọng ở đây là \"offshore landslide\" có thể được hiểu là một trận lở đất xảy ra ở khu vực ngoài khơi. Bẫy có thể là việc người nghe có thể nhầm lẫn với các nguyên nhân khác của sóng thần, nhưng thông tin rõ ràng về \"offshore landslide\" đã giúp xác định đáp án chính xác. Vì vậy, đáp án đúng là \"offshore landslide\".",
+      "evidence": "In 1992, an offshore landslide caused a tidal wave of only about one meter high..."
+    },
+    "q36": {
+      "explanation": "Người nói đang đề cập đến một trận động đất xảy ra vào năm 1992 và nhấn mạnh rằng nó không gây ra sóng thần. Thông tin giúp tìm ra đáp án là cụm từ \"January 13th in 1992\". Paraphrase quan trọng là \"a Pacific Ocean earthquake\" có thể được hiểu là một trận động đất ở Thái Bình Dương. Bẫy có thể là người nghe có thể nghĩ rằng đây là một sự kiện gây ra sóng thần, nhưng thực tế là nó không gây ra bất kỳ sự rối loạn nào. Do đó, đáp án đúng là \"1992\".",
+      "evidence": "On January 13th in 1992, a Pacific Ocean earthquake off the coast of San Salvador, registering 7.6 on the Richter scale, did not cause any ocean disturbance at all."
+    },
+    "q37": {
+      "explanation": "Người nói đang mô tả một sự kiện sóng thần xảy ra vào năm 1998 và nguyên nhân của nó. Thông tin giúp tìm ra đáp án là cụm từ \"submarine earthquake\". Paraphrase quan trọng là \"submarine earthquake\" có thể được hiểu là một trận động đất dưới biển. Bẫy có thể là người nghe có thể nhầm lẫn với các nguyên nhân khác, nhưng thông tin rõ ràng về \"submarine earthquake\" đã giúp xác định đáp án chính xác. Vì vậy, đáp án đúng là \"submarine earthquake\".",
+      "evidence": "a recent tidal wave which struck Papua New Guinea on July 17th, 1998, was 11 meters high and killed at least 1,200 people. The wave was caused by a magnitude 7.1 submarine earthquake."
+    },
+    "q38": {
+      "explanation": "Người nói đang mô tả chiều cao của cơn sóng do vụ phun trào núi lửa gây ra. Thông tin giúp tìm ra đáp án là cụm từ \"a wave some 14 meters tall\". Paraphrase quan trọng là \"14 meters tall\" có thể được hiểu là chiều cao của cơn sóng. Bẫy có thể là người nghe có thể nghĩ rằng chiều cao của sóng có thể khác, nhưng thông tin rõ ràng về \"14 meters\" đã giúp xác định đáp án chính xác. Do đó, đáp án đúng là \"14 metres\".",
+      "evidence": "A huge underwater volcanic eruption 15 miles offshore was followed within 10 minutes by a wave some 14 meters tall."
+    },
+    "q39": {
+      "explanation": "Người nói đang mô tả số lượng người thiệt mạng do sóng thần gây ra bởi trận động đất ngầm. Thông tin giúp tìm ra đáp án là cụm từ \"some 20,000 people\". Paraphrase quan trọng là \"20,000 people\" có thể được hiểu là số lượng người thiệt mạng. Bẫy có thể là người nghe có thể nhầm lẫn với các con số khác, nhưng thông tin rõ ràng về \"20,000\" đã giúp xác định đáp án chính xác. Vì vậy, đáp án đúng là \"20,000\".",
+      "evidence": "An underground earthquake induced a wave of eight meters, drowning some 20,000 people."
+    },
+    "q40": {
+      "explanation": "Người nói đang mô tả thời gian xảy ra một sự kiện sóng thần do lở đất dưới biển. Thông tin giúp tìm ra đáp án là cụm từ \"about 8,000 years ago\". Paraphrase quan trọng là \"8,000 years ago\" có thể được hiểu là thời gian đã trôi qua kể từ sự kiện đó. Bẫy có thể là người nghe có thể nhầm lẫn với các khoảng thời gian khác, nhưng thông tin rõ ràng về \"8,000\" đã giúp xác định đáp án chính xác. Vì vậy, đáp án đúng là \"8,000\".",
+      "evidence": "Finally, about 8,000 years ago, a massive undersea landslide off the coast of Norway sent a wall of water 10 meters high barreling into the uninhabited northern coast of Europe."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Let's look at some examples of tsunami and their causes and effects. The most recent severe tsunami was in December 2004 in the Indian Ocean. It was caused by an undersea megathrust earthquake. The resulting tsunami caused the deaths of more than 230,000 people with a wave of 30 meters.</p><p><strong>Speaker 1:</strong> Some tsunami can be relatively harmless. In 1992, an offshore landslide caused a tidal wave of only about one meter high that struck at low tide, so Humboldt County, where it hit, got off easy with no casualties.</p><p><strong>Speaker 1:</strong> On January 13th in 1992, a Pacific Ocean earthquake off the coast of San Salvador, registering 7.6 on the Richter scale, did not cause any ocean disturbance at all.</p><p><strong>Speaker 1:</strong> However, a recent tidal wave which struck Papua New Guinea on July 17th, 1998, was 11 meters high and killed at least 1,200 people. The wave was caused by a magnitude 7.1 submarine earthquake.</p><p><strong>Speaker 1:</strong> On July 17th, 1998, a Papua New Guinea tsunami killed roughly 3,000 people. A huge underwater volcanic eruption 15 miles offshore was followed within 10 minutes by a wave some 14 meters tall. The villages of Arop and Waropu were destroyed.</p><p><strong>Speaker 1:</strong> One of the worst tsunami disasters engulfed whole villages along Sanriku, Japan, in 1896. An underground earthquake induced a wave of eight meters, drowning some 20,000 people.</p><p><strong>Speaker 1:</strong> Finally, about 8,000 years ago, a massive undersea landslide off the coast of Norway sent a wall of water 10 meters high barreling into the uninhabited northern coast of Europe. If this were to recur today, as scientists say it could, almost anywhere in the world, it would cost billions, if not tens of billions, of dollars to repair the damage to coastal cities and kill tens of thousands of people.</p><p><strong>Speaker 1:</strong> Any questions so far?</p>"
+}

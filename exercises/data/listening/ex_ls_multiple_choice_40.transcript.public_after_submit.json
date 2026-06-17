@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_40",
+  "module": "listening",
+  "question_count": 6,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2040.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1</strong>: You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 1:</strong> Let's now look at a famous example. In 1925, Alan O'Dell, who owned a small company that made a brushless shaving cream, noticed that gas stations and other local businesses were increasing trade by putting up advertising signs along the nation's highways. He decided that he could increase his sales by putting up sets of signs, five in a set. They would not have to be big, and a short line on each one would do. </p><p><strong>Speaker 1:</strong> At first, O'Dell tried the hard sell approach. Sales began to increase at once, but that did not satisfy him. Motorists see these signs, he told himself, at remote places on the highway. Perhaps after hours of monotonous driving, they would appreciate a touch of rhyme and humor. They would indeed. </p><p><strong>Speaker 1:</strong> It was not long before the catchy Burma Shave signs, some ironic, some cynical, some absurd, but all of them funny, caught the fancy of nearly everyone, including those people usually critical of advertising. These signs continued as the advertising medium of the company for 35 years. </p><p><strong>Speaker 1:</strong> And then, when cars traveled too fast to take in these messages, more than a dozen words painted in rather small letters, the company phased out its roadside advertising. Perhaps a growing criticism of this sort of advertising, which interfered with highway scenery, also influenced the company's decision. </p><p><strong>Speaker 1:</strong> By late 1965, this criticism resulted in President Lyndon Johnson's Highway Beautification Bill. This bill authorized a federal-state campaign to improve the scenery on either side of major highways, to conceal or remove junkyards, and to put billboards sufficiently far back from the highway so that they would not interfere with the view. </p><p><strong>Speaker 1:</strong> States that did not comply with the bill could lose 10% of their federal highway grant. But this was not the end of the billboard industry. Many roads were not part of the highway system, which was supported by federal grants, and these roads were not affected by the law, and nor were signs in commercial and industrial areas. </p><p><strong>Speaker 1:</strong> Now let's look at some of the advertising developments in Europe.</p>"
+    }
+  ]
+}

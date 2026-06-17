@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_multiple_choice_62",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/MULTIPLE%20CHOICE%2062.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> OK, the room is all booked for you, madam. While you're on the phone, can I just ask if you had a look at the special offers on our website?</p><p><strong>Speaker 1:</strong> No, what are they?</p><p><strong>Speaker 2:</strong> Well, we have discounts available on our meal options. Your booking already comes with breakfast free of charge in the morning, but we also do half board, where you can have dinner with us, or full board, where all food, drinks and lunch are also included. If you book with me now, I can give you 50% off that package.</p><p><strong>Speaker 1:</strong> Wow, that does sound like great value, but when we're on holiday, we normally like to try out local restaurants, so we'll just stick with what we booked. Thank you.</p><p><strong>Speaker 2:</strong> OK, well, we do have a lovely buffet in the morning, so I'm sure you'll like it. What about daytime activities?</p><p><strong>Speaker 1:</strong> The most popular day trip in the area is the water park. We can offer discounted trips to the park. If you buy two full price adult tickets, then up to three kids can enter for free.</p><p><strong>Speaker 2:</strong> Oh, yes, that sounds great. Is there anything else?</p><p><strong>Speaker 1:</strong> Yes, can I ask how you are travelling to us? Many of our guests take advantage of our airport pickup service, where we send a car to collect you. And if you want a cheaper option, you can take our shuttle bus, where you share the journey with other guests.</p><p><strong>Speaker 2:</strong> Well, we're actually hiring a car, so we'll be driving ourselves.</p><p><strong>Speaker 1:</strong> Well, in that case, we do have parking at the hotel, but it's much cheaper if you reserve it in advance. If you don't, it'll cost up to five pounds per day, and you could end up paying as much as £60. However, if you reserve a space now, it'll only cost you £13 for your stay with us.</p><p><strong>Speaker 2:</strong> Oh, yes, can I reserve a parking space then, please?</p><p><strong>Speaker 1:</strong> Yes, of course. So, that's all booked for you. Is there anything else I can help you with?</p><p><strong>Speaker 2:</strong> No, that's everything. Thanks a lot.</p><p><strong>Speaker 1:</strong> Thanks, madam. Look forward to seeing you in June.</p>"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_ls_multiple_choice_66",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q21": {
+      "explanation": "Người nói đang thảo luận về chủ đề của hội thảo mà Jamie và Alice sẽ tham gia. Alice đã hỏi Jamie về việc đọc tài liệu cho hội thảo, và Jamie đã giải thích rằng hội thảo sẽ tập trung vào sự khác biệt trong việc ghi danh vào giáo dục đại học giữa nam và nữ. Thông tin này giúp tìm ra đáp án là B, vì nó nhấn mạnh rằng hội thảo sẽ không chỉ nói về giáo dục và giới tính nói chung, mà sẽ cụ thể hơn về giáo dục đại học. Paraphrase quan trọng ở đây là \"differences in higher education enrollment\" (sự khác biệt trong việc ghi danh vào giáo dục đại học). Bẫy có thể là việc người nghe có thể nghĩ rằng hội thảo sẽ nói về giáo dục ở các nước đang phát triển, nhưng thực tế không phải vậy. Đáp án B là chính xác vì nó phản ánh đúng nội dung mà Jamie đã đề cập.",
+      "evidence": "The seminar is about the differences in higher education enrollment for men and women."
+    },
+    "q22": {
+      "explanation": "Trong đoạn hội thoại, Jamie và Alice đang thảo luận về một chương trong sách giáo khoa mà họ đã đọc. Jamie đã nhận xét rằng chương này không đi vào chi tiết nhiều, nhưng nó là một điểm khởi đầu tốt. Alice đã bổ sung rằng chương này có nhiều tài liệu tham khảo và trích dẫn để kiểm tra. Thông tin này giúp tìm ra đáp án là C, vì nó chỉ ra rằng họ cảm thấy có nhiều thông tin cần kiểm tra trong chương đó. Paraphrase quan trọng là \"lots of references and quotes to check\" (nhiều tài liệu tham khảo và trích dẫn để kiểm tra). Bẫy có thể là việc người nghe có thể nghĩ rằng chương này quá ngắn hoặc không đủ thông tin, nhưng thực tế là họ thấy có nhiều thông tin để xem xét. Đáp án C là chính xác vì nó phản ánh đúng ý kiến của Alice về chương trong sách.",
+      "evidence": "it included lots of references and quotes to check."
+    },
+    "q23": {
+      "explanation": "Trong cuộc trò chuyện, Jamie đã đề cập đến việc cố gắng mượn sách từ thư viện nhưng không thành công vì tất cả các cuốn sách đã được cho mượn. Điều này cho thấy vấn đề mà họ gặp phải là việc truy cập tài liệu không thuận lợi. Thông tin này giúp tìm ra đáp án là A, vì nó phản ánh đúng tình huống mà Jamie đã mô tả. Paraphrase quan trọng là \"already on loan\" (đã được cho mượn hết). Bẫy có thể là việc người nghe có thể nghĩ rằng vấn đề là do cách thức cho mượn sách hoặc tài liệu trực tuyến, nhưng thực tế là vấn đề chính là không có đủ bản sao sách. Đáp án A là chính xác vì nó nêu rõ vấn đề mà Jamie đã gặp phải trong thư viện.",
+      "evidence": "I tried getting some of the other books on the list out of the library, but they were already on loan."
+    }
+  },
+  "transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. </p><p><strong>Speaker 2:</strong> Hi Jamie, have you done a lot of reading for the seminar this week on gender and education? </p><p><strong>Speaker 3:</strong> Hey Alice, yeah, I've done quite a lot. It's all a bit confusing, to be honest. Do you want to sit down and have a chat about it? </p><p><strong>Speaker 2:</strong> Yes, that would be really useful, actually. What's been confusing you? </p><p><strong>Speaker 3:</strong> Well, it just seems like such a huge area. I mean, you can talk about gender in education in primary school up to university, and also there are such huge differences between countries. You know, the statistics are very different for, say, Japan, when compared with a developing country. </p><p><strong>Speaker 2:</strong> Well, yes, there's so much stuff about developing countries and education, especially with regards to gender, but that's not what this will be about. The seminar is about the differences in higher education enrollment for men and women. Haven't you looked at the reading list? </p><p><strong>Speaker 3:</strong> Oh, yes, I guess I just got carried away. So what have you read from the reading list? </p><p><strong>Speaker 2:</strong> Well, I started with the chapter in our set book, you know, the one written by Hall. I thought that was quite an interesting overview, although it was a little short. </p><p><strong>Speaker 3:</strong> Yes, I read that too. It didn't go into much detail, which was fine, but it was a good place to start. And it included lots of references and quotes to check. </p><p><strong>Speaker 2:</strong> I don't think we need to check all of that. It would be a bit too much. Anyway, after reading that chapter, I tried getting some of the other books on the list out of the library, but they were already on loan. To be honest, that always seems to be the case in our library. It's a good job we've got access to all of these online journals and articles, or we'd never be able to get any reading done. </p><p><strong>Speaker 3:</strong> Agreed. I've read a load of the articles and journals on the list. There are some really eye-opening statistics there. And when I first started thinking about this topic, I thought it would be about trying to get more women into university, but it seems like it's men that are underrepresented.</p>"
+}

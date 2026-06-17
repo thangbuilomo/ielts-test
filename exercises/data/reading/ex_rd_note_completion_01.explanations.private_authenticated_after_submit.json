@@ -1,0 +1,36 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "exercise_id": "ex_rd_note_completion_01",
+  "module": "reading",
+  "question_count": 5,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "requires_submitted_attempt": true,
+    "guest_fallback_message": "Detailed explanations are available for logged-in Saola students only."
+  },
+  "explanations": {
+    "q36": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 5, bài viết nêu: \"Being proficient in more than one language gives people access to two cultures, making them more tolerant and open to learning about diverse backgrounds, traditions and social behaviours, as well as being a part of them. Studies have also shown that bilingual people have better task-switching capacities at work, because of their acquired ability to change languages quickly. In other words, speaking two languages forces people’s brains to recognise two different language systems.\". Cụm tolerant khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Being proficient in more than one language gives people access to two cultures, making them more tolerant and open to learning about diverse backgrounds, traditions and social behaviours, as well as being a part of them. Studies have also shown that bilingual people have better task-switching capacities at work, because of their acquired ability to change languages quickly. In other words, speaking two languages forces people’s brains to recognise two different language systems._"
+    },
+    "q37": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 5, bài viết nêu: \"Studies have also shown that bilingual people have better task-switching capacities at work, because of their acquired ability to change languages quickly. In other words, speaking two languages forces people’s brains to recognise two different language systems. Being bilingual can also promote mental agility and it can help delay neurological disorders like dementia and Alzheimer's disease.\". Cụm neurological disorders khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Studies have also shown that bilingual people have better task-switching capacities at work, because of their acquired ability to change languages quickly. In other words, speaking two languages forces people’s brains to recognise two different language systems. Being bilingual can also promote mental agility and it can help delay neurological disorders like dementia and Alzheimer's disease._"
+    },
+    "q38": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"This view is often characterised by the ideas of cognitive overload, and studies into this broadly concluded that bilingualism resulted in lower IQ scores. Some of the first research on bilingualism, conducted primarily between 1920 and 1960, appeared to support this view. Indeed, these studies often associated bilingual children with the term ‘linguistically handicapped’.\". Cụm cognitive overload khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "This view is often characterised by the ideas of cognitive overload, and studies into this broadly concluded that bilingualism resulted in lower IQ scores. Some of the first research on bilingualism, conducted primarily between 1920 and 1960, appeared to support this view. Indeed, these studies often associated bilingual children with the term ‘linguistically handicapped’._"
+    },
+    "q39": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"Indeed, these studies often associated bilingual children with the term ‘linguistically handicapped’. General indications from these early studies were that monolingual children were up to 3 years ahead of bilingual children in various skills relating to verbal and non-verbal intelligence. Since 1960, however, these studies have been widely discredited, as it seems that they were based on an incorrect understanding of how the brain works.\". Cụm linguistically handicapped khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Indeed, these studies often associated bilingual children with the term ‘linguistically handicapped’. General indications from these early studies were that monolingual children were up to 3 years ahead of bilingual children in various skills relating to verbal and non-verbal intelligence. Since 1960, however, these studies have been widely discredited, as it seems that they were based on an incorrect understanding of how the brain works._"
+    },
+    "q40": {
+      "explanation": "Cần điền/chọn thông tin đúng từ bài đọc. Ở đoạn 6, bài viết nêu: \"Since 1960, however, these studies have been widely discredited, as it seems that they were based on an incorrect understanding of how the brain works. Bilingual people exhibit the full range of academic and intellectual abilities of monolingual people without this affecting their ability to be bilingual. This means that any persistent negative views of bilingualism can be explained only by the unfamiliarity many monolingual speakers have with bilingualism and / or by a biased view of bilingualism.\". Cụm unfamiliarity khớp với yêu cầu câu hỏi và đúng giới hạn từ nếu đề có quy định.",
+      "evidence": "Since 1960, however, these studies have been widely discredited, as it seems that they were based on an incorrect understanding of how the brain works. Bilingual people exhibit the full range of academic and intellectual abilities of monolingual people without this affecting their ability to be bilingual. This means that any persistent negative views of bilingualism can be explained only by the unfamiliarity many monolingual speakers have with bilingualism and / or by a biased view of bilingualism._"
+    }
+  }
+}

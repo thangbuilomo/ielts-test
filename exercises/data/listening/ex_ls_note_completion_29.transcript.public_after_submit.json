@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_note_completion_29",
+  "module": "listening",
+  "question_count": 3,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/NOTE%20COMPLETION%2029.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen.</p><p><strong>Speaker 2:</strong> So, what exactly did the document say? Well, many of its 63 clauses today sound archaic and pertain only to that particular time. Take clause 33, for example. It mentions the removal of fishing nets from the River Thames. Hardly a breakthrough in democracy. But despite that, Magna Carta did lay down a number of key principles of rule. </p><p><strong>Speaker 1:</strong> The first of these can be found in clauses 12 and 14 of the charter. These two clauses prevented the king from imposing taxes without first getting the consent of the kingdom. This meant that no longer could the king arbitrarily demand money since he now needed the approval of the landowners first.</p><p><strong>Speaker 2:</strong> Next, and probably the most significant clauses of the charter, numbers 39 and 40, were concerned with the fair treatment of people in matters of law. Clause 39 states, no free man shall be arrested or imprisoned except by lawful judgment of his peers or by the laws of the land. While clause 40 said, to no one will we deny or delay right to justice. </p><p><strong>Speaker 1:</strong> It was through these notions of the right of every person to trial by jury and to equal and swift justice for all that Magna Carta enshrined one of the most fundamental principles of human rights. That principle was the rule of law. It basically meant that no person is above the law, not even a king. </p><p><strong>Speaker 2:</strong> Of course, at the time, the document only affected a small proportion of the overall population. However, this underlying principle would eventually form the cornerstone of our modern ideas of liberty and democracy. It's to this we turn now.</p>"
+    }
+  ]
+}

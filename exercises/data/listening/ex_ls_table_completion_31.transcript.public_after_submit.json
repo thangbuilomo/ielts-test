@@ -1,0 +1,30 @@
+{
+  "schema_version": "saola.listening_transcript_annotations.v1",
+  "exercise_id": "ex_ls_table_completion_31",
+  "module": "listening",
+  "question_count": 4,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit",
+    "requires_submitted_attempt": true
+  },
+  "audio_ref": "https://ielts-exercise.pages.dev/TABLE%20COMPLETION%2031.mp3",
+  "rendering": {
+    "layout_target": "after_result",
+    "content_format": "html",
+    "highlight_style": "background:#fff3bf; font-weight:600;",
+    "question_marker_format": "[Q{number}]"
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Transcript",
+      "context": "",
+      "annotated_transcript_html": "<p><strong>Speaker 1:</strong> You now have some time to look at the questions on your screen. Now answer the questions on your screen. Well, we've got to speak for 15 minutes in total. And obviously, we need to divide that time into sections between the three of us. How should we start?</p><p><strong>Speaker 2:</strong> For the introduction, I think we can do it in two stages. Before we discuss the basic plot overview, we need to provide our listener with some concrete details about the book, release dates, etc. What do you think?</p><p><strong>Speaker 3:</strong> Sounds good. And we could make a PowerPoint with some slides.</p><p><strong>Speaker 1:</strong> Great. I don't mind doing the first part. And we could put Susie down for the second.</p><p><strong>Speaker 2:</strong> Sure. Then I can begin with the main points, an explanation about the role of Matthew, followed by some of the other characters.</p><p><strong>Speaker 3:</strong> I think it would be great to show their appearance, demeanour, the settings. We could get some illustrations, source some on the internet to incorporate into the PowerPoint.</p><p><strong>Speaker 1:</strong> After that, we need to focus on the relationships between the characters.</p><p><strong>Speaker 2:</strong> Absolutely. We could pick three main ones. We spoke about some of them before.</p><p><strong>Speaker 3:</strong> Ah, and what about something audiovisual? Maybe we could get our hands on some video clips of the most famous key scenes to play in the presentation.</p><p><strong>Speaker 1:</strong> From the film? I love the idea, but I don't know. We only have 15 minutes. Might they take up too much time?</p><p><strong>Speaker 2:</strong> Maybe just one?</p><p><strong>Speaker 3:</strong> Yeah, we can source one or two short ones to use as an aid. Do you mind if I do that part?</p><p><strong>Speaker 1:</strong> Not at all. And Susie can give the last part, which I think should be about our own reactions to the book. Remember, that had to be a central point of the talk.</p><p><strong>Speaker 2:</strong> OK. And as a summary, I personally think a lot of the social issues discussed are still relevant today in some ways. Let's discuss those we've identified in this part.</p><p><strong>Speaker 3:</strong> Do you think that could work? We could use some images from the modern day that depict any similarities we pinpoint.</p><p><strong>Speaker 1:</strong> Excellent. I don't mind doing that part. Then we each have two sections to discuss.</p><p><strong>Speaker 2:</strong> Perfect.</p>"
+    }
+  ]
+}
