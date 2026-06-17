@@ -1,0 +1,47 @@
+{
+  "schema_version": "saola.listening_content.v1",
+  "test_id": "vol_09_t2_ls",
+  "module": "listening",
+  "title": "Vol 9 Listening Test 2",
+  "audio": {
+    "src": "https://raw.githubusercontent.com/thangbuilomo/audio-ielts/main/vol_09_t2_ls.mp3",
+    "local_src": "../../TEST 2/vol_09_t2_ls.mp3",
+    "format": "mp3",
+    "external": true,
+    "transcript_available_to_student": false,
+    "start_on": "start_button",
+    "allow_pause": false,
+    "allow_seek": false,
+    "post_audio_review_seconds": 180
+  },
+  "parts": [
+    {
+      "part_id": "l1",
+      "part_number": 1,
+      "title": "Part 1",
+      "source_section_label": "Section 1",
+      "context": "Listening Test 2 Section 1"
+    },
+    {
+      "part_id": "l2",
+      "part_number": 2,
+      "title": "Part 2",
+      "source_section_label": "Section 2",
+      "context": "Listening Test 2 Section 2"
+    },
+    {
+      "part_id": "l3",
+      "part_number": 3,
+      "title": "Part 3",
+      "source_section_label": "Section 3",
+      "context": "Listening Test 2 Section 3"
+    },
+    {
+      "part_id": "l4",
+      "part_number": 4,
+      "title": "Part 4",
+      "source_section_label": "Section 4",
+      "context": "Listening Test 2 Section 4"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "schema_version": "saola.reading_content.v1",
+  "test_id": "vol_09_t6_rd",
+  "module": "reading",
+  "title": "Vol 9 Reading Test 6",
+  "passages": [
+    {
+      "passage_id": "p1",
+      "passage_number": 1,
+      "title": "Health in the Wild",
+      "sections": [
+        {
+          "section_id": "A",
+          "content_html": "<p><em>Many animals seem able to treat their illnesses themselves. Humans may have a thing or two to learn from them.</em></p>"
+        },
+        {
+          "section_id": "B",
+          "content_html": "<p>For the past decade, Dr Cindy Engel, a lecturer in Environmental Sciences at Britain’s Open University, has been collating examples of self-medicating behaviour in wild animals. In a recent talk, she explained that the idea that animals can treat themselves has been generally regarded with some skepticism by other animal behaviourists. But a growing number of them now think that wild animals can and do deal with their own medical needs.</p>"
+        },
+        {
+          "section_id": "C",
+          "content_html": "<p>Dr William Karesh of the Wildlife Conservation Society in New York, for example, has studied the health of a wide range of wild animals, including anaconda snakes, macaws, penguins, impala and buffalo. The animals were mostly in good physical condition, which is not surprising since the weak quickly die in the wild. But blood tests showed that many had encountered unpleasant viral and bacterial diseases in the past - including diseases that are often fatal in captive animals, even when treated by vets. Moreover, if healthy wild animals are brought into captivity, their health often deteriorates unless great care is taken over their living conditions. Such observations suggest that wild animals can do something to keep themselves healthy that captive animals cannot.</p>"
+        },
+        {
+          "section_id": "D",
+          "content_html": "<p>One example of self-medicaction was discovered in 1987. Dr Michael Huffman and Mohamedi Seifu, working in the Mahale Mountains National Park in Tanzania, noticed that local chimpanzees suffering from intestinal worms would dose themselves with the pith (the white substance between the skin and the flesh) of a plant called Veronia. This plant produces poisonous chemicals called terpenes. Its pith contains a strong enough concentration to kill gut parasites, but not so strong as to kill chimps (nor people for that matter; locals use the pith for the same purpose).</p>"
+        },
+        {
+          "section_id": "E",
+          "content_html": "<p>Since the Veronia-eating chimps were discovered, more evidence has emerged suggesting that animals often eat things for medical rather than nutritional reasons. Many species, for example, consume dirt - a behaviour known as geophagy. Historically, the preferred explanation was that soil supplies minerals such as salt. But geophagy occurs in areas where the earth is not a useful source of minerals, and also in places where minerals can be more easily obtained from certain plants that are known to be rich in them. Clearly, the animals must be getting something else out of eating the earth.</p>"
+        },
+        {
+          "section_id": "F",
+          "content_html": "<p>The current belief is that soil - and particularly the clay in it - helps to detoxify the defensive poisons that some plants produce in an attempt to prevent themselves from being eaten. Evidence for the detoxifying nature of clay came in 1999 from an experiment carried out on macaws by Dr James Gilardi and his colleagues at the University of California, Davis. Macaws eat seeds containing alkaloids, a group of chemicals that has some notoriously toxic members, such as strychnine. In the wild, the birds are frequently seen perched on eroding riverbanks eating clay. Dr Gilardi fed one group of macaws a mixture of harmless alkaloid and clay, and a second group just the alkaloid. Several hours later, the macaws that had eaten the clay had 60% less alkaloid in their bloodstreams than those that had not, suggesting that the current hypothesis is correct.</p>"
+        },
+        {
+          "section_id": "G",
+          "content_html": "<p>A third instance of animals’ self-medication is the use of mechanical scours to get rid of gut parasites. In 1972, Dr Richard Wrangham, a researcher at the Gombe Stream Reserve in Tanzania, noticed that chimpanzees were eating the leaves of a tree called Aspilia. The chimps chose the leaves carefully by testing them in their mouths. Having chosen a leaf, a chimp would fold it into a fan and swallow it. Some of the chimps were noticed wrinkling their noses as they swallowed these leaves, suggesting the experience was unpleasant. Later, undigested leaves were found on the forest floor.</p>"
+        },
+        {
+          "section_id": "H",
+          "content_html": "<p>Dr Wrangham rightly guessed that the leaves had a medicinal purpose - this was, indeed, one of the earliest interpretations of a behaviour pattern known as self- medication. However, he guessed wrong about what the mechanism was. His (and everybody else’s) assumption was that Aspilia released a drug, and this sparked more than two decades of photochemical research to try to find out what chemical the chimps were after. But by the 1990s, chimps across Africa had been seen swallowing the leaves of 19 different Aspilia species that seemed to have few suitable chemicals in common. The drug hypothesis was looking more and more dubious.</p>"
+        },
+        {
+          "section_id": "I",
+          "content_html": "<p>It was Dr Huffman who got to the root of problem. He did so by watching what came out of the chimps, rather than concentrating on what went in. he found that the egested leaves were full of intestinal worms. The factor common to all 19 species of leaves were full of intestinal worms. The factor common to all 19 species of leaves swallowed by the chimps was that they were covered with microscopic hooks. These caught the worms and dragged them from their lodgings.</p>"
+        },
+        {
+          "section_id": "J",
+          "content_html": "<p>Dr Engel is now particularly excited about how knowledge of the way that animals look after themselves could be used to improve the health of livestock. People might also be able to learn a thing or two - and may, indeed, already have done so. Geophagy, for example, is a common behaviour in many parts of the world. The medical stalls in African markets frequently sell tablets made of different sorts of clays, appropriate to different medical conditions.</p>"
+        },
+        {
+          "section_id": "K",
+          "content_html": "<p>Africans brought to the Americas as slaves continued this tradition, which gave their owners one more excuse to affect to despise them. Yet, as Dr Engel points out, Rwandan mountain gorillas eat a type of clay rather similar to kaolinite — the main ingredient of many patent medicines sold over the counter in the West for digestive complaints. Dirt can sometimes be good for you, and to be “as sick as a parrot” may, after all, be a state to be desired.</p>"
+        }
+      ]
+    },
+    {
+      "passage_id": "p2",
+      "passage_number": 2,
+      "title": "Speaking of Nothing",
+      "sections": [
+        {
+          "section_id": "A",
+          "content_html": "<p><em>Why we talk about the weather and other trivial</em></p>"
+        },
+        {
+          "section_id": "B",
+          "content_html": "<p>Some workers are happier in their jobs than others, but it&#x27;s not only to do with the work itself. For example, security guards, truck drivers and salespeople: year after year, these jobs appear on lists of the unhappiest careers. It&#x27;s true that many factors can make a job cheerless, including unusual hours, low pay and a lack of chances for advancement. However, these three types of work stand out for another reason: they&#x27;re characterised by a lack of conversation or by meaningless small talk, which unfortunately represents an obligatory part of the job. Examples of such small talk include comments about the weather, holiday destinations and food. Psychologists have long said that connecting with others through meaningful exchanges is central to well-being, but just how much conversation we require is under investigation.</p>"
+        },
+        {
+          "section_id": "C",
+          "content_html": "<p>Matthias R. Mehl and Simine Vazire of the University of Arizona in the United States wanted to investigate the types of conversations people have. The team used a device to periodically record short verbal exchanges while participants went about their daily tasks. In the study, the researchers eavesdropped on undergraduates for four days, then catalogued each overheard conversation as either &quot;small talk&quot; (&quot;What do you have there? Popcorn? That looks good!&quot;) or &quot;substantive&quot; (&quot;So did their proposal get funding?&quot; &quot;How did you feel?&quot;). They found that people who had more substantive conversations were more likely to say they were feeling happy and fulfilled overall. In fact, the happiest students had roughly twice as many substantive talks as the unhappiest ones. Small talk, meanwhile, made up only 10 per cent of their conversation, versus almost 30 per cent of conversation among the least content students.</p>"
+        },
+        {
+          "section_id": "D",
+          "content_html": "<p>However, small talk still has a role to play. Rather than convey information, scientists believe that it can promote bonding. Ipek Kulahci and her team of researchers at University College Cork in Ireland tested the relationship between vocal exchanges and grooming in lemurs. The researchers reported that the animals reserve their call-and-response conversations, equivalent to human chitchat, for the animals they groom the most-suggesting that small talk maintains closeness with loved ones, and isn&#x27;t merely for awkward exchanges with strangers. It appears that, even among animals, vocal exchanges indicate strong social bonds between the group members.</p>"
+        },
+        {
+          "section_id": "E",
+          "content_html": "<p>Connecting with others seems to increase happiness, but strangers in close proximity routinely ignore each other. To examine the experience of connecting to strangers, psychologists Nicholas Epley and Juliana Schroeder from the University of Chicago in the United States gave volunteers varying directions about whether to talk with other commuters who usually took the same train to work every day - something they typically avoided. Those told to chat with others reported a more pleasant journey than those told to &#x27;enjoy your solitude&#x27; or do whatever they normally would. All of the volunteers in the study who initiated conversations reported a positive reaction from the people they spoke to. Participants had predicted precisely the opposite outcome. They expected that the others on the train would have preferred to be left alone.</p>"
+        },
+        {
+          "section_id": "F",
+          "content_html": "<p>When we buy a cup of coffee at a café, we sometimes chat with the service staff, but on other occasions we say as little as possible so as not to waste time. Every day we have opportunities to transform potentially impersonal exchanges into genuine social interactions; in other words, treating a service provider like we would an acquaintance might make us happier. In a study by Gillian Sandstrom and Elizabeth Dunn, people who had a social interaction with a server in a coffee shop felt better emotionally than people who were in a rush to get everything done. As well as feeling happier, the first group had a stronger sense of belonging. These results suggest that, although people are often reluctant to have a genuine social interaction with a stranger, they are happier when they do. In similar studies, when volunteers broke the silence at a gallery to chat with other visitors, the visitors felt happier and more connected to the paintings than those who were not approached. The pleasure of connection seems contagious; in a laboratory waiting room, participants who were talked to had equally positive experiences as those instructed to talk to them.</p>"
+        },
+        {
+          "section_id": "G",
+          "content_html": "<p>Of course, some of us are better than others at small talk. In a study by Todd Kashdan and his team from George Mason University in the United States, people who were rated by the researchers as &#x27;less curious about all aspects of life&#x27; had trouble getting a conversation going on their own. However, they had greater luck building closeness with others when they were supplied with topics that encouraged people to open up about themselves and their lives. But people who were deemed &#x27;curious&#x27; needed no help transforming conversations about ordinary things like favourite holidays into other areas of conversation that allowed for intimate exchanges. The study showed that curious people expect to generate closeness during intimate conversations but not during small talk; less curious people anticipated poor outcomes in both situations. In an experiment by William Fleeson at Wake Forest University in the United States, participants were divided into two groups - those who were naturally outgoing, and those who were more reserved in social situations. They were then instructed to behave in the opposite manner to their usual nature. Participants reported more positive feelings when instructed to act extroverted than when instructed to act introverted. The overall conclusion, therefore, is that everyone can benefit from more conversation; the more meaningful, the better.</p>"
+        }
+      ]
+    },
+    {
+      "passage_id": "p3",
+      "passage_number": 3,
+      "title": "Changes to the Soviet Union's Working Week",
+      "sections": [
+        {
+          "section_id": "A",
+          "content_html": "<p>The Soviet Union&#x27;s first Five Year Plan was intended to turn the weak and undeveloped country into a powerful, modern, industrial nation. Following its introduction in 1928, production of coal, iron and steel increased at a fantastic rate, and new industrial cities sprang up. Everyone&#x27;s life was affected, as collectivised farming drove millions from the land to swell the industrial proletariat. Private enterprise disappeared in city and country, leaving the state supreme under the leadership of Stalin. Unlimited enthusiasm was the mood of the day, with the Communists believing that iron will and hard-working manpower alone would bring about a new world.</p>"
+        },
+        {
+          "section_id": "B",
+          "content_html": "<p>Not even time itself was immune to efforts to make the state a huge, efficient machine, where not a moment would be wasted, especially in the workplace. Stalin&#x27;s predecessor Lenin had already been intrigued by the ideas of Taylor, the American management expert whose time and motion studies had discovered ways of streamlining effort so that every worker could produce the maximum. The Communists were also great admirers of Ford&#x27;s assembly line mass production and of his tractors that were imported in their thousands. Emulating and surpassing such capitalist models formed part of the training of the new Soviet Man.</p>"
+        },
+        {
+          "section_id": "C",
+          "content_html": "<p><strong><em>iii  An attempt to create better working conditions?</strong></em></p>"
+        },
+        {
+          "section_id": "D",
+          "content_html": "<p>The goals of Communism had always included improving the lives of the proletariat. One major step in that direction was the announcement in 1927 that reduced the working day from eight to seven hours, in January 1929, all industries were ordered to adopt the shorter day by the end of the Plan. However, the state took away more than it gave, for this was part of a scheme to increase production by establishing a three-shift system, for six days a week. That meant that the factories were open day and night, and many people had to work at highly undesirable hours.</p>"
+        },
+        {
+          "section_id": "E",
+          "content_html": "<p>Hardly had that policy been announced, though, than the economist Larin came up with an idea for even greater efficiency. Workers were free and plants were closed on Sundays. Why not abolish that wasted day by instituting a continuous working week so that the machines could operate to their full capacity every day of the week? Stalin approved, and the continuous working week was introduced in August 1929 with immediate effect. This was during the height of enthusiasm for the Plan, whose goals the new schedule seemed guaranteed to forward.</p>"
+        },
+        {
+          "section_id": "F",
+          "content_html": "<p>The idea turned out to be very complicated in practice. Obviously, the workers couldn&#x27;t be made to work seven days a week, nor should their total work hours be increased. The solution was ingenious: a new five-day week would have the workers on the job for four days, with the fifth day free. Staggering the rest days between groups of workers meant that each worker would spend the same number of hours on the job, but the factories would be working a full 360 days a year instead of 300. Workers in each establishment were divided into five groups, each assigned a colour which appeared on the new calendars distributed all over the country. This colour- coding was a valuable device, since without it workers might have trouble remembering what their day off was going to be, as it would change every week.</p>"
+        },
+        {
+          "section_id": "G",
+          "content_html": "<p>Official propaganda stressed the material and cultural benefits of the new scheme. Workers would get more rest; production and employment would increase (more workers would be needed to keep the factories running continuously); the standard of living would improve. Shopping and leisure activities would no longer have to be crammed into a weekend, so facilities would be far less crowded. The only objection concerned the family, where normally more than one member was working: the government insisted that the narrow family was far less important than the vast common good and, besides, arrangements could be made for husband and wife to share a common schedule.</p>"
+        },
+        {
+          "section_id": "H",
+          "content_html": "<p>The continuous working week spread fast, reaching its peak in October 1930, when it affected nearly three quarters of workers. In fact, many managers simply claimed that their factories had gone over to the new week, without actually applying it. By then, though, problems were becoming obvious. The workers hated it. Coordination of family schedules was virtually impossible, so husbands and wives only saw each other before or after work. Confusion reigned: the new plan was implemented haphazardly, with some factories operating five-, six- and seven-day weeks at the same time, and the workers often not getting their rest days at all.</p>"
+        },
+        {
+          "section_id": "I",
+          "content_html": "<p>Furthermore, the new week was far from having the vaunted effect on production. With the complicated rotation system, the work teams found themselves doing different kinds of work in successive weeks. Machines, no longer consistently in the hands of people who knew how to tend them, were often poorly maintained. Workers lost a sense of responsibility for the tasks they had normally performed. As a result, the new week started to lose ground.</p>"
+        },
+        {
+          "section_id": "J",
+          "content_html": "<p>In November 1931, the government ordered the widespread adoption of a new six-day week, including one day off, which had its own calendar. By July 1935, only a quarter of workers still followed the continuous schedule, and the six-day week too was soon on its way out. Both were finally abandoned in 1940, as part of the general reversion to more traditional methods, and Sunday returned as the universal day of rest. The experiment had failed.</p>"
+        }
+      ]
+    }
+  ]
+}

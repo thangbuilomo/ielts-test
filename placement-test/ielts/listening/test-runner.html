@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Listening Mock Test - Saola</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/test-engine.css?v=20260607-1">
+</head>
+<body class="test-engine-theme" data-gas-url="https://script.google.com/macros/s/AKfycbzMO9hjWi9XA-kCYAYFSfk0_14GrcjVBiRd-y_5zAbyTm-sq8MBWsgJYjAAGDuRrHcn/exec">
+
+  <!-- Start Gate Overlay -->
+  <div class="start-gate-overlay" id="startOverlay">
+    <div class="start-gate-card">
+      <h1 id="testTitleGate">Listening Mock Test</h1>
+      <p>Bài kiểm tra kỹ năng Nghe (Listening) - Phát âm thanh qua mạng.</p>
+      
+      <ul class="feature-intro-list">
+        <li><strong>Tự động phát:</strong> Bấm bắt đầu để phát âm thanh. Không thể dừng (Pause) trong lúc làm bài (trừ khi được cấu hình).</li>
+        <li><strong>Giao diện:</strong> Lúc thi sẽ hiển thị 1 cột duy nhất. Khi có kết quả sẽ chia cột để đối chiếu Transcript.</li>
+        <li><strong>Lưu lịch sử & Giải thích:</strong> Cần đăng nhập để lưu điểm, xem lỗi sai và đọc giải thích chi tiết.</li>
+      </ul>
+
+      <div style="margin-bottom: 24px; padding: 16px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px;">
+        <h3 style="margin-top: 0; font-size: 1.1rem; margin-bottom: 12px;">Đăng nhập học viên</h3>
+        <p style="font-size: 0.9rem; color: #475569; margin-bottom: 12px;">Vui lòng nhập tài khoản được cấp và thông tin cá nhân của bạn.</p>
+        
+        <input type="text" id="studentEmail" placeholder="Tài khoản (vd: student_test01)" style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #cbd5e1; border-radius: 6px;" autocomplete="username">
+        <input type="password" id="studentPassword" placeholder="Mật khẩu" style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #cbd5e1; border-radius: 6px;" autocomplete="current-password">
+        
+        <input type="text" id="studentFullName" placeholder="Họ và tên học viên" style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #cbd5e1; border-radius: 6px;">
+        <input type="tel" id="studentPhone" placeholder="Số điện thoại" style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #cbd5e1; border-radius: 6px;">
+        <input type="email" id="studentRealEmail" placeholder="Email cá nhân (name@example.com)" style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #cbd5e1; border-radius: 6px;">
+
+        <label style="display: flex; align-items: center; gap: 8px; font-size: 0.9rem; color: #475569; margin-bottom: 10px;">
+          <input type="checkbox" id="rememberLogin" checked> Save login
+        </label>
+        <button id="loginBtn" class="start-test-btn" style="margin-bottom: 8px;">Đăng nhập & Bắt đầu</button>
+        <div id="loginError" style="color: #ef4444; font-size: 0.9rem; display: none;"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <header class="test-header">
+    <div class="header-left">
+      <a class="saola-logo" href="../" title="Back to Mock Test">Saola</a>
+      <h2 id="headerTestTitle">Listening Test</h2>
+      <p id="studentNameDisplay">Guest</p>
+    </div>
+    <div class="header-right">
+      <button class="help-icon-btn" id="openHelpBtn" type="button" title="Help">?</button>
+      <div class="audio-player-container header-audio time-only">
+        <button class="play-pause-btn" id="audioPlayBtn">â–¶</button>
+        <div class="audio-progress-bar">
+          <div class="audio-progress-fill" id="audioProgressFill"></div>
+        </div>
+        <div id="audioTimeDisplay" style="font-size: 0.85rem; font-family: monospace;">00:00 / 00:00</div>
+      </div>
+      <div class="timer-box" id="timerDisplay">Wait...</div>
+      <button class="submit-btn" id="headerSubmitBtn">Nộp Bài</button>
+    </div>
+  </header>
+
+  <!-- Main Layout -->
+  <div class="split-container" id="splitContainer">
+    <!-- Left Panel (Transcript) - Hidden by default during test -->
+    <div class="left-panel" id="leftPanel" style="width: 0%; display: none; padding: 0;">
+      <div style="padding: 30px 40px;" id="transcriptContainer">
+        <!-- Rendered via JS after submit -->
+      </div>
+    </div>
+
+    <!-- Resizer -->
+    <div class="resizer" id="dragResizer" style="display: none;"></div>
+
+    <!-- Right Panel (Questions & Review) - Takes full width during test -->
+    <div class="right-panel" id="rightPanel" style="width: 100%;">
+      
+      <div id="postSubmitScoreContainer" style="display: none;">
+        <!-- Score and overall feedback injected here -->
+      </div>
+
+      <div id="questionsContainer" style="max-width: 800px; margin: 0 auto;">
+        <!-- Rendered via JS -->
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Bottom Navigation -->
+  <footer class="navigation-bar" id="navigationBar">
+    <!-- Rendered via JS -->
+  </footer>
+
+  <!-- Modals -->
+  <div id="cheatModal" style="display: none; position: fixed; top:0; left:0; right:0; bottom:0; background: rgba(0,0,0,0.5); z-index: 3000; align-items: center; justify-content: center;">
+    <div style="background: #fff; padding: 30px; border-radius: 12px; max-width: 400px; text-align: center;">
+      <h3 style="color: #ef4444; margin-top: 0;">Cảnh báo vi phạm!</h3>
+      <p id="cheatWarningMsg">Bạn đã rời khỏi trang thi. Hành vi này đã được ghi lại.</p>
+      <button onclick="document.getElementById('cheatModal').style.display='none'" style="background: #ef4444; color: #fff; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer;">Tôi đã hiểu</button>
+    </div>
+  </div>
+
+  <div id="confirmSubmitModal" style="display: none; position: fixed; top:0; left:0; right:0; bottom:0; background: rgba(0,0,0,0.5); z-index: 3000; align-items: center; justify-content: center;">
+    <div style="background: #fff; padding: 30px; border-radius: 12px; max-width: 400px; text-align: center;">
+      <h3 style="margin-top: 0;">Xác nhận nộp bài</h3>
+      <p id="unansweredWarning">Bạn vẫn còn <strong style="color: #ef4444" id="unansweredCount">0</strong> câu chưa trả lời.</p>
+      <p>Bạn có chắc chắn muốn nộp bài bây giờ?</p>
+      <div style="display: flex; gap: 12px; justify-content: center; margin-top: 20px;">
+        <button id="cancelSubmitBtn" style="background: #e2e8f0; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer;">Hủy bỏ</button>
+        <button id="confirmSubmitBtn" style="background: #2563eb; color: #fff; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer;">Nộp Bài</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="loadingModal" style="display: none; position: fixed; top:0; left:0; right:0; bottom:0; background: rgba(0,0,0,0.7); z-index: 4000; align-items: center; justify-content: center;">
+    <div style="color: white; font-family: var(--display-font); font-size: 1.5rem;">
+      Đang xử lý kết quả...
+    </div>
+  </div>
+
+  <script src="../../assets/js/saola-auth.js" data-widget="off"></script>
+  <script src="placement-listening-test.js"></script>
+</body>
+</html>

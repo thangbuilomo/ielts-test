@@ -1,0 +1,91 @@
+{
+  "schema_version": "saola.manifest.v1",
+  "test_id": "vol_09_t4_ls",
+  "delivery_type": "practice_test",
+  "module": "listening",
+  "title": "Vol 9 Listening Test 4",
+  "version": "2026-06-06",
+  "status": "draft",
+  "language": "en",
+  "visibility": {
+    "manifest": "public_before_entry_gate",
+    "content": "public_after_mode_selected",
+    "questions": "public_after_mode_selected",
+    "source_annotations": "public_after_submit",
+    "answer_key": "private_after_submit",
+    "explanations": "private_authenticated_after_submit"
+  },
+  "entry_gate": {
+    "show_overlay_before_loading_test_data": true,
+    "modes": [
+      {
+        "mode": "guest",
+        "label": "Guest mode",
+        "requires_login": false,
+        "after_submit_access": [
+          "score",
+          "answer_key",
+          "source_annotations"
+        ]
+      },
+      {
+        "mode": "authenticated_student",
+        "label": "Student login",
+        "requires_login": true,
+        "after_submit_access": [
+          "score",
+          "answer_key",
+          "source_annotations",
+          "explanations"
+        ]
+      }
+    ],
+    "load_public_test_data_after_mode_selected": true
+  },
+  "file_refs": {
+    "content": "03_listening_content.public.json",
+    "questions": "04_listening_questions.public.json",
+    "answer_key": "07_listening_answer_key.private_after_submit.json",
+    "source_annotations": "13_listening_transcript_annotations.public_after_submit.json",
+    "explanations": "07_listening_explanations.private_authenticated_after_submit.json"
+  },
+  "load_sequence": {
+    "before_mode_selected": [
+      "manifest"
+    ],
+    "after_mode_selected": [
+      "content",
+      "questions"
+    ],
+    "after_submit_guest": [
+      "answer_key",
+      "source_annotations"
+    ],
+    "after_submit_authenticated_student": [
+      "answer_key",
+      "source_annotations",
+      "explanations"
+    ]
+  },
+  "timing": {
+    "duration_seconds": 2400,
+    "start_timer_on": "start_button",
+    "auto_submit_on_timeout": true
+  },
+  "validation": {
+    "question_count_policy": "exact",
+    "required_question_count": 40,
+    "require_continuous_question_numbers": true,
+    "require_parts_1_to_4": true,
+    "require_answer_key_after_submit": true,
+    "require_source_annotations_after_submit": true,
+    "require_explanations_for_authenticated_student": true
+  },
+  "ui": {
+    "layout": "listening_audio_questions",
+    "post_submit_layout": "split_transcript_questions",
+    "allow_highlight": true,
+    "allow_review_flag": true,
+    "show_results_after_submit": true
+  }
+}

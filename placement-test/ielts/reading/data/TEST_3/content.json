@@ -1,0 +1,137 @@
+{
+  "schema_version": "saola.reading_content.v1",
+  "test_id": "vol_09_t3_rd",
+  "module": "reading",
+  "title": "Vol 9 Reading Test 3",
+  "passages": [
+    {
+      "passage_id": "p1",
+      "passage_number": 1,
+      "title": "New Understanding of Giraffes in the Wild",
+      "sections": [
+        {
+          "section_id": "A",
+          "content_html": "<p>Even as the tallest animals on Earth, giraffes can be easy to overlook. Despite being a favorite in zoos, until recently almost nobody studied giraffes in the wild. &#x27;When I first became interested in giraffes in 2008 and started looking through the scientific literature, I was really surprised to see how little had been done,&#x27; said Megan Strauss, an animal researcher at the University of Minnesota, USA. All that is changing fast, as a growing number of researchers seek to understand the biology and complex behavior of this graceful giant in its native habitat.</p>"
+        },
+        {
+          "section_id": "B",
+          "content_html": "<p>Giraffes, found throughout sub-Saharan Africa, are currently classified as a single species with up to nine varieties that differ by features like head shape and whether the fur on their legs is plain or patterned. The giraffe is not listed as endangered, but researchers point to evidence that in the past 15 years, the population has fallen some 40 percent.</p>"
+        },
+        {
+          "section_id": "C",
+          "content_html": "<p>Recent studies have allowed researchers new insights into giraffes&#x27; social structures. Groups of female giraffes, for example, have been found to form close friendships that can last for years. &#x27;We&#x27;re just at the beginnings of trying to understand this kind of behavior,&#x27; Dr Strauss said. Female giraffes can live 20 years or more, and it makes sense they might rely on each other for clues to the best feeding grounds, help with taking care of their young, or the reduction of stress, by staying in groups.</p>"
+        },
+        {
+          "section_id": "D",
+          "content_html": "<p>Mother giraffes have displayed signs of grief after losing their young, known as calves, to lions. Dr Strauss described one case in which a mother spent four days at the place where a lion had eaten her calf, refusing food, and often in the company of two other adult females. Giraffe calves are extremely vulnerable to predators, and though mothers will fight valiantly to keep their young alive — kicking forward and backward — half of all calves are killed in their first year of life.</p>"
+        },
+        {
+          "section_id": "E",
+          "content_html": "<p>Male giraffes, known as bulls, generally become more important with age, and older bulls display that dominance physically and behaviorally: as their neck muscles grow, the male&#x27;s posture becomes prouder and more vertical. Recent observations show young bulls, when left on their own, mimicking their elders: head held high and neck puffed out. But should a dominant older bull come into view, the younger males instantly try to make themselves look small and innocent.</p>"
+        },
+        {
+          "section_id": "F",
+          "content_html": "<p>The younger bulls have reason to fear their elders. Clashes have been witnessed between adults when each bull repeatedly &#x27;necks&#x27; the other, using his massive neck to slam his head against his rival. One bull somehow survived with a broken neck.</p>"
+        },
+        {
+          "section_id": "G",
+          "content_html": "<p><strong><em>Physical features of giraffes: study findings</strong></em></p>"
+        },
+        {
+          "section_id": "H",
+          "content_html": "<p>The skin of a giraffe is mostly gray. The coat has dark patches separated by light hair, which serves as camouflage, allowing them to blend in with the light and shade patterns of the acacia trees from which they feed. Grazing giraffes are hard to see even a few meters away.</p>"
+        },
+        {
+          "section_id": "I",
+          "content_html": "<p>Research indicates that giraffes also have excellent sight, can see in color and over great distances, which helps them to spot lions and keep track of each other. In addition, a giraffe&#x27;s extraordinary mouth has lips and tongue that can together grasp a branch and then pluck away the leaves while avoiding thorns, almost as humans would grab with their hands. Each day, a giraffe consumes about 30 kilograms of leaves, shoots and vines, all digested in its four-chambered stomach.</p>"
+        },
+        {
+          "section_id": "J",
+          "content_html": "<p>A giraffe can stand more than six meters tall, with its neck accounting for roughly a third of its height and its legs the same. The giraffe&#x27;s long neck is due to the length of the vertebrae, not the number of vertebrae. The growth of the neck largely takes place during early childhood, as giraffe mothers would have a difficult time giving birth to young with longer necks. The giraffe&#x27;s head and neck are held up by large muscles attached to the lower spine.</p>"
+        },
+        {
+          "section_id": "K",
+          "content_html": "<p>Recent studies show that the greatest challenge to the giraffe&#x27;s cardiovascular system is how to both pump blood very high and retrieve it from far below. The outside of a giraffe&#x27;s veins are extremely thick, to prevent blood leaking into surrounding tissue. Other adaptations in the cardiovascular system allow the giraffe to bend over for a drink of water, and then raise its head again quickly without fainting.</p>"
+        },
+        {
+          "section_id": "L",
+          "content_html": "<p>Researchers were also surprised to find that a giraffe does not have an unusually large heart. It is half a percent of body mass, the same as in a mouse. Moreover, the amount of blood pumped into circulation is modest, proportionally lower than it is in humans. That could help explain why giraffes rarely run for very long: enough oxygen cannot be delivered to their muscles fast enough for them to keep running. Or maybe the giraffes are worried about tripping over their own feet. This is because signals from the nerves travel at about the same speed in giraffes as in rats or other mammals. Given the greater distance they have to travel in the giraffe to reach the brain, it is possible the giraffe faces real challenges in reacting quickly to a rock beneath its hoof or a bite to its ankle.</p>"
+        },
+        {
+          "section_id": "M",
+          "content_html": "<p>New understanding of this wonderful animal sheds light on both its physiology and its behavior. Researchers hope to use this knowledge to increase their ability to work with preservation, as its habitat is reduced and the giraffe becomes scarcer.</p>"
+        }
+      ]
+    },
+    {
+      "passage_id": "p2",
+      "passage_number": 2,
+      "title": "Healthy buildings, productive people",
+      "sections": [
+        {
+          "section_id": "A",
+          "content_html": "<p>Have you felt tired at your desk lately? According to new research, some often overlooked environmental factors within buildings – the degree or type of ventilation, airborne contaminants, lighting and noise levels, for example – can play a surprisingly large role in how good or bad you feel, and even how well you think. It is estimated that we spend more than 90 percent of our time inside, but builders in general have paid little attention to the health aspects of indoor spaces, instead focusing on superficial design features and on meeting minimum environmental standards to keep costs down.</p>"
+        },
+        {
+          "section_id": "B",
+          "content_html": "<p>Researchers at Harvard University in the US looked at the effects of indoor air quality on workers&#x27; cognitive performance – important both for health and for companies&#x27; bottom lines, says Joseph Allen, assistant professor of environmental health and principal investigator of the studies. ‘The true cost of running our buildings should take into account the health and productivity of people in those buildings,’ Allen says. In fact, an analysis by the team showed that the cost of making alterations that could boost cognitive performance significantly was minuscule compared with the related increase in productivity – about $40 per person, per year, compared with a $6,500 increase in employee productivity.</p>"
+        },
+        {
+          "section_id": "C",
+          "content_html": "<p>The team&#x27;s first study, published in Environmental Health Perspectives, was conducted at the Syracuse Center of Excellence, a US research organization devoted to studying and developing sustainability. The center houses a laboratory that allows researchers to test a wide range of indoor air quality factors using sophisticated ventilation. Each day, the indoor environment was controlled with a ventilation system which included small amounts of carbon dioxide and volatile organic compounds, or VOCs – the toxic by-products of office supplies commonly found in the workplace. The office workers were blinded to the conditions. For six days over two weeks, 24 office workers with administrative, technical, professional or managerial jobs came to the lab and performed their regular work under minimal supervision, as well as participating in an hour and a half of cognitive testing at the end of the day. The cognitive tasks used in the study had participants respond to online scenarios that mimic real-life situations, such as running a city as a mayor. The findings are remarkable for showing in a well-controlled study, that indoor air quality can significantly lower cognitive performance in buildings that would otherwise meet current building standards, notes environmental psychologist Craig Zimring, director of Georgia Tech University&#x27;s SimTigrate Design Lab in the US. ‘If these findings are replicated in other labs and in real-world work environments,’ he says, ‘they could lead to designs that provide much more outside air through mechanical ventilation or operable windows, for example’ – in turn, promoting better health and performance.</p>"
+        },
+        {
+          "section_id": "D",
+          "content_html": "<p>In a second study, reported in Building and Environment, the Harvard-Syracuse team moved from the lab to the real world. Using the same methodology, they compared test scores of 109 people working in 10 buildings – about 12 people per site – in two buildings in each of five cities. When the team examined the buildings for differences, they found that certified buildings had lower humidity levels and brighter light than the non-certified buildings. That said, the differences in humidity and lighting didn&#x27;t entirely explain the differing cognitive function scores of people on the job. This has led researchers to believe that other factors, such as how someone feels about their working environment, may also play a part, notes Harvard research fellow Piers MacNaughton, who led the study.</p>"
+        },
+        {
+          "section_id": "E",
+          "content_html": "<p>A recently constructed building on the Washington University campus in St. Louis, US, is providing another opportunity to examine how green building design can affect health and behavior. Hillman Hall was designed with the highest environmental and energy standards available, as well as design elements intended to foster more collaboration and physical activity, says Amy Eyler, associate professor and assistant dean for public health at the Brown School at Washington University. The design includes easy access to stairways, plenty of natural light, generous spaces for collaboration, desks that allow people to sit or stand up, and inviting places to walk. Unlike traditional hallways designed as long corridors with private offices to either side, for example, these hallways include classrooms, offices and spaces to sit, so they are multi-use – ‘you have many reasons to walk them,’ says Eyler. To test how the building might affect people&#x27;s behavior, Eyler conducted a pre-test before people moved in, and a post-test one year later. Her team collected data on the three main features the designers were attempting to foster: physical activity, collaboration and sustainable practices. Results showed that people were more likely to take part in spontaneous collaborations in the new space than in the older ones, and to be physically active.</p>"
+        },
+        {
+          "section_id": "F",
+          "content_html": "<p>Like other researchers in this growing field, Eyler sees multidisciplinary collaboration as the key to success. Administrators, public health faculty and architects worked together to create a building that captured the university&#x27;s vision for a space that fosters collegial work and health for faculty, staff and students – a shared goal evidenced by the fact that the architecture firm that designed the building also funded part of the research. ‘Complex projects like this one need teams of people with varied backgrounds and expertise in order to solve them,’ Eyler says.</p>"
+        }
+      ]
+    },
+    {
+      "passage_id": "p3",
+      "passage_number": 3,
+      "title": "Child's Play in Medieval England",
+      "sections": [
+        {
+          "section_id": "A",
+          "content_html": "<p>‘Play up! Play up! And play the game!’ The ringing chorus of Sir Henry Newbolt’s celebrated cricket poem Vitaï Lampada (1908) sums up views about play in 19th- and early 20th-century Britain. Children’s play was important, and adults should regulate and direct it. Games promoted endurance, self-discipline and team spirit – qualities needed for the health of society and government. Newbolt was one in a long line of people who thought in this way. The notion that children’s play should be used for educational and social purposes goes back at least to the ancient Greeks and the toys and games of medieval England tell us much about how adults then saw childhood. But they also reveal a good deal about children themselves, and cast light on what has recently become a controversial issue.</p>"
+        },
+        {
+          "section_id": "B",
+          "content_html": "<p>Forty years ago, the French historian Philippe Ariès argued, in Centuries of Childhood, that childhood in the Middle Ages did not exist in its modern sense. Children were regarded by adults with relatively little affection and followed a way of life not very different from that of their elders. More recent historians have disputed this, pointing to plentiful signs of parental affection and arguing that childhood, by its very nature, must always have been much the same.</p>"
+        },
+        {
+          "section_id": "C",
+          "content_html": "<p>In this debate play is crucial. Did adults encourage it? If so, did they see it as recreational (by providing toys, for example) or as educational (making children play in particular ways)? Did children play as their elders told them, or did they invent their own games, away from adults and even against their wishes? These questions can be answered from a rich body of evidence including actual toys of the period, pictures of children’s activities in contemporary manuscripts and literary sources such as religious works and dictionaries. We know not only how medieval English children played but what their elders thought on the subject.</p>"
+        },
+        {
+          "section_id": "D",
+          "content_html": "<p>We know, for example, that adults gave children toys from infancy onwards. In 1398 the writer John Trevisa describes babies playing with ‘a child’s brooch’, an object similar in function to the bright plastic toys given to babies today to bite and handle. William Horman, 16th-century author of a Latin textbook, talks of buying a rattle to stop a baby crying. Indeed, by 1300 it appears there was a toy industry in England. Boys’ toys often took military forms, such as the two metal soldiers of that date, found in London, and made from a mould. Girls had dolls, known before the 17th century as ‘poppets’ or puppets, commercially manufactured, imported and, in 1582, taxed at a halfpenny each. Not that children were by any means dependent on things that were bought for them. Gerald of Wales recalls how he and his brothers built towns, palaces, churches and monasteries from sand at Manorbier Castle in about 1150 (perhaps on the nearby beach).</p>"
+        },
+        {
+          "section_id": "E",
+          "content_html": "<p>Active games were universal. In his English-to-Latin dictionary of 1440, a mysterious recluse known as Geoffrey mentions children playing ‘tennis’ and swinging on what he calls a ‘totter’ or ‘merrytotter’. Children chased each other, swam and played ball games. Boys in the later Middle Ages shot arrows with bows and archery is an example of a sport encouraged by adults, who wanted boys to grow up to play their part in what was, for most men, a warrior society.</p>"
+        },
+        {
+          "section_id": "F",
+          "content_html": "<p>However, by no means all children’s military activity was directed by adults. In 1400, six months after King Richard II had been overthrown by Henry IV, the children of London gathered together and chose themselves kings. Adam of Usk tells us they congregated ‘in thousands … and made war upon each other … whereby many died’. The new king had to order their parents and masters to stop them.</p>"
+        },
+        {
+          "section_id": "G",
+          "content_html": "<p>This willingness of children to take the initiative in play, not just to wait for adults to direct them, is evident in the way they observed the calendar. Medieval life was regulated by light, weather, crops and the Church’s cycle of fasts and festivals. Children shared in the adult round of religious festivals, but had their own observances as well, semi-detached from their elders. In the 1200s, the priest Thomas Docking remarked that in spring a child ‘follows the ploughman; in autumn he accompanies the grape-gatherers’. In 1518, the poet Alexander Barclay records children playing with tops in March, looking for fruit in summer and making footballs by filling pigs’ bladders with dried peas in autumn.</p>"
+        },
+        {
+          "section_id": "H",
+          "content_html": "<p>It is clear from this evidence that the relationship between adults and children in medieval society was, in major respects, a modern one. Parents took an indulgent interest in their children, providing them with toys and giving them time to play. Children played in a wide variety of ways – imaginatively, skilfully, athletically and violently – developing their minds, bodies and social skills. Adults tried at times to direct play – partly to keep children in order, partly to give them skills for adult life – but children gravitated to one another and formed a culture of their own. We can answer Ariès’s thesis, then, with a resounding ‘No!’. Childhood has always been much the same.</p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "schema_version": "saola.reading_content.v1",
+  "test_id": "vol_09_t5_rd",
+  "module": "reading",
+  "title": "Vol 9 Reading Test 5",
+  "passages": [
+    {
+      "passage_id": "p1",
+      "passage_number": 1,
+      "title": "The origins of tennis",
+      "sections": [
+        {
+          "section_id": "A",
+          "content_html": "<p>The game of tennis has a very long history. It is officially still known as ‘lawn tennis,’ partly because it was originally only played on grass, and also to distinguish it from the older game known as ‘real tennis,’ from which the modern game developed.</p>"
+        },
+        {
+          "section_id": "B",
+          "content_html": "<p>Some people believe that the ancient Egyptians, Greeks, and Romans played various versions of tennis. No drawings or descriptions of any tennis-like games have been discovered, but a couple of Arabic words dating from ancient Egyptian times are cited as evidence. The theory goes that the name ‘tennis’ is derived from the Egyptian town of Tennis alongside the Nile, and the word ‘racquet’ evolved from the Arabic word for the palm of the hand, rahat.</p>"
+        },
+        {
+          "section_id": "C",
+          "content_html": "<p>Aside from these two Arabic words, there is no other evidence for any form of tennis prior to the year 1000. Most historians believe the origins of the game date back to 11th- and 12th-century France. It&#x27;s thought that French monks were the first to play a basic game of handball against their monastery buildings, or over a rope strung across a courtyard. Those who dispute more ancient origins argue that the name ‘tennis’ is derived from the French tenez, which meant something to the effect of ‘take this,’ said as one player would serve to the other.</p>"
+        },
+        {
+          "section_id": "D",
+          "content_html": "<p>This game took on the name jeu de paume, which means &quot;game of the hand or palm.&quot; But as they found playing with bare hands quite uncomfortable, players began using a simple glove, and later either a glove with webbing between the fingers or a solid paddle, similar to the ones used in table tennis today. Wooden racquets were not invented until much later.</p>"
+        },
+        {
+          "section_id": "E",
+          "content_html": "<p>The French nobility learned the game from the monks, and some accounts report as many as 1,800 tennis courts in France by the 13th century. The game, which remained exclusive to the upper classes, gained more popularity over the 14th and 15th centuries. As it became increasingly fashionable, outdoor courtyards were modified into indoor courts. The game became such a widespread diversion among the aristocracy that both the pope and the French king tried to ban it. By the 16th century, the game had spread to England, where it became known as ‘tennis.’ Both kings Henry VII and Henry VIII were avid players who promoted the building of courts, and it also became a very fashionable game among the English upper classes.</p>"
+        },
+        {
+          "section_id": "F",
+          "content_html": "<p>An example of one of these early ‘real tennis’ courts can be seen at the royal palace of Hampton Court near London. It was built in 1525 and is still used today. Only a handful of such courts remain. It is a tall, narrow indoor court, bearing more resemblance to a squash court than the type of tennis courts we are familiar with today. ‘Real tennis’ is a remarkably fast and difficult game as the ball can be bounced off any of the surfaces, some of which are slanted at odd angles. The net is just over 1.5 metres high at each end, but drops to just under a metre in the middle.</p>"
+        },
+        {
+          "section_id": "G",
+          "content_html": "<p>Until the 19th century, the ball was either constructed from a wad of hair, wool, or cork wrapped in string and cloth or leather. Then a major development took place when Charles Goodyear invented vulcanisation, a process that allows rubber to withstand heat and cold. This led to the development of rubber tennis balls. During the 1850s, players began to experiment with these new balls, which bounced easily on outdoor grass courts.</p>"
+        },
+        {
+          "section_id": "H",
+          "content_html": "<p>In 1874 a Welshman, Major Walter C. Wingfield, known as ‘the father of lawn tennis,’ had the idea of devising rules, which he published. He also introduced standardised equipment, including racquets, balls, posts, and a net, which he patented and sold in sets. The game quickly became a very popular and sociable open-air pursuit for the English middle classes. People also started playing tennis in countries such as the United States, Russia, India, Canada, and China.</p>"
+        },
+        {
+          "section_id": "I",
+          "content_html": "<p>However, not all of Wingfield’s ideas ultimately survived. Inspired by his knowledge of Greek, he called his version of tennis Sphairistike — a name which never caught on. Interestingly, his original court had the shape of an hourglass, with the net across its narrowest section.</p>"
+        },
+        {
+          "section_id": "J",
+          "content_html": "<p>A major tennis tournament took place for the first time in Wimbledon, London in 1877, and its organising committee came up with a rectangular court and a modified set of rules that are essentially the same as for the game we know today. The net was still high at the sides, a carryover from the game&#x27;s indoor ancestor. But by 1882, the specifications for the size of the court, the equipment, and the rules had evolved to their current form.</p>"
+        }
+      ]
+    },
+    {
+      "passage_id": "p2",
+      "passage_number": 2,
+      "title": "John Ray and the Study of Plants",
+      "sections": [
+        {
+          "section_id": "A",
+          "content_html": "<p>The 17th-century English scholar and botanist John Ray was well aware that he lived through, and participated in, a profound revolution in the way people interacted with nature. In the preface to his Synopsis of British Plants, published in 1690, he gave thanks that he had been born at a time when traditional dependence on the teaching of the Greek philosopher Aristotle (384–322 BCE) had given way to a new philosophy, based on experiment and observation of the real world, that we now call science.</p>"
+        },
+        {
+          "section_id": "B",
+          "content_html": "<p>Ray was born in 1627. His father was a village blacksmith, and his mother was also a respected member of the community, a healer who was an expert in folk medicine and the use of herbs to treat ailments. Ray must have stood out as an unusually bright boy among his schoolmates, and his talents were recognised by a church official, Samuel Covell, who had graduated from Cambridge University in 1600, and maintained his links with his university. Through his influence, Ray was admitted to Cambridge University in 1644 at the age of seventeen – a huge step for a village blacksmith’s son. There he made a solid start, and quickly gained a reputation as a brilliant student. He studied the classics (Greek, Latin and Hebrew) and mathematics, but there was nothing yet we would now call science in the curriculum. After graduating in 1648, he became a minor member of staff at Trinity College, Cambridge. He was appointed Lecturer in Greek in 1651, Lecturer in Mathematics in 1653, and Lecturer in Humanities in 1655.</p>"
+        },
+        {
+          "section_id": "C",
+          "content_html": "<p>Almost immediately after graduating, Ray also seems to have developed the interest to which he would devote the rest of his life: the study of the natural world. He explains this conversion into a naturalist – in particular into a botanist – in the preface to his first book, the Cambridge Catalogue of English Plants. Here Ray tells us that he suffered an illness in his early twenties, and was advised to take long walks and ride in the fresh air while recovering. While doing this, he became interested in the local flora, and finding nobody able to teach him, Ray investigated it for himself. He then went on to pass on the knowledge he acquired to others.</p>"
+        },
+        {
+          "section_id": "D",
+          "content_html": "<p>By the mid-1650s, even the first-year students at Trinity College were able to identify the plants and flowers around Cambridge, as they were being taught (unofficially – none of this was part of their formal education) by Ray. Many of them were the sons of landowners, and so had a natural, if amateurish, interest in country matters. But a few of them took his efforts to understand the natural world much more seriously. One of these, Francis Willughby, later played an important part in Ray’s life.</p>"
+        },
+        {
+          "section_id": "E",
+          "content_html": "<p>Having himself had no authority on the subject of plants on which to draw, Ray also started work on what would become his Cambridge Catalogue of English Plants. The work was not published until 1660 because, as Ray explained in the preface, he had to start from scratch:</p><p>“I had first to become familiar with the literature, to compare the plants that I found with the pictures, and when there seemed to be a resemblance, to go fully into any unknown descriptions. Gaining skill by experience, I acquired at last the ability to recognise to what tribe and family similars or could be assigned; this taught me to search for similarities and saved a vast deal of labour, which others would have spent in their difficulties. I was eager to make the most of this and was fortunate to share my enthusiasm with my friends …”</p>"
+        },
+        {
+          "section_id": "F",
+          "content_html": "<p>Ray’s Cambridge Catalogue of English Plants was much more than a simple list of species. It gave the names of plants found in the area around Cambridge and included information about where they grew and how common they were. In doing this, Ray was producing something that would be of practical use to students and other readers interested in the local natural world. At the same time, the book showed his determination to describe plants accurately, on the basis of direct examination rather than reliance on old authorities. In this respect, it reflected the spirit of the new learning that Ray admired.</p>"
+        },
+        {
+          "section_id": "G",
+          "content_html": "<p>Ray’s studies of plants were only the beginning of a much larger ambition. With the support of Francis Willughby, he began to imagine a more comprehensive investigation of nature, one that would attempt to classify living things according to careful observation of their shared characteristics. This was an ambitious undertaking, especially at a time when many aspects of the natural world remained poorly described. Yet Ray believed that by collecting evidence systematically and comparing related forms, it would be possible to build a more reliable understanding of nature than scholars had possessed before.</p>"
+        }
+      ]
+    },
+    {
+      "passage_id": "p3",
+      "passage_number": 3,
+      "title": "Sir Francis Ronalds 1788-1873",
+      "sections": [
+        {
+          "section_id": "A",
+          "content_html": "<p>Francis Ronalds was born in London in 1788, the second of eleven children. When he was nineteen his father died, and as the eldest son, the young Ronalds had to assume the responsibility of running the family&#x27;s cheese business. He combined this occupation with his passions for chemical experiments and for meteorology, the study of the Earth&#x27;s atmosphere and its changes. This brought him into contact with the elderly Swiss meteorologist Jean Andre de Luc, who was also an inspired inventor in the field of electricity. In 1814, de Luc encouraged Ronalds to start work on this new discipline.</p>"
+        },
+        {
+          "section_id": "B",
+          "content_html": "<p>For the next few years, Ronalds experimented enthusiastically with various kinds of electrostatic clockwork devices. He was particularly interested in the idea of electric telegraphy: transmitting messages over distance, using electrical impulses carried along metal wires. In the best traditions of nineteenth- century scientists, these investigations were carried out at home. In early 1816, Ronalds gutted the family home in Hammersmith, West London, and covered its rooms, halls, and staircases with electric wire. This experiment involved the use of current to produce movement in small corks at the ends of circuits.</p>"
+        },
+        {
+          "section_id": "C",
+          "content_html": "<p>Some months later, Ronalds built two large wooden frames accommodating 8 miles (12.9 km) ofelectrically charged iron wire in his back garden. At either end of the wire was a revolving disc, on which letters and numbers were engraved. These dials were kept revolving by means of a clockwork mechanism. When somebody wanted to send a message, he would wait until the dial at his end was showing the desired number or letter, and then interrupt the charge on the wire. This would cause two balls suspended on the wire to fall together. The person at the opposite end would then note down what was indicated by the dial at his end at the moment when the balls made contact. Ronalds soon developed a modified version of his invention in which the wire was encased in glass tubes and buried in the ground. The system was slow and depended on the two dials staying in step, but it worked.</p>"
+        },
+        {
+          "section_id": "D",
+          "content_html": "<p>Ronalds immediately contacted the Admiralty, the department of the British government which had control over the nation&#x27;s naval affairs. He was not the first to propose a system of this nature to them. Some ten years earlier, in 1806, the inventor Ralph Wedgwood had offered the Admiralty a similar type of telegraph based on frictional electricity, which it had rejected. The Admiralty had its home in London, whereas its naval fleets were based over 130 km away in Portsmouth. With communication between these two cities in mind, Ronalds wrote to Lord Melville, the then First Lord of the Admiralty, to offer him his telegraphic system.</p>"
+        },
+        {
+          "section_id": "E",
+          "content_html": "<p>Ronalds believed that his invention was capable of carrying messages some 800 km, and in his letter to Lord Melville written on 11 July 1816 he spoke of the &#x27;mode of conveying telegraphic intelligence with great rapidity, accuracy, and certainty, in all states of the atmosphere, either at night or in the day, and at small expense.&#x27; In 1816, the Admiralty had at its disposal only the late eighteenth-century telegraphic system of semaphore, whereby a mechanical device was used to control a mast with two arms. The disadvantage of this system was that it was only usable in daylight and in clear weather conditions. Nevertheless, John Barrow, Secretary to the Admiralty, wrote back to Ronalds on 5 August, saying that &#x27;telegraphs of any kind are wholly unnecessary, and NO other than the one now in use will be adopted.&#x27;</p>"
+        },
+        {
+          "section_id": "F",
+          "content_html": "<p>Ronalds did not pursue the matter further or attempt to patent his telegraph. However, in a smallpamphlet published in 1823, he described his invention and listed some of its potential uses: &#x27;Why should not government govern at Portsmouth almost as promptly as in Downing Street? Why should our defaulters escape by default of our foggy climate? Let us have Electrical Conversazione offices communicating with each other all over the kingdom if we can.&#x27;</p><p>Although Ronalds lived long enough to see his prophecies come to fruition, he made NO further contribution to the progress of telegraphic communication. In 1843, he was appointed the first Honorary Director and Superintendent of the Observatory at Kew, where he devised an accurate, automatic system for registering meteorological data using photography. A similar system was developed independently by Charles Brooke, but the British Association of Meteorologists confirmed Ronalds&#x27;s priority. His system remained in use for many decades.</p>"
+        },
+        {
+          "section_id": "G",
+          "content_html": "<p>Meanwhile, the people who benefited most directly from Ronalds&#x27;s telegraphic work were the physicist Charles Wheatstone and his business partner William Cooke. They saw the potential of a rapid communication system for the growing number of private railway companies, and in 1837 they developed the Wheatstone-Cooke five-needle telegraph. The pair patented their design in the same year, the first of its kind to be officially registered, and reaped considerable financial gain as a result. Ronalds himself retired in 1852 and devoted his later years to collecting and cataloguing a vast library of published material on electricity and magnetism. In 1870, three years before he died, he was knighted by Queen Victoria, a belated honour in recognition of his &#x27;early and remarkable labours in telegraphic investigations.&#x27;</p>"
+        }
+      ]
+    }
+  ]
+}

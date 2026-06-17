@@ -1,0 +1,509 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t1_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>??p ?n:</strong> 80</p><p><strong>Keyword trong c?u h?i:</strong> weekly rent, $</p><p><strong>Th?ng tin trong b?i nghe:</strong> yours is $80, because it's a bit smaller</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "yours is $80, because it's a bit smaller"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence",
+        "ls_detail"
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>??p ?n:</strong> garage</p><p><strong>Keyword trong c?u h?i:</strong> park his car</p><p><strong>Th?ng tin trong b?i nghe:</strong> this house has a garage, plenty of room for your car</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "this house has a garage, plenty of room for your car"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence",
+        "ls_detail"
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>??p ?n:</strong> kitchen</p><p><strong>Keyword trong c?u h?i:</strong> telephone</p><p><strong>Th?ng tin trong b?i nghe:</strong> it's in the kitchen</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "it's in the kitchen"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence",
+        "ls_detail"
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>??p ?n:</strong> heater</p><p><strong>Keyword trong c?u h?i:</strong> bring, bedroom</p><p><strong>Th?ng tin trong b?i nghe:</strong> doesn't have a heater -> I'll bring that</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "doesn't have a heater -> I'll bring that"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence",
+        "ls_detail"
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>??p ?n:</strong> toaster</p><p><strong>Keyword trong c?u h?i:</strong> Peter would like Jim to bring</p><p><strong>Th?ng tin trong b?i nghe:</strong> it would be great if you had a toaster</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "it would be great if you had a toaster"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence",
+        "ls_detail"
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>??p ?n:</strong> Friday evening</p><p><strong>Keyword trong c?u h?i:</strong> watch TV</p><p><strong>Th?ng tin trong b?i nghe:</strong> I usually watch the game on TV on Friday evening; Me too</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "I usually watch the game on TV on Friday evening; Me too"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence",
+        "ls_detail"
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>??p ?n:</strong> supermarket</p><p><strong>Keyword trong c?u h?i:</strong> works in, twice a week</p><p><strong>Th?ng tin trong b?i nghe:</strong> I work at the supermarket on Tuesday and Thursday nights</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "I work at the supermarket on Tuesday and Thursday nights"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence",
+        "ls_detail"
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>??p ?n:</strong> petrol</p><p><strong>Keyword trong c?u h?i:</strong> share the cost</p><p><strong>Th?ng tin trong b?i nghe:</strong> We can share the petrol</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "We can share the petrol"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence",
+        "ls_detail"
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>??p ?n:</strong> 1st of June</p><p><strong>Keyword trong c?u h?i:</strong> move in by</p><p><strong>Th?ng tin trong b?i nghe:</strong> I need someone by the 1st of June</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "I need someone by the 1st of June"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence",
+        "ls_detail"
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>??p ?n:</strong> exam</p><p><strong>Keyword trong c?u h?i:</strong> move in after</p><p><strong>Th?ng tin trong b?i nghe:</strong> I've got an exam next week, so I'll move in after that</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "I've got an exam next week, so I'll move in after that"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence",
+        "ls_detail"
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>??p ?n:</strong> 8:55</p><p><strong>Keyword trong c?u h?i:</strong> school day starts, registration</p><p><strong>Th?ng tin trong b?i nghe:</strong> bell is rung... at 8.55 so that we can take the register</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "bell is rung... at 8.55 so that we can take the register"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence"
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>??p ?n:</strong> hot meal</p><p><strong>Keyword trong c?u h?i:</strong> canteen offers, lunch</p><p><strong>Th?ng tin trong b?i nghe:</strong> a hot meal is available</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "a hot meal is available"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence"
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>??p ?n:</strong> 15 minutes</p><p><strong>Keyword trong c?u h?i:</strong> breaks each last</p><p><strong>Th?ng tin trong b?i nghe:</strong> two breaks of 15 minutes</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "two breaks of 15 minutes"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence"
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>??p ?n:</strong> sports</p><p><strong>Keyword trong c?u h?i:</strong> Thursday afternoons, must take part</p><p><strong>Th?ng tin trong b?i nghe:</strong> whole school to do sports</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "whole school to do sports"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence"
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>??p ?n:</strong> poster</p><p><strong>Keyword trong c?u h?i:</strong> every term, special</p><p><strong>Th?ng tin trong b?i nghe:</strong> each of the three terms... produce a poster</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "each of the three terms... produce a poster"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence"
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>??p ?n:</strong> month</p><p><strong>Keyword trong c?u h?i:</strong> tests each</p><p><strong>Th?ng tin trong b?i nghe:</strong> every month... they have to do tests</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "every month... they have to do tests"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence"
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>??p ?n:</strong> clubs</p><p><strong>Keyword trong c?u h?i:</strong> after school, learn new skills</p><p><strong>Th?ng tin trong b?i nghe:</strong> clubs... for an extra hour to learn a new skill</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "clubs... for an extra hour to learn a new skill"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_sentence"
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>??p ?n:</strong> E</p><p><strong>Keyword trong c?u h?i:</strong> plan label, main entrance, right</p><p><strong>Th?ng tin trong b?i nghe:</strong> on the right... you'll see the Head's office</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "on the right... you'll see the Head's office"
+        }
+      ],
+      "skill_tags": [
+        "ls_label_plan"
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> plan label, left of classrooms</p><p><strong>Th?ng tin trong b?i nghe:</strong> converted one of the old cloakrooms to create a music room</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "converted one of the old cloakrooms to create a music room"
+        }
+      ],
+      "skill_tags": [
+        "ls_label_plan"
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>??p ?n:</strong> G</p><p><strong>Keyword trong c?u h?i:</strong> plan label, old assembly hall</p><p><strong>Th?ng tin trong b?i nghe:</strong> old assembly hall... turned into a gym</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "old assembly hall... turned into a gym"
+        }
+      ],
+      "skill_tags": [
+        "ls_label_plan"
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> defining forensic linguistics, agree</p><p><strong>Th?ng tin trong b?i nghe:</strong> add something about what forensic linguists actually do; Good point</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "add something about what forensic linguists actually do; Good point"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> difficult to analyse voice recording</p><p><strong>Th?ng tin trong b?i nghe:</strong> recording is very unclear</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "recording is very unclear"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> suspect might vary voice patterns</p><p><strong>Th?ng tin trong b?i nghe:</strong> because the tutor suggests they do that</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "because the tutor suggests they do that"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> Rob thinks about Jen's approach</p><p><strong>Th?ng tin trong b?i nghe:</strong> don't start your usual self-doubt</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "don't start your usual self-doubt"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> books from library</p><p><strong>Th?ng tin trong b?i nghe:</strong> get out Modern Forensic Techniques</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "get out Modern Forensic Techniques"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>??p ?n:</strong> E</p><p><strong>Keyword trong c?u h?i:</strong> books from library</p><p><strong>Th?ng tin trong b?i nghe:</strong> Research Methods... ought to borrow</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "Research Methods... ought to borrow"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>??p ?n:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> practical considerations, concerned</p><p><strong>Th?ng tin trong b?i nghe:</strong> how we're going to record the voices; Me neither</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "how we're going to record the voices; Me neither"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> practical considerations, concerned</p><p><strong>Th?ng tin trong b?i nghe:</strong> worried about fitting in the writing up; loads of other assignments</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "worried about fitting in the writing up; loads of other assignments"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> Rob write alone</p><p><strong>Th?ng tin trong b?i nghe:</strong> introductions... Leave that to me</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "introductions... Leave that to me"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>??p ?n:</strong> E</p><p><strong>Keyword trong c?u h?i:</strong> Rob write alone</p><p><strong>Th?ng tin trong b?i nghe:</strong> if you feel comfortable doing the discussion and conclusions</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "if you feel comfortable doing the discussion and conclusions"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>??p ?n:</strong> resources</p><p><strong>Keyword trong c?u h?i:</strong> save available</p><p><strong>Th?ng tin trong b?i nghe:</strong> conserve the resources available to them</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "conserve the resources available to them"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>??p ?n:</strong> stressful</p><p><strong>Keyword trong c?u h?i:</strong> environmentally</p><p><strong>Th?ng tin trong b?i nghe:</strong> survive conditions which are stressful in environmental terms</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "survive conditions which are stressful in environmental terms"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>??p ?n:</strong> competition</p><p><strong>Keyword trong c?u h?i:</strong> less, other animals</p><p><strong>Th?ng tin trong b?i nghe:</strong> amount of competition... greatly reduced</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "amount of competition... greatly reduced"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>??p ?n:</strong> light</p><p><strong>Keyword trong c?u h?i:</strong> changes in temperature and</p><p><strong>Th?ng tin trong b?i nghe:</strong> changes in temperature and the amount of light</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "changes in temperature and the amount of light"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>??p ?n:</strong> reduction</p><p><strong>Keyword trong c?u h?i:</strong> metabolism, insects</p><p><strong>Th?ng tin trong b?i nghe:</strong> insects can experience a reduction in their metabolism</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "insects can experience a reduction in their metabolism"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>??p ?n:</strong> mud</p><p><strong>Keyword trong c?u h?i:</strong> African lungfish, buries itself</p><p><strong>Th?ng tin trong b?i nghe:</strong> burrows deep into the mud</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "burrows deep into the mud"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>??p ?n:</strong> starvation</p><p><strong>Keyword trong c?u h?i:</strong> two dangers</p><p><strong>Th?ng tin trong b?i nghe:</strong> one is the possibility of starvation</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "one is the possibility of starvation"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>??p ?n:</strong> evaporation</p><p><strong>Keyword trong c?u h?i:</strong> shells, reflect sunlight, limit</p><p><strong>Th?ng tin trong b?i nghe:</strong> minimising evaporation</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "minimising evaporation"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>??p ?n:</strong> nest</p><p><strong>Keyword trong c?u h?i:</strong> insulated, underground</p><p><strong>Th?ng tin trong b?i nghe:</strong> digs underground and builds a nest that is insulated</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "digs underground and builds a nest that is insulated"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>??p ?n:</strong> heart</p><p><strong>Keyword trong c?u h?i:</strong> first part to heat up</p><p><strong>Th?ng tin trong b?i nghe:</strong> area around the heart warms more quickly</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "area around the heart warms more quickly"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    }
+  }
+}

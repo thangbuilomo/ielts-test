@@ -1,0 +1,225 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "test_id": "vol_09_t2_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit"
+  },
+  "scoring": {
+    "raw_score_max": 40,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "month"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "orange"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "east"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "trousers"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "state"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "general"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "museum"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "one hour",
+        "1 hour"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "5.30",
+        "5:30"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "zoom"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "G"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "I"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q21": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q22": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q23": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q24": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q25": {
+      "answers": [
+        "H"
+      ]
+    },
+    "q26": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q27": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q28": {
+      "answers": [
+        "G"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "F"
+      ]
+    },
+    "q31": {
+      "answers": [
+        "the number of"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "internal clock",
+        "the internal clock"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "light and dark"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "unsocial hours"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "stomach"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "depression"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "mental abilities"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "performance"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "family life"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "peer group"
+      ]
+    }
+  }
+}

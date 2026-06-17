@@ -1,0 +1,496 @@
+{
+  "schema_version": "saola.questions.v1",
+  "test_id": "vol_09_t3_rd",
+  "module": "reading",
+  "question_count": 40,
+  "question_groups": [
+    {
+      "group_id": "vol_09_t3_rd_p1_g1",
+      "passage_id": "p1",
+      "question_range": [
+        1,
+        7
+      ],
+      "question_type": "tfng",
+      "skill_tags": [
+        "rd_tfng"
+      ],
+      "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+      "items": [
+        {
+          "question_id": "q1",
+          "number": 1,
+          "prompt_html": "The amount of research on giraffes in their natural environment has increased lately."
+        },
+        {
+          "question_id": "q2",
+          "number": 2,
+          "prompt_html": "Megan Strauss disapproves of keeping giraffes in zoos."
+        },
+        {
+          "question_id": "q3",
+          "number": 3,
+          "prompt_html": "The number of giraffes in Africa has nearly doubled."
+        },
+        {
+          "question_id": "q4",
+          "number": 4,
+          "prompt_html": "Female giraffes tend to live longer than males."
+        },
+        {
+          "question_id": "q5",
+          "number": 5,
+          "prompt_html": "Mother giraffes sometimes use their legs to defend their young."
+        },
+        {
+          "question_id": "q6",
+          "number": 6,
+          "prompt_html": "Younger bulls hold their necks higher in the presence of more powerful males."
+        },
+        {
+          "question_id": "q7",
+          "number": 7,
+          "prompt_html": "Male giraffes have been observed fighting."
+        }
+      ],
+      "options": [
+        {
+          "label": "TRUE",
+          "text": "if the statement agrees with the information"
+        },
+        {
+          "label": "FALSE",
+          "text": "if the statement contradicts the information"
+        },
+        {
+          "label": "NOT GIVEN",
+          "text": "if there is no information on this"
+        }
+      ],
+      "prompt_html": ""
+    },
+    {
+      "group_id": "vol_09_t3_rd_p1_g2",
+      "passage_id": "p1",
+      "question_range": [
+        8,
+        13
+      ],
+      "question_type": "table_completion",
+      "skill_tags": [
+        "rd_comp_table"
+      ],
+      "instruction": "Complete the table below.",
+      "items": [
+        {
+          "question_id": "q8",
+          "number": 8,
+          "prompt_html": "Question 8"
+        },
+        {
+          "question_id": "q9",
+          "number": 9,
+          "prompt_html": "Question 9"
+        },
+        {
+          "question_id": "q10",
+          "number": 10,
+          "prompt_html": "Question 10"
+        },
+        {
+          "question_id": "q11",
+          "number": 11,
+          "prompt_html": "Question 11"
+        },
+        {
+          "question_id": "q12",
+          "number": 12,
+          "prompt_html": "Question 12"
+        },
+        {
+          "question_id": "q13",
+          "number": 13,
+          "prompt_html": "Question 13"
+        }
+      ],
+      "prompt_html": "<p>Complete the table below.</p><table><thead><tr><th><strong>Physical features</strong></th><th><strong>Study findings</strong></th></tr></thead><tbody><tr><td>Skin/Coat</td><td>Provides  &lt;blank data-qid=&quot;q8&quot;/&gt; when standing near trees</td></tr><tr><td>Eyes</td><td>Let them look out for lions</td></tr><tr><td>Mouth</td><td>Can be used like  &lt;blank data-qid=&quot;q9&quot;/&gt; to get leaves</td></tr><tr><td>Neck</td><td>About equal in length to the legs  Length develops in childhood to provide an easier  &lt;blank data-qid=&quot;q10&quot;/&gt; for mothers</td></tr><tr><td>Cardiovascular system</td><td>Extra strong  &lt;blank data-qid=&quot;q11&quot;/&gt; keep blood from spilling into other tissue</td></tr><tr><td>&lt;blank data-qid=&quot;q12&quot;/&gt;</td><td>Normal size for such a large animal</td></tr><tr><td>Nerves</td><td>Slower reaction time because  &lt;blank data-qid=&quot;q13&quot;/&gt; need to go farther to the brain</td></tr></tbody></table><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p>"
+    },
+    {
+      "group_id": "vol_09_t3_rd_p2_g1",
+      "passage_id": "p2",
+      "question_range": [
+        14,
+        19
+      ],
+      "question_type": "matching_headings",
+      "skill_tags": [
+        "rd_match_headings",
+        "rd_main_idea"
+      ],
+      "instruction": "Reading Passage 2 has seven paragraphs.<br/>Choose the correct heading for each paragraph from the list of headings below.",
+      "items": [
+        {
+          "question_id": "q14",
+          "number": 14,
+          "prompt_html": "Paragraph A"
+        },
+        {
+          "question_id": "q15",
+          "number": 15,
+          "prompt_html": "Paragraph B"
+        },
+        {
+          "question_id": "q16",
+          "number": 16,
+          "prompt_html": "Paragraph C"
+        },
+        {
+          "question_id": "q17",
+          "number": 17,
+          "prompt_html": "Paragraph D"
+        },
+        {
+          "question_id": "q18",
+          "number": 18,
+          "prompt_html": "Paragraph E"
+        },
+        {
+          "question_id": "q19",
+          "number": 19,
+          "prompt_html": "Paragraph F"
+        }
+      ],
+      "options": [
+        {
+          "label": "i",
+          "text": "The effects of a new environmentally friendly building on the people who work there"
+        },
+        {
+          "label": "ii",
+          "text": "The ability of well – designed workplaces to attract the best staff"
+        },
+        {
+          "label": "iii",
+          "text": "The assessment of workplaces in several locations"
+        },
+        {
+          "label": "iv",
+          "text": "The low priority given to making buildings healthy for users"
+        },
+        {
+          "label": "v",
+          "text": "Achieving design efficiency by involving a range of specialists"
+        },
+        {
+          "label": "vi",
+          "text": "Workers were assessed outside of their usual workplaces"
+        },
+        {
+          "label": "vii",
+          "text": "Workplace changes based on worker feeback"
+        },
+        {
+          "label": "viii",
+          "text": "The financial benefits of efficient workplaces"
+        }
+      ],
+      "prompt_html": ""
+    },
+    {
+      "group_id": "vol_09_t3_rd_p2_g2",
+      "passage_id": "p2",
+      "question_range": [
+        20,
+        23
+      ],
+      "question_type": "matching_features",
+      "skill_tags": [
+        "rd_match_features",
+        "rd_detail"
+      ],
+      "instruction": "Look at the following statements and the list of researchers below.<br/>Match each statement with the correct researcher, A, B, C, or D.<br/>Choose the correct letter, A, B, C, or D , in boxes 20-23 .<br/>NB You may use any letter more than once.<br/><br/>List of Researchers<br/>A Joseph Allen<br/>B Craig Zimring<br/>C Piers MacNaughton<br/>D Amy Eyler",
+      "items": [
+        {
+          "question_id": "q20",
+          "number": 20,
+          "prompt_html": "Further investigations will result in improved wellbeing and efficiency."
+        },
+        {
+          "question_id": "q21",
+          "number": 21,
+          "prompt_html": "A person&#x27;s opinion of their workspace may influence how well they perform at work."
+        },
+        {
+          "question_id": "q22",
+          "number": 22,
+          "prompt_html": "The design of a workplace can have an impact on how much staff work with their colleagues."
+        },
+        {
+          "question_id": "q23",
+          "number": 23,
+          "prompt_html": "A worker&#x27;s mental capacity may be considerably reduced due to their working environment."
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Joseph Allen"
+        },
+        {
+          "label": "B",
+          "text": "Craig Zimring"
+        },
+        {
+          "label": "C",
+          "text": "Piers MacNaughton"
+        },
+        {
+          "label": "D",
+          "text": "Amy Eyler"
+        }
+      ],
+      "prompt_html": ""
+    },
+    {
+      "group_id": "vol_09_t3_rd_p2_g3",
+      "passage_id": "p2",
+      "question_range": [
+        24,
+        26
+      ],
+      "question_type": "summary_completion",
+      "skill_tags": [
+        "rd_comp_summary"
+      ],
+      "instruction": "Complete the summary below.<br/>Write ONE WORD ONLY from the passage for each answer.",
+      "items": [
+        {
+          "question_id": "q24",
+          "number": 24,
+          "prompt_html": "Question 24"
+        },
+        {
+          "question_id": "q25",
+          "number": 25,
+          "prompt_html": "Question 25"
+        },
+        {
+          "question_id": "q26",
+          "number": 26,
+          "prompt_html": "Question 26"
+        }
+      ],
+      "prompt_html": "<p>Complete the summary below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p><strong>Harvard study published in Environmental Health Perspectives</strong></p><p>Allen&#x27;s first study was done at the Syracuse Center, which focuses on researching &lt;blank data-qid=&quot;q24&quot;/&gt;. In this study, a complex ventilation system was used to control the airflow in the simulated workplace. All staff carried out normal duties during the day without much    . Later in the day participants were assessed as they &lt;blank data-qid=&quot;q25&quot;/&gt; performed tasks which required them to play a role, for example acting as &lt;blank data-qid=&quot;q26&quot;/&gt; while dealing with practical problems.</p>"
+    },
+    {
+      "group_id": "vol_09_t3_rd_p3_g1",
+      "passage_id": "p3",
+      "question_range": [
+        27,
+        31
+      ],
+      "question_type": "matching_information",
+      "skill_tags": [
+        "rd_match_information",
+        "rd_scanning"
+      ],
+      "instruction": "Reading Passage 3 has eight paragraphs, A–H .<br/>Which paragraph contains the following information?<br/>Choose the correct letter, A–H , in boxes 27–31 .",
+      "items": [
+        {
+          "question_id": "q27",
+          "number": 27,
+          "prompt_html": "economic evidence for play in medieval England"
+        },
+        {
+          "question_id": "q28",
+          "number": 28,
+          "prompt_html": "an example of how children created their own toys"
+        },
+        {
+          "question_id": "q29",
+          "number": 29,
+          "prompt_html": "an example of warlike play approved by grown-ups"
+        },
+        {
+          "question_id": "q30",
+          "number": 30,
+          "prompt_html": "a political event mirrored in children’s play"
+        },
+        {
+          "question_id": "q31",
+          "number": 31,
+          "prompt_html": "the origin of an academic debate about medieval life"
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Paragraph A"
+        },
+        {
+          "label": "B",
+          "text": "Paragraph B"
+        },
+        {
+          "label": "C",
+          "text": "Paragraph C"
+        },
+        {
+          "label": "D",
+          "text": "Paragraph D"
+        },
+        {
+          "label": "E",
+          "text": "Paragraph E"
+        },
+        {
+          "label": "F",
+          "text": "Paragraph F"
+        },
+        {
+          "label": "G",
+          "text": "Paragraph G"
+        },
+        {
+          "label": "H",
+          "text": "Paragraph H"
+        }
+      ],
+      "prompt_html": ""
+    },
+    {
+      "group_id": "vol_09_t3_rd_p3_g2",
+      "passage_id": "p3",
+      "question_range": [
+        32,
+        35
+      ],
+      "question_type": "matching_features",
+      "skill_tags": [
+        "rd_match_features",
+        "rd_detail"
+      ],
+      "instruction": "Look at the following dates and the list of events below.<br/>Match each date with the correct event, A–J.<br/>Choose the correct letter, A–J , in boxes 32–35 .<br/><br/>List of Events<br/>A invention of cricket<br/>B children picking grapes<br/>C poem about value of games<br/>D early toy manufacturing in England<br/>E puppets first imported into England<br/>F dolls taxed in England<br/>G death of Adam of Usk<br/>H children playing tennis<br/>I children’s gang warfare<br/>J a description of seasonal activities",
+      "items": [
+        {
+          "question_id": "q32",
+          "number": 32,
+          "prompt_html": "1400:_________"
+        },
+        {
+          "question_id": "q33",
+          "number": 33,
+          "prompt_html": "1518:_________"
+        },
+        {
+          "question_id": "q34",
+          "number": 34,
+          "prompt_html": "1582:_________"
+        },
+        {
+          "question_id": "q35",
+          "number": 35,
+          "prompt_html": "1908:_________"
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "invention of cricket"
+        },
+        {
+          "label": "B",
+          "text": "children picking grapes"
+        },
+        {
+          "label": "C",
+          "text": "poem about value of games"
+        },
+        {
+          "label": "D",
+          "text": "early toy manufacturing in England"
+        },
+        {
+          "label": "E",
+          "text": "puppets first imported into England"
+        },
+        {
+          "label": "F",
+          "text": "dolls taxed in England"
+        },
+        {
+          "label": "G",
+          "text": "death of Adam of Usk"
+        },
+        {
+          "label": "H",
+          "text": "children playing tennis"
+        },
+        {
+          "label": "I",
+          "text": "children’s gang warfare"
+        },
+        {
+          "label": "J",
+          "text": "a description of seasonal activities"
+        }
+      ],
+      "prompt_html": ""
+    },
+    {
+      "group_id": "vol_09_t3_rd_p3_g3",
+      "passage_id": "p3",
+      "question_range": [
+        36,
+        40
+      ],
+      "question_type": "ynng",
+      "skill_tags": [
+        "rd_ynng"
+      ],
+      "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "items": [
+        {
+          "question_id": "q36",
+          "number": 36,
+          "prompt_html": "Little is known about adult attitudes to children’s play in the Middle Ages."
+        },
+        {
+          "question_id": "q37",
+          "number": 37,
+          "prompt_html": "Most toys were imported into England before 1300."
+        },
+        {
+          "question_id": "q38",
+          "number": 38,
+          "prompt_html": "Medieval children celebrated the seasons in their own ways."
+        },
+        {
+          "question_id": "q39",
+          "number": 39,
+          "prompt_html": "Medieval children made presents for their parents on special occasions."
+        },
+        {
+          "question_id": "q40",
+          "number": 40,
+          "prompt_html": "Parents and children in the Middle Ages behaved much as they do today."
+        }
+      ],
+      "options": [
+        {
+          "label": "YES",
+          "text": "if the statement agrees with the writer's claims or views"
+        },
+        {
+          "label": "NO",
+          "text": "if the statement contradicts the writer's claims or views"
+        },
+        {
+          "label": "NOT GIVEN",
+          "text": "if it is impossible to say from the passage"
+        }
+      ],
+      "prompt_html": ""
+    }
+  ]
+}

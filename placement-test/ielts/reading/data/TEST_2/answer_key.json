@@ -1,0 +1,233 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "test_id": "vol_09_t2_rd",
+  "module": "reading",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit"
+  },
+  "scoring": {
+    "raw_score_max": 40,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_groups": {
+    "rd_q24_26": {
+      "question_ids": [
+        "q24",
+        "q25",
+        "q26"
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "order_matters": false,
+      "allow_duplicate": false,
+      "score_each_question": true
+    }
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "father"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "music"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "secretary"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "steel"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "prices"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "banks"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "projects"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "TRUE"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q12": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "FALSE"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "H"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "semantic equivalence"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "purpose"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "stylistic features"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "content"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q21": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q22": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q23": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q24": {
+      "answer_group_id": "rd_q24_26"
+    },
+    "q25": {
+      "answer_group_id": "rd_q24_26"
+    },
+    "q26": {
+      "answer_group_id": "rd_q24_26"
+    },
+    "q27": {
+      "answers": [
+        "D"
+      ]
+    },
+    "q28": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q29": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q30": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q31": {
+      "answers": [
+        "YES"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "NO"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "YES"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "C"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "B"
+      ]
+    }
+  }
+}

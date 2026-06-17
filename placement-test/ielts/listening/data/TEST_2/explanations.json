@@ -1,0 +1,520 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t2_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>??p ?n:</strong> month</p><p><strong>Keyword trong c?u h?i:</strong> poppies, at their best, end of</p><p><strong>Th?ng tin trong b?i nghe:</strong> peak / full bloom at the end of the month</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "peak / full bloom at the end of the month"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>??p ?n:</strong> orange</p><p><strong>Keyword trong c?u h?i:</strong> poppies, hills, colour</p><p><strong>Th?ng tin trong b?i nghe:</strong> hills covered with orange poppies</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "hills covered with orange poppies"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>??p ?n:</strong> east</p><p><strong>Keyword trong c?u h?i:</strong> reserve, located, Lakeside</p><p><strong>Th?ng tin trong b?i nghe:</strong> drive about an hour east</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "drive about an hour east"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>??p ?n:</strong> trousers</p><p><strong>Keyword trong c?u h?i:</strong> wear, rattlesnakes</p><p><strong>Th?ng tin trong b?i nghe:</strong> recommend wearing trousers</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "recommend wearing trousers"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>??p ?n:</strong> state</p><p><strong>Keyword trong c?u h?i:</strong> reserve, park</p><p><strong>Th?ng tin trong b?i nghe:</strong> state park, not national park</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "state park, not national park"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>??p ?n:</strong> general</p><p><strong>Keyword trong c?u h?i:</strong> tour, every hour, 30 minutes</p><p><strong>Th?ng tin trong b?i nghe:</strong> general tour</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "general tour"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table",
+        "ls_detail"
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>??p ?n:</strong> museum</p><p><strong>Keyword trong c?u h?i:</strong> viewpoints, film and</p><p><strong>Th?ng tin trong b?i nghe:</strong> film introducing the park and the museum</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "film introducing the park and the museum"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table",
+        "ls_detail"
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>??p ?n:</strong> one hour</p><p><strong>Keyword trong c?u h?i:</strong> wildflower tour, lasts</p><p><strong>Th?ng tin trong b?i nghe:</strong> it lasts one hour</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "it lasts one hour"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table",
+        "ls_detail"
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>??p ?n:</strong> 5.30</p><p><strong>Keyword trong c?u h?i:</strong> wildlife tour, a.m. or 7 p.m.</p><p><strong>Th?ng tin trong b?i nghe:</strong> 5.30 a.m. or 7 p.m.</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "5.30 a.m. or 7 p.m."
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table",
+        "ls_detail"
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>??p ?n:</strong> zoom</p><p><strong>Keyword trong c?u h?i:</strong> tripod and ___ lens</p><p><strong>Th?ng tin trong b?i nghe:</strong> tripod and zoom lens</p>",
+      "evidence": [
+        {
+          "audio_ref": "l1",
+          "text": "tripod and zoom lens"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_table",
+        "ls_detail"
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> in Iron Age village</p><p><strong>Th?ng tin trong b?i nghe:</strong> here I do it every day because it's so light</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "here I do it every day because it's so light"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> food, eat</p><p><strong>Th?ng tin trong b?i nghe:</strong> takes such a long time to cook anything</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "takes such a long time to cook anything"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> evening meal</p><p><strong>Th?ng tin trong b?i nghe:</strong> chance to chat about the day</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "chance to chat about the day"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> blacksmiths, most important job</p><p><strong>Th?ng tin trong b?i nghe:</strong> tend the fire, get it nice and hot</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "tend the fire, get it nice and hot"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> likes the fact</p><p><strong>Th?ng tin trong b?i nghe:</strong> do different things every day</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "do different things every day"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>??p ?n:</strong> G</p><p><strong>Keyword trong c?u h?i:</strong> centre, planned house</p><p><strong>Th?ng tin trong b?i nghe:</strong> wooden peg</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "wooden peg"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_flowchart"
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> tools made from</p><p><strong>Th?ng tin trong b?i nghe:</strong> animal bone</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "animal bone"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_flowchart"
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>??p ?n:</strong> I</p><p><strong>Keyword trong c?u h?i:</strong> wooden ___ around centre post</p><p><strong>Th?ng tin trong b?i nghe:</strong> timber scaffold tower</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "timber scaffold tower"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_flowchart"
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>??p ?n:</strong> E</p><p><strong>Keyword trong c?u h?i:</strong> roof framework, wood rods</p><p><strong>Th?ng tin trong b?i nghe:</strong> hazel wood rods</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "hazel wood rods"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_flowchart"
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> reed bundles, lengths</p><p><strong>Th?ng tin trong b?i nghe:</strong> equal length</p>",
+      "evidence": [
+        {
+          "audio_ref": "l2",
+          "text": "equal length"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_flowchart"
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>??p ?n:</strong> A</p><p><strong>Keyword trong c?u h?i:</strong> surprising, complaints, call centre</p><p><strong>Th?ng tin trong b?i nghe:</strong> customers were happier; not expected</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "customers were happier; not expected"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> Jerry Kaplan report</p><p><strong>Th?ng tin trong b?i nghe:</strong> jobs not suitable for machines; human empathise</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "jobs not suitable for machines; human empathise"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> The Human Cloud, Nick reaction</p><p><strong>Th?ng tin trong b?i nghe:</strong> loves working from home in a time that suits</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "loves working from home in a time that suits"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>??p ?n:</strong> C</p><p><strong>Keyword trong c?u h?i:</strong> technology collect info, employees</p><p><strong>Th?ng tin trong b?i nghe:</strong> tracking health; employees would refuse</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "tracking health; employees would refuse"
+        }
+      ],
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>??p ?n:</strong> H</p><p><strong>Keyword trong c?u h?i:</strong> Introduction</p><p><strong>Th?ng tin trong b?i nghe:</strong> who should deliver it</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "who should deliver it"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>??p ?n:</strong> B</p><p><strong>Keyword trong c?u h?i:</strong> Researcher profiles</p><p><strong>Th?ng tin trong b?i nghe:</strong> cut it? / see if necessary</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "cut it? / see if necessary"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>??p ?n:</strong> D</p><p><strong>Keyword trong c?u h?i:</strong> automation</p><p><strong>Th?ng tin trong b?i nghe:</strong> should start again</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "should start again"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>??p ?n:</strong> G</p><p><strong>Keyword trong c?u h?i:</strong> workplace structure</p><p><strong>Th?ng tin trong b?i nghe:</strong> source other situations / cases</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "source other situations / cases"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>??p ?n:</strong> E</p><p><strong>Keyword trong c?u h?i:</strong> tracking technology</p><p><strong>Th?ng tin trong b?i nghe:</strong> photos; whether images serve purpose</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "photos; whether images serve purpose"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>??p ?n:</strong> F</p><p><strong>Keyword trong c?u h?i:</strong> interview manager</p><p><strong>Th?ng tin trong b?i nghe:</strong> confirm whether correct</p>",
+      "evidence": [
+        {
+          "audio_ref": "l3",
+          "text": "confirm whether correct"
+        }
+      ],
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>??p ?n:</strong> the number of</p><p><strong>Keyword trong c?u h?i:</strong> increase, night workers, because of</p><p><strong>Th?ng tin trong b?i nghe:</strong> because of the number of shops/services open 24/7</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "because of the number of shops/services open 24/7"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>??p ?n:</strong> internal clock</p><p><strong>Keyword trong c?u h?i:</strong> main cause</p><p><strong>Th?ng tin trong b?i nghe:</strong> first one is the internal clock</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "first one is the internal clock"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>??p ?n:</strong> light and dark</p><p><strong>Keyword trong c?u h?i:</strong> cycles of</p><p><strong>Th?ng tin trong b?i nghe:</strong> cycles of light and dark</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "cycles of light and dark"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>??p ?n:</strong> unsocial hours</p><p><strong>Keyword trong c?u h?i:</strong> third cause</p><p><strong>Th?ng tin trong b?i nghe:</strong> unsocial hours night workers keep</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "unsocial hours night workers keep"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>??p ?n:</strong> stomach</p><p><strong>Keyword trong c?u h?i:</strong> heart and ___ problems</p><p><strong>Th?ng tin trong b?i nghe:</strong> high incidence of stomach problems</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "high incidence of stomach problems"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>??p ?n:</strong> depression</p><p><strong>Keyword trong c?u h?i:</strong> psychological, most common</p><p><strong>Th?ng tin trong b?i nghe:</strong> most common problem is depression</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "most common problem is depression"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>??p ?n:</strong> mental abilities</p><p><strong>Keyword trong c?u h?i:</strong> affected, decision-making/planning</p><p><strong>Th?ng tin trong b?i nghe:</strong> mental abilities badly affected</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "mental abilities badly affected"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>??p ?n:</strong> performance</p><p><strong>Keyword trong c?u h?i:</strong> regulate/control</p><p><strong>Th?ng tin trong b?i nghe:</strong> these are what control our performance</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "these are what control our performance"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>??p ?n:</strong> family life</p><p><strong>Keyword trong c?u h?i:</strong> destruction/breakup of</p><p><strong>Th?ng tin trong b?i nghe:</strong> breakup of family life</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "breakup of family life"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>??p ?n:</strong> peer group</p><p><strong>Keyword trong c?u h?i:</strong> other relationships</p><p><strong>Th?ng tin trong b?i nghe:</strong> among the peer group</p>",
+      "evidence": [
+        {
+          "audio_ref": "l4",
+          "text": "among the peer group"
+        }
+      ],
+      "skill_tags": [
+        "ls_comp_note"
+      ]
+    }
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "schema_version": "saola.questions.v1",
+  "test_id": "vol_09_t8_ls",
+  "module": "listening",
+  "question_count": 40,
+  "question_groups": [
+    {
+      "group_id": "ls_t8_p1_g1",
+      "part_id": "l1",
+      "question_range": [
+        1,
+        10
+      ],
+      "question_type": "note_completion",
+      "skill_tags": [
+        "ls_comp_note",
+        "ls_detail"
+      ],
+      "instruction": "Complete the notes below.<br/>Write <strong>NO MORE THAN TWO WORDS AND/OR A NUMBER</strong> for each answer.",
+      "prompt_html": "<p><strong>Questions 1–10</strong></p><p>Complete the notes below.<br/>Write <strong>NO MORE THAN TWO WORDS AND/OR A NUMBER</strong> for each answer.</p><table><tr><th><strong>Call Record Card</strong></th></tr><tr><td><em><strong>Example</strong></em>  Caller’s phone number:  <strong>03786 439251</strong></td></tr><tr><td>Caller’s name: Robert 1 ………….<br/>Address: 27 2 ………… Moortown<br/>Postcode: DP17 5HJ<br/>Date of birth: 3 ……, 1975<br/>Doctor’s name: Dr Craven<br/>Doctor’s address: Moortown Health Centre<br/>Reason for call: Pain in his 4 ………… back<br/>Previous history: Similar back problem in June last year<br/>Details of present problem:<br/>• Started 5 …………. ago<br/>• Got worse this 6 ………….<br/>• No abdominal pain<br/>Possible cause: Lifting up a heavy 7 …………<br/>Treatment already applied:<br/>• Has applied heat<br/>• Has taken 8 …………<br/>Advice given:<br/>• Try using 9 …………….<br/>• Go to doctor tomorrow<br/>• Ask for information about 10 …………….</td></tr></table>",
+      "items": [
+        {
+          "question_id": "q1",
+          "number": 1,
+          "prompt_html": "<p>Caller’s name: Robert 1 ………….</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q2",
+          "number": 2,
+          "prompt_html": "<p>Address: 27 2 …………. Moortown</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q3",
+          "number": 3,
+          "prompt_html": "<p>Date of birth: 3 ………. , 1975</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q4",
+          "number": 4,
+          "prompt_html": "<p>Reason for call: Pain in his 4 ………… back</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q5",
+          "number": 5,
+          "prompt_html": "<p>Details of present problem: Started 5 …………. ago</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q6",
+          "number": 6,
+          "prompt_html": "<p>Details of present problem: Got worse this 6 ………….</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q7",
+          "number": 7,
+          "prompt_html": "<p>Possible cause: Lifting up a heavy 7 …………</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q8",
+          "number": 8,
+          "prompt_html": "<p>Treatment already applied: Has taken 8 …………</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q9",
+          "number": 9,
+          "prompt_html": "<p>Advice given: Try using 9 …………….</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q10",
+          "number": 10,
+          "prompt_html": "<p>Advice given: Ask for information about 10 …………….</p>",
+          "response_type": "text"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t8_p2_g1",
+      "part_id": "l2",
+      "question_range": [
+        11,
+        16
+      ],
+      "question_type": "mcq_single",
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ],
+      "instruction": "Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>.",
+      "prompt_html": "<p><strong>Questions 11–16</strong></p><p>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>.</p><p><strong>Preparing for a trip to an outdoor education center</strong></p><p><strong>11 A trip to the outdoor education center will help the children</strong></p><p>A create good relationships</p><p>B manage without adult supervision</p><p>C react positively to new challenges</p><p><strong>12 To prepare their children for the trip, parents should</strong></p><p>A let them try sleeping in a tent at home</p><p>B make sure they get enough sleep before they leave</p><p>C tell them that they will be in a tent with their friends</p><p><strong>13 What do parents need to put in their children's backpack?</strong></p><p>A plastic bags</p><p>B snacks and biscuits</p><p>C a small amount of money</p><p><strong>14 What are children allowed to bring on the trip?</strong></p><p>A electronic games</p><p>B cell phones</p><p>C penknives</p><p><strong>15 How are parents selected to attend the trip?</strong></p><p>A The first ten parents to sign up will be able to go</p><p>B Parents' names will be chosen from a box</p><p>C Preference will be given to parents with camping skills</p><p><strong>16 Payment for the trip</strong></p><p>A must be handed to the child's teacher</p><p>B can be left at the school office</p><p>C should be made directly to the outdoor education center</p>",
+      "items": [
+        {
+          "question_id": "q11",
+          "number": 11,
+          "prompt_html": "<p><strong>11 A trip to the outdoor education center will help the children</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "create good relationships"
+            },
+            {
+              "label": "B",
+              "text": "manage without adult supervision"
+            },
+            {
+              "label": "C",
+              "text": "react positively to new challenges"
+            }
+          ]
+        },
+        {
+          "question_id": "q12",
+          "number": 12,
+          "prompt_html": "<p><strong>12 To prepare their children for the trip, parents should</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "let them try sleeping in a tent at home"
+            },
+            {
+              "label": "B",
+              "text": "make sure they get enough sleep before they leave"
+            },
+            {
+              "label": "C",
+              "text": "tell them that they will be in a tent with their friends"
+            }
+          ]
+        },
+        {
+          "question_id": "q13",
+          "number": 13,
+          "prompt_html": "<p><strong>13 What do parents need to put in their children's backpack?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "plastic bags"
+            },
+            {
+              "label": "B",
+              "text": "snacks and biscuits"
+            },
+            {
+              "label": "C",
+              "text": "a small amount of money"
+            }
+          ]
+        },
+        {
+          "question_id": "q14",
+          "number": 14,
+          "prompt_html": "<p><strong>14 What are children allowed to bring on the trip?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "electronic games"
+            },
+            {
+              "label": "B",
+              "text": "cell phones"
+            },
+            {
+              "label": "C",
+              "text": "penknives"
+            }
+          ]
+        },
+        {
+          "question_id": "q15",
+          "number": 15,
+          "prompt_html": "<p><strong>15 How are parents selected to attend the trip?</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "The first ten parents to sign up will be able to go"
+            },
+            {
+              "label": "B",
+              "text": "Parents' names will be chosen from a box"
+            },
+            {
+              "label": "C",
+              "text": "Preference will be given to parents with camping skills"
+            }
+          ]
+        },
+        {
+          "question_id": "q16",
+          "number": 16,
+          "prompt_html": "<p><strong>16 Payment for the trip</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "must be handed to the child's teacher"
+            },
+            {
+              "label": "B",
+              "text": "can be left at the school office"
+            },
+            {
+              "label": "C",
+              "text": "should be made directly to the outdoor education center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t8_p2_g2",
+      "part_id": "l2",
+      "question_range": [
+        17,
+        20
+      ],
+      "question_type": "map_labeling",
+      "skill_tags": [
+        "ls_label_map"
+      ],
+      "instruction": "Label the map below.<br/>Choose the correct letter, <strong>A–G</strong>, next to questions 17–20.",
+      "prompt_html": "<p><strong>Questions 17–20</strong></p><p>Label the map below.<br/>Choose the correct letter, <strong>A–G</strong>, next to questions 17–20.</p><figure class=\"question-media\"><img src=\"assets/test_8_section_2.png\" alt=\"Image\" /></figure><table><tr><th></th><th><strong>A</strong></th><th><strong>B</strong></th><th><strong>C</strong></th><th><strong>D</strong></th><th><strong>E</strong></th><th><strong>F</strong></th><th><strong>G</strong></th></tr><tr><td><strong>17 Woodcarving studio</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>18 Emergency meeting point</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>19 Conservation center</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>20 Arts and crafts room</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+      "items": [
+        {
+          "question_id": "q17",
+          "number": 17,
+          "prompt_html": "<p>Choose the correct letter, <strong>A-G</strong> , next to the questions <strong>17-20</strong> .</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q18",
+          "number": 18,
+          "prompt_html": "<table><tr><th><strong>18 Emergency meeting point</strong></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></table>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q19",
+          "number": 19,
+          "prompt_html": "<table><tr><th><strong>19 Conservation center</strong></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></table>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q20",
+          "number": 20,
+          "prompt_html": "<p>Choose the correct letter, <strong>A-G</strong> , next to the questions <strong>17-20</strong> .</p>",
+          "response_type": "select"
+        }
+      ],
+      "media": [
+        {
+          "media_id": "test_8_section_2",
+          "type": "image",
+          "src": "assets/test_8_section_2.png",
+          "alt": "Listening Test 8 visual for questions 17-20"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t8_p3_g1",
+      "part_id": "l3",
+      "question_range": [
+        21,
+        24
+      ],
+      "question_type": "mcq_single",
+      "skill_tags": [
+        "ls_mcq_single",
+        "ls_detail"
+      ],
+      "instruction": "Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>.",
+      "prompt_html": "<p><strong>Questions 21–24</strong></p><p>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>.</p><p><strong>Stone Point: A New Zealand historical site</strong></p><p><strong>21 According to Liz, Stone Point played a key role in local history because</strong></p><p>A it was used for defence or attack purposes.</p><p>B it was the landing point for the first Maori settlers.</p><p>C it was developed as a commercial port.</p><p><strong>22 Scott and Liz agree Maori originally chose to inhabit Stone Point because of</strong></p><p>A its rich soil.</p><p>B the supply of fish.</p><p>C available building materials.</p><p><strong>23 Scott and Liz agree that using Maori terminology in their presentation</strong></p><p>A will be of interest to international students.</p><p>B is required as a component of their research.</p><p>C would be best avoided.</p><p><strong>24 When Scott mentions the engines at Stone Point, Liz advises him to</strong></p><p>A focus on the human aspect instead.</p><p>B check the accuracy of specific dates.</p><p>C explain complex technical language.</p>",
+      "items": [
+        {
+          "question_id": "q21",
+          "number": 21,
+          "prompt_html": "<p><strong>21 According to Liz, Stone Point played a key role in local history because</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "it was used for defence or attack purposes."
+            },
+            {
+              "label": "B",
+              "text": "it was the landing point for the first Maori settlers."
+            },
+            {
+              "label": "C",
+              "text": "it was developed as a commercial port."
+            }
+          ]
+        },
+        {
+          "question_id": "q22",
+          "number": 22,
+          "prompt_html": "<p><strong>22 Scott and Liz agree Maori originally chose to inhabit Stone Point because of</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "its rich soil."
+            },
+            {
+              "label": "B",
+              "text": "the supply of fish."
+            },
+            {
+              "label": "C",
+              "text": "available building materials."
+            }
+          ]
+        },
+        {
+          "question_id": "q23",
+          "number": 23,
+          "prompt_html": "<p><strong>23 Scott and Liz agree that using Maori terminology in their presentation</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "will be of interest to international students."
+            },
+            {
+              "label": "B",
+              "text": "is required as a component of their research."
+            },
+            {
+              "label": "C",
+              "text": "would be best avoided."
+            }
+          ]
+        },
+        {
+          "question_id": "q24",
+          "number": 24,
+          "prompt_html": "<p><strong>24 When Scott mentions the engines at Stone Point, Liz advises him to</strong></p>",
+          "response_type": "radio",
+          "options": [
+            {
+              "label": "A",
+              "text": "focus on the human aspect instead."
+            },
+            {
+              "label": "B",
+              "text": "check the accuracy of specific dates."
+            },
+            {
+              "label": "C",
+              "text": "explain complex technical language."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t8_p3_g2",
+      "part_id": "l3",
+      "question_range": [
+        25,
+        30
+      ],
+      "question_type": "matching",
+      "skill_tags": [
+        "ls_matching",
+        "ls_detail"
+      ],
+      "instruction": "What do Liz and Scott agree they must do for each of the following sections for their presentation on Stone Point?<br/>Choose <strong>SIX</strong> correct answers, <strong>A–H</strong>, next to questions 25–30.",
+      "prompt_html": "<p><strong>Questions 25–30</strong></p><p><strong>Things to do</strong><br/><strong>A</strong> provide further description<br/><strong>B</strong> find images<br/><strong>C</strong> set up an interview<br/><strong>D</strong> check author’s details<br/><strong>E</strong> check the exact location<br/><strong>F</strong> obtain official permission<br/><strong>G</strong> be more objective<br/><strong>H</strong> reduce it in length</p>",
+      "items": [
+        {
+          "question_id": "q25",
+          "number": 25,
+          "prompt_html": "<p><strong>25</strong> Early Maori inhibition of Stone Point</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q26",
+          "number": 26,
+          "prompt_html": "<p><strong>26</strong> The use of Stone Point as a lookout point</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q27",
+          "number": 27,
+          "prompt_html": "<p><strong>27</strong> The reconstruction of the fort</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q28",
+          "number": 28,
+          "prompt_html": "<p><strong>28</strong> Modernisation of the fort in the 1930s-40s</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q29",
+          "number": 29,
+          "prompt_html": "<p><strong>29</strong> Uses of Stone Point from 1950s to the present day</p>",
+          "response_type": "select"
+        },
+        {
+          "question_id": "q30",
+          "number": 30,
+          "prompt_html": "<p><strong>30</strong> The use of Stone Point as public park</p>",
+          "response_type": "select"
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "provide further description"
+        },
+        {
+          "label": "B",
+          "text": "find images"
+        },
+        {
+          "label": "C",
+          "text": "set up an interview"
+        },
+        {
+          "label": "D",
+          "text": "check author’s details"
+        },
+        {
+          "label": "E",
+          "text": "check the exact location"
+        },
+        {
+          "label": "F",
+          "text": "obtain official permission"
+        },
+        {
+          "label": "G",
+          "text": "be more objective"
+        },
+        {
+          "label": "H",
+          "text": "reduce it in length"
+        }
+      ]
+    },
+    {
+      "group_id": "ls_t8_p4_g1",
+      "part_id": "l4",
+      "question_range": [
+        31,
+        40
+      ],
+      "question_type": "note_completion",
+      "skill_tags": [
+        "ls_comp_note"
+      ],
+      "instruction": "Complete the notes below.<br/>Write <strong>NO MORE THAN TWO WORDS</strong> for each answer.",
+      "prompt_html": "<p><strong>Questions 31–40</strong></p><p>Complete the notes below.<br/>Write <strong>NO MORE THAN TWO WORDS</strong> for each answer.</p><p><strong>Rural Development</strong></p><p><strong>The Berbers</strong> <br> ●    lived in various countries in North Africa<br/>●    were driven from their homes during the 12th century<br/>●    began` to lead a nomadic life, moving across 31 ……….. and mountains</p><p><strong>Different Berber Lifestyles</strong> <br>●    some Berbers, known as 32 …………. nomads, moved twice a year<br/>●    some Berbers were completely nomadic<br/>●    some Berbers settled by oases, producing fruit, vegetables, and  33 …………….  to  cook with<br/>●    people and belongings were carried by 34 …………<br/>●    settled Berbers lived in houses<br/>●    nomadic Berbers used tents<br/>●    settled communities organised themselves by holding regular meetings in the 35 ……………. of the village</p><p><strong>The Tuaregs</strong> <br>●    if goatskins were unavailable, tents were made from 36 …………… or palm-leaf mats<br/>●    Tuareg labourers were the descendants of  37 …………….<br/>●    adult men always wore a 38 ………….  veil<br/>●    some Tuaregs moved to Burkina Faso with their 39…………….</p><p><strong>Tuaregs and Timbuktu</strong> <br>●    Timbuktu was settled by Tuaregs around 1000 years ago<br/>●    the city built wealth on the salt and gold trades<br/>●    some Tuaregs now work as 40 ………….. for the Mallian Department of Tourism</p>",
+      "items": [
+        {
+          "question_id": "q31",
+          "number": 31,
+          "prompt_html": "<p>●    began to lead a nomadic life, moving across 31 ……….. and mountains</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q32",
+          "number": 32,
+          "prompt_html": "<p><strong>Different Berber Lifestyles</strong> ●    some Berbers, known as 32 …………. nomads, moved twice a year</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q33",
+          "number": 33,
+          "prompt_html": "<p>●    some Berbers settled by oases, producing fruit, vegetables, and  33 …………….  to  cook with</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q34",
+          "number": 34,
+          "prompt_html": "<p>●    people and belongings were carried by 34 …………</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q35",
+          "number": 35,
+          "prompt_html": "<p>●    settled communities organised themselves by holding regular meetings in the 35 ……………. of the village</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q36",
+          "number": 36,
+          "prompt_html": "<p><strong>The Tuaregs</strong> ●    if goatskins were unavailable, tents were made from 36 …………… or palm-leaf mats</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q37",
+          "number": 37,
+          "prompt_html": "<p>●    Tuareg labourers were the descendants of  37 …………….</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q38",
+          "number": 38,
+          "prompt_html": "<p>●    adult men always wore a 38 ………….  veil</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q39",
+          "number": 39,
+          "prompt_html": "<p>●    some Tuaregs moved to Burkina Faso with their 39…………….</p>",
+          "response_type": "text"
+        },
+        {
+          "question_id": "q40",
+          "number": 40,
+          "prompt_html": "<p>●    some Tuaregs now work as 40 ………….. for the Mallian Department of Tourism</p>",
+          "response_type": "text"
+        }
+      ]
+    }
+  ]
+}

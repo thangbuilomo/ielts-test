@@ -1,0 +1,255 @@
+{
+  "schema_version": "saola.answer_key.v1",
+  "test_id": "vol_09_t1_ls",
+  "module": "listening",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "guest",
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit"
+  },
+  "scoring": {
+    "raw_score_max": 40,
+    "case_sensitive_default": false,
+    "trim_whitespace": true,
+    "collapse_internal_spaces": true,
+    "spelling_must_be_exact": true
+  },
+  "answer_key": {
+    "q1": {
+      "answers": [
+        "80"
+      ]
+    },
+    "q2": {
+      "answers": [
+        "garage"
+      ]
+    },
+    "q3": {
+      "answers": [
+        "kitchen"
+      ]
+    },
+    "q4": {
+      "answers": [
+        "heater"
+      ]
+    },
+    "q5": {
+      "answers": [
+        "toaster"
+      ]
+    },
+    "q6": {
+      "answers": [
+        "Friday evening"
+      ]
+    },
+    "q7": {
+      "answers": [
+        "supermarket"
+      ]
+    },
+    "q8": {
+      "answers": [
+        "petrol"
+      ]
+    },
+    "q9": {
+      "answers": [
+        "1st of June",
+        "1 June",
+        "June 1"
+      ]
+    },
+    "q10": {
+      "answers": [
+        "exam"
+      ]
+    },
+    "q11": {
+      "answers": [
+        "8:55",
+        "8.55",
+        "8:55 a.m."
+      ]
+    },
+    "q12": {
+      "answers": [
+        "hot meal"
+      ]
+    },
+    "q13": {
+      "answers": [
+        "15 minutes"
+      ]
+    },
+    "q14": {
+      "answers": [
+        "sports"
+      ]
+    },
+    "q15": {
+      "answers": [
+        "poster"
+      ]
+    },
+    "q16": {
+      "answers": [
+        "month"
+      ]
+    },
+    "q17": {
+      "answers": [
+        "clubs"
+      ]
+    },
+    "q18": {
+      "answers": [
+        "E"
+      ]
+    },
+    "q19": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q20": {
+      "answers": [
+        "G"
+      ]
+    },
+    "q21": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q22": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q23": {
+      "answers": [
+        "B"
+      ]
+    },
+    "q24": {
+      "answers": [
+        "A"
+      ]
+    },
+    "q25": {
+      "answer_group_id": "ls_q25_26"
+    },
+    "q26": {
+      "answer_group_id": "ls_q25_26"
+    },
+    "q27": {
+      "answer_group_id": "ls_q27_28"
+    },
+    "q28": {
+      "answer_group_id": "ls_q27_28"
+    },
+    "q29": {
+      "answer_group_id": "ls_q29_30"
+    },
+    "q30": {
+      "answer_group_id": "ls_q29_30"
+    },
+    "q31": {
+      "answers": [
+        "resources"
+      ]
+    },
+    "q32": {
+      "answers": [
+        "stressful"
+      ]
+    },
+    "q33": {
+      "answers": [
+        "competition"
+      ]
+    },
+    "q34": {
+      "answers": [
+        "light"
+      ]
+    },
+    "q35": {
+      "answers": [
+        "reduction"
+      ]
+    },
+    "q36": {
+      "answers": [
+        "mud"
+      ]
+    },
+    "q37": {
+      "answers": [
+        "starvation"
+      ]
+    },
+    "q38": {
+      "answers": [
+        "evaporation"
+      ]
+    },
+    "q39": {
+      "answers": [
+        "nest"
+      ]
+    },
+    "q40": {
+      "answers": [
+        "heart"
+      ]
+    }
+  },
+  "answer_groups": {
+    "ls_q25_26": {
+      "question_ids": [
+        "q25",
+        "q26"
+      ],
+      "answers": [
+        "B",
+        "E"
+      ],
+      "order_matters": false,
+      "allow_duplicate": false,
+      "score_each_question": true
+    },
+    "ls_q27_28": {
+      "question_ids": [
+        "q27",
+        "q28"
+      ],
+      "answers": [
+        "A",
+        "D"
+      ],
+      "order_matters": false,
+      "allow_duplicate": false,
+      "score_each_question": true
+    },
+    "ls_q29_30": {
+      "question_ids": [
+        "q29",
+        "q30"
+      ],
+      "answers": [
+        "C",
+        "E"
+      ],
+      "order_matters": false,
+      "allow_duplicate": false,
+      "score_each_question": true
+    }
+  }
+}

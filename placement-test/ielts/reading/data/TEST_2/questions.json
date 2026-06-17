@@ -1,0 +1,566 @@
+{
+  "schema_version": "saola.questions.v1",
+  "test_id": "vol_09_t2_rd",
+  "module": "reading",
+  "question_count": 40,
+  "question_groups": [
+    {
+      "group_id": "vol_09_t2_rd_p1_g1",
+      "passage_id": "p1",
+      "question_range": [
+        1,
+        7
+      ],
+      "question_type": "note_completion",
+      "skill_tags": [
+        "rd_comp_notes"
+      ],
+      "instruction": "Complete the notes below.<br/>Write ONE WORD ONLY from the passage for each answer.",
+      "items": [
+        {
+          "question_id": "q1",
+          "number": 1,
+          "prompt_html": "Question 1"
+        },
+        {
+          "question_id": "q2",
+          "number": 2,
+          "prompt_html": "Question 2"
+        },
+        {
+          "question_id": "q3",
+          "number": 3,
+          "prompt_html": "Question 3"
+        },
+        {
+          "question_id": "q4",
+          "number": 4,
+          "prompt_html": "Question 4"
+        },
+        {
+          "question_id": "q5",
+          "number": 5,
+          "prompt_html": "Question 5"
+        },
+        {
+          "question_id": "q6",
+          "number": 6,
+          "prompt_html": "Question 6"
+        },
+        {
+          "question_id": "q7",
+          "number": 7,
+          "prompt_html": "Question 7"
+        }
+      ],
+      "prompt_html": "<p>Complete the notes below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p>Carnegie’s Life</p><p><strong><em>1835-1855</strong></em> <br>•   found employment in the same workplace as his &lt;blank data-qid=&quot;q1&quot;/&gt;<br>•   educated himself through books, theatrical performances and &lt;blank data-qid=&quot;q2&quot;/&gt;<br><strong><em>1855-1865</strong></em> <br>•    worked in a telegraph office</p><p><br>•    became &lt;blank data-qid=&quot;q3&quot;/&gt; to Thomas A Scott at Pennsylvania Railroad</p><p><br><strong><em>1865-1870</strong></em> <br>•    made investments in the US and England</p><p><br>•    realised that changing engineering needs would require a greater demand for &lt;blank data-qid=&quot;q4&quot;/&gt;<br><strong><em>1873</strong></em> <br>•    managed a rail manufacturing business by:</p><p>+   reducing &lt;blank data-qid=&quot;q5&quot;/&gt;+   restructuring</p><p>+   reinvesting profit and sometimes borrowing money from &lt;blank data-qid=&quot;q6&quot;/&gt;<br><strong><em>1880s</strong></em> <br>•    Frick and Carnegie became partners</p><p><br>•    Carnegie’s responsibilities:</p><p>+   arranging future &lt;blank data-qid=&quot;q7&quot;/&gt; and innovations for factories</p><p><br>•    Frick&#x27;s responsibilities: Production</p>"
+    },
+    {
+      "group_id": "vol_09_t2_rd_p1_g2",
+      "passage_id": "p1",
+      "question_range": [
+        8,
+        13
+      ],
+      "question_type": "tfng",
+      "skill_tags": [
+        "rd_tfng"
+      ],
+      "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+      "items": [
+        {
+          "question_id": "q8",
+          "number": 8,
+          "prompt_html": "Carnegie believed that the USA offered more opportunities than European countries did."
+        },
+        {
+          "question_id": "q9",
+          "number": 9,
+          "prompt_html": "A smaller workforce was required at the Homestead factory after Carnegie took control."
+        },
+        {
+          "question_id": "q10",
+          "number": 10,
+          "prompt_html": "Carnegie prevented his workers from joining unions."
+        },
+        {
+          "question_id": "q11",
+          "number": 11,
+          "prompt_html": "Carnegie blamed Frick for the violent workers strike in 1892."
+        },
+        {
+          "question_id": "q12",
+          "number": 12,
+          "prompt_html": "In the 1890s Carnegie negotiated with his competitors."
+        },
+        {
+          "question_id": "q13",
+          "number": 13,
+          "prompt_html": "Carriage’s provision of funds for libraries was limited to those in the United States."
+        }
+      ],
+      "options": [
+        {
+          "label": "TRUE",
+          "text": "if the statement agrees with the information"
+        },
+        {
+          "label": "FALSE",
+          "text": "if the statement contradicts the information"
+        },
+        {
+          "label": "NOT GIVEN",
+          "text": "if there is no information on this"
+        }
+      ],
+      "prompt_html": ""
+    },
+    {
+      "group_id": "vol_09_t2_rd_p2_g1",
+      "passage_id": "p2",
+      "question_range": [
+        14,
+        15
+      ],
+      "question_type": "matching_information",
+      "skill_tags": [
+        "rd_match_information",
+        "rd_scanning"
+      ],
+      "instruction": "Reading Passage 3 has eight paragraphs, A-H .<br/>Which paragraph contains the following information?<br/>Choose the correct letter, A-H , in boxes 14-15 .",
+      "items": [
+        {
+          "question_id": "q14",
+          "number": 14,
+          "prompt_html": "the effect that a client&#x27;s requirements have on the nature of a translation."
+        },
+        {
+          "question_id": "q15",
+          "number": 15,
+          "prompt_html": "contrasting attitudes towards translators."
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Paragraph A"
+        },
+        {
+          "label": "B",
+          "text": "Paragraph B"
+        },
+        {
+          "label": "C",
+          "text": "Paragraph C"
+        },
+        {
+          "label": "D",
+          "text": "Paragraph D"
+        },
+        {
+          "label": "E",
+          "text": "Paragraph E"
+        },
+        {
+          "label": "F",
+          "text": "Paragraph F"
+        },
+        {
+          "label": "G",
+          "text": "Paragraph G"
+        },
+        {
+          "label": "H",
+          "text": "Paragraph H"
+        }
+      ],
+      "prompt_html": ""
+    },
+    {
+      "group_id": "vol_09_t2_rd_p2_g2",
+      "passage_id": "p2",
+      "question_range": [
+        16,
+        19
+      ],
+      "question_type": "summary_completion",
+      "skill_tags": [
+        "rd_comp_summary"
+      ],
+      "instruction": "Complete the summary below.<br/>Write NO MORE THAN TWO WORDS from paragraphs C, D and E for each answer.",
+      "items": [
+        {
+          "question_id": "q16",
+          "number": 16,
+          "prompt_html": "Question 16"
+        },
+        {
+          "question_id": "q17",
+          "number": 17,
+          "prompt_html": "Question 17"
+        },
+        {
+          "question_id": "q18",
+          "number": 18,
+          "prompt_html": "Question 18"
+        },
+        {
+          "question_id": "q19",
+          "number": 19,
+          "prompt_html": "Question 19"
+        }
+      ],
+      "prompt_html": "<p>Complete the summary below.</p><p>Write <strong>NO MORE THAN TWO WORDS</strong> from paragraphs C, D and E for each answer.</p><p>The goal of translation</p><p>Translation is an attempt to create a text in the target language which displays &lt;blank data-qid=&quot;q16&quot;/&gt; with a source text It is inevitable that not all information can be conveyed, however, so translations are best judged according to their &lt;blank data-qid=&quot;q17&quot;/&gt;, for example, the translator of a business letter or scientific text does not need to consider its &lt;blank data-qid=&quot;q18&quot;/&gt; aspects while someone dubbing a film may give a relatively low value to &lt;blank data-qid=&quot;q19&quot;/&gt;.</p>"
+    },
+    {
+      "group_id": "vol_09_t2_rd_p2_g3",
+      "passage_id": "p2",
+      "question_range": [
+        20,
+        23
+      ],
+      "question_type": "matching_features",
+      "skill_tags": [
+        "rd_match_features",
+        "rd_detail"
+      ],
+      "instruction": "Look at the following features of translating and the types of translation below.<br/>Match each feature with the correct type of translation, A-F .<br/>Choose the correct letter, A-F , in boxes 20-23 .<br/><br/>Types of Translation<br/>A aesthetic<br/>B ethnographic<br/>C free<br/>D literal<br/>E pragmatic<br/>F word-for-word",
+      "items": [
+        {
+          "question_id": "q20",
+          "number": 20,
+          "prompt_html": "focuses on reproducing the content accurately."
+        },
+        {
+          "question_id": "q21",
+          "number": 21,
+          "prompt_html": "looks at important cultural aspects of language use."
+        },
+        {
+          "question_id": "q22",
+          "number": 22,
+          "prompt_html": "follows the original grammatical structures as required by the target language."
+        },
+        {
+          "question_id": "q23",
+          "number": 23,
+          "prompt_html": "focuses on meaning without necessarily using the original grammatical structures."
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "aesthetic B ethnographic C free D literal E pragmatic F word-for-word"
+        },
+        {
+          "label": "B",
+          "text": "ethnographic"
+        },
+        {
+          "label": "C",
+          "text": "free"
+        },
+        {
+          "label": "D",
+          "text": "literal"
+        },
+        {
+          "label": "E",
+          "text": "pragmatic"
+        },
+        {
+          "label": "F",
+          "text": "word-for-word"
+        }
+      ],
+      "prompt_html": ""
+    },
+    {
+      "group_id": "vol_09_t2_rd_p2_g4",
+      "passage_id": "p2",
+      "question_range": [
+        24,
+        26
+      ],
+      "question_type": "mcq_multi",
+      "skill_tags": [
+        "rd_mcq_multi",
+        "rd_detail"
+      ],
+      "instruction": "Choose THREE correct answers.",
+      "items": [
+        {
+          "question_id": "q24",
+          "number": 24,
+          "prompt_html": "Selected answer 1"
+        },
+        {
+          "question_id": "q25",
+          "number": 25,
+          "prompt_html": "Selected answer 2"
+        },
+        {
+          "question_id": "q26",
+          "number": 26,
+          "prompt_html": "Selected answer 3"
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "The objectives of translating are always clearly different from those of interpreting."
+        },
+        {
+          "label": "B",
+          "text": "A translator may need to consider the culture of the target language."
+        },
+        {
+          "label": "C",
+          "text": "Translation is an activity which requires professional training."
+        },
+        {
+          "label": "D",
+          "text": "It is difficult to specify what constitutes a very good translation."
+        },
+        {
+          "label": "E",
+          "text": "The skill required for translation is increasingly gaining recognition."
+        }
+      ],
+      "prompt_html": "",
+      "selection_group": {
+        "selection_group_id": "rd_q24_26",
+        "question_ids": [
+          "q24",
+          "q25",
+          "q26"
+        ],
+        "max_select": 3,
+        "order_matters": false
+      }
+    },
+    {
+      "group_id": "vol_09_t2_rd_p3_g1",
+      "passage_id": "p3",
+      "question_range": [
+        27,
+        30
+      ],
+      "question_type": "summary_completion",
+      "skill_tags": [
+        "rd_comp_summary"
+      ],
+      "instruction": "Complete the summary using the list of words and phrases, A-D , below.",
+      "items": [
+        {
+          "question_id": "q27",
+          "number": 27,
+          "prompt_html": "Question 27"
+        },
+        {
+          "question_id": "q28",
+          "number": 28,
+          "prompt_html": "Question 28"
+        },
+        {
+          "question_id": "q29",
+          "number": 29,
+          "prompt_html": "Question 29"
+        },
+        {
+          "question_id": "q30",
+          "number": 30,
+          "prompt_html": "Question 30"
+        }
+      ],
+      "prompt_html": "<p>Complete the summary using the list of words and phrases, <strong>A-D</strong> , below.</p><p>Early European reaction to the discovery of Easter Island</p><p>When Dutchman Jacob Roggeveen sailed to Easter Island in 1722, he was amazed by the stone statues he saw for a number of reasons. Firstly, it was clear that they were immensely heavy, and there was no &lt;blank data-qid=&quot;q27&quot;/&gt; around, which would have helped with their construction. Roggeveen did not think the inhabitants had any metal tools, or animals for heavy labour either. Another mystery was the poor quality of the local inhabitants&#x27; &lt;blank data-qid=&quot;q28&quot;/&gt;; Roggeveen wondered how the people had managed to survive long trips. At the time of Roggeveen&#x27;s visit, he observed that the people were living in &lt;blank data-qid=&quot;q29&quot;/&gt; and there was no evidence of successful &lt;blank data-qid=&quot;q30&quot;/&gt; on the island.</p><p><strong>A poverty</strong></p><p><strong>B agriculture</strong></p><p><strong>C boats</strong></p><p><strong>D wood</strong></p>"
+    },
+    {
+      "group_id": "vol_09_t2_rd_p3_g2",
+      "passage_id": "p3",
+      "question_range": [
+        31,
+        35
+      ],
+      "question_type": "ynng",
+      "skill_tags": [
+        "rd_ynng"
+      ],
+      "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "items": [
+        {
+          "question_id": "q31",
+          "number": 31,
+          "prompt_html": "Erich von Däniken&#x27;s claims were briefly accepted by some sections of society."
+        },
+        {
+          "question_id": "q32",
+          "number": 32,
+          "prompt_html": "Archaeologists removed valuable artefacts from the island."
+        },
+        {
+          "question_id": "q33",
+          "number": 33,
+          "prompt_html": "Smallpox continued to affect Easter Island&#x27;s inhabitants for centuries."
+        },
+        {
+          "question_id": "q34",
+          "number": 34,
+          "prompt_html": "It remains open to question whether Easter Island was once covered in forest."
+        },
+        {
+          "question_id": "q35",
+          "number": 35,
+          "prompt_html": "The way that rats arrived on Easter Island is still to be established."
+        }
+      ],
+      "options": [
+        {
+          "label": "YES",
+          "text": "if the statement agrees with the writer's claims or views"
+        },
+        {
+          "label": "NO",
+          "text": "if the statement contradicts the writer's claims or views"
+        },
+        {
+          "label": "NOT GIVEN",
+          "text": "if it is impossible to say from the passage"
+        }
+      ],
+      "prompt_html": ""
+    },
+    {
+      "group_id": "vol_09_t2_rd_p3_g3",
+      "passage_id": "p3",
+      "question_range": [
+        36,
+        40
+      ],
+      "question_type": "mcq_single",
+      "skill_tags": [
+        "rd_mcq_single",
+        "rd_detail"
+      ],
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "question_id": "q36",
+          "number": 36,
+          "prompt_html": "What does Jared Diamond blame for the lack of vegetation on Easter Island?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The construction of stone statues"
+            },
+            {
+              "label": "B",
+              "text": "Climate change over a long period"
+            },
+            {
+              "label": "C",
+              "text": "A method of transportation"
+            },
+            {
+              "label": "D",
+              "text": "The arrival of Europeans"
+            }
+          ]
+        },
+        {
+          "question_id": "q37",
+          "number": 37,
+          "prompt_html": "What do Hunt and Lipo suggest about the population of Easter Island?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It collapsed before European contact"
+            },
+            {
+              "label": "B",
+              "text": "The first settlers arrived much later than is widely accepted"
+            },
+            {
+              "label": "C",
+              "text": "It never exceeded a few thousand inhabitants"
+            },
+            {
+              "label": "D",
+              "text": "It declined mainly because of disease"
+            }
+          ]
+        },
+        {
+          "question_id": "q38",
+          "number": 38,
+          "prompt_html": "What is suggested about rats on Easter Island in the fifth paragraph?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They were a likely cause of deforestation"
+            },
+            {
+              "label": "B",
+              "text": "They arrived after the forests had disappeared"
+            },
+            {
+              "label": "C",
+              "text": "They had no effect on plant regeneration"
+            },
+            {
+              "label": "D",
+              "text": "They were introduced by Europeans"
+            }
+          ]
+        },
+        {
+          "question_id": "q39",
+          "number": 39,
+          "prompt_html": "Flenley responds to Hunt and Lipo’s theory by",
+          "options": [
+            {
+              "label": "A",
+              "text": "dismissing it"
+            },
+            {
+              "label": "B",
+              "text": "partially supporting it"
+            },
+            {
+              "label": "C",
+              "text": "expanding on their arguments"
+            },
+            {
+              "label": "D",
+              "text": "avoiding direct criticism"
+            }
+          ]
+        },
+        {
+          "question_id": "q40",
+          "number": 40,
+          "prompt_html": "The writer’s purpose in this article is to",
+          "options": [
+            {
+              "label": "A",
+              "text": "argue in favour of Diamond’s interpretation"
+            },
+            {
+              "label": "B",
+              "text": "provide an overview of a series of arguments"
+            },
+            {
+              "label": "C",
+              "text": "prove that rats were the main cause of deforestation"
+            },
+            {
+              "label": "D",
+              "text": "criticise modern archaeological methods"
+            }
+          ]
+        }
+      ],
+      "prompt_html": ""
+    }
+  ]
+}

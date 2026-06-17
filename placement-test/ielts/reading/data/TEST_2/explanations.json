@@ -1,0 +1,415 @@
+{
+  "schema_version": "saola.explanations.v1",
+  "test_id": "vol_09_t2_rd",
+  "module": "reading",
+  "question_count": 40,
+  "access": {
+    "available_to": [
+      "authenticated_student"
+    ],
+    "load_timing": "after_submit_after_auth_check",
+    "guest_fallback_message": "Detailed explanations are available for enrolled Saola students only."
+  },
+  "explanations": {
+    "q1": {
+      "explanation_html": "<p><strong>Answer: father</strong></p><p><strong>Câu hỏi:</strong> found employment in the same workplace as his ______.</p><p><strong>Vị trí thông tin:</strong> Đoạn 2.</p><p>_<strong>Câu chứa thông tin:</strong> William found a job in a cotton factory... Andrew Carnegie also worked in the cotton factory..._</p><p><strong>Giải thích:</strong></p><p>Ghi chú hỏi Carnegie làm việc cùng nơi với ai. Bài nói cha của ông, William, làm trong một nhà máy bông, và Andrew Carnegie cũng làm trong nhà máy bông đó. Vì William là cha của Andrew, đáp án là <strong>father</strong>.</p><p><strong>Dịch câu hỏi:</strong> Tìm được việc làm ở cùng nơi làm việc với <strong>cha</strong> của mình.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "William found a job in a cotton factory; Andrew also worked in the cotton factory"
+        }
+      ]
+    },
+    "q2": {
+      "explanation_html": "<p><strong>Answer: music</strong></p><p><strong>Câu hỏi:</strong> educated himself through books, theatrical performances and ______.</p><p><strong>Vị trí thông tin:</strong> Đoạn 2.</p><p>_<strong>Câu chứa thông tin:</strong> He became an avid reader, a theatergoer, and a lover of music._</p><p><strong>Giải thích:</strong></p><p>&quot;Books&quot; tương ứng với <strong>avid reader</strong>, &quot;theatrical performances&quot; tương ứng với <strong>theatergoer</strong>, nên phần còn thiếu là <strong>music</strong>.</p><p><strong>Dịch câu hỏi:</strong> Ông tự học qua sách, các buổi biểu diễn sân khấu và <strong>âm nhạc</strong>.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "avid reader, theatergoer, lover of music"
+        }
+      ]
+    },
+    "q3": {
+      "explanation_html": "<p><strong>Answer: secretary</strong></p><p><strong>Câu hỏi:</strong> became ______ to Thomas A. Scott at Pennsylvania Railroad.</p><p><strong>Vị trí thông tin:</strong> Đoạn 3.</p><p>_<strong>Câu chứa thông tin:</strong> Thomas A. Scott... made the eighteen-year-old his secretary._</p><p><strong>Giải thích:</strong></p><p>Câu hỏi dùng cấu trúc &quot;became ... to Thomas A. Scott&quot;. Trong bài, Thomas A. Scott đã biến Carnegie 18 tuổi thành <strong>his secretary</strong>. Đáp án là <strong>secretary</strong>.</p><p><strong>Dịch câu hỏi:</strong> Trở thành <strong>thư ký</strong> của Thomas A. Scott tại Pennsylvania Railroad.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "made the eighteen-year-old his secretary"
+        }
+      ]
+    },
+    "q4": {
+      "explanation_html": "<p><strong>Answer: steel</strong></p><p><strong>Câu hỏi:</strong> realised that changing engineering needs would require a greater demand for ______.</p><p><strong>Vị trí thông tin:</strong> Đoạn 4.</p><p>_<strong>Câu chứa thông tin:</strong> Carnegie began to see that steel was eventually going to replace iron for the manufacture of rails, structural shapes, pipe, and wire._</p><p><strong>Giải thích:</strong></p><p>&quot;Changing engineering needs&quot; được diễn đạt bằng việc các sản phẩm như đường ray, kết cấu, ống và dây sẽ chuyển từ dùng sắt sang dùng <strong>steel</strong>. Vì vậy nhu cầu tăng lên là nhu cầu về <strong>steel</strong>.</p><p><strong>Dịch câu hỏi:</strong> Nhận ra rằng các nhu cầu kỹ thuật thay đổi sẽ làm tăng nhu cầu về <strong>thép</strong>.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "steel was eventually going to replace iron"
+        }
+      ]
+    },
+    "q5": {
+      "explanation_html": "<p><strong>Answer: prices</strong></p><p><strong>Câu hỏi:</strong> managed a rail manufacturing business by reducing ______.</p><p><strong>Vị trí thông tin:</strong> Đoạn 4.</p><p>_<strong>Câu chứa thông tin:</strong> ...continued building by cutting prices, driving out competitors..._</p><p><strong>Giải thích:</strong></p><p>&quot;Reducing&quot; trong câu hỏi đồng nghĩa với <strong>cutting</strong> trong bài. Carnegie phát triển công ty bằng cách <strong>cutting prices</strong>, nên đáp án là <strong>prices</strong>.</p><p><strong>Dịch câu hỏi:</strong> Quản lý doanh nghiệp sản xuất đường ray bằng cách giảm <strong>giá cả</strong>.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "cutting prices"
+        }
+      ]
+    },
+    "q6": {
+      "explanation_html": "<p><strong>Answer: banks</strong></p><p><strong>Câu hỏi:</strong> reinvesting profit and sometimes borrowing money from ______.</p><p><strong>Vị trí thông tin:</strong> Đoạn 4.</p><p>_<strong>Câu chứa thông tin:</strong> Instead he obtained capital from profit, and when necessary from banks..._</p><p><strong>Giải thích:</strong></p><p>&quot;Reinvesting profit&quot; tương ứng với <strong>obtained capital from profit</strong>. Khi cần thêm vốn, ông lấy vốn từ <strong>banks</strong>. Đáp án cần một từ, nên điền <strong>banks</strong>.</p><p><strong>Dịch câu hỏi:</strong> Tái đầu tư lợi nhuận và đôi khi vay tiền từ <strong>ngân hàng</strong>.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "when necessary from banks"
+        }
+      ]
+    },
+    "q7": {
+      "explanation_html": "<p><strong>Answer: projects</strong></p><p><strong>Câu hỏi:</strong> Carnegie&#x27;s responsibilities: arranging future ______ and innovations for factories.</p><p><strong>Vị trí thông tin:</strong> Đoạn 5.</p><p>_<strong>Câu chứa thông tin:</strong> Behind the scenes, Carnegie planned new projects and the improvement of existing plants..._</p><p><strong>Giải thích:</strong></p><p>&quot;Arranging future&quot; paraphrase cho <strong>planned new</strong>. &quot;Innovations for factories&quot; tương ứng với <strong>improvement of existing plants</strong>. Từ cần điền là <strong>projects</strong>.</p><p><strong>Dịch câu hỏi:</strong> Trách nhiệm của Carnegie là sắp xếp các <strong>dự án</strong> tương lai và cải tiến cho nhà máy.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "Carnegie planned new projects and the improvement of existing plants"
+        }
+      ]
+    },
+    "q8": {
+      "explanation_html": "<p><strong>Answer: TRUE</strong></p><p><strong>Câu hỏi:</strong> Carnegie believed that the USA offered more opportunities than European countries did.</p><p><strong>Vị trí thông tin:</strong> Đoạn 6.</p><p>_<strong>Câu chứa thông tin:</strong> Triumphant Democracy... pointed out what he thought were the advantages of life in the United States over the unequal societies of Britain and other European countries._</p><p><strong>Keyword/paraphrase:</strong></p><p>- USA offered more opportunities -&gt; advantages of life in the United States</p><p>- European countries -&gt; Britain and other European countries</p><p><strong>Giải thích:</strong></p><p>Bài nói Carnegie viết về những lợi thế của cuộc sống ở Mỹ so với các xã hội bất bình đẳng ở Anh và châu Âu. Ý này khớp với nhận định rằng ông tin Mỹ đem lại nhiều cơ hội/lợi thế hơn các nước châu Âu.</p><p>Thông tin trong bài đồng ý với câu hỏi, nên đáp án là <strong>TRUE</strong>.</p><p><strong>Dịch câu hỏi:</strong> Carnegie tin rằng Mỹ đem lại nhiều cơ hội hơn các quốc gia châu Âu.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "advantages of life in the United States over unequal societies of Britain and Europe"
+        }
+      ]
+    },
+    "q9": {
+      "explanation_html": "<p><strong>Answer: TRUE</strong></p><p><strong>Câu hỏi:</strong> A smaller workforce was required at the Homestead factory after Carnegie took control.</p><p><strong>Vị trí thông tin:</strong> Đoạn 7.</p><p>_<strong>Câu chứa thông tin:</strong> After acquiring Homestead, Carnegie had invested in new plants and equipment, increased production, and automated many of the mill&#x27;s operations, cutting down the number of workers that were needed._</p><p><strong>Keyword/paraphrase:</strong></p><p>- smaller workforce was required -&gt; cutting down the number of workers that were needed</p><p>- after Carnegie took control -&gt; after acquiring Homestead</p><p><strong>Giải thích:</strong></p><p>Sau khi mua Homestead, Carnegie tự động hóa nhiều hoạt động của nhà máy, làm giảm số công nhân cần thiết. Đây chính là ý &quot;a smaller workforce was required&quot;.</p><p>Thông tin trong bài đồng ý với câu hỏi, nên đáp án là <strong>TRUE</strong>.</p><p><strong>Dịch câu hỏi:</strong> Sau khi Carnegie tiếp quản, nhà máy Homestead cần lực lượng lao động nhỏ hơn.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "automated operations, cutting down the number of workers"
+        }
+      ]
+    },
+    "q10": {
+      "explanation_html": "<p><strong>Answer: FALSE</strong></p><p><strong>Câu hỏi:</strong> Carnegie prevented his workers from joining unions.</p><p><strong>Vị trí thông tin:</strong> Đoạn 7.</p><p>_<strong>Câu chứa thông tin:</strong> Carnegie believed that workers had a right to join unions and to bargain with management through their unions._</p><p><strong>Keyword/paraphrase:</strong></p><p>- prevented workers from joining unions -&gt; ngăn công nhân gia nhập công đoàn</p><p>- had a right to join unions -&gt; có quyền gia nhập công đoàn</p><p><strong>Giải thích:</strong></p><p>Câu hỏi nói Carnegie ngăn công nhân tham gia công đoàn. Bài lại nói ông tin công nhân có quyền tham gia công đoàn và thương lượng với ban quản lý thông qua công đoàn.</p><p>Thông tin trong bài trái với câu hỏi, nên đáp án là <strong>FALSE</strong>.</p><p><strong>Dịch câu hỏi:</strong> Carnegie ngăn công nhân của mình gia nhập công đoàn.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "workers had a right to join unions"
+        }
+      ]
+    },
+    "q11": {
+      "explanation_html": "<p><strong>Answer: NOT GIVEN</strong></p><p><strong>Câu hỏi:</strong> Carnegie blamed Frick for the violent workers strike in 1892.</p><p><strong>Vị trí thông tin:</strong> Đoạn 7-8.</p><p>_<strong>Câu chứa thông tin liên quan:</strong> Following a violent confrontation that resulted in the death of eight workers, soldiers were sent in to restore order and Carnegie was criticized for his lack of action._</p><p><strong>Keyword/paraphrase:</strong></p><p>- blamed Frick -&gt; đổ lỗi cho Frick</p><p>- violent workers strike -&gt; violent confrontation / strike</p><p><strong>Giải thích:</strong></p><p>Bài có nói Frick muốn hạ mức lương tối thiểu và công đoàn tổ chức đình công. Bài cũng nói Carnegie bị chỉ trích vì thiếu hành động sau cuộc đối đầu bạo lực. Tuy nhiên, bài không nói Carnegie có đổ lỗi cho Frick hay không.</p><p>Thiếu thông tin để kết luận, nên đáp án là <strong>NOT GIVEN</strong>.</p><p><strong>Dịch câu hỏi:</strong> Carnegie đổ lỗi cho Frick về cuộc đình công bạo lực của công nhân năm 1892.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "Carnegie was criticized; không nói Carnegie đổ lỗi cho Frick"
+        }
+      ]
+    },
+    "q12": {
+      "explanation_html": "<p><strong>Answer: FALSE</strong></p><p><strong>Câu hỏi:</strong> In the 1890s Carnegie negotiated with his competitors.</p><p><strong>Vị trí thông tin:</strong> Đoạn 8.</p><p>_<strong>Câu chứa thông tin:</strong> These threats made him decide to fight back. He refused to enter into any agreements with other companies. Moreover, he decided to invade their territories..._</p><p><strong>Keyword/paraphrase:</strong></p><p>- negotiated with competitors -&gt; đàm phán/hợp tác/thỏa thuận với đối thủ</p><p>- refused to enter into any agreements -&gt; từ chối tham gia bất kỳ thỏa thuận nào</p><p>- decided to fight back -&gt; quyết định phản công</p><p><strong>Giải thích:</strong></p><p>Câu hỏi nói Carnegie đàm phán với các đối thủ trong thập niên 1890. Bài mô tả tình huống ngược lại: các công ty khác gây sức ép, nhưng Carnegie quyết định chống lại, từ chối tham gia thỏa thuận và mở rộng sang lãnh thổ của họ.</p><p>Vì vậy, theo wording hiện tại của đề, thông tin trong bài trái với câu hỏi. Đáp án là <strong>FALSE</strong>.</p><p><strong>Lưu ý:</strong> Key gốc ghi TRUE, nhưng key này không khớp câu hỏi đang có trong file đề.</p><p><strong>Dịch câu hỏi:</strong> Trong thập niên 1890, Carnegie đã đàm phán với các đối thủ của mình.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "refused to enter into any agreements; decided to fight back"
+        }
+      ]
+    },
+    "q13": {
+      "explanation_html": "<p><strong>Answer: FALSE</strong></p><p><strong>Câu hỏi:</strong> Carnegie&#x27;s provision of funds for libraries was limited to those in the United States.</p><p><strong>Vị trí thông tin:</strong> Đoạn 9.</p><p>_<strong>Câu chứa thông tin:</strong> He built some three thousand public libraries all over the English-speaking world and funded galleries, museums and concert halls in the US._</p><p><strong>Keyword/paraphrase:</strong></p><p>- limited to those in the United States -&gt; chỉ giới hạn ở Mỹ</p><p>- libraries all over the English-speaking world -&gt; thư viện khắp thế giới nói tiếng Anh</p><p>- galleries, museums and concert halls in the US -&gt; phòng tranh, bảo tàng, phòng hòa nhạc ở Mỹ</p><p><strong>Giải thích:</strong></p><p>Cần phân biệt hai nhóm tài trợ. Với <strong>libraries</strong>, bài nói Carnegie xây khoảng 3.000 thư viện công cộng trên khắp thế giới nói tiếng Anh. Cụm <strong>in the US</strong> chỉ áp dụng cho galleries, museums và concert halls ở vế sau, không phải thư viện.</p><p>Vì thư viện không bị giới hạn ở Mỹ, câu hỏi trái với bài. Đáp án là <strong>FALSE</strong>.</p><p><strong>Lưu ý:</strong> Key gốc ghi TRUE, nhưng theo câu trong bài thì đáp án đúng phải là FALSE.</p><p><strong>Dịch câu hỏi:</strong> Việc Carnegie cấp vốn cho thư viện chỉ giới hạn ở các thư viện tại Hoa Kỳ.</p><p>---</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p1",
+          "text": "public libraries all over the English-speaking world"
+        }
+      ]
+    },
+    "q14": {
+      "explanation_html": "<p><strong>Answer: E</strong></p><p><strong>Câu hỏi:</strong> the effect that a client&#x27;s requirements have on the nature of a translation.</p><p><strong>Vị trí thông tin:</strong> Đoạn E.</p><p>_<strong>Câu chứa thông tin:</strong> The success of translation depends on the purpose for which it was made, which in turn reflects the needs of the people for whom it was made._</p><p><strong>Keyword/paraphrase:</strong></p><p>- client&#x27;s requirements -&gt; needs of the people for whom it was made</p><p>- nature of a translation -&gt; purpose / what kind of translation is suitable</p><p><strong>Giải thích:</strong></p><p>Đoạn E giải thích rằng không có bản dịch nào là &quot;tốt nhất&quot; cho mọi trường hợp. Bản dịch thành công hay không phụ thuộc vào mục đích và nhu cầu của người dùng bản dịch. Đây chính là tác động của yêu cầu khách hàng lên bản chất/cách dịch.</p><p>Đáp án là <strong>E</strong>.</p><p><strong>Dịch câu hỏi:</strong> Ảnh hưởng của yêu cầu khách hàng đến bản chất của một bản dịch.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "success depends on purpose; needs of the people for whom it was made"
+        }
+      ]
+    },
+    "q15": {
+      "explanation_html": "<p><strong>Answer: H</strong></p><p><strong>Câu hỏi:</strong> contrasting attitudes towards translators.</p><p><strong>Vị trí thông tin:</strong> Đoạn H.</p><p>_<strong>Câu chứa thông tin:</strong> Some countries view translation as a menial, clerical task... while others regard it as a major intellectual discipline in its own right._</p><p><strong>Keyword/paraphrase:</strong></p><p>- contrasting attitudes -&gt; some countries... while others...</p><p>- towards translators/translation -&gt; view translation as menial vs major intellectual discipline</p><p><strong>Giải thích:</strong></p><p>Đoạn H so sánh hai thái độ trái ngược: một số nước xem dịch thuật là công việc văn phòng thấp cấp, còn một số nước khác xem nó là một ngành trí tuệ quan trọng. Đây là &quot;contrasting attitudes&quot;.</p><p>Đáp án là <strong>H</strong>.</p><p><strong>Dịch câu hỏi:</strong> Những thái độ trái ngược đối với người dịch/dịch thuật.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "some countries view translation as menial; others regard it as major intellectual discipline"
+        }
+      ]
+    },
+    "q16": {
+      "explanation_html": "<p><strong>Answer: semantic equivalence</strong></p><p><strong>Câu hỏi:</strong> Translation is an attempt to create a text in the target language which displays ______ with a source text.</p><p><strong>Vị trí thông tin:</strong> Đoạn C.</p><p>_<strong>Câu chứa thông tin:</strong> The aim of translation is to provide semantic equivalence between source and target language._</p><p><strong>Giải thích:</strong></p><p>&quot;The goal of translation&quot; trong summary tương ứng với <strong>The aim of translation</strong> trong bài. Mục tiêu là tạo ra <strong>semantic equivalence</strong> giữa ngôn ngữ nguồn và ngôn ngữ đích.</p><p>Đáp án gồm hai từ, đúng yêu cầu &quot;NO MORE THAN TWO WORDS&quot;: <strong>semantic equivalence</strong>.</p><p><strong>Dịch câu hỏi:</strong> Dịch thuật là nỗ lực tạo ra văn bản ở ngôn ngữ đích có <strong>sự tương đương về nghĩa</strong> với văn bản nguồn.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "provide semantic equivalence"
+        }
+      ]
+    },
+    "q17": {
+      "explanation_html": "<p><strong>Answer: purpose</strong></p><p><strong>Câu hỏi:</strong> translations are best judged according to their ______.</p><p><strong>Vị trí thông tin:</strong> Đoạn E.</p><p>_<strong>Câu chứa thông tin:</strong> The success of translation depends on the purpose for which it was made..._</p><p><strong>Giải thích:</strong></p><p>Bài nói thành công của một bản dịch phụ thuộc vào <strong>purpose</strong> của nó. Summary diễn đạt lại là bản dịch nên được đánh giá theo <strong>purpose</strong>.</p><p><strong>Dịch câu hỏi:</strong> Các bản dịch nên được đánh giá theo <strong>mục đích</strong> của chúng.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "depends on the purpose for which it was made"
+        }
+      ]
+    },
+    "q18": {
+      "explanation_html": "<p><strong>Answer: stylistic features</strong></p><p><strong>Câu hỏi:</strong> the translator of a business letter or scientific text does not need to consider its ______ aspects.</p><p><strong>Vị trí thông tin:</strong> Đoạn E.</p><p>_<strong>Câu chứa thông tin:</strong> A translation of a scientific article requires careful attention to meaning but little attention to stylistic features._</p><p><strong>Keyword/paraphrase:</strong></p><p>- does not need to consider -&gt; little attention to</p><p>- aspects -&gt; features</p><p><strong>Giải thích:</strong></p><p>Với bài báo khoa học, người dịch cần chú ý nghĩa, nhưng ít chú ý đến <strong>stylistic features</strong>. Summary dùng &quot;does not need to consider&quot; để diễn đạt lại &quot;little attention to&quot;.</p><p>Đáp án là <strong>stylistic features</strong>.</p><p><strong>Dịch câu hỏi:</strong> Người dịch thư thương mại hoặc văn bản khoa học không cần chú ý nhiều đến các khía cạnh <strong>phong cách</strong>.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "little attention to stylistic features"
+        }
+      ]
+    },
+    "q19": {
+      "explanation_html": "<p><strong>Answer: content</strong></p><p><strong>Câu hỏi:</strong> someone dubbing a film may give a relatively low value to ______.</p><p><strong>Vị trí thông tin:</strong> Đoạn E.</p><p>_<strong>Câu chứa thông tin:</strong> The provision of a dubbed film script will warrant scrupulous care over the synchronisation of lip movements, often at the expense of content._</p><p><strong>Keyword/paraphrase:</strong></p><p>- dubbing a film -&gt; dubbed film script</p><p>- give a relatively low value to -&gt; at the expense of</p><p><strong>Giải thích:</strong></p><p>Khi lồng tiếng phim, người dịch có thể ưu tiên đồng bộ chuyển động môi. Điều này thường xảy ra <strong>at the expense of content</strong>, tức nội dung bị xem nhẹ hoặc hy sinh một phần.</p><p>Đáp án là <strong>content</strong>.</p><p><strong>Dịch câu hỏi:</strong> Người lồng tiếng phim có thể xem nhẹ <strong>nội dung</strong>.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "at the expense of content"
+        }
+      ]
+    },
+    "q20": {
+      "explanation_html": "<p><strong>Answer: E - pragmatic</strong></p><p><strong>Câu hỏi:</strong> focuses on reproducing the content accurately.</p><p><strong>Vị trí thông tin:</strong> Đoạn F.</p><p>_<strong>Câu chứa thông tin:</strong> A pragmatic translation emphasises accuracy and knowledge of the subject, required for instruction manuals and much scientific research._</p><p><strong>Keyword/paraphrase:</strong></p><p>- focuses on -&gt; emphasises</p><p>- content accurately -&gt; accuracy and knowledge of the subject</p><p><strong>Giải thích:</strong></p><p>Dịch <strong>pragmatic</strong> nhấn mạnh tính chính xác và kiến thức chuyên môn, thường dùng cho hướng dẫn sử dụng và nghiên cứu khoa học. Đây là loại dịch tập trung vào việc truyền đạt nội dung chính xác.</p><p>Đáp án là <strong>E</strong>.</p><p><strong>Dịch câu hỏi:</strong> Tập trung tái hiện nội dung một cách chính xác.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "pragmatic translation emphasises accuracy and knowledge of the subject"
+        }
+      ]
+    },
+    "q21": {
+      "explanation_html": "<p><strong>Answer: B - ethnographic</strong></p><p><strong>Câu hỏi:</strong> looks at important cultural aspects of language use.</p><p><strong>Vị trí thông tin:</strong> Đoạn F.</p><p>_<strong>Câu chứa thông tin:</strong> Ethnographic or sociolinguistic translations aim to pay full attention to the cultural backgrounds of the authors and the recipients..._</p><p><strong>Keyword/paraphrase:</strong></p><p>- cultural aspects -&gt; cultural backgrounds</p><p>- language use -&gt; source and target language / ways of life</p><p><strong>Giải thích:</strong></p><p>Dịch <strong>ethnographic</strong> chú ý đầy đủ đến bối cảnh văn hóa của tác giả và người nhận. Vì vậy loại này phù hợp với đặc điểm &quot;important cultural aspects&quot;.</p><p>Đáp án là <strong>B</strong>.</p><p><strong>Dịch câu hỏi:</strong> Xem xét các khía cạnh văn hóa quan trọng trong việc sử dụng ngôn ngữ.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "ethnographic/sociolinguistic translations pay attention to cultural backgrounds"
+        }
+      ]
+    },
+    "q22": {
+      "explanation_html": "<p><strong>Answer: D - literal</strong></p><p><strong>Câu hỏi:</strong> follows the original grammatical structures as required by the target language.</p><p><strong>Vị trí thông tin:</strong> Đoạn G.</p><p>_<strong>Câu chứa thông tin:</strong> In a literal translation the linguistic structure of the source text is followed, but is normalised according to the rules of the target language._</p><p><strong>Keyword/paraphrase:</strong></p><p>- original grammatical structures -&gt; linguistic structure of the source text</p><p>- as required by target language -&gt; normalised according to the rules of the target language</p><p><strong>Giải thích:</strong></p><p>Dịch <strong>literal</strong> vẫn theo cấu trúc ngôn ngữ của văn bản nguồn, nhưng điều chỉnh cho đúng quy tắc của ngôn ngữ đích. Đây là mô tả khớp nhất với câu hỏi.</p><p>Đáp án là <strong>D</strong>.</p><p><strong>Dịch câu hỏi:</strong> Theo cấu trúc ngữ pháp gốc nhưng được điều chỉnh theo quy tắc ngôn ngữ đích.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "literal translation follows source structure, normalised according to target language rules"
+        }
+      ]
+    },
+    "q23": {
+      "explanation_html": "<p><strong>Answer: C - free</strong></p><p><strong>Câu hỏi:</strong> focuses on meaning without necessarily using the original grammatical structures.</p><p><strong>Vị trí thông tin:</strong> Đoạn G.</p><p>_<strong>Câu chứa thông tin:</strong> In a free translation the linguistic structure of the source language is ignored, and an equivalent is found based on the meaning it conveys._</p><p><strong>Keyword/paraphrase:</strong></p><p>- focuses on meaning -&gt; based on the meaning it conveys</p><p>- without original grammatical structures -&gt; linguistic structure... is ignored</p><p><strong>Giải thích:</strong></p><p>Dịch <strong>free</strong> bỏ qua cấu trúc ngôn ngữ nguồn và tìm cách diễn đạt tương đương dựa trên nghĩa. Vì vậy đáp án là <strong>C</strong>.</p><p><strong>Dịch câu hỏi:</strong> Tập trung vào nghĩa mà không nhất thiết dùng cấu trúc ngữ pháp gốc.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "free translation ignores source linguistic structure, equivalent based on meaning"
+        }
+      ]
+    },
+    "q24": {
+      "explanation_html": "<p><strong>Answer: A, B, D</strong></p><p><strong>Câu hỏi:</strong> Which THREE of the following points are mentioned by the writer?</p><p><strong>Vị trí thông tin:</strong> Đoạn A, B, C, E.</p><p><strong>Phân tích từng lựa chọn:</strong></p><p><strong>A. The objectives of translating are always clearly different from those of interpreting.</strong></p><p>Đoạn A có nhắc tới sự phân biệt giữa <strong>interpreting</strong> và <strong>translating</strong> trong bối cảnh nghề nghiệp: interpreting xử lý ngôn ngữ nói/ký hiệu, translating xử lý ngôn ngữ viết. Tuy nhiên, bài cũng nói <strong>certain tasks blur this distinction</strong>. Vì vậy, nếu lựa chọn A trong đề hiện tại có chữ <strong>always clearly different</strong>, wording này không thật khớp. Key gốc vẫn chọn A, nên nhiều khả năng câu hỏi gốc bị nhập sai hoặc thiếu ý phủ định.</p><p><strong>B. A translator may need to consider the culture of the target language.</strong></p><p>Đúng. Đoạn B nói người dịch phải cân nhắc các <strong>social, cultural, or emotional connotations</strong> trong ngôn ngữ đích. Đoạn F cũng nhắc tới cultural backgrounds trong dịch ethnographic/sociolinguistic.</p><p><strong>C. Translation is an activity which requires professional training.</strong></p><p>Không chọn. Bài nói dịch thuật phức tạp và cần nhiều kỹ năng, nhưng không nói bắt buộc phải có đào tạo chuyên nghiệp.</p><p><strong>D. It is difficult to specify what constitutes a very good translation.</strong></p><p>Đúng. Đoạn C nói có nhiều vấn đề trong tiêu chuẩn &quot;equivalence&quot;; đoạn E nói <strong>there is no such thing as a best translation</strong>, vì bản dịch tốt hay không còn phụ thuộc mục đích.</p><p><strong>E. The skill required for translation is increasingly gaining recognition.</strong></p><p>Không chọn theo key gốc. Đoạn H nói tầm quan trọng của dịch thuật thường bị đánh giá thấp và địa vị người dịch còn bị xem nhẹ; nhu cầu người dịch tăng ở châu Âu không đồng nghĩa trực tiếp với việc kỹ năng dịch thuật đang ngày càng được công nhận.</p><p><strong>Dịch câu hỏi:</strong> Ba ý nào sau đây được tác giả đề cập trong bài?</p><p>---</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "distinction between interpreting/translating; culture; no best translation/equivalence standards"
+        }
+      ]
+    },
+    "q25": {
+      "explanation_html": "<p><strong>Answer: A, B, D</strong></p><p><strong>Câu hỏi:</strong> Which THREE of the following points are mentioned by the writer?</p><p><strong>Vị trí thông tin:</strong> Đoạn A, B, C, E.</p><p><strong>Phân tích từng lựa chọn:</strong></p><p><strong>A. The objectives of translating are always clearly different from those of interpreting.</strong></p><p>Đoạn A có nhắc tới sự phân biệt giữa <strong>interpreting</strong> và <strong>translating</strong> trong bối cảnh nghề nghiệp: interpreting xử lý ngôn ngữ nói/ký hiệu, translating xử lý ngôn ngữ viết. Tuy nhiên, bài cũng nói <strong>certain tasks blur this distinction</strong>. Vì vậy, nếu lựa chọn A trong đề hiện tại có chữ <strong>always clearly different</strong>, wording này không thật khớp. Key gốc vẫn chọn A, nên nhiều khả năng câu hỏi gốc bị nhập sai hoặc thiếu ý phủ định.</p><p><strong>B. A translator may need to consider the culture of the target language.</strong></p><p>Đúng. Đoạn B nói người dịch phải cân nhắc các <strong>social, cultural, or emotional connotations</strong> trong ngôn ngữ đích. Đoạn F cũng nhắc tới cultural backgrounds trong dịch ethnographic/sociolinguistic.</p><p><strong>C. Translation is an activity which requires professional training.</strong></p><p>Không chọn. Bài nói dịch thuật phức tạp và cần nhiều kỹ năng, nhưng không nói bắt buộc phải có đào tạo chuyên nghiệp.</p><p><strong>D. It is difficult to specify what constitutes a very good translation.</strong></p><p>Đúng. Đoạn C nói có nhiều vấn đề trong tiêu chuẩn &quot;equivalence&quot;; đoạn E nói <strong>there is no such thing as a best translation</strong>, vì bản dịch tốt hay không còn phụ thuộc mục đích.</p><p><strong>E. The skill required for translation is increasingly gaining recognition.</strong></p><p>Không chọn theo key gốc. Đoạn H nói tầm quan trọng của dịch thuật thường bị đánh giá thấp và địa vị người dịch còn bị xem nhẹ; nhu cầu người dịch tăng ở châu Âu không đồng nghĩa trực tiếp với việc kỹ năng dịch thuật đang ngày càng được công nhận.</p><p><strong>Dịch câu hỏi:</strong> Ba ý nào sau đây được tác giả đề cập trong bài?</p><p>---</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "distinction between interpreting/translating; culture; no best translation/equivalence standards"
+        }
+      ]
+    },
+    "q26": {
+      "explanation_html": "<p><strong>Answer: A, B, D</strong></p><p><strong>Câu hỏi:</strong> Which THREE of the following points are mentioned by the writer?</p><p><strong>Vị trí thông tin:</strong> Đoạn A, B, C, E.</p><p><strong>Phân tích từng lựa chọn:</strong></p><p><strong>A. The objectives of translating are always clearly different from those of interpreting.</strong></p><p>Đoạn A có nhắc tới sự phân biệt giữa <strong>interpreting</strong> và <strong>translating</strong> trong bối cảnh nghề nghiệp: interpreting xử lý ngôn ngữ nói/ký hiệu, translating xử lý ngôn ngữ viết. Tuy nhiên, bài cũng nói <strong>certain tasks blur this distinction</strong>. Vì vậy, nếu lựa chọn A trong đề hiện tại có chữ <strong>always clearly different</strong>, wording này không thật khớp. Key gốc vẫn chọn A, nên nhiều khả năng câu hỏi gốc bị nhập sai hoặc thiếu ý phủ định.</p><p><strong>B. A translator may need to consider the culture of the target language.</strong></p><p>Đúng. Đoạn B nói người dịch phải cân nhắc các <strong>social, cultural, or emotional connotations</strong> trong ngôn ngữ đích. Đoạn F cũng nhắc tới cultural backgrounds trong dịch ethnographic/sociolinguistic.</p><p><strong>C. Translation is an activity which requires professional training.</strong></p><p>Không chọn. Bài nói dịch thuật phức tạp và cần nhiều kỹ năng, nhưng không nói bắt buộc phải có đào tạo chuyên nghiệp.</p><p><strong>D. It is difficult to specify what constitutes a very good translation.</strong></p><p>Đúng. Đoạn C nói có nhiều vấn đề trong tiêu chuẩn &quot;equivalence&quot;; đoạn E nói <strong>there is no such thing as a best translation</strong>, vì bản dịch tốt hay không còn phụ thuộc mục đích.</p><p><strong>E. The skill required for translation is increasingly gaining recognition.</strong></p><p>Không chọn theo key gốc. Đoạn H nói tầm quan trọng của dịch thuật thường bị đánh giá thấp và địa vị người dịch còn bị xem nhẹ; nhu cầu người dịch tăng ở châu Âu không đồng nghĩa trực tiếp với việc kỹ năng dịch thuật đang ngày càng được công nhận.</p><p><strong>Dịch câu hỏi:</strong> Ba ý nào sau đây được tác giả đề cập trong bài?</p><p>---</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p2",
+          "text": "distinction between interpreting/translating; culture; no best translation/equivalence standards"
+        }
+      ]
+    },
+    "q27": {
+      "explanation_html": "<p><strong>Answer: D - wood</strong></p><p><strong>Câu hỏi:</strong> there was no ______ around, which would have helped with their construction.</p><p><strong>Vị trí thông tin:</strong> Đoạn 1.</p><p>_<strong>Câu chứa thông tin:</strong> But as there were no forests on the island, he could not comprehend how people devoid of heavy timber could build and erect something that size._</p><p><strong>Keyword/paraphrase:</strong></p><p>- no ... around -&gt; no forests / devoid of</p><p>- helped with construction -&gt; heavy timber could build and erect</p><p><strong>Giải thích:</strong></p><p>Roggeveen ngạc nhiên vì trên đảo không có rừng, tức không có gỗ lớn để hỗ trợ xây dựng và dựng tượng. Trong các lựa chọn, <strong>wood</strong> khớp với <strong>heavy timber</strong>.</p><p>Đáp án là <strong>D - wood</strong>.</p><p><strong>Dịch câu hỏi:</strong> Không có <strong>gỗ</strong> xung quanh, thứ có thể giúp xây dựng các bức tượng.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "no forests; devoid of heavy timber"
+        }
+      ]
+    },
+    "q28": {
+      "explanation_html": "<p><strong>Answer: C - boats</strong></p><p><strong>Câu hỏi:</strong> Another mystery was the poor quality of the local inhabitants&#x27; ______.</p><p><strong>Vị trí thông tin:</strong> Đoạn 1.</p><p>_<strong>Câu chứa thông tin:</strong> Their canoes were leaky and frail, not the sort of ocean-going craft that could survive a three-week sea journey._</p><p><strong>Keyword/paraphrase:</strong></p><p>- poor quality -&gt; leaky and frail</p><p>- boats -&gt; canoes / ocean-going craft</p><p><strong>Giải thích:</strong></p><p>Bài mô tả thuyền độc mộc của dân đảo bị rò rỉ và mỏng manh, không phù hợp cho hành trình biển dài. Do đó &quot;poor quality&quot; nói về <strong>boats</strong>.</p><p>Đáp án là <strong>C - boats</strong>.</p><p><strong>Dịch câu hỏi:</strong> Bí ẩn khác là chất lượng kém của <strong>thuyền</strong> của cư dân địa phương.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "canoes were leaky and frail"
+        }
+      ]
+    },
+    "q29": {
+      "explanation_html": "<p><strong>Answer: A - poverty</strong></p><p><strong>Câu hỏi:</strong> he observed that the people were living in ______.</p><p><strong>Vị trí thông tin:</strong> Đoạn 1.</p><p>_<strong>Câu chứa thông tin:</strong> At the time of his visit, it seemed evident the islanders were living in extremely poor conditions..._</p><p><strong>Keyword/paraphrase:</strong></p><p>- living in poverty -&gt; living in extremely poor conditions</p><p><strong>Giải thích:</strong></p><p>&quot;Extremely poor conditions&quot; là cách diễn đạt tương đương với <strong>poverty</strong>. Vì vậy đáp án là <strong>A - poverty</strong>.</p><p><strong>Dịch câu hỏi:</strong> Ông quan sát thấy người dân đang sống trong <strong>nghèo đói</strong>.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "living in extremely poor conditions"
+        }
+      ]
+    },
+    "q30": {
+      "explanation_html": "<p><strong>Answer: B - agriculture</strong></p><p><strong>Câu hỏi:</strong> there was no evidence of successful ______ on the island.</p><p><strong>Vị trí thông tin:</strong> Đoạn 1.</p><p>_<strong>Câu chứa thông tin:</strong> ...and that there was no cultivation of crops._</p><p><strong>Keyword/paraphrase:</strong></p><p>- agriculture -&gt; cultivation of crops</p><p>- no evidence of successful -&gt; no cultivation</p><p><strong>Giải thích:</strong></p><p>&quot;Cultivation of crops&quot; nghĩa là trồng trọt, tương ứng với <strong>agriculture</strong>. Bài nói không có việc trồng cây lương thực, nên đáp án là <strong>B - agriculture</strong>.</p><p><strong>Dịch câu hỏi:</strong> Không có bằng chứng về <strong>nông nghiệp</strong> thành công trên đảo.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "no cultivation of crops"
+        }
+      ]
+    },
+    "q31": {
+      "explanation_html": "<p><strong>Answer: YES</strong></p><p><strong>Câu hỏi:</strong> Erich von Daniken&#x27;s claims were briefly accepted by some sections of society.</p><p><strong>Vị trí thông tin:</strong> Đoạn 2.</p><p>_<strong>Câu chứa thông tin:</strong> ...for a short period of time his theory appealed to those fascinated with space travel._</p><p><strong>Keyword/paraphrase:</strong></p><p>- briefly -&gt; for a short period of time</p><p>- accepted by some sections of society -&gt; appealed to those fascinated with space travel</p><p><strong>Giải thích:</strong></p><p>Bài nói giả thuyết của von Daniken từng hấp dẫn một nhóm người quan tâm đến du hành vũ trụ trong một thời gian ngắn. Điều này khớp với ý &quot;briefly accepted by some sections of society&quot;.</p><p>Thông tin đồng ý với câu hỏi, nên đáp án là <strong>YES</strong>.</p><p><strong>Dịch câu hỏi:</strong> Các tuyên bố của Erich von Daniken từng được một số nhóm trong xã hội chấp nhận trong thời gian ngắn.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "for a short period his theory appealed to those fascinated with space travel"
+        }
+      ]
+    },
+    "q32": {
+      "explanation_html": "<p><strong>Answer: NOT GIVEN</strong></p><p><strong>Câu hỏi:</strong> Archaeologists removed valuable artefacts from the island.</p><p><strong>Vị trí thông tin:</strong> Không có thông tin.</p><p><strong>Giải thích:</strong></p><p>Bài nhắc tới các nhà khảo cổ học và tranh luận của họ về tượng đá, phá rừng, bệnh tật, buôn bán nô lệ và chuột. Tuy nhiên, bài không nói các nhà khảo cổ đã lấy đi hiện vật có giá trị khỏi đảo.</p><p>Không có thông tin để kết luận, nên đáp án là <strong>NOT GIVEN</strong>.</p><p><strong>Dịch câu hỏi:</strong> Các nhà khảo cổ học đã lấy những hiện vật có giá trị khỏi hòn đảo.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "không có thông tin"
+        }
+      ]
+    },
+    "q33": {
+      "explanation_html": "<p><strong>Answer: NOT GIVEN</strong></p><p><strong>Câu hỏi:</strong> Smallpox continued to affect Easter Island&#x27;s inhabitants for centuries.</p><p><strong>Vị trí thông tin:</strong> Đoạn 2-3 có nhắc tới smallpox, nhưng không nói thời gian kéo dài.</p><p>_<strong>Câu chứa thông tin liên quan:</strong> ...introduced diseases, notably smallpox... Smallpox and slavery killed off those who remained..._</p><p><strong>Keyword/paraphrase:</strong></p><p>- smallpox -&gt; smallpox</p><p>- continued for centuries -&gt; không có thông tin</p><p><strong>Giải thích:</strong></p><p>Bài có nói bệnh đậu mùa ảnh hưởng đến cư dân đảo, nhưng không nói nó tiếp tục trong nhiều thế kỷ. Vì thiếu thông tin về thời lượng, không thể chọn YES hay NO.</p><p>Đáp án là <strong>NOT GIVEN</strong>.</p><p><strong>Dịch câu hỏi:</strong> Bệnh đậu mùa tiếp tục ảnh hưởng đến cư dân đảo Phục Sinh trong nhiều thế kỷ.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "có nhắc smallpox nhưng không nói kéo dài hàng thế kỷ"
+        }
+      ]
+    },
+    "q34": {
+      "explanation_html": "<p><strong>Answer: NO</strong></p><p><strong>Câu hỏi:</strong> It remains open to question whether Easter Island was once covered in forest.</p><p><strong>Vị trí thông tin:</strong> Đoạn 2.</p><p>_<strong>Câu chứa thông tin:</strong> There is no doubt that the island was once covered in palm trees._</p><p><strong>Keyword/paraphrase:</strong></p><p>- remains open to question -&gt; vẫn còn gây tranh cãi/chưa chắc chắn</p><p>- no doubt -&gt; không còn nghi ngờ</p><p><strong>Giải thích:</strong></p><p>Câu hỏi nói việc đảo từng có rừng hay không vẫn còn là vấn đề bỏ ngỏ. Bài lại nói <strong>There is no doubt</strong> rằng đảo từng được bao phủ bởi cây cọ.</p><p>Thông tin trái với câu hỏi, nên đáp án là <strong>NO</strong>.</p><p><strong>Dịch câu hỏi:</strong> Việc đảo Phục Sinh từng được bao phủ bởi rừng hay không vẫn còn là câu hỏi bỏ ngỏ.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "There is no doubt that the island was once covered in palm trees"
+        }
+      ]
+    },
+    "q35": {
+      "explanation_html": "<p><strong>Answer: YES</strong></p><p><strong>Câu hỏi:</strong> The way that rats arrived on Easter Island is still to be established.</p><p><strong>Vị trí thông tin:</strong> Đoạn 2.</p><p>_<strong>Câu chứa thông tin:</strong> It is an indisputable fact that rats found their way to the island, although exactly how is a matter of debate._</p><p><strong>Keyword/paraphrase:</strong></p><p>- way that rats arrived -&gt; exactly how</p><p>- still to be established -&gt; a matter of debate</p><p><strong>Giải thích:</strong></p><p>Bài khẳng định chuột đã đến đảo, nhưng cách chúng đến đảo vẫn còn đang tranh luận. Điều này khớp với câu hỏi.</p><p>Đáp án là <strong>YES</strong>.</p><p><strong>Dịch câu hỏi:</strong> Cách chuột đến đảo Phục Sinh vẫn chưa được xác định.</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "exactly how is a matter of debate"
+        }
+      ]
+    },
+    "q36": {
+      "explanation_html": "<p><strong>Answer: C</strong></p><p><strong>Câu hỏi:</strong> What does Jared Diamond blame for the lack of vegetation on Easter Island?</p><p><strong>Vị trí thông tin:</strong> Đoạn 3.</p><p>_<strong>Câu chứa thông tin:</strong> To move the statues from the island&#x27;s quarry... they needed to cut large logs for the construction of long &#x27;canoe ladders&#x27; to carry them to the coast. For its transport alone, each statue would have required several trees to be cut down._</p><p><strong>Phân tích lựa chọn:</strong></p><p>- A. The construction of stone statues: chưa chính xác bằng C, vì vấn đề trực tiếp là vận chuyển tượng.</p><p>- B. Climate change over a long period: đây là quan điểm của Hunt và Lipo, không phải Diamond.</p><p>- C. A method of transportation: đúng, vì Diamond nói phải chặt cây làm &quot;canoe ladders&quot; để vận chuyển tượng.</p><p>- D. The arrival of Europeans: Diamond nói đảo đã trên đường sụp đổ ngay cả khi không có tiếp xúc châu Âu.</p><p><strong>Giải thích:</strong></p><p>Theo Diamond, để đưa tượng từ mỏ đá ra bờ biển, người dân phải chặt các khúc gỗ lớn làm hệ thống vận chuyển. Việc vận chuyển mỗi tượng đã cần chặt nhiều cây. Vì vậy nguyên nhân trực tiếp ông nhấn mạnh là <strong>method of transportation</strong>.</p><p>Đáp án là <strong>C</strong>.</p><p><strong>Dịch câu hỏi:</strong> Jared Diamond đổ lỗi cho điều gì về việc đảo Phục Sinh thiếu thảm thực vật?</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "logs/canoe ladders used to transport statues"
+        }
+      ]
+    },
+    "q37": {
+      "explanation_html": "<p><strong>Answer: B</strong></p><p><strong>Câu hỏi:</strong> What do Hunt and Lipo suggest about the population of Easter Island?</p><p><strong>Vị trí thông tin:</strong> Đoạn 4.</p><p>_<strong>Câu chứa thông tin:</strong> They say the first people to arrive came around AD1200, about 400 years later than other scientists have suggested from radio-carbon dating._</p><p><strong>Phân tích lựa chọn:</strong></p><p>- A. It collapsed before European contact: trái với quan điểm của Hunt và Lipo.</p><p>- B. The first settlers arrived much later than is widely accepted: đúng.</p><p>- C. It never exceeded a few thousand inhabitants: bài không nói chắc chắn &quot;never exceeded&quot;.</p><p>- D. It declined mainly because of disease: bài có nhắc bệnh sau khi người châu Âu đến, nhưng trọng tâm câu hỏi là lập luận của Hunt và Lipo về thời điểm định cư/dân số.</p><p><strong>Giải thích:</strong></p><p>Hunt và Lipo cho rằng những người Polynesia đầu tiên đến đảo khoảng năm 1200, muộn hơn khoảng 400 năm so với nhiều nhà khoa học khác. Vì đến muộn hơn, dân số khó có thể tăng tới mức 15.000 như Diamond giả định.</p><p>Đáp án là <strong>B</strong>.</p><p><strong>Dịch câu hỏi:</strong> Hunt và Lipo gợi ý điều gì về dân số đảo Phục Sinh?</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "first people arrived around AD1200, 400 years later"
+        }
+      ]
+    },
+    "q38": {
+      "explanation_html": "<p><strong>Answer: A</strong></p><p><strong>Câu hỏi:</strong> What is suggested about rats on Easter Island in the fifth paragraph?</p><p><strong>Vị trí thông tin:</strong> Đoạn 5.</p><p>_<strong>Câu chứa thông tin:</strong> ...almost all of the palm seed shells discovered on the island were found to have been gnawed by rats which would have made them unable to germinate. Evidence from other Pacific islands also confirms how destructive rats can be._</p><p><strong>Phân tích lựa chọn:</strong></p><p>- A. They were a likely cause of deforestation: đúng.</p><p>- B. They arrived after the forests had disappeared: không đúng, bài không nói vậy.</p><p>- C. They had no effect on plant regeneration: trái với việc hạt không thể nảy mầm.</p><p>- D. They were introduced by Europeans: bài không nói chuột do người châu Âu đưa tới.</p><p><strong>Giải thích:</strong></p><p>Chuột gặm vỏ hạt cọ, làm hạt không thể nảy mầm. Nếu cây mới không mọc được, rừng khó phục hồi. Vì vậy đoạn 5 gợi ý chuột có thể là nguyên nhân quan trọng gây mất rừng.</p><p>Đáp án là <strong>A</strong>.</p><p><strong>Dịch câu hỏi:</strong> Đoạn 5 gợi ý điều gì về chuột trên đảo Phục Sinh?</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "palm seed shells gnawed by rats, unable to germinate"
+        }
+      ]
+    },
+    "q39": {
+      "explanation_html": "<p><strong>Answer: A</strong></p><p><strong>Câu hỏi:</strong> Flenley responds to Hunt and Lipo&#x27;s theory by...</p><p><strong>Vị trí thông tin:</strong> Đoạn 5.</p><p>_<strong>Câu chứa thông tin:</strong> He refutes the arguments of the sceptics... he maintains that Hunt and Lipo are ignoring archaeological, botanical and sedimentological evidence..._</p><p><strong>Phân tích lựa chọn:</strong></p><p>- A. dismissing it: đúng, vì <strong>refutes</strong> nghĩa là bác bỏ.</p><p>- B. partially supporting it: không đúng, ông chỉ thừa nhận người châu Âu có gây ra một số thảm họa nhưng vẫn bác lập luận chính của Hunt và Lipo.</p><p>- C. expanding on their arguments: không đúng.</p><p>- D. avoiding direct criticism: không đúng, ông chỉ trích trực tiếp rằng họ bỏ qua bằng chứng.</p><p><strong>Giải thích:</strong></p><p>Flenley <strong>refutes</strong> lập luận của Hunt và Lipo và nói họ đang bỏ qua nhiều loại bằng chứng. Đây là thái độ bác bỏ.</p><p>Đáp án là <strong>A</strong>.</p><p><strong>Dịch câu hỏi:</strong> Flenley phản hồi lý thuyết của Hunt và Lipo bằng cách...</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "refutes the arguments; ignoring evidence"
+        }
+      ]
+    },
+    "q40": {
+      "explanation_html": "<p><strong>Answer: B</strong></p><p><strong>Câu hỏi:</strong> The writer&#x27;s purpose in this article is to...</p><p><strong>Vị trí thông tin:</strong> Toàn bài.</p><p><strong>Phân tích lựa chọn:</strong></p><p>- A. argue in favour of Diamond&#x27;s interpretation: không đúng, vì bài cũng trình bày quan điểm phản biện của Hunt, Lipo và Flenley.</p><p>- B. provide an overview of a series of arguments: đúng.</p><p>- C. prove that rats were the main cause of deforestation: không đúng, bài chỉ trình bày chuột như một giả thuyết/nhân tố trong tranh luận.</p><p>- D. criticise modern archaeological methods: không đúng.</p><p><strong>Giải thích:</strong></p><p>Bài không đứng hẳn về một giả thuyết duy nhất. Tác giả lần lượt nêu bí ẩn ban đầu, giả thuyết ngoài hành tinh, lập luận của Jared Diamond, phản biện của Hunt và Lipo, rồi phản hồi của Flenley. Mục đích chính là cung cấp cái nhìn tổng quan về các lập luận khác nhau.</p><p>Đáp án là <strong>B</strong>.</p><p><strong>Dịch câu hỏi:</strong> Mục đích của tác giả trong bài viết này là...</p>",
+      "skill_tags": [],
+      "evidence": [
+        {
+          "source_ref": "p3",
+          "text": "presents debate and competing explanations"
+        }
+      ]
+    }
+  }
+}

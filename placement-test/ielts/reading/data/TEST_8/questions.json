@@ -1,0 +1,544 @@
+{
+  "schema_version": "saola.questions.v1",
+  "test_id": "vol_09_t8_rd",
+  "module": "reading",
+  "question_count": 40,
+  "question_groups": [
+    {
+      "group_id": "vol_09_t8_rd_p1_g1",
+      "passage_id": "p1",
+      "question_range": [
+        1,
+        7
+      ],
+      "question_type": "tfng",
+      "skill_tags": [
+        "rd_tfng"
+      ],
+      "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+      "items": [
+        {
+          "question_id": "q1",
+          "number": 1,
+          "prompt_html": "Many of the RFDS doctors work as volunteers."
+        },
+        {
+          "question_id": "q2",
+          "number": 2,
+          "prompt_html": "RFDS dentists make trips to outback communities each month."
+        },
+        {
+          "question_id": "q3",
+          "number": 3,
+          "prompt_html": "RFDS dentists are accompanied on their journeys to remote areas by a dental nurse."
+        },
+        {
+          "question_id": "q4",
+          "number": 4,
+          "prompt_html": "RFDS dentists must provide a wide range of dental services."
+        },
+        {
+          "question_id": "q5",
+          "number": 5,
+          "prompt_html": "Rural dental patients are more informed about oral hygiene than urban patients"
+        },
+        {
+          "question_id": "q6",
+          "number": 6,
+          "prompt_html": "RFDS dentists educate patients about good eating habits."
+        },
+        {
+          "question_id": "q7",
+          "number": 7,
+          "prompt_html": "Urban Australians generally have better teeth because their water is treated."
+        }
+      ],
+      "options": [
+        {
+          "label": "TRUE",
+          "text": "if the statement agrees with the information"
+        },
+        {
+          "label": "FALSE",
+          "text": "if the statement contradicts the information"
+        },
+        {
+          "label": "NOT GIVEN",
+          "text": "if there is no information on this"
+        }
+      ],
+      "prompt_html": ""
+    },
+    {
+      "group_id": "vol_09_t8_rd_p1_g2",
+      "passage_id": "p1",
+      "question_range": [
+        8,
+        13
+      ],
+      "question_type": "note_completion",
+      "skill_tags": [
+        "rd_comp_notes"
+      ],
+      "instruction": "Complete the notes below.<br/>Write ONE WORD ONLY from the passage for each answer.",
+      "items": [
+        {
+          "question_id": "q8",
+          "number": 8,
+          "prompt_html": "Question 8"
+        },
+        {
+          "question_id": "q9",
+          "number": 9,
+          "prompt_html": "Question 9"
+        },
+        {
+          "question_id": "q10",
+          "number": 10,
+          "prompt_html": "Question 10"
+        },
+        {
+          "question_id": "q11",
+          "number": 11,
+          "prompt_html": "Question 11"
+        },
+        {
+          "question_id": "q12",
+          "number": 12,
+          "prompt_html": "Question 12"
+        },
+        {
+          "question_id": "q13",
+          "number": 13,
+          "prompt_html": "Question 13"
+        }
+      ],
+      "prompt_html": "<p>Complete the notes below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p><b>Challenges faced by RFDS dentists</b><br>• need to bring equipment including &lt;blank data-qid=&quot;q8&quot;/&gt; for records<br>• aircraft used to carry equipment have restricted &lt;blank data-qid=&quot;q9&quot;/&gt;<br>• problems offering some services, e.g., fitting &lt;blank data-qid=&quot;q10&quot;/&gt;<br>• People in remote areas are more likely to have infection in their mouth</p><p><b>Products supplied by RFDS dentists</b><br>if necessary RFDS provides:<br>• &lt;blank data-qid=&quot;q11&quot;/&gt; and &lt;blank data-qid=&quot;q12&quot;/&gt; for regular use<br>• &lt;blank data-qid=&quot;q13&quot;/&gt; to limit dental accidents on the sports field.</p>"
+    },
+    {
+      "group_id": "vol_09_t8_rd_p2_g1",
+      "passage_id": "p2",
+      "question_range": [
+        14,
+        19
+      ],
+      "question_type": "matching_headings",
+      "skill_tags": [
+        "rd_match_headings",
+        "rd_main_idea"
+      ],
+      "instruction": "Reading Passage 2 has six paragraphs.<br/>Choose the correct heading for each paragraph from the list of headings below.<br/>Choose the correct number, i-viii , in boxes 14-19 .",
+      "items": [
+        {
+          "question_id": "q14",
+          "number": 14,
+          "prompt_html": "Paragraph A"
+        },
+        {
+          "question_id": "q15",
+          "number": 15,
+          "prompt_html": "Paragraph B"
+        },
+        {
+          "question_id": "q16",
+          "number": 16,
+          "prompt_html": "Paragraph C"
+        },
+        {
+          "question_id": "q17",
+          "number": 17,
+          "prompt_html": "Paragraph D"
+        },
+        {
+          "question_id": "q18",
+          "number": 18,
+          "prompt_html": "Paragraph E"
+        },
+        {
+          "question_id": "q19",
+          "number": 19,
+          "prompt_html": "Paragraph F"
+        }
+      ],
+      "options": [
+        {
+          "label": "i",
+          "text": "Interpreting the research behind who is participating in art activities"
+        },
+        {
+          "label": "ii",
+          "text": "How sales of artwork have increased in many countries"
+        },
+        {
+          "label": "iii",
+          "text": "Two opportunities for getting kids involved in art activities"
+        },
+        {
+          "label": "iv",
+          "text": "How art can be made accessible to the public"
+        },
+        {
+          "label": "v",
+          "text": "Developing a model to explain the lack of participation in art"
+        },
+        {
+          "label": "vi",
+          "text": "The connection between art and media"
+        },
+        {
+          "label": "vii",
+          "text": "How involvement with art affects well-being and attitudes"
+        },
+        {
+          "label": "viii",
+          "text": "How art makes communities safer and more vital"
+        }
+      ],
+      "prompt_html": ""
+    },
+    {
+      "group_id": "vol_09_t8_rd_p2_g2",
+      "passage_id": "p2",
+      "question_range": [
+        20,
+        23
+      ],
+      "question_type": "matching_features",
+      "skill_tags": [
+        "rd_match_features",
+        "rd_detail"
+      ],
+      "instruction": "Look at the following statements and the list of researchers below.<br/>Match each statement with the correct researcher, A-F .<br/><br/>List of Researchers<br/>A Spector<br/>B Oliphant<br/>C Riley<br/>D Hughes<br/>E Bradshaw<br/>F Yoshitomi",
+      "items": [
+        {
+          "question_id": "q20",
+          "number": 20,
+          "prompt_html": "Art activities can contribute to lowering negative incidents associated with juvenile crime."
+        },
+        {
+          "question_id": "q21",
+          "number": 21,
+          "prompt_html": "Art can bring money and visitors into a community ."
+        },
+        {
+          "question_id": "q22",
+          "number": 22,
+          "prompt_html": "Commercial interests are drawn to areas that emphasize public art."
+        },
+        {
+          "question_id": "q23",
+          "number": 23,
+          "prompt_html": "Art activities can both energize and calm people."
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Spector"
+        },
+        {
+          "label": "B",
+          "text": "Oliphant"
+        },
+        {
+          "label": "C",
+          "text": "Riley"
+        },
+        {
+          "label": "D",
+          "text": "Hughes"
+        },
+        {
+          "label": "E",
+          "text": "Bradshaw"
+        },
+        {
+          "label": "F",
+          "text": "Yoshitomi"
+        }
+      ],
+      "prompt_html": ""
+    },
+    {
+      "group_id": "vol_09_t8_rd_p2_g3",
+      "passage_id": "p2",
+      "question_range": [
+        24,
+        26
+      ],
+      "question_type": "sentence_completion",
+      "skill_tags": [
+        "rd_comp_sentence"
+      ],
+      "instruction": "Complete the sentences below.<br/>Write ONE WORD ONLY from the passage for each answer.",
+      "items": [
+        {
+          "question_id": "q24",
+          "number": 24,
+          "prompt_html": "Question 24"
+        },
+        {
+          "question_id": "q25",
+          "number": 25,
+          "prompt_html": "Question 25"
+        },
+        {
+          "question_id": "q26",
+          "number": 26,
+          "prompt_html": "Question 26"
+        }
+      ],
+      "prompt_html": "<p>Complete the sentences below.</p><p>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.</p><p>Sometimes people want to get involved in art activities but can&#x27;t afford it, can&#x27;t fit it into their schedule, or don&#x27;t have the suitable &lt;blank data-qid=&quot;q24&quot;/&gt; . <br>A noticeable correlation exists between art involvement in childhood and those in adulthood &lt;blank data-qid=&quot;q25&quot;/&gt; <br>The National Photography Program allows members to grow personally and also gain &lt;blank data-qid=&quot;q26&quot;/&gt; for their artistic achievements.</p>"
+    },
+    {
+      "group_id": "vol_09_t8_rd_p3_g1",
+      "passage_id": "p3",
+      "question_range": [
+        27,
+        31
+      ],
+      "question_type": "ynng",
+      "skill_tags": [
+        "rd_ynng"
+      ],
+      "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "items": [
+        {
+          "question_id": "q27",
+          "number": 27,
+          "prompt_html": "As expected, the artworks chosen for the exhibition reflect a narrow interpretation of landscape."
+        },
+        {
+          "question_id": "q28",
+          "number": 28,
+          "prompt_html": "The Academy rejected Australian suggestions for the subject of the exhibition."
+        },
+        {
+          "question_id": "q29",
+          "number": 29,
+          "prompt_html": "The colonial relationship meant that early Australian landscape painting followed the traditions of English landscape painting."
+        },
+        {
+          "question_id": "q30",
+          "number": 30,
+          "prompt_html": "The exhibition reflects the fact that Australian art developed its own particular qualities."
+        },
+        {
+          "question_id": "q31",
+          "number": 31,
+          "prompt_html": "Contemporary Australian artists have generally rejected British landscape traditions."
+        }
+      ],
+      "options": [
+        {
+          "label": "YES",
+          "text": "if the statement agrees with the writer's claims or views"
+        },
+        {
+          "label": "NO",
+          "text": "if the statement contradicts the writer's claims or views"
+        },
+        {
+          "label": "NOT GIVEN",
+          "text": "if it is impossible to say from the passage"
+        }
+      ],
+      "prompt_html": ""
+    },
+    {
+      "group_id": "vol_09_t8_rd_p3_g2",
+      "passage_id": "p3",
+      "question_range": [
+        32,
+        36
+      ],
+      "question_type": "mcq_single",
+      "skill_tags": [
+        "rd_mcq_single",
+        "rd_detail"
+      ],
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "question_id": "q32",
+          "number": 32,
+          "prompt_html": "What is the writer’s main point in the second paragraph?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Australian landscape painting derives from the British tradition."
+            },
+            {
+              "label": "B",
+              "text": "Australian landscape painting is more highly regarded than British."
+            },
+            {
+              "label": "C",
+              "text": "Britain is still imposing its principles on Australian art."
+            },
+            {
+              "label": "D",
+              "text": "British art cannot be compared to Australian art."
+            }
+          ]
+        },
+        {
+          "question_id": "q33",
+          "number": 33,
+          "prompt_html": "What does Joanna Mendelssohn find surprising?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Modern Australian landscape painting has great variety."
+            },
+            {
+              "label": "B",
+              "text": "The guidelines for the choice of work were very traditional."
+            },
+            {
+              "label": "C",
+              "text": "Landscape painting remains a popular subject for British artists."
+            },
+            {
+              "label": "D",
+              "text": "The British find the Australian landscape unsuitable as a subject."
+            }
+          ]
+        },
+        {
+          "question_id": "q34",
+          "number": 34,
+          "prompt_html": "Shaun Gladwell’s work is included in the exhibition because",
+          "options": [
+            {
+              "label": "A",
+              "text": "it adopts a subjective approach to depicting the landscape."
+            },
+            {
+              "label": "B",
+              "text": "skateboarding is an inspiration to many Australian artists."
+            },
+            {
+              "label": "C",
+              "text": "storms are a significant feature in the Australian landscape."
+            },
+            {
+              "label": "D",
+              "text": "Bondi is an iconic Australian location."
+            }
+          ]
+        },
+        {
+          "question_id": "q35",
+          "number": 35,
+          "prompt_html": "What was the reason for Soriano including Aboriginal art in the exhibition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is not well known in London art circles."
+            },
+            {
+              "label": "B",
+              "text": "Aboriginal landscape painting influenced Australian settlers."
+            },
+            {
+              "label": "C",
+              "text": "It is part of the Australian art tradition and not independent of it."
+            },
+            {
+              "label": "D",
+              "text": "Modern Aboriginal painting deals with changes to the landscape."
+            }
+          ]
+        },
+        {
+          "question_id": "q36",
+          "number": 36,
+          "prompt_html": "By referring to China, Mendelssohn is making the point that",
+          "options": [
+            {
+              "label": "A",
+              "text": "having an exhibition in London is not as important as it used to be."
+            },
+            {
+              "label": "B",
+              "text": "young artists in Britain are not interested in Australian art."
+            },
+            {
+              "label": "C",
+              "text": "art from Shanghai is more important than Australian art."
+            },
+            {
+              "label": "D",
+              "text": "New York is still a preferred destination for young artists."
+            }
+          ]
+        }
+      ],
+      "prompt_html": ""
+    },
+    {
+      "group_id": "vol_09_t8_rd_p3_g3",
+      "passage_id": "p3",
+      "question_range": [
+        37,
+        40
+      ],
+      "question_type": "matching_sentence_endings",
+      "skill_tags": [
+        "rd_match_sentence_endings",
+        "rd_cohesion"
+      ],
+      "instruction": "Complete each sentence with the correct ending, A-F , below.<br/><br/>List of endings<br/>A reflects the mood created by the natural environment.<br/>B demonstrates that the dominant art form in Australia is landscape painting.<br/>C demonstrates an understanding of the historical importance of the land.<br/>D showcases a very small number of artists.<br/>E demonstrates a strong European flavour.<br/>F shows an acceptance of the unique qualities of Australian art.",
+      "items": [
+        {
+          "question_id": "q37",
+          "number": 37,
+          "prompt_html": "In spite of its conservatism, the Royal Academy exhibition ..."
+        },
+        {
+          "question_id": "q38",
+          "number": 38,
+          "prompt_html": "Australian art of the early to mid-1800s ..."
+        },
+        {
+          "question_id": "q39",
+          "number": 39,
+          "prompt_html": "The modern work by Gladwell chosen for the exhibition ..."
+        },
+        {
+          "question_id": "q40",
+          "number": 40,
+          "prompt_html": "Including Aboriginal art in the exhibition ..."
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "reflects the mood created by the natural environment."
+        },
+        {
+          "label": "B",
+          "text": "demonstrates that the dominant art form in Australia is landscape painting."
+        },
+        {
+          "label": "C",
+          "text": "demonstrates an understanding of the historical importance of the land."
+        },
+        {
+          "label": "D",
+          "text": "showcases a very small number of artists."
+        },
+        {
+          "label": "E",
+          "text": "demonstrates a strong European flavour."
+        },
+        {
+          "label": "F",
+          "text": "shows an acceptance of the unique qualities of Australian art."
+        }
+      ],
+      "prompt_html": ""
+    }
+  ]
+}
