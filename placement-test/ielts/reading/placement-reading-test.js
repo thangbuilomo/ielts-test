@@ -1141,6 +1141,7 @@ function processFeedbackV2(feedback) {
       <div class="score-value">${score} / ${scoreMax}</div>
       <p>KÃ©o xuá»‘ng dÆ°á»›i hoáº·c nháº¥p vÃ o cÃ¡c Ã´ sá»‘ Ä‘á»ƒ xem Ä‘Ã¡p Ã¡n vÃ  giáº£i thÃ­ch.</p>
     </div>
+  `;
   scoreBox.querySelector('h2').textContent = 'Your Result';
   scoreBox.querySelector('p').textContent = 'Scroll down or use the numbered navigation to review answers and explanations.';
 
