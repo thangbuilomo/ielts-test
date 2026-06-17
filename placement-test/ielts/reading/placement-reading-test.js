@@ -1,6 +1,7 @@
 const GAS_URL = document.body.dataset.gasUrl || 'https://script.google.com/macros/s/AKfycbz6mSuAhOl6yIEfuYYLPUvi4LAjTOTwA0t3ik5MBi515I7twRBsWNLR-2apjRwqQgPbFw/exec';
 const POST_SUBMIT_DB_URL = 'https://raw.githubusercontent.com/thangbuilomo/audio-ielts/main/vault-9/explanation_key_database.json';
 const POST_SUBMIT_RAW_BASE = 'https://raw.githubusercontent.com/thangbuilomo/audio-ielts/main/vault-9';
+const ASSET_VERSION = '20260617-reading-test2-answers';
 
 const state = {
   testId: '',
@@ -52,10 +53,17 @@ function backendTestId() {
   return `Vol9_${MODULE_NAME}_${normalized}`;
 }
 
+function versionedLocalPath(path) {
+  const value = String(path || '');
+  if (!value || value.includes('?') || /^(?:https?:)?\/\//i.test(value)) return value;
+  return `${value}?v=${ASSET_VERSION}`;
+}
+
 async function fetchJson(path) {
-  const response = await fetch(path);
+  const url = versionedLocalPath(path);
+  const response = await fetch(url);
   if (!response.ok) {
-    throw new Error(`${path} (${response.status})`);
+    throw new Error(`${url} (${response.status})`);
   }
   return response.json();
 }
@@ -229,18 +237,45 @@ function getQuestionNumberFromGroup(group, qid) {
   return match ? Number(match[0]) : '';
 }
 
-function makeBlankInput(qid, number = '') {
+function getQuestionItemFromGroup(group, qid) {
+  return (group && Array.isArray(group.items))
+    ? group.items.find(item => getQuestionId(item) === qid)
+    : null;
+}
+
+function makeBlankInput(qid, number = '', group = null) {
   const label = number ? `Question ${number}` : 'Question';
   const badge = number ? `<span class="inline-question-badge">${escapeHtml(number)}</span>` : '';
-  return `<span class="inline-answer-anchor">${badge}<input type="text" class="blank-input inline-answer-input input-element" data-qid="${qid}" placeholder="${escapeHtml(label)}" aria-label="${escapeHtml(label)}" oninput="saveAnswer('${qid}', this.value, this)"></span>`;
+  const item = getQuestionItemFromGroup(group, qid);
+  const options = normalizeOptions((item && item.options) || (group && (group.options || group.choices)) || []);
+  const shouldUseSelect = options.length && (
+    (item && item.response_type === 'select')
+    || /(?:matching|labeling|summary_completion)/i.test(group && group.question_type || '')
+  );
+  if (shouldUseSelect) {
+    return `<span class="inline-answer-anchor" id="question-container-${qid}">${badge}<select class="matching-select inline-answer-select input-element" data-qid="${qid}" aria-label="${escapeHtml(label)}" onchange="saveAnswer('${qid}', this.value, this)">
+      <option value="">-- Select --</option>${buildOptionsHtml(options)}
+    </select></span>`;
+  }
+  return `<span class="inline-answer-anchor" id="question-container-${qid}">${badge}<input type="text" class="blank-input inline-answer-input input-element" data-qid="${qid}" placeholder="${escapeHtml(label)}" aria-label="${escapeHtml(label)}" oninput="saveAnswer('${qid}', this.value, this)"></span>`;
+}
+
+function getBlankQidsFromHtml(html) {
+  const source = String(html || '');
+  const qids = [];
+  source.replace(/(?:&lt;blank data-qid=&quot;([^&"]+)&quot;\/?&gt;|<blank data-qid="([^"]+)"\s*\/?>)/g, (_, encodedQid, rawQid) => {
+    qids.push(encodedQid || rawQid);
+    return _;
+  });
+  return qids;
 }
 
 function replaceBlankTags(html, group = null) {
   const assetBase = `data/${state.testId}/assets/`;
   return String(html || '')
     .replace(/(<(?:img|source)\b[^>]*\bsrc=["'])assets\//gi, `$1${assetBase}`)
-    .replace(/&lt;blank data-qid=&quot;([^&"]+)&quot;\/?&gt;/g, (_, qid) => makeBlankInput(qid, getQuestionNumberFromGroup(group, qid)))
-    .replace(/<blank data-qid="([^"]+)"\s*\/?>/g, (_, qid) => makeBlankInput(qid, getQuestionNumberFromGroup(group, qid)));
+    .replace(/&lt;blank data-qid=&quot;([^&"]+)&quot;\/?&gt;/g, (_, qid) => makeBlankInput(qid, getQuestionNumberFromGroup(group, qid), group))
+    .replace(/<blank data-qid="([^"]+)"\s*\/?>/g, (_, qid) => makeBlankInput(qid, getQuestionNumberFromGroup(group, qid), group));
 }
 
 function normalizeOptions(options) {
@@ -710,6 +745,7 @@ function renderQuestions() {
     }
 
     // Process <blank> tags in prompt_html
+    const promptBlankQids = new Set(getBlankQidsFromHtml(group.prompt_html));
     if (group.prompt_html) {
       let processedPrompt = replaceBlankTags(group.prompt_html, group);
       html += `<div class="prompt-box">${processedPrompt}</div>`;
@@ -730,6 +766,14 @@ function renderQuestions() {
     if (group.items && group.items.length > 0) {
       group.items.forEach(q => {
         const qid = getQuestionId(q);
+        if (promptBlankQids.has(qid)) {
+          const expDiv = document.createElement('div');
+          expDiv.id = `explanation-${qid}`;
+          expDiv.style.display = 'none';
+          groupBody.appendChild(expDiv);
+          return;
+        }
+
         const qDiv = document.createElement('div');
         qDiv.id = `question-container-${qid}`;
         qDiv.className = 'question-item';

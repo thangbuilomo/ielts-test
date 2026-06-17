@@ -250,7 +250,7 @@
       "options": [
         {
           "label": "A",
-          "text": "aesthetic B ethnographic C free D literal E pragmatic F word-for-word"
+          "text": "aesthetic"
         },
         {
           "label": "B",
@@ -287,7 +287,7 @@
         "rd_mcq_multi",
         "rd_detail"
       ],
-      "instruction": "Choose THREE correct answers.",
+      "instruction": "Choose <strong>THREE</strong> correct answers.<br/>Which <strong>THREE</strong> of the following points are mentioned by the writer of the passage?",
       "items": [
         {
           "question_id": "q24",
@@ -350,30 +350,52 @@
       "skill_tags": [
         "rd_comp_summary"
       ],
-      "instruction": "Complete the summary using the list of words and phrases, A-D , below.",
+      "instruction": "Complete the summary using the list of words and phrases, <strong>A-D</strong>, below.",
       "items": [
         {
           "question_id": "q27",
           "number": 27,
-          "prompt_html": "Question 27"
+          "prompt_html": "Question 27",
+          "response_type": "select"
         },
         {
           "question_id": "q28",
           "number": 28,
-          "prompt_html": "Question 28"
+          "prompt_html": "Question 28",
+          "response_type": "select"
         },
         {
           "question_id": "q29",
           "number": 29,
-          "prompt_html": "Question 29"
+          "prompt_html": "Question 29",
+          "response_type": "select"
         },
         {
           "question_id": "q30",
           "number": 30,
-          "prompt_html": "Question 30"
+          "prompt_html": "Question 30",
+          "response_type": "select"
         }
       ],
-      "prompt_html": "<p>Complete the summary using the list of words and phrases, <strong>A-D</strong> , below.</p><p>Early European reaction to the discovery of Easter Island</p><p>When Dutchman Jacob Roggeveen sailed to Easter Island in 1722, he was amazed by the stone statues he saw for a number of reasons. Firstly, it was clear that they were immensely heavy, and there was no &lt;blank data-qid=&quot;q27&quot;/&gt; around, which would have helped with their construction. Roggeveen did not think the inhabitants had any metal tools, or animals for heavy labour either. Another mystery was the poor quality of the local inhabitants&#x27; &lt;blank data-qid=&quot;q28&quot;/&gt;; Roggeveen wondered how the people had managed to survive long trips. At the time of Roggeveen&#x27;s visit, he observed that the people were living in &lt;blank data-qid=&quot;q29&quot;/&gt; and there was no evidence of successful &lt;blank data-qid=&quot;q30&quot;/&gt; on the island.</p><p><strong>A poverty</strong></p><p><strong>B agriculture</strong></p><p><strong>C boats</strong></p><p><strong>D wood</strong></p>"
+      "prompt_html": "<p>Complete the summary using the list of words and phrases, <strong>A-D</strong> , below.</p><p>Early European reaction to the discovery of Easter Island</p><p>When Dutchman Jacob Roggeveen sailed to Easter Island in 1722, he was amazed by the stone statues he saw for a number of reasons. Firstly, it was clear that they were immensely heavy, and there was no &lt;blank data-qid=&quot;q27&quot;/&gt; around, which would have helped with their construction. Roggeveen did not think the inhabitants had any metal tools, or animals for heavy labour either. Another mystery was the poor quality of the local inhabitants&#x27; &lt;blank data-qid=&quot;q28&quot;/&gt;; Roggeveen wondered how the people had managed to survive long trips. At the time of Roggeveen&#x27;s visit, he observed that the people were living in &lt;blank data-qid=&quot;q29&quot;/&gt; and there was no evidence of successful &lt;blank data-qid=&quot;q30&quot;/&gt; on the island.</p><p><strong>A poverty</strong></p><p><strong>B agriculture</strong></p><p><strong>C boats</strong></p><p><strong>D wood</strong></p>",
+      "options": [
+        {
+          "label": "A",
+          "text": "poverty"
+        },
+        {
+          "label": "B",
+          "text": "agriculture"
+        },
+        {
+          "label": "C",
+          "text": "boats"
+        },
+        {
+          "label": "D",
+          "text": "wood"
+        }
+      ]
     },
     {
       "group_id": "vol_09_t2_rd_p3_g2",
