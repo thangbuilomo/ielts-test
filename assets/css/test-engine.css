@@ -520,6 +520,29 @@ input[type="text"].inline-answer-input {
   white-space: nowrap;
 }
 
+.listening-table .inline-answer-anchor {
+  gap: 4px;
+  margin: 0 3px;
+  max-width: 100%;
+  vertical-align: baseline;
+}
+
+.listening-table .inline-question-badge {
+  min-width: 22px;
+  height: 22px;
+  padding: 0 5px;
+  font-size: 0.72rem;
+}
+
+.listening-table input[type="text"].inline-answer-input {
+  width: 96px !important;
+  min-width: 0 !important;
+  max-width: calc(100% - 30px);
+  min-height: 30px;
+  padding: 4px 6px;
+  font-size: 0.9rem;
+}
+
 select.inline-answer-select {
   min-width: 96px;
   min-height: 34px;
@@ -689,6 +712,10 @@ select.inline-answer-select {
   font-family: var(--display-font);
   font-size: 1.2rem;
   text-align: center;
+}
+
+.flowchart-task .option-bank {
+  margin: 0 0 20px;
 }
 
 .flowchart-task .flow-step {

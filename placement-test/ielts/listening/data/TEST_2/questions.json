@@ -226,38 +226,76 @@
       "skill_tags": [
         "ls_comp_flowchart"
       ],
-      "instruction": "Complete the flow-chart below.<br/>Choose <strong>FIVE</strong> answers from the box and write the correct letter, <strong>A–I</strong>.",
-      "prompt_html": "<p><strong>Questions 16–20</strong></p><p>Complete the flow-chart below.<br/>Choose <strong>FIVE</strong> answers from the box and write the correct letter, <strong>A–I</strong>.</p><p><strong>MAKING AN IRON AGE ROUNDHOUSE</strong></p><p>Mark centre of planned house with a 16 …………</p><p>↓</p><p>Mark out circle for outer boundary</p><p>↓</p><p>Dig ground using tools made from 17 ………..</p><p>↓</p><p>Insert wall posts (Iron Age builders preferred wood from oak trees)</p><p>↓</p><p>Slot more stakes into upright posts</p><p>↓</p><p>Insert centre post and build a wooden 18 …………  around it</p><p>↓</p><p>Add main supporting beams and ring beams</p><p>↓</p><p>Complete roof framework using 19 …………  wood rods</p><p>↓</p><p>Cover roof with reed bundles of 20 ………… lengths</p><p>↓</p><p>Daub with mixture of clay, dung and straw</p><p><strong>A  bone</strong></p><p><strong>B  different</strong></p><p><strong>C  equal</strong></p><p><strong>D  elm</strong></p><p><strong>E  hazel</strong></p><p><strong>F  iron</strong></p><p><strong>G  peg</strong></p><p><strong>H  roof</strong></p><p><strong>I  scaffold</strong></p>",
+      "instruction": "Complete the flow-chart below.<br/>Choose <strong>FIVE</strong> answers from the box and write the correct letter, <strong>A-I</strong>.",
+      "prompt_html": "<p><strong>Questions 16–20</strong></p><p>Complete the flow-chart below.<br/>Choose <strong>FIVE</strong> answers from the box and write the correct letter, <strong>A-I</strong>.</p><p><strong>MAKING AN IRON AGE ROUNDHOUSE</strong></p><p>Mark centre of planned house with a 16 …………</p><p>↓</p><p>Mark out circle for outer boundary</p><p>↓</p><p>Dig ground using tools made from 17 ………</p><p>↓</p><p>Insert wall posts (Iron Age builders preferred wood from oak trees)</p><p>↓</p><p>Slot more stakes into upright posts</p><p>↓</p><p>Insert centre post and build a wooden 18 ………… around it</p><p>↓</p><p>Add main supporting beams and ring beams</p><p>↓</p><p>Complete roof framework using 19 ………… wood rods</p><p>↓</p><p>Cover roof with reed bundles of 20 ………… lengths</p><p>↓</p><p>Daub with mixture of clay, dung and straw</p>",
       "items": [
         {
           "question_id": "q16",
           "number": 16,
-          "prompt_html": "<p>Choose <strong>FIVE</strong> correct answers from the box, <strong>A-I</strong> , next to questions <strong>16-20</strong> .</p>",
-          "response_type": "text"
+          "prompt_html": "<p>Mark centre of planned house with a 16 …………</p>",
+          "response_type": "select"
         },
         {
           "question_id": "q17",
           "number": 17,
-          "prompt_html": "<p>Dig ground using tools made from 17 ………..</p>",
-          "response_type": "text"
+          "prompt_html": "<p>Dig ground using tools made from 17 ………</p>",
+          "response_type": "select"
         },
         {
           "question_id": "q18",
           "number": 18,
-          "prompt_html": "<p>Insert centre post and build a wooden 18 …………  around it</p>",
-          "response_type": "text"
+          "prompt_html": "<p>Insert centre post and build a wooden 18 ………… around it</p>",
+          "response_type": "select"
         },
         {
           "question_id": "q19",
           "number": 19,
-          "prompt_html": "<p>Complete roof framework using 19 …………  wood rods</p>",
-          "response_type": "text"
+          "prompt_html": "<p>Complete roof framework using 19 ………… wood rods</p>",
+          "response_type": "select"
         },
         {
           "question_id": "q20",
           "number": 20,
-          "prompt_html": "<p>Choose <strong>FIVE</strong> correct answers from the box, <strong>A-I</strong> , next to questions <strong>16-20</strong> .</p>",
-          "response_type": "text"
+          "prompt_html": "<p>Cover roof with reed bundles of 20 ………… lengths</p>",
+          "response_type": "select"
+        }
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "bone"
+        },
+        {
+          "label": "B",
+          "text": "different"
+        },
+        {
+          "label": "C",
+          "text": "equal"
+        },
+        {
+          "label": "D",
+          "text": "elm"
+        },
+        {
+          "label": "E",
+          "text": "hazel"
+        },
+        {
+          "label": "F",
+          "text": "iron"
+        },
+        {
+          "label": "G",
+          "text": "peg"
+        },
+        {
+          "label": "H",
+          "text": "roof"
+        },
+        {
+          "label": "I",
+          "text": "scaffold"
         }
       ]
     },
@@ -376,37 +414,37 @@
         {
           "question_id": "q25",
           "number": 25,
-          "prompt_html": "<p><strong>25</strong> Introduction</p>",
+          "prompt_html": "<p>Introduction</p>",
           "response_type": "select"
         },
         {
           "question_id": "q26",
           "number": 26,
-          "prompt_html": "<p><strong>26</strong> Researcher profiles</p>",
+          "prompt_html": "<p>Researcher profiles</p>",
           "response_type": "select"
         },
         {
           "question_id": "q27",
           "number": 27,
-          "prompt_html": "<p><strong>27</strong> Section on automation</p>",
+          "prompt_html": "<p>Section on automation</p>",
           "response_type": "select"
         },
         {
           "question_id": "q28",
           "number": 28,
-          "prompt_html": "<p><strong>28</strong> Section on workplace structure</p>",
+          "prompt_html": "<p>Section on workplace structure</p>",
           "response_type": "select"
         },
         {
           "question_id": "q29",
           "number": 29,
-          "prompt_html": "<p><strong>29</strong> Section on tracking technology</p>",
+          "prompt_html": "<p>Section on tracking technology</p>",
           "response_type": "select"
         },
         {
           "question_id": "q30",
           "number": 30,
-          "prompt_html": "<p><strong>30</strong> Interview with company manager</p>",
+          "prompt_html": "<p>Interview with company manager</p>",
           "response_type": "select"
         }
       ],

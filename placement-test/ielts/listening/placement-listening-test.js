@@ -1,6 +1,7 @@
 const GAS_URL = document.body.dataset.gasUrl || 'https://script.google.com/macros/s/AKfycbz6mSuAhOl6yIEfuYYLPUvi4LAjTOTwA0t3ik5MBi515I7twRBsWNLR-2apjRwqQgPbFw/exec';
 const POST_SUBMIT_DB_URL = 'https://raw.githubusercontent.com/thangbuilomo/audio-ielts/main/vault-9/explanation_key_database.json';
 const POST_SUBMIT_RAW_BASE = 'https://raw.githubusercontent.com/thangbuilomo/audio-ielts/main/vault-9';
+const ASSET_VERSION = '20260617-listening-test2-layout';
 
 const state = {
   testId: '',
@@ -45,10 +46,17 @@ function backendTestId() {
   return `Vol9_${MODULE_NAME}_${normalized}`;
 }
 
+function versionedLocalPath(path) {
+  const value = String(path || '');
+  if (!value || value.includes('?') || /^(?:https?:)?\/\//i.test(value)) return value;
+  return `${value}?v=${ASSET_VERSION}`;
+}
+
 async function fetchJson(path) {
-  const response = await fetch(path);
+  const url = versionedLocalPath(path);
+  const response = await fetch(url);
   if (!response.ok) {
-    throw new Error(`${path} (${response.status})`);
+    throw new Error(`${url} (${response.status})`);
   }
   return response.json();
 }
@@ -696,7 +704,7 @@ function decorateFlowchart(promptEl) {
     }
 
     const strongText = paragraph.querySelector('strong')?.textContent.replace(/\s+/g, ' ').trim() || '';
-    if (strongText && strongText === strongText.toUpperCase() && !/^Questions?/i.test(strongText)) {
+    if (strongText && text === strongText && strongText === strongText.toUpperCase() && !/^Questions?/i.test(strongText)) {
       paragraph.classList.add('flow-title');
       inFlow = true;
       return;
@@ -712,6 +720,7 @@ function renderPromptDrivenGroup(group, groupBody) {
   const tempDiv = document.createElement('div');
   tempDiv.innerHTML = group.prompt_html || '';
   removeDuplicatePromptHeading(tempDiv);
+  const qType = group.question_type || '';
 
   if (isMapLetterChoiceGroup(group)) {
     renderMapLetterChoiceGroup(group, tempDiv, groupBody);
@@ -730,17 +739,25 @@ function renderPromptDrivenGroup(group, groupBody) {
   const promptBlock = document.createElement('div');
   promptBlock.innerHTML = html;
   decoratePromptContent(promptBlock, group);
-  groupBody.appendChild(promptBlock);
 
   const hasInlineOptionBank = Boolean(promptBlock.querySelector('.option-bank'));
+  let trailingOptionBank = null;
   if (options.length && !hasInlineOptionBank) {
     const bank = document.createElement('div');
     bank.className = 'option-bank';
     bank.innerHTML = options.map(option => (
       `<div class="option-bank-item"><strong>${escapeHtml(option.label)}</strong><span>${escapeHtml(option.text)}</span></div>`
     )).join('');
-    groupBody.appendChild(bank);
+    const flowTitle = qType.includes('flowchart') ? promptBlock.querySelector('.flow-title') : null;
+    if (flowTitle) {
+      promptBlock.insertBefore(bank, flowTitle);
+    } else {
+      trailingOptionBank = bank;
+    }
   }
+
+  groupBody.appendChild(promptBlock);
+  if (trailingOptionBank) groupBody.appendChild(trailingOptionBank);
 
   (group.items || []).forEach(item => {
     const qid = getQuestionId(item);
